@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+backend/.venv/
+backend/venv/
+backend/.env
+*.egg-info/
+dist/
+build/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Generated files (temp downloads)
+/tmp/investigador_files/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
