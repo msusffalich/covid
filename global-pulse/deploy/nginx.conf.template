@@ -1,0 +1,29 @@
+server {
+    listen ${PORT};
+    server_name _;
+    root /usr/share/nginx/html;
+    index index.html;
+
+    # SPA: cualquier ruta vuelve al shell
+    location / {
+        try_files $uri $uri/ /index.html;
+    }
+
+    # El service worker y el pulso NUNCA se cachean en el borde:
+    # el navegador decide (network-first en sw.js)
+    location = /sw.js {
+        add_header Cache-Control "no-cache";
+    }
+    location /data/ {
+        add_header Cache-Control "no-cache";
+        add_header Access-Control-Allow-Origin "*";
+    }
+
+    # Assets con hash: cache larga e inmutable
+    location /assets/ {
+        add_header Cache-Control "public, max-age=31536000, immutable";
+    }
+
+    gzip on;
+    gzip_types text/css application/javascript application/json image/svg+xml;
+}
