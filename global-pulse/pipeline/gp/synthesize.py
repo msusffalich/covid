@@ -66,14 +66,19 @@ def _actores(piezas: list[dict]) -> list[str]:
 
 
 def _impacto(cluster: dict) -> int:
-    """alcance (fuentes distintas) x novedad (constante en demo) x relevancia."""
+    """Alcance (fuentes distintas) + cobertura (piezas) + senal translingue.
+
+    Calibrado para discriminar en corpus reales (~900 piezas/dia): un evento
+    tipico puntua 30-60; solo la cobertura excepcional se acerca a 95.
+    """
     piezas = cluster["piezas"]
     fuentes = len({p["fuente_id"] for p in piezas})
     idiomas = len({p["idioma"] for p in piezas})
-    alcance = min(fuentes * 18, 55)
-    cobertura = min(len(piezas) * 8, 25)
-    translingue = 20 if idiomas > 1 else 8
-    return min(alcance + cobertura + translingue, 100)
+    alcance = min(fuentes * 9, 45)
+    cobertura = min(len(piezas) * 4, 24)
+    translingue = 16 if idiomas > 1 else 4
+    entidades = min(len(cluster.get("entidades", [])), 10)  # riqueza del evento
+    return min(alcance + cobertura + translingue + entidades, 95)
 
 
 def synth_heuristic(cluster: dict) -> dict:

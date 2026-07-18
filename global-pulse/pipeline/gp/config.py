@@ -105,8 +105,10 @@ MIN_CLUSTER_SIZE = 1          # piezas minimas para sintetizar un cluster
 MAX_NODES_PER_PULSE = 14      # nodos maximos publicados por dia
 IMPACT_THRESHOLD = 35         # impacto minimo para publicar
 PROMOTE_THRESHOLD = 60        # impacto minimo para promover a Obsidian
-CLUSTER_SIM_THRESHOLD = 0.32  # similitud TF-IDF minima intra-idioma
+CLUSTER_SIM_THRESHOLD = 0.32  # similitud TF-IDF minima intra-idioma (media)
 ENTITY_MERGE_JACCARD = 0.34   # fusion de clusters entre idiomas
+MAX_CLUSTER_PIECES = 12       # tope de piezas por cluster (evita bolas de nieve)
+MAX_REFS_PER_NODE = 12        # referencias maximas mostradas por nodo
 
 CATEGORIES = ["geopolitica", "economia", "ciencia", "clima", "tecnologia", "sociedad"]
 

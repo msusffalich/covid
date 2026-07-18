@@ -33,12 +33,13 @@ def run(nodes: list[dict], pieces: list[dict], log=print) -> list[dict]:
         else:
             node["estado"] = "sin_verificar"
             node["impacto"] = None
-        # Referencias legibles para la interfaz
+        # Referencias legibles para la interfaz (limitadas para no saturarla;
+        # la lista completa de ids queda en 'fuentes' y en la Capa 3)
         node["referencias"] = [
             {"id": r, "titulo": by_id[r]["titulo"], "url": by_id[r]["url"],
              "fuente": by_id[r]["fuente"], "fecha": by_id[r]["fecha_pub"],
              "idioma": by_id[r]["idioma"]}
-            for r in valid_refs
+            for r in valid_refs[:config.MAX_REFS_PER_NODE]
         ]
     verificados = sum(1 for n in nodes if n["estado"] == "verificado")
     log(f"  Verificados: {verificados}/{len(nodes)}")

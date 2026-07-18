@@ -3,7 +3,8 @@ import math
 import re
 from collections import Counter
 
-from .config import STOPWORDS, CLUSTER_SIM_THRESHOLD, ENTITY_MERGE_JACCARD
+from .config import (STOPWORDS, CLUSTER_SIM_THRESHOLD, ENTITY_MERGE_JACCARD,
+                     MAX_CLUSTER_PIECES)
 
 
 def _tokens(text: str) -> list[str]:
@@ -46,13 +47,20 @@ def _cos(a: dict, b: dict) -> float:
 
 
 def _cluster_lang(pieces: list[dict]) -> list[list[int]]:
-    """Agrupacion greedy por similitud coseno sobre TF-IDF."""
+    """Agrupacion greedy por similitud coseno sobre TF-IDF.
+
+    Se compara contra la similitud MEDIA con los miembros del cluster (no la
+    maxima) y se limita el tamano: evita el encadenamiento single-linkage que
+    produce mega-clusters con corpus grandes.
+    """
     vecs = _tfidf_vectors(pieces)
     clusters: list[list[int]] = []
     for i in range(len(pieces)):
         best, best_sim = None, CLUSTER_SIM_THRESHOLD
         for ci, cl in enumerate(clusters):
-            sim = max(_cos(vecs[i], vecs[j]) for j in cl)
+            if len(cl) >= MAX_CLUSTER_PIECES:
+                continue
+            sim = sum(_cos(vecs[i], vecs[j]) for j in cl) / len(cl)
             if sim >= best_sim:
                 best, best_sim = ci, sim
         if best is None:
@@ -83,14 +91,18 @@ def run(pieces: list[dict], log=print) -> list[dict]:
                 ents |= _entities(m)
             proto.append({"piezas": members, "entidades": ents})
 
-    # Fusion translingue: mismo evento cubierto en es y en
+    # Fusion translingue: mismo evento cubierto en es y en.
+    # Exige interseccion Y solapamiento proporcional, y respeta el tope de
+    # tamano: con corpus grandes la sola interseccion >=2 produce bolas de nieve.
     merged: list[dict] = []
     for c in proto:
         target = None
         for m in merged:
+            if len(m["piezas"]) + len(c["piezas"]) > MAX_CLUSTER_PIECES:
+                continue
             inter = c["entidades"] & m["entidades"]
-            if (len(inter) >= 2
-                    or _jaccard(c["entidades"], m["entidades"]) >= ENTITY_MERGE_JACCARD):
+            jac = _jaccard(c["entidades"], m["entidades"])
+            if (len(inter) >= 2 and jac >= 0.15) or jac >= ENTITY_MERGE_JACCARD:
                 target = m
                 break
         if target:
