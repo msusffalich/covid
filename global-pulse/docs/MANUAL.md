@@ -60,7 +60,20 @@ en el idioma activo, sin servicios externos.
 4. **Sin conexión:** se muestra el último pulso válido guardado. La fecha y
    hora de generación aparecen junto al botón.
 
-### 9. Nota sobre la demostración
+### 9. Exportar al segundo cerebro (Obsidian)
+Tres vías para alimentar tu bóveda:
+1. **Desde la app (pulso completo):** el botón **«⬇ Descargar notas Obsidian
+   (.md)»** junto a «Actualizar» descarga todas las notas del pulso en un
+   Markdown; guárdalo en tu bóveda.
+2. **Desde la app (nota individual):** en la ficha de cada nodo, **«⬇ Nota
+   Obsidian (.md)»** descarga esa nota con frontmatter PARA lista para
+   archivar en Recursos.
+3. **Automático (pipeline):** cada ciclo escribe las notas en
+   `global-pulse/data/vault/`. Define `GP_VAULT_DIR` con la ruta de tu bóveda
+   (`export GP_VAULT_DIR="/ruta/a/mi/boveda/GlobalPulse"`) para que el
+   pipeline las cree directamente dentro de ella.
+
+### 10. Nota sobre la demostración
 Si el pulso indica «demostración», los datos provienen de un conjunto fijo
 basado en cobertura pública documentada y las imágenes son ilustraciones
 generadas. En modo real, el sistema ingiere **más de 30 fuentes RSS gratuitas
@@ -120,7 +133,20 @@ active language, with no external services.
 4. **Offline:** the last stored valid pulse is shown. Generation date and time
    appear next to the button.
 
-### 9. About the demo
+### 9. Export to your second brain (Obsidian)
+Three ways to feed your vault:
+1. **From the app (full pulse):** the **"⬇ Download Obsidian notes (.md)"**
+   button next to "Refresh" downloads all pulse notes as one Markdown file;
+   save it into your vault.
+2. **From the app (single note):** inside each node card, **"⬇ Obsidian note
+   (.md)"** downloads that note with PARA frontmatter, ready to file under
+   Resources.
+3. **Automatic (pipeline):** each cycle writes notes to
+   `global-pulse/data/vault/`. Set `GP_VAULT_DIR` to your vault path
+   (`export GP_VAULT_DIR="/path/to/my/vault/GlobalPulse"`) so the pipeline
+   creates them directly inside it.
+
+### 10. About the demo
 If the pulse says "demo", data comes from a fixed set based on documented
 public coverage and images are generated illustrations. In live mode the
 system ingests **30+ free, reliable RSS sources** (BBC, DW, El País, The

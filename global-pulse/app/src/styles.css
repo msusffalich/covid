@@ -161,6 +161,9 @@ footer {
 
 /* ---- Fila de actualizacion ---- */
 .update-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
+.chip-btn.ghost { background: none; border: 1px solid var(--pulse-dk); color: var(--pulse); }
+.chip-btn.ghost:hover { background: var(--pulse-dk); color: #fff; }
+.detail-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 4px; }
 .update-row .chip-btn:disabled { opacity: 0.6; cursor: wait; }
 .updated-at { color: var(--muted); font-size: 0.8rem; }
 

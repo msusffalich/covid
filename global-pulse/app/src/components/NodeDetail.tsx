@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { useLang } from '../i18n'
 import { useSpeech } from '../useSpeech'
 import { CATEGORY_COLORS, type Nodo } from '../types'
+import { downloadMarkdown, noteForNode, slug } from '../markdown'
 
 interface Props {
   nodo: Nodo
@@ -41,13 +42,21 @@ export default function NodeDetail({ nodo, all, demo, onClose, onSelect }: Props
       <p className="meta-line">{nodo.fecha} · {t.region}: {nodo.geo.region}</p>
       <p className="sintesis">{nodo.sintesis[lang] || nodo.sintesis.es}</p>
 
-      {supported && (
-        <button className="chip-btn" onClick={() =>
-          speaking ? stop() : speak(
-            `${nodo.titulo[lang] || nodo.titulo.es}. ${nodo.sintesis[lang] || nodo.sintesis.es}`)}>
-          {speaking ? `■ ${t.stop}` : `🔊 ${t.readNode}`}
+      <div className="detail-actions">
+        {supported && (
+          <button className="chip-btn" onClick={() =>
+            speaking ? stop() : speak(
+              `${nodo.titulo[lang] || nodo.titulo.es}. ${nodo.sintesis[lang] || nodo.sintesis.es}`)}>
+            {speaking ? `■ ${t.stop}` : `🔊 ${t.readNode}`}
+          </button>
+        )}
+        <button className="chip-btn ghost" onClick={() =>
+          downloadMarkdown(
+            `${nodo.fecha}-${slug(nodo.titulo.es) || nodo.id}.md`,
+            noteForNode(nodo))}>
+          ⬇ {t.downloadNote}
         </button>
-      )}
+      </div>
 
       {visibleImgs.length > 0 && (
         <>

@@ -1,11 +1,15 @@
 """Configuracion central del pipeline Global Pulse."""
+import os
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 DATA_DIR = ROOT / "data"
 EVIDENCE_DIR = DATA_DIR / "evidence"
 APP_DATA_DIR = ROOT / "app" / "public" / "data"
-VAULT_DIR = DATA_DIR / "vault"          # notas Obsidian (PARA)
+# Notas Obsidian (PARA). Define GP_VAULT_DIR con la ruta de tu boveda para
+# que el pipeline escriba las notas directamente en tu segundo cerebro.
+VAULT_DIR = (Path(os.environ["GP_VAULT_DIR"])
+             if os.environ.get("GP_VAULT_DIR") else DATA_DIR / "vault")
 
 SCHEMA_VERSION = "1.1"
 

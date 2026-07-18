@@ -7,6 +7,7 @@ import Manual from './components/Manual'
 import { DICT, LangContext, detectLang, useLang } from './i18n'
 import { useSpeech } from './useSpeech'
 import { CATEGORY_COLORS, type Lang, type Pulse } from './types'
+import { downloadMarkdown, pulseDigest } from './markdown'
 
 type View = 'map' | 'graph' | 'list'
 
@@ -109,7 +110,14 @@ function Content() {
       <Header pulse={pulse} />
       <main>
         <section className="kpis">
-          <div className="kpi"><strong>{m.fecha}</strong><span>{t.pulseOf}</span></div>
+          <div className="kpi">
+            <strong>{new Date(m.generado).toLocaleDateString(
+              lang === 'es' ? 'es' : 'en-US',
+              { day: 'numeric', month: 'short', year: 'numeric' })}</strong>
+            <span>{t.pulseOf} · {new Date(m.generado).toLocaleTimeString(
+              lang === 'es' ? 'es' : 'en-US',
+              { hour: '2-digit', minute: '2-digit', hour12: false })} UTC</span>
+          </div>
           <div className="kpi"><strong>{nodos.length}</strong><span>{t.nodes}</span></div>
           <div className="kpi"><strong>{m.metricas.verificados}/{m.metricas.nodos}</strong>
             <span>{t.verified}</span></div>
@@ -123,6 +131,10 @@ function Content() {
           <button className="chip-btn" onClick={() => loadPulse(true)}
                   disabled={refreshing}>
             {refreshing ? t.refreshing : `⟳ ${t.refresh}`}
+          </button>
+          <button className="chip-btn ghost" onClick={() =>
+            downloadMarkdown(`global-pulse-${m.fecha}.md`, pulseDigest(pulse, lang))}>
+            ⬇ {t.downloadPulse}
           </button>
           <span className="updated-at">
             {t.updatedAt}: {new Date(m.generado).toLocaleString(
