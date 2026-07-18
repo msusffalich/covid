@@ -6,11 +6,12 @@ import { CATEGORY_COLORS, type Nodo } from '../types'
 interface Props {
   nodo: Nodo
   all: Nodo[]
+  demo?: boolean
   onClose: () => void
   onSelect: (id: string) => void
 }
 
-export default function NodeDetail({ nodo, all, onClose, onSelect }: Props) {
+export default function NodeDetail({ nodo, all, demo, onClose, onSelect }: Props) {
   const { lang, t } = useLang()
   const { speak, stop, speaking, supported } = useSpeech(lang)
   const [imgError, setImgError] = useState<Record<string, boolean>>({})
@@ -49,12 +50,15 @@ export default function NodeDetail({ nodo, all, onClose, onSelect }: Props) {
       )}
 
       {visibleImgs.length > 0 && (
-        <div className="img-row">
-          {visibleImgs.map((u) => (
-            <img key={u} src={u} alt="" loading="lazy"
-                 onError={() => setImgError((s) => ({ ...s, [u]: true }))} />
-          ))}
-        </div>
+        <>
+          <div className="img-row">
+            {visibleImgs.map((u) => (
+              <img key={u} src={u} alt={demo ? t.demoImg : ''} loading="lazy"
+                   onError={() => setImgError((s) => ({ ...s, [u]: true }))} />
+            ))}
+          </div>
+          {demo && <small className="img-caption">{t.demoImg}</small>}
+        </>
       )}
 
       {nodo.actores.length > 0 && (

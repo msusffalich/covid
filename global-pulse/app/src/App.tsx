@@ -1,7 +1,9 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import MapView from './components/MapView'
 import GraphView from './components/GraphView'
 import NodeDetail from './components/NodeDetail'
+import Legend from './components/Legend'
+import Manual from './components/Manual'
 import { DICT, LangContext, detectLang, useLang } from './i18n'
 import { useSpeech } from './useSpeech'
 import { CATEGORY_COLORS, type Lang, type Pulse } from './types'
@@ -57,17 +59,34 @@ function Content() {
   const { lang, t } = useLang()
   const [pulse, setPulse] = useState<Pulse | null>(null)
   const [error, setError] = useState(false)
+  const [refreshing, setRefreshing] = useState(false)
+  const [showManual, setShowManual] = useState(false)
   const [view, setView] = useState<View>('map')
   const [cat, setCat] = useState<string>('all')
   const [minImpact, setMinImpact] = useState(0)
   const [selected, setSelected] = useState<string | null>(null)
 
-  useEffect(() => {
-    fetch('./data/pulse-latest.json')
+  // Actualizacion de datos: al abrir, al volver a primer plano y bajo demanda
+  // (boton). El pulso en si se regenera una vez al dia por el pipeline.
+  const loadPulse = useCallback((force = false) => {
+    setRefreshing(true)
+    fetch('./data/pulse-latest.json', force ? { cache: 'reload' } : undefined)
       .then((r) => r.json())
-      .then(setPulse)
-      .catch(() => setError(true))
+      .then((p: Pulse) => { setPulse(p); setError(false) })
+      .catch(() => setPulse((prev) => { if (!prev) setError(true); return prev }))
+      .finally(() => setRefreshing(false))
   }, [])
+
+  useEffect(() => {
+    loadPulse()
+    const onVisible = () => document.visibilityState === 'visible' && loadPulse()
+    document.addEventListener('visibilitychange', onVisible)
+    window.addEventListener('focus', onVisible)
+    return () => {
+      document.removeEventListener('visibilitychange', onVisible)
+      window.removeEventListener('focus', onVisible)
+    }
+  }, [loadPulse])
 
   const nodos = useMemo(() => {
     if (!pulse) return []
@@ -94,8 +113,23 @@ function Content() {
           <div className="kpi"><strong>{nodos.length}</strong><span>{t.nodes}</span></div>
           <div className="kpi"><strong>{m.metricas.verificados}/{m.metricas.nodos}</strong>
             <span>{t.verified}</span></div>
-          <div className="kpi"><strong>{m.motor_sintesis}</strong><span>{t.engine}</span></div>
+          <div className="kpi">
+            <strong>{t.engineNames[m.motor_sintesis] ?? m.motor_sintesis}</strong>
+            <span>{t.engine}</span>
+          </div>
         </section>
+
+        <div className="update-row">
+          <button className="chip-btn" onClick={() => loadPulse(true)}
+                  disabled={refreshing}>
+            {refreshing ? t.refreshing : `⟳ ${t.refresh}`}
+          </button>
+          <span className="updated-at">
+            {t.updatedAt}: {new Date(m.generado).toLocaleString(
+              lang === 'es' ? 'es' : 'en-US',
+              { dateStyle: 'medium', timeStyle: 'short' })} UTC
+          </span>
+        </div>
 
         {m.modo === 'fixture' && <p className="demo-note">{t.demoNote}</p>}
 
@@ -147,13 +181,19 @@ function Content() {
           )}
         </section>
 
+        <Legend view={view} />
+
         {selNode && (
-          <NodeDetail nodo={selNode} all={pulse.nodos}
+          <NodeDetail nodo={selNode} all={pulse.nodos} demo={m.modo === 'fixture'}
                       onClose={() => setSelected(null)} onSelect={setSelected} />
         )}
+        {showManual && <Manual onClose={() => setShowManual(false)} />}
       </main>
       <footer>
         <span>Global Pulse · schema {m.schema} · {t.install}</span>
+        <button className="link-btn" onClick={() => setShowManual(true)}>
+          📖 {t.manual}
+        </button>
       </footer>
     </>
   )
