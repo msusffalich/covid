@@ -11,7 +11,7 @@ import { downloadMarkdown, pulseDigest } from './markdown'
 
 type View = 'map' | 'graph' | 'list'
 
-function Header({ pulse }: { pulse: Pulse | null }) {
+function Header({ pulse, onManual }: { pulse: Pulse | null; onManual: () => void }) {
   const { lang, setLang, t } = useLang()
   const { speak, stop, speaking, supported } = useSpeech(lang)
 
@@ -43,6 +43,10 @@ function Header({ pulse }: { pulse: Pulse | null }) {
             {speaking ? `■ ${t.stop}` : `🔊 ${t.listen}`}
           </button>
         )}
+        <button className="chip-btn ghost" onClick={onManual}
+                aria-label={t.manual} title={t.manual}>
+          📖 <span className="manual-word">{t.manual}</span>
+        </button>
         <div className="lang-toggle" role="group" aria-label="Idioma / Language">
           {(['es', 'en'] as Lang[]).map((l) => (
             <button key={l} className={lang === l ? 'on' : ''}
@@ -63,7 +67,7 @@ function Content() {
   const [refreshing, setRefreshing] = useState(false)
   const [showManual, setShowManual] = useState(false)
   const [view, setView] = useState<View>('map')
-  const [cat, setCat] = useState<string>('all')
+  const [catSel, setCatSel] = useState<string[]>([])   // vacio = todas
   const [minImpact, setMinImpact] = useState(0)
   const [selected, setSelected] = useState<string | null>(null)
 
@@ -92,9 +96,21 @@ function Content() {
   const nodos = useMemo(() => {
     if (!pulse) return []
     return pulse.nodos.filter((n) =>
-      (cat === 'all' || n.categoria === cat) &&
+      (catSel.length === 0 || catSel.includes(n.categoria)) &&
       (n.impacto ?? 0) >= minImpact)
-  }, [pulse, cat, minImpact])
+  }, [pulse, catSel, minImpact])
+
+  // Categorias presentes en el pulso del dia (dinamicas, no fijas)
+  const presentCats = useMemo(() => {
+    if (!pulse) return []
+    const present = new Set(pulse.nodos.map((n) => n.categoria))
+    return Object.keys(CATEGORY_COLORS).filter((c) => present.has(c))
+  }, [pulse])
+
+  const toggleCat = (c: string) =>
+    setCatSel((prev) => prev.includes(c)
+      ? prev.filter((x) => x !== c)
+      : [...prev, c])
 
   const selNode = nodos.find((n) => n.id === selected)
     ?? pulse?.nodos.find((n) => n.id === selected) ?? null
@@ -103,11 +119,10 @@ function Content() {
   if (!pulse) return <main className="center"><span className="pulse-dot big" /></main>
 
   const m = pulse.meta
-  const cats = Object.keys(CATEGORY_COLORS)
 
   return (
     <>
-      <Header pulse={pulse} />
+      <Header pulse={pulse} onManual={() => setShowManual(true)} />
       <main>
         <section className="kpis">
           <div className="kpi">
@@ -154,13 +169,22 @@ function Content() {
               </button>
             ))}
           </div>
-          <select value={cat} onChange={(e) => setCat(e.target.value)}
-                  aria-label={t.categories}>
-            <option value="all">{t.categories}: {t.all}</option>
-            {cats.map((c) => (
-              <option key={c} value={c}>{t.categoriesNames[c] ?? c}</option>
+          <div className="cat-chips" role="group" aria-label={t.categories}>
+            <button className={`fchip${catSel.length === 0 ? ' on' : ''}`}
+                    onClick={() => setCatSel([])}>
+              {t.all}
+            </button>
+            {presentCats.map((c) => (
+              <button key={c}
+                      className={`fchip${catSel.includes(c) ? ' on' : ''}`}
+                      aria-pressed={catSel.includes(c)}
+                      onClick={() => toggleCat(c)}>
+                <span className="cat-dot"
+                      style={{ background: CATEGORY_COLORS[c] }} />
+                {t.categoriesNames[c] ?? c}
+              </button>
             ))}
-          </select>
+          </div>
           <label className="impact-filter">
             {t.minImpact}: <strong>{minImpact}</strong>
             <input type="range" min={0} max={100} step={5} value={minImpact}

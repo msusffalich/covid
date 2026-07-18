@@ -159,6 +159,20 @@ footer {
 .refs a:hover { text-decoration: underline; }
 .refs code { display: block; color: var(--muted); font-size: 0.7rem; margin-top: 2px; }
 
+/* ---- Chips de categoria (filtro seleccionable) ---- */
+.cat-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.fchip {
+  display: inline-flex; align-items: center; gap: 6px;
+  background: var(--panel); color: var(--muted);
+  border: 1px solid var(--line); border-radius: 999px;
+  padding: 6px 13px; cursor: pointer; font-size: 0.8rem; font-weight: 600;
+}
+.fchip:hover { border-color: var(--pulse-dk); color: var(--text); }
+.fchip.on {
+  background: var(--pulse-dk); border-color: var(--pulse-dk); color: #fff;
+}
+@media (max-width: 760px) { .manual-word { display: none; } }
+
 /* ---- Fila de actualizacion ---- */
 .update-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 12px; }
 .chip-btn.ghost { background: none; border: 1px solid var(--pulse-dk); color: var(--pulse); }
