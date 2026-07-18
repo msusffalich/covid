@@ -1,0 +1,47 @@
+# Ciclo diario Global Pulse — orquestacion sin n8n.
+# Ejecuta el pipeline (modo live) cada dia a las 05:00 UTC y publica el pulso.
+name: global-pulse-daily
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Modo de ingesta"
+        default: "live"
+        type: choice
+        options: [live, fixture]
+
+permissions:
+  contents: write
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ejecutar ciclo (8 etapas)
+        working-directory: global-pulse/pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python orchestrator.py run --mode "${{ github.event.inputs.mode || 'live' }}" --synth auto
+
+      - name: Tests del pipeline
+        working-directory: global-pulse/pipeline
+        run: python -m tests.test_pipeline
+
+      - name: Publicar pulso (commit)
+        run: |
+          git config user.name "global-pulse-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add global-pulse/data global-pulse/app/public/data
+          git diff --cached --quiet && echo "Sin cambios" && exit 0
+          git commit -m "pulse: ciclo diario $(date -u +%F)"
+          git push

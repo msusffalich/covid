@@ -1,0 +1,429 @@
+{
+  "meta": {
+    "schema": "1.1",
+    "fecha": "2026-07-18",
+    "generado": "2026-07-18T15:49:21.373233+00:00",
+    "modo": "fixture",
+    "motor_sintesis": "heuristic",
+    "metricas": {
+      "piezas_ingeridas": 17,
+      "clusters": 8,
+      "nodos": 8,
+      "verificados": 8,
+      "duracion_s": 0.0
+    },
+    "descargo": "Datos de demostracion basados en cobertura publica; ejecutar en modo live para ingesta en tiempo real"
+  },
+  "nodos": [
+    {
+      "titulo": {
+        "es": "La cumbre COP30 de Belem deja compromisos reforzados para frenar la deforestacion",
+        "en": "COP30 summit in Belem ends with strengthened pledges to curb deforestation"
+      },
+      "sintesis": {
+        "es": "La conferencia climatica COP30, celebrada en Belem, en la Amazonia brasilena, concluyo con compromisos reforzados de financiacion para la proteccion de bosques tropicales y una hoja de ruta para acelerar la transicion energetica. Los observadores destacan avances en el fondo de bosques, aunque persisten las criticas por la brecha entre promesas y emisiones reales.",
+        "en": "The COP30 climate conference, held in Belem in the Brazilian Amazon, concluded with strengthened financing commitments for tropical forest protection and a roadmap to accelerate the energy transition. Observers highlight progress on the forest fund, though criticism persists over the gap between pledges and actual emissions."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Belem"
+      ],
+      "geo": {
+        "lat": -14.2,
+        "lon": -51.9,
+        "region": "Sudamerica"
+      },
+      "impacto": 98,
+      "fuentes": [
+        "ev_9024dba26f",
+        "ev_dbf72b7147",
+        "ev_bd91d79007"
+      ],
+      "cluster_id": "cl_002",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_9024dba26f",
+          "titulo": "La cumbre COP30 de Belem deja compromisos reforzados para frenar la deforestacion",
+          "url": "https://www.france24.com/es",
+          "fuente": "France 24 Espanol",
+          "fecha": "2025-11-21",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_dbf72b7147",
+          "titulo": "Belem cierra la COP30 con un fondo forestal dotado y dudas sobre su gobernanza",
+          "url": "https://www.dw.com/es",
+          "fuente": "DW Espanol",
+          "fecha": "2025-11-22",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_bd91d79007",
+          "titulo": "COP30 summit in Belem ends with strengthened pledges to curb deforestation",
+          "url": "https://www.theguardian.com/world",
+          "fuente": "The Guardian World",
+          "fecha": "2025-11-21",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-18_0000",
+      "fecha": "2026-07-18",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Putin y Zelensky mantienen abiertos los canales para una tregua supervisada",
+        "en": "Putin and Zelensky keep channels open as truce framework is explored"
+      },
+      "sintesis": {
+        "es": "Las delegaciones de Rusia y Ucrania mantienen contactos indirectos para explorar los terminos de un alto el fuego supervisado internacionalmente. Los mediadores subrayan que las posiciones siguen alejadas en materia territorial y de garantias de seguridad. La guerra, iniciada en 2022, continua marcando la agenda de seguridad europea.",
+        "en": "Delegations from Russia and Ukraine are holding indirect contacts to explore the terms of an internationally supervised ceasefire. Mediators stress that positions remain far apart on territory and security guarantees. The war, which began in 2022, continues to dominate Europe's security agenda."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Putin",
+        "Zelensky"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 72,
+      "fuentes": [
+        "ev_6c9a11f610",
+        "ev_8dac25ba4e"
+      ],
+      "cluster_id": "cl_000",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_6c9a11f610",
+          "titulo": "Putin y Zelensky mantienen abiertos los canales para una tregua supervisada",
+          "url": "https://www.bbc.com/mundo",
+          "fuente": "BBC Mundo",
+          "fecha": "2025-12-10",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_8dac25ba4e",
+          "titulo": "Putin and Zelensky keep channels open as truce framework is explored",
+          "url": "https://www.theguardian.com/world",
+          "fuente": "The Guardian World",
+          "fecha": "2025-12-10",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-18_0001",
+      "fecha": "2026-07-18",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "El alto el fuego entre Israel y Hamas en Gaza avanza entre obstaculos hacia su siguiente fase",
+        "en": "Gaza ceasefire between Israel and Hamas edges toward next phase despite obstacles"
+      },
+      "sintesis": {
+        "es": "El acuerdo de alto el fuego alcanzado en octubre de 2025 entre Israel y Hamas se mantiene en Gaza pese a incidentes aislados. Los mediadores de Egipto, Qatar y Estados Unidos negocian la implementacion de la siguiente fase, centrada en la gobernanza del enclave y la ayuda humanitaria a gran escala.",
+        "en": "The ceasefire agreement reached in October 2025 between Israel and Hamas is holding in Gaza despite isolated incidents. Mediators from Egypt, Qatar and the United States are negotiating the implementation of the next phase, focused on governance of the enclave and large-scale humanitarian aid."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Israel",
+        "Hamas",
+        "Gaza"
+      ],
+      "geo": {
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
+      },
+      "impacto": 72,
+      "fuentes": [
+        "ev_f884ffe4c6",
+        "ev_36f6a53f42"
+      ],
+      "cluster_id": "cl_001",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_f884ffe4c6",
+          "titulo": "El alto el fuego entre Israel y Hamas en Gaza avanza entre obstaculos hacia su siguiente fase",
+          "url": "https://www.dw.com/es",
+          "fuente": "DW Espanol",
+          "fecha": "2025-12-08",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_36f6a53f42",
+          "titulo": "Gaza ceasefire between Israel and Hamas edges toward next phase despite obstacles",
+          "url": "https://www.bbc.com/news/world",
+          "fuente": "BBC News World",
+          "fecha": "2025-12-08",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-18_0002",
+      "fecha": "2026-07-18",
+      "relaciones": [
+        "nd_2026-07-18_0006"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Tedros celebra la entrada en vigor del acuerdo de la OMS sobre pandemias tras la COVID",
+        "en": "Tedros hails ratification progress of WHO pandemic accord shaped by COVID lessons"
+      },
+      "sintesis": {
+        "es": "El acuerdo internacional sobre prevencion y preparacion ante pandemias, adoptado por la Asamblea Mundial de la Salud en mayo de 2025, avanza en su proceso de ratificacion. El director general Tedros Adhanom Ghebreyesus subrayo que el tratado corrige carencias de coordinacion evidenciadas por la COVID y refuerza el acceso equitativo a vacunas.",
+        "en": "The international agreement on pandemic prevention and preparedness, adopted by the World Health Assembly in May 2025, is advancing through ratification. Director-General Tedros Adhanom Ghebreyesus said the treaty fixes coordination gaps exposed by COVID and strengthens equitable access to vaccines."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Tedros",
+        "COVID",
+        "OMS",
+        "WHO"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 72,
+      "fuentes": [
+        "ev_d15ed648c8",
+        "ev_0fba1df939"
+      ],
+      "cluster_id": "cl_003",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d15ed648c8",
+          "titulo": "Tedros celebra la entrada en vigor del acuerdo de la OMS sobre pandemias tras la COVID",
+          "url": "https://www.bbc.com/mundo",
+          "fuente": "BBC Mundo",
+          "fecha": "2025-12-02",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_0fba1df939",
+          "titulo": "Tedros hails ratification progress of WHO pandemic accord shaped by COVID lessons",
+          "url": "https://www.dw.com/en",
+          "fuente": "DW English",
+          "fecha": "2025-12-02",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-18_0003",
+      "fecha": "2026-07-18",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Informe de la IEA: la solar lidera la mayor expansion renovable de la historia con China al frente",
+        "en": "IEA report: solar leads record renewable expansion with China far ahead"
+      },
+      "sintesis": {
+        "es": "La Agencia Internacional de la Energia (IEA) confirma que la energia solar fotovoltaica encabeza la mayor expansion de capacidad renovable registrada, con China concentrando la mayor parte de las nuevas instalaciones. El organismo preve que las renovables cubran una porcion creciente de la demanda electrica mundial durante esta decada.",
+        "en": "The International Energy Agency (IEA) confirms that solar photovoltaics is leading the largest renewable capacity expansion on record, with China accounting for most new installations. The agency expects renewables to cover a growing share of global electricity demand this decade."
+      },
+      "categoria": "clima",
+      "actores": [
+        "IEA",
+        "China",
+        "Informe"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 72,
+      "fuentes": [
+        "ev_b0c4e2926e",
+        "ev_b1ed5b2344"
+      ],
+      "cluster_id": "cl_004",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_b0c4e2926e",
+          "titulo": "Informe de la IEA: la solar lidera la mayor expansion renovable de la historia con China al frente",
+          "url": "https://www.france24.com/es",
+          "fuente": "France 24 Espanol",
+          "fecha": "2025-10-15",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_b1ed5b2344",
+          "titulo": "IEA report: solar leads record renewable expansion with China far ahead",
+          "url": "https://www.theguardian.com/world",
+          "fuente": "The Guardian World",
+          "fecha": "2025-10-15",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-18_0004",
+      "fecha": "2026-07-18",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "La UNESCO cierra el Ano Internacional de la Ciencia Cuantica a un siglo de Heisenberg",
+        "en": "UNESCO closes International Year of Quantum Science marking Heisenberg centenary"
+      },
+      "sintesis": {
+        "es": "El Ano Internacional de la Ciencia y la Tecnologia Cuanticas, proclamado por Naciones Unidas y coordinado por la UNESCO para 2025, conmemoro el centenario de la mecanica cuantica formulada por Heisenberg en 1925. La iniciativa impulso programas educativos en decenas de paises y visibilizo la carrera global por la computacion cuantica.",
+        "en": "The International Year of Quantum Science and Technology, proclaimed by the United Nations and coordinated by UNESCO for 2025, commemorated the centenary of quantum mechanics formulated by Heisenberg in 1925. The initiative drove educational programmes in dozens of countries and spotlighted the global race in quantum computing."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "UNESCO",
+        "Heisenberg",
+        "Ano Internacional",
+        "Ciencia Cuantica"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 72,
+      "fuentes": [
+        "ev_8381e0c5f1",
+        "ev_60e041a642"
+      ],
+      "cluster_id": "cl_005",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8381e0c5f1",
+          "titulo": "La UNESCO cierra el Ano Internacional de la Ciencia Cuantica a un siglo de Heisenberg",
+          "url": "https://www.dw.com/es",
+          "fuente": "DW Espanol",
+          "fecha": "2025-12-15",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_60e041a642",
+          "titulo": "UNESCO closes International Year of Quantum Science marking Heisenberg centenary",
+          "url": "https://www.bbc.com/news/world",
+          "fuente": "BBC News World",
+          "fecha": "2025-12-15",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-18_0005",
+      "fecha": "2026-07-18",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "TSMC y Nvidia elevan la inversion global en chips para inteligencia artificial a niveles record",
+        "en": "TSMC and Nvidia push global AI chip investment to record levels"
+      },
+      "sintesis": {
+        "es": "Los fabricantes de semiconductores encabezados por TSMC y los disenadores como Nvidia sostienen un ciclo de inversion sin precedentes en capacidad de fabricacion de chips para inteligencia artificial. Gobiernos de Estados Unidos, Europa y Asia compiten con subsidios para atraer plantas y asegurar sus cadenas de suministro.",
+        "en": "Semiconductor manufacturers led by TSMC and designers such as Nvidia are sustaining an unprecedented investment cycle in AI chip fabrication capacity. Governments in the United States, Europe and Asia are competing with subsidies to attract plants and secure supply chains."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "TSMC",
+        "Nvidia"
+      ],
+      "geo": {
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
+      },
+      "impacto": 72,
+      "fuentes": [
+        "ev_04ab58e7b2",
+        "ev_dc3dfc97d1"
+      ],
+      "cluster_id": "cl_006",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_04ab58e7b2",
+          "titulo": "TSMC y Nvidia elevan la inversion global en chips para inteligencia artificial a niveles record",
+          "url": "https://www.bbc.com/mundo",
+          "fuente": "BBC Mundo",
+          "fecha": "2025-11-30",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_dc3dfc97d1",
+          "titulo": "TSMC and Nvidia push global AI chip investment to record levels",
+          "url": "https://www.dw.com/en",
+          "fuente": "DW English",
+          "fecha": "2025-11-30",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-18_0006",
+      "fecha": "2026-07-18",
+      "relaciones": [
+        "nd_2026-07-18_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Copernicus situa 2025 entre los anos mas calidos y aleja la meta de Paris",
+        "en": "Copernicus ranks 2025 among warmest years as Paris goal slips further"
+      },
+      "sintesis": {
+        "es": "El servicio europeo Copernicus confirma que 2025 se situa entre los anos mas calidos jamas registrados, en linea con la tendencia de la ultima decada. Los cientificos advierten de que el objetivo de 1,5 grados del Acuerdo de Paris exige recortes de emisiones mucho mas rapidos que los actuales.",
+        "en": "Europe's Copernicus service confirms that 2025 ranks among the warmest years on record, in line with the past decade's trend. Scientists warn that the 1.5-degree goal of the Paris Agreement requires much faster emission cuts than current ones."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Copernicus",
+        "Paris"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 72,
+      "fuentes": [
+        "ev_fec56245f8",
+        "ev_0f9a2d23cd"
+      ],
+      "cluster_id": "cl_007",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_fec56245f8",
+          "titulo": "Copernicus situa 2025 entre los anos mas calidos y aleja la meta de Paris",
+          "url": "https://www.france24.com/es",
+          "fuente": "France 24 Espanol",
+          "fecha": "2025-12-09",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_0f9a2d23cd",
+          "titulo": "Copernicus ranks 2025 among warmest years as Paris goal slips further",
+          "url": "https://www.theguardian.com/world",
+          "fuente": "The Guardian World",
+          "fecha": "2025-12-09",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-18_0007",
+      "fecha": "2026-07-18",
+      "relaciones": []
+    }
+  ]
+}
