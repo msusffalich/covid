@@ -44,4 +44,5 @@ jobs:
           git add global-pulse/data global-pulse/app/public/data
           git diff --cached --quiet && echo "Sin cambios" && exit 0
           git commit -m "pulse: ciclo diario $(date -u +%F)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push

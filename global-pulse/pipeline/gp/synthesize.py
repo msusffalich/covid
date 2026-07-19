@@ -140,12 +140,21 @@ def run(clusters: list[dict], mode: str = "auto", log=print) -> list[dict]:
     if mode == "auto":
         mode = "api" if api_key else "heuristic"
     log(f"[5/8] Sintesis (motor {mode})")
+    # En modo api solo los clusters con mas potencial van al LLM: el pulso
+    # publica el top-N, asi que sintetizar los ~600 clusters seria pagar y
+    # esperar por nodos que nunca se publican. El resto usa el heuristico.
+    api_ids: set = set()
+    if mode == "api":
+        ranked = sorted(clusters, key=_impacto, reverse=True)
+        api_ids = {c["cluster_id"] for c in ranked[:config.MAX_API_CLUSTERS]}
+        log(f"  LLM para los {len(api_ids)} clusters de mayor potencial; "
+            f"heuristico para los {max(0, len(clusters) - len(api_ids))} restantes")
     nodes = []
     for cl in clusters:
         if len(cl["piezas"]) < config.MIN_CLUSTER_SIZE:
             continue
         node = None
-        if mode == "api":
+        if mode == "api" and cl["cluster_id"] in api_ids:
             try:
                 node = synth_api(cl, api_key)
                 if not validate_node_shape(node):   # reintento unico

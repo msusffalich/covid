@@ -110,6 +110,7 @@ CLUSTER_SIM_THRESHOLD = 0.32  # similitud TF-IDF minima intra-idioma (media)
 ENTITY_MERGE_JACCARD = 0.34   # fusion de clusters entre idiomas
 MAX_CLUSTER_PIECES = 12       # tope de piezas por cluster (evita bolas de nieve)
 MAX_REFS_PER_NODE = 12        # referencias maximas mostradas por nodo
+MAX_API_CLUSTERS = 40         # solo los N clusters con mas potencial van al LLM
 
 CATEGORIES = ["geopolitica", "economia", "ciencia", "clima", "tecnologia",
               "innovacion", "salud", "sociedad"]
