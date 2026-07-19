@@ -73,7 +73,7 @@ def test_pulse_schema():
     for n in pulse["nodos"]:
         for field in ("id", "titulo", "sintesis", "categoria", "actores",
                       "geo", "impacto", "relaciones", "fuentes", "imagenes",
-                      "estado", "fecha", "referencias"):
+                      "estado", "fecha", "referencias", "kardashev"):
             assert field in n, f"falta campo {field} en {n.get('id')}"
         assert n["categoria"] in config.CATEGORIES
         assert n["id"].startswith("nd_")

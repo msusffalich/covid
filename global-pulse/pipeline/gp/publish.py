@@ -33,9 +33,11 @@ def run(nodes: list[dict], mode: str, engine: str, metrics: dict,
     publicables.sort(key=lambda n: (n.get("impacto") or 0), reverse=True)
     publicables = publicables[:config.MAX_NODES_PER_PULSE]
 
+    from .brain import classify_kardashev
     for i, n in enumerate(publicables):
         n["id"] = f"nd_{fecha}_{i:04d}"
         n["fecha"] = fecha
+        n["kardashev"] = classify_kardashev(n)   # escala civilizatoria K0-K3
     _relaciones(publicables)
 
     pulse = {

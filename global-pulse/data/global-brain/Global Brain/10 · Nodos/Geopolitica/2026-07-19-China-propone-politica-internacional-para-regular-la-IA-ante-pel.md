@@ -6,7 +6,7 @@ categoria: geopolitica
 impacto: 89
 kardashev: K1
 actores: [China, Trump, Midterms, Just]
-fuentes: [ev_72cfdac7a0, ev_4a83a2ba6e, ev_f861cca023, ev_99255c0746, ev_7670d3a7e8, ev_2859bf3623, ev_37306159ed, ev_cfad58ea6f]
+fuentes: [ev_4a83a2ba6e, ev_72cfdac7a0, ev_99255c0746, ev_b4709b9d26, ev_f861cca023, ev_cfad58ea6f, ev_2859bf3623, ev_852c462b2a, ev_7670d3a7e8, ev_37306159ed]
 estado: verificado
 para: Recursos
 origen: global-pulse
@@ -25,11 +25,13 @@ President Donald Trump declassified intelligence on Thursday that he said in a p
 [[China]] · [[Trump]] · [[Midterms]] · [[Just]]
 
 ## Referencias (Capa 3)
-- [El Pais Internacional](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html) — Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota
 - [El Pais Internacional](https://elpais.com/internacional/2026-07-17/china-tacha-de-invenciones-las-acusaciones-de-trump-sobre-su-supuesta-injerencia-en-las-elecciones-de-2020.html) — China tacha de “invenciones” las acusaciones de Trump sobre su supuesta injerencia en las elecciones de 2020
-- [RFI Espanol](https://www.rfi.fr/es/am%C3%A9ricas/20260717-china-acusaciones-de-trump-de-injerencia-en-elecciones-de-ee-uu-son-puras-invenciones) — China: acusaciones de Trump de injerencia en elecciones de EE.UU. son “puras invenciones”
+- [El Pais Internacional](https://elpais.com/internacional/2026-07-17/trump-resucita-en-un-discurso-a-la-nacion-el-bulo-del-fraude-electoral-de-2020-y-acusa-a-china-de-influir-en-su-derrota.html) — Trump resucita en un discurso a la nación el bulo del fraude electoral de 2020 y exagera la influencia de China en su derrota
 - [RFI Espanol](https://www.rfi.fr/es/asia-pacifico/20260717-china-propone-pol%C3%ADtica-internacional-para-regular-la-ia-ante-peligro-de-p%C3%A9rdida-de-control) — China propone política internacional para regular la IA ante peligro de “pérdida de control”
-- [BBC News World](https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss) — Trump alleges China meddled in 2020 election and questions voting security ahead of midterms
-- [Euronews English](http://www.euronews.com/2026/07/17/china-rejects-trumps-election-interference-accusations-as-groundless) — China rejects Trump's election interference accusations as 'groundless'
-- [The Independent World](https://www.independent.co.uk/news/world/americas/us-politics/trump-china-midterms-conspiracy-election-interference-b3017339.html) — Trump’s China conspiracy is all about the Midterms. Just not in the way you’d think
+- [Euronews Espanol](http://es.euronews.com/2026/07/17/china-califica-las-acusaciones-de-trump-de-injerencia-electoral-como-infundadas) — China califica las acusaciones de Trump de injerencia electoral como "infundadas"
+- [RFI Espanol](https://www.rfi.fr/es/am%C3%A9ricas/20260717-china-acusaciones-de-trump-de-injerencia-en-elecciones-de-ee-uu-son-puras-invenciones) — China: acusaciones de Trump de injerencia en elecciones de EE.UU. son “puras invenciones”
 - [CBC World](https://www.cbc.ca/news/world/trump-primetime-address-election-security-china-9.7273603?cmp=rss) — Trump accuses China of interfering in 2020 U.S. election during televised address
+- [Euronews English](http://www.euronews.com/2026/07/17/china-rejects-trumps-election-interference-accusations-as-groundless) — China rejects Trump's election interference accusations as 'groundless'
+- [ABC News Australia](https://www.abc.net.au/news/2026-07-18/china-stockpiles-of-beef-as-tariffs-kick-in-for-australian-meat/106914748) — China has stockpiled 'huge quantities' of frozen beef for this moment
+- [BBC News World](https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss) — Trump alleges China meddled in 2020 election and questions voting security ahead of midterms
+- [The Independent World](https://www.independent.co.uk/news/world/americas/us-politics/trump-china-midterms-conspiracy-election-interference-b3017339.html) — Trump’s China conspiracy is all about the Midterms. Just not in the way you’d think
