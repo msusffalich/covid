@@ -116,8 +116,14 @@ def synth_api(cluster: dict, api_key: str) -> dict:
         config.ANTHROPIC_URL, data=json.dumps(payload).encode(),
         headers={"content-type": "application/json", "x-api-key": api_key,
                  "anthropic-version": "2023-06-01"})
-    with urllib.request.urlopen(req, timeout=90) as r:
-        resp = json.loads(r.read())
+    try:
+        with urllib.request.urlopen(req, timeout=90) as r:
+            resp = json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        # Superficie el mensaje real de la API (p. ej. credito insuficiente,
+        # modelo invalido) en lugar de un 400 opaco.
+        detail = e.read().decode("utf-8", "replace")[:300]
+        raise RuntimeError(f"HTTP {e.code}: {detail}") from None
     text = resp["content"][0]["text"]
     m = re.search(r"\{.*\}", text, re.S)
     return json.loads(m.group(0))
@@ -150,17 +156,23 @@ def run(clusters: list[dict], mode: str = "auto", log=print) -> list[dict]:
         log(f"  LLM para los {len(api_ids)} clusters de mayor potencial; "
             f"heuristico para los {max(0, len(clusters) - len(api_ids))} restantes")
     nodes = []
+    api_errors = 0
     for cl in clusters:
         if len(cl["piezas"]) < config.MIN_CLUSTER_SIZE:
             continue
         node = None
-        if mode == "api" and cl["cluster_id"] in api_ids:
+        if mode == "api" and cl["cluster_id"] in api_ids and api_errors < 3:
             try:
                 node = synth_api(cl, api_key)
                 if not validate_node_shape(node):   # reintento unico
                     node = synth_api(cl, api_key)
+                api_errors = 0
             except Exception as e:
+                api_errors += 1
                 log(f"  API fallo en {cl['cluster_id']}: {e} -> heuristico")
+                if api_errors >= 3:
+                    log("  3 fallos consecutivos de la API: se desactiva el LLM "
+                        "para el resto del ciclo (revisar clave/credito)")
                 node = None
         if node is None or not validate_node_shape(node):
             node = synth_heuristic(cl)
