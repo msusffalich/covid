@@ -1,9 +1,73 @@
 """Etapa 7 — Publicacion: pulse-YYYYMMDD.json + relaciones + copia a la app."""
 import json
+import re
 import shutil
+import unicodedata
 from datetime import datetime, timezone
 
 from . import config
+
+MAX_PER_CATEGORY = 4   # cuota de diversidad en el pulso publicado
+
+
+def _fold_tokens(text: str) -> set[str]:
+    text = unicodedata.normalize("NFKD", text.lower())
+    text = "".join(c for c in text if not unicodedata.combining(c))
+    return {t for t in re.findall(r"[a-z0-9]{4,}", text)}
+
+
+def _same_event(a: dict, b: dict) -> bool:
+    """Dos nodos son el mismo macro-evento si comparten actores o titulos."""
+    act_a = {x.lower() for x in a.get("actores", [])}
+    act_b = {x.lower() for x in b.get("actores", [])}
+    if len(act_a & act_b) >= 2:
+        return True
+    ta, tb = _fold_tokens(a["titulo"]["es"]), _fold_tokens(b["titulo"]["es"])
+    if not ta or not tb:
+        return False
+    return len(ta & tb) / len(ta | tb) >= 0.45
+
+
+def _dedupe(nodes: list[dict], log) -> list[dict]:
+    """Fusiona nodos duplicados (mismo evento partido en varios clusters):
+    conserva el de mayor impacto y absorbe fuentes/imagenes del resto."""
+    nodes = sorted(nodes, key=lambda n: (n.get("impacto") or 0), reverse=True)
+    kept: list[dict] = []
+    merged = 0
+    for n in nodes:
+        dup = next((k for k in kept if _same_event(k, n)), None)
+        if dup is None:
+            kept.append(n)
+            continue
+        merged += 1
+        dup["fuentes"] = list(dict.fromkeys(dup["fuentes"] + n["fuentes"]))
+        dup["imagenes"] = list(dict.fromkeys(
+            dup.get("imagenes", []) + n.get("imagenes", [])))[:4]
+        dup["referencias"] = (dup.get("referencias", [])
+                              + n.get("referencias", []))[:config.MAX_REFS_PER_NODE]
+    if merged:
+        log(f"  Duplicados fusionados: {merged}")
+    return kept
+
+
+def _diverse_top(nodes: list[dict], limit: int) -> list[dict]:
+    """Top por impacto con cuota por categoria; el remanente se llena por
+    impacto puro si no alcanzan las categorias minoritarias."""
+    nodes = sorted(nodes, key=lambda n: (n.get("impacto") or 0), reverse=True)
+    picked, counts = [], {}
+    for n in nodes:
+        if len(picked) >= limit:
+            break
+        if counts.get(n["categoria"], 0) >= MAX_PER_CATEGORY:
+            continue
+        picked.append(n)
+        counts[n["categoria"]] = counts.get(n["categoria"], 0) + 1
+    for n in nodes:                      # relleno si quedaron huecos
+        if len(picked) >= limit:
+            break
+        if n not in picked:
+            picked.append(n)
+    return picked
 
 
 def _relaciones(nodes: list[dict]) -> None:
@@ -30,8 +94,8 @@ def run(nodes: list[dict], mode: str, engine: str, metrics: dict,
     publicables = [n for n in nodes
                    if n["estado"] == "sin_verificar"
                    or (n.get("impacto") or 0) >= config.IMPACT_THRESHOLD]
-    publicables.sort(key=lambda n: (n.get("impacto") or 0), reverse=True)
-    publicables = publicables[:config.MAX_NODES_PER_PULSE]
+    publicables = _dedupe(publicables, log)
+    publicables = _diverse_top(publicables, config.MAX_NODES_PER_PULSE)
 
     from .brain import classify_kardashev
     for i, n in enumerate(publicables):

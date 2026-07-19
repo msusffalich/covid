@@ -23,12 +23,21 @@ def content_hash(piece: dict) -> str:
     return "ev_" + hashlib.sha256(basis.encode("utf-8")).hexdigest()[:10]
 
 
+_DIGEST_RE = re.compile(
+    r"(las noticias del|noticias del d[ií]a|resumen del d[ií]a|"
+    r"lo que hay que saber|what to know|news of the day|morning briefing|"
+    r"evening briefing|the papers|in pictures|en im[aá]genes|news quiz)",
+    re.IGNORECASE)
+
+
 def normalize(pieces: list[dict], log=print) -> list[dict]:
     log("[2/8] Normalizacion")
     out = []
     for p in pieces:
         titulo = _clean(p.get("titulo", ""))
         if len(titulo) < 12:          # descarta restos sin contenido
+            continue
+        if _DIGEST_RE.search(titulo):  # boletines-resumen: mezclan historias
             continue
         q = {
             "titulo": titulo,

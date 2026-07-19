@@ -54,14 +54,23 @@ def _geo(text: str):
     return {"lat": 0.0, "lon": 0.0, "region": "Global"}, None
 
 
+_ACTOR_JUNK = {"just", "why", "what", "how", "when", "who", "news", "ceo",
+               "explican", "explained", "midterms", "live", "watch", "video",
+               "opinion", "analysis", "analisis", "update", "breaking"}
+
+
 def _actores(piezas: list[dict]) -> list[str]:
     from collections import Counter
     c = Counter()
     for p in piezas:
         for w in re.findall(r"\b[A-Z][a-zA-Z]{2,}(?:\s+[A-Z][a-zA-Z]{2,})?\b",
                             p["titulo"]):
-            if w.lower() not in config.STOPWORDS:
-                c[w] += 1
+            low = w.lower()
+            if low in config.STOPWORDS:
+                continue
+            if all(part in _ACTOR_JUNK for part in low.split()):
+                continue
+            c[w] += 1
     return [w for w, _ in c.most_common(4)]
 
 
