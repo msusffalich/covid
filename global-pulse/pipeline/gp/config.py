@@ -110,7 +110,8 @@ ENTITY_MERGE_JACCARD = 0.34   # fusion de clusters entre idiomas
 MAX_CLUSTER_PIECES = 12       # tope de piezas por cluster (evita bolas de nieve)
 MAX_REFS_PER_NODE = 12        # referencias maximas mostradas por nodo
 
-CATEGORIES = ["geopolitica", "economia", "ciencia", "clima", "tecnologia", "sociedad"]
+CATEGORIES = ["geopolitica", "economia", "ciencia", "clima", "tecnologia",
+              "innovacion", "salud", "sociedad"]
 
 # Palabras clave por categoria (es + en, minusculas)
 CATEGORY_KEYWORDS = {
@@ -122,21 +123,48 @@ CATEGORY_KEYWORDS = {
                     "mercado", "market", "pib", "gdp", "arancel", "tariff",
                     "comercio", "trade", "divisa", "currency", "recesion",
                     "recession", "empleo", "employment", "fmi", "imf"],
-    "ciencia":     ["vacuna", "vaccine", "descubrimiento", "discovery",
-                    "investigacion", "research", "estudio", "study", "nasa",
-                    "esa", "telescopio", "telescope", "genoma", "genome",
-                    "farmaco", "drug", "ensayo clinico", "clinical trial"],
-    "clima":       ["clima", "climate", "sequia", "drought", "inundacion",
-                    "flood", "huracan", "hurricane", "emision", "emission",
-                    "cop", "temperatura", "temperature", "incendio", "wildfire",
-                    "glaciar", "glacier", "energia renovable", "renewable"],
+    "ciencia":     ["descubrimiento", "discovery", "investigacion", "research",
+                    "estudio", "study", "nasa", "esa", "telescopio",
+                    "telescope", "genoma", "genome", "quantum", "cuantica",
+                    "fisica", "physics", "astronomia", "astronomy", "cientifico",
+                    "scientist", "laboratorio", "laboratory"],
+    # Clima = IMPACTO del cambio climatico: fenomenos extremos, consecuencias
+    # y respuesta (mitigacion/adaptacion)
+    "clima":       ["cambio climatico", "climate change", "calentamiento",
+                    "warming", "sequia", "drought", "inundacion", "flood",
+                    "huracan", "hurricane", "ola de calor", "heatwave",
+                    "incendio forestal", "wildfire", "deshielo", "glaciar",
+                    "glacier", "nivel del mar", "sea level", "emision",
+                    "emission", "cop3", "acuerdo de paris", "paris agreement",
+                    "deforestacion", "deforestation", "clima extremo",
+                    "extreme weather", "adaptacion climatica", "el nino",
+                    "la nina", "energia renovable", "renewable"],
     "tecnologia":  ["inteligencia artificial", "artificial intelligence", " ia ",
                     " ai ", "chip", "semiconductor", "ciberseguridad",
                     "cybersecurity", "satelite", "satellite", "software",
-                    "startup", "quantum", "cuantica", "robot", "5g", "datos"],
-    "sociedad":    ["salud", "health", "educacion", "education", "migracion",
-                    "migration", "derechos", "rights", "protesta", "protest",
-                    "cultura", "culture", "poblacion", "population"],
+                    "5g", "datos", "algoritmo", "algorithm", "plataforma",
+                    "platform", "nube", "cloud"],
+    # Innovacion = productos, dispositivos e inventos nuevos
+    "innovacion":  ["lanzamiento", "launch", "lanza", "unveils", "presenta",
+                    "dispositivo", "device", "gadget", "prototipo", "prototype",
+                    "invento", "invention", "patente", "patent", "wearable",
+                    "smartphone", "auricular", "headset", "gafas", "glasses",
+                    "robot", "dron", "drone", "startup", "innovacion",
+                    "innovation", "breakthrough", "nuevo modelo", "new model",
+                    "vehiculo electrico", "electric vehicle", "bateria",
+                    "battery", "impresion 3d", "3d printing"],
+    # Salud y bienestar
+    "salud":       ["salud", "health", "vacuna", "vaccine", "hospital",
+                    "enfermedad", "disease", "epidemia", "epidemic", "pandemia",
+                    "pandemic", "cancer", "farmaco", "drug", "ensayo clinico",
+                    "clinical trial", "oms", "who ", "salud mental",
+                    "mental health", "bienestar", "wellness", "nutricion",
+                    "nutrition", "obesidad", "obesity", "ejercicio", "fitness",
+                    "longevidad", "longevity", "terapia", "therapy"],
+    "sociedad":    ["educacion", "education", "migracion", "migration",
+                    "derechos", "rights", "protesta", "protest", "cultura",
+                    "culture", "poblacion", "population", "empleo juvenil",
+                    "desigualdad", "inequality", "religion"],
 }
 
 # Gazetteer minimo: pais/region -> (lat, lon, region legible)

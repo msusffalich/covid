@@ -46,5 +46,7 @@ export const CATEGORY_COLORS: Record<string, string> = {
   ciencia: '#7C6FE4',
   clima: '#3FA65C',
   tecnologia: '#3D9BE4',
+  innovacion: '#1CB0C8',
+  salud: '#EE6C9B',
   sociedad: '#C75FA8',
 }

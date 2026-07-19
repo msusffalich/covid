@@ -43,7 +43,9 @@ export const DICT = {
     readNode: 'Leer este nodo',
     categoriesNames: {
       geopolitica: 'Geopolítica', economia: 'Economía', ciencia: 'Ciencia',
-      clima: 'Clima', tecnologia: 'Tecnología', sociedad: 'Sociedad',
+      clima: 'Impacto climático', tecnologia: 'Tecnología',
+      innovacion: 'Innovación y dispositivos', salud: 'Salud y bienestar',
+      sociedad: 'Sociedad',
     } as Record<string, string>,
   },
   en: {
@@ -87,7 +89,9 @@ export const DICT = {
     readNode: 'Read this node',
     categoriesNames: {
       geopolitica: 'Geopolitics', economia: 'Economy', ciencia: 'Science',
-      clima: 'Climate', tecnologia: 'Technology', sociedad: 'Society',
+      clima: 'Climate impact', tecnologia: 'Technology',
+      innovacion: 'Innovation & devices', salud: 'Health & wellness',
+      sociedad: 'Society',
     } as Record<string, string>,
   },
 } as const

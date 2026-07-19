@@ -30,9 +30,17 @@ mostrando el último pulso válido.
 
 La leyenda **«Cómo leer esta vista»** aparece siempre bajo el panel.
 
-### 4. Filtros
-Filtra por categoría (geopolítica, economía, ciencia, clima, tecnología,
-sociedad) y por impacto mínimo con el deslizador. Se aplican a las tres vistas.
+### 4. Filtros y categorías
+Filtra tocando las categorías (se pueden combinar varias) y por impacto mínimo
+con el deslizador. Se aplican a las tres vistas. Las categorías son:
+
+- **Geopolítica** · **Economía** · **Ciencia** · **Tecnología** · **Sociedad**
+- **Impacto climático:** consecuencias del cambio climático (fenómenos
+  extremos, emisiones, deshielo, adaptación).
+- **Innovación y dispositivos:** productos nuevos, inventos, prototipos y
+  lanzamientos.
+- **Salud y bienestar:** medicina, salud pública, salud mental, nutrición y
+  bienestar.
 
 ### 5. Detalle de un nodo y fuentes (Capa 3)
 Toca cualquier nodo para abrir su ficha: síntesis, actores, imágenes, nodos
@@ -104,9 +112,16 @@ Once installed it works offline, showing the last valid pulse.
 
 The **"How to read this view"** legend always sits under the panel.
 
-### 4. Filters
-Filter by category (geopolitics, economy, science, climate, technology,
-society) and by minimum impact with the slider. Filters apply to all views.
+### 4. Filters and categories
+Filter by tapping categories (several can be combined) and by minimum impact
+with the slider. Filters apply to all views. Categories are:
+
+- **Geopolitics** · **Economy** · **Science** · **Technology** · **Society**
+- **Climate impact:** consequences of climate change (extreme events,
+  emissions, ice loss, adaptation).
+- **Innovation & devices:** new products, inventions, prototypes and launches.
+- **Health & wellness:** medicine, public health, mental health, nutrition and
+  well-being.
 
 ### 5. Node detail and sources (Layer 3)
 Tap any node to open its card: synthesis, actors, images, related nodes and
