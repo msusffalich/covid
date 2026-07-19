@@ -19,7 +19,7 @@ noise into actionable knowledge and weaves it into your second brain
 | **Capa 3 — Validación y Fuente** | Evidencia por hash de contenido + regla de oro de trazabilidad | `pipeline/gp/validate.py`, `data/evidence/` |
 | **Ingesta (transversal)** | RSS (BBC, DW, El País, Guardian, France24) + GDELT 2.0, sin claves | `pipeline/gp/collect.py` |
 | **Orquestación (sin n8n)** | Orquestador propio con reintentos, fallo aislado y métricas, dirigido por Claude Code / cron / GitHub Actions | `pipeline/orchestrator.py`, `.github/workflows/global-pulse-daily.yml` |
-| **Segundo cerebro** | Notas atómicas Markdown con frontmatter PARA | `data/vault/` |
+| **Global Brain (segundo cerebro)** | Bóveda Obsidian: principio de Kardashev (K0-K3) + PARA, alimentada a diario | `data/global-brain/Global Brain/` |
 
 ## Ciclo diario (8 etapas) / Daily cycle
 
@@ -42,8 +42,13 @@ python -m tests.test_pipeline
 ```
 
 El ciclo publica `data/pulse-YYYYMMDD.json`, actualiza `pulse-latest.json`,
-copia el pulso a la PWA y promueve los insights verificados de impacto ≥ 60
-como notas Obsidian en `data/vault/` (método PARA).
+copia el pulso a la PWA y **alimenta el Global Brain**: la bóveda Obsidian de
+`data/global-brain/Global Brain/`, donde cada nodo verificado de impacto ≥ 60
+se archiva como nota atómica clasificada por el principio de Kardashev
+(K0 local · K1 planetario · K2 estelar/energía · K3 frontera cósmica) con
+índices Dataview y estructura PARA. Para usarla: abre esa carpeta como bóveda
+en Obsidian y activa el plugin Obsidian Git (auto-pull) — se actualiza sola
+cada día. Ver `docs/MANUAL.md`, sección 9.
 
 ### Motor de síntesis híbrido / Hybrid synthesis engine
 - `--synth auto` — usa la API de Anthropic si `ANTHROPIC_API_KEY` está definida;

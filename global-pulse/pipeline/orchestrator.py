@@ -66,7 +66,7 @@ def run_cycle(mode: str, synth_mode: str) -> dict:
               ("api" if __import__("os").environ.get("ANTHROPIC_API_KEY")
                else "heuristic"))
     pulse = publish.run(nodes, mode, engine, metrics, log)
-    promovidas = promote.run(pulse["nodos"], log)
+    promovidas = promote.run(pulse, log)
     metrics["promovidas"] = promovidas
 
     log(f"=== Ciclo completo en {metrics['duracion_s']}s · "

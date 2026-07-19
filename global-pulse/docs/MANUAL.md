@@ -68,18 +68,32 @@ en el idioma activo, sin servicios externos.
 4. **Sin conexión:** se muestra el último pulso válido guardado. La fecha y
    hora de generación aparecen junto al botón.
 
-### 9. Exportar al segundo cerebro (Obsidian)
-Tres vías para alimentar tu bóveda:
-1. **Desde la app (pulso completo):** el botón **«⬇ Descargar notas Obsidian
-   (.md)»** junto a «Actualizar» descarga todas las notas del pulso en un
-   Markdown; guárdalo en tu bóveda.
-2. **Desde la app (nota individual):** en la ficha de cada nodo, **«⬇ Nota
-   Obsidian (.md)»** descarga esa nota con frontmatter PARA lista para
-   archivar en Recursos.
-3. **Automático (pipeline):** cada ciclo escribe las notas en
-   `global-pulse/data/vault/`. Define `GP_VAULT_DIR` con la ruta de tu bóveda
-   (`export GP_VAULT_DIR="/ruta/a/mi/boveda/GlobalPulse"`) para que el
-   pipeline las cree directamente dentro de ella.
+### 9. Global Brain: el segundo cerebro (Obsidian)
+Global Pulse alimenta cada día una bóveda Obsidian llamada **Global Brain**,
+organizada por el **principio de Kardashev** —cada nodo se clasifica por la
+escala civilizatoria de su impacto— y el método **PARA**:
+
+- **K0 · Local y Nacional** — impacto contenido en un país o región.
+- **K1 · Planetario** — afecta a la civilización global (clima, pandemias,
+  gobernanza tecnológica, grandes acuerdos).
+- **K2 · Estelar y Energía** — espacio y energía a gran escala.
+- **K3 · Frontera Cósmica** — descubrimientos sobre el cosmos profundo.
+
+Estructura: `Global Brain — Inicio` (mapa), `00 · Pulso Diario` (digest por
+ciclo), `10 · Nodos` (notas atómicas por categoría = Recursos de PARA),
+`20 · Indices` (MOCs por escala K y categoría, con Dataview) y `30 · PARA`
+(tus Proyectos/Áreas/Archivo).
+
+**Cómo usarla (alimentación automática diaria):**
+1. Clona el repositorio: `git clone https://github.com/msusffalich/covid.git`
+2. En Obsidian: «Abrir carpeta como bóveda» →
+   `covid/global-pulse/data/global-brain/Global Brain`
+3. Instala los plugins **Obsidian Git** (activa el *auto-pull* diario: la
+   bóveda se actualiza sola con cada pulso) y **Dataview** (índices dinámicos).
+
+Alternativas: los botones **«⬇»** de la app descargan el pulso completo o una
+nota individual; y `GP_VAULT_DIR` hace que el pipeline escriba directamente en
+una bóveda local (`export GP_VAULT_DIR="/ruta/a/mi/boveda/Global Brain"`).
 
 ### 10. Nota sobre la demostración
 Si el pulso indica «demostración», los datos provienen de un conjunto fijo
@@ -148,18 +162,31 @@ active language, with no external services.
 4. **Offline:** the last stored valid pulse is shown. Generation date and time
    appear next to the button.
 
-### 9. Export to your second brain (Obsidian)
-Three ways to feed your vault:
-1. **From the app (full pulse):** the **"⬇ Download Obsidian notes (.md)"**
-   button next to "Refresh" downloads all pulse notes as one Markdown file;
-   save it into your vault.
-2. **From the app (single note):** inside each node card, **"⬇ Obsidian note
-   (.md)"** downloads that note with PARA frontmatter, ready to file under
-   Resources.
-3. **Automatic (pipeline):** each cycle writes notes to
-   `global-pulse/data/vault/`. Set `GP_VAULT_DIR` to your vault path
-   (`export GP_VAULT_DIR="/path/to/my/vault/GlobalPulse"`) so the pipeline
-   creates them directly inside it.
+### 9. Global Brain: the second brain (Obsidian)
+Global Pulse feeds a daily Obsidian vault called **Global Brain**, organized
+by the **Kardashev principle** —each node is classified by the civilizational
+scale of its impact— and the **PARA** method:
+
+- **K0 · Local & National** — impact contained in one country or region.
+- **K1 · Planetary** — affects global civilization (climate, pandemics,
+  tech governance, major agreements).
+- **K2 · Stellar & Energy** — space and large-scale energy.
+- **K3 · Cosmic Frontier** — discoveries about the deep cosmos.
+
+Structure: `Global Brain — Inicio` (map), `00 · Pulso Diario` (per-cycle
+digest), `10 · Nodos` (atomic notes by category = PARA Resources),
+`20 · Indices` (MOCs by K-scale and category, Dataview-powered) and
+`30 · PARA` (your Projects/Areas/Archive).
+
+**How to use it (automatic daily feeding):**
+1. Clone the repository: `git clone https://github.com/msusffalich/covid.git`
+2. In Obsidian: "Open folder as vault" →
+   `covid/global-pulse/data/global-brain/Global Brain`
+3. Install the **Obsidian Git** plugin (enable daily *auto-pull*: the vault
+   updates itself with every pulse) and **Dataview** (dynamic indexes).
+
+Alternatives: the app's **"⬇"** buttons download the full pulse or a single
+note; and `GP_VAULT_DIR` makes the pipeline write directly into a local vault.
 
 ### 10. About the demo
 If the pulse says "demo", data comes from a fixed set based on documented

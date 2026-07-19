@@ -6,10 +6,11 @@ ROOT = Path(__file__).resolve().parents[2]
 DATA_DIR = ROOT / "data"
 EVIDENCE_DIR = DATA_DIR / "evidence"
 APP_DATA_DIR = ROOT / "app" / "public" / "data"
-# Notas Obsidian (PARA). Define GP_VAULT_DIR con la ruta de tu boveda para
-# que el pipeline escriba las notas directamente en tu segundo cerebro.
+# Boveda Obsidian "Global Brain" (Kardashev + PARA). Define GP_VAULT_DIR con
+# la ruta de tu boveda para que el pipeline escriba directamente en ella.
 VAULT_DIR = (Path(os.environ["GP_VAULT_DIR"])
-             if os.environ.get("GP_VAULT_DIR") else DATA_DIR / "vault")
+             if os.environ.get("GP_VAULT_DIR")
+             else DATA_DIR / "global-brain" / "Global Brain")
 
 SCHEMA_VERSION = "1.1"
 

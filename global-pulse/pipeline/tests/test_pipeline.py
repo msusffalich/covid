@@ -79,6 +79,39 @@ def test_pulse_schema():
         assert n["id"].startswith("nd_")
 
 
+def test_global_brain():
+    import tempfile
+    from pathlib import Path as P
+    from gp import brain
+
+    pulse_path = config.DATA_DIR / "pulse-latest.json"
+    if not pulse_path.exists():
+        print("  (pulse-latest.json aun no generado; se omite)")
+        return
+    pulse = json.loads(pulse_path.read_text(encoding="utf-8"))
+
+    old_vault = config.VAULT_DIR
+    with tempfile.TemporaryDirectory() as tmp:
+        config.VAULT_DIR = P(tmp) / "Global Brain"
+        try:
+            promoted = brain.build(pulse, lambda m: None)
+        finally:
+            root, config.VAULT_DIR = config.VAULT_DIR, old_vault
+        assert (root / "Global Brain — Inicio.md").exists()
+        assert (root / "20 · Indices" / "Escala Kardashev"
+                / "K1 · Planetario.md").exists()
+        fecha = pulse["meta"]["fecha"]
+        assert (root / "00 · Pulso Diario" / f"{fecha} — Pulso.md").exists()
+        # Todos los nodos quedan clasificados en la escala Kardashev
+        for n in pulse["nodos"]:
+            assert n["kardashev"] in brain.K_LEVELS
+        if promoted:
+            notes = list((root / "10 · Nodos").rglob("*.md"))
+            assert len(notes) == promoted
+            body = notes[0].read_text(encoding="utf-8")
+            assert "kardashev:" in body and "Capa 3" in body
+
+
 if __name__ == "__main__":
     fails = 0
     for name, fn in sorted(globals().items()):
