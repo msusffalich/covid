@@ -19,7 +19,7 @@ origen: global-pulse
 Andy Burnham ha sido elegido para liderar al Partido Laborista con la vista puesta en las elecciones de 2029. Su desafío será recuperar el terreno perdido ante el partido antisistema y antiinmigración de Reform UK, de Nigel Farage. El lunes 20 de julio asumirá el cargo de primer ministro después de que dimita Keir Starmer.
 
 ## Synthesis (EN)
-A longstanding bromance means the Liverpool regional major very much has the ear of the soon-to-be PM When a new prime minister enters Downing Street, observers usually look to those around the cabinet table to see where influence lies. With Andy Burnham, they should look 200 miles north – not to Manchester, but Liverpool. Steve Rotheram, the mayor of Liverpool city region, may not have a formal role in government but he has a strong claim to having the closest personal bond to the incoming prime minister, a man he calls his “bezzie mate”.
+A longstanding bromance means the Liverpool regional mayor very much has the ear of the soon-to-be PM When a new prime minister enters Downing Street, observers usually look to those around the cabinet table to see where influence lies. With Andy Burnham, they should look 200 miles north – not to Manchester, but Liverpool. Steve Rotheram, the mayor of Liverpool city region, may not have a formal role in government but he has a strong claim to having the closest personal bond to the incoming prime minister, a man he calls his “bezzie mate”.
 
 ## Enlaces
 [[Andy Burnham]] · [[Reino Unido]] · [[Partido Laborista]] · [[Manchesterismo]]

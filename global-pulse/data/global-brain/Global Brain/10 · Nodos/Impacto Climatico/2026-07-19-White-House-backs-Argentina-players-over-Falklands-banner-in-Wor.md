@@ -6,7 +6,7 @@ categoria: clima
 impacto: 83
 kardashev: K1
 actores: [World Cup, Argentina, White House, Falklands]
-fuentes: [ev_b1e28a6140, ev_758e5b0681, ev_0065d9b092, ev_6a0af6c173, ev_d49b9579b9, ev_f449741c6c, ev_c53900d0dd, ev_8b7255d9f2, ev_ffb9b99f88, ev_d46c42bdd2]
+fuentes: [ev_b1e28a6140, ev_758e5b0681, ev_0065d9b092, ev_6a0af6c173, ev_d49b9579b9, ev_f449741c6c, ev_ffb9b99f88, ev_c913c392d7, ev_c6604a852d, ev_d46c42bdd2]
 estado: verificado
 para: Recursos
 origen: global-pulse
@@ -31,7 +31,7 @@ White House Fifa taskforce chief defends Argentina footballers, saying US believ
 - [BBC News World](https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss) — Why the World Cup half-time show may be a taste of things to come
 - [BBC News World](https://www.bbc.co.uk/news/videos/c1w1nqwxgexo?at_medium=RSS&at_campaign=rss) — Timelapse shows World Cup final stadium nearly vanish in smoky haze
 - [Phys.org](https://phys.org/news/2026-07-wildfire-haze-eastern-world-cup.html) — Wildfire haze hangs over eastern US—and World Cup final
-- [France 24 English](https://www.france24.com/en/americas/20260719-the-week-in-pictures-the-end-of-the-world-cup-heatwaves-and-wildfires-war-in-ukraine) — The week in pictures: The end of the World Cup, heatwaves and wildfires, war in Ukraine
-- [France 24 English](https://www.france24.com/en/americas/20260719-trump-claims-us-world-cup-a-success-despite-controversies-ahead-of-final) — Trump claims US World Cup a success, despite controversies, ahead of final
 - [Al Jazeera](https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know?traffic_source=rss) — World Cup 2026 final: Closing ceremony and half-time show – what to know
+- [NPR News](https://www.npr.org/2026/07/19/nx-s1-5899020/2026-world-cup-fifa-mls-major-league-soccer) — MLS works to bring in a new generation of fans as the World Cup comes to an end
+- [Euronews English](http://www.euronews.com/2026/07/19/world-cup-stadiums-were-built-for-yesterdays-climate-should-the-games-be-moved) — World Cup stadiums were ‘built for yesterday’s climate’. Should the games be moved?
 - [ABC News Australia](https://www.abc.net.au/news/2026-07-19/world-cup-argentina-fans-times-square-takeover-spain-final/106933002) — Argentina fans stage Times Square takeover ahead of World Cup final

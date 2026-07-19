@@ -2,15 +2,15 @@
   "meta": {
     "schema": "1.1",
     "fecha": "2026-07-19",
-    "generado": "2026-07-19T15:03:04.411188+00:00",
+    "generado": "2026-07-19T15:26:34.435358+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 803,
-      "clusters": 509,
-      "nodos": 509,
-      "verificados": 509,
-      "duracion_s": 163.4
+      "piezas_ingeridas": 771,
+      "clusters": 492,
+      "nodos": 492,
+      "verificados": 492,
+      "duracion_s": 16.2
     },
     "descargo": ""
   },
@@ -153,28 +153,29 @@
       "kardashev": "K2",
       "relaciones": [
         "nd_2026-07-19_0002",
+        "nd_2026-07-19_0003",
         "nd_2026-07-19_0004",
-        "nd_2026-07-19_0005",
-        "nd_2026-07-19_0010",
-        "nd_2026-07-19_0012",
-        "nd_2026-07-19_0013"
+        "nd_2026-07-19_0007",
+        "nd_2026-07-19_0009",
+        "nd_2026-07-19_0011",
+        "nd_2026-07-19_0012"
       ]
     },
     {
       "titulo": {
         "es": "\"Es como cerrar un círculo perfecto\": la historia detrás de la famosa foto de Messi bañando a Lamine Yamal contada por el fotógrafo que la tomó",
-        "en": "England beat France 6-4 to finish third"
+        "en": "'That's crazy': Messi reflects on iconic photo with baby Lamine Yamal"
       },
       "sintesis": {
         "es": "Lionel Messi y Lamine Yamal se enfrentarán este domingo en la final del Mundial, pero no es la primera vez que se encuentran.",
-        "en": "The World Cup resumed on Saturday with the third-place playoff, where England defeated France 6–4. Bukayo Saka scored a hat-trick to help the Three Lions secure their best tournament finish since 1966. Despite the defeat, Kylian Mbappé scored twice for Les Bleus to overtake Lionel Messi as the all-time leading World Cup scorer with 22 career goals."
+        "en": "Lionel Messi described the viral photo of himself holding baby Lamine Yamal as \"crazy\" ahead of their World Cup final meeting. Messi praised the Spain star as one of the world's best but said Argentina would do everything possible to stop him."
       },
       "categoria": "geopolitica",
       "actores": [
-        "World Cup",
-        "Argentina",
         "Spain",
-        "England"
+        "World Cup",
+        "Messi",
+        "Lamine Yamal"
       ],
       "geo": {
         "lat": -38.4,
@@ -184,24 +185,21 @@
       "impacto": 95,
       "fuentes": [
         "ev_7658b3bdf5",
-        "ev_5264c24193",
+        "ev_c73d0962c3",
         "ev_ab5dd92f1d",
         "ev_d46c1e2aea",
         "ev_d4a83a9528",
-        "ev_426b305917",
-        "ev_ec61b23374",
-        "ev_4755490bcc",
-        "ev_1019010c67",
-        "ev_ce96cca830",
+        "ev_be41123792",
+        "ev_c2dc09daee",
+        "ev_e2029597fc",
+        "ev_b60efb4e3e",
+        "ev_fd4511c33a",
         "ev_306a33eb32",
-        "ev_e2029597fc"
+        "ev_0e5eda6fa1"
       ],
       "cluster_id": "cl_007",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63b3/live/dee714b0-8132-11f1-b525-63787292c170.jpg",
-        "https://s.france24.com/media/display/42554fc0-835a-11f1-8500-005056a97e36/w:1024/p:16x9/EN-20260719-110649-110847-CS.jpg",
-        "https://s.france24.com/media/display/58086798-834c-11f1-bf7f-005056a90284/w:1024/p:16x9/EN-20260719-100849-101050-CS.jpg",
-        "https://s.france24.com/media/display/1d0bcfea-831a-11f1-b1bb-005056bfb2b6/w:1024/p:16x9/000-C2JY9UZ.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63b3/live/dee714b0-8132-11f1-b525-63787292c170.jpg"
       ],
       "estado": "verificado",
       "referencias": [
@@ -214,11 +212,11 @@
           "idioma": "es"
         },
         {
-          "id": "ev_5264c24193",
-          "titulo": "World Cup final: Argentina face Spain",
-          "url": "https://www.france24.com/en/world-cup-final-argentina-face-spain",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 19 Jul 2026 10:25:33 GMT",
+          "id": "ev_c73d0962c3",
+          "titulo": "Spain vs Argentina LIVE: 2026 FIFA World Cup final",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/19/spain-vs-argentina-live-2026-fifa-world-cup-final?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sun, 19 Jul 2026 15:00:00 +0000",
           "idioma": "en"
         },
         {
@@ -246,43 +244,43 @@
           "idioma": "en"
         },
         {
-          "id": "ev_426b305917",
-          "titulo": "England beat France 6-4 to finish third",
-          "url": "https://www.france24.com/en/england-beat-france-6-4-to-finish-third",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 19 Jul 2026 09:00:01 GMT",
+          "id": "ev_be41123792",
+          "titulo": "The story behind football stars Messi and Yamal’s viral photo",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-football-stars-messi-and-yamals-viral-photo?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sun, 19 Jul 2026 14:17:39 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_ec61b23374",
-          "titulo": "England beat France 6-4 to claim World Cup third place",
-          "url": "http://www.euronews.com/2026/07/19/england-beat-france-6-4-in-world-cup-third-place-thriller",
+          "id": "ev_c2dc09daee",
+          "titulo": "'That's crazy': Messi reflects on iconic photo with baby Lamine Yamal",
+          "url": "http://www.euronews.com/video/2026/07/18/thats-crazy-messi-reflects-on-iconic-photo-with-baby-lamine-yamal",
           "fuente": "Euronews English",
-          "fecha": "Sun, 19 Jul 2026 09:50:50 +0200",
+          "fecha": "Sat, 18 Jul 2026 08:00:19 +0200",
           "idioma": "en"
         },
         {
-          "id": "ev_4755490bcc",
-          "titulo": "Saka's hat trick lifts England past Mbappé, France 6-4 in wild World Cup 3rd-place game",
-          "url": "https://www.cbc.ca/sports/soccer/worldcup/fifa-world-cup-recap-england-france-july-18-9.7275619?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sat, 18 Jul 2026 19:37:16 EDT",
+          "id": "ev_e2029597fc",
+          "titulo": "Spain or Argentina, who will win the FIFA World Cup? Ex-player predictions",
+          "url": "https://www.aljazeera.com/sports/2026/7/19/spain-argentina-fifa-world-cup-who-will-win-prediction-ex-players?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sun, 19 Jul 2026 12:29:57 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_1019010c67",
-          "titulo": "2026 World Cup: France fall to England after wild ten-goal thriller",
-          "url": "https://www.france24.com/en/tv-shows/sports/20260719-2026-world-cup-france-fall-to-england-after-wild-ten-goal-thriller",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 19 Jul 2026 07:58:48 GMT",
+          "id": "ev_b60efb4e3e",
+          "titulo": "FIFA World Cup: Tobin Heath on record goals, France and Lamine Yamal",
+          "url": "https://www.aljazeera.com/sports/2026/7/19/tobin-heath-fifa-world-cup-2026-football-analysis-players-teams-tournament?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sun, 19 Jul 2026 11:21:52 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_ce96cca830",
-          "titulo": "World Cup 2026: Do supporters prefer Lamine Yamal or Lionel Messi?",
-          "url": "https://www.france24.com/en/world-cup-2026-do-supporters-prefer-lamine-yamal-or-lionel-messi",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 19 Jul 2026 05:35:25 GMT",
+          "id": "ev_fd4511c33a",
+          "titulo": "Gaza cheers for Spain as World Cup final anticipation mounts",
+          "url": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sun, 19 Jul 2026 10:09:25 +0000",
           "idioma": "en"
         },
         {
@@ -294,11 +292,11 @@
           "idioma": "en"
         },
         {
-          "id": "ev_e2029597fc",
-          "titulo": "Spain or Argentina, who will win the FIFA World Cup? Ex-player predictions",
-          "url": "https://www.aljazeera.com/sports/2026/7/19/spain-argentina-fifa-world-cup-who-will-win-prediction-ex-players?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 19 Jul 2026 12:29:57 +0000",
+          "id": "ev_0e5eda6fa1",
+          "titulo": "Meet Lamine Yamal, the Spanish prince set to claim his World Cup kingdom",
+          "url": "https://www.abc.net.au/news/2026-07-19/lamine-yamal-spain-world-up-final-argentina-barcelona/106927850",
+          "fuente": "ABC News Australia",
+          "fecha": "Sun, 19 Jul 2026 02:15:30 +0000",
           "idioma": "en"
         }
       ],
@@ -310,23 +308,23 @@
         "nd_2026-07-19_0004",
         "nd_2026-07-19_0007",
         "nd_2026-07-19_0008",
-        "nd_2026-07-19_0009"
+        "nd_2026-07-19_0013"
       ]
     },
     {
       "titulo": {
         "es": "El artista y opositor Luis Otero Alcántara llega a EE. UU. tras cinco años de prisión en Cuba",
-        "en": "Cuban dissident artist arrives in US after 5-years in prison"
+        "en": "Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US"
       },
       "sintesis": {
         "es": "Después de cumplir una condena de cinco años en la isla por su participación en las protestas de 2021, el artista y opositor cubano Luis Manuel Otero Alcántara llegó este sábado a Estados Unidos. Su salida, autorizada mediante un permiso de permanencia por razones humanitarias, abre un nuevo capítulo para una de las figuras más visibles del disenso cultural cubano.",
-        "en": "A hero's welcome for Luis Manuel Otero Alcántara as he arrived in Miami following his release from prison in Cuba. The dissident artist accepted exile after the United States granted him humanitarian parole. Otero Alcántara co-founded the San Isidro Movement, a collective of Havana-based artists, writers, and musicians that protests against the Cuban government."
+        "en": "Whereabouts of artist imprisoned after 2021 protests had been unknown following end of his prison term in July Luis Manuel Otero Alcántara, a prominent Cuban dissident artist whose whereabouts remained unknown after his prison sentence ended last week, has been given permission to travel to the US, according to his official Facebook page. Otero Alcántara, designated a prisoner of conscience by Amnesty International, was sentenced to five years in prison in 2022 for insulting national symbols, contempt and disturbing the public order. Continue reading..."
       },
       "categoria": "sociedad",
       "actores": [
         "Otero",
-        "Cuban",
         "Luis Manuel",
+        "Cuban",
         "Cuba"
       ],
       "geo": {
@@ -341,12 +339,11 @@
         "ev_b0317e1e5f",
         "ev_a58823c755",
         "ev_3ce25478af",
-        "ev_cd10335b7e",
         "ev_608abcd327",
         "ev_f9b3b3bc65",
         "ev_facd904f64"
       ],
-      "cluster_id": "cl_049",
+      "cluster_id": "cl_050",
       "imagenes": [
         "https://s.france24.com/media/display/0d5c2bca-82f8-11f1-876f-005056bf30b7/w:1024/p:16x9/2026-07-17T205545Z-1522444562-RC2WFMAZW56M-RTRMADP-3-CUBA-DISSIDENT.jpg",
         "https://s.rfi.fr/media/display/762f8b14-835d-11f1-8bf0-005056a97e36/w:1024/p:16x9/AP26199818040161.jpg",
@@ -396,14 +393,6 @@
           "idioma": "en"
         },
         {
-          "id": "ev_cd10335b7e",
-          "titulo": "Cuban dissident artist arrives in US after 5-years in prison",
-          "url": "https://www.france24.com/en/cuban-dissident-artist-arrives-in-us-after-5-years-in-prison",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 19 Jul 2026 13:45:45 GMT",
-          "idioma": "en"
-        },
-        {
           "id": "ev_608abcd327",
           "titulo": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
           "url": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
@@ -433,11 +422,12 @@
       "kardashev": "K1",
       "relaciones": [
         "nd_2026-07-19_0000",
+        "nd_2026-07-19_0003",
         "nd_2026-07-19_0004",
-        "nd_2026-07-19_0005",
-        "nd_2026-07-19_0010",
-        "nd_2026-07-19_0012",
-        "nd_2026-07-19_0013"
+        "nd_2026-07-19_0007",
+        "nd_2026-07-19_0009",
+        "nd_2026-07-19_0011",
+        "nd_2026-07-19_0012"
       ]
     },
     {
@@ -453,13 +443,13 @@
       "actores": [
         "Argentina",
         "World Cup",
-        "Spain",
+        "Trump",
         "Inglaterra"
       ],
       "geo": {
-        "lat": -38.4,
-        "lon": -63.6,
-        "region": "Sudamerica"
+        "lat": 23.6,
+        "lon": -102.5,
+        "region": "Norteamerica"
       },
       "impacto": 95,
       "fuentes": [
@@ -468,11 +458,11 @@
         "ev_e09690062a",
         "ev_ebc36dea00",
         "ev_dff80dfae4",
-        "ev_20c3a6b494",
         "ev_487f92bf95",
         "ev_3ed5d08ac9",
         "ev_9d5e7a2035",
-        "ev_8aedda5e9a"
+        "ev_8aedda5e9a",
+        "ev_8837c37335"
       ],
       "cluster_id": "cl_063",
       "imagenes": [
@@ -524,14 +514,6 @@
           "idioma": "en"
         },
         {
-          "id": "ev_20c3a6b494",
-          "titulo": "Spain vs Argentina World Cup final: Key matchups, tactics and storylines",
-          "url": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 19 Jul 2026 08:12:54 +0000",
-          "idioma": "en"
-        },
-        {
           "id": "ev_487f92bf95",
           "titulo": "Spain and Argentina meet in New York to dance the 2026 World Cup final in Spanish",
           "url": "http://www.euronews.com/2026/07/19/spain-and-argentina-meet-in-new-york-to-dance-the-2026-world-cup-final-in-spanish",
@@ -562,17 +544,29 @@
           "fuente": "The Independent World",
           "fecha": "Sun, 19 Jul 2026 13:32:20 GMT",
           "idioma": "en"
+        },
+        {
+          "id": "ev_8837c37335",
+          "titulo": "Mexico's president to attend World Cup final at Trump's invitation",
+          "url": "https://www.independent.co.uk/news/world/europe/claudia-sheinbaum-mexico-mexico-city-donald-trump-argentina-b3017492.html",
+          "fuente": "The Independent World",
+          "fecha": "Sat, 18 Jul 2026 18:52:10 GMT",
+          "idioma": "en"
         }
       ],
       "id": "nd_2026-07-19_0003",
       "fecha": "2026-07-19",
       "kardashev": "K1",
       "relaciones": [
+        "nd_2026-07-19_0000",
         "nd_2026-07-19_0001",
+        "nd_2026-07-19_0002",
         "nd_2026-07-19_0004",
         "nd_2026-07-19_0007",
-        "nd_2026-07-19_0008",
-        "nd_2026-07-19_0009"
+        "nd_2026-07-19_0009",
+        "nd_2026-07-19_0011",
+        "nd_2026-07-19_0012",
+        "nd_2026-07-19_0013"
       ]
     },
     {
@@ -586,8 +580,8 @@
       },
       "categoria": "clima",
       "actores": [
-        "World Cup",
         "Cup",
+        "World Cup",
         "FIFA",
         "Silvio Gazzaniga"
       ],
@@ -601,14 +595,12 @@
         "ev_a020018d75",
         "ev_e17056238e",
         "ev_1acab19b70",
-        "ev_8837c37335",
         "ev_b80c2ce8a8",
         "ev_f1e7e41386",
         "ev_acd51c4be5",
-        "ev_1badf7899f",
-        "ev_5fac49f911"
+        "ev_1badf7899f"
       ],
-      "cluster_id": "cl_092",
+      "cluster_id": "cl_091",
       "imagenes": [
         "https://static.independent.co.uk/2026/07/18/15/29/GettyImages-2284246451.jpg?width=1200&auto=webp&trim=11%2C0%2C12%2C0",
         "https://media.wired.com/photos/6a5ab6e1745fd6cf42953ce1/master/pass/World-Cup-Halftime-Show-Culture.jpg"
@@ -637,14 +629,6 @@
           "url": "http://www.euronews.com/2026/07/18/discounted-tickets-for-world-cup-and-popstar-gigs-could-cut-climate-costs-of-mega-events",
           "fuente": "Euronews English",
           "fecha": "Sat, 18 Jul 2026 07:57:23 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8837c37335",
-          "titulo": "Mexico's president to attend World Cup final at Trump's invitation",
-          "url": "https://www.independent.co.uk/news/world/europe/claudia-sheinbaum-mexico-mexico-city-donald-trump-argentina-b3017492.html",
-          "fuente": "The Independent World",
-          "fecha": "Sat, 18 Jul 2026 18:52:10 GMT",
           "idioma": "en"
         },
         {
@@ -678,14 +662,6 @@
           "fuente": "WIRED",
           "fecha": "Sun, 19 Jul 2026 09:00:00 +0000",
           "idioma": "en"
-        },
-        {
-          "id": "ev_5fac49f911",
-          "titulo": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
-          "url": "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Sat, 18 Jul 2026 12:00:02 GMT",
-          "idioma": "en"
         }
       ],
       "id": "nd_2026-07-19_0004",
@@ -696,55 +672,51 @@
         "nd_2026-07-19_0001",
         "nd_2026-07-19_0002",
         "nd_2026-07-19_0003",
-        "nd_2026-07-19_0005",
         "nd_2026-07-19_0007",
-        "nd_2026-07-19_0008",
-        "nd_2026-07-19_0010",
-        "nd_2026-07-19_0012",
-        "nd_2026-07-19_0013"
+        "nd_2026-07-19_0009",
+        "nd_2026-07-19_0011",
+        "nd_2026-07-19_0012"
       ]
     },
     {
       "titulo": {
-        "es": "Kuwait, Bahrain respond to Iranian attacks amid growing escalation",
-        "en": "Kuwait, Bahrain respond to Iranian attacks amid growing escalation"
+        "es": "Two US troops killed and one missing in Jordan after Iranian attacks",
+        "en": "Two US troops killed and one missing in Jordan after Iranian attacks"
       },
       "sintesis": {
-        "es": "The risk of a wider war in the Middle East is growing after authorities in Bahrain and Kuwait said they intercepted missiles and drones launched from Iran. Air raid sirens also sounded in Jordan's capital, Amman, while Israel said it detected Iranian missiles targeting the coastal city of Aqaba. The escalation comes after the US Embassy in Jordan urged American citizens, in a social media post, to avoid Aqaba's airport and seaport because of a specific and credible threat.",
-        "en": "The risk of a wider war in the Middle East is growing after authorities in Bahrain and Kuwait said they intercepted missiles and drones launched from Iran. Air raid sirens also sounded in Jordan's capital, Amman, while Israel said it detected Iranian missiles targeting the coastal city of Aqaba. The escalation comes after the US Embassy in Jordan urged American citizens, in a social media post, to avoid Aqaba's airport and seaport because of a specific and credible threat."
+        "es": "Sirens sound in Bahrain and Kuwait accuses Tehran of targeting civilian sites and infrastructure as Iran strikes US allies The US retaliated against Iran’s Revolutionary Guard (IRGC) after two American troops were killed and one was missing in Jordan when Tehran launched a wave of attacks against US allies in the Middle East. Iran’s attacks came as the renewal of US strikes on Iran entered a second week and fighting escalated over the strait of Hormuz. Continue reading...",
+        "en": "Sirens sound in Bahrain and Kuwait accuses Tehran of targeting civilian sites and infrastructure as Iran strikes US allies The US retaliated against Iran’s Revolutionary Guard (IRGC) after two American troops were killed and one was missing in Jordan when Tehran launched a wave of attacks against US allies in the Middle East. Iran’s attacks came as the renewal of US strikes on Iran entered a second week and fighting escalated over the strait of Hormuz. Continue reading..."
       },
       "categoria": "geopolitica",
       "actores": [
         "Iran",
-        "Iranian",
         "Jordan",
+        "Iranian",
         "Two"
       ],
       "geo": {
-        "lat": 38.9,
-        "lon": -77.0,
-        "region": "Norteamerica"
+        "lat": 32.4,
+        "lon": 53.7,
+        "region": "Oriente Medio"
       },
       "impacto": 83,
       "fuentes": [
         "ev_17e88e4b06",
         "ev_0442d673dc",
         "ev_213f9b3d7f",
-        "ev_ef0b3747c4",
-        "ev_02b631196a",
-        "ev_119e2f8513",
         "ev_639c0d0857",
         "ev_c969254fbd",
         "ev_bc6f9288ae",
         "ev_7aa50dbc62",
-        "ev_d012f134e4"
+        "ev_d012f134e4",
+        "ev_005e28963e"
       ],
       "cluster_id": "cl_154",
       "imagenes": [
         "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg",
         "https://i.guim.co.uk/img/media/46569dc860738ad3220fae89b1bae87bf53cd606/425_0_2499_1999/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=5704b672fcf8b12f952d5e1f18ba5e29",
-        "https://s.france24.com/media/display/2a9c29d0-8341-11f1-ba0d-005056bf30b7/w:1024/p:16x9/EN-20260719-060730-061016-CS.jpg",
-        "https://s.france24.com/media/display/911e0014-8375-11f1-bf57-005056a97e36/w:1024/p:16x9/EN-20260719-140220-140930-CS.jpg"
+        "https://static01.nyt.com/images/2026/07/19/multimedia/19mideast-live-promo-10AM-jmkw/19mideast-live-promo-10AM-jmkw-mediumSquareAt3X.jpg",
+        "https://static01.nyt.com/images/2026/07/18/world/18mideast-live-why-jordan-topart/18mideast-live-why-jordan-topart-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
@@ -773,30 +745,6 @@
           "idioma": "en"
         },
         {
-          "id": "ev_ef0b3747c4",
-          "titulo": "US launches new airstrikes on Iran after confirming troop deaths",
-          "url": "https://www.france24.com/en/video/20260719-us-launches-new-airstrikes-on-iran-after-confirming-troop-deaths-1",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 19 Jul 2026 07:15:46 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_02b631196a",
-          "titulo": "Kuwait, Bahrain respond to Iranian attacks amid growing escalation",
-          "url": "https://www.france24.com/en/kuwait-bahrain-respond-to-iranian-attacks-amid-growing-escalation",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 19 Jul 2026 13:42:39 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_119e2f8513",
-          "titulo": "US, Iran exchange new strikes",
-          "url": "https://www.france24.com/en/us-iran-exchange-new-strikes",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 19 Jul 2026 13:40:25 GMT",
-          "idioma": "en"
-        },
-        {
           "id": "ev_639c0d0857",
           "titulo": "Iran attacks US Gulf allies, causing a fire at Kuwait power plant",
           "url": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
@@ -809,7 +757,7 @@
           "titulo": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Service Members Killed",
           "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
           "fuente": "NYT World",
-          "fecha": "Sun, 19 Jul 2026 14:41:27 +0000",
+          "fecha": "Sun, 19 Jul 2026 15:17:55 +0000",
           "idioma": "en"
         },
         {
@@ -835,18 +783,22 @@
           "fuente": "CNBC Top News",
           "fecha": "Sun, 19 Jul 2026 14:52:49 GMT",
           "idioma": "en"
+        },
+        {
+          "id": "ev_005e28963e",
+          "titulo": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
+          "url": "https://www.nytimes.com/2026/07/18/world/middleeast/us-troops-killed-iran-war-jordan.html",
+          "fuente": "NYT World",
+          "fecha": "Sun, 19 Jul 2026 11:00:25 +0000",
+          "idioma": "en"
         }
       ],
       "id": "nd_2026-07-19_0005",
       "fecha": "2026-07-19",
       "kardashev": "K0",
       "relaciones": [
-        "nd_2026-07-19_0000",
-        "nd_2026-07-19_0002",
-        "nd_2026-07-19_0004",
         "nd_2026-07-19_0010",
-        "nd_2026-07-19_0012",
-        "nd_2026-07-19_0013"
+        "nd_2026-07-19_0011"
       ]
     },
     {
@@ -860,10 +812,10 @@
       },
       "categoria": "geopolitica",
       "actores": [
-        "Kyiv",
         "Russia",
+        "Kyiv",
         "Russian",
-        "One"
+        "Ukrainian"
       ],
       "geo": {
         "lat": 48.4,
@@ -876,13 +828,12 @@
         "ev_4a4779fd76",
         "ev_1a43ccc865",
         "ev_6dc3f93f04",
-        "ev_f7c65b7165",
-        "ev_c797aca00c",
-        "ev_8270754718",
-        "ev_1701e69aa3",
-        "ev_29e45054c9",
         "ev_edf99adc5a",
-        "ev_cc3db70bfa"
+        "ev_cc3db70bfa",
+        "ev_b0160e9aca",
+        "ev_c1b5364bba",
+        "ev_1701e69aa3",
+        "ev_29e45054c9"
       ],
       "cluster_id": "cl_156",
       "imagenes": [
@@ -926,27 +877,35 @@
           "idioma": "en"
         },
         {
-          "id": "ev_f7c65b7165",
-          "titulo": "Russia hits Kyiv with ballistic missiles",
-          "url": "https://www.france24.com/en/russia-hits-kyiv-with-ballistic-missiles",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 19 Jul 2026 14:41:56 GMT",
+          "id": "ev_edf99adc5a",
+          "titulo": "Deadly overnight Russian attack on Ukraine targets the capital",
+          "url": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
+          "fuente": "NPR News",
+          "fecha": "Sun, 19 Jul 2026 05:14:38 -0400",
           "idioma": "en"
         },
         {
-          "id": "ev_c797aca00c",
-          "titulo": "Russia launches deadly strikes on Kyiv after attack on Moscow warehouses",
-          "url": "https://www.france24.com/en/russia-launches-deadly-strikes-on-kyiv-after-attack-on-moscow-warehouses",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 19 Jul 2026 11:54:09 GMT",
+          "id": "ev_cc3db70bfa",
+          "titulo": "At least one killed as Russia launches overnight missile and drone attack on Kyiv",
+          "url": "http://www.euronews.com/my-europe/2026/07/19/at-least-one-killed-as-russia-launches-overnight-missile-and-drone-attack-on-kyiv",
+          "fuente": "Euronews English",
+          "fecha": "Sun, 19 Jul 2026 12:14:49 +0200",
           "idioma": "en"
         },
         {
-          "id": "ev_8270754718",
-          "titulo": "Millions in Kyiv 'didn't have time to seek shelter' ahead of Russian attack",
-          "url": "https://www.france24.com/en/millions-in-kyiv-didn-t-have-time-to-seek-shelter-ahead-of-russian-attack",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 19 Jul 2026 07:12:16 GMT",
+          "id": "ev_b0160e9aca",
+          "titulo": "Ukrainian forces strike 'major' logistics hubs in central Russia",
+          "url": "http://www.euronews.com/my-europe/2026/07/18/ukrainian-forces-strike-major-logistics-hubs-in-central-russia",
+          "fuente": "Euronews English",
+          "fecha": "Sat, 18 Jul 2026 11:47:18 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c1b5364bba",
+          "titulo": "Ukraine-Russia war latest: Russian oil depots hit after Putin launches ballistic missile attack on Kyiv",
+          "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-kyiv-putin-missile-attack-b3017606.html",
+          "fuente": "The Independent World",
+          "fecha": "Sun, 19 Jul 2026 11:12:44 GMT",
           "idioma": "en"
         },
         {
@@ -964,30 +923,12 @@
           "fuente": "ABC News Australia",
           "fecha": "Sun, 19 Jul 2026 09:45:19 +0000",
           "idioma": "en"
-        },
-        {
-          "id": "ev_edf99adc5a",
-          "titulo": "Deadly overnight Russian attack on Ukraine targets the capital",
-          "url": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
-          "fuente": "NPR News",
-          "fecha": "Sun, 19 Jul 2026 05:14:38 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_cc3db70bfa",
-          "titulo": "At least one killed as Russia launches overnight missile and drone attack on Kyiv",
-          "url": "http://www.euronews.com/my-europe/2026/07/19/at-least-one-killed-as-russia-launches-overnight-missile-and-drone-attack-on-kyiv",
-          "fuente": "Euronews English",
-          "fecha": "Sun, 19 Jul 2026 12:14:49 +0200",
-          "idioma": "en"
         }
       ],
       "id": "nd_2026-07-19_0006",
       "fecha": "2026-07-19",
       "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-07-19_0007"
-      ]
+      "relaciones": []
     },
     {
       "titulo": {
@@ -1006,9 +947,9 @@
         "Falklands"
       ],
       "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
       },
       "impacto": 83,
       "fuentes": [
@@ -1018,12 +959,12 @@
         "ev_6a0af6c173",
         "ev_d49b9579b9",
         "ev_f449741c6c",
-        "ev_c53900d0dd",
-        "ev_8b7255d9f2",
         "ev_ffb9b99f88",
+        "ev_c913c392d7",
+        "ev_c6604a852d",
         "ev_d46c42bdd2"
       ],
-      "cluster_id": "cl_165",
+      "cluster_id": "cl_166",
       "imagenes": [
         "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e16/live/e8524570-8226-11f1-bee8-53ce494e1abc.jpg",
         "https://i.guim.co.uk/img/media/23bbaeaf54b1dbb408a6ed771bcdd32deebfa5f3/219_0_4208_3368/master/4208.jpg?width=140&quality=85&auto=format&fit=max&s=fa0daaa725c79ec536ab2eab05641e13",
@@ -1081,27 +1022,27 @@
           "idioma": "en"
         },
         {
-          "id": "ev_c53900d0dd",
-          "titulo": "The week in pictures: The end of the World Cup, heatwaves and wildfires, war in Ukraine",
-          "url": "https://www.france24.com/en/americas/20260719-the-week-in-pictures-the-end-of-the-world-cup-heatwaves-and-wildfires-war-in-ukraine",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 19 Jul 2026 11:59:03 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8b7255d9f2",
-          "titulo": "Trump claims US World Cup a success, despite controversies, ahead of final",
-          "url": "https://www.france24.com/en/americas/20260719-trump-claims-us-world-cup-a-success-despite-controversies-ahead-of-final",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 19 Jul 2026 08:16:29 GMT",
-          "idioma": "en"
-        },
-        {
           "id": "ev_ffb9b99f88",
           "titulo": "World Cup 2026 final: Closing ceremony and half-time show – what to know",
           "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know?traffic_source=rss",
           "fuente": "Al Jazeera",
           "fecha": "Sun, 19 Jul 2026 09:35:52 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c913c392d7",
+          "titulo": "MLS works to bring in a new generation of fans as the World Cup comes to an end",
+          "url": "https://www.npr.org/2026/07/19/nx-s1-5899020/2026-world-cup-fifa-mls-major-league-soccer",
+          "fuente": "NPR News",
+          "fecha": "Sun, 19 Jul 2026 03:00:00 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c6604a852d",
+          "titulo": "World Cup stadiums were ‘built for yesterday’s climate’. Should the games be moved?",
+          "url": "http://www.euronews.com/2026/07/19/world-cup-stadiums-were-built-for-yesterdays-climate-should-the-games-be-moved",
+          "fuente": "Euronews English",
+          "fecha": "Sun, 19 Jul 2026 07:00:33 +0200",
           "idioma": "en"
         },
         {
@@ -1117,116 +1058,15 @@
       "fecha": "2026-07-19",
       "kardashev": "K1",
       "relaciones": [
+        "nd_2026-07-19_0000",
         "nd_2026-07-19_0001",
+        "nd_2026-07-19_0002",
         "nd_2026-07-19_0003",
         "nd_2026-07-19_0004",
-        "nd_2026-07-19_0006",
-        "nd_2026-07-19_0008"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "'That's crazy': Messi reflects on iconic photo with baby Lamine Yamal",
-        "en": "'That's crazy': Messi reflects on iconic photo with baby Lamine Yamal"
-      },
-      "sintesis": {
-        "es": "Lionel Messi described the viral photo of himself holding baby Lamine Yamal as \"crazy\" ahead of their World Cup final meeting. Messi praised the Spain star as one of the world's best but said Argentina would do everything possible to stop him.",
-        "en": "Lionel Messi described the viral photo of himself holding baby Lamine Yamal as \"crazy\" ahead of their World Cup final meeting. Messi praised the Spain star as one of the world's best but said Argentina would do everything possible to stop him."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Lamine Yamal",
-        "World Cup",
-        "Messi",
-        "Yamal"
-      ],
-      "geo": {
-        "lat": -38.4,
-        "lon": -63.6,
-        "region": "Sudamerica"
-      },
-      "impacto": 83,
-      "fuentes": [
-        "ev_be41123792",
-        "ev_c2dc09daee",
-        "ev_b60efb4e3e",
-        "ev_fd4511c33a",
-        "ev_c913c392d7",
-        "ev_741b10f454",
-        "ev_0e5eda6fa1"
-      ],
-      "cluster_id": "cl_222",
-      "imagenes": [
-        "https://static01.nyt.com/images/2026/07/19/multimedia/19int-spain-yamal-01-wgfb/19int-spain-yamal-01-wgfb-mediumSquareAt3X.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_be41123792",
-          "titulo": "The story behind football stars Messi and Yamal’s viral photo",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-football-stars-messi-and-yamals-viral-photo?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 19 Jul 2026 14:17:39 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c2dc09daee",
-          "titulo": "'That's crazy': Messi reflects on iconic photo with baby Lamine Yamal",
-          "url": "http://www.euronews.com/video/2026/07/18/thats-crazy-messi-reflects-on-iconic-photo-with-baby-lamine-yamal",
-          "fuente": "Euronews English",
-          "fecha": "Sat, 18 Jul 2026 08:00:19 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b60efb4e3e",
-          "titulo": "FIFA World Cup: Tobin Heath on record goals, France and Lamine Yamal",
-          "url": "https://www.aljazeera.com/sports/2026/7/19/tobin-heath-fifa-world-cup-2026-football-analysis-players-teams-tournament?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 19 Jul 2026 11:21:52 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_fd4511c33a",
-          "titulo": "Gaza cheers for Spain as World Cup final anticipation mounts",
-          "url": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 19 Jul 2026 10:09:25 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c913c392d7",
-          "titulo": "MLS works to bring in a new generation of fans as the World Cup comes to an end",
-          "url": "https://www.npr.org/2026/07/19/nx-s1-5899020/2026-world-cup-fifa-mls-major-league-soccer",
-          "fuente": "NPR News",
-          "fecha": "Sun, 19 Jul 2026 03:00:00 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_741b10f454",
-          "titulo": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
-          "url": "https://www.nytimes.com/2026/07/18/world/europe/spain-lamine-yamal.html",
-          "fuente": "NYT World",
-          "fecha": "Sat, 18 Jul 2026 13:56:40 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_0e5eda6fa1",
-          "titulo": "Meet Lamine Yamal, the Spanish prince set to claim his World Cup kingdom",
-          "url": "https://www.abc.net.au/news/2026-07-19/lamine-yamal-spain-world-up-final-argentina-barcelona/106927850",
-          "fuente": "ABC News Australia",
-          "fecha": "Sun, 19 Jul 2026 02:15:30 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-07-19_0008",
-      "fecha": "2026-07-19",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-07-19_0001",
-        "nd_2026-07-19_0003",
-        "nd_2026-07-19_0004",
-        "nd_2026-07-19_0007",
-        "nd_2026-07-19_0009"
+        "nd_2026-07-19_0009",
+        "nd_2026-07-19_0011",
+        "nd_2026-07-19_0012",
+        "nd_2026-07-19_0013"
       ]
     },
     {
@@ -1236,7 +1076,7 @@
       },
       "sintesis": {
         "es": "Andy Burnham ha sido elegido para liderar al Partido Laborista con la vista puesta en las elecciones de 2029. Su desafío será recuperar el terreno perdido ante el partido antisistema y antiinmigración de Reform UK, de Nigel Farage. El lunes 20 de julio asumirá el cargo de primer ministro después de que dimita Keir Starmer.",
-        "en": "A longstanding bromance means the Liverpool regional major very much has the ear of the soon-to-be PM When a new prime minister enters Downing Street, observers usually look to those around the cabinet table to see where influence lies. With Andy Burnham, they should look 200 miles north – not to Manchester, but Liverpool. Steve Rotheram, the mayor of Liverpool city region, may not have a formal role in government but he has a strong claim to having the closest personal bond to the incoming prime minister, a man he calls his “bezzie mate”."
+        "en": "A longstanding bromance means the Liverpool regional mayor very much has the ear of the soon-to-be PM When a new prime minister enters Downing Street, observers usually look to those around the cabinet table to see where influence lies. With Andy Burnham, they should look 200 miles north – not to Manchester, but Liverpool. Steve Rotheram, the mayor of Liverpool city region, may not have a formal role in government but he has a strong claim to having the closest personal bond to the incoming prime minister, a man he calls his “bezzie mate”."
       },
       "categoria": "sociedad",
       "actores": [
@@ -1308,13 +1148,12 @@
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-07-19_0009",
+      "id": "nd_2026-07-19_0008",
       "fecha": "2026-07-19",
       "kardashev": "K0",
       "relaciones": [
         "nd_2026-07-19_0001",
-        "nd_2026-07-19_0003",
-        "nd_2026-07-19_0008"
+        "nd_2026-07-19_0013"
       ]
     },
     {
@@ -1346,7 +1185,7 @@
         "ev_6a741748fe",
         "ev_60ee9309cd"
       ],
-      "cluster_id": "cl_088",
+      "cluster_id": "cl_087",
       "imagenes": [
         "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/17/17842696515495.jpg",
         "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/16/17842298554116.jpg",
@@ -1395,16 +1234,17 @@
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-07-19_0010",
+      "id": "nd_2026-07-19_0009",
       "fecha": "2026-07-19",
       "kardashev": "K1",
       "relaciones": [
         "nd_2026-07-19_0000",
         "nd_2026-07-19_0002",
+        "nd_2026-07-19_0003",
         "nd_2026-07-19_0004",
-        "nd_2026-07-19_0005",
-        "nd_2026-07-19_0012",
-        "nd_2026-07-19_0013"
+        "nd_2026-07-19_0007",
+        "nd_2026-07-19_0011",
+        "nd_2026-07-19_0012"
       ]
     },
     {
@@ -1482,14 +1322,16 @@
           "titulo": "‘ Hamas shot me at point-blank range’: Israeli hostage recounts her October 7 abduction into Gaza",
           "url": "https://www.independent.co.uk/news/world/middle-east/mia-schem-october-7-hostage-israel-nova-hamas-b3011958.html",
           "fuente": "The Independent World",
-          "fecha": "Sun, 19 Jul 2026 08:00:34 GMT",
+          "fecha": "Sun, 19 Jul 2026 15:06:29 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-07-19_0011",
+      "id": "nd_2026-07-19_0010",
       "fecha": "2026-07-19",
       "kardashev": "K0",
-      "relaciones": []
+      "relaciones": [
+        "nd_2026-07-19_0005"
+      ]
     },
     {
       "titulo": {
@@ -1519,7 +1361,7 @@
         "ev_d4eb4317fd",
         "ev_df1a325d70"
       ],
-      "cluster_id": "cl_047",
+      "cluster_id": "cl_048",
       "imagenes": [
         "https://s.france24.com/media/display/da7a25d2-8373-11f1-9a8f-005056a90284/w:1024/p:16x9/AP26161573913572.jpg",
         "https://s.rfi.fr/media/display/32b56956-8157-11f1-9791-005056bfb2b6/w:1024/p:16x9/2026-07-16T023857Z-117826858-RC2QEMAW82QU-RTRMADP-3-IRAN-CRISIS-USA.jpg"
@@ -1575,16 +1417,18 @@
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-07-19_0012",
+      "id": "nd_2026-07-19_0011",
       "fecha": "2026-07-19",
       "kardashev": "K1",
       "relaciones": [
         "nd_2026-07-19_0000",
         "nd_2026-07-19_0002",
+        "nd_2026-07-19_0003",
         "nd_2026-07-19_0004",
         "nd_2026-07-19_0005",
-        "nd_2026-07-19_0010",
-        "nd_2026-07-19_0013"
+        "nd_2026-07-19_0007",
+        "nd_2026-07-19_0009",
+        "nd_2026-07-19_0012"
       ]
     },
     {
@@ -1615,7 +1459,7 @@
         "ev_74a9a1396c",
         "ev_804f92549e"
       ],
-      "cluster_id": "cl_083",
+      "cluster_id": "cl_082",
       "imagenes": [
         "https://i.guim.co.uk/img/media/9dd4ecb6182947314598e35bf9c0ee098f09c831/233_0_2814_2252/master/2814.jpg?width=140&quality=85&auto=format&fit=max&s=6ce07c3c54cf684cfbff7118aa522229",
         "https://static01.nyt.com/images/2026/07/18/multimedia/18int-germany-surrogacy-01-wfkj/18int-germany-surrogacy-01-wfkj-mediumSquareAt3X.jpg"
@@ -1655,16 +1499,142 @@
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-07-19_0013",
+      "id": "nd_2026-07-19_0012",
       "fecha": "2026-07-19",
       "kardashev": "K0",
       "relaciones": [
         "nd_2026-07-19_0000",
         "nd_2026-07-19_0002",
+        "nd_2026-07-19_0003",
         "nd_2026-07-19_0004",
-        "nd_2026-07-19_0005",
-        "nd_2026-07-19_0010",
-        "nd_2026-07-19_0012"
+        "nd_2026-07-19_0007",
+        "nd_2026-07-19_0009",
+        "nd_2026-07-19_0011"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Mundial 2026: el naufragio y la loca remontada frustrada de Francia ante Inglaterra",
+        "en": "Mundial 2026: el naufragio y la loca remontada frustrada de Francia ante Inglaterra"
+      },
+      "sintesis": {
+        "es": "El partido por el tercer puesto de la Copa del Mundo 2026, este sábado 18 de julio, vio a la selección francesa hundirse en un primer tiempo de pesadilla. Con un marcador de 0-4 al descanso, los Bleus lograron una increíble remontada para igualar a 3-4 y luego 4-5, rozando la hazaña. Finalmente, cayeron ante Inglaterra (4-6), que se llevó el tercer lugar del torneo.",
+        "en": "El partido por el tercer puesto de la Copa del Mundo 2026, este sábado 18 de julio, vio a la selección francesa hundirse en un primer tiempo de pesadilla. Con un marcador de 0-4 al descanso, los Bleus lograron una increíble remontada para igualar a 3-4 y luego 4-5, rozando la hazaña. Finalmente, cayeron ante Inglaterra (4-6), que se llevó el tercer lugar del torneo."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Mundial",
+        "Francia",
+        "Inglaterra",
+        "Argentina"
+      ],
+      "geo": {
+        "lat": -38.4,
+        "lon": -63.6,
+        "region": "Sudamerica"
+      },
+      "impacto": 74,
+      "fuentes": [
+        "ev_d4c63363cf",
+        "ev_719120619a",
+        "ev_f989bf608c",
+        "ev_0ec86d1bb9",
+        "ev_1d6b7b738a",
+        "ev_ab623e9445",
+        "ev_16e895a6d2",
+        "ev_701bd6368d",
+        "ev_6cc7d675c0"
+      ],
+      "cluster_id": "cl_005",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7efa/live/69f655f0-8306-11f1-b976-0b9c15b0ccfc.jpg",
+        "https://s.rfi.fr/media/display/d482a3f2-8378-11f1-a964-005056a90284/w:1024/p:16x9/AP26193019902935.jpg",
+        "https://s.rfi.fr/media/display/591f0bfe-82f8-11f1-9dcd-005056bfb2b6/w:1024/p:16x9/AP26199801863873.jpg",
+        "https://s.rfi.fr/media/display/add2eb24-81e1-11f1-8a19-005056bfb2b6/w:1024/p:16x9/hq720-27.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d4c63363cf",
+          "titulo": "Inglaterra gana 6-4 a Francia en un épico partido por el tercer puesto del Mundial 2026: Mbappé es el máximo goleador de la historia del torneo",
+          "url": "https://www.bbc.com/mundo/articles/clyl4y80x1no?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sun, 19 Jul 2026 00:17:35 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_719120619a",
+          "titulo": "Francia - Inglaterra: La lucha por el pichichi y los retos del tercer puesto",
+          "url": "http://es.euronews.com/my-europe/2026/07/18/el-ultimo-partido-de-didier-deschamps-la-lucha-por-el-pichichi-retos-del-tercer-puesto",
+          "fuente": "Euronews Espanol",
+          "fecha": "Sat, 18 Jul 2026 11:42:40 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f989bf608c",
+          "titulo": "Bradley Barcola anota con pelota filtrada de Mbappé; Francia descuenta 4-2",
+          "url": "https://www.france24.com/es/deportes/20260718-en-directo-francia-e-inglaterra-van-por-un-%C3%BAltimo-objetivo-antes-de-decir-adi%C3%B3s-al-mundial-2026",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sat, 18 Jul 2026 22:19:34 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_0ec86d1bb9",
+          "titulo": "Mundial 2026: Hinchar contra Messi y Argentina, un fenómeno vivaz en América Latina... y en Francia",
+          "url": "https://www.rfi.fr/es/deportes/20260719-mundial-2026-hinchar-contra-messi-y-argentina-un-creciente-fen%C3%B3meno-en-am%C3%A9rica-latina",
+          "fuente": "RFI Espanol",
+          "fecha": "Sun, 19 Jul 2026 13:52:21 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_1d6b7b738a",
+          "titulo": "Mundial 2026: el naufragio y la loca remontada frustrada de Francia ante Inglaterra",
+          "url": "https://www.rfi.fr/es/deportes/20260718-mundial-2026-el-naufragio-y-la-loca-remontada-frustrada-de-francia-ante-inglaterra",
+          "fuente": "RFI Espanol",
+          "fecha": "Sat, 18 Jul 2026 23:56:15 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_ab623e9445",
+          "titulo": "Diario del Mundial 28#: La final más esperada de la historia: España- Argentina",
+          "url": "https://www.rfi.fr/es/programas/el-deportivo-de-rfi/20260717-diario-del-mundial-28-la-final-m%C3%A1s-esperada-de-la-historia-espa%C3%B1a-argentina",
+          "fuente": "RFI Espanol",
+          "fecha": "Fri, 17 Jul 2026 14:11:09 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_16e895a6d2",
+          "titulo": "Las predicciones animales más virales y divertidas de la final del Mundial 2026: España - Argentina",
+          "url": "http://es.euronews.com/2026/07/19/las-predicciones-animales-mas-virales-y-divertidas-de-la-final-del-mundial-2026-espana-arg",
+          "fuente": "Euronews Espanol",
+          "fecha": "Sun, 19 Jul 2026 14:43:48 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_701bd6368d",
+          "titulo": "El partido con más goles del Mundial 2026, Inglaterra gana 6-4 a Francia y acaba tercera",
+          "url": "http://es.euronews.com/2026/07/19/el-partido-con-mas-goles-del-mundial-2026-inglaterra-gana-6-4-a-francia-y-acaba-tercera",
+          "fuente": "Euronews Espanol",
+          "fecha": "Sun, 19 Jul 2026 08:56:30 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_6cc7d675c0",
+          "titulo": "España y Argentina: Claves, dónde, cómo y cuándo ver la final, en español, del Mundial 2026",
+          "url": "http://es.euronews.com/2026/07/18/espana-argentina-horario-y-claves-de-la-gran-final-mundial-2026-en-nueva-york",
+          "fuente": "Euronews Espanol",
+          "fecha": "Sat, 18 Jul 2026 10:00:57 +0200",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-07-19_0013",
+      "fecha": "2026-07-19",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-07-19_0001",
+        "nd_2026-07-19_0003",
+        "nd_2026-07-19_0007",
+        "nd_2026-07-19_0008"
       ]
     }
   ]
