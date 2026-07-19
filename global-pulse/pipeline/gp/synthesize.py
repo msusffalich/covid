@@ -105,7 +105,7 @@ def synth_api(cluster: dict, api_key: str) -> dict:
     payload = {
         "model": config.ANTHROPIC_MODEL,
         "max_tokens": 900,
-        "temperature": 0.2,
+        # sin 'temperature': los modelos actuales lo rechazan como obsoleto
         "system": MASTER_PROMPT.format(cats=", ".join(config.CATEGORIES)),
         "messages": [{"role": "user", "content": json.dumps(
             [{k: p[k] for k in ("id", "titulo", "cuerpo", "fuente", "idioma",
