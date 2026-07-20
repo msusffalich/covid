@@ -45,7 +45,7 @@ export const DICT = {
       geopolitica: 'Geopolítica', economia: 'Economía', ciencia: 'Ciencia',
       clima: 'Impacto climático', tecnologia: 'Tecnología',
       innovacion: 'Innovación y dispositivos', salud: 'Salud y bienestar',
-      sociedad: 'Sociedad',
+      sociedad: 'Cultura y sociedad',
     } as Record<string, string>,
   },
   en: {
@@ -91,7 +91,7 @@ export const DICT = {
       geopolitica: 'Geopolitics', economia: 'Economy', ciencia: 'Science',
       clima: 'Climate impact', tecnologia: 'Technology',
       innovacion: 'Innovation & devices', salud: 'Health & wellness',
-      sociedad: 'Society',
+      sociedad: 'Culture & society',
     } as Record<string, string>,
   },
 } as const

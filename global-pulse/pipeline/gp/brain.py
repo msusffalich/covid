@@ -85,7 +85,7 @@ def _cat_title(cat: str) -> str:
     names = {"geopolitica": "Geopolitica", "economia": "Economia",
              "ciencia": "Ciencia", "clima": "Impacto Climatico",
              "tecnologia": "Tecnologia", "innovacion": "Innovacion",
-             "salud": "Salud y Bienestar", "sociedad": "Sociedad"}
+             "salud": "Salud y Bienestar", "sociedad": "Cultura y Sociedad"}
     return names.get(cat, cat.title())
 
 

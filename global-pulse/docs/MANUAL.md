@@ -34,7 +34,7 @@ La leyenda **«Cómo leer esta vista»** aparece siempre bajo el panel.
 Filtra tocando las categorías (se pueden combinar varias) y por impacto mínimo
 con el deslizador. Se aplican a las tres vistas. Las categorías son:
 
-- **Geopolítica** · **Economía** · **Ciencia** · **Tecnología** · **Sociedad**
+- **Geopolítica** · **Economía** · **Ciencia** · **Tecnología** · **Cultura y Sociedad**
 - **Impacto climático:** consecuencias del cambio climático (fenómenos
   extremos, emisiones, deshielo, adaptación).
 - **Innovación y dispositivos:** productos nuevos, inventos, prototipos y
@@ -130,7 +130,7 @@ The **"How to read this view"** legend always sits under the panel.
 Filter by tapping categories (several can be combined) and by minimum impact
 with the slider. Filters apply to all views. Categories are:
 
-- **Geopolitics** · **Economy** · **Science** · **Technology** · **Society**
+- **Geopolitics** · **Economy** · **Science** · **Technology** · **Culture & Society**
 - **Climate impact:** consequences of climate change (extreme events,
   emissions, ice loss, adaptation).
 - **Innovation & devices:** new products, inventions, prototypes and launches.

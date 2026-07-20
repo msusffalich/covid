@@ -137,8 +137,9 @@ CATEGORY_DEFS = {
                    "prototipos, patentes, gadgets, vehiculos, robotica",
     "salud":       "medicina, salud publica, epidemias, farmacos, salud "
                    "mental, nutricion y bienestar",
-    "sociedad":    "educacion, migracion, derechos humanos, cultura, "
-                   "religion, demografia y vida social",
+    "sociedad":    "cultura y sociedad: artes, entretenimiento, patrimonio, "
+                   "educacion, religion, migracion, derechos humanos, "
+                   "demografia y vida social",
 }
 
 # Palabras clave por categoria (es + en, minusculas)
