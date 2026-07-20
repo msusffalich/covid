@@ -115,6 +115,32 @@ MAX_API_CLUSTERS = 40         # solo los N clusters con mas potencial van al LLM
 CATEGORIES = ["geopolitica", "economia", "ciencia", "clima", "tecnologia",
               "innovacion", "salud", "sociedad"]
 
+# Definiciones estrictas de cada categoria. Se inyectan en el prompt maestro
+# para que el LLM no interprete los nombres libremente (p. ej. 'clima' NO es
+# meteorologia ni clima politico/social: es impacto del cambio climatico).
+CATEGORY_DEFS = {
+    "geopolitica": "relaciones entre estados, conflictos, diplomacia, "
+                   "elecciones, defensa y seguridad internacional",
+    "economia":    "macroeconomia, mercados, comercio, banca central, "
+                   "empleo, empresas y finanzas",
+    "ciencia":     "descubrimientos e investigacion cientifica (fisica, "
+                   "espacio, biologia, arqueologia...)",
+    "clima":       "IMPACTO DEL CAMBIO CLIMATICO exclusivamente: fenomenos "
+                   "extremos y sus consecuencias (sequias, inundaciones, olas "
+                   "de calor, incendios), emisiones, deshielo, nivel del mar, "
+                   "adaptacion, transicion energetica y politica climatica. "
+                   "PROHIBIDO usarla para meteorologia rutinaria o para "
+                   "sentidos figurados de 'clima' (politico, social, cultural)",
+    "tecnologia":  "industria tecnologica: IA, chips, ciberseguridad, "
+                   "plataformas, software, telecomunicaciones",
+    "innovacion":  "productos, dispositivos e inventos NUEVOS: lanzamientos, "
+                   "prototipos, patentes, gadgets, vehiculos, robotica",
+    "salud":       "medicina, salud publica, epidemias, farmacos, salud "
+                   "mental, nutricion y bienestar",
+    "sociedad":    "educacion, migracion, derechos humanos, cultura, "
+                   "religion, demografia y vida social",
+}
+
 # Palabras clave por categoria (es + en, minusculas)
 CATEGORY_KEYWORDS = {
     "geopolitica": ["guerra", "war", "tratado", "treaty", "cumbre", "summit",

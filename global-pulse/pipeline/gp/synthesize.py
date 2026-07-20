@@ -12,13 +12,16 @@ import urllib.request
 from . import config
 from .config import CATEGORY_KEYWORDS, GAZETTEER
 
-MASTER_PROMPT = """Eres un analista de inteligencia neutral (Sintetizador de nodos de impacto v3).
+MASTER_PROMPT = """Eres un analista de inteligencia neutral (Sintetizador de nodos de impacto v4).
 Recibes un cluster de piezas informativas (titulo, cuerpo, fuente, idioma, fecha).
 Tarea:
 1. Resume el evento en 2-4 frases, sin opinion, en ESPANOL NEUTRO y en INGLES.
-2. Asigna categoria ({cats}), actores principales y geolocalizacion (lat/lon + region).
-3. Puntua impacto 0-100 (alcance x novedad x relevancia estrategica).
-4. Cita las fuentes por su id.
+2. Asigna UNA categoria respetando estrictamente estas definiciones:
+{cats}
+   Si el evento encaja en varias, elige la del angulo dominante de la cobertura.
+3. Identifica actores principales y geolocalizacion (lat/lon + region).
+4. Puntua impacto 0-100 (alcance x novedad x relevancia estrategica).
+5. Cita las fuentes por su id.
 Responde UNICAMENTE JSON valido:
 {{"titulo":{{"es":"...","en":"..."}},"sintesis":{{"es":"...","en":"..."}},
 "categoria":"...","actores":["..."],"geo":{{"lat":0.0,"lon":0.0,"region":"..."}},
@@ -115,7 +118,8 @@ def synth_api(cluster: dict, api_key: str) -> dict:
         "model": config.ANTHROPIC_MODEL,
         "max_tokens": 900,
         # sin 'temperature': los modelos actuales lo rechazan como obsoleto
-        "system": MASTER_PROMPT.format(cats=", ".join(config.CATEGORIES)),
+        "system": MASTER_PROMPT.format(cats="\n".join(
+            f"   - {c}: {d}" for c, d in config.CATEGORY_DEFS.items())),
         "messages": [{"role": "user", "content": json.dumps(
             [{k: p[k] for k in ("id", "titulo", "cuerpo", "fuente", "idioma",
                                 "fecha_pub")} for p in cluster["piezas"]],
