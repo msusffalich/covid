@@ -1,35 +1,151 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-07-28",
-    "generado": "2026-07-28T07:34:36.907350+00:00",
+    "fecha": "2026-07-29",
+    "generado": "2026-07-29T07:36:46.924578+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 856,
-      "clusters": 556,
-      "nodos": 556,
-      "verificados": 556,
-      "duracion_s": 356.1
+      "piezas_ingeridas": 745,
+      "clusters": 469,
+      "nodos": 469,
+      "verificados": 469,
+      "duracion_s": 94.2
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Reunión entre Netanyahu y Trump: la Fuerza Internacional en Gaza en el centro de la agenda",
-        "en": "As the US pauses the war with Iran, is Trump really running out of weapons?"
+        "es": "Merz insta a evitar la división tras el ataque mortal durante el Orgullo de Berlín",
+        "en": "Berlin Pride attack sparks fresh questions over EU intelligence sharing"
       },
       "sintesis": {
-        "es": "El primer ministro israelí Benjamín Netanyahu inicia este lunes 27 de julio una visita de tres días en Washington. Se reunirá con Donald Trump el martes 28 de julio a quien tendrá que explicar su agenda marcada por ambigüedades: busca oponerse a las peticiones de la Casa Blanca para que retire su ejército en Gaza, Líbano y Siria mientras el gobierno israelí valida la presencia de la Fuerza Internacional para la Franja de Gaza.",
-        "en": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously low."
+        "es": "Las autoridades continúan las labores de búsqueda del sospechoso que embistión con un vehículo a una multitud de gente, dejando un muerto y al menos 29 heridos. Según el ministro del Interior de Alemania, todo indica que fue \"un ataque terrorista islamista\".",
+        "en": "The Berlin Pride attack has reignited debate over whether intelligence sharing between EU member states is sufficient. The attacker was known to German authorities and had travelled to Turkey looking to enter Syria."
       },
       "categoria": "geopolitica",
       "actores": [
+        "Orgullo",
+        "Merz",
+        "Berlin Pride",
+        "Merz Criticizes"
+      ],
+      "geo": {
+        "lat": 51.2,
+        "lon": 10.4,
+        "region": "Europa"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_fa5daa72b7",
+        "ev_ec36cef9e8",
+        "ev_ca0fa3f16a",
+        "ev_f26141cd47",
+        "ev_feffc89cda",
+        "ev_c61a61aec8",
+        "ev_a8d89b4bcc",
+        "ev_9efdc09334"
+      ],
+      "cluster_id": "cl_041",
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/QQMMSUIBHZMG7DXMNTP42KCFO4.jpg?auth=c1ba12b4673e0a37c8f710cce40a857ccb83b7b2d91f2699c3688dc04b1c6ce0",
+        "https://s.rfi.fr/media/display/dbe7138a-8909-11f1-b4e0-005056bfb2b6/w:1024/p:16x9/AP26207562527849.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/26/17850787948135.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/26/17850181211477.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_fa5daa72b7",
+          "titulo": "Merz abre la puerta a reforzar el seguimiento de islamistas peligrosos tras el atentado de Berlín",
+          "url": "https://elpais.com/internacional/2026-07-28/merz-abre-la-puerta-a-reforzar-el-seguimiento-de-islamistas-peligrosos-tras-el-atentado-de-berlin.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Tue, 28 Jul 2026 03:30:01 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_ec36cef9e8",
+          "titulo": "Merz insta a evitar la división tras el ataque mortal durante el Orgullo de Berlín",
+          "url": "https://www.rfi.fr/es/europa/20260726-merz-insta-a-evitar-la-divisi%C3%B3n-tras-el-ataque-mortal-durante-el-orgullo-de-berl%C3%ADn",
+          "fuente": "RFI Espanol",
+          "fecha": "Sun, 26 Jul 2026 15:58:05 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_ca0fa3f16a",
+          "titulo": "La comunidad de Berlín recuerda a las víctimas del ataque al desfile del Orgullo",
+          "url": "http://es.euronews.com/video/2026/07/28/la-comunidad-de-berlin-recuerda-a-las-victimas-del-ataque-al-desfile-del-orgullo",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 28 Jul 2026 13:20:16 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f26141cd47",
+          "titulo": "La Policía alemana abate al principal sospechoso del atentado terrorista perpetrado durante el Orgullo de Berlín",
+          "url": "https://www.elmundo.es/internacional/2026/07/26/6a6604bcfdddff744f8b4582.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sun, 26 Jul 2026 19:47:16 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_feffc89cda",
+          "titulo": "Una mujer muerta y 29 heridos al embestir a la multitud tras el desfile del Orgullo en Berlín un vehículo conducido por un hombre con \"vínculos islamistas\"",
+          "url": "https://www.elmundo.es/internacional/2026/07/25/6a652b44fc6c83ce3d8b4573.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sun, 26 Jul 2026 12:40:39 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_c61a61aec8",
+          "titulo": "Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack",
+          "url": "https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html",
+          "fuente": "NYT World",
+          "fecha": "Mon, 27 Jul 2026 15:56:43 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a8d89b4bcc",
+          "titulo": "Berlin Pride attack sparks fresh questions over EU intelligence sharing",
+          "url": "http://www.euronews.com/my-europe/2026/07/28/berlin-pride-attack-sparks-fresh-questions-over-eu-intelligence-sharing",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 28 Jul 2026 19:00:39 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9efdc09334",
+          "titulo": "Berlin community remembers victims of Pride parade attack",
+          "url": "http://www.euronews.com/video/2026/07/28/berlin-community-remembers-victims-of-pride-parade-attack",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 28 Jul 2026 13:19:23 +0200",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-29_0000",
+      "fecha": "2026-07-29",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-07-29_0003",
+        "nd_2026-07-29_0004",
+        "nd_2026-07-29_0005",
+        "nd_2026-07-29_0008"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Netanyahu y Zelenski viajaron a Washington en visitas oficiales",
+        "en": "White House teleprompter operator accused over Trump bets no longer in job, official says"
+      },
+      "sintesis": {
+        "es": "El presidente estadounidense, Donald Trump, recibió en la Casa Blanca al primer ministro israelí, Benjamín Netanyahu, este 28 de julio. \"Fue una conversación de comprensión del objetivo común: garantizar que Irán no posea armas nucleares\", aseguró el premier israelí. Trump, por su parte, reafirmó la alianza entre ambos países.",
+        "en": "Official declines to say whether Gabriel Perez, who allegedly bet on prediction market Kalshi, resigned or was fired A White House teleprompter operator who reportedly used inside knowledge to make bets about Donald Trump’s speeches on the online prediction market Kalshi is no longer in his post, according to a White House official. The official, who was not authorized to comment publicly about the personnel matter and spoke on condition of anonymity, said on Tuesday that Gabriel Perez “no longer works in the federal government”. Continue reading..."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "White House",
         "Trump",
-        "Iran",
-        "Ukraine",
-        "Netanyahu"
+        "Netanyahu",
+        "Zelensky"
       ],
       "geo": {
         "lat": 48.4,
@@ -38,226 +154,601 @@
       },
       "impacto": 95,
       "fuentes": [
-        "ev_9500859410",
-        "ev_8759a59a55",
-        "ev_023d8946e5",
-        "ev_08d3bb0bc8",
-        "ev_85854cb219",
-        "ev_e0019940c3",
-        "ev_afd642c8b7",
-        "ev_31133feb5a",
-        "ev_6e11f1ceec",
-        "ev_1f76941dd6",
-        "ev_f572ca63e0",
-        "ev_371fdc660b",
-        "ev_0bcad964b3",
-        "ev_2e961aa0d8",
-        "ev_6d9b045c1d",
-        "ev_d273586c10",
-        "ev_bc25eb6e1a",
-        "ev_6d34d7c80c",
-        "ev_b319252b86",
-        "ev_765b239605",
-        "ev_d50823c440",
-        "ev_644eea017d",
-        "ev_a9583798bd",
-        "ev_1bf6e01f0a",
-        "ev_0dfc1dab43"
+        "ev_d8f11a3e32",
+        "ev_5caac7c83f",
+        "ev_65a007792e",
+        "ev_ee1da756d4",
+        "ev_9e503281e7",
+        "ev_dff5eade02",
+        "ev_903bb09757",
+        "ev_096e32d1db",
+        "ev_3d04c9180c",
+        "ev_80a48b93c8",
+        "ev_6b965a264f",
+        "ev_498f7df542",
+        "ev_6af0af561d"
       ],
-      "cluster_id": "cl_000",
+      "cluster_id": "cl_045",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1efc/live/81743bf0-89cf-11f1-b8ee-9b3c26ad07bb.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39ff/live/b4f32e80-879c-11f1-838a-ddd3555e63a1.jpg",
-        "https://imagenes.elpais.com/resizer/v2/RYHYMN2VHNEIBNNROZT6IQ7KH4.jpg?auth=b801e965413591bf4f3dd9412263353321c66812ef89b584ec113e68215dd106",
-        "https://imagenes.elpais.com/resizer/v2/IBJIWJ5EH5E55CCSLR3MGKORPA.jpg?auth=5401a720cdaf6055effb65ef1a39cc3569440ce466b3c34bfcffbff9825da073"
+        "https://s.france24.com/media/display/575024f2-8aeb-11f1-9288-005056bfb2b6/w:1024/p:16x9/ES-20260728-201144-201337-CS.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4abf/live/3a7f1ae0-8a19-11f1-b8ee-9b3c26ad07bb.jpg",
+        "https://s.france24.com/media/display/fe0adac2-8a90-11f1-b4c5-005056bf30b7/w:1024/p:16x9/2026-07-28T050016Z-230701877-RC2XPIALK8V5-RTRMADP-3-USA-TRUMP-NETANYAHU.jpg",
+        "https://static01.nyt.com/images/2026/07/28/multimedia/28int-zelensky-trump-01-wtjf/28int-zelensky-trump-01-wtjf-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_9500859410",
-          "titulo": "Qué papel tiene realmente la escasez de municiones en que Trump haya puesto en pausa la guerra con Irán",
-          "url": "https://www.bbc.com/mundo/articles/c1d1e3zwpqdo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Tue, 28 Jul 2026 04:00:52 GMT",
+          "id": "ev_d8f11a3e32",
+          "titulo": "Netanyahu y Zelenski viajaron a Washington en visitas oficiales",
+          "url": "https://www.france24.com/es/video/20260729-netanyahu-y-zelenski-viajaron-a-washington-en-visitas-oficiales",
+          "fuente": "France 24 Espanol",
+          "fecha": "Wed, 29 Jul 2026 01:20:06 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_8759a59a55",
-          "titulo": "Qué es la montaña Pickaxe, la instalación secreta y fuertemente protegida de Irán que Trump ha prometido atacar \"con dureza\"",
-          "url": "https://www.bbc.com/mundo/articles/cq89yqezpjyo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Sat, 25 Jul 2026 02:48:53 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_023d8946e5",
-          "titulo": "Netanyahu viaja a EE UU para reunirse con Trump tras los encontronazos mantenidos sobre la guerra en Irán",
-          "url": "https://elpais.com/internacional/2026-07-27/netanyahu-viaja-a-ee-uu-para-reunirse-con-trump-tras-los-encontronazos-mantenidos-sobre-la-guerra-en-iran.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Mon, 27 Jul 2026 18:13:49 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_08d3bb0bc8",
-          "titulo": "Trump encuentra en Irán su guerra interminable",
-          "url": "https://elpais.com/internacional/2026-07-26/trump-encuentra-en-iran-su-guerra-interminable.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sun, 26 Jul 2026 03:30:01 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_85854cb219",
-          "titulo": "Trump trata de volver a la mesa de negociación con Irán tras dos semanas de guerra abierta",
-          "url": "https://elpais.com/internacional/2026-07-27/trump-trata-de-volver-a-la-mesa-de-negociacion-con-iran-tras-dos-semanas-de-guerra-abierta.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Mon, 27 Jul 2026 16:27:03 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_e0019940c3",
-          "titulo": "Reunión entre Netanyahu y Trump: la Fuerza Internacional en Gaza en el centro de la agenda",
-          "url": "https://www.rfi.fr/es/oriente-medio/20260727-r%C3%A9union-entre-netanyahu-y-trump-la-fuerza-internacional-en-gaza-en-el-centro-de-la-agenda",
-          "fuente": "RFI Espanol",
-          "fecha": "Mon, 27 Jul 2026 15:27:10 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_afd642c8b7",
-          "titulo": "Trump ordena detener los bombardeos contra Irán para negociar un acuerdo",
-          "url": "https://www.elmundo.es/internacional/2026/07/27/6a671711fdddfff3038b458e.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Tue, 28 Jul 2026 08:36:21 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_31133feb5a",
-          "titulo": "Trump says Iran war talks taking place during lull in strikes",
-          "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+          "id": "ev_5caac7c83f",
+          "titulo": "What to expect from Zelensky and Netanyahu's visit to Washington",
+          "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Mon, 27 Jul 2026 21:10:56 GMT",
+          "fecha": "Tue, 28 Jul 2026 00:30:11 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_6e11f1ceec",
-          "titulo": "Trump says Iran talks taking place during pause in US military strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+          "id": "ev_65a007792e",
+          "titulo": "Zelensky visit White House in test to Maga's 'significant shift towards' Kyiv",
+          "url": "https://www.france24.com/en/zelensky-visit-white-house-in-test-to-maga-s-significant-shift-towards-kyiv",
+          "fuente": "France 24 English",
+          "fecha": "Tue, 28 Jul 2026 14:33:15 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ee1da756d4",
+          "titulo": "Zelensky and Trump Meet at the White House. Has Their Relationship Thawed?",
+          "url": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html",
+          "fuente": "NYT World",
+          "fecha": "Wed, 29 Jul 2026 03:26:59 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9e503281e7",
+          "titulo": "White House teleprompter operator accused over Trump bets no longer in job, official says",
+          "url": "https://www.theguardian.com/us-news/2026/jul/28/white-house-telemprompter-trump-bets",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 28 Jul 2026 23:42:32 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_dff5eade02",
+          "titulo": "Trump meets Netanyahu for a record seventh White House visit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Tue, 28 Jul 2026 02:47:55 +0000",
+          "fecha": "Wed, 29 Jul 2026 04:47:25 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_1f76941dd6",
-          "titulo": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-          "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 27 Jul 2026 16:33:05 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f572ca63e0",
-          "titulo": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
-          "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+          "id": "ev_903bb09757",
+          "titulo": "Media not invited as Trump, Netanyahu hold talks at the White House",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Tue, 28 Jul 2026 03:16:30 +0000",
+          "fecha": "Wed, 29 Jul 2026 01:19:55 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_371fdc660b",
-          "titulo": "As the US pauses the war with Iran, is Trump really running out of weapons?",
-          "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
+          "id": "ev_096e32d1db",
+          "titulo": "Trump meets Zelenskyy, Netanyahu as wars test U.S. diplomacy",
+          "url": "https://www.cbc.ca/player/play/9.7287853?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 28 Jul 2026 16:10:14 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3d04c9180c",
+          "titulo": "Zelenskyy and Trump hold closed-door White House talks on war in Ukraine",
+          "url": "http://www.euronews.com/2026/07/28/zelenskyy-meets-trump-at-white-house-as-ukraine-seeks-more-us-support",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 28 Jul 2026 17:55:54 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_80a48b93c8",
+          "titulo": "Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide",
+          "url": "https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Tue, 28 Jul 2026 15:59:04 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6b965a264f",
+          "titulo": "Why Netanyahu's visit with Trump at the White House is high-stakes",
+          "url": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Mon, 27 Jul 2026 21:06:42 GMT",
+          "fecha": "Tue, 28 Jul 2026 08:39:17 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_498f7df542",
+          "titulo": "Trump praises back-to-back meetings with Zelenskyy and Netanyahu",
+          "url": "https://www.theguardian.com/us-news/2026/jul/28/trump-netanyahu-zelenskyy-meetings",
+          "fuente": "The Guardian World",
+          "fecha": "Wed, 29 Jul 2026 01:09:51 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-07-28_0000",
-      "fecha": "2026-07-28",
-      "kardashev": "K2",
+      "id": "nd_2026-07-29_0001",
+      "fecha": "2026-07-29",
+      "kardashev": "K1",
       "relaciones": [
-        "nd_2026-07-28_0009"
+        "nd_2026-07-29_0002",
+        "nd_2026-07-29_0010"
       ]
     },
     {
       "titulo": {
-        "es": "Incendios forestales masivos en España y Francia provocan evacuación de cientos de miles de personas",
-        "en": "Massive wildfires in Spain and France force evacuation of hundreds of thousands"
+        "es": "Tercera noche sin ataques entre EE.UU. e Irán: cae precio del petróleo y Ormuz sigue cerrado",
+        "en": "Oman presents Iran with Gulf-backed plan to ease Strait of Hormuz tensions"
       },
       "sintesis": {
-        "es": "Incendios forestales de gran magnitud en España y Francia han devastado más de 25.000 hectáreas y forzado el desplazamiento de más de 300.000 personas, con España declarando estado de emergencia nacional y Francia convocando un gabinete de crisis. Los fuegos han generado fenómenos extremos como tormentas de rayos originadas por el propio incendio ('dragón de las nubes') y miles de evacuados duermen en centros deportivos y plazas de toros mientras continúan las labores de extinción cerca de Burdeos y Madrid.",
-        "en": "Large-scale wildfires in Spain and France have devastated over 25,000 hectares and displaced more than 300,000 people, with Spain declaring a national emergency and France convening a crisis cabinet. The fires have triggered extreme phenomena such as fire-generated lightning storms ('cloud dragon'), while thousands of evacuees sleep in sports centers and bullrings as firefighting efforts continue near Bordeaux and Madrid."
+        "es": "Este lunes 27 de julio, Irán informó que suspendió sus ataques. Estados Unidos lo hizo el fin semana. Con ello, ambos países dieron un respiro a la navegación y a la industria petrolera en el Golfo, aunque en el estrecho de Ormuz fueron detenidos seis buques.",
+        "en": "Oman has presented Iran with a Gulf-backed proposal to jointly manage the Strait of Hormuz, including a system of voluntary fees for ships using the strategic waterway, according to a Gulf source and a Western diplomat. The plan aims to provide a framework for restoring stable shipping through the strait after months of disruption caused by the US-Israeli war on Iran and further attacks on commercial vessels."
       },
-      "categoria": "clima",
+      "categoria": "geopolitica",
       "actores": [
-        "Gobierno de España",
-        "Gobierno de Francia",
-        "Guardia Civil",
-        "BBC Mundo",
-        "France 24",
-        "RFI"
+        "Iran",
+        "Trump",
+        "Ormuz",
+        "Oman"
       ],
       "geo": {
-        "lat": 42.0,
-        "lon": 1.5,
-        "region": "España y Francia (Península Ibérica y suroeste de Francia)"
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
       },
-      "impacto": 78,
+      "impacto": 95,
       "fuentes": [
-        "ev_bda5a10990",
-        "ev_04b54964ae",
-        "ev_b096fa7611",
-        "ev_0b3276034f",
-        "ev_c1d9e6e4a0",
-        "ev_5fe237576b",
-        "ev_908f2fb8dd",
-        "ev_d92fd60caf",
-        "ev_8a5c91fff0",
-        "ev_246202f80a",
-        "ev_4dcae95643",
-        "ev_78d5c80239",
-        "ev_a34aec119b",
-        "ev_f99a0250e3",
-        "ev_3e14ce080a",
-        "ev_b784bb56de",
-        "ev_8fc5e204a1",
-        "ev_721064c887",
-        "ev_61583bef5c",
-        "ev_0548a94a33",
-        "ev_028e12a1e3",
-        "ev_554ed49e13",
-        "ev_0566c8e5e1",
-        "ev_8794be51c6",
-        "ev_bcfa41ebc3",
-        "ev_6b3ac751c3",
-        "ev_287d35627d",
-        "ev_108ec3b83f",
-        "ev_2348c30436",
-        "ev_8a481dca37"
+        "ev_9bf8da10ee",
+        "ev_c6ae0ca0f0",
+        "ev_e83a90a6f8",
+        "ev_a552c421e0",
+        "ev_3f376b1c67",
+        "ev_ac57200502",
+        "ev_293f179d66",
+        "ev_89160199e9",
+        "ev_23417b96fa",
+        "ev_d2bf8bec8b"
       ],
-      "cluster_id": "cl_006",
+      "cluster_id": "cl_054",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/009b/live/28d83ff0-89b6-11f1-ba35-adcc7c70146e.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6b0c/live/9871f1d0-89bb-11f1-965a-d70ca8fc6275.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2264/live/3ee98f90-8819-11f1-981c-7d4dd1ef3d1d.jpg",
-        "https://s.france24.com/media/display/f4b5fbda-8a15-11f1-8a1f-005056a90284/w:1024/p:16x9/994f2a0bba1ef220a0a2359c42d19bcb484afa65w.jpg"
+        "https://s.france24.com/media/display/e366b0b8-8abf-11f1-9b01-005056a97e36/w:1024/p:16x9/ES-20260728-140834-141020-CS.jpg",
+        "https://s.rfi.fr/media/display/670b3f24-8994-11f1-8169-005056bfb2b6/w:1024/p:16x9/000-C37Y7T3.jpg",
+        "https://s.france24.com/media/display/d8148914-8359-11f1-b302-005056bf30b7/w:1024/p:16x9/2026-07-16T063055Z-845135880-RC2REMA7T02V-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_bda5a10990",
-          "titulo": "¿Cómo un incendio puede provocar una tormenta con rayos? El peligroso fenómeno del \"dragón de las nubes\" que generó el fuego en Francia",
-          "url": "https://www.bbc.com/mundo/articles/cqx74nr1384o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Mon, 27 Jul 2026 16:23:26 GMT",
+          "id": "ev_9bf8da10ee",
+          "titulo": "Omán propone controlar el estrecho de Ormuz en conjunto con Irán",
+          "url": "https://www.france24.com/es/video/20260728-om%C3%A1n-propone-controlar-el-estrecho-de-ormuz-en-conjunto-con-ir%C3%A1n",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 28 Jul 2026 20:14:00 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_04b54964ae",
-          "titulo": "Los miles de evacuados que duermen en centros deportivos y hasta plazas de toros por los voraces incendios en España y Francia",
-          "url": "https://www.bbc.com/mundo/articles/cjejw5y43x8o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Mon, 27 Jul 2026 12:56:38 GMT",
+          "id": "ev_c6ae0ca0f0",
+          "titulo": "Tercera noche sin ataques entre EE.UU. e Irán: cae precio del petróleo y Ormuz sigue cerrado",
+          "url": "https://www.rfi.fr/es/oriente-medio/20260727-tercera-noche-sin-ataques-entre-ee-uu-e-ir%C3%A1n-cae-precio-del-petr%C3%B3leo-aunque-ormuz-sigue-cerrado",
+          "fuente": "RFI Espanol",
+          "fecha": "Mon, 27 Jul 2026 09:50:09 GMT",
           "idioma": "es"
         },
+        {
+          "id": "ev_e83a90a6f8",
+          "titulo": "Oman presents Iran with Gulf-backed plan to ease Strait of Hormuz tensions",
+          "url": "https://www.france24.com/en/middle-east/20260728-oman-presents-iran-with-gulf-backed-plan-to-ease-strait-of-hormuz-tensions",
+          "fuente": "France 24 English",
+          "fecha": "Tue, 28 Jul 2026 20:07:33 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a552c421e0",
+          "titulo": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+          "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 29 Jul 2026 05:43:03 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3f376b1c67",
+          "titulo": "Iran and Oman exchange proposals to manage Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 28 Jul 2026 21:01:19 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ac57200502",
+          "titulo": "Why Netanyahu didn’t want a Zelenskyy moment with Trump",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/why-netanyahu-didnt-want-a-zelenskyy-moment-with-trump?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 29 Jul 2026 06:37:25 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_293f179d66",
+          "titulo": "Trump and Netanyahu hold first face-to-face talks since their 'disagreement' on the Iran war",
+          "url": "http://www.euronews.com/2026/07/28/trump-and-netanyahu-hold-first-face-to-face-talks-since-their-disagreement-on-the-iran-war",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 28 Jul 2026 20:12:30 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_89160199e9",
+          "titulo": "After days of calm, U.S. says it intercepted Iranian missile attack on American troops",
+          "url": "https://www.cbc.ca/news/world/us-iran-attack-9.7288259?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 28 Jul 2026 19:21:59 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_23417b96fa",
+          "titulo": "Iran launches surprise ballistic missile attack on U.S. forces in the Middle East",
+          "url": "https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Wed, 29 Jul 2026 02:06:49 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d2bf8bec8b",
+          "titulo": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
+          "url": "https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Wed, 29 Jul 2026 06:15:59 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-29_0002",
+      "fecha": "2026-07-29",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-07-29_0001",
+        "nd_2026-07-29_0010"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "“No somos dueños del fútbol”: la UEFA responde a la idea de Infantino de negociar acciones del Mundial",
+        "en": "FIFA plan for Kushner-backed $20 billion operation to run World Cup meets fury from Europe's UEFA"
+      },
+      "sintesis": {
+        "es": "La iniciativa de Gianni Infantino de crear una filial comercial de la FIFA para vender acciones de la Copa del Mundo, reportada por el diario inglés The Times, chocó con el rechazo de la entidad rectora del balompié en Europa, la UEFA, que ha apuntado que “ha expresado dudas en torno a “la transparencia sobre quién gana económicamente”.",
+        "en": "FIFA President Gianni Infantino’s plan to create a $20 billion company running the World Cup with private investors including the Kushner family was announced Tuesday — and immediately attacked by European soccer body UEFA. “It is not FIFA’s to sell,” UEFA said in a statement. “None of us are the owners of football.” FRANCE 24's James Vasina reports."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "World Cup",
+        "UEFA",
+        "FIFA",
+        "Infantino"
+      ],
+      "geo": {
+        "lat": 46.6,
+        "lon": 2.2,
+        "region": "Europa"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_4cc6a52ef2",
+        "ev_28f5c0a7ad",
+        "ev_bd3b3e38e0",
+        "ev_90e4519759",
+        "ev_b31080fa07",
+        "ev_d8a0a03093",
+        "ev_4d5345c467",
+        "ev_3170046dba",
+        "ev_3f770b6c0c",
+        "ev_a22a002bb9",
+        "ev_3dd7a741e0"
+      ],
+      "cluster_id": "cl_055",
+      "imagenes": [
+        "https://s.france24.com/media/display/b3ceb9aa-8ab4-11f1-9fd7-005056a90284/w:1024/p:16x9/AP25135649497174.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c2/live/50869960-8a93-11f1-b8ee-9b3c26ad07bb.jpg",
+        "https://s.france24.com/media/display/38692012-83d3-11f1-b055-005056a97e36/w:1024/p:16x9/7-15.jpg",
+        "https://s.france24.com/media/display/728f843a-8355-11f1-b293-005056a90284/w:1024/p:16x9/AP26198800605724.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_4cc6a52ef2",
+          "titulo": "“No somos dueños del fútbol”: la UEFA responde a la idea de Infantino de negociar acciones del Mundial",
+          "url": "https://www.france24.com/es/deportes/20260728-no-somos-due%C3%B1os-del-f%C3%BAtbol-la-uefa-responde-a-la-idea-de-infantino-de-negociar-acciones-del-mundial",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 28 Jul 2026 19:00:35 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_28f5c0a7ad",
+          "titulo": "Infantino plantea vender participaciones del Mundial y desata la ira de la UEFA",
+          "url": "http://es.euronews.com/2026/07/29/infantino-plantea-vender-participaciones-mundial-desata-enfada-uefa",
+          "fuente": "Euronews Espanol",
+          "fecha": "Wed, 29 Jul 2026 07:52:55 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_bd3b3e38e0",
+          "titulo": "Uefa and PM criticise Infantino World Cup plan",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 28 Jul 2026 15:36:29 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_90e4519759",
+          "titulo": "UEFA accuses FIFA of 'selling football' with World Cup investment plan",
+          "url": "https://www.france24.com/en/sport/20260729-uefa-accuses-fifa-of-selling-football-with-world-cup-investment-plan",
+          "fuente": "France 24 English",
+          "fecha": "Wed, 29 Jul 2026 01:26:29 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b31080fa07",
+          "titulo": "FIFA plan for Kushner-backed $20 billion operation to run World Cup meets fury from Europe's UEFA",
+          "url": "https://www.france24.com/en/fifa-plan-for-kushner-backed-20-billion-operation-to-run-world-cup-meets-fury-from-europe-s-uefa",
+          "fuente": "France 24 English",
+          "fecha": "Tue, 28 Jul 2026 19:45:46 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d8a0a03093",
+          "titulo": "FIFA plan for Kushner-backed $20 billion US operation to run World Cup meets fury from Europe's UEFA",
+          "url": "https://www.cbc.ca/sports/soccer/fifa-ownership-infantino-uefa-anger-july28-9.7287575?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 28 Jul 2026 13:57:29 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4d5345c467",
+          "titulo": "FIFA proposes plan to sell stakes in the World Cup, angering UEFA",
+          "url": "https://www.aljazeera.com/sports/2026/7/29/fifa-proposes-plan-to-sell-stakes-in-the-world-cup-angering-uefa?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 29 Jul 2026 00:25:29 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3170046dba",
+          "titulo": "FIFA has a new plan to raise billions of dollars: Selling stakes in the World Cup",
+          "url": "https://www.npr.org/2026/07/28/nx-s1-5910773/fifa-world-cup-gianni-infantino",
+          "fuente": "NPR News",
+          "fecha": "Tue, 28 Jul 2026 19:04:59 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3f770b6c0c",
+          "titulo": "UEFA issues angry response to FIFA boss Infantino's plan to sell World Cup stakes to investors",
+          "url": "http://www.euronews.com/2026/07/29/fifa-president-infantino-proposes-plan-to-sell-stakes-in-the-world-cup-prompting-an-angry-",
+          "fuente": "Euronews English",
+          "fecha": "Wed, 29 Jul 2026 07:12:17 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a22a002bb9",
+          "titulo": "Roberto Mancini returns as Italy coach after third straight World Cup miss",
+          "url": "http://www.euronews.com/2026/07/28/roberto-mancini-returns-as-italy-coach-after-third-straight-world-cup-miss",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 28 Jul 2026 22:38:57 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3dd7a741e0",
+          "titulo": "European nations discussing World Cup boycott after FIFA's Infantino 'crosses a line'",
+          "url": "https://news.sky.com/story/uefa-fury-as-fifa-boss-wants-to-sell-shares-in-world-cup-spin-off-venture-13567834",
+          "fuente": "Sky News World",
+          "fecha": "Tue, 28 Jul 2026 16:12:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-29_0003",
+      "fecha": "2026-07-29",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-07-29_0000",
+        "nd_2026-07-29_0004",
+        "nd_2026-07-29_0005",
+        "nd_2026-07-29_0008"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – as it happened",
+        "en": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – as it happened"
+      },
+      "sintesis": {
+        "es": "Spanish prime minister also says the fires serve as a reminder to plan for the ‘worsening’ climate emergency France and Spain race to contain huge wildfires before fresh heatwave begins Joe Pinner and Jane Clinton Tourists caught up in the wildfires spoke to us about their experiences. “My main memory is how bizarre it was to watch people enjoying holidays on the beach while a major catastrophe was unfolding in full view, not far away. Is this how the world ends?” Continue reading...",
+        "en": "Spanish prime minister also says the fires serve as a reminder to plan for the ‘worsening’ climate emergency France and Spain race to contain huge wildfires before fresh heatwave begins Joe Pinner and Jane Clinton Tourists caught up in the wildfires spoke to us about their experiences. “My main memory is how bizarre it was to watch people enjoying holidays on the beach while a major catastrophe was unfolding in full view, not far away. Is this how the world ends?” Continue reading..."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Spain",
+        "France",
+        "Spain Race",
+        "Contain Fires"
+      ],
+      "geo": {
+        "lat": 46.6,
+        "lon": 2.2,
+        "region": "Europa"
+      },
+      "impacto": 83,
+      "fuentes": [
+        "ev_1049158671",
+        "ev_c01347b4d2",
+        "ev_8a4dcb579b",
+        "ev_7f41946695",
+        "ev_32e7be5085",
+        "ev_be6d600904",
+        "ev_ff69b50469",
+        "ev_8a481dca37",
+        "ev_ff1b82f055",
+        "ev_42d9f5b568",
+        "ev_cd426ec31e",
+        "ev_d62444576c",
+        "ev_d962f1c5ed",
+        "ev_efc00f53fa",
+        "ev_8794be51c6",
+        "ev_bcfa41ebc3",
+        "ev_10ff1b8880"
+      ],
+      "cluster_id": "cl_142",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/6b019120-8a69-11f1-a086-7507d7c35703.jpg",
+        "https://i.guim.co.uk/img/media/c835f639710117bb64cdf5beeb669599eb5c8e24/354_0_7356_5886/master/7356.jpg?width=140&quality=85&auto=format&fit=max&s=b8252b68853cc01c73d906013eced040",
+        "https://s.france24.com/media/display/5e032c4c-89cc-11f1-88f4-005056a97e36/w:1024/p:16x9/000-C3AC7YZ.jpg",
+        "https://s.france24.com/media/display/c28ba68a-8738-11f1-8d64-005056bfb2b6/w:1024/p:16x9/000-C2YC4G8.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_1049158671",
+          "titulo": "'It's a hell of a situation': Spain grapples with devastating wildfires",
+          "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 28 Jul 2026 16:49:11 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c01347b4d2",
+          "titulo": "​France and Spain race to control wildfires as fresh heatwave hits, as UN warns ‘the climate alarm is blaring’ – as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/jul/28/europe-wildfires-fires-heatwave-bordeaux-france-spain-latest-news-updates",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 28 Jul 2026 16:15:06 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8a4dcb579b",
+          "titulo": "France braces for fresh evacuations as Spain eases wildfire restrictions",
+          "url": "https://www.france24.com/en/france/20260728-france-braces-for-fresh-evacuations-as-spain-eases-wildfire-restrictions",
+          "fuente": "France 24 English",
+          "fecha": "Tue, 28 Jul 2026 23:41:23 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_7f41946695",
+          "titulo": "Spain is seeing 'the light at the end of the tunnel' in its fight against fires",
+          "url": "https://www.france24.com/en/spain-is-seeing-the-light-at-the-end-of-the-tunnel-in-its-fight-against-fires",
+          "fuente": "France 24 English",
+          "fecha": "Tue, 28 Jul 2026 13:20:46 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_32e7be5085",
+          "titulo": "As Spain battles wildfires, its politicians battle over climate change's role",
+          "url": "https://www.npr.org/2026/07/28/nx-s1-5909198/spain-wildfires-politicians-climate-change",
+          "fuente": "NPR News",
+          "fecha": "Tue, 28 Jul 2026 16:31:54 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_be6d600904",
+          "titulo": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
+          "url": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html",
+          "fuente": "NYT World",
+          "fecha": "Wed, 29 Jul 2026 07:08:52 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ff69b50469",
+          "titulo": "Amid France Wildfires, Some Residents Help Firefighters Contain Blazes",
+          "url": "https://www.nytimes.com/2026/07/27/world/europe/residents-farmers-firefighters-france-wildfires.html",
+          "fuente": "NYT World",
+          "fecha": "Mon, 27 Jul 2026 16:52:12 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8a481dca37",
+          "titulo": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
+          "url": "https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/",
+          "fuente": "WIRED",
+          "fecha": "Mon, 27 Jul 2026 21:06:54 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ff1b82f055",
+          "titulo": "Almost 4,000 people evacuated from tourist sites near Bordeaux as wildfires rage in France and Spain",
+          "url": "https://www.theguardian.com/world/2026/jul/28/france-bordeaux-lacanau-evacuation-wildfires-madrid-spain",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 28 Jul 2026 16:42:43 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_42d9f5b568",
+          "titulo": "New evacuations ordered in southwestern France wildfires as heat wave conditions return",
+          "url": "https://www.cbc.ca/news/world/france-spain-wildfires-heat-wave-9.7286952?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 28 Jul 2026 06:44:29 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cd426ec31e",
+          "titulo": "Bad news for Bordeaux: France's celebrated wine industry faces wake-up call over wildfires",
+          "url": "https://www.france24.com/en/france/20260728-bad-news-for-bordeaux-france-s-celebrated-wine-industry-faces-wake-up-call-over-wildfires",
+          "fuente": "France 24 English",
+          "fecha": "Tue, 28 Jul 2026 20:05:05 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d62444576c",
+          "titulo": "Fire Raging Near Bordeaux Brings More Bad News for Its Vineyards",
+          "url": "https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-france-wildfires-smoke.html",
+          "fuente": "NYT World",
+          "fecha": "Tue, 28 Jul 2026 13:13:34 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-29_0004",
+      "fecha": "2026-07-29",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-07-29_0000",
+        "nd_2026-07-29_0003",
+        "nd_2026-07-29_0005",
+        "nd_2026-07-29_0008"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "¿Qué se sabe del hallazgo de los restos de cinco bebés en una vivienda del sur de Francia?",
+        "en": "¿Qué se sabe del hallazgo de los restos de cinco bebés en una vivienda del sur de Francia?"
+      },
+      "sintesis": {
+        "es": "La Policía francesa encontró huesos y un cuerpo en descomposición de cinco lactantes en un departamento de la ciudad de Orange. El hallazgo inicial lo hizo la pareja de una mujer, días después de que ella diera a luz en su casa a un bebé sano tras un embarazo que el hombre aseguró desconocer. La Fiscalía abrió una investigación por asesinato.",
+        "en": "La Policía francesa encontró huesos y un cuerpo en descomposición de cinco lactantes en un departamento de la ciudad de Orange. El hallazgo inicial lo hizo la pareja de una mujer, días después de que ella diera a luz en su casa a un bebé sano tras un embarazo que el hombre aseguró desconocer. La Fiscalía abrió una investigación por asesinato."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Francia"
+      ],
+      "geo": {
+        "lat": 46.6,
+        "lon": 2.2,
+        "region": "Europa"
+      },
+      "impacto": 75,
+      "fuentes": [
+        "ev_b096fa7611",
+        "ev_bda5a10990",
+        "ev_296be31daf",
+        "ev_5cc7d5ae2f",
+        "ev_5fe237576b",
+        "ev_368e7dbe71"
+      ],
+      "cluster_id": "cl_023",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2264/live/3ee98f90-8819-11f1-981c-7d4dd1ef3d1d.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/009b/live/28d83ff0-89b6-11f1-ba35-adcc7c70146e.jpg",
+        "https://imagenes.elpais.com/resizer/v2/4XMATIGLXFMNZKOJ6NSFJN73GY.jpg?auth=8bb91c72872bad64c7a993ac4fd21c6155183af32df5c77dee91cc69c63b0f48",
+        "https://s.france24.com/media/display/d8897e02-8ae0-11f1-90aa-005056bfb2b6/w:1024/p:16x9/3e7501882ca6d026b45291462ba75ff27a794d5ew.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
         {
           "id": "ev_b096fa7611",
           "titulo": "\"Si me hubiera demorado cinco minutos más, nos habría arrasado\": los testimonios de los afectados por los devastadores incendios en España y Francia",
@@ -267,19 +758,27 @@
           "idioma": "es"
         },
         {
-          "id": "ev_0b3276034f",
-          "titulo": "\"Los últimos de la lista\": la batalla por salvar a cientos de animales cercados por el fuego en España",
-          "url": "https://www.france24.com/es/medio-ambiente/20260727-los-%C3%BAltimos-de-la-lista-la-batalla-por-salvar-a-200-animales-cercados-por-el-fuego-en-espa%C3%B1a",
-          "fuente": "France 24 Espanol",
-          "fecha": "Mon, 27 Jul 2026 23:45:36 GMT",
+          "id": "ev_bda5a10990",
+          "titulo": "¿Cómo un incendio puede provocar una tormenta con rayos? El peligroso fenómeno del \"dragón de las nubes\" que generó el fuego en Francia",
+          "url": "https://www.bbc.com/mundo/articles/cqx74nr1384o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Mon, 27 Jul 2026 16:23:26 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_c1d9e6e4a0",
-          "titulo": "\"No dio tiempo de agarrar nada”: huir y sobrevivir, la tragedia por los incendios en España y Francia",
-          "url": "https://www.france24.com/es/europa/20260727-no-dio-tiempo-de-agarrar-nada-huir-y-sobrevivir-la-tragedia-por-los-incendios-en-espa%C3%B1a-y-francia",
+          "id": "ev_296be31daf",
+          "titulo": "La reactivación en algunas zonas del incendio del suroeste de Francia obliga a evacuar a 4.000 turistas",
+          "url": "https://elpais.com/internacional/2026-07-28/la-reactivacion-en-algunas-zonas-del-incendio-del-suroeste-de-francia-obliga-a-evacuar-a-4000-turistas.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Tue, 28 Jul 2026 17:06:50 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_5cc7d5ae2f",
+          "titulo": "¿Qué se sabe del hallazgo de los restos de cinco bebés en una vivienda del sur de Francia?",
+          "url": "https://www.france24.com/es/francia/20260729-qu%C3%A9-se-sabe-del-hallazgo-de-los-restos-de-cinco-beb%C3%A9s-en-una-vivienda-del-sur-de-francia",
           "fuente": "France 24 Espanol",
-          "fecha": "Mon, 27 Jul 2026 21:37:24 GMT",
+          "fecha": "Wed, 29 Jul 2026 00:03:44 GMT",
           "idioma": "es"
         },
         {
@@ -291,696 +790,596 @@
           "idioma": "es"
         },
         {
-          "id": "ev_908f2fb8dd",
-          "titulo": "Casi 270.000 personas evacuadas por incendios en Francia y España",
-          "url": "https://www.rfi.fr/es/europa/20260725-m%C3%A1s-de-160-000-evacuados-por-los-incendios-que-arrasan-espa%C3%B1a-y-francia",
-          "fuente": "RFI Espanol",
-          "fecha": "Sat, 25 Jul 2026 09:23:03 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_d92fd60caf",
-          "titulo": "Europe wildfires latest: France and Spain enter ‘crucial’ hours before new 40C heatwave begins",
-          "url": "https://www.independent.co.uk/news/world/europe/france-spain-wildfires-live-bordeaux-europe-map-heatwave-b3022695.html",
-          "fuente": "The Independent World",
-          "fecha": "Tue, 28 Jul 2026 07:23:09 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8a5c91fff0",
-          "titulo": "Snow in Athens while France is on fire: The images that lay bare contrast in extreme weather across Europe",
-          "url": "https://www.independent.co.uk/news/world/europe/athens-snow-france-spain-wildfires-climate-change-b3022733.html",
-          "fuente": "The Independent World",
-          "fecha": "Tue, 28 Jul 2026 06:33:34 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_246202f80a",
-          "titulo": "Mapped: The areas in France and Spain affected by raging wildfires",
-          "url": "https://www.independent.co.uk/news/world/europe/wildfires-map-france-spain-bordeaux-europe-b3022696.html",
-          "fuente": "The Independent World",
-          "fecha": "Tue, 28 Jul 2026 04:39:17 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4dcae95643",
-          "titulo": "Huge wildfires rage in France and Spain as firefighters race against time before next 40C heatwave",
-          "url": "https://www.independent.co.uk/news/world/europe/europe-wildfires-spain-france-update-b3022321.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 19:21:33 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_78d5c80239",
-          "titulo": "Prince William issues statement after ‘devastating wildfires’ in France, Spain and UK",
-          "url": "https://www.independent.co.uk/news/uk/home-news/prince-william-wildfires-france-spain-uk-b3022501.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 17:50:10 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-07-28_0001",
-      "fecha": "2026-07-28",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Trump recibe en la Casa Blanca a Netanyahu y Zelenski en medio de las guerras de Irán y Ucrania",
-        "en": "Trump hosts Netanyahu and Zelensky at White House amid Iran and Ukraine wars"
-      },
-      "sintesis": {
-        "es": "El presidente estadounidense Donald Trump se reúne por separado con el primer ministro israelí Benjamin Netanyahu y el presidente ucraniano Volodímir Zelenski en la Casa Blanca, en un contexto de guerra prolongada entre Israel e Irán y de estancamiento en las negociaciones de paz sobre Ucrania. Las citas evidencian el delicado equilibrio de la política exterior de Washington, que impulsó acciones militares en Oriente Medio mientras intenta mediar la paz entre Kiev y Moscú. Netanyahu enfrenta además presión electoral interna, mientras Zelenski busca asegurar mayor apoyo militar frente a Rusia.",
-        "en": "US President Donald Trump separately meets Israeli Prime Minister Benjamin Netanyahu and Ukrainian President Volodymyr Zelensky at the White House, amid a prolonged Israel-Iran war and stalled Ukraine peace negotiations. The meetings highlight Washington's delicate foreign policy balancing act, having driven military action in the Middle East while trying to broker peace between Kyiv and Moscow. Netanyahu also faces domestic electoral pressure, while Zelensky seeks to secure further US military support against Russia."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Donald Trump",
-        "Benjamin Netanyahu",
-        "Volodímir Zelenski",
-        "Estados Unidos",
-        "Israel",
-        "Irán",
-        "Ucrania",
-        "Rusia"
-      ],
-      "geo": {
-        "lat": 38.8977,
-        "lon": -77.0365,
-        "region": "Washington D.C., Estados Unidos"
-      },
-      "impacto": 78,
-      "fuentes": [
-        "ev_c29df97ee1",
-        "ev_6818415c61",
-        "ev_f47a5af1ab",
-        "ev_8417d977b0",
-        "ev_dfe3f732be",
-        "ev_6470dbb6d3",
-        "ev_2287173c8f",
-        "ev_ee5c896409",
-        "ev_0deb74ad00",
-        "ev_6a158887e0",
-        "ev_462b9d0148",
-        "ev_d1371924a6",
-        "ev_804aa87c41",
-        "ev_a7ddfa8271",
-        "ev_53c06a2a2e",
-        "ev_2a52ba6055",
-        "ev_5281e8d4b0",
-        "ev_eddd47d4ef",
-        "ev_9ea293de48",
-        "ev_97e2e4acc5",
-        "ev_d7b3d2f9e2",
-        "ev_32ec6e792f",
-        "ev_e46f2511fb",
-        "ev_d1c895cfc2",
-        "ev_130a398182",
-        "ev_d4852b2d86",
-        "ev_f43c3b5f7f",
-        "ev_d25f98c75f",
-        "ev_d02180b383",
-        "ev_a66c362740",
-        "ev_40e98ed4b5",
-        "ev_6695018249",
-        "ev_259b2eaae2",
-        "ev_dcde2730b6",
-        "ev_45869078fa"
-      ],
-      "cluster_id": "cl_034",
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/Y2VEG35VNVGNXO5XMWGG4FG7AI.jpg?auth=2efcbea6afb1bca05ebb3ee32bbb3b2f3e1dadf93b631dcda58cba064d4f65ab",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/25/17849851845056.jpg",
-        "https://s.france24.com/media/display/c4764b02-8a4a-11f1-8d0a-005056a97e36/w:1024/p:16x9/000-B4VA2NQ.jpg",
-        "https://s.france24.com/media/display/a862fa5c-7bb1-11f1-bf67-005056a90284/w:1024/p:16x9/33310eba18755b03fe50a09a8af5199da6e89a4a.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_c29df97ee1",
-          "titulo": "La testosterona, al mando en la Casa Blanca",
-          "url": "https://elpais.com/internacional/2026-07-19/la-testosterona-al-mando-en-la-casa-blanca.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sun, 19 Jul 2026 03:30:01 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_6818415c61",
-          "titulo": "La Casa Blanca se prepara para reuniones clave con Zelenski y Netanyahu",
-          "url": "http://es.euronews.com/2026/07/28/la-casa-blanca-se-prepara-para-reuniones-clave-con-zelenski-y-netanyahu",
+          "id": "ev_368e7dbe71",
+          "titulo": "España declara 211 zonas catastróficas en 14 comunidades tras el semestre más duro de incendios e inundaciones",
+          "url": "http://es.euronews.com/my-europe/2026/07/29/espana-declara-211-zonas-catastroficas-en-14-comunidades-tras-el-semestre-mas-duro-de-ince",
           "fuente": "Euronews Espanol",
-          "fecha": "Tue, 28 Jul 2026 09:24:02 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f47a5af1ab",
-          "titulo": "Trump provoca a la prensa en la repetición descafeinada de la cena de corresponsales de la Casa Blanca: \"Me postulo para un cuarto mandato\"",
-          "url": "https://www.elmundo.es/internacional/2026/07/25/6a64b5fee4d4d8c8268b4577.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sat, 25 Jul 2026 15:21:45 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_8417d977b0",
-          "titulo": "Trump arremete contra las \"noticias falsas\" en la cena de corresponsales de la Casa Blanca",
-          "url": "https://www.elmundo.es/internacional/2026/07/25/6a6457b6e4d4d8b77c8b4590.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sat, 25 Jul 2026 08:29:14 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_dfe3f732be",
-          "titulo": "Netanyahu to meet Trump at White House for first time since Iran war strained ties",
-          "url": "https://www.france24.com/en/netanyahu-to-meet-trump-at-white-house-for-first-time-since-iran-war-strained-ties",
-          "fuente": "France 24 English",
-          "fecha": "Tue, 28 Jul 2026 06:45:16 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6470dbb6d3",
-          "titulo": "Zelensky expected at White House to secure Trump's support against Russia",
-          "url": "https://www.france24.com/en/europe/20260728-ukraine-s-zelensky-expected-at-white-house-to-secure-trump-s-support-against-russia",
-          "fuente": "France 24 English",
-          "fecha": "Tue, 28 Jul 2026 01:23:12 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2287173c8f",
-          "titulo": "Zelensky and Trump Will Meet at the White House. Has Their Relationship Thawed?",
-          "url": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html",
-          "fuente": "NYT World",
-          "fecha": "Tue, 28 Jul 2026 04:01:28 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ee5c896409",
-          "titulo": "Iran war live: Trump says US talking to Tehran, set to meet Netanyahu",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Tue, 28 Jul 2026 00:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_0deb74ad00",
-          "titulo": "In Washington, Netanyahu Faces a Delicate Balancing Act",
-          "url": "https://www.nytimes.com/2026/07/27/world/middleeast/trump-netanyahu-relationship-iran.html",
-          "fuente": "NYT World",
-          "fecha": "Mon, 27 Jul 2026 21:11:42 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6a158887e0",
-          "titulo": "White House prepares for high-stakes talks with Zelenskyy and Netanyahu",
-          "url": "http://www.euronews.com/2026/07/28/white-house-prepares-for-high-stakes-talks-with-zelenskyy-and-netanyahu",
-          "fuente": "Euronews English",
-          "fecha": "Tue, 28 Jul 2026 08:59:34 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_462b9d0148",
-          "titulo": "Netanyahu says Iran is top of agenda in meeting with Trump",
-          "url": "https://www.independent.co.uk/news/world/middle-east/netanyahu-trump-iran-meeting-israel-b3022322.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 14:33:19 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d1371924a6",
-          "titulo": "Rusia está perdiendo la guerra, Ucrania la gana solo a medias",
-          "url": "https://elpais.com/internacional/2026-07-12/rusia-esta-perdiendo-la-guerra-ucrania-la-gana-solo-a-medias.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sun, 12 Jul 2026 03:40:00 GMT",
+          "fecha": "Wed, 29 Jul 2026 07:56:13 +0200",
           "idioma": "es"
         }
       ],
-      "id": "nd_2026-07-28_0002",
-      "fecha": "2026-07-28",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Ataque terrorista en el Orgullo de Berlín: sospechoso abatido por la policía tras estar en libertad semanas antes",
-        "en": "Terror attack at Berlin Pride: suspect killed by police after being freed weeks earlier"
-      },
-      "sintesis": {
-        "es": "Un vehículo embistió a la multitud durante el evento del Orgullo en Berlín, dejando al menos una persona muerta y decenas de heridas, en lo que las autoridades consideran un probable atentado islamista. El sospechoso, vinculado a grupos islámicos locales, fue abatido por la policía en un enfrentamiento tras una amplia operación de búsqueda. Posteriormente surgió indignación al revelarse que el atacante había sido liberado de prisión semanas antes del ataque.",
-        "en": "A vehicle plowed into the crowd during Berlin's Pride event, killing at least one person and injuring dozens, in what authorities described as a likely Islamist terror attack. The suspect, linked to local Islamic groups, was shot and killed by police following a large-scale manhunt. Anger later erupted after it emerged the attacker had been released from prison just weeks before the attack."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Policía de Berlín",
-        "Gobierno alemán",
-        "Comunidad LGBTQ+ de Berlín",
-        "Sospechoso del atentado"
-      ],
-      "geo": {
-        "lat": 52.52,
-        "lon": 13.405,
-        "region": "Berlín, Alemania"
-      },
-      "impacto": 72,
-      "fuentes": [
-        "ev_e6dc43f426",
-        "ev_6ff1ef724d",
-        "ev_aae78825cc",
-        "ev_35a7e65f75",
-        "ev_edbdcc4b8b",
-        "ev_388b45298d",
-        "ev_69967537ef",
-        "ev_30b6c5add0",
-        "ev_05343d482b"
-      ],
-      "cluster_id": "cl_142",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce88/live/8415f670-89af-11f1-9c0c-33faa7b3d86d.jpg",
-        "https://static01.nyt.com/images/2026/07/26/multimedia/26int-berlin-attack-kjzb/26int-berlin-attack-kjzb-mediumSquareAt3X.jpg",
-        "https://static01.nyt.com/images/2026/07/25/multimedia/25int-berlin-car-mgjl/25int-berlin-car-mgjl-mediumSquareAt3X.jpg",
-        "https://static.independent.co.uk/2026/07/27/15/Germany_Pride_Resilience_11329.jpg?width=1200&auto=webp&crop=3%3A2"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e6dc43f426",
-          "titulo": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
-          "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 27 Jul 2026 12:33:31 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6ff1ef724d",
-          "titulo": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
-          "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-          "fuente": "NYT World",
-          "fecha": "Sun, 26 Jul 2026 22:00:25 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_aae78825cc",
-          "titulo": "Suspect in deadly Berlin Pride attack killed in confrontation with police, officials say",
-          "url": "https://www.cbc.ca/news/world/berlin-pride-attack-islamic-extremist-terror-9.7284768?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sun, 26 Jul 2026 09:00:01 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_35a7e65f75",
-          "titulo": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
-          "url": "https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html",
-          "fuente": "NYT World",
-          "fecha": "Sun, 26 Jul 2026 08:58:03 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_edbdcc4b8b",
-          "titulo": "How false information spread about the Berlin Pride attack amid suspect manhunt",
-          "url": "http://www.euronews.com/my-europe/2026/07/28/how-false-information-spread-about-the-berlin-pride-attack-amid-suspect-manhunt",
-          "fuente": "Euronews English",
-          "fecha": "Tue, 28 Jul 2026 09:03:16 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_388b45298d",
-          "titulo": "No EU-wide watchlist: Berlin Pride attack highlights gaps in monitoring Islamist extremism",
-          "url": "http://www.euronews.com/my-europe/2026/07/28/no-eu-wide-watchlist-berlin-pride-attack-highlights-gaps-in-monitoring-islamist-extremism",
-          "fuente": "Euronews English",
-          "fecha": "Tue, 28 Jul 2026 07:00:54 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_69967537ef",
-          "titulo": "How a Syrian refugee turned grief into joy after an extremist terror attack at Berlin’s Pride festival",
-          "url": "https://www.independent.co.uk/news/world/europe/berlin-pride-parade-attack-gay-belly-dancer-haidar-darwish-b3022367.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 17:24:09 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_30b6c5add0",
-          "titulo": "Berlin community left wondering how city will recover after devastating Pride festival attack",
-          "url": "https://www.independent.co.uk/news/world/europe/berlin-pride-terror-attack-islamist-abdul-ballout-b3022029.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 08:12:21 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_05343d482b",
-          "titulo": "Berlin Pride attack suspect ‘tried to join ISIS’ and was sentenced for planning serious violence just two months ago",
-          "url": "https://www.independent.co.uk/news/world/europe/berlin-pride-attack-suspect-abdul-ballout-isis-b3022088.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 11:15:02 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-07-28_0003",
-      "fecha": "2026-07-28",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Francia tiene un \"papel líder\" como mediador en conflictos de Oriente Medio: Éléonore Caroit",
-        "en": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’"
-      },
-      "sintesis": {
-        "es": "La Ministra delegada de Asuntos Exteriores en Francia, Éléonore Caroit, viajó a Egipto donde entregó ayuda humanitaria para los refugiados de la Franja de Gaza. En entrevista para RFI contó la situación actual de la población gazatí en ese país resaltando la preocupante situación de los niños y la atención médica.",
-        "en": "Talks over the Strait of Hormuz continue as Iran's foreign ministry discussed the strategically vital maritime passage with Saudi and Omani counterparts."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Oriente Medio",
-        "Arabia",
-        "Riad",
-        "Francia"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 69,
-      "fuentes": [
-        "ev_0dad690d5c",
-        "ev_07fcd2e8fc",
-        "ev_ec7ec5ecf9",
-        "ev_3ba4093348"
-      ],
-      "cluster_id": "cl_070",
-      "imagenes": [
-        "https://s.rfi.fr/media/display/8227d3f6-87de-11f1-bed4-005056bfb2b6/w:1024/p:16x9/2026-07-24T164250Z-37060657-RC2GKMAKXRYH-RTRMADP-3-IRAN-CRISIS-SAUDI-HOUTHIS.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/25/17849842016342.jpg",
-        "https://s.rfi.fr/media/display/9ae88fdc-8772-11f1-af5c-005056bf30b7/w:1024/p:16x9/eleonore-caroit-off.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_0dad690d5c",
-          "titulo": "Los ataques hutíes contra Arabia Saudí abren un nuevo frente en la guerra en Oriente Medio",
-          "url": "https://www.rfi.fr/es/oriente-medio/20260725-los-ataques-hut%C3%ADes-contra-arabia-saud%C3%AD-abren-un-nuevo-frente-en-la-guerra-en-oriente-medio",
-          "fuente": "RFI Espanol",
-          "fecha": "Sat, 25 Jul 2026 10:56:02 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_07fcd2e8fc",
-          "titulo": "Los hutíes lanzan nuevos ataques contra Riad en plena escalada regional",
-          "url": "https://www.elmundo.es/internacional/2026/07/25/6a64b258e9cf4a923a8b4598.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sat, 25 Jul 2026 15:03:27 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_ec7ec5ecf9",
-          "titulo": "Francia tiene un \"papel líder\" como mediador en conflictos de Oriente Medio: Éléonore Caroit",
-          "url": "https://www.rfi.fr/es/oriente-medio/20260724-francia-tiene-un-papel-l%C3%ADder-como-mediador-en-conflictos-de-oriente-medio-%C3%A9l%C3%A9onore-caroit",
-          "fuente": "RFI Espanol",
-          "fecha": "Fri, 24 Jul 2026 15:18:36 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_3ba4093348",
-          "titulo": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’",
-          "url": "https://www.cnbc.com/2026/07/28/us-iran-war-trump-hormuz.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Tue, 28 Jul 2026 06:59:36 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-07-28_0004",
-      "fecha": "2026-07-28",
-      "kardashev": "K1",
+      "id": "nd_2026-07-29_0005",
+      "fecha": "2026-07-29",
+      "kardashev": "K2",
       "relaciones": [
-        "nd_2026-07-28_0007",
-        "nd_2026-07-28_0009"
+        "nd_2026-07-29_0000",
+        "nd_2026-07-29_0003",
+        "nd_2026-07-29_0004",
+        "nd_2026-07-29_0008"
       ]
     },
     {
       "titulo": {
-        "es": "Incendios forestales masivos cerca de Burdeos obligan a evacuar a más de 300.000 personas",
-        "en": "Massive wildfires near Bordeaux force evacuation of over 300,000 people"
+        "es": "Israel ataca la mezquita Al Muttaquin en Gaza",
+        "en": "Israeli airstrike destroys Gaza City mosque near displacement camp"
       },
       "sintesis": {
-        "es": "Un gran incendio forestal avanza por el suroeste de Francia y se acerca a la ciudad de Burdeos, de unos 270.000 habitantes, provocando la evacuación de más de 300.000 personas en la región. Una densa capa de humo cubre la ciudad desde hace días, afectando la respiración de sus residentes, mientras las autoridades vigilan el avance de las llamas.",
-        "en": "A large wildfire is sweeping through southwestern France and approaching the city of Bordeaux, home to about 270,000 people, prompting the evacuation of more than 300,000 residents across the region. A dense layer of smoke has covered the city for days, affecting residents' breathing as authorities monitor the fire's advance."
+        "es": "Las exigencias del país israelí coinciden con la llegada de Hamás a Egipto y la reunión de Netanyahu con Trump en Washington Leer",
+        "en": "Video footage captures an Israeli airstrike hitting Al-Muttaqin Mosque in Gaza City, next to Yarmouk Stadium"
       },
-      "categoria": "clima",
+      "categoria": "sociedad",
       "actores": [
-        "Autoridades francesas",
-        "Residentes de Burdeos",
-        "Servicios de bomberos franceses"
+        "Israel",
+        "Gaza",
+        "Israeli",
+        "Palestinian"
       ],
       "geo": {
-        "lat": 44.8378,
-        "lon": -0.5792,
-        "region": "Burdeos, Francia"
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
       },
-      "impacto": 62,
+      "impacto": 66,
       "fuentes": [
-        "ev_db9c94512c",
-        "ev_300c9e7f0f",
-        "ev_7903a0a7c5",
-        "ev_4bbac2f379"
+        "ev_780752a5a3",
+        "ev_c483587d4c",
+        "ev_7c2bdd16e7",
+        "ev_fa986d4d9c"
       ],
-      "cluster_id": "cl_151",
+      "cluster_id": "cl_111",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1d5/live/93680ff0-89e6-11f1-8dc9-8d222ac753ff.jpg",
-        "https://s.france24.com/media/display/dc417630-8928-11f1-82db-005056bfb2b6/w:1024/p:16x9/000-C38V3FW.jpg",
-        "https://static01.nyt.com/images/2026/07/25/multimedia/25europe-wildfires-bordeaux-wtk-topart-kcqg/25europe-wildfires-bordeaux-wtk-topart-kcqg-mediumSquareAt3X.jpg"
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/28/17852643518482.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a9c/live/a9fea910-8aa2-11f1-a7ab-8b30adf0800a.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_db9c94512c",
-          "titulo": "Wildfire witnesses describe 'wall of flames', fear and stress",
-          "url": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
+          "id": "ev_780752a5a3",
+          "titulo": "Israel ataca la mezquita Al Muttaquin en Gaza",
+          "url": "https://www.elmundo.es/internacional/2026/07/28/6a68f9d7fdddff5e468b4573.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Tue, 28 Jul 2026 21:08:01 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_c483587d4c",
+          "titulo": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+          "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Mon, 27 Jul 2026 19:50:35 GMT",
+          "fecha": "Wed, 29 Jul 2026 05:01:12 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_300c9e7f0f",
-          "titulo": "'I spent the night coughing': Wildfire smoke leaves Bordeaux residents struggling to breathe",
-          "url": "https://www.france24.com/en/france/20260727-i-spent-the-night-coughing-wildfire-smoke-leaves-bordeaux-residents-struggling-to-breathe",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 27 Jul 2026 14:58:34 GMT",
+          "id": "ev_7c2bdd16e7",
+          "titulo": "Israel kills Palestinian, destroys mosque in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 29 Jul 2026 02:45:59 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_7903a0a7c5",
-          "titulo": "Wildfire in France Rages Near Bordeaux, a Famed Wine City",
-          "url": "https://www.nytimes.com/2026/07/25/world/europe/saumos-wildfire-france-spain-bordeaux.html",
-          "fuente": "NYT World",
-          "fecha": "Sat, 25 Jul 2026 16:37:52 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4bbac2f379",
-          "titulo": "France wildfires creep toward wine city of Bordeaux",
-          "url": "https://www.cbc.ca/news/world/wildfires-bordeaux-evacuations-9.7284915?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sun, 26 Jul 2026 11:14:09 EDT",
+          "id": "ev_fa986d4d9c",
+          "titulo": "Israeli airstrike destroys Gaza City mosque near displacement camp",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 28 Jul 2026 21:24:20 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-07-28_0005",
-      "fecha": "2026-07-28",
-      "kardashev": "K1",
+      "id": "nd_2026-07-29_0006",
+      "fecha": "2026-07-29",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "How changing environments can preserve an ancient microbial survival strategy",
-        "en": "How changing environments can preserve an ancient microbial survival strategy"
+        "es": "US and Saudi Arabia strike Iran-backed militants after 'surprise attack'",
+        "en": "US and Saudi Arabia strike Iran-backed militants after 'surprise attack'"
       },
       "sintesis": {
-        "es": "A research group led by Tetsuhiro Hatakeyama from the Earth-Life Science Institute (ELSI) at the Institute of Science Tokyo has revealed how a seemingly self-destructive survival strategy could persist in yeast for hundreds of millions of years. By combining population dynamics theory with comparative experimental observations, the team found that alternating periods of nutrient-rich conditions and starvation can stabilize this unusual behavior over evolutionary timescales. The findings were published in the Journal of the Royal Society Interface.",
-        "en": "A research group led by Tetsuhiro Hatakeyama from the Earth-Life Science Institute (ELSI) at the Institute of Science Tokyo has revealed how a seemingly self-destructive survival strategy could persist in yeast for hundreds of millions of years. By combining population dynamics theory with comparative experimental observations, the team found that alternating periods of nutrient-rich conditions and starvation can stabilize this unusual behavior over evolutionary timescales. The findings were published in the Journal of the Royal Society Interface."
+        "es": "Fresh fighting has erupted after the US accused Iran of launching its first ballistic missile attack on an American base since strikes were paused on Friday. Here's your three-minute briefing on the key developments in the Middle East overnight.",
+        "en": "Fresh fighting has erupted after the US accused Iran of launching its first ballistic missile attack on an American base since strikes were paused on Friday. Here's your three-minute briefing on the key developments in the Middle East overnight."
       },
-      "categoria": "ciencia",
+      "categoria": "innovacion",
       "actores": [
-        "Part"
+        "Saudi Arabia",
+        "Yemen",
+        "Houthis",
+        "Houthis Claim"
       ],
       "geo": {
-        "lat": 46.6,
-        "lon": 2.2,
+        "lat": 32.4,
+        "lon": 53.7,
+        "region": "Oriente Medio"
+      },
+      "impacto": 66,
+      "fuentes": [
+        "ev_ff15832be1",
+        "ev_720dada9ec",
+        "ev_c90a0e1545",
+        "ev_1c869d6a5c"
+      ],
+      "cluster_id": "cl_195",
+      "imagenes": [
+        "https://static01.nyt.com/images/2026/07/28/multimedia/28int-houthis-saudi-1-jklp/28int-houthis-saudi-1-jklp-mediumSquareAt3X.jpg",
+        "https://images.mktw.net/im-67079616"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_ff15832be1",
+          "titulo": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
+          "url": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 28 Jul 2026 23:16:44 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_720dada9ec",
+          "titulo": "Houthis Claim Strike on Another Saudi Oil Tanker",
+          "url": "https://www.nytimes.com/2026/07/28/world/middleeast/houthis-strike-saudi-tanker.html",
+          "fuente": "NYT World",
+          "fecha": "Wed, 29 Jul 2026 01:08:39 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c90a0e1545",
+          "titulo": "US and Saudi Arabia strike Iran-backed militants after 'surprise attack'",
+          "url": "https://www.abc.net.au/news/2026-07-29/fighting-reignites-as-us-strikes-iran-backed-militants-in-iraq/106970590",
+          "fuente": "ABC News Australia",
+          "fecha": "Wed, 29 Jul 2026 03:06:12 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1c869d6a5c",
+          "titulo": "Saudi Arabia has a new, and pricier, workaround to export its oil",
+          "url": "https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Wed, 29 Jul 2026 01:28:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-29_0007",
+      "fecha": "2026-07-29",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Monday briefing: ​How the Cockroach ​protests ​have expose​d the ​cracks in ​India’s government",
+        "en": "Monday briefing: ​How the Cockroach ​protests ​have expose​d the ​cracks in ​India’s government"
+      },
+      "sintesis": {
+        "es": "In today’s newsletter: Across ​the country, a ​younger generation is turning private disillusionment into public defiance​ against a government that once felt untouchable Good morning. As flames engulfed parts of France and Spain this weekend, in India, the prime minister, Narendra Modi, was trying to put out a very different kind of fire. Thousands of people arrived in Delhi on Saturday to demand the resignation of his education minister, Dharmendra Pradhan.",
+        "en": "In today’s newsletter: Across ​the country, a ​younger generation is turning private disillusionment into public defiance​ against a government that once felt untouchable Good morning. As flames engulfed parts of France and Spain this weekend, in India, the prime minister, Narendra Modi, was trying to put out a very different kind of fire. Thousands of people arrived in Delhi on Saturday to demand the resignation of his education minister, Dharmendra Pradhan."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "India",
+        "Cockroach",
+        "Modi",
+        "Monday"
+      ],
+      "geo": {
+        "lat": 51.2,
+        "lon": 10.4,
         "region": "Europa"
       },
-      "impacto": 62,
+      "impacto": 65,
       "fuentes": [
-        "ev_87c119b94b",
-        "ev_86bd074419",
-        "ev_c71e639fc5",
-        "ev_07928ec9e6",
-        "ev_a84292d2ee"
+        "ev_fbcd5d0cd0",
+        "ev_dc861ce188",
+        "ev_4652046b61",
+        "ev_7b1e7d5a10",
+        "ev_8ab55879ad",
+        "ev_52878fc283"
       ],
-      "cluster_id": "cl_155",
+      "cluster_id": "cl_170",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af41/live/297ba580-89ae-11f1-a7ab-8b30adf0800a.jpg",
-        "https://s.france24.com/media/display/f10e15e6-7460-11f1-8e54-005056a97e36/w:1024/p:16x9/main-2-15.png",
-        "https://static.independent.co.uk/2026/07/27/11/2026-07-27T085914Z_1842185683_RC27MMA41MSL_RTRMADP_3_EUROPE-WEATHER-WILDFIRE-SPAIN.JPG?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/developing-country.jpg"
+        "https://i.guim.co.uk/img/media/68bdbbc529c2dc2c677063f5809ff76f24f30d57/318_0_3781_3025/master/3781.jpg?width=140&quality=85&auto=format&fit=max&s=f37b411c63238804f6e0a9fcee6dfac0",
+        "https://i.guim.co.uk/img/media/df97e93601579e62adf549db0c04f5101c4ba693/239_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=fd3d107dbdddd79cd0f86d30d4fc2f50",
+        "https://i.guim.co.uk/img/media/0e6c85e54279b036a666016e901bda4472f341c4/458_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=e2c8a1e65ceefadad90327bf3313b03c",
+        "https://s.france24.com/media/display/8f993b78-8a69-11f1-9e69-005056bfb2b6/w:1024/p:16x9/cover-inde.png"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_87c119b94b",
-          "titulo": "How 'fire-generated thunderstorms' make wildfires more deadly",
-          "url": "https://www.bbc.co.uk/news/articles/c2350xnl4j5o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 27 Jul 2026 11:11:07 GMT",
+          "id": "ev_fbcd5d0cd0",
+          "titulo": "India’s Cockroach movement threatens to restart protests after mass student arrests",
+          "url": "https://www.theguardian.com/world/2026/jul/28/india-cockroach-janta-party-cjp-demands-protesters-release",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 28 Jul 2026 07:23:37 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_86bd074419",
-          "titulo": "How can you keep yourself safe from forever chemicals and cadmium in food? (Part 2/2)",
-          "url": "https://www.france24.com/en/france/20260728-how-can-you-keep-yourself-safe-from-forever-chemicals-and-cadmium-in-food-part-2-3",
+          "id": "ev_dc861ce188",
+          "titulo": "Monday briefing: ​How the Cockroach ​protests ​have expose​d the ​cracks in ​India’s government",
+          "url": "https://www.theguardian.com/world/2026/jul/27/monday-briefing-how-the-cockroach-protests-have-exposed-the-cracks-in-indias-government",
+          "fuente": "The Guardian World",
+          "fecha": "Mon, 27 Jul 2026 05:47:17 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4652046b61",
+          "titulo": "India’s Cockroach Janta party protest victory signals trouble ahead for Modi",
+          "url": "https://www.theguardian.com/world/2026/jul/26/india-cockroach-protest-victory-signals-trouble-ahead-for-narendra-modi",
+          "fuente": "The Guardian World",
+          "fecha": "Sun, 26 Jul 2026 16:42:31 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_7b1e7d5a10",
+          "titulo": "India’s ‘cockroach’ protesters explain how they toppled one of Modi’s ministers",
+          "url": "https://www.france24.com/en/asia-pacific/20260728-india-cockroach-protesters-explain-toppled-modi-ministers",
           "fuente": "France 24 English",
-          "fecha": "Tue, 28 Jul 2026 05:46:12 GMT",
+          "fecha": "Tue, 28 Jul 2026 19:14:04 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_c71e639fc5",
-          "titulo": "How to evacuate a wildfire safely – according to experts",
-          "url": "https://www.independent.co.uk/news/world/americas/wildfire-evacuation-how-to-heatwave-guide-b3022298.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 13:50:46 GMT",
+          "id": "ev_8ab55879ad",
+          "titulo": "‘We Are Not Learning Anything’: India’s Gen Z Rage Is a Test for Modi",
+          "url": "https://www.nytimes.com/2026/07/28/world/asia/india-education-protests-cockroach-genz.html",
+          "fuente": "NYT World",
+          "fecha": "Tue, 28 Jul 2026 17:42:38 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_07928ec9e6",
-          "titulo": "How international aid fragmentation affects corruption in developing countries",
-          "url": "https://phys.org/news/2026-07-international-aid-fragmentation-affects-corruption.html",
-          "fuente": "Phys.org",
-          "fecha": "Mon, 27 Jul 2026 19:40:03 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a84292d2ee",
-          "titulo": "How changing environments can preserve an ancient microbial survival strategy",
-          "url": "https://phys.org/news/2026-07-environments-ancient-microbial-survival-strategy.html",
-          "fuente": "Phys.org",
-          "fecha": "Mon, 27 Jul 2026 19:20:02 EDT",
+          "id": "ev_52878fc283",
+          "titulo": "India’s ‘Cockroach’ Moment",
+          "url": "https://www.nytimes.com/2026/07/27/world/india-cockroach-protests-spain-france-fires.html",
+          "fuente": "NYT World",
+          "fecha": "Tue, 28 Jul 2026 08:08:01 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-07-28_0006",
-      "fecha": "2026-07-28",
+      "id": "nd_2026-07-29_0008",
+      "fecha": "2026-07-29",
       "kardashev": "K0",
       "relaciones": [
-        "nd_2026-07-28_0008"
+        "nd_2026-07-29_0000",
+        "nd_2026-07-29_0003",
+        "nd_2026-07-29_0004",
+        "nd_2026-07-29_0005"
       ]
     },
     {
       "titulo": {
-        "es": "Q&A: What influences teens' career expectations?",
-        "en": "Q&A: What influences teens' career expectations?"
+        "es": "Terremoto de magnitud 7,1 en Japón deja al menos 13 muertos y decenas de desaparecidos",
+        "en": "Magnitude 7.1 earthquake in Japan leaves at least 13 dead and dozens missing"
       },
       "sintesis": {
-        "es": "Adolescents in both the United States and the United Kingdom have become increasingly ambitious about their future careers over the past two decades, according to a new study by researchers at Penn State. The team also found that family socioeconomic background plays a different role depending on the types of occupations students expect to pursue, with relatively small socioeconomic differences among American students aspiring to the highest-status careers.",
-        "en": "Adolescents in both the United States and the United Kingdom have become increasingly ambitious about their future careers over the past two decades, according to a new study by researchers at Penn State. The team also found that family socioeconomic background plays a different role depending on the types of occupations students expect to pursue, with relatively small socioeconomic differences among American students aspiring to the highest-status careers."
+        "es": "Un fuerte terremoto de magnitud 7,1 sacudió la región de Kumamoto, en el suroeste de Japón, dejando al menos 13 muertos. Cerca de 20 personas continúan desaparecidas, la mitad de ellas atrapadas en un centro comercial donde se produjo una explosión tras el sismo. Las autoridades japonesas mantienen labores de búsqueda y rescate en la zona.",
+        "en": "A powerful magnitude 7.1 earthquake struck the Kumamoto region in southwestern Japan, leaving at least 13 people dead. Around 20 people remain missing, half of them trapped in a shopping mall where an explosion occurred following the quake. Japanese authorities continue search and rescue operations in the area."
       },
-      "categoria": "salud",
+      "categoria": "sociedad",
       "actores": [
-        "Jet"
+        "Gobierno de Japón",
+        "Autoridades de Kumamoto",
+        "Equipos de rescate"
       ],
       "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
+        "lat": 32.7898,
+        "lon": 130.7417,
+        "region": "Kumamoto, Kyushu, Japón"
       },
-      "impacto": 58,
+      "impacto": 62,
       "fuentes": [
-        "ev_e72dedbe8c",
-        "ev_bc9454616f",
-        "ev_3cd6269e3e",
-        "ev_77db2ad8c7"
+        "ev_cb584bf1b0",
+        "ev_067e1d26fc",
+        "ev_979eb90ec6",
+        "ev_b0d3b38f82"
       ],
-      "cluster_id": "cl_268",
+      "cluster_id": "cl_002",
       "imagenes": [
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/happy-student-with-com.jpg",
-        "https://cdn.arstechnica.net/wp-content/uploads/2026/07/vaccinator-1000x648.jpg",
-        "https://images.mktw.net/im-33239683"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b02f/live/ba8cefe0-8a88-11f1-a7ab-8b30adf0800a.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3795/live/03bd6710-8aa4-11f1-951f-a70d41b77a63.jpg",
+        "https://imagenes.elpais.com/resizer/v2/LR4PCSXRGNKVHMCALMBWKBQQEQ.jpg?auth=14aedc7850110f205098eecb0d4faaa8fe2a9481e890f6e51c804758fc01ab26"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_e72dedbe8c",
-          "titulo": "Jet lag tips: What to eat and drink to beat travel fatigue",
-          "url": "http://www.euronews.com/health/2026/07/28/jet-lag-tips-what-to-eat-and-drink-to-beat-travel-fatigue",
-          "fuente": "Euronews English",
-          "fecha": "Tue, 28 Jul 2026 07:00:01 +0200",
+          "id": "ev_cb584bf1b0",
+          "titulo": "Un potente terremoto en Japón deja al menos 13 muertos y varias personas atrapadas en un centro comercial",
+          "url": "https://www.bbc.com/mundo/articles/c5y62l02y3jo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Wed, 29 Jul 2026 07:13:10 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_067e1d26fc",
+          "titulo": "EN VIDEO | El momento en el que un fuerte terremoto sacude Japón",
+          "url": "https://www.bbc.com/mundo/articles/c36d5377d18o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Tue, 28 Jul 2026 17:03:18 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_979eb90ec6",
+          "titulo": "VÍDEO: El momento en el que un fuerte terremoto de 7,1 grados sacude Japón y las personas buscan refugio",
+          "url": "http://es.euronews.com/video/2026/07/29/terremoto-en-japon-sacude-redaccion-de-kumamoto-el-personal-se-refugia-bajo-las-mesas",
+          "fuente": "Euronews Espanol",
+          "fecha": "Wed, 29 Jul 2026 08:12:13 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_b0d3b38f82",
+          "titulo": "Los muertos en el terremoto de Japón se elevan ya a 13 mientras prosigue la búsqueda de desaparecidos",
+          "url": "https://elpais.com/internacional/2026-07-29/los-muertos-en-el-terremoto-de-japon-se-elevan-ya-a-13-mientras-prosigue-la-busqueda-de-desaparecidos.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Wed, 29 Jul 2026 06:59:17 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-07-29_0009",
+      "fecha": "2026-07-29",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
+        "en": "FCC bans humanoid robots from China, citing ‘unacceptable risks’"
+      },
+      "sintesis": {
+        "es": "Move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US The Federal Communications Commission announced a ban on humanoid robots from China on Tuesday, saying that the technology poses “unacceptable risks” to the country’s national security. The move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US. The FCC defines the banned robots as “advanced robotic devices”, which include humanoids and animal-like quadrupeds.",
+        "en": "Move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US The Federal Communications Commission announced a ban on humanoid robots from China on Tuesday, saying that the technology poses “unacceptable risks” to the country’s national security. The move comes as the Trump administration has increasingly sought to keep Chinese technology out of the US. The FCC defines the banned robots as “advanced robotic devices”, which include humanoids and animal-like quadrupeds."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Trump",
+        "Chinese",
+        "FCC",
+        "China"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_3f32b62afe",
+        "ev_aab1c6b9d3",
+        "ev_68dfdb1938",
+        "ev_3330a8bedc"
+      ],
+      "cluster_id": "cl_134",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b8e/live/23eaf6d0-8ade-11f1-b889-f97dd2fdd738.jpg",
+        "https://i.guim.co.uk/img/media/4246978568dc52b388726a54c5799437285f8631/510_0_4378_3501/master/4378.jpg?width=140&quality=85&auto=format&fit=max&s=19ef92bf4dd2a6ce8a86dee6dbfeb46d",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlink-router-1152x648-1785186848.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_3f32b62afe",
+          "titulo": "Trump administration bans new Chinese humanoid robots",
+          "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Wed, 29 Jul 2026 02:30:50 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_bc9454616f",
-          "titulo": "Q&A: What influences teens' career expectations?",
-          "url": "https://phys.org/news/2026-07-qa-teens-career.html",
-          "fuente": "Phys.org",
-          "fecha": "Mon, 27 Jul 2026 23:00:03 EDT",
+          "id": "ev_aab1c6b9d3",
+          "titulo": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
+          "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 28 Jul 2026 23:24:15 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_3cd6269e3e",
-          "titulo": "What public health professionals can learn from anti-vaccine storytelling",
-          "url": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
+          "id": "ev_68dfdb1938",
+          "titulo": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+          "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
           "fuente": "Ars Technica",
-          "fecha": "Mon, 27 Jul 2026 14:01:56 +0000",
+          "fecha": "Mon, 27 Jul 2026 21:40:27 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_77db2ad8c7",
-          "titulo": "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
-          "url": "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Mon, 27 Jul 2026 21:46:00 GMT",
+          "id": "ev_3330a8bedc",
+          "titulo": "Trump administration to ban new Chinese robots and inverters, protecting U.S. AI",
+          "url": "https://www.cnbc.com/2026/07/28/trump-administration-to-ban-new-chinese-robots-and-inverters-protecting-us-ai.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Tue, 28 Jul 2026 18:59:02 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-07-28_0007",
-      "fecha": "2026-07-28",
+      "id": "nd_2026-07-29_0010",
+      "fecha": "2026-07-29",
       "kardashev": "K0",
       "relaciones": [
-        "nd_2026-07-28_0004",
-        "nd_2026-07-28_0009"
+        "nd_2026-07-29_0001",
+        "nd_2026-07-29_0002"
       ]
     },
     {
       "titulo": {
-        "es": "New WHO guidelines: up to 45% of dementia risk could be prevented or delayed",
-        "en": "New WHO guidelines: up to 45% of dementia risk could be prevented or delayed"
+        "es": "La hija de Tom Cruise cambia de apellido y rompe con el nombre de su padre",
+        "en": "Tom Cruise and Katie Holmes' daughter Suri drops her estranged father's last name"
       },
       "sintesis": {
-        "es": "The World Health Organization (WHO) today released updated guidelines on reducing the risk of cognitive decline and dementia , providing countries with evidence-based recommendations to help prevent or delay the onset of dementia across the life course. Dementia is a condition caused by brain diseases and affects memory, thinking and the ability to function. More than 57 million people live with dementia worldwide and nearly 10 million people get newly diagnosed every year.",
-        "en": "The World Health Organization (WHO) today released updated guidelines on reducing the risk of cognitive decline and dementia , providing countries with evidence-based recommendations to help prevent or delay the onset of dementia across the life course. Dementia is a condition caused by brain diseases and affects memory, thinking and the ability to function. More than 57 million people live with dementia worldwide and nearly 10 million people get newly diagnosed every year."
+        "es": "Suri, la hija de Tom Cruise y Katie Holmes, ha cambiado legalmente su apellido por el segundo nombre de su madre, Noelle, sumándose a otros hijos de celebridades que han renunciado al apellido paterno.",
+        "en": "Tom Cruise and Katie Holmes’ daughter Suri is the latest celebrity child to drop their famous last name. Reports indicate she has legally changed her surname from Cruise to Noelle - Holmes' middle name."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Tom Cruise",
+        "Suri",
+        "Katie Holmes"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_5fcd413f86",
+        "ev_4c60637367",
+        "ev_656ad0f5a7"
+      ],
+      "cluster_id": "cl_099",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5fcd413f86",
+          "titulo": "La hija de Tom Cruise cambia de apellido y rompe con el nombre de su padre",
+          "url": "http://es.euronews.com/cultura/2026/07/28/la-hija-de-tom-cruise-y-katie-holmes-suri-deja-el-apellido-de-su-padre-distanciado",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 28 Jul 2026 12:13:39 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_4c60637367",
+          "titulo": "Tom Cruise and Katie Holmes' daughter Suri drops her estranged father's last name",
+          "url": "http://www.euronews.com/culture/2026/07/28/tom-cruise-and-katie-holmes-daughter-suri-drops-her-estranged-fathers-last-name",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 28 Jul 2026 12:11:09 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_656ad0f5a7",
+          "titulo": "Tom Cruise's daughter Suri drops his last name",
+          "url": "https://www.cbc.ca/news/entertainment/katie-holmes-tom-cruise-daughter-suri-drops-cruise-last-name-9.7285941?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 28 Jul 2026 13:24:42 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-29_0011",
+      "fecha": "2026-07-29",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Hugging Face Has a Deepfake Nudes Problem",
+        "en": "Hugging Face Has a Deepfake Nudes Problem"
+      },
+      "sintesis": {
+        "es": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
+        "en": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "OpenAI",
+        "Hugging Face",
+        "Report",
+        "Rogue"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 57,
+      "fuentes": [
+        "ev_8fc790e739",
+        "ev_55ed2ea27b",
+        "ev_e7854098a5",
+        "ev_6a995ca0b5"
+      ],
+      "cluster_id": "cl_191",
+      "imagenes": [
+        "https://media.wired.com/photos/6a6929c87648cc825532f98e/master/pass/Runaway-OpenAI-Model-Even-Worse-Than-It-Seemed-Business-1393231668.jpg",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+        "https://media.wired.com/photos/6a67cfabae27b42b1eabd681/master/pass/Security_HuggingFaceHasaDeepfakeNudesProblem_v1.gif"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8fc790e739",
+          "titulo": "OpenAI’s rogue agent hacked an account at a second technology firm: Report",
+          "url": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 29 Jul 2026 02:05:41 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_55ed2ea27b",
+          "titulo": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+          "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+          "fuente": "WIRED",
+          "fecha": "Wed, 29 Jul 2026 00:15:30 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e7854098a5",
+          "titulo": "We now have a better understanding how OpenAI hacked into Hugging Face",
+          "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+          "fuente": "Ars Technica",
+          "fecha": "Tue, 28 Jul 2026 21:36:39 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6a995ca0b5",
+          "titulo": "Hugging Face Has a Deepfake Nudes Problem",
+          "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+          "fuente": "WIRED",
+          "fecha": "Tue, 28 Jul 2026 05:30:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-07-29_0012",
+      "fecha": "2026-07-29",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "New quantum gravity theory links entropy, dark energy, and life",
+        "en": "New quantum gravity theory links entropy, dark energy, and life"
+      },
+      "sintesis": {
+        "es": "A new theoretical study offers a possible explanation for how the Universe can grow more complex without violating the second law of thermodynamics. Using a quantum gravity framework called Gravity from Entropy, mathematician Ginestra Bianconi found that the Universe’s total entropy may rise as space expands, even while entropy within each unit of volume falls. That decline could leave room for galaxies, stars, planets, and life to form locally amid an overall increase in cosmic entropy.",
+        "en": "A new theoretical study offers a possible explanation for how the Universe can grow more complex without violating the second law of thermodynamics. Using a quantum gravity framework called Gravity from Entropy, mathematician Ginestra Bianconi found that the Universe’s total entropy may rise as space expands, even while entropy within each unit of volume falls. That decline could leave room for galaxies, stars, planets, and life to form locally amid an overall increase in cosmic entropy."
       },
       "categoria": "ciencia",
       "actores": [
         "New",
-        "New WHO"
+        "Sustainability"
       ],
       "geo": {
-        "lat": 41.9,
-        "lon": 12.6,
-        "region": "Europa"
+        "lat": 4.6,
+        "lon": -74.3,
+        "region": "Sudamerica"
       },
       "impacto": 57,
       "fuentes": [
+        "ev_9ecde06317",
         "ev_d1aa1548c2",
         "ev_4ebbf47580",
         "ev_1f490c2df6",
         "ev_0233f6630c",
-        "ev_2a158ef183",
-        "ev_b44bcc5241",
-        "ev_51bfbe41f7"
+        "ev_c1866f2a4f",
+        "ev_f0fbf53a65"
       ],
-      "cluster_id": "cl_409",
+      "cluster_id": "cl_308",
       "imagenes": [
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/monitoring-laser-ablat.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/thermodynamics-of-spin.jpg"
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/new-model-reveals-loca.jpg",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/new-cell-based-method.jpg"
       ],
       "estado": "verificado",
       "referencias": [
+        {
+          "id": "ev_9ecde06317",
+          "titulo": "New elective surgery figures show health system improvements as new minister takes over",
+          "url": "https://www.abc.net.au/news/2026-07-29/act-elective-surgery-figures-new-health-minister/106966668",
+          "fuente": "ABC News Australia",
+          "fecha": "Wed, 29 Jul 2026 03:13:47 +0000",
+          "idioma": "en"
+        },
         {
           "id": "ev_d1aa1548c2",
           "titulo": "New giant salamander species discovered in 3.5-million-year-old fossils",
@@ -1014,466 +1413,26 @@
           "idioma": "en"
         },
         {
-          "id": "ev_2a158ef183",
-          "titulo": "New sensing method measures laser-cutting depth by tracking vaporization recoil",
-          "url": "https://phys.org/news/2026-07-method-laser-depth-tracking-vaporization.html",
+          "id": "ev_c1866f2a4f",
+          "titulo": "Sustainability is not automatic: New model reveals local successes and regional barriers",
+          "url": "https://phys.org/news/2026-07-sustainability-automatic-reveals-local-successes.html",
           "fuente": "Phys.org",
-          "fecha": "Mon, 27 Jul 2026 21:20:01 EDT",
+          "fecha": "Tue, 28 Jul 2026 17:40:05 EDT",
           "idioma": "en"
         },
         {
-          "id": "ev_b44bcc5241",
-          "titulo": "New thermodynamic framework explains pressure and edge currents in spinning active particles",
-          "url": "https://phys.org/news/2026-07-thermodynamic-framework-pressure-edge-currents.html",
+          "id": "ev_f0fbf53a65",
+          "titulo": "New cell-based method could expand human milk oligosaccharides available for infant formula",
+          "url": "https://phys.org/news/2026-07-cell-based-method-human-oligosaccharides.html",
           "fuente": "Phys.org",
-          "fecha": "Mon, 27 Jul 2026 18:20:04 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_51bfbe41f7",
-          "titulo": "New WHO guidelines: up to 45% of dementia risk could be prevented or delayed",
-          "url": "https://www.who.int/news/item/15-07-2026-new-who-guidelines--up-to-45--of-dementia-risk-could-be-prevented-or-delayed",
-          "fuente": "WHO News",
-          "fecha": "Wed, 15 Jul 2026 12:15:58 Z",
+          "fecha": "Tue, 28 Jul 2026 16:00:07 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-07-28_0008",
-      "fecha": "2026-07-28",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-07-28_0006"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Historic U.S.-Canada bridge opens under shadow of Trump’s new tariffs",
-        "en": "Historic U.S.-Canada bridge opens under shadow of Trump’s new tariffs"
-      },
-      "sintesis": {
-        "es": "Traffic is set to start flowing across a new bridge over the Detroit River that will serve as a critical route for trade, jobs and tourism between Canada and the U.S. Last week, Canada celebrated the Gordie Howe International Bridge with a ribbon-cutting ceremony in Windsor, Ontario, to mark the completion of the multibillion-dollar, multiyear project",
-        "en": "Traffic is set to start flowing across a new bridge over the Detroit River that will serve as a critical route for trade, jobs and tourism between Canada and the U.S. Last week, Canada celebrated the Gordie Howe International Bridge with a ribbon-cutting ceremony in Windsor, Ontario, to mark the completion of the multibillion-dollar, multiyear project"
-      },
-      "categoria": "economia",
-      "actores": [
-        "Trump",
-        "Michigan",
-        "Canada",
-        "Historic"
-      ],
-      "geo": {
-        "lat": 56.1,
-        "lon": -106.3,
-        "region": "Norteamerica"
-      },
-      "impacto": 50,
-      "fuentes": [
-        "ev_2c09df0e97",
-        "ev_c84654db08",
-        "ev_48d6171ef4",
-        "ev_53decb72c4",
-        "ev_610278a874",
-        "ev_7ba38c24e2",
-        "ev_dfec38a6dc"
-      ],
-      "cluster_id": "cl_207",
-      "imagenes": [
-        "https://static.independent.co.uk/2026/07/27/20/download.-5.?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-        "https://static.independent.co.uk/2026/07/25/14/download.-1.?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-        "https://static.independent.co.uk/2026/07/02/16/2283120357..?width=1200&auto=webp&trim=0%2C1%2C0%2C1",
-        "https://static.independent.co.uk/2026/07/27/20/download.-1.?width=1200&auto=webp&crop=3%3A2"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_2c09df0e97",
-          "titulo": "Trump calls protester ‘communist’ after Michigan speech interruption",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_trump-calls-heckler-communist-speech-interruption-280726?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Tue, 28 Jul 2026 04:48:01 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c84654db08",
-          "titulo": "Trump tells Michigan auto workers, ‘I’ve done more for you than your parents’ in latest rambling speech",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-michigan-speech-economy-rally-b3022582.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 21:13:49 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_48d6171ef4",
-          "titulo": "Michigan father killed wife and six children before bodies were found in burned home in ‘unspeakable tragedy’",
-          "url": "https://www.independent.co.uk/news/world/americas/crime/michigan-family-dead-grand-haven-fire-b3022583.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 20:37:35 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_53decb72c4",
-          "titulo": "Trump administration has a new trick to speed up deporting asylum seekers",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-uscis-asylum-seekers-interview-rule-change-b3022578.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 20:25:02 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_610278a874",
-          "titulo": "Trump suffers another loss in US appeals court fight over federal voter list",
-          "url": "https://www.independent.co.uk/news/world/americas/federal-vote-list-trump-appeals-court-b3022564.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 19:37:50 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_7ba38c24e2",
-          "titulo": "Trump visits Michigan amid feud over Canada tariffs and new border bridge",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-michigan-drag-race-canada-tariffs-gordie-howe-bridge-b3022439.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 15:59:39 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_dfec38a6dc",
-          "titulo": "Historic U.S.-Canada bridge opens under shadow of Trump’s new tariffs",
-          "url": "https://www.independent.co.uk/news/world/americas/gordie-howe-bridge-canada-us-tariffs-b3022120.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 09:48:37 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-07-28_0009",
-      "fecha": "2026-07-28",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-07-28_0000",
-        "nd_2026-07-28_0004",
-        "nd_2026-07-28_0007"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Scientists revive a powerful antibiotic that superbugs had defeated",
-        "en": "Scientists revive a powerful antibiotic that superbugs had defeated"
-      },
-      "sintesis": {
-        "es": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule called pghi-4, which blocks a bacterial enzyme linked to resistance. The combination restored the antibiotic’s ability to kill drug-resistant E.",
-        "en": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule called pghi-4, which blocks a bacterial enzyme linked to resistance. The combination restored the antibiotic’s ability to kill drug-resistant E."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "Scientists",
-        "Sun"
-      ],
-      "geo": {
-        "lat": -25.3,
-        "lon": 133.8,
-        "region": "Oceania"
-      },
-      "impacto": 48,
-      "fuentes": [
-        "ev_215126ec70",
-        "ev_4be77fd613",
-        "ev_56b1c183da",
-        "ev_7b9ad5ba49",
-        "ev_f33a195c79",
-        "ev_c7d362e9f3",
-        "ev_1886264a1a",
-        "ev_6d5ac9b93f",
-        "ev_22935f20cf",
-        "ev_6a92f20d36"
-      ],
-      "cluster_id": "cl_339",
-      "imagenes": [
-        "https://static.independent.co.uk/2026/07/27/15/42/Screenshot-2026-07-27-at-16-32-31.png?width=1200&auto=webp&trim=0%2C19%2C0%2C19"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_215126ec70",
-          "titulo": "Scientists have discovered a rare transmissible cancer between fish — and it could ultimately help humans",
-          "url": "https://www.independent.co.uk/news/health/cancer-catfish-memphremagog-melanoma-b3022394.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 17:10:22 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4be77fd613",
-          "titulo": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Sun, 26 Jul 2026 01:10:29 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_56b1c183da",
-          "titulo": "Scientists put the “recycling is a distraction” claim to the test",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Sat, 25 Jul 2026 10:00:35 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_7b9ad5ba49",
-          "titulo": "Scientists discover the Sun contains 55% more silver than expected",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260723084049.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Fri, 24 Jul 2026 21:55:27 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f33a195c79",
-          "titulo": "Scientists discover the hidden brain switch that assigns bees their jobs",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Wed, 22 Jul 2026 21:10:39 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c7d362e9f3",
-          "titulo": "Scientists revive a powerful antibiotic that superbugs had defeated",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Wed, 22 Jul 2026 03:21:08 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1886264a1a",
-          "titulo": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Tue, 21 Jul 2026 01:10:08 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6d5ac9b93f",
-          "titulo": "Scientists found two powerful new ways to destroy forever chemicals",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Sun, 19 Jul 2026 22:31:21 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_22935f20cf",
-          "titulo": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Sun, 19 Jul 2026 00:22:00 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6a92f20d36",
-          "titulo": "Scientists built a camera that can track invisible particles in 3D",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Fri, 17 Jul 2026 02:04:57 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-07-28_0010",
-      "fecha": "2026-07-28",
-      "kardashev": "K0",
+      "id": "nd_2026-07-29_0013",
+      "fecha": "2026-07-29",
+      "kardashev": "K2",
       "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Detienen en Chile al último prófugo condenado por el asesinato de Víctor Jara",
-        "en": "Chile captures last fugitive convicted of Víctor Jara's murder"
-      },
-      "sintesis": {
-        "es": "El excoronel retirado Nelson Haase Mazzei, condenado en 2023 a 25 años de prisión por el secuestro y asesinato del cantautor Víctor Jara tras el golpe militar de 1973, fue detenido en una parcela en Puyehue, región de Los Lagos, tras permanecer prófugo desde que la sentencia quedó firme. Era el último de los siete exmilitares condenados por el crimen que aún eludía la justicia.",
-        "en": "Retired colonel Nelson Haase Mazzei, sentenced in 2023 to 25 years in prison for the kidnapping and murder of folk singer Víctor Jara following Chile's 1973 military coup, was arrested on a property in Puyehue, Los Lagos region, after evading authorities since the sentence became final. He was the last of seven convicted former soldiers still at large."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Nelson Haase Mazzei",
-        "Víctor Jara",
-        "Policía de Chile",
-        "Poder Judicial de Chile"
-      ],
-      "geo": {
-        "lat": -40.7,
-        "lon": -72.6,
-        "region": "Puyehue, Región de Los Lagos, Chile"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_6d4f56ed78",
-        "ev_dc76516b2b",
-        "ev_c135eadf20",
-        "ev_4eed2d34c2"
-      ],
-      "cluster_id": "cl_018",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39c2/live/23e40ad0-88e2-11f1-aeef-edf7e578a56d.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/08/28/16932569749917.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c4d/live/36b149a0-89cf-11f1-b9d9-13fd1053d899.jpg",
-        "https://i.guim.co.uk/img/media/924e4efcc644c3ea190cbf7970f8a29370732191/0_5_2048_1638/master/2048.jpg?width=140&quality=85&auto=format&fit=max&s=2849e63966ace262ddca981c9853639c"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_6d4f56ed78",
-          "titulo": "Detienen en Chile a un coronel retirado condenado por el asesinato del cantautor Víctor Jara tras permanecer prófugo durante años",
-          "url": "https://www.bbc.com/mundo/articles/ckgd1779vpdo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Mon, 27 Jul 2026 14:10:54 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_dc76516b2b",
-          "titulo": "Detienen en Chile al último exmilitar condenado por el crimen del cantautor Víctor Jara",
-          "url": "https://www.elmundo.es/internacional/2026/07/26/6a65e4c821efa0d3278b4571.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sun, 26 Jul 2026 12:50:48 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c135eadf20",
-          "titulo": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
-          "url": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 27 Jul 2026 15:49:45 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4eed2d34c2",
-          "titulo": "Pinochet-era soldier jailed for killing folk singer Víctor Jara 53 years ago",
-          "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 27 Jul 2026 16:27:44 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-07-28_0011",
-      "fecha": "2026-07-28",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Shares slip as chip stocks come under heavy selling: Here's why",
-        "en": "Shares slip as chip stocks come under heavy selling: Here's why"
-      },
-      "sintesis": {
-        "es": "South Korea's Kospi index plunged more than 10% on Tuesday morning as chipmaking stocks came under heavy selling amid renewed concerns over whether the artificial intelligence boom can be sustained.",
-        "en": "South Korea's Kospi index plunged more than 10% on Tuesday morning as chipmaking stocks came under heavy selling amid renewed concerns over whether the artificial intelligence boom can be sustained."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Here",
-        "Shares"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 127.8,
-        "region": "Asia Oriental"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_717e50485e",
-        "ev_46990f3b5a",
-        "ev_e97306ecc3"
-      ],
-      "cluster_id": "cl_241",
-      "imagenes": [
-        "https://static.independent.co.uk/2026/07/24/15/12/GettyImages-2279294758.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_717e50485e",
-          "titulo": "Here’s the latest.",
-          "url": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions/heres-the-latest",
-          "fuente": "NYT World",
-          "fecha": "Mon, 27 Jul 2026 19:39:21 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_46990f3b5a",
-          "titulo": "Shares slip as chip stocks come under heavy selling: Here's why",
-          "url": "http://www.euronews.com/business/2026/07/28/shares-slip-as-chip-stocks-come-under-heavy-selling-heres-why",
-          "fuente": "Euronews English",
-          "fecha": "Tue, 28 Jul 2026 07:11:37 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e97306ecc3",
-          "titulo": "I’m a veterinarian. Here’s how to protect your pets as flesh-eating parasite spreads",
-          "url": "https://www.independent.co.uk/news/world/americas/new-world-screwworm-texas-veterinarian-b3022020.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 07:56:31 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-07-28_0012",
-      "fecha": "2026-07-28",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-07-28_0013"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Why China is giving away its best AI models",
-        "en": "Why China is giving away its best AI models"
-      },
-      "sintesis": {
-        "es": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between […]",
-        "en": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies at a fraction of the cost. Its performance alone would have been enough to intensify the rivalry between […]"
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "Why China"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_afcdd286c6",
-        "ev_11ae6a275e",
-        "ev_cafa9bfe13"
-      ],
-      "cluster_id": "cl_273",
-      "imagenes": [
-        "https://static.independent.co.uk/2026/07/27/17/2188721172..?width=1200&auto=webp&trim=1%2C0%2C1%2C0"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_afcdd286c6",
-          "titulo": "Why one smoker gets cancer and another doesn't: a study provides clues",
-          "url": "http://www.euronews.com/health/2026/07/27/why-one-smoker-gets-cancer-and-another-doesnt-a-study-provides-clues",
-          "fuente": "Euronews English",
-          "fecha": "Mon, 27 Jul 2026 18:27:11 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_11ae6a275e",
-          "titulo": "Why does lettuce make us sick so often?",
-          "url": "https://www.independent.co.uk/life-style/health-and-families/lettuce-cyclospora-outbreak-herbs-foodborne-illness-b3022373.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 27 Jul 2026 17:09:35 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_cafa9bfe13",
-          "titulo": "Why China is giving away its best AI models",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-          "fuente": "The Verge",
-          "fecha": "",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-07-28_0013",
-      "fecha": "2026-07-28",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-07-28_0012"
-      ]
     }
   ]
 }
