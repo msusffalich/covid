@@ -71,6 +71,18 @@ flowchart LR
 
 > [!warning] **Alto el fuego frágil, no resuelto.** Trump suspende el ataque inminente y anuncia negociaciones nucleares, pero **Israel sigue bombardeando Gaza** pese al acuerdo de desarme de Hamás, y Ormuz aún condiciona el tráfico marítimo. La ONU mantiene la alerta máxima.
 
+## 6. Últimos nodos relacionados — actualización automática
+
+> [!tip] Esta tabla se **rellena sola** con los nodos más recientes del tema cada vez que Obsidian sincroniza (requiere el plugin **Dataview**). El análisis de arriba es una foto fija con fecha; esta lista es la **señal viva** de material nuevo. Filtra por palabra clave en el nombre del nodo, así que puede incluir algún ítem tangencial.
+
+```dataview
+TABLE fecha AS "Fecha", impacto AS "Impacto", categoria AS "Categoría", kardashev AS "K"
+FROM "10 · Nodos"
+WHERE contains(lower(file.name), "iran") OR contains(lower(file.name), "ormuz") OR contains(lower(file.name), "teheran")
+SORT fecha DESC, impacto DESC
+LIMIT 25
+```
+
 ---
 ### Nodos fuente (Capa 3)
 Ver la carpeta `10 · Nodos/Geopolitica/` — notas del 2026-07-19 al 2026-08-04 con el prefijo de fecha. Cada una enlaza a sus fuentes originales verificadas (BBC, El País, The Guardian, DW, France 24, RFI, Al Jazeera, Noticias ONU, entre otras).

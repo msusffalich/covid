@@ -66,6 +66,18 @@ flowchart LR
 > [!note] Nota de cobertura
 > El sistema registró menos nodos de este conflicto que del de Irán–EE.UU. en el mismo periodo (la agenda informativa estuvo dominada por Oriente Medio). Este cuadro refleja los picos capturados, no una cobertura continua día a día.
 
+## 6. Últimos nodos relacionados — actualización automática
+
+> [!tip] Esta tabla se **rellena sola** con los nodos más recientes del tema cada vez que Obsidian sincroniza (requiere el plugin **Dataview**). El análisis de arriba es una foto fija con fecha; esta lista es la **señal viva** de material nuevo. Filtra por palabra clave en el nombre del nodo, así que puede incluir algún ítem tangencial.
+
+```dataview
+TABLE fecha AS "Fecha", impacto AS "Impacto", categoria AS "Categoría", kardashev AS "K"
+FROM "10 · Nodos"
+WHERE contains(lower(file.name), "ucrania") OR contains(lower(file.name), "ukrain") OR contains(lower(file.name), "rusia") OR contains(lower(file.name), "russia") OR contains(lower(file.name), "kyiv") OR contains(lower(file.name), "zelensk")
+SORT fecha DESC, impacto DESC
+LIMIT 25
+```
+
 ---
 ### Nodos fuente (Capa 3)
 Ver `10 · Nodos/Geopolitica/` — notas del 2026-07-19 al 2026-08-03 sobre Rusia/Ucrania. Fuentes: The Guardian, DW, France 24, El País, RFI, Reuters, entre otras.

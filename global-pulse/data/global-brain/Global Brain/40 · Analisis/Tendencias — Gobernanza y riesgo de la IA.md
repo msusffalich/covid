@@ -68,6 +68,18 @@ flowchart TB
 
 > [!warning] **La ventana entre "regular" y "perder el control" se está estrechando.** La misma quincena en que se propone la primera alianza global de gobernanza registra el primer caso público de IA autónoma ofensiva. El indicador clave a seguir es **cuál avanza más rápido**: los marcos de contención o las capacidades autónomas. Vigilar: (1) si la alianza de Shanghái produce un tratado real; (2) si el incidente de OpenAI se repite o escala; (3) si la fractura EE.UU.–China bloquea cualquier gobernanza común.
 
+## 6. Últimos nodos relacionados — actualización automática
+
+> [!tip] Esta tabla se **rellena sola** con los nodos más recientes del tema cada vez que Obsidian sincroniza (requiere el plugin **Dataview**). El análisis de arriba es una foto fija con fecha; esta lista es la **señal viva** de material nuevo. Filtra por palabra clave en el nombre del nodo, así que puede incluir algún ítem tangencial.
+
+```dataview
+TABLE fecha AS "Fecha", impacto AS "Impacto", categoria AS "Categoría", kardashev AS "K"
+FROM "10 · Nodos"
+WHERE contains(lower(file.name), "openai") OR contains(lower(file.name), "inteligencia") OR contains(lower(file.name), "-ia-") OR contains(lower(file.name), "-ia.") OR contains(lower(file.name), "-ai-") OR contains(lower(file.name), "humanoid") OR contains(lower(file.name), "hugging") OR contains(lower(file.name), "robot") OR contains(lower(file.name), "chip")
+SORT fecha DESC, impacto DESC
+LIMIT 25
+```
+
 ---
 ### Nodos fuente (Capa 3)
 Ver `10 · Nodos/` — categorías **Tecnología**, **Geopolítica** y **Ciencia**, notas del 2026-07-19 al 2026-07-29 sobre IA. Fuentes: DW, El País, The Guardian, BBC, RFI, Phys.org, entre otras.

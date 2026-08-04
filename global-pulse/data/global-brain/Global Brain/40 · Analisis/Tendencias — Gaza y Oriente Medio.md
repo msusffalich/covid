@@ -68,6 +68,18 @@ flowchart LR
 > [!note] Entrelazamiento
 > Este hilo es inseparable del de Irán–EE.UU.: la postura regional de Israel, las cumbres en Washington y la amenaza hutí conectan ambos. Ver [[Tendencias — Conflicto Iran vs EEUU]].
 
+## 6. Últimos nodos relacionados — actualización automática
+
+> [!tip] Esta tabla se **rellena sola** con los nodos más recientes del tema cada vez que Obsidian sincroniza (requiere el plugin **Dataview**). El análisis de arriba es una foto fija con fecha; esta lista es la **señal viva** de material nuevo. Filtra por palabra clave en el nombre del nodo, así que puede incluir algún ítem tangencial.
+
+```dataview
+TABLE fecha AS "Fecha", impacto AS "Impacto", categoria AS "Categoría", kardashev AS "K"
+FROM "10 · Nodos"
+WHERE contains(lower(file.name), "gaza") OR contains(lower(file.name), "hamas") OR contains(lower(file.name), "israel") OR contains(lower(file.name), "netanyahu") OR contains(lower(file.name), "mar-rojo")
+SORT fecha DESC, impacto DESC
+LIMIT 25
+```
+
 ---
 ### Nodos fuente (Capa 3)
 Ver `10 · Nodos/Geopolitica/` — notas del 2026-07-19 al 2026-08-04 sobre Gaza/Israel/Levante. Fuentes: El País, BBC, DW, France 24, RFI, Al Jazeera, Noticias ONU, The Guardian, entre otras.
