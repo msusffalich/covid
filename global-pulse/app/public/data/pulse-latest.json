@@ -1,470 +1,212 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-08-03",
-    "generado": "2026-08-03T08:24:51.292599+00:00",
+    "fecha": "2026-08-04",
+    "generado": "2026-08-04T07:34:19.867118+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 803,
-      "clusters": 519,
-      "nodos": 519,
-      "verificados": 519,
-      "duracion_s": 397.8
+      "piezas_ingeridas": 783,
+      "clusters": 524,
+      "nodos": 524,
+      "verificados": 524,
+      "duracion_s": 340.1
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "El Gobierno de Milei toma medidas contra extranjeros que critiquen a Argentina",
-        "en": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup"
+        "es": "Mucho dinero y conflicto de intereses: Truth Social vende acceso anticipado a las publicaciones de Trump",
+        "en": "Yen hits three-month high after Trump helps prop up currency"
       },
       "sintesis": {
-        "es": "El presidente argentino, Javier Milei, modificó por decreto la Ley de Migraciones para prohibir el ingreso de extranjeros que expresen mensajes de odio hacia el país suramericano. La nueva normativa también prevé la expulsión y la cancelación de residencia para los extranjeros que incurran en esas conductas. La medida está vigente aunque el Congreso debe aún pronunciarse sobre su validez.",
-        "en": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’ More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over. Javier Milei has claimed that a coordinated “anti-Argentina campaign” was behind criticism of the country’s team, accusations of racism among its fans and conspiracy theories alleging that Lionel Messi’s side was secretly being favoured by Fifa. Continue reading..."
+        "es": "El 1 de agosto, Donald Trump Media lanzó oficialmente Truth API, un servicio que permitirá a clientes de pago tener un acceso anticipado a las cuentas más influyentes de la red social Truth Social, entre las que está la del presidente Donald Trump. Si bien otras empresas rivales ofrecen servicios similares, el hecho de que se trate de la compañía del propio mandatario despierta fuertes dudas sobre el uso de información privilegiada y el aprovechamiento del cargo público para beneficio personal.",
+        "en": "US and Japanese governments confirm they carried out a rare joint intervention late last week Why has Trump stepped in to prop up Japan’s currency? Business live – latest updates The yen has hit its highest level in three months after Japan and the US launched a combined operation to support the Japanese currency. The yen strengthened to ¥155 to the US dollar on Monday, its highest level since early May, after Tokyo and Washington confirmed they had carried out a rare joint currency intervention late last week."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Argentina",
-        "Milei",
-        "World Cup",
-        "Gobierno"
-      ],
-      "geo": {
-        "lat": 23.6,
-        "lon": -102.5,
-        "region": "Norteamerica"
-      },
-      "impacto": 93,
-      "fuentes": [
-        "ev_a1bc6182c4",
-        "ev_fa4715a753",
-        "ev_c8376f6e89",
-        "ev_d3cf624716",
-        "ev_4a0f35e903",
-        "ev_e5c0af7628"
-      ],
-      "cluster_id": "cl_016",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b5d/live/972da990-8cfe-11f1-9a29-416a24547568.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2091/live/cc23a0a0-8ccc-11f1-97f5-93fc85ee9dc4.jpg",
-        "https://s.rfi.fr/media/display/2510207a-8ca1-11f1-8411-005056a97e36/w:1024/p:16x9/AP26207620924348.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/30/17854308369244.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_a1bc6182c4",
-          "titulo": "Qué es el \"grillete fiscal\" y otras reformas que impulsa Milei para blindar su proyecto económico en Argentina",
-          "url": "https://www.bbc.com/mundo/articles/c62908n3zd7o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Fri, 31 Jul 2026 17:51:31 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_fa4715a753",
-          "titulo": "El polémico decreto de Milei para expulsar extranjeros que expresen \"odio\" contra Argentina",
-          "url": "https://www.bbc.com/mundo/articles/c2k7zx7v95ko?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Fri, 31 Jul 2026 10:45:47 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c8376f6e89",
-          "titulo": "El Gobierno de Milei toma medidas contra extranjeros que critiquen a Argentina",
-          "url": "https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20260731-el-gobierno-de-milei-toma-medidas-contra-extranjeros-que-critiquen-a-argentina",
-          "fuente": "RFI Espanol",
-          "fecha": "Fri, 31 Jul 2026 10:08:09 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_d3cf624716",
-          "titulo": "Milei cierra las fronteras a aquellos que \"odien\" a Argentina",
-          "url": "https://www.elmundo.es/internacional/2026/07/30/6a6b82aae85ececf268b45a8.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 30 Jul 2026 19:25:04 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_4a0f35e903",
-          "titulo": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
-          "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
-          "fuente": "The Guardian World",
-          "fecha": "Tue, 28 Jul 2026 10:21:46 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e5c0af7628",
-          "titulo": "FIFA says it is scrapping plans to sell off World Cup after outcry",
-          "url": "https://www.cbc.ca/sports/soccer/worldcup/fifa-world-cup-stake-proposal-9.7293398?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Thu, 30 Jul 2026 11:45:50 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-03_0000",
-      "fecha": "2026-08-03",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-03_0002"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Trump suspende ataques contra Irán y anuncia nuevas negociaciones para el lunes",
-        "en": "Trump suspends strikes on Iran and announces new talks for Monday"
-      },
-      "sintesis": {
-        "es": "El presidente de EE UU, Donald Trump, anunció la suspensión de un ataque militar inminente contra Irán, alegando la posibilidad de alcanzar rápidamente un acuerdo sobre el programa nuclear iraní y la reapertura del estrecho de Ormuz. Trump afirmó que la decisión respondió a peticiones de Irán y de países de la región, versión que Teherán negó. Se anunciaron nuevas conversaciones para el lunes 3 de agosto, en medio de un conflicto abierto desde febrero entre Washington, Israel e Irán, con periodos alternos de escalada y calma diplomática.",
-        "en": "US President Donald Trump announced the suspension of an imminent military strike against Iran, citing the possibility of quickly reaching a deal on Iran's nuclear program and the reopening of the Strait of Hormuz. Trump claimed the decision responded to requests from Iran and regional countries, a version denied by Tehran. New talks were announced for Monday, August 3, amid an ongoing conflict since February between Washington, Israel and Iran, marked by alternating escalation and diplomatic calm."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Donald Trump",
-        "Estados Unidos",
-        "Irán",
-        "Israel",
-        "Arabia Saudita"
-      ],
-      "geo": {
-        "lat": 32.4279,
-        "lon": 53.688,
-        "region": "Irán / Oriente Medio"
-      },
-      "impacto": 85,
-      "fuentes": [
-        "ev_e5ce9d469e",
-        "ev_b17507484d",
-        "ev_4c3a9a64ca",
-        "ev_aeb728d5f4",
-        "ev_c8aa3f2ce2",
-        "ev_e98a0a1486",
-        "ev_0a0524b02b",
-        "ev_c0c523a0ac",
-        "ev_12ad31c7a6",
-        "ev_77f33fb3fc",
-        "ev_e364288b3f",
-        "ev_5c4cb4e676",
-        "ev_90e46ff99c",
-        "ev_8990180abe",
-        "ev_48da928155",
-        "ev_c88b217293",
-        "ev_531bdd9a87",
-        "ev_8b6f3dd457",
-        "ev_a4d2089fa4",
-        "ev_83a933bc3c",
-        "ev_54e607f96c",
-        "ev_4236febcd3",
-        "ev_f56c308412",
-        "ev_7536dbdc58",
-        "ev_ddffe984c4",
-        "ev_41fa740141",
-        "ev_c17be38c9e",
-        "ev_3e8cbaed2f",
-        "ev_a2c627f9f5",
-        "ev_74139ae930",
-        "ev_e17a700b60",
-        "ev_599dc2ee3a",
-        "ev_6bc31e63e7"
-      ],
-      "cluster_id": "cl_041",
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/HAXM3YXRKZMC5F6BNPUQXMP6IE.jpg?auth=7891a7fef4a054ed90c06c18f83e8f17c7411ccbdf01d204e9b179937b403f40",
-        "https://s.france24.com/media/display/2a9f5802-8ecd-11f1-8fd4-005056bf30b7/w:1024/p:16x9/AP26208419033757.jpg",
-        "https://s.france24.com/media/display/9c565838-8eaf-11f1-9bfe-005056a97e36/w:1024/p:16x9/ES-20260802-150154-150701-CS.jpg",
-        "https://s.france24.com/media/display/1f9d5446-8e9a-11f1-a2a5-005056bfb2b6/w:1024/p:16x9/ES-20260802-120142-120323-CS.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e5ce9d469e",
-          "titulo": "Trump dice que suspende los ataques contra Irán a la espera de un acuerdo rápido",
-          "url": "https://elpais.com/internacional/2026-08-02/donald-trump-dice-que-suspende-los-ataques-contra-iran-a-la-espera-de-un-acuerdo-rapido.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sun, 02 Aug 2026 09:14:50 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_b17507484d",
-          "titulo": "Trump anuncia conversaciones con Irán mientras aumentan las expectativas por Ormuz",
-          "url": "https://www.france24.com/es/medio-oriente/20260803-trump-anuncia-conversaciones-con-ir%C3%A1n-mientras-aumentan-las-expectativas-por-ormuz",
-          "fuente": "France 24 Espanol",
-          "fecha": "Mon, 03 Aug 2026 00:52:39 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_4c3a9a64ca",
-          "titulo": "¿A qué se debe la decisión de Trump de frenar los ataques a Irán?",
-          "url": "https://www.france24.com/es/video/20260802-a-qu%C3%A9-se-debe-la-decisi%C3%B3n-de-trump-de-frenar-los-ataques-a-ir%C3%A1n",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sun, 02 Aug 2026 20:27:36 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_aeb728d5f4",
-          "titulo": "Trump frena un ataque contra Irán tras un posible acuerdo de última hora",
-          "url": "https://www.france24.com/es/video/20260802-trump-frena-un-ataque-contra-ir%C3%A1n-tras-un-posible-acuerdo-de-%C3%BAltima-hora",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sun, 02 Aug 2026 17:58:13 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c8aa3f2ce2",
-          "titulo": "En directo: Trump anunció que las nuevas conversaciones con Irán comenzarían el lunes tras la suspensión de los ataques",
-          "url": "https://www.france24.com/es/medio-oriente/20260802-en-directo-ir%C3%A1n-sigue-en-alerta-pese-a-que-trump-fren%C3%B3-ataque-de-ee-uu-por-posible-acuerdo",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sun, 02 Aug 2026 14:29:59 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_e98a0a1486",
-          "titulo": "Trump aplaza ataques contra Irán en busca de un ‘rápido acuerdo’",
-          "url": "https://www.rfi.fr/es/oriente-medio/20260802-trump-aplaza-ataques-contra-ir%C3%A1n-en-busca-de-un-r%C3%A1pido-acuerdo",
-          "fuente": "RFI Espanol",
-          "fecha": "Sun, 02 Aug 2026 09:02:57 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_0a0524b02b",
-          "titulo": "Trump anuncia nuevas negociaciones con Irán el lunes y aplaza los ataques para buscar un acuerdo",
-          "url": "http://es.euronews.com/2026/08/03/trump-nuevas-negociaciones-iran-lunes-aplaza-ataques-buscar-acuerdo",
-          "fuente": "Euronews Espanol",
-          "fecha": "Mon, 03 Aug 2026 07:54:33 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c0c523a0ac",
-          "titulo": "Trump cancela el ataque planeado contra Irán y alega avances diplomáticos",
-          "url": "https://www.elmundo.es/internacional/2026/08/02/6a6ed77cfdddffca358b458b.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sun, 02 Aug 2026 09:19:06 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_12ad31c7a6",
-          "titulo": "Trump suggests new talks with Iran to begin on Monday",
-          "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 03 Aug 2026 08:03:15 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_77f33fb3fc",
-          "titulo": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 03 Aug 2026 03:17:33 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e364288b3f",
-          "titulo": "Iran war live: Iranian foreign ministry says no current talks with US",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/3/iran-war-live-trump-says-talks-set-to-begin-tehran-urges-us-to-honour-mou?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 03 Aug 2026 00:00:15 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5c4cb4e676",
-          "titulo": "Trump backs down on Iran strikes in expectation of ‘rapidly’ reaching a deal",
-          "url": "https://www.theguardian.com/world/2026/aug/02/trump-climbs-down-on-iran-strikes-after-saudi-alarm-and-threats-from-tehran",
-          "fuente": "The Guardian World",
-          "fecha": "Sun, 02 Aug 2026 20:16:50 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-03_0001",
-      "fecha": "2026-08-03",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-03_0002",
-        "nd_2026-08-03_0005",
-        "nd_2026-08-03_0007"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Miles de personas regresan a Marruecos, en medio crisis migratoria en frontera con Ceuta, España",
-        "en": "Miles de personas regresan a Marruecos, en medio crisis migratoria en frontera con Ceuta, España"
-      },
-      "sintesis": {
-        "es": "Según cifras preliminares, unas 60.000 personas cruzaron la frontera desde Marruecos hacia el enclave español de Ceuta. Algunos de ellos regresan al país africano, luego de haber dormido al intemperie y perder las esperanzas de quedarse en territorio europeo.",
-        "en": "Según cifras preliminares, unas 60.000 personas cruzaron la frontera desde Marruecos hacia el enclave español de Ceuta. Algunos de ellos regresan al país africano, luego de haber dormido al intemperie y perder las esperanzas de quedarse en territorio europeo."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Ceuta",
-        "Marruecos",
-        "Estados Unidos",
-        "Mohamed"
+        "Trump",
+        "Iran",
+        "Truth Social",
+        "Mucho"
       ],
       "geo": {
         "lat": 39.8,
         "lon": -98.6,
         "region": "Norteamerica"
       },
-      "impacto": 83,
+      "impacto": 95,
       "fuentes": [
-        "ev_e2e425a97e",
-        "ev_42abc88c7c",
-        "ev_678255cc99",
-        "ev_649c4846f6",
-        "ev_790c69a548",
-        "ev_0536218cbc",
-        "ev_d8da9343e0",
-        "ev_a34d655eb1",
-        "ev_5112acc9f8",
-        "ev_55ad9d346b"
+        "ev_c24eacea20",
+        "ev_73d628ccd9",
+        "ev_47798c45b3",
+        "ev_b1405eed30",
+        "ev_60837d2c6e",
+        "ev_740c6acc6b",
+        "ev_89180b7c7f",
+        "ev_61f689ae97",
+        "ev_c144fa1042",
+        "ev_4d345c19c3",
+        "ev_444b0bd041"
       ],
-      "cluster_id": "cl_011",
+      "cluster_id": "cl_051",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg",
-        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200839_181911_video_1800.mp4",
-        "https://s.rfi.fr/media/display/29b49268-8cd9-11f1-bdc2-005056bf30b7/w:1024/p:16x9/AP26212399349142.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/31/17855234078203.jpg"
+        "https://s.france24.com/media/display/2227fa5e-8db4-11f1-84ff-005056bf30b7/w:1024/p:16x9/AP26155702431913.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d80/live/478d5910-8f99-11f1-b8ee-9b3c26ad07bb.jpg",
+        "https://i.guim.co.uk/img/media/0bf10d82bfc268c74cce276224e216918c4a4601/545_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=3d413b879c2cd65a10cc0721fc0de38b",
+        "https://static.independent.co.uk/2026/08/03/20/2288924964..?width=1200&auto=webp&trim=1%2C0%2C1%2C0"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_e2e425a97e",
-          "titulo": "España tacha de \"egoísta\" la respuesta de algunos países de la UE y pide unidad ante la crisis migratoria en Ceuta",
-          "url": "https://www.bbc.com/mundo/articles/ckgvl7qq190o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Sun, 02 Aug 2026 12:00:02 GMT",
+          "id": "ev_c24eacea20",
+          "titulo": "Mucho dinero y conflicto de intereses: Truth Social vende acceso anticipado a las publicaciones de Trump",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260804-mucho-dinero-y-conflicto-de-intereses-truth-social-vende-acceso-r%C3%A1pido-a-las-publicaciones-de-trump",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 04 Aug 2026 03:28:10 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_42abc88c7c",
-          "titulo": "Trump critica a España por la crisis en Ceuta: “Eso seremos nosotros en tres años si el bando equivocado llega al poder”",
-          "url": "https://elpais.com/internacional/2026-07-31/el-gobierno-de-trump-sale-en-tromba-a-criticar-a-espana-para-defender-su-mano-dura-contra-la-inmigracion.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Fri, 31 Jul 2026 15:58:33 GMT",
-          "idioma": "es"
+          "id": "ev_73d628ccd9",
+          "titulo": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+          "url": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 04 Aug 2026 00:17:48 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_678255cc99",
-          "titulo": "Miles de personas regresan a Marruecos, en medio crisis migratoria en frontera con Ceuta, España",
-          "url": "https://www.rfi.fr/es/europa/20260731-miles-de-personas-regresan-a-marruecos-en-medio-crisis-migratoria-en-frontera-con-ceuta-espa%C3%B1a",
-          "fuente": "RFI Espanol",
-          "fecha": "Fri, 31 Jul 2026 12:14:38 GMT",
-          "idioma": "es"
+          "id": "ev_47798c45b3",
+          "titulo": "Yen hits three-month high after Trump helps prop up currency",
+          "url": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
+          "fuente": "The Guardian World",
+          "fecha": "Mon, 03 Aug 2026 08:34:06 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_649c4846f6",
-          "titulo": "Marruecos señala a las mafias y las redes sociales como origen de la crisis de Ceuta y habla de 11 muertos",
-          "url": "http://es.euronews.com/my-europe/2026/08/03/marruecos-confirma-11-fallecidos-en-su-primer-balance-oficial-tras-la-crisis-de-ceuta",
-          "fuente": "Euronews Espanol",
-          "fecha": "Mon, 03 Aug 2026 07:50:57 +0200",
-          "idioma": "es"
+          "id": "ev_b1405eed30",
+          "titulo": "Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake",
+          "url": "https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 03 Aug 2026 13:49:17 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_790c69a548",
-          "titulo": "Vox acusa a Sánchez de estar sometido a Marruecos y pide militarizar la frontera de Ceuta",
-          "url": "http://es.euronews.com/my-europe/2026/08/02/vox-acusa-a-sanchez-de-estar-sometido-a-marruecos-y-pide-militarizar-la-frontera-de-ceuta",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sun, 02 Aug 2026 16:02:20 +0200",
-          "idioma": "es"
+          "id": "ev_60837d2c6e",
+          "titulo": "Trump’s whiny Truth Social tirade against Iran reads like a bitter breakup text",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-negotiations-truth-social-post-b3026807.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 03 Aug 2026 20:42:50 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_0536218cbc",
-          "titulo": "Estados Unidos culpabiliza a Sánchez y Marruecos toma nota de los silencios y la división",
-          "url": "https://www.elmundo.es/internacional/2026/08/01/6a6ce91ae4d4d8f52a8b4597.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sat, 01 Aug 2026 00:33:07 +0200",
-          "idioma": "es"
+          "id": "ev_740c6acc6b",
+          "titulo": "Trump’s Iran desperation is revealed in crowd-sourcing memo seeking ‘creative’ ways to punish the enemy: report",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-war-memo-enemy-punishment-b3026520.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 03 Aug 2026 19:47:46 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_d8da9343e0",
-          "titulo": "La vieja reivindicación de Marruecos sobre las \"ocupadas\" Ceuta y Melilla alimenta el relato del reinado de Mohamed VI",
-          "url": "https://www.elmundo.es/internacional/2026/07/31/6a6cb6aae4d4d823138b458d.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 31 Jul 2026 22:52:46 +0200",
-          "idioma": "es"
+          "id": "ev_89180b7c7f",
+          "titulo": "US military asks for ‘creative and unconventional ideas’ to punish Iran after Trump’s ‘despair’ over strategy",
+          "url": "https://www.independent.co.uk/news/world/middle-east/us-military-iran-email-ideas-war-b3026341.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 03 Aug 2026 13:18:04 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_a34d655eb1",
-          "titulo": "Estados Unidos considera lo de Ceuta un \"incidente inaceptable\" y una \"flagrante violación de soberanía\", pero culpa a las políticas de Sánchez",
-          "url": "https://www.elmundo.es/internacional/2026/07/31/6a6cc5cee85eceda108b4599.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 31 Jul 2026 21:27:30 +0200",
-          "idioma": "es"
+          "id": "ev_61f689ae97",
+          "titulo": "The seven times Trump threatened Iran before pulling back",
+          "url": "https://www.independent.co.uk/news/world/middle-east/donald-trump-iran-attacks-negotiations-hormuz-b3026419.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 03 Aug 2026 10:54:05 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_5112acc9f8",
-          "titulo": "El rey Mohamed VI de Marruecos se ve impulsado por el padrinazgo de Donald Trump",
-          "url": "https://www.elmundo.es/internacional/2026/07/30/6a6b671ce85ece51188b45af.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 30 Jul 2026 22:38:52 +0200",
-          "idioma": "es"
+          "id": "ev_c144fa1042",
+          "titulo": "Trump says he is ‘not looking to kill people’ as he claims Iran peace deal is ‘imminent’",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-war-peace-deal-kill-people-b3026274.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 03 Aug 2026 09:47:04 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_55ad9d346b",
-          "titulo": "Meloni plantea el cierre del espacio Schengen con España y EEUU atribuye la crisis de Ceuta a las políticas de \"extrema izquierda\" de Sánchez",
-          "url": "https://www.elmundo.es/internacional/2026/07/30/6a6ba2f2fc6c83bf5c8b456d.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 30 Jul 2026 22:32:08 +0200",
-          "idioma": "es"
+          "id": "ev_4d345c19c3",
+          "titulo": "Trump urges Iran to take up 'last chance' opportunity to sign a good peace deal",
+          "url": "https://www.cbc.ca/news/world/iran-talks-trump-attacks-9.7294798?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Mon, 03 Aug 2026 08:34:08 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_444b0bd041",
+          "titulo": "Trump insists Iran talks are underway despite Tehran's 'duplicitous' denials",
+          "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 03 Aug 2026 16:39:37 GMT",
+          "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-03_0002",
-      "fecha": "2026-08-03",
+      "id": "nd_2026-08-04_0000",
+      "fecha": "2026-08-04",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-03_0000",
-        "nd_2026-08-03_0001",
-        "nd_2026-08-03_0004"
+        "nd_2026-08-04_0001",
+        "nd_2026-08-04_0002"
       ]
     },
     {
       "titulo": {
-        "es": "\"El jefe quiere este dinero\": así funciona la inédita operación de recaudación de fondos de Trump",
-        "en": "Cuba state energy firm reports new nationwide blackout as US embargo continues"
+        "es": "Trump, en su punto más bajo en las encuestas a tres meses de las elecciones de mitad de mandato",
+        "en": "Trump touts his ‘real polling numbers’ in paranoid ‘fake news’ rant but offers no proof they exist"
       },
       "sintesis": {
-        "es": "Meredith O'Rourke, apodada la \"princesa de las tinieblas\", ejecuta el deseo del presidente de extraer cientos de millones de dólares a grandes empresas para sus proyectos personales Leer",
-        "en": "The power cuts have made normal life almost impossible, with each outage also meaning that water supplies trickle away and ceiling fans slow to a halt."
+        "es": "Tras cinco meses de guerra en Irán y a tres meses exactos de las elecciones de mitad de mandato, Donald Trump enfrenta un nivel récord de impopularidad en Estados Unidos. El presidente estadounidense está pagando un alto precio por las consecuencias internas del conflicto en el que se encuentra enredado, pero por el momento no parece dispuesto a cambiar nada.",
+        "en": "Beleaguered president blames ‘corrupt’ journalists for very real polls showing just over a third of Americans approve of his performance"
       },
       "categoria": "geopolitica",
       "actores": [
-        "Trump",
-        "Cuba"
+        "Trump"
       ],
       "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
       },
-      "impacto": 83,
+      "impacto": 87,
       "fuentes": [
-        "ev_c06616c8c6",
-        "ev_24dd2bce78",
+        "ev_4012f490c3",
+        "ev_7c57b65037",
         "ev_2fbe91e8ce",
-        "ev_affa6cacb0",
-        "ev_04808460a7"
+        "ev_7be14ee6e5",
+        "ev_c07edaa511",
+        "ev_658c8275db",
+        "ev_72459c36b6"
       ],
-      "cluster_id": "cl_014",
+      "cluster_id": "cl_008",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4b7d/live/092576f0-8c18-11f1-94b2-05bc97107049.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg",
+        "https://s.rfi.fr/media/display/56ca9914-8f13-11f1-aff8-005056a90284/w:1024/p:16x9/AP26212613742981.jpg",
         "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/01/17855842456625.jpg",
-        "https://static.independent.co.uk/2026/08/02/20/19/FotoJet.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d5/live/ea554540-8fb7-11f1-a7ab-8b30adf0800a.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_c06616c8c6",
-          "titulo": "Por qué el gobierno de Trump acusa ahora a Cuba de liderar una campaña para desestabilizar a EE.UU. desde adentro",
-          "url": "https://www.bbc.com/mundo/articles/ckgd37gp98vo?at_medium=RSS&at_campaign=rss",
+          "id": "ev_4012f490c3",
+          "titulo": "\"Es bueno para la economía mundial\": por qué es inusual que Trump haya intervenido junto a Japón para apuntalar el valor del yen",
+          "url": "https://www.bbc.com/mundo/articles/c3v0zvl0dzeo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo",
-          "fecha": "Thu, 30 Jul 2026 13:10:50 GMT",
+          "fecha": "Mon, 03 Aug 2026 11:46:27 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_24dd2bce78",
-          "titulo": "Cuba vuelve a quedarse a oscuras tras un nuevo apagón nacional y culpa al embargo de EE.UU.",
-          "url": "http://es.euronews.com/2026/08/03/cuba-vuelve-a-quedarse-a-oscuras-y-culpa-al-embargo-de-eeuu-del-nuevo-apagon-nacional",
-          "fuente": "Euronews Espanol",
-          "fecha": "Mon, 03 Aug 2026 09:51:42 +0200",
+          "id": "ev_7c57b65037",
+          "titulo": "Trump, en su punto más bajo en las encuestas a tres meses de las elecciones de mitad de mandato",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260803-trump-en-su-punto-m%C3%A1s-bajo-en-las-encuestas-a-tres-meses-de-las-elecciones-de-mitad-de-mandato",
+          "fuente": "RFI Espanol",
+          "fecha": "Mon, 03 Aug 2026 11:14:44 GMT",
           "idioma": "es"
         },
         {
@@ -476,688 +218,706 @@
           "idioma": "es"
         },
         {
-          "id": "ev_affa6cacb0",
-          "titulo": "Cuba state energy firm reports new nationwide blackout as US embargo continues",
-          "url": "http://www.euronews.com/2026/08/03/cuba-state-energy-firm-reports-new-nationwide-blackout-as-us-embargo-continues",
-          "fuente": "Euronews English",
-          "fecha": "Mon, 03 Aug 2026 09:38:53 +0200",
+          "id": "ev_7be14ee6e5",
+          "titulo": "US states sue to block Trump tariffs impacting dozens of countries",
+          "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 04 Aug 2026 07:11:35 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_04808460a7",
-          "titulo": "Trump denigrates fellow golfers as lacking ‘talent’ as he boasts about winning trophy on his own course",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-golf-tournament-wins-trophy-new-jersey-b3026186.html",
+          "id": "ev_c07edaa511",
+          "titulo": "Trump sells his social posts to the highest bidder - with huge stock market consequences",
+          "url": "https://news.sky.com/story/art-of-the-deal-or-insider-trading-trump-takes-truth-social-to-wall-street-13569579",
+          "fuente": "Sky News World",
+          "fecha": "Tue, 04 Aug 2026 02:01:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_658c8275db",
+          "titulo": "Trump touts his ‘real polling numbers’ in paranoid ‘fake news’ rant but offers no proof they exist",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-truth-social-polling-fake-news-b3026543.html",
           "fuente": "The Independent World",
-          "fecha": "Mon, 03 Aug 2026 05:07:58 GMT",
+          "fecha": "Mon, 03 Aug 2026 15:01:26 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_72459c36b6",
+          "titulo": "Trump wants the power to stop the public from suing polluters",
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
+          "fuente": "Ars Technica",
+          "fecha": "Mon, 03 Aug 2026 13:33:56 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-03_0003",
-      "fecha": "2026-08-03",
-      "kardashev": "K2",
-      "relaciones": []
+      "id": "nd_2026-08-04_0001",
+      "fecha": "2026-08-04",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-04_0000",
+        "nd_2026-08-04_0002"
+      ]
     },
     {
       "titulo": {
-        "es": "What is Ceuta, and how was the Spanish enclave near Morocco breached by 60,000 migrants?",
-        "en": "What is Ceuta, and how was the Spanish enclave near Morocco breached by 60,000 migrants?"
+        "es": "Italia suspende Schengen con España por Ceuta: ¿puede un socio de la UE expulsar a otro del acuerdo?",
+        "en": "Italia suspende Schengen con España por Ceuta: ¿puede un socio de la UE expulsar a otro del acuerdo?"
       },
       "sintesis": {
-        "es": "Current estimates are some 60,000 people crossed into the Spanish enclave in North Africa on Thursday — and by Friday, that an estimated 48,300 had returned to Morocco. Here's what we know.",
-        "en": "Current estimates are some 60,000 people crossed into the Spanish enclave in North Africa on Thursday — and by Friday, that an estimated 48,300 had returned to Morocco. Here's what we know."
+        "es": "Italia, encabezada por la primera ministra Giorgia Meloni, cumplió su amenaza y suspendió unilateralmente el acuerdo Schengen con España, cerrando sus fronteras marítimas y aéreas durante un mes, luego de que miles de migrantes marroquíes llegaran a Ceuta, desbordando los controles fronterizos y superando la capacidad de respuesta de las autoridades; una medida respaldada por Dinamarca y Finlandia. No obstante, según el acuerdo comunitario y diversos analistas, el marco base del espacio Schengen no permite que un Estado miembro de la Unión Europea expulse a otro de ese acuerdo, por lo que la medida italiana ha sido cuestionada desde Bruselas.",
+        "en": "Italia, encabezada por la primera ministra Giorgia Meloni, cumplió su amenaza y suspendió unilateralmente el acuerdo Schengen con España, cerrando sus fronteras marítimas y aéreas durante un mes, luego de que miles de migrantes marroquíes llegaran a Ceuta, desbordando los controles fronterizos y superando la capacidad de respuesta de las autoridades; una medida respaldada por Dinamarca y Finlandia. No obstante, según el acuerdo comunitario y diversos analistas, el marco base del espacio Schengen no permite que un Estado miembro de la Unión Europea expulse a otro de ese acuerdo, por lo que la medida italiana ha sido cuestionada desde Bruselas."
       },
-      "categoria": "sociedad",
+      "categoria": "geopolitica",
       "actores": [
         "Ceuta",
-        "Morocco",
-        "Into Ceuta",
-        "Spanish"
+        "Marruecos",
+        "Melilla",
+        "Italia"
       ],
       "geo": {
-        "lat": 20.6,
-        "lon": 79.0,
-        "region": "Asia Meridional"
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
       },
       "impacto": 83,
       "fuentes": [
-        "ev_7975a7bc40",
-        "ev_b0aff609b8",
-        "ev_3be3582c84",
-        "ev_6e72121457",
-        "ev_bf29a3f144",
-        "ev_251f8f044c",
-        "ev_44e55b81ae"
+        "ev_e362ee3293",
+        "ev_24a2af3554",
+        "ev_42abc88c7c",
+        "ev_5956bf2b26",
+        "ev_636e761dc3",
+        "ev_53e9d2e728",
+        "ev_7bc047d05b",
+        "ev_09f079f85f",
+        "ev_d17f59d943",
+        "ev_f9e7f0da2a",
+        "ev_d36a92d0b3",
+        "ev_d8da9343e0",
+        "ev_96cee98716",
+        "ev_d7a071f7e0",
+        "ev_7aa9666c74",
+        "ev_346640cb75",
+        "ev_32d58ed6e0",
+        "ev_79ccf88843",
+        "ev_edb3df2f58",
+        "ev_2ead8614bc",
+        "ev_b7f2067c49",
+        "ev_53627d0e2c"
       ],
-      "cluster_id": "cl_146",
+      "cluster_id": "cl_015",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d345/live/baefc770-8f09-11f1-a7ab-8b30adf0800a.jpg",
-        "https://static01.nyt.com/images/2026/08/02/multimedia/02int-Spain-Scene-pkch/02int-Spain-Scene-pkch-mediumSquareAt3X-v2.jpg",
-        "https://static01.nyt.com/images/2026/07/31/multimedia/31int-europe-migrants-leadall-mjvg/31int-europe-migrants-leadall-mjvg-mediumSquareAt3X.jpg",
-        "https://static01.nyt.com/images/2026/07/31/multimedia/31europe-migrants-spain-morocco-1-b-bczv/31europe-migrants-spain-morocco-1-b-bczv-mediumSquareAt3X.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/46c5/live/db4ecd30-8d2f-11f1-b3b6-29b7cb5033ec.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec7f/live/b7a167f0-8c65-11f1-a7f3-5f68eb625f3c.jpg",
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200839_181911_video_1800.mp4",
+        "https://s.france24.com/media/display/e1995056-8f9c-11f1-a857-005056a97e36/w:1024/p:16x9/CEUTA-1.png"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_7975a7bc40",
-          "titulo": "'What was my fault?': How India's exam paper leak ended young lives",
-          "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sun, 02 Aug 2026 23:35:54 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b0aff609b8",
-          "titulo": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
-          "url": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Sun, 02 Aug 2026 05:18:21 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3be3582c84",
-          "titulo": "How 50,000 Migrants Surged Into Ceuta, a Spanish Exclave Near Morocco",
-          "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco.html",
-          "fuente": "NYT World",
-          "fecha": "Sat, 01 Aug 2026 04:01:14 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6e72121457",
-          "titulo": "What is Ceuta, and how was the Spanish enclave near Morocco breached by 60,000 migrants?",
-          "url": "https://www.cbc.ca/news/world/ceuta-spain-morocco-migrants-9.7292107?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 31 Jul 2026 15:29:52 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_bf29a3f144",
-          "titulo": "Thousands of Migrants Surge Into Ceuta from Morocco, Prompting Political Backlash",
-          "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-morocco-migrants-spain.html",
-          "fuente": "NYT World",
-          "fecha": "Sat, 01 Aug 2026 02:35:08 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_251f8f044c",
-          "titulo": "What Caused the Surge of Migrants From Morocco Into Ceuta?",
-          "url": "https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html",
-          "fuente": "NYT World",
-          "fecha": "Sat, 01 Aug 2026 14:56:40 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_44e55b81ae",
-          "titulo": "Ceuta crisis: Migrants say Spanish enclave was ‘like a prison’ as they return to Morocco",
-          "url": "https://www.independent.co.uk/news/world/europe/spain-ceuta-morocco-migrants-crisis-b3025968.html",
-          "fuente": "The Independent World",
-          "fecha": "Sun, 02 Aug 2026 13:24:41 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-03_0004",
-      "fecha": "2026-08-03",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-08-03_0002"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Arabia Saudita anuncia coalición internacional para asegurar el Mar Rojo",
-        "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
-      },
-      "sintesis": {
-        "es": "Una coalición marítima de unos 14 países busca asegurar la navegación en el mar Rojo, en medio de la tensión en el estratégico estrecho de Bab al Mandeb por la amenaza de los rebeldes hutíes de Yemen, anunció Arabia Saudita, país fundador.",
-        "en": "The Riyadh International Humanitarian Forum 2025 was a significant event that underscored the continued partnership between WHO and KSrelief, as well as with other international partners to address critical humanitarian health crises. The agreements made during the forum are pivotal in combating diseases like malaria, cholera, and polio, and ensuring better healthcare for displaced populations. The forum also highlighted Saudi Arabia’s ongoing commitment to global humanitarian efforts, reaffirming its leadership role in tackling some of the world’s pressing health crises."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Saudi Arabia",
-        "Arabia Saudita",
-        "Mar Rojo",
-        "Arabia"
-      ],
-      "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
-      },
-      "impacto": 77,
-      "fuentes": [
-        "ev_ba0620dece",
-        "ev_1d723e4b78",
-        "ev_6fa4afaa16",
-        "ev_66ce54f503"
-      ],
-      "cluster_id": "cl_069",
-      "imagenes": [
-        "https://s.rfi.fr/media/display/77fa704a-8cd0-11f1-a99f-005056a97e36/w:1024/p:16x9/AP23224569527380.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/30/17854284875438.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f06/live/74ae3130-8a6c-11f1-a7ab-8b30adf0800a.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ba0620dece",
-          "titulo": "Arabia Saudita anuncia coalición internacional para asegurar el Mar Rojo",
-          "url": "https://www.rfi.fr/es/oriente-medio/20260731-arabia-saudita-anuncia-coalici%C3%B3n-internacional-para-asegurar-el-mar-rojo",
-          "fuente": "RFI Espanol",
-          "fecha": "Fri, 31 Jul 2026 11:10:58 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_1d723e4b78",
-          "titulo": "Arabia Saudí moviliza una alianza internacional para proteger las rutas del mar Rojo",
-          "url": "https://www.elmundo.es/internacional/2026/07/31/6a6b7ae2fc6c8374318b45b1.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 31 Jul 2026 02:38:35 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_6fa4afaa16",
-          "titulo": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 31 Jul 2026 23:41:10 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_66ce54f503",
-          "titulo": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities",
-          "url": "https://www.who.int/news/item/24-02-2025-who-and-the-kingdom-of-saudi-arabia-sign-agreements-in-support-of-health-priorities",
-          "fuente": "WHO News",
-          "fecha": "Thu, 06 Mar 2025 12:48:53 Z",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-03_0005",
-      "fecha": "2026-08-03",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-03_0001"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Hungría apaga su única planta nuclear ante niveles récord bajos del Danubio durante ola de calor",
-        "en": "Hungary shuts down its sole nuclear plant as Danube hits record low levels amid heatwave"
-      },
-      "sintesis": {
-        "es": "Una ola de calor se extiende desde Europa occidental hacia el centro y sur del continente, con temperaturas cercanas a 40°C en Budapest, Viena y otras ciudades. Hungría se vio forzada a apagar la mayor parte de su única planta de energía nuclear por primera vez en 44 años, debido a que la sequía redujo los niveles del río Danubio, impidiendo su refrigeración segura. El primer ministro húngaro advirtió que el país enfrenta los 'cinco días más críticos', con riesgo de crisis energética.",
-        "en": "A heatwave is spreading from western Europe into central and southern regions, with temperatures nearing 40°C in Budapest, Vienna and other cities. Hungary was forced to shut down most of its sole nuclear power plant for the first time in 44 years after drought reduced Danube river levels, making safe cooling impossible. The Hungarian prime minister warned the country faces its 'most critical five days' amid energy crunch risks."
-      },
-      "categoria": "clima",
-      "actores": [
-        "Gobierno de Hungría",
-        "Planta nuclear de Paks",
-        "Río Danubio"
-      ],
-      "geo": {
-        "lat": 47.1625,
-        "lon": 19.5033,
-        "region": "Hungría / Europa Central"
-      },
-      "impacto": 62,
-      "fuentes": [
-        "ev_0cc72cc82e",
-        "ev_f1ae4613d9",
-        "ev_19f80f2a33"
-      ],
-      "cluster_id": "cl_171",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/98b9954a93357fd39dccac5f096868d48f22b2d9/570_0_2927_2341/master/2927.jpg?width=140&quality=85&auto=format&fit=max&s=4943d3ba9f02da3fa4d5058b175ab764",
-        "https://s.france24.com/media/display/accae74a-8e4d-11f1-b765-005056a90284/w:1024/p:16x9/EN-20260802-101412-101535-CS.jpg",
-        "https://e3.365dm.com/26/08/1920x1080/skynews-danube-river_7312555.jpg?20260803073049"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_0cc72cc82e",
-          "titulo": "Central and southern Europe brace for heatwave – Europe live",
-          "url": "https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 03 Aug 2026 07:46:40 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f1ae4613d9",
-          "titulo": "Hungary: Successive heatwaves drain Danube river used to cool nuclear plant",
-          "url": "https://www.france24.com/en/hungary-successive-heatwaves-drain-danube-river-used-to-cool-nuclear-plant",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 02 Aug 2026 08:55:03 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_19f80f2a33",
-          "titulo": "Hungary to shut down sole nuclear power plant as Danube falls to record low",
-          "url": "https://news.sky.com/story/hungary-to-shut-down-sole-nuclear-power-plant-as-danube-falls-to-record-low-13569304",
-          "fuente": "Sky News World",
-          "fecha": "Mon, 03 Aug 2026 06:33:00 +0100",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-03_0006",
-      "fecha": "2026-08-03",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "EE.UU. y Japón realizan una rara intervención conjunta para respaldar el yen",
-        "en": "US and Japan carry out rare joint intervention to support the yen"
-      },
-      "sintesis": {
-        "es": "Los gobiernos de Estados Unidos y Japón confirmaron una intervención cambiaria conjunta, la primera en casi tres décadas, para respaldar al yen japonés. Tras el anuncio, la divisa se fortaleció hasta alcanzar 155 yenes por dólar, su nivel más alto en tres meses. El presidente Trump calificó la medida como una 'señal de amistad' beneficiosa para ambas economías y la economía global.",
-        "en": "The US and Japanese governments confirmed a joint currency intervention, the first in nearly three decades, to support the Japanese yen. Following the announcement, the currency strengthened to 155 yen per dollar, its highest level in three months. President Trump described the move as a 'signal of friendship' that would benefit both economies and the global economy."
-      },
-      "categoria": "economia",
-      "actores": [
-        "Donald Trump",
-        "Gobierno de Estados Unidos",
-        "Gobierno de Japón"
-      ],
-      "geo": {
-        "lat": 36.2048,
-        "lon": 138.2529,
-        "region": "Japón"
-      },
-      "impacto": 62,
-      "fuentes": [
-        "ev_47798c45b3",
-        "ev_be4739b9c3",
-        "ev_ef51bfb8b7"
-      ],
-      "cluster_id": "cl_182",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/0bf10d82bfc268c74cce276224e216918c4a4601/545_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=3d413b879c2cd65a10cc0721fc0de38b",
-        "https://s.france24.com/media/display/5d4d13a4-8ecb-11f1-a457-005056a90284/w:1024/p:16x9/000-36PF68A.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_47798c45b3",
-          "titulo": "Yen hits three-month high after Trump helps prop up currency",
-          "url": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 03 Aug 2026 08:02:13 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_be4739b9c3",
-          "titulo": "Trump says US backed Japanese yen in rare currency intervention",
-          "url": "https://www.france24.com/en/economy/20260802-trump-us-backed-japanese-yen-currency-intervention",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 02 Aug 2026 23:19:13 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ef51bfb8b7",
-          "titulo": "Japan and US confirm rare joint intervention to prop up yen",
-          "url": "https://www.aljazeera.com/economy/2026/8/3/japan-and-us-confirm-rare-joint-intervention-to-prop-up-yen?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 03 Aug 2026 01:34:19 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-03_0007",
-      "fecha": "2026-08-03",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-03_0001"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Russia's online retailer Wildberries says warehouse on fire after Ukrainian drone attack",
-        "en": "Russia's online retailer Wildberries says warehouse on fire after Ukrainian drone attack"
-      },
-      "sintesis": {
-        "es": "Russian ​top online retailer Wildberries said on Monday that a Ukrainian drone attack on ​one of ‌its warehouses ⁠in the Vladimir region had caused ‌a fire to break out. The company, known as the country's Amazon, has been targeted several times by Ukrainian drones over the last few weeks.",
-        "en": "Russian ​top online retailer Wildberries said on Monday that a Ukrainian drone attack on ​one of ‌its warehouses ⁠in the Vladimir region had caused ‌a fire to break out. The company, known as the country's Amazon, has been targeted several times by Ukrainian drones over the last few weeks."
-      },
-      "categoria": "innovacion",
-      "actores": [
-        "Russia",
-        "Wildberries",
-        "Ukrainian",
-        "Fire"
-      ],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 61,
-      "fuentes": [
-        "ev_32894af75d",
-        "ev_c459ae645f",
-        "ev_013b180cae",
-        "ev_9556080165"
-      ],
-      "cluster_id": "cl_186",
-      "imagenes": [
-        "https://s.france24.com/media/display/f60698c6-8f03-11f1-aa4f-005056bf30b7/w:1024/p:16x9/AP26205384096454.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_32894af75d",
-          "titulo": "Russia's online retailer Wildberries says warehouse on fire after Ukrainian drone attack",
-          "url": "https://www.france24.com/en/europe/20260803-russia-online-retailer-wildberries-says-warehouse-on-fire-after-ukrainian-drone-attack",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 03 Aug 2026 06:38:35 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c459ae645f",
-          "titulo": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say",
-          "url": "https://www.cnbc.com/2026/08/02/ukrainian-drones-kill-two-russia-governors-say.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Sun, 02 Aug 2026 12:06:04 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_013b180cae",
-          "titulo": "Fire reported at another Wildberries warehouse in Russia",
-          "url": "http://www.euronews.com/my-europe/2026/08/02/fire-reported-at-another-wildberries-warehouse-in-russia",
-          "fuente": "Euronews English",
-          "fecha": "Sun, 02 Aug 2026 10:49:57 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9556080165",
-          "titulo": "Russia batters Ukrainian capital of Kyiv, killing at least 10",
-          "url": "https://www.cbc.ca/news/world/russia-strikes-kyiv-9.7293585?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sat, 01 Aug 2026 08:17:29 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-03_0008",
-      "fecha": "2026-08-03",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Infantino retira el plan de la FIFA para vender participaciones del Mundial a inversores privados tras fuerte oposición",
-        "en": "Infantino withdraws FIFA plan to sell World Cup stakes to private investors after strong opposition"
-      },
-      "sintesis": {
-        "es": "El presidente de la FIFA, Gianni Infantino, canceló el proyecto FIFA Forward Enterprise, que buscaba abrir la gestión comercial de sus principales competiciones a la inversión privada, incluyendo la venta de participaciones del Mundial. La decisión llegó tras una fuerte oposición de la UEFA, CONCACAF y la Confederación Asiática de Fútbol, con la UEFA amenazando con un boicot a las competiciones de la FIFA. Tras el fracaso del plan, Infantino enfrenta creciente presión sobre su liderazgo al frente del organismo.",
-        "en": "FIFA President Gianni Infantino scrapped the FIFA Forward Enterprise project, which sought to open commercial management of its top competitions to private investment, including selling World Cup stakes. The decision followed strong opposition from UEFA, CONCACAF and the Asian Football Confederation, with UEFA threatening a boycott of FIFA competitions. Following the plan's collapse, Infantino faces mounting pressure over his leadership of the organization."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Gianni Infantino",
-        "FIFA",
-        "UEFA",
-        "CONCACAF",
-        "Confederación Asiática de Fútbol (AFC)"
-      ],
-      "geo": {
-        "lat": 46.948,
-        "lon": 7.4474,
-        "region": "Zúrich, Suiza"
-      },
-      "impacto": 58,
-      "fuentes": [
-        "ev_f1d506f8df",
-        "ev_6ce3140e9f",
-        "ev_fd1834d77b",
-        "ev_c1ecac2b13",
-        "ev_bbff62758e"
-      ],
-      "cluster_id": "cl_017",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2f88/live/90bb0030-8d3a-11f1-b8ee-9b3c26ad07bb.jpg",
-        "https://s.rfi.fr/media/display/ff9b77fc-453f-11f1-b0b1-005056a97e36/w:1024/p:16x9/AP26120676323493.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1b/live/d2f82cb0-8ddb-11f1-9d54-295807679b3c.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3eb/live/c9375910-8d6f-11f1-b8ee-9b3c26ad07bb.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f1d506f8df",
-          "titulo": "Infantino da marcha atrás y retira el plan de la FIFA para abrir los Mundiales a la inversión privada",
-          "url": "https://www.bbc.com/mundo/articles/c78gme59935o?at_medium=RSS&at_campaign=rss",
+          "id": "ev_e362ee3293",
+          "titulo": "4 claves para entender la grave crisis migratoria en Ceuta, uno de los enclaves españoles en el norte de África",
+          "url": "https://www.bbc.com/mundo/articles/cm2gv1r9zyno?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo",
-          "fecha": "Sat, 01 Aug 2026 02:08:39 GMT",
+          "fecha": "Sun, 02 Aug 2026 12:02:16 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_6ce3140e9f",
-          "titulo": "Polémica por inversión privada en la FIFA: Infantino cancela su plan de gestión comercial",
-          "url": "https://www.rfi.fr/es/deportes/20260801-pol%C3%A9mica-por-inversi%C3%B3n-privada-en-la-fifa-infantino-cancela-su-plan-de-gesti%C3%B3n-comercial",
+          "id": "ev_24a2af3554",
+          "titulo": "Por qué Ceuta y Melilla pertenecen a España si están en África",
+          "url": "https://www.bbc.com/mundo/articles/cdj0xv1l8vro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Fri, 31 Jul 2026 00:53:37 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_42abc88c7c",
+          "titulo": "Trump critica a España por la crisis en Ceuta: “Eso seremos nosotros en tres años si el bando equivocado llega al poder”",
+          "url": "https://elpais.com/internacional/2026-07-31/el-gobierno-de-trump-sale-en-tromba-a-criticar-a-espana-para-defender-su-mano-dura-contra-la-inmigracion.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Fri, 31 Jul 2026 15:58:33 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_5956bf2b26",
+          "titulo": "Ceuta: UE apoya a España mientras persiste crisis de marroquíes en la frontera",
+          "url": "https://www.france24.com/es/video/20260804-ceuta-ue-apoya-a-espa%C3%B1a-mientras-persiste-crisis-de-marroqu%C3%ADes-en-la-frontera",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 04 Aug 2026 01:29:01 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_636e761dc3",
+          "titulo": "Italia suspende Schengen con España por Ceuta: ¿puede un socio de la UE expulsar a otro del acuerdo?",
+          "url": "https://www.france24.com/es/video/20260803-italia-suspende-schengen-con-espa%C3%B1a-por-ceuta-puede-un-socio-de-la-ue-expulsar-a-otro-del-acuerdo",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 03 Aug 2026 23:52:24 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_53e9d2e728",
+          "titulo": "España: al menos 72 migrantes murieron intentando entrar a Ceuta desde Marruecos",
+          "url": "https://www.rfi.fr/es/europa/20260802-espa%C3%B1a-al-menos-72-migrantes-murieron-intentando-entrar-a-ceuta-desde-marruecos",
           "fuente": "RFI Espanol",
-          "fecha": "Sat, 01 Aug 2026 09:52:47 GMT",
+          "fecha": "Sun, 02 Aug 2026 14:29:57 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_fd1834d77b",
-          "titulo": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sat, 01 Aug 2026 22:23:20 GMT",
-          "idioma": "en"
+          "id": "ev_7bc047d05b",
+          "titulo": "Los rumores en redes sociales desataron la mayor crisis migratoria entre Marruecos y España en años",
+          "url": "http://es.euronews.com/my-europe/2026/08/04/los-rumores-en-redes-sociales-desataron-la-mayor-crisis-migratoria-entre-marruecos-y-espan",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 04 Aug 2026 07:44:37 +0200",
+          "idioma": "es"
         },
         {
-          "id": "ev_c1ecac2b13",
-          "titulo": "Watch: Why Fifa dropped plans to sell stakes in the World Cup",
-          "url": "https://www.bbc.co.uk/news/videos/cvgj0vldr1mo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sat, 01 Aug 2026 02:44:09 GMT",
-          "idioma": "en"
+          "id": "ev_09f079f85f",
+          "titulo": "Marruecos afirma que expresó a España su descontento por la revisión del Supremo sobre la ley de Extranjería",
+          "url": "http://es.euronews.com/my-europe/2026/08/04/marruecos-afirma-que-expreso-a-espana-su-descontento-por-la-reforma-del-supremo",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 04 Aug 2026 07:44:02 +0200",
+          "idioma": "es"
         },
         {
-          "id": "ev_bbff62758e",
-          "titulo": "Infantino under growing pressure after FIFA scraps World Cup investor proposal",
-          "url": "https://www.france24.com/en/tv-shows/sports/20260803-infantino-under-growing-pressure-after-fifa-scraps-world-cup-investor-proposal",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 03 Aug 2026 06:41:24 GMT",
-          "idioma": "en"
+          "id": "ev_d17f59d943",
+          "titulo": "Von der Leyen elogia a España por la gestión en Ceuta, pero reclama barreras y controles más estrictos",
+          "url": "http://es.euronews.com/my-europe/2026/08/03/von-der-leyen-pide-controles-mas-estrictos-y-barreras-fisicas-tras-la-crisis-de-ceuta",
+          "fuente": "Euronews Espanol",
+          "fecha": "Mon, 03 Aug 2026 16:39:15 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f9e7f0da2a",
+          "titulo": "Robles exige a Marruecos una investigación sobre la tragedia migratoria: \"Ceuta y Melilla no se tocan\"",
+          "url": "http://es.euronews.com/my-europe/2026/08/03/robles-pide-explicaciones-marruecos-tragedia-ceuta-reafirma-defensa-frontera",
+          "fuente": "Euronews Espanol",
+          "fecha": "Mon, 03 Aug 2026 15:15:31 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d36a92d0b3",
+          "titulo": "Italia comienza los controles a viajeros de España tras suspender el espacio Schengen",
+          "url": "https://www.elmundo.es/internacional/2026/08/01/6a6dead9e9cf4a5d338b458d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sat, 01 Aug 2026 15:00:19 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d8da9343e0",
+          "titulo": "La vieja reivindicación de Marruecos sobre las \"ocupadas\" Ceuta y Melilla alimenta el relato del reinado de Mohamed VI",
+          "url": "https://www.elmundo.es/internacional/2026/07/31/6a6cb6aae4d4d823138b458d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 31 Jul 2026 22:52:46 +0200",
+          "idioma": "es"
         }
       ],
-      "id": "nd_2026-08-03_0009",
-      "fecha": "2026-08-03",
-      "kardashev": "K1",
-      "relaciones": []
+      "id": "nd_2026-08-04_0002",
+      "fecha": "2026-08-04",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-08-04_0000",
+        "nd_2026-08-04_0001"
+      ]
     },
     {
       "titulo": {
-        "es": "Incendios forestales devastan Spokane, Washington, destruyendo cientos de estructuras",
-        "en": "Wildfires ravage Spokane, Washington, destroying hundreds of structures"
+        "es": "Israel intensifica ataques en Gaza pese al anuncio de desarme de Hamás y crecen tensiones con la 'Junta de Paz' de Trump",
+        "en": "Israel intensifies Gaza attacks despite Hamas disarmament announcement, tensions rise with Trump's 'Board of Peace'"
       },
       "sintesis": {
-        "es": "Incendios forestales en el este de Washington, alimentados por vientos fuertes y condiciones extremadamente secas, forzaron la evacuación de decenas de miles de personas en el área de Spokane y destruyeron al menos 600 viviendas, negocios y otras estructuras. Los fuegos, que arrasaron unos 21 km2 en la zona de Spokane, forman parte de una ola de incendios que ha quemado alrededor de 1.000 km2 en todo el estado de Washington, saturando los recursos de extinción locales y federales. Al momento de los informes, varios de los incendios permanecían sin contener.",
-        "en": "Wildfires in eastern Washington, fueled by strong winds and exceptionally dry conditions, forced the evacuation of tens of thousands of people in the Spokane area and destroyed at least 600 homes, businesses and other structures. The fires, which burned about 21 sq km around Spokane, are part of a broader wave that has scorched roughly 1,000 sq km across Washington state, straining local and federal firefighting resources. Several of the fires remained uncontained at the time of reporting."
+        "es": "Pese al anuncio de un acuerdo impulsado por Donald Trump para avanzar hacia un alto el fuego, Israel ha intensificado sus bombardeos en Gaza, matando a decenas de personas. Hamás afirmó haber aceptado desarmarse y entregar las armas a un nuevo comité de gobierno palestino, condicionándolo a la retirada total de las tropas israelíes, pero Netanyahu exige el desarme completo antes de cualquier retirada. La 'Junta de Paz' liderada por Estados Unidos respaldó la postura israelí, generando fricciones diplomáticas y dudas sobre la viabilidad del plan.",
+        "en": "Despite an announced deal pushed by Donald Trump to advance toward a ceasefire, Israel has intensified bombardments in Gaza, killing dozens of people. Hamas claimed it agreed to disarm and hand weapons to a new Palestinian governing committee, conditioning this on full Israeli troop withdrawal, but Netanyahu demands complete disarmament before any withdrawal. The US-led 'Board of Peace' backed Israel's position, creating diplomatic friction and doubts over the plan's viability."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Hamás",
+        "Donald Trump",
+        "Junta de Paz (Board of Peace)",
+        "Estados Unidos",
+        "Gaza"
+      ],
+      "geo": {
+        "lat": 31.5,
+        "lon": 34.47,
+        "region": "Franja de Gaza"
+      },
+      "impacto": 78,
+      "fuentes": [
+        "ev_5e3b58091b",
+        "ev_c66e3b74c6",
+        "ev_db99ab3698",
+        "ev_dd505a0e6d",
+        "ev_531bdd9a87",
+        "ev_60e7b4367b",
+        "ev_53a35d7889",
+        "ev_0419b67742",
+        "ev_83a933bc3c",
+        "ev_69fd23fc31",
+        "ev_ac338c4180",
+        "ev_df51be10c1",
+        "ev_f7eaf4bfea",
+        "ev_130a398182",
+        "ev_b744c93b45",
+        "ev_3bccfc086d",
+        "ev_87c64f6192",
+        "ev_0897e6deb6",
+        "ev_fe53cedcfc",
+        "ev_811d1ecaa3",
+        "ev_2c262a8791",
+        "ev_ca0578d33a",
+        "ev_41fa740141",
+        "ev_ce25d3528c",
+        "ev_b91085c960",
+        "ev_fcf59b3fc7",
+        "ev_234fc25c1e",
+        "ev_f296c582b0",
+        "ev_90b3273430",
+        "ev_e98a0a1486",
+        "ev_0ea4cf8419",
+        "ev_c3c613bc40",
+        "ev_c0c523a0ac",
+        "ev_08f5cea11b",
+        "ev_bc9722f75e",
+        "ev_ff7a2e68cc",
+        "ev_d482ca8ee6",
+        "ev_1996aa4f5b",
+        "ev_0536218cbc",
+        "ev_a34d655eb1"
+      ],
+      "cluster_id": "cl_054",
+      "imagenes": [
+        "https://s.france24.com/media/display/7ecd22f6-8fa4-11f1-9e2d-005056bf30b7/w:1024/p:16x9/ES-20260803-180254-180435-CS.jpg",
+        "https://s.france24.com/media/display/38af6c98-8ca7-11f1-af93-005056a90284/w:1024/p:16x9/AP26211233069687.jpg",
+        "https://s.rfi.fr/media/display/cf5b060e-8f20-11f1-bbc6-005056a97e36/w:1024/p:16x9/AP26209655413198.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/03/17857676945248.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5e3b58091b",
+          "titulo": "Pese al anuncio de Trump, Israel sigue atacando Gaza y crecen las tensiones con Netanyahu",
+          "url": "https://www.france24.com/es/video/20260804-pese-al-anuncio-de-trump-israel-sigue-atacando-gaza-y-crecen-las-tensiones-con-netanyahu",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 04 Aug 2026 02:00:24 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_c66e3b74c6",
+          "titulo": "La \"Junta de Paz\" de Trump se alinea con Israel tras las objeciones al plan de retirada de Gaza",
+          "url": "https://www.france24.com/es/medio-oriente/20260803-la-junta-de-paz-de-trump-se-alinea-con-israel-tras-las-objeciones-al-plan-de-retirada-de-gaza",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 03 Aug 2026 23:43:19 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_db99ab3698",
+          "titulo": "Israel cuestiona el plan estadounidense para Gaza",
+          "url": "https://www.rfi.fr/es/oriente-medio/20260803-israel-cuestiona-el-plan-estadounidense-para-gaza",
+          "fuente": "RFI Espanol",
+          "fecha": "Mon, 03 Aug 2026 13:02:00 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_dd505a0e6d",
+          "titulo": "Israel intensifica los bombardeos en Gaza tras el anuncio de desarme de Hamas",
+          "url": "https://www.elmundo.es/internacional/2026/08/03/6a70a4a4fc6c8370688b4595.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Mon, 03 Aug 2026 18:51:56 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_531bdd9a87",
+          "titulo": "Hamas acepta su desarme pero lo condiciona a la retirada de las tropas israelíes de Gaza",
+          "url": "https://www.elmundo.es/internacional/2026/07/31/6a6bf0c5e4d4d8d7578b45a9.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 31 Jul 2026 12:03:20 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_60e7b4367b",
+          "titulo": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
+          "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 04 Aug 2026 06:00:10 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_53a35d7889",
+          "titulo": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+          "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 04 Aug 2026 01:43:51 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0419b67742",
+          "titulo": "Will Israel withdraw from Gaza if Hamas disarms?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 03 Aug 2026 21:05:11 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_83a933bc3c",
+          "titulo": "Israel Bombards Gaza, Days After Trump Announced Deal to Advance Cease-Fire",
+          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-gaza-strikes-trump-hamas.html",
+          "fuente": "NYT World",
+          "fecha": "Sun, 02 Aug 2026 06:53:14 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_69fd23fc31",
+          "titulo": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
+          "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Mon, 03 Aug 2026 15:57:27 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ac338c4180",
+          "titulo": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168062",
+          "fuente": "UN News",
+          "fecha": "Fri, 31 Jul 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_df51be10c1",
+          "titulo": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168055",
+          "fuente": "UN News",
+          "fecha": "Thu, 30 Jul 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-04_0003",
+      "fecha": "2026-08-04",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-08-04_0012"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Andy Burnham quiere dotar al Reino Unido de una Constitución escrita",
+        "en": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises"
+      },
+      "sintesis": {
+        "es": "¿Una Constitución para el Reino Unido? Una de las democracias más antiguas del mundo carece de un texto fundacional y, por el contrario, se basa en un conjunto de precedentes, jurisprudencia y tradiciones. Pero el primer ministro, Andy Burnham, considera que ha llegado el momento de establecer un nuevo marco constitucional.",
+        "en": "Andy Burnham’s social media push appears to be resonating with some voters. But he faces big decisions about how to pay for his promises."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Andy Burnham",
+        "Reino Unido",
+        "Apple",
+        "First Weeks"
+      ],
+      "geo": {
+        "lat": 54.0,
+        "lon": -2.5,
+        "region": "Europa"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_16f34686b8",
+        "ev_85395886e0",
+        "ev_ad142aaf8e"
+      ],
+      "cluster_id": "cl_064",
+      "imagenes": [
+        "https://s.rfi.fr/media/display/3ef72710-8993-11f1-b063-005056a97e36/w:1024/p:16x9/AP26202457548424.jpg",
+        "https://static01.nyt.com/images/2026/08/04/multimedia/04int-uk-burnham-image-01-mtkl/04int-uk-burnham-image-01-mtkl-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_16f34686b8",
+          "titulo": "Andy Burnham quiere dotar al Reino Unido de una Constitución escrita",
+          "url": "https://www.rfi.fr/es/europa/20260803-andy-burnham-quiere-dotar-al-reino-unido-de-una-constituci%C3%B3n-escrita",
+          "fuente": "RFI Espanol",
+          "fecha": "Mon, 03 Aug 2026 14:49:59 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_85395886e0",
+          "titulo": "Apple recurre el segundo intento del Reino Unido de acceder a datos de iCloud",
+          "url": "http://es.euronews.com/next/2026/08/04/apple-recurre-el-segundo-intento-del-reino-unido-de-acceder-a-datos-de-icloud",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 04 Aug 2026 09:05:50 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_ad142aaf8e",
+          "titulo": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises",
+          "url": "https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html",
+          "fuente": "NYT World",
+          "fecha": "Tue, 04 Aug 2026 04:01:19 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-04_0004",
+      "fecha": "2026-08-04",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-04_0006"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Incendios forestales devastadores en Spokane, Washington, obligan a evacuar a 60,000 personas",
+        "en": "Devastating wildfires in Spokane, Washington force evacuation of 60,000 people"
+      },
+      "sintesis": {
+        "es": "Tres grandes incendios forestales arrasaron barrios de Spokane, Washington, durante el fin de semana del 1 de agosto de 2026, destruyendo más de 700 estructuras y obligando a evacuar a unas 60,000 personas. El alcalde de Spokane calificó el suceso como el 'peor desastre' que ha enfrentado el estado. Las autoridades arrestaron a un hombre de 37 años sospechoso de provocar intencionalmente uno de los incendios, mientras vientos fuertes y condiciones de sequía agravaron la propagación del fuego.",
+        "en": "Three major wildfires tore through neighborhoods in and around Spokane, Washington, over the weekend of August 1, 2026, destroying more than 700 structures and forcing the evacuation of roughly 60,000 people. Spokane's mayor called it the 'worst disaster' the state has ever faced. Authorities arrested a 37-year-old man suspected of intentionally starting one of the fires, as strong winds and dry conditions fueled the blazes' rapid spread."
       },
       "categoria": "clima",
       "actores": [
-        "Autoridades de Spokane",
-        "Agencias federales y estatales de bomberos de EE.UU.",
-        "Residentes evacuados de Washington"
+        "Alcalde de Spokane",
+        "Bomberos de Spokane",
+        "Autoridades de Washington",
+        "Sospechoso de incendio intencional"
       ],
       "geo": {
         "lat": 47.6588,
         "lon": -117.426,
         "region": "Spokane, Washington, Estados Unidos"
       },
-      "impacto": 58,
+      "impacto": 62,
       "fuentes": [
-        "ev_a15301c817",
-        "ev_1e0e5f3e97",
-        "ev_8747d10c19",
-        "ev_95011599f9",
-        "ev_6ac927fc00",
-        "ev_dbe5bb172d"
+        "ev_9e0bc46d46",
+        "ev_0cd9870d7f",
+        "ev_ac87e54cd9",
+        "ev_e358353b99",
+        "ev_180f88206e",
+        "ev_36747dba90",
+        "ev_db99adc4de"
       ],
-      "cluster_id": "cl_072",
+      "cluster_id": "cl_197",
       "imagenes": [
-        "https://i.guim.co.uk/img/media/6906270290aba2591825637bef6af67d359b8635/653_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3b1ec46a265f1ca7dbe3587b7e497dc2",
-        "https://s.france24.com/media/display/55f4c352-8ee6-11f1-807a-005056a90284/w:1024/p:16x9/AP26215035845208.jpg"
+        "https://static.independent.co.uk/2026/08/03/20/25/GettyImages-2288081457.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+        "https://static.independent.co.uk/2026/08/03/9/51/23Xeef4y-720.jpg?width=1200&auto=webp&trim=0%2C56%2C0%2C55",
+        "https://static.independent.co.uk/2026/08/04/6/37/Aaron-Farinacci.jpeg?width=1200&auto=webp&trim=0%2C22%2C0%2C22",
+        "https://static.independent.co.uk/2026/08/02/16/download.-2.?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_a15301c817",
-          "titulo": "Incendios forestales destruyen cientos de viviendas cerca de Spokane, Washington",
-          "url": "http://es.euronews.com/video/2026/08/03/incendios-forestales-destruyen-cientos-de-viviendas-cerca-de-spokane-washington",
-          "fuente": "Euronews Espanol",
-          "fecha": "Mon, 03 Aug 2026 09:45:04 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_1e0e5f3e97",
-          "titulo": "Eastern Washington fires destroy 600 structures and force 60,000 to evacuate",
-          "url": "https://www.theguardian.com/us-news/2026/aug/02/eastern-washington-wildfires",
-          "fuente": "The Guardian World",
-          "fecha": "Sun, 02 Aug 2026 23:33:08 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8747d10c19",
-          "titulo": "Fast moving wildfires raze neighborhoods in US northwest city of Spokane",
-          "url": "https://www.france24.com/en/americas/20260803-wildfires-us-northwest-city-spokane",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 03 Aug 2026 02:54:34 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_95011599f9",
-          "titulo": "Fires in Spokane, Washington, burn 600 structures, force 60,000 evacuations",
-          "url": "https://www.aljazeera.com/news/2026/8/3/fires-in-spokane-washington-burn-600-structures-force-60000-evacuations?traffic_source=rss",
+          "id": "ev_9e0bc46d46",
+          "titulo": "Why are the Washington wildfires so severe? Spokane fires explained",
+          "url": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Mon, 03 Aug 2026 03:26:08 +0000",
+          "fecha": "Tue, 04 Aug 2026 05:03:44 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_6ac927fc00",
-          "titulo": "Wildfires destroy hundreds of homes near Spokane, Washington",
-          "url": "http://www.euronews.com/video/2026/08/03/wildfires-destroy-hundreds-of-homes-near-spokane-washington",
-          "fuente": "Euronews English",
-          "fecha": "Mon, 03 Aug 2026 09:44:11 +0200",
+          "id": "ev_0cd9870d7f",
+          "titulo": "Why the Spokane wildfires turned so destructive",
+          "url": "https://www.independent.co.uk/news/world/americas/spokane-wildfires-washington-b3026810.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 03 Aug 2026 20:29:22 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_dbe5bb172d",
-          "titulo": "Destructive wildfires prompt evacuations in Washington state",
-          "url": "https://www.cbc.ca/news/world/wildfires-washington-state-9.7294631?cmp=rss",
+          "id": "ev_ac87e54cd9",
+          "titulo": "Bodycam video shows firefighters battling blaze in Spokane, US",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 04 Aug 2026 04:22:28 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e358353b99",
+          "titulo": "Firefighter bodycam shows Washington homes consumed by wildfire as 60,000 evacuated",
+          "url": "https://www.independent.co.uk/tv/news/wildfire-washington-spokane-bodycam-video-b3026301.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 03 Aug 2026 09:10:51 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_180f88206e",
+          "titulo": "Arson arrest after monster wildfire tears through Spokane, destroying 700 buildings",
+          "url": "https://www.independent.co.uk/news/world/americas/spokane-wildfires-aaron-farinacci-arson-old-trails-fire-b3026931.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 04 Aug 2026 06:25:33 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_36747dba90",
+          "titulo": "Arson suspect arrested in connection with Washington state wildfire",
+          "url": "https://www.cbc.ca/news/world/washington-state-wildfire-evacuees-9.7295264?cmp=rss",
           "fuente": "CBC World",
-          "fecha": "Sun, 02 Aug 2026 18:48:55 EDT",
+          "fecha": "Mon, 03 Aug 2026 17:35:00 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_db99adc4de",
+          "titulo": "Washington wildfires ‘worst disaster’ state has ever faced, says Spokane mayor",
+          "url": "https://www.independent.co.uk/news/world/americas/washington-wildfires-spokane-evacutation-disaster-b3026230.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 03 Aug 2026 10:02:02 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-03_0010",
-      "fecha": "2026-08-03",
+      "id": "nd_2026-08-04_0005",
+      "fecha": "2026-08-04",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "How new informatics tools help turn biodiversity data into policy insights",
-        "en": "How new informatics tools help turn biodiversity data into policy insights"
+        "es": "African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa",
+        "en": "African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa"
       },
       "sintesis": {
-        "es": "Biodiversity loss has been among the central topics in public, policy and scientific debate for several decades. While its accelerating pace and impacts are well recognized, translating the vast amounts of biodiversity data into reliable indicators that can inform policy remains a challenge, requiring considerable time and technical effort. To help address this, the EU project B-Cubed developed automated and interoperable data pipelines that were tested via case studies.",
-        "en": "Biodiversity loss has been among the central topics in public, policy and scientific debate for several decades. While its accelerating pace and impacts are well recognized, translating the vast amounts of biodiversity data into reliable indicators that can inform policy remains a challenge, requiring considerable time and technical effort. To help address this, the EU project B-Cubed developed automated and interoperable data pipelines that were tested via case studies."
+        "es": "The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement reaffirms the joint commitment to advancing health security, universal health coverage, and sustainable development across the African continent at a time of unprecedented financial challenges in the global health landscape. It further underscores the African Union’s leadership in fostering collective action, inclusive partnerships, and regional resilience, and positions the Department of Health, Humanitarian Affairs, and Social Development of the AU Commission at the heart of the continent’s health policy implementation efforts.",
+        "en": "The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement reaffirms the joint commitment to advancing health security, universal health coverage, and sustainable development across the African continent at a time of unprecedented financial challenges in the global health landscape. It further underscores the African Union’s leadership in fostering collective action, inclusive partnerships, and regional resilience, and positions the Department of Health, Humanitarian Affairs, and Social Development of the AU Commission at the heart of the continent’s health policy implementation efforts."
       },
-      "categoria": "ciencia",
+      "categoria": "salud",
       "actores": [
-        "How Spain"
+        "Organization",
+        "Strong",
+        "World Meteorological",
+        "WHO Director"
       ],
       "geo": {
-        "lat": 40.5,
-        "lon": -3.7,
+        "lat": 46.2,
+        "lon": 6.1,
         "region": "Europa"
       },
       "impacto": 57,
       "fuentes": [
-        "ev_79c3a09283",
-        "ev_dcc12c08bd",
-        "ev_66a0096a54",
-        "ev_68cdc15696",
-        "ev_18fb6f140a",
-        "ev_4c05e202b2"
+        "ev_003115d90d",
+        "ev_b62cf6ee55",
+        "ev_54e403fc30",
+        "ev_e77617be22"
       ],
-      "cluster_id": "cl_147",
+      "cluster_id": "cl_258",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/bacterial-colonies.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/how-simple-amber-light.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/how-new-informatics-to.jpg"
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-01-2025_WMO_USA.jpg/image560x340cropped.jpg",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/the-wmo-says-prepare-f.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_79c3a09283",
-          "titulo": "How Spain's migrant crisis created a political storm - whipped up by social media",
-          "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sun, 02 Aug 2026 10:32:28 GMT",
+          "id": "ev_003115d90d",
+          "titulo": "Strong El Niño ahead, UN weather agency warns",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168059",
+          "fuente": "UN News",
+          "fecha": "Fri, 31 Jul 2026 12:00:00 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_dcc12c08bd",
-          "titulo": "How fitness, speed and position shape competition in expanding populations",
-          "url": "https://phys.org/news/2026-07-position-competition-populations.html",
+          "id": "ev_b62cf6ee55",
+          "titulo": "World Meteorological Organization says prepare for a strong El Niño",
+          "url": "https://phys.org/news/2026-08-world-meteorological-strong-el-nio.html",
           "fuente": "Phys.org",
-          "fecha": "Mon, 03 Aug 2026 00:00:02 EDT",
+          "fecha": "Mon, 03 Aug 2026 16:00:05 EDT",
           "idioma": "en"
         },
         {
-          "id": "ev_66a0096a54",
-          "titulo": "How simple amber lights could make nights safer for insects",
-          "url": "https://phys.org/news/2026-07-simple-amber-nights-safer-insects.html",
-          "fuente": "Phys.org",
-          "fecha": "Sun, 02 Aug 2026 15:20:01 EDT",
+          "id": "ev_54e403fc30",
+          "titulo": "WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health",
+          "url": "https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health",
+          "fuente": "WHO News",
+          "fecha": "Wed, 25 Feb 2026 18:06:55 Z",
           "idioma": "en"
         },
         {
-          "id": "ev_68cdc15696",
-          "titulo": "How new informatics tools help turn biodiversity data into policy insights",
-          "url": "https://phys.org/news/2026-07-informatics-tools-biodiversity-policy-insights.html",
-          "fuente": "Phys.org",
-          "fecha": "Sat, 01 Aug 2026 19:40:01 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_18fb6f140a",
-          "titulo": "How molecular tethers and asynchronous replication drive parasite proliferation",
-          "url": "https://phys.org/news/2026-07-molecular-tethers-asynchronous-replication-parasite.html",
-          "fuente": "Phys.org",
-          "fecha": "Sat, 01 Aug 2026 17:00:01 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4c05e202b2",
-          "titulo": "How fruit flies chase invisible ribbons of smell to get to their source",
-          "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
-          "fuente": "Ars Technica",
-          "fecha": "Sat, 01 Aug 2026 10:00:19 +0000",
+          "id": "ev_e77617be22",
+          "titulo": "African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa",
+          "url": "https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa",
+          "fuente": "WHO News",
+          "fecha": "Sat, 24 May 2025 17:47:21 Z",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-03_0011",
-      "fecha": "2026-08-03",
-      "kardashev": "K0",
+      "id": "nd_2026-08-04_0006",
+      "fecha": "2026-08-04",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-04_0004"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "25 estados demandan a la administración Trump por nuevos aranceles",
+        "en": "25 states sue Trump administration over new tariffs"
+      },
+      "sintesis": {
+        "es": "Un grupo de 25 estados de EE. UU. presentó una demanda contra la administración Trump por la imposición de nuevos aranceles a socios comerciales. Los demandantes argumentan que estas medidas son un pretexto para reinstaurar gravámenes previamente declarados ilegales por la Corte Suprema.",
+        "en": "A group of 25 U.S. states filed a lawsuit against the Trump administration over new tariffs imposed on trading partners. The plaintiffs argue the measures are a pretext to reinstate duties previously struck down by the Supreme Court."
+      },
+      "categoria": "economia",
+      "actores": [
+        "Trump administration",
+        "25 US states",
+        "US Supreme Court"
+      ],
+      "geo": {
+        "lat": 38.9072,
+        "lon": -77.0369,
+        "region": "Estados Unidos"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_8fb0add861",
+        "ev_9d11034380",
+        "ev_1acd385930"
+      ],
+      "cluster_id": "cl_201",
+      "imagenes": [
+        "https://static.independent.co.uk/2025/04/02/20/11/TOPSHOT-US-POLITICS-TARIFF-TRADE-DIPLOMACY-43vcprz0.jpeg?width=1200&auto=webp&crop=3%3A2"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8fb0add861",
+          "titulo": "Trump administration sued by 25 states over new tariffs on trading partners",
+          "url": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 04 Aug 2026 00:29:48 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9d11034380",
+          "titulo": "25 states sue Trump administration over latest tariffs",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-tariffs-states-lawsuit-section-301-b3026855.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 03 Aug 2026 23:59:10 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1acd385930",
+          "titulo": "Twenty five states sue Trump administration over latest global tariffs",
+          "url": "https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 03 Aug 2026 20:57:02 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-04_0007",
+      "fecha": "2026-08-04",
+      "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "New Zealand legislation making English an official language ridiculed as ‘pathetic’",
-        "en": "New Zealand legislation making English an official language ridiculed as ‘pathetic’"
+        "es": "Nine Lives, the feral cat that terrorised New Zealand’s rare ducks, is caught after three years",
+        "en": "Nine Lives, the feral cat that terrorised New Zealand’s rare ducks, is caught after three years"
       },
       "sintesis": {
-        "es": "Passing of bill gives English same status as Māori and sign language but, with it already spoken by 95% of country, critics call it ‘a pointless exercise’ Legislation recognising English as an official language of New Zealand has been passed by parliament, prompting derision from linguists and legal experts and a now-viral broadside from a Māori MP who called it “pathetic”. The English language bill became law on 30 July giving English, which is spoken by 95% of the country, the same official status as te reo Māori (Māori language) and New Zealand sign language. Continue reading...",
-        "en": "Passing of bill gives English same status as Māori and sign language but, with it already spoken by 95% of country, critics call it ‘a pointless exercise’ Legislation recognising English as an official language of New Zealand has been passed by parliament, prompting derision from linguists and legal experts and a now-viral broadside from a Māori MP who called it “pathetic”. The English language bill became law on 30 July giving English, which is spoken by 95% of the country, the same official status as te reo Māori (Māori language) and New Zealand sign language. Continue reading..."
+        "es": "Large tabby cat that wiped out dozens of rare pāteke, or brown teal, has been killed after eluding trappers with its ‘very erratic’ behaviour A notorious feral cat given the name “Nine Lives” because it eluded trappers for three years has been caught and killed in New Zealand, ending its devastating rampage against one of the country’s rare duck populations. The cat, a large grey tabby, is estimated to have killed dozens of New Zealand’s rarest mainland duck – or 1% of its population – plus a host of kiwi chicks, native geckos and other native wildlife during the three years it was known to be roaming the Purerua peninsula, near the top of the North Island. Continue reading...",
+        "en": "Large tabby cat that wiped out dozens of rare pāteke, or brown teal, has been killed after eluding trappers with its ‘very erratic’ behaviour A notorious feral cat given the name “Nine Lives” because it eluded trappers for three years has been caught and killed in New Zealand, ending its devastating rampage against one of the country’s rare duck populations. The cat, a large grey tabby, is estimated to have killed dozens of New Zealand’s rarest mainland duck – or 1% of its population – plus a host of kiwi chicks, native geckos and other native wildlife during the three years it was known to be roaming the Purerua peninsula, near the top of the North Island. Continue reading..."
       },
-      "categoria": "salud",
+      "categoria": "sociedad",
       "actores": [
         "New Zealand",
-        "English",
-        "Beijing Protests",
-        "After New"
+        "Nine Lives",
+        "Has Ended",
+        "Greyhound Racing"
       ],
       "geo": {
         "lat": 0.0,
@@ -1166,60 +926,123 @@
       },
       "impacto": 53,
       "fuentes": [
-        "ev_3bb32632c6",
-        "ev_add6a150f2",
-        "ev_5343af0e43"
+        "ev_dcba2886da",
+        "ev_7b7daae2eb",
+        "ev_c116877181"
       ],
-      "cluster_id": "cl_163",
+      "cluster_id": "cl_170",
       "imagenes": [
-        "https://i.guim.co.uk/img/media/25e0f42bef1b243987da186a6fe242e1c60be42b/581_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=eb15529800046a5bd96024ce36d03531",
-        "https://static01.nyt.com/images/2026/08/01/multimedia/01int-nzealand-china-bwzc/01int-nzealand-china-bwzc-mediumSquareAt3X.jpg"
+        "https://i.guim.co.uk/img/media/49f6b7dc7ac72ae8aaf71342c9fdcb9dff0ebd16/673_408_1018_815/master/1018.jpg?width=140&quality=85&auto=format&fit=max&s=d702e65ced7b5cbf88e07252db72159d",
+        "https://static01.nyt.com/images/2026/08/04/multimedia/04int-NZ-GREYHOUND-09-tqkf/04int-NZ-GREYHOUND-09-tqkf-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_3bb32632c6",
-          "titulo": "New Zealand legislation making English an official language ridiculed as ‘pathetic’",
-          "url": "https://www.theguardian.com/world/2026/aug/03/new-zealand-english-an-official-language-bill",
+          "id": "ev_dcba2886da",
+          "titulo": "Nine Lives, the feral cat that terrorised New Zealand’s rare ducks, is caught after three years",
+          "url": "https://www.theguardian.com/world/2026/aug/04/nine-lives-feral-cat-new-zealand-caught-trapped",
           "fuente": "The Guardian World",
-          "fecha": "Mon, 03 Aug 2026 04:06:41 GMT",
+          "fecha": "Tue, 04 Aug 2026 05:45:57 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_add6a150f2",
-          "titulo": "Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker",
-          "url": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
+          "id": "ev_7b7daae2eb",
+          "titulo": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
+          "url": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
           "fuente": "NYT World",
-          "fecha": "Sat, 01 Aug 2026 07:28:21 +0000",
+          "fecha": "Tue, 04 Aug 2026 06:36:06 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_5343af0e43",
-          "titulo": "New Zealand climbers trapped on Solomon Islands' highest mountain",
-          "url": "https://www.abc.net.au/news/2026-08-03/new-zealand-climbers-stranded-in-solomon-islands/106990382",
+          "id": "ev_c116877181",
+          "titulo": "New Zealand climbers rescued from Solomon Islands' highest mountain",
+          "url": "https://www.abc.net.au/news/2026-08-04/two-new-zealand-men-rescued-from-solomon-islands-mountain/106993840",
           "fuente": "ABC News Australia",
-          "fecha": "Mon, 03 Aug 2026 08:03:34 +0000",
+          "fecha": "Tue, 04 Aug 2026 02:40:39 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-03_0012",
-      "fecha": "2026-08-03",
-      "kardashev": "K1",
+      "id": "nd_2026-08-04_0008",
+      "fecha": "2026-08-04",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "New microscopy method achieves angstrom-scale localization precision with one laser",
-        "en": "New microscopy method achieves angstrom-scale localization precision with one laser"
+        "es": "What’s Up: August 2026 Skywatching Tips from NASA",
+        "en": "What’s Up: August 2026 Skywatching Tips from NASA"
       },
       "sintesis": {
-        "es": "Researchers in the lab of Sam Peng, the Pfizer Inc.–Gerald Laubach Career Development Assistant Professor of Chemistry at MIT and a core institute member of the Broad Institute of MIT and Harvard, have developed a super-resolution imaging technology. It allows scientists to visualize molecular structures with angstrom-level localization precision—three orders of magnitude beyond the nanometer-scale limits of standard fluorescent dyes—while simplifying the imaging process.",
-        "en": "Researchers in the lab of Sam Peng, the Pfizer Inc.–Gerald Laubach Career Development Assistant Professor of Chemistry at MIT and a core institute member of the Broad Institute of MIT and Harvard, have developed a super-resolution imaging technology. It allows scientists to visualize molecular structures with angstrom-level localization precision—three orders of magnitude beyond the nanometer-scale limits of standard fluorescent dyes—while simplifying the imaging process."
+        "es": "A solar eclipse, the Perseids, bright Venus after sunset, and a deep partial lunar eclipse highlight August’s skywatching. Skywatching Highlights Transcript A solar eclipse, one of the year’s best meteor showers, Venus at its brightest in the evening sky, and a lunar eclipse to close out the month. That’s “What’s Up” for August.",
+        "en": "A solar eclipse, the Perseids, bright Venus after sunset, and a deep partial lunar eclipse highlight August’s skywatching. Skywatching Highlights Transcript A solar eclipse, one of the year’s best meteor showers, Venus at its brightest in the evening sky, and a lunar eclipse to close out the month. That’s “What’s Up” for August."
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "August",
+        "Here",
+        "Skywatching Tips",
+        "NASA"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 53,
+      "fuentes": [
+        "ev_cdc179c1f9",
+        "ev_a680d16b52",
+        "ev_0fd7a62a62"
+      ],
+      "cluster_id": "cl_433",
+      "imagenes": [
+        "https://media.wired.com/photos/6a6cc802e820d2debdfeee44/master/pass/eclipsesolar.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_cdc179c1f9",
+          "titulo": "What’s Up: August 2026 Skywatching Tips from NASA",
+          "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
+          "fuente": "NASA News",
+          "fecha": "Fri, 31 Jul 2026 22:35:36 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a680d16b52",
+          "titulo": "There Are 2 Eclipses This August. Here’s How to See Them",
+          "url": "https://www.wired.com/story/two-eclipses-august-how-to-see-them/",
+          "fuente": "WIRED",
+          "fecha": "Sun, 02 Aug 2026 10:30:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0fd7a62a62",
+          "titulo": "Here are some of JPMorgan's favorite stocks as August trading kicks off",
+          "url": "https://www.cnbc.com/2026/08/03/here-are-some-of-jpmorgans-favorite-stocks-as-august-trading-kicks-off.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 03 Aug 2026 19:42:15 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-04_0009",
+      "fecha": "2026-08-04",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "New process turns plastic waste into hydrogen fuel while trapping the carbon",
+        "en": "New process turns plastic waste into hydrogen fuel while trapping the carbon"
+      },
+      "sintesis": {
+        "es": "A new chemical process can transform three of the most common plastics into high-purity hydrogen without sorting them first. The technique operates at much lower temperatures than traditional gasification and captures most of the plastic’s carbon in solid or liquid forms instead of releasing it as carbon dioxide.",
+        "en": "A new chemical process can transform three of the most common plastics into high-purity hydrogen without sorting them first. The technique operates at much lower temperatures than traditional gasification and captures most of the plastic’s carbon in solid or liquid forms instead of releasing it as carbon dioxide."
       },
       "categoria": "ciencia",
       "actores": [
         "New",
-        "Seattle"
+        "FDA"
       ],
       "geo": {
         "lat": 0.0,
@@ -1228,23 +1051,24 @@
       },
       "impacto": 49,
       "fuentes": [
-        "ev_9aba7c221b",
+        "ev_6b9a8c6edd",
         "ev_362c0b581c",
         "ev_43912f2d80",
-        "ev_4e10bed4ad"
+        "ev_03e637891c"
       ],
-      "cluster_id": "cl_217",
+      "cluster_id": "cl_295",
       "imagenes": [
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-break-diff.jpg"
+        "https://static.independent.co.uk/2026/08/03/19/18/GettyImages-2264287351.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-encryption.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_9aba7c221b",
-          "titulo": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
-          "url": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
-          "fuente": "NPR News",
-          "fecha": "Sun, 02 Aug 2026 08:00:00 -0400",
+          "id": "ev_6b9a8c6edd",
+          "titulo": "New blood test to detect colon cancer clears FDA approval",
+          "url": "https://www.independent.co.uk/news/health/colorectal-cancer-us-blood-test-fda-b3026680.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 03 Aug 2026 20:07:32 GMT",
           "idioma": "en"
         },
         {
@@ -1264,17 +1088,268 @@
           "idioma": "en"
         },
         {
-          "id": "ev_4e10bed4ad",
-          "titulo": "New microscopy method achieves angstrom-scale localization precision with one laser",
-          "url": "https://phys.org/news/2026-07-microscopy-method-angstrom-scale-localization.html",
+          "id": "ev_03e637891c",
+          "titulo": "New quantum encryption method prevents ciphertext from being cloned",
+          "url": "https://phys.org/news/2026-08-quantum-encryption-method-ciphertext-cloned.html",
           "fuente": "Phys.org",
-          "fecha": "Sun, 02 Aug 2026 14:00:05 EDT",
+          "fecha": "Mon, 03 Aug 2026 17:20:04 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-03_0013",
-      "fecha": "2026-08-03",
+      "id": "nd_2026-08-04_0010",
+      "fecha": "2026-08-04",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "13 personas mueren al estrellarse avioneta turística cerca de las Líneas de Nazca, Perú",
+        "en": "13 killed as tourist plane crashes near Peru's Nazca Lines"
+      },
+      "sintesis": {
+        "es": "Una avioneta Cessna Grand Caravan que transportaba turistas para sobrevolar las Líneas de Nazca se estrelló cerca de la ciudad de Nazca, en el sur de Perú, tras despegar del aeropuerto de Pisco. Las 13 personas a bordo, incluidos 11 pasajeros extranjeros (italianos, alemanes y españoles) y dos pilotos, murieron; no hubo sobrevivientes.",
+        "en": "A Cessna Grand Caravan tourist plane carrying passengers to view the Nazca Lines crashed near the city of Nazca in southern Peru after departing from Pisco airport. All 13 people aboard, including 11 foreign tourists (Italian, German and Spanish nationals) and two pilots, died, with no survivors."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Autoridades peruanas",
+        "Turistas italianos, alemanes y españoles",
+        "Aerolínea operadora de la avioneta"
+      ],
+      "geo": {
+        "lat": -14.8339,
+        "lon": -75.13,
+        "region": "Nazca, Perú"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_051b4297c3",
+        "ev_73aecfa322",
+        "ev_1d9bd275f7",
+        "ev_06cdb34f25",
+        "ev_374eac2883"
+      ],
+      "cluster_id": "cl_018",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aeb4/live/bd5e2ea0-8e75-11f1-98c2-039438173617.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/02/17856482256764.jpg",
+        "https://s.rfi.fr/media/display/412b9060-8e58-11f1-a90a-005056a97e36/w:1024/p:16x9/AP26214045196408.jpg",
+        "https://i.guim.co.uk/img/media/bc8c43ce4d58f5d218118b9f67f9b28f8b94bd4b/463_0_4011_3211/master/4011.jpg?width=140&quality=85&auto=format&fit=max&s=73ce99135b60707d58ea7ba96029e1d1"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_051b4297c3",
+          "titulo": "13 personas mueren en Perú al estrellarse una avioneta turística cerca de las Líneas de Nazca",
+          "url": "https://www.bbc.com/mundo/articles/c0ejznr1g9no?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sat, 01 Aug 2026 23:26:51 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_73aecfa322",
+          "titulo": "Un matrimonio de Valladolid, entre los 13 muertos tras estrellarse una avioneta en el sur de Perú",
+          "url": "https://www.elmundo.es/internacional/2026/08/01/6a6e5b1ce9cf4a04698b45bc.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sun, 02 Aug 2026 13:42:52 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_1d9bd275f7",
+          "titulo": "Perú: trece muertos al caer avioneta con turistas cerca de Líneas de Nasca",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260802-per%C3%BA-trece-muertos-al-caer-avioneta-con-turistas-cerca-de-l%C3%ADneas-de-nasca",
+          "fuente": "RFI Espanol",
+          "fecha": "Sun, 02 Aug 2026 09:57:15 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_06cdb34f25",
+          "titulo": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
+          "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 01 Aug 2026 22:31:13 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_374eac2883",
+          "titulo": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
+          "url": "https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html",
+          "fuente": "NYT World",
+          "fecha": "Sun, 02 Aug 2026 22:07:46 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-04_0011",
+      "fecha": "2026-08-04",
       "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Gianni Infantino enfrenta creciente oposición en la FIFA tras fracaso de plan de venta del Mundial",
+        "en": "Gianni Infantino faces growing opposition within FIFA after failed World Cup sell-off plan"
+      },
+      "sintesis": {
+        "es": "El presidente de la FIFA, Gianni Infantino, busca respaldo para su reelección en 2027-2031 tras el fracaso de su plan para vender parte de los derechos comerciales del Mundial a inversores privados. Varias federaciones, incluida la UEFA, han retirado su apoyo y amenazan con acciones legales y con la 'no cooperación' si no renuncia. Infantino también intentó obtener el respaldo del presidente Trump, quien no ha respondido a sus llamadas.",
+        "en": "FIFA president Gianni Infantino is seeking backing for his 2027-2031 re-election bid after his failed plan to sell a stake in World Cup commercial rights to private investors. Several federations, including UEFA, have withdrawn support and are threatening legal action and 'non-cooperation' unless he steps down. Infantino also sought support from President Trump, who has reportedly stopped responding to his calls."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Gianni Infantino",
+        "FIFA",
+        "UEFA",
+        "Donald Trump"
+      ],
+      "geo": {
+        "lat": 46.2044,
+        "lon": 6.1432,
+        "region": "Zúrich, Suiza (sede FIFA)"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_5b3c313474",
+        "ev_ea934e845c",
+        "ev_7d752d9a66",
+        "ev_d1cb29efca"
+      ],
+      "cluster_id": "cl_059",
+      "imagenes": [
+        "https://s.france24.com/media/display/c8a21af2-8f91-11f1-882a-005056a97e36/w:1024/p:16x9/ES-20260803-131334-131515-CS.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0fe/live/77f3d980-8d91-11f1-800e-433295bded5e.jpg",
+        "https://e3.365dm.com/26/08/1920x1080/skynews-gianni-infantino-fifa-president_7313256.jpg?20260803205946"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5b3c313474",
+          "titulo": "Infantino busca el respaldo de Trump para su reelección en la FIFA, pero él no le responde",
+          "url": "https://www.france24.com/es/video/20260803-infantino-busca-el-respaldo-de-trump-para-su-reelecci%C3%B3n-en-la-fifa-pero-%C3%A9l-no-le-responde",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 03 Aug 2026 23:54:48 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_ea934e845c",
+          "titulo": "Infantino opponents threaten 'non co-operation' with Fifa",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Mon, 03 Aug 2026 07:49:33 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_7d752d9a66",
+          "titulo": "How Infantino will be framing his battle to remain FIFA president",
+          "url": "https://news.sky.com/story/how-gianni-infantino-will-be-framing-his-battle-to-remain-fifa-president-13569543",
+          "fuente": "Sky News World",
+          "fecha": "Mon, 03 Aug 2026 20:50:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d1cb29efca",
+          "titulo": "European soccer body UEFA warns FIFA of legal action over Infantino's failed World Cup sell-off plan",
+          "url": "https://www.cbc.ca/sports/soccer/uefa-warns-fifa-failed-world-cup-sell-off-plan-9.7295024?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Mon, 03 Aug 2026 13:27:27 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-04_0012",
+      "fecha": "2026-08-04",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-04_0003"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Spider-Man: Brand New Day rompe el récord de estreno en taquilla norteamericana",
+        "en": "Spider-Man: Brand New Day breaks North American opening weekend box office record"
+      },
+      "sintesis": {
+        "es": "La película 'Spider-Man: Brand New Day' de Sony y Marvel recaudó 360 millones de dólares en su fin de semana de estreno en Estados Unidos y Canadá, superando el récord previo de 'Avengers: Endgame' y convirtiéndose en el mayor debut de taquilla de la historia. El filme también se expandirá a salas IMAX digitales, compartiendo cartelera con 'The Odyssey' tras un fin de semana histórico para la industria del cine.",
+        "en": "Sony and Marvel's 'Spider-Man: Brand New Day' grossed $360 million in its North American opening weekend, surpassing the previous record set by 'Avengers: Endgame' to become the biggest box office debut in history. The film is also expanding to digital IMAX theaters, sharing screens with 'The Odyssey' following a record-breaking weekend for the industry."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Sony Pictures",
+        "Marvel",
+        "IMAX",
+        "Spider-Man: Brand New Day (película)",
+        "The Odyssey (película)"
+      ],
+      "geo": {
+        "lat": 37.0902,
+        "lon": -95.7129,
+        "region": "Estados Unidos y Canadá"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_2dcbda1eeb",
+        "ev_bca96a1a9a",
+        "ev_01cc5d717d",
+        "ev_1b7e47758f",
+        "ev_536fe5d5d1",
+        "ev_a2c0263dc1"
+      ],
+      "cluster_id": "cl_081",
+      "imagenes": [
+        "https://static.independent.co.uk/2026/07/30/09/download.-6.?width=1200&auto=webp&trim=0%2C1%2C0%2C1",
+        "https://images.mktw.net/im-86491113"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_2dcbda1eeb",
+          "titulo": "Spider-Man: Brand New Day logra el mayor estreno de taquilla de la historia",
+          "url": "http://es.euronews.com/cultura/2026/08/04/spider-man-brand-new-day-logra-el-mayor-estreno-de-taquilla-de-la-historia",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 04 Aug 2026 08:56:37 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_bca96a1a9a",
+          "titulo": "New Spider-Man movie spins its way to box office record, netting $168 million on opening day",
+          "url": "https://www.independent.co.uk/news/world/americas/spider-man-brand-new-day-office-record-b3025901.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 03 Aug 2026 09:58:05 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_01cc5d717d",
+          "titulo": "Spider-Man: Brand New Day breaks box-office record for biggest North American opening weekend",
+          "url": "https://www.cbc.ca/news/entertainment/spider-man-brand-new-day-opening-weekend-9.7294989?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Mon, 03 Aug 2026 12:43:18 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1b7e47758f",
+          "titulo": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
+          "url": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
+          "fuente": "The Verge",
+          "fecha": "",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_536fe5d5d1",
+          "titulo": "'Spider-Man: Brand New Day' beats out 'Avengers: Endgame' for highest domestic opening ever",
+          "url": "https://www.cnbc.com/2026/08/03/spider-man-brand-new-day-debut-360m-highest-domestic-opening-ever.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 03 Aug 2026 15:46:27 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a2c0263dc1",
+          "titulo": "As ‘Spider-Man’ joins ‘The Odyssey’ in Imax, are premium movie screens worth the extra price?",
+          "url": "https://www.marketwatch.com/story/as-spider-man-joins-the-odyssey-in-imax-are-premium-movie-screens-worth-the-extra-price-74304e34?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Mon, 03 Aug 2026 21:33:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-04_0013",
+      "fecha": "2026-08-04",
+      "kardashev": "K1",
       "relaciones": []
     }
   ]
