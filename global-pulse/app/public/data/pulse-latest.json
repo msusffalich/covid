@@ -1,230 +1,97 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-08-07",
-    "generado": "2026-08-07T06:08:20.240626+00:00",
+    "fecha": "2026-08-08",
+    "generado": "2026-08-08T05:35:02.405648+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 828,
-      "clusters": 562,
-      "nodos": 562,
-      "verificados": 562,
-      "duracion_s": 345.8
+      "piezas_ingeridas": 783,
+      "clusters": 518,
+      "nodos": 518,
+      "verificados": 518,
+      "duracion_s": 140.4
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Los duros reveses que enfrenta Trump de parte de sus propios aliados",
-        "en": "Trump unbound: the making of an imperial presidency – podcast"
+        "es": "Un tribunal de EE.UU. ordena frenar las obras del salón de baile de Trump en la Casa Blanca",
+        "en": "Iran plots to deal Trump a blow in midterms by keeping him entangled in war"
       },
       "sintesis": {
-        "es": "Un presidente acostumbrado a manipular la política estadounidense a su voluntad se enfrenta a dos dolorosas derrotas en cuestión de días, escribe Anthony Zurcher.",
-        "en": "Donald Trump’s second term is unlike his first. The politicians who challenged him are gone. The lawyers who once pushed back now choose their battles."
+        "es": "El Tribunal de Apelaciones de Estados Unidos para el Circuito de DC, que había permitido continuar las obras mientras estudiaba el caso, coincidió con un tribunal inferior en que una remodelación de la Casa Blanca de tal envergadura exigía el consentimiento expreso del Congreso.",
+        "en": "By dragging out talks, Tehran aims to damage the US president politically – but some fear a bruised and weakened Trump could lash back Tehran has set out a protracted negotiating timetable designed to keep Donald Trump embroiled in the Iran conflict until the midterm elections, in the hope of inflicting the same ruinous blow on his presidency as Jimmy Carter suffered over the 1979-81 US embassy hostage crisis. For many inside Iran, inflicting meaningful revenge on Trump is a legitimate and self-standing war aim, reflected in the mood of those attending the funeral of the supreme leader Ali Khamenei where demands for retribution were ubiquitous. Continue reading..."
       },
       "categoria": "geopolitica",
       "actores": [
         "Trump",
-        "Pix"
+        "Casa Blanca",
+        "Iran",
+        "Hormuz"
       ],
       "geo": {
-        "lat": -14.2,
-        "lon": -51.9,
-        "region": "Sudamerica"
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
       },
-      "impacto": 87,
+      "impacto": 95,
       "fuentes": [
-        "ev_d6a788c6ab",
-        "ev_6bacb26455",
-        "ev_0379f88e39",
-        "ev_70dfa5dfbc",
-        "ev_8bd02ea7ad",
-        "ev_336bbec1f2",
-        "ev_3302f3709d"
-      ],
-      "cluster_id": "cl_016",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a134/live/ef77a090-90de-11f1-bad1-37f8e0c246e3.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6143/live/e3e22180-9005-11f1-9dfb-fd4408d16f2f.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/845f/live/c0766280-9193-11f1-9e9c-c71e84be4584.jpg",
-        "https://i.guim.co.uk/img/media/59f6346b963d8b869072f7fb7f0dcaa69f11cc94/205_0_2720_2175/master/2720.jpg?width=140&quality=85&auto=format&fit=max&s=1efbd3562babe46a6762ef02d6823e41"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_d6a788c6ab",
-          "titulo": "Cómo funciona Pix, el sistema brasileño de pagos que Trump ve como una amenaza (y por qué es diferente a otros)",
-          "url": "https://www.bbc.com/mundo/articles/c98vj2g5npjo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Wed, 05 Aug 2026 13:13:27 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_6bacb26455",
-          "titulo": "Los duros reveses que enfrenta Trump de parte de sus propios aliados",
-          "url": "https://www.bbc.com/mundo/articles/cnvneg544y2o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Tue, 04 Aug 2026 15:21:23 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_0379f88e39",
-          "titulo": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-          "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 06 Aug 2026 18:53:51 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_70dfa5dfbc",
-          "titulo": "Trump unbound: the making of an imperial presidency – podcast",
-          "url": "https://www.theguardian.com/politics/audio/2026/aug/07/trump-unbound-the-making-of-an-imperial-presidency-podcast",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 07 Aug 2026 04:00:06 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8bd02ea7ad",
-          "titulo": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship",
-          "url": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
-          "fuente": "NPR News",
-          "fecha": "Thu, 06 Aug 2026 18:06:35 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_336bbec1f2",
-          "titulo": "The park service says Trump's arch would obstruct historic sites. Could it be moved?",
-          "url": "https://www.npr.org/2026/08/06/nx-s1-5919628/trump-arch-location-historic-sites-nps",
-          "fuente": "NPR News",
-          "fecha": "Thu, 06 Aug 2026 14:19:47 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3302f3709d",
-          "titulo": "Trump administration reaches $1.2B deal with offshore wind company to abandon projects",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-offshore-wind-settlement-rwe-b3028959.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 06 Aug 2026 20:33:41 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-07_0000",
-      "fecha": "2026-08-07",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-07_0010"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Irán y Omán acuerdan una nueva ruta de tránsito en el estrecho de Ormuz en medio de tensiones con EE.UU.",
-        "en": "Iran and Oman agree new transit route through Strait of Hormuz amid tensions with US"
-      },
-      "sintesis": {
-        "es": "Irán y Omán están cerca de finalizar un acuerdo sobre una nueva ruta de tránsito de buques en el estrecho de Ormuz, con Teherán controlando el tráfico de entrada y Mascate el de salida. El pacto surge en el contexto de la guerra entre EE.UU. e Irán, tras el bloqueo del estrecho por parte de Teherán, y Trump ha amenazado con reabrirlo por la fuerza si Irán no cumple. Paralelamente, Trump admitió escasez en parte del arsenal estadounidense pero garantizó munición suficiente para el conflicto.",
-        "en": "Iran and Oman are close to finalizing an agreement on a new ship transit route through the Strait of Hormuz, with Tehran controlling inbound traffic and Muscat overseeing outbound traffic. The deal comes amid the ongoing US-Iran war, following Tehran's blockade of the strait, with Trump threatening to forcibly reopen it if Iran fails to comply. Trump also acknowledged shortages in part of the US arsenal while assuring sufficient ammunition for the conflict."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Irán",
-        "Omán",
-        "Estados Unidos",
-        "Donald Trump",
-        "Pete Hegseth"
-      ],
-      "geo": {
-        "lat": 26.5667,
-        "lon": 56.25,
-        "region": "Estrecho de Ormuz"
-      },
-      "impacto": 78,
-      "fuentes": [
-        "ev_43cc21fb18",
-        "ev_bc97900722",
-        "ev_d1fe7d8048",
-        "ev_198a77e63e",
-        "ev_6bf80645ea",
-        "ev_f994e397a4",
+        "ev_2491954a54",
+        "ev_abd56416a0",
+        "ev_15052e1e8e",
+        "ev_766c2fc3b0",
         "ev_5e4243a193",
-        "ev_7e8832a354",
-        "ev_f7b6951531",
-        "ev_76cbaa01e7",
-        "ev_317d7df01a",
-        "ev_ca1360da2a",
+        "ev_ef1c7126f3",
+        "ev_9a35c2d287",
+        "ev_29894349fb",
+        "ev_c9360f5006",
         "ev_ce5dc72566",
-        "ev_0f18b71c09",
-        "ev_4c3560916a",
-        "ev_b7f890b4c7",
-        "ev_4eb2db0e5c",
-        "ev_cf4831d80a",
-        "ev_6a65645a4a",
-        "ev_75cf089ced",
         "ev_314b99e561",
-        "ev_079155b356",
-        "ev_e25aa93e8f",
-        "ev_cdfc5782e6",
-        "ev_d8650cdbfb",
-        "ev_c71fa271ed",
-        "ev_6c7179d6cd",
-        "ev_f83270e468"
+        "ev_86335f46f6",
+        "ev_d294850ff3",
+        "ev_84b902610d"
       ],
-      "cluster_id": "cl_046",
+      "cluster_id": "cl_037",
       "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/JMQEXREN3ZCWFK7NBVXGINZFSY.JPG?auth=4056d260d65c99cedb7628e115528e0749d54624814585c09b0534ad42955200",
-        "https://s.france24.com/media/display/daf2cb9c-91f4-11f1-aa1f-005056a97e36/w:1024/p:16x9/ES-20260806-163538-163736-CS.jpg",
-        "https://s.rfi.fr/media/display/9a514dec-914b-11f1-954b-005056bf30b7/w:1024/p:16x9/00c07960bf8cb99906ec11176063920082aa53b8.jpg",
-        "https://s.france24.com/media/display/86ed045a-7b0f-11f1-b556-005056a97e36/w:1024/p:16x9/AP26181388540646.jpg"
+        "https://imagenes.elpais.com/resizer/v2/AS7YBNCO3NH6LPCAYC7CS6W6NM.jpg?auth=ae391a86164efd022b4134c93104748200d27e525d968d7bb2c81885165184fb",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/06/17859944299985.jpg",
+        "https://i.guim.co.uk/img/media/fe90568bae6b49080ea2fa0e28e0e91286745f7d/325_0_3287_2632/master/3287.jpg?width=140&quality=85&auto=format&fit=max&s=87ba5b47d7ddb0d0b71174387f5998de",
+        "https://static.independent.co.uk/2026/08/07/10/2288526726..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_43cc21fb18",
-          "titulo": "Irán insiste en mantener el control del estrecho de Ormuz mientras Trump amenaza con abrirlo por la fuerza",
-          "url": "https://elpais.com/internacional/2026-08-05/iran-insiste-en-mantener-el-control-del-estrecho-de-ormuz-mientras-trump-amenaza-con-abrirlo-por-la-fuerza.html",
+          "id": "ev_2491954a54",
+          "titulo": "Un tribunal dictamina que Trump necesita el aval del Congreso para continuar con las obras del salón de baile en la Casa Blanca",
+          "url": "https://elpais.com/us/2026-08-07/un-tribunal-dictamina-que-trump-necesita-el-aval-del-congreso-para-continuar-con-las-obras-del-salon-de-baile-en-la-casa-blanca.html",
           "fuente": "El Pais Internacional",
-          "fecha": "Wed, 05 Aug 2026 16:09:11 GMT",
+          "fecha": "Fri, 07 Aug 2026 19:15:37 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_bc97900722",
-          "titulo": "Irán y Omán están cerca de pactar nuevo corredor en Ormuz: ¿Cómo quedaría la nueva ruta?",
-          "url": "https://www.france24.com/es/video/20260807-ir%C3%A1n-y-om%C3%A1n-est%C3%A1n-cerca-de-pactar-nuevo-corredor-en-ormuz-c%C3%B3mo-quedar%C3%ADa-la-nueva-ruta",
-          "fuente": "France 24 Espanol",
-          "fecha": "Fri, 07 Aug 2026 01:57:04 GMT",
+          "id": "ev_abd56416a0",
+          "titulo": "Un tribunal de EE.UU. ordena frenar las obras del salón de baile de Trump en la Casa Blanca",
+          "url": "http://es.euronews.com/2026/08/07/un-tribunal-de-eeuu-ordena-frenar-las-obras-del-salon-de-baile-de-trump-en-la-casa-blanca",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 07 Aug 2026 21:42:56 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_d1fe7d8048",
-          "titulo": "Estrecho de Ormuz: Irán anuncia un acuerdo con Omán que dependerá de EEUU",
-          "url": "https://www.rfi.fr/es/oriente-medio/20260806-ir%C3%A1n-anuncia-un-acuerdo-con-om%C3%A1n-sobre-ormuz-pero-dice-que-su-reapertura-depender%C3%A1-de-eeuu",
-          "fuente": "RFI Espanol",
-          "fecha": "Thu, 06 Aug 2026 04:02:13 GMT",
+          "id": "ev_15052e1e8e",
+          "titulo": "Disney debe denunciar, critican a la Casa Blanca por campaña de ICE con Spider-Man",
+          "url": "http://es.euronews.com/cultura/2026/08/07/disney-debe-denunciar-critican-a-la-casa-blanca-por-campana-de-ice-con-spider-man",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 07 Aug 2026 14:00:50 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_198a77e63e",
-          "titulo": "Donald Trump afirma que el estrecho de Ormuz podría reabrirse \"pronto\"",
-          "url": "https://www.france24.com/es/medio-oriente/20260806-en-directo-hrw-acusa-a-israel-de-cr%C3%ADmenes-de-guerra-por-la-muerte-de-una-periodista-libanesa",
-          "fuente": "France 24 Espanol",
-          "fecha": "Thu, 06 Aug 2026 22:26:53 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_6bf80645ea",
-          "titulo": "Trump amenaza con \"golpear muy duramente\" a Irán si no respeta un acuerdo de apertura de Ormuz",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260804-trump-amenaza-con-golpear-muy-duramente-a-ir%C3%A1n-si-no-respeta-un-acuerdo-de-apertura-de-ormuz",
-          "fuente": "RFI Espanol",
-          "fecha": "Tue, 04 Aug 2026 16:12:14 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f994e397a4",
-          "titulo": "Trump admite escasez en parte del arsenal estadounidense, aunque garantiza munición suficiente para la guerra con Irán",
-          "url": "https://www.elmundo.es/internacional/2026/08/06/6a74fc71fc6c83e4448b4587.html",
+          "id": "ev_766c2fc3b0",
+          "titulo": "Un tribunal federal ordena detener la construcción del salón de baile de Trump: \"El presidente es un inquilino temporal de la Casa Blanca, no el propietario\"",
+          "url": "https://www.elmundo.es/internacional/2026/08/07/6a760334e85ecea3168b457c.html",
           "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 07 Aug 2026 07:29:10 +0200",
+          "fecha": "Fri, 07 Aug 2026 20:27:01 +0200",
           "idioma": "es"
         },
         {
@@ -236,19 +103,151 @@
           "idioma": "es"
         },
         {
+          "id": "ev_ef1c7126f3",
+          "titulo": "Iran plots to deal Trump a blow in midterms by keeping him entangled in war",
+          "url": "https://www.theguardian.com/world/2026/aug/07/iran-war-trump-midterm-ballot",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 07 Aug 2026 11:47:24 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9a35c2d287",
+          "titulo": "Trump targets birthright citizenship. And, Iran aims to ban U.S. from Strait of Hormuz",
+          "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
+          "fuente": "NPR News",
+          "fecha": "Fri, 07 Aug 2026 06:56:19 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_29894349fb",
+          "titulo": "Trump signs new executive orders in fresh attempt to change birthright citizenship law. So what happens now?",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-birthright-citizenship-executive-supreme-court-b3029199.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 07 Aug 2026 09:57:12 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c9360f5006",
+          "titulo": "Trump targets birthright citizenship with newly signed executive orders",
+          "url": "https://www.cbc.ca/news/world/trump-birthright-citizenship-executive-orders-9.7298789?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Thu, 06 Aug 2026 17:39:49 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ce5dc72566",
+          "titulo": "Iran Says It Is Nearing Final Agreement With Oman on Strait of Hormuz",
+          "url": "https://www.nytimes.com/2026/08/05/world/middleeast/iran-oman-strait-of-hormuz.html",
+          "fuente": "NYT World",
+          "fecha": "Wed, 05 Aug 2026 17:08:46 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_314b99e561",
+          "titulo": "Iran's chief negotiator accuses Trump of 'theater diplomacy' with Hormuz traffic near standstill",
+          "url": "https://www.cnbc.com/2026/08/07/us-iran-war-trump-hormuz-diplomacy-oil-.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Fri, 07 Aug 2026 14:06:10 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_86335f46f6",
+          "titulo": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
+          "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 07 Aug 2026 18:56:02 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-08_0000",
+      "fecha": "2026-08-08",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-08_0001",
+        "nd_2026-08-08_0002",
+        "nd_2026-08-08_0003",
+        "nd_2026-08-08_0012"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Irán anuncia un preacuerdo con Omán para el tránsito de buques en el Estrecho de Ormuz",
+        "en": "Iran says a deal with Oman to reopen the strait of Hormuz is close to being finalised – as it happened"
+      },
+      "sintesis": {
+        "es": "\"Si ciertos terceros no obstaculizan este proceso, la declaración conjunta entre los dos países, que incluye consideraciones clave y puntos de acuerdo, se encuentra en las etapas finales de revisión y redacción\", dice el portavoz de Exteriores Leer",
+        "en": "This live blog is now closed. Understanding reached on coordinates for shipping route through Hormuz, Iran says Donald Trump’s Board of Peace, which was set up in January to oversee the reconstruction of Gaza , has finally issued its first construction contract in the devastated territory: a project to build a rudimentary 150-person military outpost to house Moroccan troops, a source familiar with the matter told the Guardian. The contract, which has not yet been finalised, was awarded to Arkel International, a Louisiana-based firm that has previously carried out work with the US government in countries such as Iraq."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Ormuz",
+        "Trump",
+        "Estrecho",
+        "EEUU"
+      ],
+      "geo": {
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_fa930f82a7",
+        "ev_d1fe7d8048",
+        "ev_71f63941f3",
+        "ev_f994e397a4",
+        "ev_7e8832a354",
+        "ev_76cbaa01e7",
+        "ev_5e46e9c3c7",
+        "ev_652e52a2a9"
+      ],
+      "cluster_id": "cl_038",
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/DFGUSPI34JALZJ3WVYNRD4WIYI.jpg?auth=745f92e68323d166587a0e8364a0872ff5f77432f3bd35154aa0d742fa641581",
+        "https://s.rfi.fr/media/display/9a514dec-914b-11f1-954b-005056bf30b7/w:1024/p:16x9/00c07960bf8cb99906ec11176063920082aa53b8.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/06/17860517584616.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/05/17859493135174.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_fa930f82a7",
+          "titulo": "Irán y Omán ultiman un acuerdo sobre Ormuz entre amenazas de Trump",
+          "url": "https://elpais.com/internacional/2026-08-07/iran-y-oman-ultiman-un-acuerdo-sobre-ormuz-pese-a-las-amenazas-de-trump.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Fri, 07 Aug 2026 16:37:41 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d1fe7d8048",
+          "titulo": "Estrecho de Ormuz: Irán anuncia un acuerdo con Omán que dependerá de EEUU",
+          "url": "https://www.rfi.fr/es/oriente-medio/20260806-ir%C3%A1n-anuncia-un-acuerdo-con-om%C3%A1n-sobre-ormuz-pero-dice-que-su-reapertura-depender%C3%A1-de-eeuu",
+          "fuente": "RFI Espanol",
+          "fecha": "Thu, 06 Aug 2026 04:02:13 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_71f63941f3",
+          "titulo": "Empresas de EEUU recortan 23.000 empleos por la presión de la guerra con Irán",
+          "url": "http://es.euronews.com/business/2026/08/07/empresas-de-eeuu-recortan-23000-empleos-por-la-presion-de-la-guerra-con-iran",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 07 Aug 2026 17:10:07 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f994e397a4",
+          "titulo": "Trump admite escasez en parte del arsenal estadounidense, aunque garantiza munición suficiente para la guerra con Irán",
+          "url": "https://www.elmundo.es/internacional/2026/08/06/6a74fc71fc6c83e4448b4587.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 07 Aug 2026 07:29:10 +0200",
+          "idioma": "es"
+        },
+        {
           "id": "ev_7e8832a354",
           "titulo": "Irán anuncia un preacuerdo con Omán para el tránsito de buques en el Estrecho de Ormuz",
           "url": "https://www.elmundo.es/internacional/2026/08/05/6a736c6afc6c832c378b45a8.html",
           "fuente": "El Mundo Internacional",
           "fecha": "Wed, 05 Aug 2026 19:25:43 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f7b6951531",
-          "titulo": "Irán desquicia a Washington y negocia la gestión del Estrecho de Ormuz con Omán",
-          "url": "https://www.elmundo.es/internacional/2026/08/04/6a7205e5e9cf4a48258b45a5.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Tue, 04 Aug 2026 22:42:44 +0200",
           "idioma": "es"
         },
         {
@@ -260,346 +259,222 @@
           "idioma": "en"
         },
         {
-          "id": "ev_317d7df01a",
-          "titulo": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-          "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 06 Aug 2026 01:19:59 GMT",
+          "id": "ev_5e46e9c3c7",
+          "titulo": "Trump’s Gaza Board of Peace issues first building contract – for a military base",
+          "url": "https://www.theguardian.com/world/2026/aug/06/trump-gaza-board-of-peace-first-building-contract-military-base",
+          "fuente": "The Guardian World",
+          "fecha": "Thu, 06 Aug 2026 12:00:47 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_ca1360da2a",
-          "titulo": "Iran war live: Trump says war can’t ‘go much longer’; Hormuz deal close",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
+          "id": "ev_652e52a2a9",
+          "titulo": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Fri, 07 Aug 2026 00:00:00 +0000",
+          "fecha": "Sat, 08 Aug 2026 00:00:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-07_0001",
-      "fecha": "2026-08-07",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "El mayor brote de Ébola registrado en la historia se extiende en la República Democrática del Congo",
-        "en": "Largest recorded Ebola outbreak on record spreads in Democratic Republic of Congo"
-      },
-      "sintesis": {
-        "es": "Un brote de la especie Bundibugyo del virus Ébola se ha convertido en el mayor jamás registrado en la República Democrática del Congo, con 3,874 casos confirmados y 1,751 muertes según el Ministerio de Salud congoleño. El virus ha llegado a campos de desplazados internos y a embarcaciones fluviales, obligando a cuarentenas y cribados masivos, mientras huelgas de trabajadores humanitarios dificultan la respuesta. La OMS y la ONU han abierto nuevos centros de tratamiento y lanzado el primer ensayo de vacuna contra esta especie del virus.",
-        "en": "An outbreak of the Bundibugyo species of Ebola virus has become the largest ever recorded in the Democratic Republic of Congo, with 3,874 confirmed cases and 1,751 deaths according to the Congolese Ministry of Health. The virus has reached displacement camps and river boats, prompting quarantines and mass screenings, while strikes among aid workers are hampering the response. The WHO and UN have opened new treatment centers and launched the first vaccine trial against this virus species."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Gobierno de la República Democrática del Congo",
-        "Organización Mundial de la Salud (OMS)",
-        "ACNUR",
-        "Naciones Unidas",
-        "Ministerio de Salud de la RDC"
-      ],
-      "geo": {
-        "lat": -2.5,
-        "lon": 28.0,
-        "region": "República Democrática del Congo (este)"
-      },
-      "impacto": 78,
-      "fuentes": [
-        "ev_7e0a971181",
-        "ev_b91d89e7b1",
-        "ev_54834e3f07",
-        "ev_55901ceada",
-        "ev_a7a1816ca7"
-      ],
-      "cluster_id": "cl_153",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae81/live/19ae9c50-919e-11f1-b2ab-0dd01740f9f6.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/29-07-2026-WFP-DR-Congo-ebola-01.jpg/image560x340cropped.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/03-08-2026-UNOCHA-DR-Congo-ebola-03.jpg/image560x340cropped.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/22-06-2026-WHO_Ebola.jpg/image560x340cropped.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_7e0a971181",
-          "titulo": "DR Congo river boat under quarantine for Ebola after five deaths",
-          "url": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 06 Aug 2026 14:04:27 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b91d89e7b1",
-          "titulo": "Ebola virus reaches displacement camps in DR Congo",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168092",
-          "fuente": "UN News",
-          "fecha": "Thu, 06 Aug 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_54834e3f07",
-          "titulo": "New Ebola vaccine trial launches as outbreak spreads in DR Congo",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168072",
-          "fuente": "UN News",
-          "fecha": "Tue, 04 Aug 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_55901ceada",
-          "titulo": "DR Congo: New centre opens at heart of record Ebola outbreak",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168064",
-          "fuente": "UN News",
-          "fecha": "Mon, 03 Aug 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a7a1816ca7",
-          "titulo": "Fast-spreading Ebola outbreak outpaces recovery efforts as Congo aid workers strike",
-          "url": "https://www.independent.co.uk/news/world/africa/drc-congo-ebola-outbreak-workers-strike-b3028910.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 06 Aug 2026 18:55:37 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-07_0002",
-      "fecha": "2026-08-07",
+      "id": "nd_2026-08-08_0001",
+      "fecha": "2026-08-08",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-07_0005"
+        "nd_2026-08-08_0000",
+        "nd_2026-08-08_0002",
+        "nd_2026-08-08_0003",
+        "nd_2026-08-08_0012"
       ]
     },
     {
       "titulo": {
-        "es": "Ucrania ataca refinerías petroleras profundas en Rusia mientras arrecian los bombardeos rusos",
-        "en": "Ukraine strikes deep oil refineries in Russia as Russian bombardments intensify"
+        "es": "El helicóptero de Donald Trump ha tenido un acercamiento en vuelo con un avión comercial en Washington",
+        "en": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies."
       },
       "sintesis": {
-        "es": "Ucrania atacó al menos dos refinerías de petróleo a más de 1.300 km dentro del territorio ruso, según el presidente Zelensky, con el objetivo de reducir los ingresos que financian la guerra rusa. Paralelamente, Rusia intensificó sus ataques con misiles y drones sobre Ucrania, causando al menos 17 muertos en Kyiv y otras víctimas en Sumy, Odessa y Kyiv, mientras Ucrania enfrenta escasez crítica de misiles interceptores y aliados occidentales muestran reticencia a suministrarlos.",
-        "en": "Ukraine struck at least two oil refineries over 1,300 km inside Russian territory, according to President Zelensky, aiming to cut revenues financing Russia's war. Simultaneously, Russia intensified missile and drone attacks on Ukraine, killing at least 17 in Kyiv and more victims in Sumy, Odessa and Kyiv, while Ukraine faces critical shortages of interceptor missiles amid Western allies' reluctance to supply more."
+        "es": "El incidente se produce en un área que ha sido objeto de especial atención tras otros episodios de seguridad aérea Leer",
+        "en": "Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an effort to stack the central bank’s board with more allies."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Ucrania",
-        "Rusia",
-        "Volodymyr Zelensky",
-        "Aliados occidentales/OTAN"
+        "Trump",
+        "Lisa Cook",
+        "Donald Trump",
+        "Fed"
       ],
       "geo": {
-        "lat": 49.9935,
-        "lon": 36.2304,
-        "region": "Ucrania/Rusia"
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
       },
-      "impacto": 75,
+      "impacto": 95,
       "fuentes": [
-        "ev_3b90681d5e",
-        "ev_b09264937e",
-        "ev_8b093b200f",
-        "ev_6dc7fc4e95",
-        "ev_efd8f46bfc",
-        "ev_b398ce9cd7",
-        "ev_552b328913",
-        "ev_53640d5493",
-        "ev_e8e83bad8e",
-        "ev_f46238c5dc",
-        "ev_9cab085660",
-        "ev_4959964e9f",
-        "ev_db2d01c6e6",
-        "ev_2fbc3ddddb",
-        "ev_f6fe345f61",
-        "ev_072b96c61b",
-        "ev_3815f49d4a",
-        "ev_ee1ddf7580"
+        "ev_6116c14b34",
+        "ev_44f9fd82a1",
+        "ev_044edb02e1",
+        "ev_c585a01c82",
+        "ev_320d20bafa",
+        "ev_81734a932e",
+        "ev_d34ebb0fe8",
+        "ev_4ab1d4717f"
       ],
-      "cluster_id": "cl_147",
+      "cluster_id": "cl_042",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e4c/live/d37c5f10-9184-11f1-9587-294e25c71c14.png",
-        "https://static.independent.co.uk/2026/08/06/7/49/russia-oil-refinery-attack-52e697ae.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-        "https://s.france24.com/media/display/44a7c5e2-91a0-11f1-865a-005056a90284/w:1024/p:16x9/EN-20260806-150107-150522-CS.jpg",
-        "https://static01.nyt.com/images/2026/08/06/multimedia/06int-ukraine-patriots-hzcw/06int-ukraine-patriots-hzcw-mediumSquareAt3X.jpg"
+        "https://imagenes.elpais.com/resizer/v2/B4FNVZZGPFP23GFGXBRYS45LHQ.jpg?auth=51fe4ad8cce07b38856036c56fe617c0fe1c9d67f6ac3123d9a605bb75e9e3a1",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/06/17859714676142.jpg",
+        "https://images.mktw.net/im-69754649",
+        "https://static.independent.co.uk/2026/04/13/09/e925605cfe81b1a76487f5422b2418b6Y29udGVudHNlYXJjaGFwaSwxNzc2MTU1MjE4-2.82803513.jpg?width=1200&auto=webp&crop=3%3A2"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_3b90681d5e",
-          "titulo": "Ukraine hits two oil refineries deep in Russian territory",
-          "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 06 Aug 2026 15:41:05 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b09264937e",
-          "titulo": "Ukraine strikes Russian oil refinery over 1,300km behind frontline, says Zelensky",
-          "url": "https://www.independent.co.uk/news/world/europe/ukraine-yaroslavl-oil-refinery-drone-strike-russia-b3029066.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 07 Aug 2026 04:52:12 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8b093b200f",
-          "titulo": "Ukraine strikes Russian refineries deep into the country",
-          "url": "https://www.france24.com/en/ukraine-strikes-russian-refineries-deep-into-the-country",
-          "fuente": "France 24 English",
-          "fecha": "Thu, 06 Aug 2026 14:18:33 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6dc7fc4e95",
-          "titulo": "Amid Intensifying Russian Strikes, Ukraine’s Pleas for Air Defenses Are Falling Flat",
-          "url": "https://www.nytimes.com/2026/08/06/world/europe/ukraine-russia-missile-defense-patriots.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 06 Aug 2026 12:47:40 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_efd8f46bfc",
-          "titulo": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
-          "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
-          "fuente": "NYT World",
-          "fecha": "Wed, 05 Aug 2026 15:31:37 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b398ce9cd7",
-          "titulo": "How Ukraine is taking the war 'deeper' into Russia",
-          "url": "https://www.bbc.co.uk/news/videos/ce8l6x3r9gjo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 06 Aug 2026 17:51:11 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_552b328913",
-          "titulo": "The War That’s Happening Above Russia and Ukraine",
-          "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
-          "fuente": "NYT World",
-          "fecha": "Wed, 05 Aug 2026 17:28:33 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_53640d5493",
-          "titulo": "Everything you need to know as Russia wants another 30,000 North Korean soldiers to fight against Ukraine",
-          "url": "https://www.independent.co.uk/news/world/europe/russia-north-korea-soldiers-missiles-ukraine-war-b3029068.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 07 Aug 2026 04:57:02 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e8e83bad8e",
-          "titulo": "North Korea sends missile unit to Russia as Putin tries to exploit Ukraine weakness",
-          "url": "https://www.independent.co.uk/news/world/europe/north-korea-russia-missile-40-kn23-ukraine-putin-war-b3028476.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 06 Aug 2026 08:38:00 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f46238c5dc",
-          "titulo": "Atrapados en la guerra: los soldados heridos que Rusia vuelve a enviar al frente de batalla con Ucrania",
-          "url": "https://www.bbc.com/mundo/articles/c74gjmm9gdro?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 06 Aug 2026 03:59:15 GMT",
+          "id": "ev_6116c14b34",
+          "titulo": "El caso de la piscina reflectante de Washington se le atraganta a Trump",
+          "url": "https://elpais.com/internacional/2026-08-04/el-caso-de-la-piscina-reflectante-de-washington-se-le-atraganta-a-trump.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Tue, 04 Aug 2026 16:06:12 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_9cab085660",
-          "titulo": "Ante los ataques diarios de Rusia, Ucrania ordena evacuaciones en Kramatorsk",
-          "url": "https://www.rfi.fr/es/europa/20260806-ante-los-ataques-diarios-de-rusia-ucrania-ordena-evacuaciones-en-kramatorsk",
-          "fuente": "RFI Espanol",
-          "fecha": "Thu, 06 Aug 2026 08:45:32 GMT",
+          "id": "ev_44f9fd82a1",
+          "titulo": "El helicóptero de Donald Trump ha tenido un acercamiento en vuelo con un avión comercial en Washington",
+          "url": "https://www.elmundo.es/internacional/2026/08/06/6a73c33dfdddff9e2e8b4577.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Thu, 06 Aug 2026 01:16:36 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_4959964e9f",
-          "titulo": "Ucrania: nuevos ataques rusos dejan al menos 17 muertos en Kiev y sus alrededores",
-          "url": "https://www.rfi.fr/es/europa/20260805-ucrania-nuevos-ataques-rusos-dejan-al-menos-17-muertos-en-kiev-y-sus-alrededores",
-          "fuente": "RFI Espanol",
-          "fecha": "Wed, 05 Aug 2026 09:24:33 GMT",
-          "idioma": "es"
+          "id": "ev_044edb02e1",
+          "titulo": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
+          "url": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Fri, 07 Aug 2026 23:40:16 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c585a01c82",
+          "titulo": "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
+          "url": "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Fri, 07 Aug 2026 22:05:00 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_320d20bafa",
+          "titulo": "Trump renews push to fire Fed Governor Lisa Cook",
+          "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
+          "fuente": "NPR News",
+          "fecha": "Fri, 07 Aug 2026 15:35:35 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_81734a932e",
+          "titulo": "Trump revives effort to fire Fed's Lisa Cook",
+          "url": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Fri, 07 Aug 2026 18:38:17 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d34ebb0fe8",
+          "titulo": "‘I’m very good at grass’: Why does Donald Trump keep talking about lawns?",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-grass-lawns-white-house-south-b3029142.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 07 Aug 2026 13:11:55 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4ab1d4717f",
+          "titulo": "Trump swoons over the looks of his hand-picked Fed chair Kevin Warsh: report",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-kevin-warsh-federal-reserve-b3029139.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 07 Aug 2026 08:41:22 GMT",
+          "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-07_0003",
-      "fecha": "2026-08-07",
+      "id": "nd_2026-08-08_0002",
+      "fecha": "2026-08-08",
       "kardashev": "K1",
-      "relaciones": []
+      "relaciones": [
+        "nd_2026-08-08_0000",
+        "nd_2026-08-08_0001",
+        "nd_2026-08-08_0003",
+        "nd_2026-08-08_0012"
+      ]
     },
     {
       "titulo": {
-        "es": "Abelardo de la Espriella asume la presidencia de Colombia en medio de polarización y crisis múltiples",
-        "en": "Abelardo de la Espriella takes office as Colombia's president amid polarization and multiple crises"
+        "es": "Colombia: Temor por las tierras restituídas tras la victoria de De la Espriella",
+        "en": "Colombia's Abelardo de la Espriella takes office, vows war on guerrillas"
       },
       "sintesis": {
-        "es": "Abelardo de la Espriella, candidato de ultraderecha, se posesionó como presidente de Colombia el 7 de agosto de 2026 en Cali, en la primera ceremonia realizada fuera de Bogotá. Su llegada al poder se produce en un contexto de fuerte polarización política, con el saliente Gustavo Petro calificando el proceso electoral de fraudulento y negándose a reconocerlo como legítimo. El nuevo mandatario enfrenta desafíos críticos en seguridad, finanzas públicas y salud, incluyendo el avance de grupos armados, un déficit fiscal del 6,4% del PIB y un Congreso fragmentado, mientras la izquierda liderada por Petro e Iván Cepeda logra su mejor resultado electoral histórico como oposición.",
-        "en": "Far-right candidate Abelardo de la Espriella was sworn in as Colombia's president on August 7, 2026 in Cali, marking the first inauguration held outside Bogotá. His rise to power comes amid strong political polarization, with outgoing president Gustavo Petro calling the electoral process fraudulent and refusing to recognize him as legitimate. The new leader faces critical challenges in security, public finances, and healthcare, including advancing armed groups, a 6.4% GDP fiscal deficit, and a fragmented Congress, while the left led by Petro and Iván Cepeda achieved its best-ever electoral result as opposition."
+        "es": "La asociación de campesinos de \"La Colombianita\" denunció varios abusos por parte de las autoridades en sus terrenos. Esta denuncia se une a las otras muchas que ha recibido la Agencia Nacional de Tierras, la entidad encargada de gestionar los terrenos restituidos. Estos incidentes han generado dudas, tanto en los campesinos como para la agencia, sobre si el nuevo Gobierno del presidente de ultraderecha, Abelardo de la Espriella, defenderá sus derechos.",
+        "en": "Colombian President-elect Abelardo de la Espriella takes office August 8, vowing to launch a war on drug gangs and cosy up to the United States. The former lawyer won June's run-off election by less than a percentage point. He's a right-wing populist in the mould of El Salvador's Nayib Bukele and Argentina's Javier Milei, and is being sworn in in an unusual location."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Abelardo de la Espriella",
-        "Gustavo Petro",
-        "Iván Cepeda",
-        "Congreso de Colombia",
-        "Comité Internacional de la Cruz Roja"
+        "Espriella",
+        "Colombia",
+        "Abelardo",
+        "Cali"
       ],
       "geo": {
-        "lat": 3.4516,
-        "lon": -76.532,
-        "region": "Cali, Colombia"
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
       },
-      "impacto": 72,
+      "impacto": 93,
       "fuentes": [
-        "ev_4cd80eaf0e",
-        "ev_a1fcca59cf",
-        "ev_d9047c4912",
-        "ev_0a15b47d47",
-        "ev_8d3bf5359e",
+        "ev_c940a4b933",
+        "ev_aac75287d5",
+        "ev_40b85951b0",
+        "ev_3541e11dbc",
         "ev_d55235ff6b",
-        "ev_b5eace36b0"
+        "ev_a85aefe32f",
+        "ev_e8e782b920",
+        "ev_b5eace36b0",
+        "ev_a221ae64d1",
+        "ev_5d3e84bbf5",
+        "ev_26c9125f3b"
       ],
-      "cluster_id": "cl_011",
+      "cluster_id": "cl_046",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/11ed/live/b4201680-91a1-11f1-964d-6f76397ea067.jpg",
-        "https://s.france24.com/media/display/b4d07b18-920c-11f1-8ed6-005056a90284/w:1024/p:16x9/ES-20260806-190646-191050-CS.jpg",
-        "https://s.france24.com/media/display/9b7407fe-91f6-11f1-8b1e-005056a97e36/w:1024/p:16x9/ES-20260806-164038-164243-CS.jpg",
-        "https://s.france24.com/media/display/34982c00-91cd-11f1-be42-005056bfb2b6/w:1024/p:16x9/WEB-PORTADA-06AGO-ARTICULO-02.png"
+        "https://s.rfi.fr/media/display/8d23a0c6-924e-11f1-b0b9-005056bf30b7/w:1024/p:16x9/AP670718592486.jpg",
+        "https://s.rfi.fr/media/display/51a012a2-9242-11f1-be0d-005056a97e36/w:1024/p:16x9/2026-08-07T060005Z-1167833586-RC2JIMAOUSBP-RTRMADP-3-COLOMBIA-POLITICS.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/06/17860318441440.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/07/17861387057191.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_4cd80eaf0e",
-          "titulo": "Cómo afronta la izquierda de Colombia la oposición a De la Espriella tras lograr el mejor resultado de su historia",
-          "url": "https://www.bbc.com/mundo/articles/crm0ez9pg0ro?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 06 Aug 2026 13:41:15 GMT",
+          "id": "ev_c940a4b933",
+          "titulo": "🔴En directo: el ultraderechista Abelardo de la Espriella jura como presidente de Colombia (2026-2030)",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260807-en-directo-abelardo-de-la-espriella-llega-a-cali-para-su-investidura-como-nuevo-presidente-de-colombia",
+          "fuente": "France 24 Espanol",
+          "fecha": "Fri, 07 Aug 2026 21:35:37 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_a1fcca59cf",
-          "titulo": "Informe desde Cali: De la Espriella, a pocas horas de ser el nuevo presidente de Colombia",
-          "url": "https://www.france24.com/es/video/20260807-informe-desde-cali-de-la-espriella-a-pocas-horas-de-ser-el-nuevo-presidente-de-colombia",
-          "fuente": "France 24 Espanol",
-          "fecha": "Fri, 07 Aug 2026 03:07:31 GMT",
+          "id": "ev_aac75287d5",
+          "titulo": "Colombia: Temor por las tierras restituídas tras la victoria de De la Espriella",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260807-colombia-campesinos-alertan-de-un-aumento-de-la-inseguridad-tras-la-victoria-de-de-la-espriella",
+          "fuente": "RFI Espanol",
+          "fecha": "Fri, 07 Aug 2026 11:02:48 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_d9047c4912",
-          "titulo": "Cali se prepara para la posesión de Abelardo de la Espriella como presidente de Colombia",
-          "url": "https://www.france24.com/es/video/20260807-cali-se-prepara-para-la-posesi%C3%B3n-de-abelardo-de-la-espriella-como-presidente-de-colombia",
-          "fuente": "France 24 Espanol",
-          "fecha": "Fri, 07 Aug 2026 02:03:24 GMT",
+          "id": "ev_40b85951b0",
+          "titulo": "Abelardo de la Espriella toma posesión en Cali, gran bastión de la izquierda colombiana",
+          "url": "https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20260807-abelardo-de-la-espriella-toma-posesi%C3%B3n-en-cali-gran-basti%C3%B3n-de-la-izquierda-colombiana",
+          "fuente": "RFI Espanol",
+          "fecha": "Fri, 07 Aug 2026 09:31:52 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_0a15b47d47",
-          "titulo": "Polarización nacional y un pulso en la derecha: el ajedrez en Colombia que encara De la Espriella",
-          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260806-polarizaci%C3%B3n-nacional-y-un-pulso-en-la-derecha-el-ajedrez-de-colombia-que-encara-de-la-espriella",
-          "fuente": "France 24 Espanol",
-          "fecha": "Thu, 06 Aug 2026 23:19:54 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_8d3bf5359e",
-          "titulo": "Entre crisis de seguridad, fiscal y de salud, así recibe De la Espriella la presidencia de Colombia",
-          "url": "https://www.france24.com/es/video/20260806-entre-crisis-de-seguridad-fiscal-y-de-salud-as%C3%AD-recibe-de-la-espriella-la-presidencia-de-colombia",
-          "fuente": "France 24 Espanol",
-          "fecha": "Thu, 06 Aug 2026 19:28:39 GMT",
+          "id": "ev_3541e11dbc",
+          "titulo": "Abelardo de la Espriella asume la Presidencia y marca un cambio de rumbo político en Colombia",
+          "url": "http://es.euronews.com/2026/08/07/abelardo-de-la-espriella-asume-la-presidencia-y-marca-un-cambio-de-rumbo-politico-en-colom",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 07 Aug 2026 21:54:39 +0200",
           "idioma": "es"
         },
         {
@@ -607,7 +482,23 @@
           "titulo": "Abelardo de la Espriella, un presidente dispuesto a romper todos los moldes en Colombia",
           "url": "https://www.elmundo.es/internacional/2026/08/07/6a74ae0ee4d4d8153e8b458f.html",
           "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 07 Aug 2026 00:10:25 +0200",
+          "fecha": "Fri, 07 Aug 2026 15:37:33 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_a85aefe32f",
+          "titulo": "De la Espriella, nuevo presidente de Colombia, tras tomar posesión: \"Ha comenzado el tiempo de la recuperación del orden, la autoridad y la libertad\"",
+          "url": "https://www.elmundo.es/internacional/2026/08/07/6a75fcf3e4d4d8106c8b4597.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sat, 08 Aug 2026 03:06:42 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_e8e782b920",
+          "titulo": "El Rey, recibido con honores a su llegada a Cali para la toma de posesión de Abelardo de la Espriella",
+          "url": "https://www.elmundo.es/internacional/2026/08/07/6a75fde7e9cf4ac55a8b45ad.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 07 Aug 2026 18:06:14 +0200",
           "idioma": "es"
         },
         {
@@ -617,127 +508,244 @@
           "fuente": "El Mundo Internacional",
           "fecha": "Wed, 05 Aug 2026 17:14:01 +0200",
           "idioma": "es"
+        },
+        {
+          "id": "ev_a221ae64d1",
+          "titulo": "Colombia's Abelardo de la Espriella takes office, vows war on guerrillas",
+          "url": "https://www.france24.com/en/video/20260807-colombia-s-abelardo-de-la-espriella-takes-office-vows-war-on-guerrillas",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 07 Aug 2026 10:30:17 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5d3e84bbf5",
+          "titulo": "Colombia’s new president takes office vowing to ‘crush’ narco-terrorism",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 08 Aug 2026 01:15:53 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_26c9125f3b",
+          "titulo": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
+          "url": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 08 Aug 2026 00:31:52 +0000",
+          "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-07_0004",
-      "fecha": "2026-08-07",
+      "id": "nd_2026-08-08_0003",
+      "fecha": "2026-08-08",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-08_0000",
+        "nd_2026-08-08_0001",
+        "nd_2026-08-08_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Ébola: piden ampliar urgentemente las medidas para contener la transmisión",
+        "en": "'DRC's largest Ebola outbreak on record: Active conflict and armed groups hamper the response'"
+      },
+      "sintesis": {
+        "es": "El brote epidémico continúa avanzando más rápido que la respuesta en muchas zonas de la República Democrática del Congo. Mientras la agencia de salud prevé publicar próximamente una evaluación sobre los tratamientos y las vacunas contra el ébola.",
+        "en": "Sharon Gaffney is pleased to welcome Heather Kerr, Country Director for Congo at the International Rescue Committee. The current Ebola outbreak in the Democratic Republic of the Congo is unprecedented, not simply because of its scale, but because it spread undetected for months before it was correctly identified. According to Kerr, the response has been hindered by delayed diagnosis, the complexity of distinguishing this Bundibugyo strain from other common illnesses, and the immense operational challenges of working in an active conflict zone."
+      },
+      "categoria": "salud",
+      "actores": [
+        "Ebola",
+        "DRC",
+        "Active",
+        "Ervebo"
+      ],
+      "geo": {
+        "lat": -0.02,
+        "lon": 37.9,
+        "region": "Africa Oriental"
+      },
+      "impacto": 77,
+      "fuentes": [
+        "ev_5767d2a0eb",
+        "ev_89beec1d95",
+        "ev_f8c60857ac",
+        "ev_abe70bdaaa",
+        "ev_53b599e284"
+      ],
+      "cluster_id": "cl_099",
+      "imagenes": [
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/19-06-2026-WHO-DR-Congo-ebola-01.jpg/image560x340cropped.jpg",
+        "https://i.guim.co.uk/img/media/ed98f2b523345f1bc88d699c4fe06ba5b94e7248/322_60_2855_2283/master/2855.jpg?width=140&quality=85&auto=format&fit=max&s=db570ef55204d9bab1f74fe31924926b",
+        "https://s.france24.com/media/display/98d86f3e-929c-11f1-8454-005056bfb2b6/w:1024/p:16x9/ANGL260807-2146-Live.jpg",
+        "https://s.france24.com/media/display/b608c34e-9281-11f1-8133-005056a97e36/w:1024/p:16x9/EN-20260806-201801-202557-CS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5767d2a0eb",
+          "titulo": "Ébola: piden ampliar urgentemente las medidas para contener la transmisión",
+          "url": "https://news.un.org/feed/view/es/story/2026/08/1541786",
+          "fuente": "Noticias ONU",
+          "fecha": "Fri, 07 Aug 2026 12:00:00 +0000",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_89beec1d95",
+          "titulo": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+          "url": "https://www.theguardian.com/world/2026/aug/06/ebola-virus-drc-mutating",
+          "fuente": "The Guardian World",
+          "fecha": "Thu, 06 Aug 2026 16:18:46 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f8c60857ac",
+          "titulo": "Ebola cases surpasses 4000 cases",
+          "url": "https://www.france24.com/en/ebola-cases-surpasses-4000-cases",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 07 Aug 2026 20:18:26 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_abe70bdaaa",
+          "titulo": "'DRC's largest Ebola outbreak on record: Active conflict and armed groups hamper the response'",
+          "url": "https://www.france24.com/en/drc-s-largest-ebola-outbreak-on-record-active-conflict-and-armed-groups-hamper-the-response",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 07 Aug 2026 17:53:01 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_53b599e284",
+          "titulo": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial",
+          "url": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Fri, 07 Aug 2026 20:41:46 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-08_0004",
+      "fecha": "2026-08-08",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "El Niño intensifica el calentamiento oceánico y agrava la crisis de hambre global",
-        "en": "El Niño intensifies ocean warming and worsens global hunger crisis"
+        "es": "'There's no turning back': UEFA stands by boycott despite Infantino's apology",
+        "en": "'There's no turning back': UEFA stands by boycott despite Infantino's apology"
       },
       "sintesis": {
-        "es": "Un fortalecimiento del fenómeno El Niño está liberando calor oceánico acumulado, lo que podría convertir a 2026 en un año récord de temperaturas globales, aunque el calentamiento base se atribuye a causas humanas. Simultáneamente, la ONU advierte que este El Niño empujará a casi 50 millones de personas adicionales hacia el hambre aguda, con impactos severos en África oriental y meridional.",
-        "en": "A strengthening El Niño is releasing pent-up ocean heat, potentially pushing 2026 into record-breaking temperature territory, though the underlying warming is attributed to human causes. Simultaneously, the UN warns this El Niño will push nearly 50 million additional people into acute hunger, with severe impacts in eastern and southern Africa."
+        "es": "UEFA continues to apply pressure on FIFA President Gianni Infantino to resign, while the Norwegian federation turn up the heat with 3 separate referrals to the federation's ethics committee. Antonia Kerrigan reports.",
+        "en": "UEFA continues to apply pressure on FIFA President Gianni Infantino to resign, while the Norwegian federation turn up the heat with 3 separate referrals to the federation's ethics committee. Antonia Kerrigan reports."
       },
-      "categoria": "clima",
+      "categoria": "sociedad",
       "actores": [
-        "Programa Mundial de Alimentos (PMA)",
-        "Naciones Unidas",
-        "comunidades vulnerables en África oriental y meridional"
+        "Infantino",
+        "Fifa",
+        "UEFA",
+        "Does Africa"
       ],
       "geo": {
         "lat": 0.0,
-        "lon": 30.0,
-        "region": "África oriental y meridional / global"
+        "lon": 0.0,
+        "region": "Global"
       },
-      "impacto": 72,
+      "impacto": 70,
       "fuentes": [
-        "ev_8ac4c1d4a6",
-        "ev_37bcb858eb",
-        "ev_3913dcfe53",
-        "ev_01cb7dbf99"
+        "ev_387b8f0387",
+        "ev_5775a5cde5",
+        "ev_e81b4aac07",
+        "ev_526d0e5af2",
+        "ev_d6ab9f0e86"
       ],
-      "cluster_id": "cl_112",
+      "cluster_id": "cl_170",
       "imagenes": [
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2016/04/24255/image560x340cropped.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/30-07-2026_UNHCR_El-Nino.jpg/image560x340cropped.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f5/live/cc133c00-91a5-11f1-8f5c-9140068d99a6.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b3/live/cb908bb0-929b-11f1-b2ab-0dd01740f9f6.jpg",
+        "https://s.france24.com/media/display/9d9b094a-9270-11f1-aa16-005056bfb2b6/w:1024/p:16x9/AP26195685219789.jpg",
+        "https://e3.365dm.com/26/08/1920x1080/skynews-reuters-gianni-infantino_7315029.jpg?20260806070258"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_8ac4c1d4a6",
-          "titulo": "El Niño dispara el calor oceánico y lleva 2026 a niveles récord",
-          "url": "http://es.euronews.com/2026/08/06/el-nino-dispara-el-calor-oceanico-y-lleva-2026-a-niveles-record",
-          "fuente": "Euronews Espanol",
-          "fecha": "Thu, 06 Aug 2026 12:30:06 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_37bcb858eb",
-          "titulo": "El Niño could unleash ocean heat that sends 2026 into record-breaking territory",
-          "url": "http://www.euronews.com/2026/08/06/el-nino-could-unleash-ocean-heat-that-sends-2026-into-record-breaking-territory",
-          "fuente": "Euronews English",
-          "fecha": "Thu, 06 Aug 2026 12:27:47 +0200",
+          "id": "ev_387b8f0387",
+          "titulo": "Does Africa still back Infantino as Fifa president?",
+          "url": "https://www.bbc.co.uk/news/articles/c78g3glpl8wo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Thu, 06 Aug 2026 19:55:58 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_3913dcfe53",
-          "titulo": "Strengthening El Niño to push 49 million more people into acute hunger",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168079",
-          "fuente": "UN News",
-          "fecha": "Wed, 05 Aug 2026 12:00:00 +0000",
+          "id": "ev_5775a5cde5",
+          "titulo": "Watch: BBC asks Infantino if he will resign as Fifa president",
+          "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 07 Aug 2026 21:24:17 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_01cb7dbf99",
-          "titulo": "The climate pattern putting millions at risk: El Niño explained",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168056",
-          "fuente": "UN News",
-          "fecha": "Thu, 30 Jul 2026 12:00:00 +0000",
+          "id": "ev_e81b4aac07",
+          "titulo": "'There's no turning back': UEFA stands by boycott despite Infantino's apology",
+          "url": "https://www.france24.com/en/video/20260807-there-s-no-turning-back-uefa-stands-by-boycott-despite-infantino-s-apology",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 07 Aug 2026 15:14:08 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_526d0e5af2",
+          "titulo": "Norway Football Federation calls for FIFA president to resign",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 08 Aug 2026 04:37:56 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d6ab9f0e86",
+          "titulo": "Infantino denies UEFA paid off alleged mistress while he was general secretary",
+          "url": "https://news.sky.com/story/infantino-denies-uefa-paid-off-his-alleged-mistress-while-he-was-general-secretary-13570870",
+          "fuente": "Sky News World",
+          "fecha": "Fri, 07 Aug 2026 22:52:00 +0100",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-07_0005",
-      "fecha": "2026-08-07",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-07_0002"
-      ]
+      "id": "nd_2026-08-08_0005",
+      "fecha": "2026-08-08",
+      "kardashev": "K0",
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "Meta condenada a pagar 567 millones de dólares por daños a la salud mental infantil en redes sociales",
-        "en": "Meta ordered to pay $567 million over harm to children's mental health on social media"
+        "es": "Meta es multada con US$567 millones en el mayor fallo por seguridad infantil contra la empresa",
+        "en": "Meta fined $567 million in largest child safety ruling against the company"
       },
       "sintesis": {
-        "es": "Un juez de Nuevo México ordenó a Meta, matriz de Facebook e Instagram, pagar 567 millones de dólares a un fondo destinado a tratar el daño a la salud mental de menores causado por sus plataformas. Esta sentencia se suma a una multa previa de 375 millones impuesta en marzo, tras un veredicto que halló a la compañía responsable de exponer a niños a depredadores y otros peligros, elevando el total a 942 millones de dólares. Meta ha anunciado que apelará el fallo.",
-        "en": "A New Mexico judge ordered Meta, parent company of Facebook and Instagram, to pay $567 million into a fund aimed at addressing the mental health harms caused to children by its platforms. This ruling adds to a previous $375 million fine imposed in March, after a jury found the company liable for exposing children to predators and other harms, bringing the total to $942 million. Meta has stated it will appeal the decision."
+        "es": "Un tribunal estatal de Nuevo México, EE.UU., ordenó a Meta pagar 567 millones de dólares y aplicar restricciones a funciones de Facebook e Instagram para menores, tras determinar que la empresa creó una 'molestia pública' que puso en riesgo a usuarios jóvenes. La multa se suma a los 375 millones ya impuestos previamente en el mismo caso, totalizando 942 millones de dólares, y parte de los fondos financiará un programa de salud mental juvenil. Decenas de otros estados de EE.UU. mantienen demandas similares contra Meta por daños a la salud mental de menores.",
+        "en": "A US state court in New Mexico ordered Meta to pay $567 million and restrict certain Facebook and Instagram features for minors, ruling that the company created a 'public nuisance' endangering young users. This penalty adds to a previous $375 million fine in the same case, bringing the total to $942 million, with part of the funds earmarked for a youth mental health program. Dozens of other US states are pursuing similar lawsuits against Meta over harm to children's mental health."
       },
-      "categoria": "tecnologia",
+      "categoria": "salud",
       "actores": [
         "Meta",
-        "Juez Bryan Biedscheid",
-        "Estado de Nuevo México",
         "Instagram",
         "Facebook",
-        "WhatsApp"
+        "WhatsApp",
+        "Estado de Nuevo México, EE.UU."
       ],
       "geo": {
         "lat": 34.5199,
         "lon": -105.8701,
         "region": "Nuevo México, Estados Unidos"
       },
-      "impacto": 62,
+      "impacto": 68,
       "fuentes": [
         "ev_70db936c2e",
-        "ev_73324feb76",
+        "ev_0902eec3b3",
         "ev_368631974e",
-        "ev_25d8dd9eb2",
-        "ev_a3bda63339",
-        "ev_b1c489d950",
-        "ev_3e1357ccdf",
-        "ev_ecb8bff370"
+        "ev_35c03dd95f"
       ],
-      "cluster_id": "cl_004",
+      "cluster_id": "cl_021",
       "imagenes": [
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/635f/live/b98233a0-91fc-11f1-a7ab-8b30adf0800a.jpg",
-        "https://i.guim.co.uk/img/media/6e9c72f1d4d1541ee16137214046b3255b6a1981/410_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=fc0791b85992062fd71c41a285d15916",
-        "https://s.france24.com/media/display/c9054ee4-9200-11f1-a41b-005056bfb2b6/w:1024/p:16x9/0f50c696c9923e560fe69e6e75bd24ec4ea3b1ef.jpg"
+        "https://s.france24.com/media/display/a79611ba-92ca-11f1-898b-005056bfb2b6/w:1024/p:16x9/ES-20260807-200910-201051-CS.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1611/live/29966380-9240-11f1-b2ab-0dd01740f9f6.jpg",
+        "https://s.france24.com/media/display/69006746-9277-11f1-9d5b-005056bf30b7/w:1024/p:16x9/EN-20260807-170846-171045-CS.jpg"
       ],
       "estado": "verificado",
       "referencias": [
@@ -750,11 +758,11 @@
           "idioma": "es"
         },
         {
-          "id": "ev_73324feb76",
-          "titulo": "Un juez de Nuevo México obliga a Meta a pagar 567 millones por no proteger a menores en Facebook e Instagram",
-          "url": "http://es.euronews.com/2026/08/07/juez-nuevo-mexico-obliga-meta-pagar-567-millones-no-proteger-menores",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 07 Aug 2026 07:33:03 +0200",
+          "id": "ev_0902eec3b3",
+          "titulo": "Meta deberá financiar fondo para salud mental tras millonaria multa en EE. UU.",
+          "url": "https://www.france24.com/es/video/20260808-meta-deber%C3%A1-financiar-fondo-para-salud-mental-tras-millonaria-multa-en-ee-uu",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sat, 08 Aug 2026 01:48:23 GMT",
           "idioma": "es"
         },
         {
@@ -762,531 +770,604 @@
           "titulo": "Meta fined $567m in largest child safety ruling against social media giant",
           "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Fri, 07 Aug 2026 00:54:03 GMT",
+          "fecha": "Fri, 07 Aug 2026 09:22:03 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_25d8dd9eb2",
-          "titulo": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-          "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 07 Aug 2026 02:24:50 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a3bda63339",
-          "titulo": "Social media giant Meta ordered to pay $567 million in New Mexico child safety ruling",
-          "url": "https://www.france24.com/en/technology/20260807-meta-new-mexico-567-million-child-harm-public-nuisance",
+          "id": "ev_35c03dd95f",
+          "titulo": "Meta fined in child safety case",
+          "url": "https://www.france24.com/en/meta-fined-in-child-safety-case",
           "fuente": "France 24 English",
-          "fecha": "Fri, 07 Aug 2026 02:21:47 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b1c489d950",
-          "titulo": "New Mexico court orders Meta to pay $567m over harm to youths",
-          "url": "https://www.aljazeera.com/news/2026/8/7/new-mexico-court-orders-meta-to-pay-567m-over-harm-to-youths?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 07 Aug 2026 01:51:03 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3e1357ccdf",
-          "titulo": "Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5924581/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online",
-          "fuente": "NPR News",
-          "fecha": "Fri, 07 Aug 2026 01:26:31 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ecb8bff370",
-          "titulo": "Meta ordered to pay $567 million into abatement fund as remedy to child harms case in New Mexico",
-          "url": "https://www.cnbc.com/2026/08/06/meta-to-pay-into-567-million-fund-after-child-harms-case-new-mexico.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Fri, 07 Aug 2026 01:28:57 GMT",
+          "fecha": "Fri, 07 Aug 2026 15:53:27 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-07_0006",
-      "fecha": "2026-08-07",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-07_0011"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "UEFA mantiene el boicot al Mundial pese a las disculpas de Infantino",
-        "en": "UEFA maintains World Cup boycott despite Infantino's apology"
-      },
-      "sintesis": {
-        "es": "El presidente de la FIFA, Gianni Infantino, pidió disculpas por los errores cometidos tras el fallido plan de vender participaciones del Mundial a inversores privados, pero se mantiene en el cargo con el respaldo de la junta directiva. La UEFA rechazó la disculpa calificándola de insuficiente y confirmó que su boicot a las competiciones de la FIFA, incluido el Mundial, sigue vigente. La crisis de gobernanza es la mayor que enfrenta el organismo en años y pone en duda el futuro de Infantino, mientras se desconoce la postura oficial de la confederación africana.",
-        "en": "FIFA president Gianni Infantino apologized for 'errors' following an abandoned plan to sell World Cup investment stakes to private investors, but retained his position with board backing. UEFA dismissed the apology as insufficient and confirmed its boycott of FIFA competitions, including the World Cup, remains in effect. The governance crisis is FIFA's biggest in years, raising questions about Infantino's future while the African confederation's official stance remains unclear."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Gianni Infantino",
-        "FIFA",
-        "UEFA",
-        "Confederación Africana de Fútbol"
-      ],
-      "geo": {
-        "lat": 46.948,
-        "lon": 7.4474,
-        "region": "Zúrich, Suiza"
-      },
-      "impacto": 58,
-      "fuentes": [
-        "ev_b829cd8fb9",
-        "ev_97167a71b5",
-        "ev_1398ba3b79",
-        "ev_d7172328f7",
-        "ev_c319cab047",
-        "ev_90dbacba64",
-        "ev_4aa889f57c",
-        "ev_07f74f1617",
-        "ev_387b8f0387",
-        "ev_e9c9fd2e04"
-      ],
-      "cluster_id": "cl_030",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfdc/live/81bb7ec0-90cd-11f1-822b-5340fee140e1.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fcc/live/22b41d60-9195-11f1-9e9c-c71e84be4584.jpg",
-        "https://s.france24.com/media/display/fe0efc8a-8ff2-11f1-b6d4-005056a90284/w:1024/p:16x9/2026-07-28T162439Z-831412578-RC2C0IAXIZMY-RTRMADP-3-SOCCER-FIFA-STAKE.jpg",
-        "https://s.france24.com/media/display/4cb02b04-91b3-11f1-bf97-005056a90284/w:1024/p:16x9/UEFA-1.png"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_b829cd8fb9",
-          "titulo": "Infantino pide disculpas por \"los errores cometidos\", pero se mantiene como presidente de la FIFA",
-          "url": "https://www.bbc.com/mundo/articles/c4g6453k4g1o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 06 Aug 2026 00:46:01 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_97167a71b5",
-          "titulo": "La UEFA mantiene el boicot a eventos de la FIFA: la disculpa de Infantino no cambia nada",
-          "url": "http://es.euronews.com/2026/08/06/la-uefa-puede-mantener-el-boicot-a-eventos-de-la-fifa-la-disculpa-de-infantino-no-cambia-n",
-          "fuente": "Euronews Espanol",
-          "fecha": "Thu, 06 Aug 2026 18:52:50 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_1398ba3b79",
-          "titulo": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 07 Aug 2026 01:57:02 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d7172328f7",
-          "titulo": "FIFA closes ranks round Infantino amid mounting leadership crisis",
-          "url": "https://www.france24.com/en/europe/20260806-fifa-closes-ranks-round-infantino-amid-mounting-leadership-crisis",
-          "fuente": "France 24 English",
-          "fecha": "Thu, 06 Aug 2026 16:52:00 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c319cab047",
-          "titulo": "#UEFA maintains #WorldCup boycott despite #FIFA apology",
-          "url": "https://www.france24.com/en/video/20260806-uefa-maintains-worldcup-boycott-despite-fifa-apology-1",
-          "fuente": "France 24 English",
-          "fecha": "Thu, 06 Aug 2026 16:31:24 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_90dbacba64",
-          "titulo": "🔴 FIFA crisis: UEFA maintains its boycott of World Cups",
-          "url": "https://www.france24.com/en/sport/20260806-uefa-maintains-its-world-cups-boycott-following-fifa-crisis",
-          "fuente": "France 24 English",
-          "fecha": "Thu, 06 Aug 2026 14:55:18 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4aa889f57c",
-          "titulo": "UEFA maintains its World Cups boycott following FIFA crisis",
-          "url": "https://www.france24.com/en/sport/20260806-uefa-maintains-its-world-cups-boycott-following-fifa-crisis",
-          "fuente": "France 24 English",
-          "fecha": "Thu, 06 Aug 2026 14:53:32 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_07f74f1617",
-          "titulo": "UEFA may still boycott FIFA events as it says Infantino apology 'changes nothing'",
-          "url": "http://www.euronews.com/2026/08/06/uefa-may-still-boycott-fifa-events-as-it-says-infantino-apology-changes-nothing",
-          "fuente": "Euronews English",
-          "fecha": "Thu, 06 Aug 2026 18:07:04 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_387b8f0387",
-          "titulo": "Does Africa still back Infantino as Fifa president?",
-          "url": "https://www.bbc.co.uk/news/articles/c78g3glpl8wo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 06 Aug 2026 19:55:58 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e9c9fd2e04",
-          "titulo": "European nations say World Cup boycott is still on, keeping FIFA's Infantino in limbo",
-          "url": "https://www.npr.org/2026/08/06/nx-s1-5923408/uefa-fifa-world-cup-gianni-infantino",
-          "fuente": "NPR News",
-          "fecha": "Thu, 06 Aug 2026 13:11:42 -0400",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-07_0007",
-      "fecha": "2026-08-07",
-      "kardashev": "K1",
+      "id": "nd_2026-08-08_0006",
+      "fecha": "2026-08-08",
+      "kardashev": "K2",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "La FDA aprueba la primera vacuna de gripe basada en ARNm de Moderna, pese a objeciones de RFK Jr.",
-        "en": "FDA approves Moderna's first mRNA-based flu vaccine, despite RFK Jr's objections"
+        "es": "New platform speeds bacterial gene mapping for better biotech design",
+        "en": "New platform speeds bacterial gene mapping for better biotech design"
       },
       "sintesis": {
-        "es": "La FDA aprobó mFLUSIVA, la primera vacuna contra la gripe basada en tecnología de ARNm, desarrollada por Moderna y destinada a adultos de 50 años o más, a tiempo para la próxima temporada de gripe. La aprobación llega después de que el Secretario de Salud Robert F. Kennedy Jr. retirara 500 millones de dólares en fondos para el desarrollo de vacunas de ARNm el año anterior, medida criticada por la comunidad médica.",
-        "en": "The FDA approved mFLUSIVA, the first mRNA-based flu vaccine, developed by Moderna for adults aged 50 and older, in time for the upcoming flu season. The approval comes after Health Secretary Robert F. Kennedy Jr. pulled $500 million in funding for mRNA vaccine development the previous year, a move criticized by the medical community."
+        "es": "Scientists at the Department of Energy's Oak Ridge National Laboratory have created a platform that pinpoints genetic triggers that turn microbes into efficient factories for new chemicals and materials. The method enables rapid, precise reprogramming of bacteria as biotechnology tools, supporting domestic production of valuable products and recovery of critical minerals and materials to enhance the nation's supply chains and global competitiveness.",
+        "en": "Scientists at the Department of Energy's Oak Ridge National Laboratory have created a platform that pinpoints genetic triggers that turn microbes into efficient factories for new chemicals and materials. The method enables rapid, precise reprogramming of bacteria as biotechnology tools, supporting domestic production of valuable products and recovery of critical minerals and materials to enhance the nation's supply chains and global competitiveness."
       },
-      "categoria": "salud",
+      "categoria": "ciencia",
       "actores": [
-        "Moderna",
-        "FDA",
-        "Robert F. Kennedy Jr.",
-        "U.S. Department of Health"
+        "New",
+        "Quake"
       ],
       "geo": {
-        "lat": 38.9072,
-        "lon": -77.0369,
-        "region": "Estados Unidos"
+        "lat": 41.9,
+        "lon": 12.6,
+        "region": "Europa"
       },
-      "impacto": 58,
+      "impacto": 66,
       "fuentes": [
-        "ev_bbbc69a989",
-        "ev_1ea0f3cdd9",
-        "ev_742ad85e6a"
+        "ev_a65574ac57",
+        "ev_ecb75fa864",
+        "ev_362c0b581c",
+        "ev_43912f2d80",
+        "ev_ccfb79aa54",
+        "ev_db9aabb7f1",
+        "ev_b409b38628",
+        "ev_598873b59b"
       ],
-      "cluster_id": "cl_228",
+      "cluster_id": "cl_350",
       "imagenes": [
-        "https://static.independent.co.uk/2026/08/06/14/2288384547..?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-        "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg"
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-ai-model-reveals.jpg",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/new-shape-shifting-arc.jpg",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/new-platform-speeds-ba.jpg",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/08/QUAKE_DLC_Xbox_TitledHero_1920x1080-02-JPG-9d514999ee7900fc9cfe-1600x900-1-1152x648-1786124877.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_bbbc69a989",
-          "titulo": "A new flu vaccine geared to older people is coming soon",
-          "url": "https://www.npr.org/2026/08/06/nx-s1-5923342/moderna-mrna-flu-vaccine",
-          "fuente": "NPR News",
-          "fecha": "Thu, 06 Aug 2026 13:06:41 -0400",
+          "id": "ev_a65574ac57",
+          "titulo": "New smart highway technology a fix for renewable energy traffic boom",
+          "url": "https://www.abc.net.au/news/2026-08-08/smart-highway-tech-trialled-in-upper-hunter/106994596",
+          "fuente": "ABC News Australia",
+          "fecha": "Sat, 08 Aug 2026 02:21:25 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_1ea0f3cdd9",
-          "titulo": "First mRNA-based flu shot approved in US - despite RFK Jr’s objections to the science",
-          "url": "https://www.independent.co.uk/news/world/americas/mrna-flu-vaccine-rfk-jr-moderna-b3028636.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 06 Aug 2026 16:12:41 GMT",
+          "id": "ev_ecb75fa864",
+          "titulo": "New autism therapy shows surprising benefits even in adult mice",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Fri, 07 Aug 2026 08:38:30 EDT",
           "idioma": "en"
         },
         {
-          "id": "ev_742ad85e6a",
-          "titulo": "Moderna's mRNA flu shot earns FDA approval after rollercoaster review",
-          "url": "https://arstechnica.com/health/2026/08/modernas-mrna-flu-shot-earns-fda-approval-after-rollercoaster-review/",
+          "id": "ev_362c0b581c",
+          "titulo": "New process turns plastic waste into hydrogen fuel while trapping the carbon",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051521.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Fri, 31 Jul 2026 08:46:18 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_43912f2d80",
+          "titulo": "New microwave frying method could make french fries much healthier",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Wed, 29 Jul 2026 06:15:04 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ccfb79aa54",
+          "titulo": "New AI model reveals the volume of the world's glaciers",
+          "url": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html",
+          "fuente": "Phys.org",
+          "fecha": "Fri, 07 Aug 2026 18:40:01 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_db9aabb7f1",
+          "titulo": "New 'shape-shifting' architecture brings versatility to photonic quantum computing",
+          "url": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
+          "fuente": "Phys.org",
+          "fecha": "Fri, 07 Aug 2026 17:00:01 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b409b38628",
+          "titulo": "New platform speeds bacterial gene mapping for better biotech design",
+          "url": "https://phys.org/news/2026-08-platform-bacterial-gene-biotech.html",
+          "fuente": "Phys.org",
+          "fecha": "Fri, 07 Aug 2026 15:00:01 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_598873b59b",
+          "titulo": "New official 30th anniversary Quake mission pack adds new maps and mechanics",
+          "url": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
           "fuente": "Ars Technica",
-          "fecha": "Thu, 06 Aug 2026 16:31:06 +0000",
+          "fecha": "Fri, 07 Aug 2026 18:00:02 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-07_0008",
-      "fecha": "2026-08-07",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "El Real Madrid hace oficial a Yan Diomande, el fichaje más caro de su historia, por 125 millones de euros",
-        "en": "Yan Diomandé makes history with Real Madrid move"
-      },
-      "sintesis": {
-        "es": "El Real Madrid rompe su récord de inversión con la incorporación de Yan Diomande por 125 millones de euros. El marfileño supera a Jude Bellingham y entra en el selecto grupo de los traspasos más caros de todos los tiempos.",
-        "en": "Real Madrid have officially announced the signing of Yan Diomandé from RB Leipzig on a deal running until 2033. The transfer, worth €125 million plus €15 million in add-ons, becomes the most expensive in the Spanish club’s history. At just 19 years old, the Ivory Coast international also becomes the most expensive African player of all time."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Real Madrid",
-        "Yan Diomande",
-        "Yan"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 46,
-      "fuentes": [
-        "ev_d4aff8ce33",
-        "ev_f0be2f5684"
-      ],
-      "cluster_id": "cl_094",
-      "imagenes": [
-        "https://s.france24.com/media/display/9f7811f6-91fb-11f1-8966-005056bf30b7/w:1024/p:16x9/diomand%C3%A9.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_d4aff8ce33",
-          "titulo": "El Real Madrid hace oficial a Yan Diomande, el fichaje más caro de su historia, por 125 millones de euros",
-          "url": "http://es.euronews.com/2026/08/06/real-madrid-hace-oficial-a-yan-diomande-el-fichaje-mas-caro-de-su-historia-por-125-mill",
-          "fuente": "Euronews Espanol",
-          "fecha": "Thu, 06 Aug 2026 17:51:45 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f0be2f5684",
-          "titulo": "Yan Diomandé makes history with Real Madrid move",
-          "url": "https://www.france24.com/en/tv-shows/sports/20260807-yan-diomand%C3%A9-makes-history-with-real-madrid-move",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 07 Aug 2026 05:25:50 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-07_0009",
-      "fecha": "2026-08-07",
+      "id": "nd_2026-08-08_0007",
+      "fecha": "2026-08-08",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "El reclutamiento de menores por grupos armados explota en Colombia",
-        "en": "El reclutamiento de menores por grupos armados explota en Colombia"
+        "es": "It looks like a SpaceX rocket did slam into the moon (as predicted)",
+        "en": "It looks like a SpaceX rocket did slam into the moon (as predicted)"
       },
       "sintesis": {
-        "es": "El reclutamiento en Colombia es un flagelo latente que sufren muchos menores de edad. En 2025 se registraron 386 casos de niños, niñas y adolescentes. Una violación a los derechos humanos que va en aumento especialmente en la región del Cauca, en el suroccidente colombiano, donde la población indígena es la más afectada.",
-        "en": "El reclutamiento en Colombia es un flagelo latente que sufren muchos menores de edad. En 2025 se registraron 386 casos de niños, niñas y adolescentes. Una violación a los derechos humanos que va en aumento especialmente en la región del Cauca, en el suroccidente colombiano, donde la población indígena es la más afectada."
+        "es": "A SpaceX rocket that launched a pair of lunar landers slammed into the moon as predicted on Wednesday, scientists reported, after drifting off course for the past year.",
+        "en": "A SpaceX rocket that launched a pair of lunar landers slammed into the moon as predicted on Wednesday, scientists reported, after drifting off course for the past year."
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "South Korea",
+        "SpaceX",
+        "Moon",
+        "Record"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 127.8,
+        "region": "Asia Oriental"
+      },
+      "impacto": 53,
+      "fuentes": [
+        "ev_92a985f641",
+        "ev_01c671a881",
+        "ev_85d965dfe2"
+      ],
+      "cluster_id": "cl_161",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f0/live/b4489d60-91b2-11f1-a7ab-8b30adf0800a.jpg",
+        "https://static01.nyt.com/images/2026/08/05/multimedia/05int-skorea-baseball-heat-hftv/05int-skorea-baseball-heat-hftv-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_92a985f641",
+          "titulo": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+          "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Thu, 06 Aug 2026 17:38:51 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_01c671a881",
+          "titulo": "It looks like a SpaceX rocket did slam into the moon (as predicted)",
+          "url": "https://www.cbc.ca/news/science/spacex-moon-crash-9.7297190?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Wed, 05 Aug 2026 14:28:51 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_85d965dfe2",
+          "titulo": "Record-Breaking Heat Wave in South Korea Leads to Canceled Baseball Games",
+          "url": "https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html",
+          "fuente": "NYT World",
+          "fecha": "Wed, 05 Aug 2026 21:27:02 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-08_0008",
+      "fecha": "2026-08-08",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Pope Leo to meet clergy abuse victims during upcoming France visit",
+        "en": "Pope Leo to meet clergy abuse victims during upcoming France visit"
+      },
+      "sintesis": {
+        "es": "Pope Leo XIV will meet with victims of sexual abuse within the Catholic Church during his planned trip to France from September 25 to 28, the Vatican said Friday. The Holy See did not immediately provide details about the meeting, which comes after the pontiff vowed to further efforts within the Church to address its sex abuse scandals.",
+        "en": "Pope Leo XIV will meet with victims of sexual abuse within the Catholic Church during his planned trip to France from September 25 to 28, the Vatican said Friday. The Holy See did not immediately provide details about the meeting, which comes after the pontiff vowed to further efforts within the Church to address its sex abuse scandals."
       },
       "categoria": "sociedad",
       "actores": [
-        "Colombia",
-        "Petro"
+        "Pope Leo",
+        "France",
+        "American",
+        "Will Visit"
       ],
       "geo": {
-        "lat": 4.6,
-        "lon": -74.3,
+        "lat": -38.4,
+        "lon": -63.6,
         "region": "Sudamerica"
       },
-      "impacto": 45,
+      "impacto": 53,
       "fuentes": [
-        "ev_713570d858",
-        "ev_3ac408719b",
-        "ev_523a6cbd4c"
+        "ev_db0b2e8389",
+        "ev_35183b8f21",
+        "ev_0ce8c00447"
       ],
-      "cluster_id": "cl_019",
+      "cluster_id": "cl_216",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a3e4/live/baebbc60-8b72-11f1-9c48-75e854e5573d.jpg",
-        "https://s.rfi.fr/media/display/507fb73e-b24a-11f0-a406-005056bfb2b6/w:1024/p:16x9/AP25206810301985.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/05/17859399544153.jpg"
+        "https://s.france24.com/media/display/b239f5d4-9250-11f1-aafc-005056a97e36/w:1024/p:16x9/508d27068ab8555115da0f9715155fcdcb759989.jpg",
+        "https://static.independent.co.uk/2026/08/07/17/59/GettyImages-2215111592.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+        "https://static01.nyt.com/images/2026/08/05/multimedia/05int-vatican-peru-fcwq/05int-vatican-peru-fcwq-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_713570d858",
-          "titulo": "3 maneras en las que Petro marcó un antes y un después en Colombia (y cuál será su rol tras dejar la presidencia)",
-          "url": "https://www.bbc.com/mundo/articles/c62e8z37p3zo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Mon, 03 Aug 2026 11:08:33 GMT",
-          "idioma": "es"
+          "id": "ev_db0b2e8389",
+          "titulo": "Pope Leo to meet clergy abuse victims during upcoming France visit",
+          "url": "https://www.france24.com/en/france/20260807-pope-leo-meet-clergy-abuse-victims-during-upcoming-france-visit",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 07 Aug 2026 12:50:14 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_3ac408719b",
-          "titulo": "El reclutamiento de menores por grupos armados explota en Colombia",
-          "url": "https://www.rfi.fr/es/programas/grandes-reportajes-de-rfi/20260804-el-reclutamiento-de-menores-por-grupos-armados-explota-en-colombia",
-          "fuente": "RFI Espanol",
-          "fecha": "Tue, 04 Aug 2026 15:43:18 GMT",
-          "idioma": "es"
+          "id": "ev_35183b8f21",
+          "titulo": "American-born Pope Leo will meet with clergy abuse survivors during trip to France",
+          "url": "https://www.independent.co.uk/news/world/europe/pope-leo-clergy-abuse-survivors-unesco-bishops-france-b3029542.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 07 Aug 2026 17:54:46 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_523a6cbd4c",
-          "titulo": "El \"sombrío legado\" que deja Petro en Colombia",
-          "url": "https://www.elmundo.es/internacional/2026/08/06/6a7340eafc6c837f028b4585.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 06 Aug 2026 01:49:24 +0200",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-08-07_0010",
-      "fecha": "2026-08-07",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-07_0000"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Meta lanza la herramienta Muse Code en plena oleada de hackeos de IA",
-        "en": "Meta launches Muse Code tool amid AI hacking revelations"
-      },
-      "sintesis": {
-        "es": "El anuncio de Meta llega poco después de que OpenAI y Anthropic informaran de que sus modelos de IA vulneraron a otras empresas durante las pruebas.",
-        "en": "Meta’s announcement comes shortly after OpenAI and Anthropic also reported that their AI models had breached other companies during testing."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Meta",
-        "Muse Code"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_aedd1a4d27",
-        "ev_b5e57e2a3f"
-      ],
-      "cluster_id": "cl_099",
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_aedd1a4d27",
-          "titulo": "Meta lanza la herramienta Muse Code en plena oleada de hackeos de IA",
-          "url": "http://es.euronews.com/next/2026/08/06/meta-lanza-la-herramienta-muse-code-en-plena-oleada-de-hackeos-de-ia",
-          "fuente": "Euronews Espanol",
-          "fecha": "Thu, 06 Aug 2026 15:02:23 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_b5e57e2a3f",
-          "titulo": "Meta launches Muse Code tool amid AI hacking revelations",
-          "url": "http://www.euronews.com/next/2026/08/06/meta-launches-muse-code-tool-amid-ai-hacking-revelations",
-          "fuente": "Euronews English",
-          "fecha": "Thu, 06 Aug 2026 15:00:04 +0200",
+          "id": "ev_0ce8c00447",
+          "titulo": "Pope Leo Will Visit Peru, Where He Lived for Years, in November",
+          "url": "https://www.nytimes.com/2026/08/05/world/americas/pope-leo-peru-uruguay-argentina.html",
+          "fuente": "NYT World",
+          "fecha": "Wed, 05 Aug 2026 12:50:30 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-07_0011",
-      "fecha": "2026-08-07",
+      "id": "nd_2026-08-08_0009",
+      "fecha": "2026-08-08",
       "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-08-07_0006"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Tiroteo en escuela de Tailandia deja varios muertos",
-        "en": "School shooting in Thailand leaves several dead"
-      },
-      "sintesis": {
-        "es": "Un estudiante abrió fuego en una escuela secundaria al noroeste de Bangkok, matando a un profesor antes de suicidarse, según reportes iniciales. Informes posteriores elevaron el número de víctimas a siete muertos, incluyendo profesores y estudiantes, además de varios heridos.",
-        "en": "A student opened fire at a high school northwest of Bangkok, killing a teacher before taking his own life, according to initial reports. Later reports raised the death toll to seven, including teachers and students, with several others injured."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Estudiante tirador",
-        "Autoridades tailandesas",
-        "Escuela secundaria en Tailandia"
-      ],
-      "geo": {
-        "lat": 13.7563,
-        "lon": 100.5018,
-        "region": "Tailandia, cerca de Bangkok"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_82d80a00b9",
-        "ev_dab4e3bc7e",
-        "ev_b13b32a507"
-      ],
-      "cluster_id": "cl_212",
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_82d80a00b9",
-          "titulo": "One killed, four injured in Thailand school shooting, officials say",
-          "url": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 07 Aug 2026 04:23:52 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_dab4e3bc7e",
-          "titulo": "Student shoots multiple people at a high school in Thailand, authorities say",
-          "url": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
-          "fuente": "NPR News",
-          "fecha": "Fri, 07 Aug 2026 01:34:15 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b13b32a507",
-          "titulo": "Fatalities confirmed after school shooting in Thailand",
-          "url": "https://www.abc.net.au/news/2026-08-07/thailand-bangkok-school-shooting/107009728",
-          "fuente": "ABC News Australia",
-          "fecha": "Fri, 07 Aug 2026 04:14:31 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-07_0012",
-      "fecha": "2026-08-07",
-      "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Una mujer detenida tras el apuñalamiento de cuatro personas cerca de Covent Garden",
-        "en": "Covent Garden victims stabbed in the back with pair of scissors, court hears"
+        "es": "Ucrania vuelve a pedir ayuda a Elon Musk",
+        "en": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government"
       },
       "sintesis": {
-        "es": "El incidentes está \"relacionado con la salud mental\", según la Policía. Las víctimas son cuatro hombres de entre 34 y 52 años Leer",
-        "en": "Stella Gollovena, 47, has been charged with four counts of wounding with intent to cause grievous bodily harm A woman has appeared in court accused of stabbing four men in the back with a pair of scissors in one of London’s busiest tourist districts. Stella Gollovena, 47, is accused of attacking Patrick De Barr, Thomas Harding, Adrian Lovett and Mantas Jankus during the attack in Covent Garden on Wednesday lunchtime. Continue reading..."
+        "es": "El creador de Starlink no se compromete a apoyar a Kiev en su esfuerzo por destruir las lanzaderas de misiles de Rusia Leer",
+        "en": "The nonpartisan watchdog found Elon Musk's DOGE didn't cut as much federal spending as it claimed and that it fell far short of its promised $2 trillion."
       },
-      "categoria": "salud",
+      "categoria": "innovacion",
       "actores": [
-        "Covent Garden"
+        "Elon Musk",
+        "Ucrania",
+        "GAO",
+        "DOGE"
       ],
       "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
       },
-      "impacto": 44,
+      "impacto": 47,
       "fuentes": [
-        "ev_b4b1c87b3f",
-        "ev_91c9f6d272"
+        "ev_6558ded563",
+        "ev_f107e3b528"
       ],
       "cluster_id": "cl_126",
       "imagenes": [
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/05/17859384673241.jpg",
-        "https://i.guim.co.uk/img/media/8c18a5efc816acbfdadbff12a2a98d90a27980ac/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=049acc35f834a93693a4601f4bfc4432"
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/07/17861180569134.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_b4b1c87b3f",
-          "titulo": "Una mujer detenida tras el apuñalamiento de cuatro personas cerca de Covent Garden",
-          "url": "https://www.elmundo.es/internacional/2026/08/05/6a73424de4d4d8a5088b458d.html",
+          "id": "ev_6558ded563",
+          "titulo": "Ucrania vuelve a pedir ayuda a Elon Musk",
+          "url": "https://www.elmundo.es/internacional/2026/08/07/6a75fe3ffc6c83843b8b458a.html",
           "fuente": "El Mundo Internacional",
-          "fecha": "Wed, 05 Aug 2026 16:20:03 +0200",
+          "fecha": "Fri, 07 Aug 2026 17:58:06 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_91c9f6d272",
-          "titulo": "Covent Garden victims stabbed in the back with pair of scissors, court hears",
-          "url": "https://www.theguardian.com/uk-news/2026/aug/06/covent-garden-victims-stabbed-in-the-back-with-pair-of-scissors-court-hears",
-          "fuente": "The Guardian World",
-          "fecha": "Thu, 06 Aug 2026 18:06:29 GMT",
+          "id": "ev_f107e3b528",
+          "titulo": "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
+          "url": "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Thu, 06 Aug 2026 22:19:52 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-07_0013",
-      "fecha": "2026-08-07",
-      "kardashev": "K1",
+      "id": "nd_2026-08-08_0010",
+      "fecha": "2026-08-08",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-08-08_0013"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Google Workspace Promo Codes: 14% Off for August 2026",
+        "en": "Google Workspace Promo Codes: 14% Off for August 2026"
+      },
+      "sintesis": {
+        "es": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+        "en": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "August",
+        "Codes",
+        "Off",
+        "Promo Codes"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 47,
+      "fuentes": [
+        "ev_608f1bf5c1",
+        "ev_665c73053d",
+        "ev_3fa95e8901",
+        "ev_b8fcef0a0f",
+        "ev_fa48b44f7c",
+        "ev_1cc901b6d9",
+        "ev_e48c8134b0",
+        "ev_0ec1094382",
+        "ev_c1334a40b4",
+        "ev_a6376072dc",
+        "ev_686334dd4d",
+        "ev_c58ed7065c",
+        "ev_59d7802f41",
+        "ev_9808000bdc",
+        "ev_f73d716acb",
+        "ev_dca2bf5b51",
+        "ev_f3c5c6edb0",
+        "ev_df6e725310",
+        "ev_5730a652b7",
+        "ev_8cb854e935",
+        "ev_5c9298ea9a"
+      ],
+      "cluster_id": "cl_474",
+      "imagenes": [
+        "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+        "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
+        "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+        "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_608f1bf5c1",
+          "titulo": "Ray-Ban Promo Codes: Save 50% in August 2026",
+          "url": "https://www.wired.com/story/ray-ban-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 07 Aug 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_665c73053d",
+          "titulo": "Google Workspace Promo Codes: 14% Off for August 2026",
+          "url": "https://www.wired.com/story/google-workspace-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 07 Aug 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3fa95e8901",
+          "titulo": "Hotels.com Coupon Codes for August 2026",
+          "url": "https://www.wired.com/story/hotels-com-coupon/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 07 Aug 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b8fcef0a0f",
+          "titulo": "Uber Eats Promo Codes: $15 Off│August 2026",
+          "url": "https://www.wired.com/story/uber-eats-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 07 Aug 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_fa48b44f7c",
+          "titulo": "LG Promo Codes and Coupons for August 2026",
+          "url": "https://www.wired.com/story/lg-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 07 Aug 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1cc901b6d9",
+          "titulo": "50% Off DoorDash Promo Code | August 2026",
+          "url": "https://www.wired.com/story/doordash-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 07 Aug 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e48c8134b0",
+          "titulo": "Nike Promo Codes and Discounts: 30% for August 2026",
+          "url": "https://www.wired.com/story/nike-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 07 Aug 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0ec1094382",
+          "titulo": "B&H Photo Promo Codes and Deals This August 2026",
+          "url": "https://www.wired.com/story/bh-photo-coupon/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 07 Aug 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c1334a40b4",
+          "titulo": "Surfshark Promo Codes: 87% Off | August 2026",
+          "url": "https://www.wired.com/story/surfshark-coupon/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 07 Aug 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a6376072dc",
+          "titulo": "Ulta Promo Codes: Up to 20% Off in August 2026",
+          "url": "https://www.wired.com/story/ulta-coupon/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 07 Aug 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_686334dd4d",
+          "titulo": "HP Coupon Codes and Deals August 2026",
+          "url": "https://www.wired.com/story/hp-coupon-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 07 Aug 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c58ed7065c",
+          "titulo": "Newegg Promo Codes and Coupons for August 2026",
+          "url": "https://www.wired.com/story/newegg-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 07 Aug 2026 05:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-08_0011",
+      "fecha": "2026-08-08",
+      "kardashev": "K2",
       "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "German politicians praise bus driver's risky move with explosive drone at airport",
+        "en": "German politicians praise bus driver's risky move with explosive drone at airport"
+      },
+      "sintesis": {
+        "es": "Chancellor Friedrich Merz held a call on Friday to discuss the incident earlier this week at a German airport, when a drone laden with explosives crashed but did not detonate. Federal prosecutors have launched a counterterrorism probe into the incident at Leipzig/Halle Airport.",
+        "en": "Chancellor Friedrich Merz held a call on Friday to discuss the incident earlier this week at a German airport, when a drone laden with explosives crashed but did not detonate. Federal prosecutors have launched a counterterrorism probe into the incident at Leipzig/Halle Airport."
+      },
+      "categoria": "innovacion",
+      "actores": [
+        "Trump",
+        "German"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_a5ff2bbe40",
+        "ev_7bbc8e79e8",
+        "ev_83b9f77bec"
+      ],
+      "cluster_id": "cl_157",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288322952-1024x648.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a5ff2bbe40",
+          "titulo": "Trump administration to pay German firm $1.2bn to halt US wind projects",
+          "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 07 Aug 2026 13:32:41 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_7bbc8e79e8",
+          "titulo": "Trump is losing his war on wind power",
+          "url": "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+          "fuente": "Ars Technica",
+          "fecha": "Fri, 07 Aug 2026 12:58:04 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_83b9f77bec",
+          "titulo": "German politicians praise bus driver's risky move with explosive drone at airport",
+          "url": "https://www.cbc.ca/news/world/german-leipzig-halle-airport-drone-incident-9.7299265?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 07 Aug 2026 10:43:51 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-08_0012",
+      "fecha": "2026-08-08",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-08-08_0000",
+        "nd_2026-08-08_0001",
+        "nd_2026-08-08_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
+        "en": "Doge overstated claims to have saved Americans $110bn, watchdog finds"
+      },
+      "sintesis": {
+        "es": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
+        "en": "A review of the body formerly charged with reducing government spending has found several issues with its calculations."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Americans",
+        "Doge",
+        "DOGE"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_5c7268cf19",
+        "ev_781909b77b",
+        "ev_9d24601ac4"
+      ],
+      "cluster_id": "cl_163",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ce/live/045a8c10-91e4-11f1-a8d5-1d15816efb50.jpg",
+        "https://cdn.arstechnica.net/wp-content/uploads/2025/03/musk-doge-shirt-1152x648-1743095864.jpg",
+        "https://images.mktw.net/im-96661868"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5c7268cf19",
+          "titulo": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
+          "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Thu, 06 Aug 2026 23:55:35 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_781909b77b",
+          "titulo": "DOGE's wild, unverifiable savings claims discredited in US government report",
+          "url": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
+          "fuente": "Ars Technica",
+          "fecha": "Fri, 07 Aug 2026 17:51:05 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9d24601ac4",
+          "titulo": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes",
+          "url": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Fri, 07 Aug 2026 20:04:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-08_0013",
+      "fecha": "2026-08-08",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-08-08_0010"
+      ]
     }
   ]
 }
