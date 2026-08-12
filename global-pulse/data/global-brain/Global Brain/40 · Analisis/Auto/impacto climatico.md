@@ -3,7 +3,7 @@ titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
 actualizado: 2026-08-12
-nodos: 19
+nodos: 29
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
@@ -13,28 +13,28 @@ origen: global-pulse
 > Actualizado: 2026-08-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-19 nodos registrados en el periodo. Lo mas reciente: Incendios forestales devastadores en Spokane, Washington, obligan a evacuar a 60,000 personas.
+29 nodos registrados en el periodo. Lo mas reciente: Centenares de vuelos cancelados por la tormenta tropical Dolphin en el este de China.
 
 ## Trend summary (EN)
-19 nodes recorded in the period. Most recent: Devastating wildfires in Spokane, Washington force evacuation of 60,000 people.
+29 nodes recorded in the period. Most recent: Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai.
 
 > [!note] Estado actual
-> Incendios forestales devastadores en Spokane, Washington, obligan a evacuar a 60,000 personas
+> Centenares de vuelos cancelados por la tormenta tropical Dolphin en el este de China
 
-## Nodos recientes (19 en la ventana)
+## Nodos recientes (29 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-11 | 95 | K1 | Centenares de vuelos cancelados por la tormenta tropical Dolphin |
+| 2026-08-11 | 45 | K1 | 'We've had a lot of close calls': Canada wildfire evacuees wonde |
+| 2026-08-10 | 62 | K1 | Tifón Dolphin toca tierra en China tras azotar Japón, más de un  |
+| 2026-08-10 | 62 | K1 | Incendio Bald Range fuera de control provoca estado de emergenci |
+| 2026-08-10 | 58 | K1 | Incendios forestales fuerzan estado de emergencia en Canadá y af |
+| 2026-08-10 | 55 | K1 | Incendios forestales en España obligan a evacuar a cientos de pe |
+| 2026-08-09 | 79 | K1 | Bald Range Wildfire Forces Evacuation of 18,000 in British Colum |
+| 2026-08-09 | 66 | K0 | How Turkey uses drones to tackle fires |
+| 2026-08-07 | 72 | K1 | El Niño intensifica el calentamiento oceánico y agrava la crisis |
+| 2026-08-05 | 83 | K1 | WHO and the Netherlands renew their partnership on climate chang |
+| 2026-08-05 | 53 | K1 | EU deployed its biggest wildfire response. Is it what Europe nee |
 | 2026-08-04 | 62 | K1 | Incendios forestales devastadores en Spokane, Washington, obliga |
-| 2026-08-03 | 62 | K1 | Hungría apaga su única planta nuclear ante niveles récord bajos  |
-| 2026-08-03 | 58 | K1 | Incendios forestales devastan Spokane, Washington, destruyendo c |
-| 2026-08-02 | 48 | K1 | Europa: incendios forestales obligan a nuevas evacuaciones en Fr |
-| 2026-07-31 | 75 | K1 | Estudio confirma que el cambio climático intensificó los incendi |
-| 2026-07-30 | 72 | K1 | Ola de calor agrava incendios históricos en Francia y España, co |
-| 2026-07-30 | 70 | K2 | Francia ordena la expulsión de la exjefa de RT France por difund |
-| 2026-07-30 | 57 | K1 | WHO urges scale up of newborn screening to improve early detecti |
-| 2026-07-29 | 83 | K1 | ​France and Spain race to control wildfires as fresh heatwave hi |
-| 2026-07-28 | 78 | K1 | Incendios forestales masivos en España y Francia provocan evacua |
-| 2026-07-28 | 62 | K1 | Incendios forestales masivos cerca de Burdeos obligan a evacuar  |
-| 2026-07-27 | 78 | K1 | Los campamentos de verano donde China moldea a la 'generación IA |
 
 [[Global Brain — Inicio|← Inicio]]
