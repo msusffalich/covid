@@ -1,8 +1,9 @@
 ---
 titulo: "Cuadro de tendencias — Gaza y Oriente Medio"
 tipo: analisis
-periodo: 2026-07-19 / 2026-08-04
-nodos_analizados: 11
+periodo: 2026-07-19 / 2026-08-12
+nodos_analizados: 16
+actualizado: 2026-08-12
 fuente: Global Pulse / Global Brain
 categoria: geopolitica
 kardashev: K1
@@ -10,9 +11,11 @@ tags: [analisis, gaza, israel, hamas, oriente-medio, tendencias]
 ---
 # Cuadro de tendencias — Gaza y Oriente Medio
 
-> [!info] Basado en **11 nodos de impacto** con foco en el Levante (Israel-Hamás, Gaza, diplomacia regional), verificados por Global Pulse entre el **19 de julio** y el **4 de agosto de 2026**. Hilo **entrelazado** con el conflicto Irán–EE.UU. pero con dinámica propia: crisis humanitaria → arquitectura diplomática → acuerdo de desarme frágil.
+> [!info] Basado en **11 nodos de impacto** con foco en el Levante (Israel-Hamás, Gaza, diplomacia regional), verificados por Global Pulse entre el **19 de julio** y el **12 de agosto de 2026**. Hilo **entrelazado** con el conflicto Irán–EE.UU. pero con dinámica propia: crisis humanitaria → arquitectura diplomática → acuerdo de desarme → **rechazo israelí**.
 
-## 1. Arco del periodo (4 fases)
+> **Actualizado el 12 de agosto**: la ventana anterior cerraba el 4 de agosto con «acuerdo sobre el papel, guerra sobre el terreno». Los ocho días añadidos resuelven la ambigüedad, y no en la dirección esperada: el acuerdo no se cayó por Hamás.
+
+## 1. Arco del periodo (5 fases)
 
 ```mermaid
 flowchart LR
@@ -20,11 +23,13 @@ flowchart LR
     B["<b>DIPLOMACIA REGIONAL</b><br/>24-28 jul<br/>cumbre Netanyahu-Trump"]:::dip
     C["<b>ACUERDO DE DESARME</b><br/>31 jul-2 ago<br/>Hamás acepta"]:::acu
     D["<b>ACUERDO FRÁGIL</b><br/>1-4 ago<br/>Israel sigue atacando"]:::fra
-    A --> B --> C --> D
+    E["<b>RECHAZO ISRAELÍ</b><br/>6-12 ago<br/>Netanyahu dice no"]:::rec
+    A --> B --> C --> D --> E
     classDef hum fill:#C75FA8,color:#fff,stroke:none
     classDef dip fill:#1FA8A0,color:#fff,stroke:none
     classDef acu fill:#3FA65C,color:#fff,stroke:none
     classDef fra fill:#E4A11B,color:#111,stroke:none
+    classDef rec fill:#B3231A,color:#fff,stroke:none
 ```
 
 ## 2. Tabla cronológica de hitos
@@ -42,6 +47,10 @@ flowchart LR
 | 2 ago | 95 | K1 | Israel guarda **silencio** sobre el acuerdo anunciado por Trump y aprobado por Hamás |
 | 3 ago | 77 | K1 | Arabia Saudita anuncia **coalición de ~14 países** para asegurar el **Mar Rojo** (Bab al Mandeb) |
 | 4 ago | 78 | K2 | Israel **intensifica ataques** en Gaza pese al desarme; crecen tensiones con la "Junta de Paz" |
+| 5 ago | 61 | K0 | **Funeral masivo** en Gaza: 112 cuerpos recuperados de los escombros dos años después, 40 de ellos niños |
+| 6 ago | 78 | K1 | **Netanyahu rechaza el plan de EE.UU.**: el ejército no se retirará hasta el desarme completo; Israel construye **barreras internas** en Gaza |
+| 11 ago | 95 | K1 | Netanyahu formaliza el **rechazo** a la hoja de ruta estadounidense y se distancia de Trump, **con las legislativas de octubre en el horizonte** |
+| 12 ago | 94 | K1 | **UNICEF: 300 niños muertos en los 300 días** desde el anuncio del alto el fuego |
 
 ## 3. Indicadores y ejes de tendencia
 
@@ -52,6 +61,8 @@ flowchart LR
 | Postura de Israel | Tropas en zonas de seguridad (Líbano/Siria/Gaza) | ▬ inflexible | Sigue bombardeando; choca con Trump |
 | Actores mediadores | — | ▲ EE.UU., Egipto, Francia, Arabia Saudita | Arquitectura multi-actor |
 | Dimensión marítima | — | ▲ amenaza hutí en el Mar Rojo | Coalición saudí de 14 países |
+| Coste infantil | — | ▬ sostenido bajo el alto el fuego | **300 niños en 300 días** (UNICEF, 12 ago) |
+| Quién bloquea | ambigüedad | ▲ se despeja | **Israel, en solitario**: Hamás aceptó, EE.UU. propuso |
 
 ## 4. Sub-tendencias detectadas
 
@@ -60,10 +71,19 @@ flowchart LR
 - **Fricción Trump-Netanyahu:** de aliados a tensión abierta — "la paciencia de Trump con Netanyahu se agota"; Israel desafía a la propia Junta de Paz de Washington. Eje relacional a vigilar.
 - **Regionalización marítima:** el conflicto se proyecta al **Mar Rojo / Bab al Mandeb** con la amenaza hutí, provocando una coalición naval saudí — el mismo patrón de expansión visto en el frente iraní.
 - **Crisis humanitaria estructural:** epidemias (varicela), 1,7 M de desplazados en 1.600 campamentos insalubres y ataques a civiles persisten **por debajo** del ruido diplomático de alto nivel.
+- **NUEVO · El bloqueo no vino del enemigo, vino del aliado.** Es el hallazgo central de esta ventana y conviene decirlo sin rodeos: **Hamás aceptó** desarmarse, **EE.UU. propuso** el marco, **Egipto y Francia** mediaron — y quien rechazó fue **Israel**, primero con silencio (2 ago), luego con hechos (6 ago) y por fin de forma explícita (11 ago). La pregunta de julio era si Hamás cumpliría; la respuesta de agosto es que nunca llegó a ponerse a prueba.
+- **NUEVO · El calendario electoral israelí como variable geopolítica.** El nodo del 11 de agosto lo dice literalmente: Netanyahu se distancia de Trump «intentando complacer a su base electoral antes de las delicadas elecciones legislativas de octubre». La política interna israelí es hoy el principal obstáculo del proceso, lo que convierte **octubre** en la fecha que ordena todo lo demás.
+- **NUEVO · «Alto el fuego» como categoría vacía.** El dato de UNICEF —**300 niños muertos en los 300 días** transcurridos desde que se anunció el alto el fuego— mide exactamente la distancia entre el anuncio y el terreno. Un alto el fuego que no detiene las muertes no es un estado del conflicto: es una etiqueta.
+- **NUEVO · Barreras internas: la partición como hecho consumado.** Junto al rechazo del plan, Israel **construye barreras dentro de Gaza** (6 ago). Mientras la diplomacia discute la retirada, sobre el terreno se levanta infraestructura de permanencia. Es el indicador más silencioso y el más difícil de revertir.
 
-## 5. Estado al 4 de agosto
+## 5. Estado al 12 de agosto
 
-> [!warning] **Acuerdo sobre el papel, guerra sobre el terreno.** Existe un marco de desarme de Hamás aprobado por el grupo y respaldado por EE.UU., Egipto y Francia, pero **Israel no lo ha suscrito y sigue atacando Gaza**, tensando su relación con la "Junta de Paz" de Trump. La dimensión marítima (Mar Rojo) suma un frente nuevo. Sin firma israelí, el alto el fuego es nominal.
+> [!warning] **El acuerdo está muerto y quien lo mató es el aliado.** Netanyahu ha rechazado formalmente la hoja de ruta estadounidense que Hamás había aceptado, se ha distanciado de Trump y ha condicionado cualquier retirada al desarme completo. Mientras tanto Israel bombardea y **levanta barreras internas** en Gaza. La arquitectura diplomática de julio —Junta de Paz, Fuerza Internacional, mediación de Egipto y Francia— sigue en pie sobre el papel y sin nada que sostener.
+>
+> **Los tres indicadores a vigilar:** (1) las **legislativas israelíes de octubre**, que hoy explican más que cualquier movimiento diplomático; (2) si Trump asume el rechazo o presiona, porque su Junta de Paz ha sido desairada en público; (3) las **barreras internas**, que miden la intención real de permanencia mejor que cualquier declaración.
+
+> [!note] Lo que cambió respecto al cierre del 4 de agosto
+> Aquel cuadro hablaba de un acuerdo «no consolidado» y dejaba abierto quién fallaría. Ya no está abierto: **Hamás aceptó y Israel rechazó**. El eje del análisis se desplaza en consecuencia — de «¿se cumplirá el desarme?» a «¿qué hace Washington cuando su aliado tumba su propio plan en año electoral?».
 
 > [!note] Entrelazamiento
 > Este hilo es inseparable del de Irán–EE.UU.: la postura regional de Israel, las cumbres en Washington y la amenaza hutí conectan ambos. Ver [[Tendencias — Conflicto Iran vs EEUU]].
@@ -82,6 +102,6 @@ LIMIT 25
 
 ---
 ### Nodos fuente (Capa 3)
-Ver `10 · Nodos/Geopolitica/` — notas del 2026-07-19 al 2026-08-04 sobre Gaza/Israel/Levante. Fuentes: El País, BBC, DW, France 24, RFI, Al Jazeera, Noticias ONU, The Guardian, entre otras.
+Ver `10 · Nodos/Geopolitica/` — notas del 2026-07-19 al 2026-08-12 sobre Gaza/Israel/Levante. Fuentes: El País, BBC, DW, France 24, RFI, Al Jazeera, Noticias ONU, The Guardian, entre otras.
 
-[[Global Brain — Inicio|← Inicio]] · [[Tendencias — Conflicto Iran vs EEUU]] · [[Tendencias — Conflicto Rusia vs Ucrania]]
+[[Global Brain — Inicio|← Inicio]] · [[Tendencias — Conflicto Iran vs EEUU]] · [[Tendencias — Conflicto Rusia vs Ucrania]] · [[Tendencias — Gobernanza y riesgo de la IA]]
