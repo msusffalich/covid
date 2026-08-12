@@ -16,6 +16,7 @@ import time
 from datetime import datetime, timezone
 
 from gp import collect, normalize, cluster, synthesize, validate, publish, promote
+from gp import trends
 from gp import config
 
 RETRIES = 3
@@ -68,6 +69,9 @@ def run_cycle(mode: str, synth_mode: str) -> dict:
     pulse = publish.run(nodes, mode, engine, metrics, log)
     promovidas = promote.run(pulse, log)
     metrics["promovidas"] = promovidas
+    # Seguidor de tendencias por tema (usa la historia de pulsos ya publicada)
+    trend_out = trends.run(mode, log)
+    metrics["temas_tendencia"] = len(trend_out["temas"])
 
     log(f"=== Ciclo completo en {metrics['duracion_s']}s · "
         f"{metrics['nodos']} nodos ({metrics['verificados']} verificados) ===")

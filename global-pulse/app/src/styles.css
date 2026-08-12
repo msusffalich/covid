@@ -181,6 +181,31 @@ footer {
 .update-row .chip-btn:disabled { opacity: 0.6; cursor: wait; }
 .updated-at { color: var(--muted); font-size: 0.8rem; }
 
+/* ---- Tendencias ---- */
+.trends { }
+.trends-meta { color: var(--muted); font-size: 0.8rem; margin-bottom: 12px; }
+.trends-empty { color: var(--muted); text-align: center; padding: 40px; }
+.trend-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+.trend-card {
+  background: var(--panel); border-radius: 12px; padding: 14px 16px;
+  border-top: 3px solid var(--pulse);
+}
+.trend-card header { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; }
+.trend-card h3 { font-size: 1rem; color: var(--text); }
+.trend-count { font-size: 1.2rem; font-weight: 700; white-space: nowrap; }
+.trend-count small { font-size: 0.62rem; color: var(--muted); font-weight: 400; }
+.sparkline { width: 100%; height: 44px; display: block; margin: 8px 0; }
+.trend-resumen { font-size: 0.9rem; line-height: 1.5; margin: 6px 0; }
+.trend-estado { font-size: 0.82rem; color: var(--muted); margin-bottom: 6px; }
+.trend-estado strong { color: var(--pulse); }
+.trend-card h4 { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.5px; color: var(--pulse); margin: 12px 0 6px; }
+.trend-nodes { list-style: none; }
+.trend-nodes li { display: flex; align-items: baseline; gap: 8px; padding: 5px 0; border-bottom: 1px solid var(--line); font-size: 0.82rem; }
+.tn-date { color: var(--muted); font-variant-numeric: tabular-nums; flex: none; }
+.tn-imp { font-weight: 700; flex: none; min-width: 22px; }
+.trend-nodes a { color: var(--text); text-decoration: none; }
+.trend-nodes a:hover { color: var(--pulse); text-decoration: underline; }
+
 /* ---- Leyenda ---- */
 .legend {
   margin-top: 12px; background: var(--panel); border-radius: 10px;

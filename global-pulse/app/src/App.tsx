@@ -4,12 +4,13 @@ import GraphView from './components/GraphView'
 import NodeDetail from './components/NodeDetail'
 import Legend from './components/Legend'
 import Manual from './components/Manual'
+import TrendsView from './components/TrendsView'
 import { DICT, LangContext, detectLang, useLang } from './i18n'
 import { useSpeech } from './useSpeech'
 import { CATEGORY_COLORS, type Lang, type Pulse } from './types'
 import { downloadMarkdown, pulseDigest } from './markdown'
 
-type View = 'map' | 'graph' | 'list'
+type View = 'map' | 'graph' | 'list' | 'trends'
 
 function Header({ pulse, onManual }: { pulse: Pulse | null; onManual: () => void }) {
   const { lang, setLang, t } = useLang()
@@ -162,36 +163,41 @@ function Content() {
 
         <section className="controls">
           <div className="view-toggle" role="tablist">
-            {(['map', 'graph', 'list'] as View[]).map((v) => (
+            {(['map', 'graph', 'list', 'trends'] as View[]).map((v) => (
               <button key={v} role="tab" aria-selected={view === v}
                       className={view === v ? 'on' : ''} onClick={() => setView(v)}>
-                {t[v as 'map' | 'graph' | 'list']}
+                {t[v as 'map' | 'graph' | 'list' | 'trends']}
               </button>
             ))}
           </div>
-          <div className="cat-chips" role="group" aria-label={t.categories}>
-            <button className={`fchip${catSel.length === 0 ? ' on' : ''}`}
-                    onClick={() => setCatSel([])}>
-              {t.all}
-            </button>
-            {presentCats.map((c) => (
-              <button key={c}
-                      className={`fchip${catSel.includes(c) ? ' on' : ''}`}
-                      aria-pressed={catSel.includes(c)}
-                      onClick={() => toggleCat(c)}>
-                <span className="cat-dot"
-                      style={{ background: CATEGORY_COLORS[c] }} />
-                {t.categoriesNames[c] ?? c}
+          {view !== 'trends' && (
+            <div className="cat-chips" role="group" aria-label={t.categories}>
+              <button className={`fchip${catSel.length === 0 ? ' on' : ''}`}
+                      onClick={() => setCatSel([])}>
+                {t.all}
               </button>
-            ))}
-          </div>
-          <label className="impact-filter">
-            {t.minImpact}: <strong>{minImpact}</strong>
-            <input type="range" min={0} max={100} step={5} value={minImpact}
-                   onChange={(e) => setMinImpact(Number(e.target.value))} />
-          </label>
+              {presentCats.map((c) => (
+                <button key={c}
+                        className={`fchip${catSel.includes(c) ? ' on' : ''}`}
+                        aria-pressed={catSel.includes(c)}
+                        onClick={() => toggleCat(c)}>
+                  <span className="cat-dot"
+                        style={{ background: CATEGORY_COLORS[c] }} />
+                  {t.categoriesNames[c] ?? c}
+                </button>
+              ))}
+            </div>
+          )}
+          {view !== 'trends' && (
+            <label className="impact-filter">
+              {t.minImpact}: <strong>{minImpact}</strong>
+              <input type="range" min={0} max={100} step={5} value={minImpact}
+                     onChange={(e) => setMinImpact(Number(e.target.value))} />
+            </label>
+          )}
         </section>
 
+        {view === 'trends' ? <TrendsView /> : (
         <section className="stage">
           {view === 'map' && (
             <MapView nodos={nodos} selected={selected} onSelect={setSelected} />
@@ -216,8 +222,9 @@ function Content() {
             </ul>
           )}
         </section>
+        )}
 
-        <Legend view={view} />
+        {view !== 'trends' && <Legend view={view} />}
 
         {selNode && (
           <NodeDetail nodo={selNode} all={pulse.nodos} demo={m.modo === 'fixture'}

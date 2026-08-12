@@ -27,6 +27,33 @@ export interface Nodo {
   referencias: Referencia[]
 }
 
+export interface TrendNode {
+  fecha: string
+  titulo: Bilingual
+  impacto: number | null
+  categoria: string
+  kardashev: string
+  url: string
+  fuente: string
+}
+
+export interface TrendTheme {
+  id: string
+  nombre: Bilingual
+  color: string
+  n_nodos: number
+  ultima_fecha: string | null
+  resumen: Bilingual
+  estado: Bilingual
+  serie: { fecha: string; max: number; n: number }[]
+  nodos: TrendNode[]
+}
+
+export interface Trends {
+  meta: { generado: string; ventana_dias: number; motor: string; modo: string }
+  temas: TrendTheme[]
+}
+
 export interface Pulse {
   meta: {
     schema: string
