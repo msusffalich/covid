@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-08-12
-nodos: 20
+actualizado: 2026-08-13
+nodos: 22
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
-> (motor: heuristic). Ventana: 21 dias ·
-> Actualizado: 2026-08-12. Para el analisis de autor ver la carpeta superior.
+> (motor: api). Ventana: 21 dias ·
+> Actualizado: 2026-08-13. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: Civilian casualties climb as Russia and Ukraine exchange fresh strikes.
+22 nodos registrados en el periodo. Lo mas reciente: Rusia y Ucrania intensifican ataques mutuos contra puertos e infraestructura en el mar Negro.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: Civilian casualties climb as Russia and Ukraine exchange fresh strikes.
+22 nodes recorded in the period. Most recent: Russia and Ukraine escalate mutual attacks on Black Sea ports and infrastructure.
 
 > [!note] Estado actual
-> Civilian casualties climb as Russia and Ukraine exchange fresh strikes
+> Rusia y Ucrania intensifican ataques mutuos contra puertos e infraestructura en el mar Negro
 
-## Nodos recientes (20 en la ventana)
+## Nodos recientes (22 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-13 | 72 | K1 | Rusia y Ucrania intensifican ataques mutuos contra puertos e inf |
+| 2026-08-13 | 72 | K2 | Tribunal sirio condena a muerte a Bashar al-Ásad en ausencia por |
 | 2026-08-12 | 83 | K0 | Civilian casualties climb as Russia and Ukraine exchange fresh s |
 | 2026-08-12 | 83 | K1 | Syrian court sentences Bashar al-Assad to death in absentia for  |
 | 2026-08-09 | 74 | K1 | Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-08-06 | 78 | K1 | Rusia intensifica ataques con misiles y drones sobre Kiev con al |
 | 2026-08-03 | 61 | K0 | Russia's online retailer Wildberries says warehouse on fire afte |
 | 2026-07-31 | 95 | K1 | Trump recibe a Zelenski con sonrisas y a Netanyahu con advertenc |
-| 2026-07-30 | 95 | K1 | Rusia: justicia pide búsqueda internacional del fundador de Tele |
-| 2026-07-30 | 78 | K2 | Ataque ruso masivo con misiles y drones mata al menos a 13 perso |
 
 [[Global Brain — Inicio|← Inicio]]

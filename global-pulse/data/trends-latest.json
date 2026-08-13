@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generado": "2026-08-12T15:30:16.002802+00:00",
+    "generado": "2026-08-13T06:14:35.713689+00:00",
     "ventana_dias": 21,
-    "motor": "heuristic",
+    "motor": "api",
     "modo": "live"
   },
   "temas": [
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 42,
-      "ultima_fecha": "2026-08-11",
+      "n_nodos": 43,
+      "ultima_fecha": "2026-08-13",
       "resumen": {
-        "es": "42 nodos registrados en el periodo. Lo mas reciente: Irán condiciona la reapertura de Ormuz a que EE.UU. levante el bloqueo y las sanciones.",
-        "en": "42 nodes recorded in the period. Most recent: Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports."
+        "es": "43 nodos registrados en el periodo. Lo mas reciente: Estados Unidos e Irán mantienen un pulso por el control del estrecho de Ormuz mientras las negociaciones se estancan.",
+        "en": "43 nodes recorded in the period. Most recent: US and Iran remain locked in a standoff over control of the Strait of Hormuz as negotiations stall."
       },
       "estado": {
-        "es": "Irán condiciona la reapertura de Ormuz a que EE.UU. levante el bloqueo y las sanciones",
-        "en": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports"
+        "es": "Estados Unidos e Irán mantienen un pulso por el control del estrecho de Ormuz mientras las negociaciones se estancan",
+        "en": "US and Iran remain locked in a standoff over control of the Strait of Hormuz as negotiations stall"
       },
       "serie": [
-        {
-          "fecha": "2026-07-23",
-          "max": 95,
-          "n": 1
-        },
         {
           "fecha": "2026-07-24",
           "max": 95,
@@ -123,9 +118,38 @@
           "fecha": "2026-08-11",
           "max": 95,
           "n": 2
+        },
+        {
+          "fecha": "2026-08-13",
+          "max": 78,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-08-13",
+          "titulo": {
+            "es": "Estados Unidos e Irán mantienen un pulso por el control del estrecho de Ormuz mientras las negociaciones se estancan",
+            "en": "US and Iran remain locked in a standoff over control of the Strait of Hormuz as negotiations stall"
+          },
+          "impacto": 78,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/c24m8ymgz7ro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
+        {
+          "fecha": "2026-08-13",
+          "titulo": {
+            "es": "China adapta sus universidades a la era de la IA y transforma sus planes de estudio",
+            "en": "Has the U.S. lost its dominance to China?"
+          },
+          "impacto": 57,
+          "categoria": "economia",
+          "kardashev": "K1",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260811-china-adapta-sus-universidades-a-la-era-de-la-ia-y-transforma-sus-planes-de-estudio",
+          "fuente": "RFI Espanol"
+        },
         {
           "fecha": "2026-08-11",
           "titulo": {
@@ -245,30 +269,6 @@
           "kardashev": "K0",
           "url": "https://www.theguardian.com/world/live/2026/aug/05/us-iran-israel-oman-strait-of-hormuz-latest-news-updates",
           "fuente": "The Guardian World"
-        },
-        {
-          "fecha": "2026-08-05",
-          "titulo": {
-            "es": "Qué es la Red Foxtrot, el enigmático grupo criminal escandinavo acusado de atacar objetivos israelíes y judíos en nombre de Irán",
-            "en": "Trump urges Iran to take up 'last chance' opportunity to sign a good peace deal"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/c9w0ydjdzgjo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-08-05",
-          "titulo": {
-            "es": "Irán y Omán negocian las futuras rutas marítimas en Ormuz mientras Trump rechaza cualquier tasa de navegación",
-            "en": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-08-03/trump-asegura-que-las-conversaciones-con-iran-se-reanudaran-este-lunes.html",
-          "fuente": "El Pais Internacional"
         }
       ]
     },
@@ -279,15 +279,15 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 20,
-      "ultima_fecha": "2026-08-12",
+      "n_nodos": 22,
+      "ultima_fecha": "2026-08-13",
       "resumen": {
-        "es": "20 nodos registrados en el periodo. Lo mas reciente: Civilian casualties climb as Russia and Ukraine exchange fresh strikes.",
-        "en": "20 nodes recorded in the period. Most recent: Civilian casualties climb as Russia and Ukraine exchange fresh strikes."
+        "es": "22 nodos registrados en el periodo. Lo mas reciente: Rusia y Ucrania intensifican ataques mutuos contra puertos e infraestructura en el mar Negro.",
+        "en": "22 nodes recorded in the period. Most recent: Russia and Ukraine escalate mutual attacks on Black Sea ports and infrastructure."
       },
       "estado": {
-        "es": "Civilian casualties climb as Russia and Ukraine exchange fresh strikes",
-        "en": "Civilian casualties climb as Russia and Ukraine exchange fresh strikes"
+        "es": "Rusia y Ucrania intensifican ataques mutuos contra puertos e infraestructura en el mar Negro",
+        "en": "Russia and Ukraine escalate mutual attacks on Black Sea ports and infrastructure"
       },
       "serie": [
         {
@@ -354,9 +354,38 @@
           "fecha": "2026-08-12",
           "max": 83,
           "n": 2
+        },
+        {
+          "fecha": "2026-08-13",
+          "max": 72,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-08-13",
+          "titulo": {
+            "es": "Rusia y Ucrania intensifican ataques mutuos contra puertos e infraestructura en el mar Negro",
+            "en": "Russia and Ukraine escalate mutual attacks on Black Sea ports and infrastructure"
+          },
+          "impacto": 72,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
+        {
+          "fecha": "2026-08-13",
+          "titulo": {
+            "es": "Tribunal sirio condena a muerte a Bashar al-Ásad en ausencia por crímenes de guerra",
+            "en": "Syrian court sentences Bashar al-Assad to death in absentia for war crimes"
+          },
+          "impacto": 72,
+          "categoria": "geopolitica",
+          "kardashev": "K2",
+          "url": "https://www.theguardian.com/world/2026/aug/11/syria-bashar-al-assad-death-sentence-war-crimes",
+          "fuente": "The Guardian World"
+        },
         {
           "fecha": "2026-08-12",
           "titulo": {
@@ -476,30 +505,6 @@
           "kardashev": "K1",
           "url": "https://elpais.com/internacional/2026-07-19/la-testosterona-al-mando-en-la-casa-blanca.html",
           "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-07-30",
-          "titulo": {
-            "es": "Rusia: justicia pide búsqueda internacional del fundador de Telegram por terrorismo",
-            "en": "Russia charges Telegram founder with aiding terrorism, assisting Ukraine intelligence"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/ceqe7ld83vzo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-07-30",
-          "titulo": {
-            "es": "Ataque ruso masivo con misiles y drones mata al menos a 13 personas en Ucrania mientras Polonia investiga una violación de su espacio aéreo",
-            "en": "Massive Russian missile and drone attack kills at least 13 in Ukraine as Poland investigates airspace violation"
-          },
-          "impacto": 78,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://www.theguardian.com/world/live/2026/jul/30/europe-ukraine-russia-poland-wildfires-france-spain-greece-latest-news-updates",
-          "fuente": "The Guardian World"
         }
       ]
     },
@@ -510,22 +515,17 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 36,
-      "ultima_fecha": "2026-08-12",
+      "n_nodos": 37,
+      "ultima_fecha": "2026-08-13",
       "resumen": {
-        "es": "36 nodos registrados en el periodo. Lo mas reciente: 300 niños han muerto en Gaza por acciones de Israel en los 300 días desde el anuncio del alto el fuego.",
-        "en": "36 nodes recorded in the period. Most recent: Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal."
+        "es": "37 nodos registrados en el periodo. Lo mas reciente: Estados Unidos e Irán mantienen un pulso por el control del estrecho de Ormuz mientras las negociaciones se estancan.",
+        "en": "37 nodes recorded in the period. Most recent: US and Iran remain locked in a standoff over control of the Strait of Hormuz as negotiations stall."
       },
       "estado": {
-        "es": "300 niños han muerto en Gaza por acciones de Israel en los 300 días desde el anuncio del alto el fuego",
-        "en": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal"
+        "es": "Estados Unidos e Irán mantienen un pulso por el control del estrecho de Ormuz mientras las negociaciones se estancan",
+        "en": "US and Iran remain locked in a standoff over control of the Strait of Hormuz as negotiations stall"
       },
       "serie": [
-        {
-          "fecha": "2026-07-23",
-          "max": 95,
-          "n": 1
-        },
         {
           "fecha": "2026-07-24",
           "max": 95,
@@ -620,9 +620,38 @@
           "fecha": "2026-08-12",
           "max": 94,
           "n": 1
+        },
+        {
+          "fecha": "2026-08-13",
+          "max": 78,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-08-13",
+          "titulo": {
+            "es": "Estados Unidos e Irán mantienen un pulso por el control del estrecho de Ormuz mientras las negociaciones se estancan",
+            "en": "US and Iran remain locked in a standoff over control of the Strait of Hormuz as negotiations stall"
+          },
+          "impacto": 78,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/c24m8ymgz7ro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
+        {
+          "fecha": "2026-08-13",
+          "titulo": {
+            "es": "Israel y Venezuela reanudan sus relaciones consulares tras 17 años de ruptura",
+            "en": "Venezuela talks end with agreement on judicial reform and frozen funds"
+          },
+          "impacto": 70,
+          "categoria": "sociedad",
+          "kardashev": "K2",
+          "url": "https://www.bbc.com/mundo/articles/c1d19v6363ro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
         {
           "fecha": "2026-08-12",
           "titulo": {
@@ -742,30 +771,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/c9w0ydjdzgjo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-08-05",
-          "titulo": {
-            "es": "Mass funeral held in Gaza for victims of 2023 Israeli strike",
-            "en": "Mass funeral held in Gaza for victims of 2023 Israeli strike"
-          },
-          "impacto": 61,
-          "categoria": "salud",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-08-04",
-          "titulo": {
-            "es": "Israel intensifica ataques en Gaza pese al anuncio de desarme de Hamás y crecen tensiones con la 'Junta de Paz' de Trump",
-            "en": "Israel intensifies Gaza attacks despite Hamas disarmament announcement, tensions rise with Trump's 'Board of Peace'"
-          },
-          "impacto": 78,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://www.france24.com/es/video/20260804-pese-al-anuncio-de-trump-israel-sigue-atacando-gaza-y-crecen-las-tensiones-con-netanyahu",
-          "fuente": "France 24 Espanol"
         }
       ]
     },
@@ -777,21 +782,16 @@
       },
       "color": "#3D9BE4",
       "n_nodos": 18,
-      "ultima_fecha": "2026-08-12",
+      "ultima_fecha": "2026-08-13",
       "resumen": {
         "es": "18 nodos registrados en el periodo. Lo mas reciente: China adapta sus universidades a la era de la IA y transforma sus planes de estudio.",
-        "en": "18 nodes recorded in the period. Most recent: US to shut five consulates as critics fear China could fill diplomatic vacuum."
+        "en": "18 nodes recorded in the period. Most recent: Has the U.S. lost its dominance to China?."
       },
       "estado": {
         "es": "China adapta sus universidades a la era de la IA y transforma sus planes de estudio",
-        "en": "US to shut five consulates as critics fear China could fill diplomatic vacuum"
+        "en": "Has the U.S. lost its dominance to China?"
       },
       "serie": [
-        {
-          "fecha": "2026-07-23",
-          "max": 75,
-          "n": 1
-        },
         {
           "fecha": "2026-07-24",
           "max": 83,
@@ -851,17 +851,22 @@
           "fecha": "2026-08-12",
           "max": 57,
           "n": 1
+        },
+        {
+          "fecha": "2026-08-13",
+          "max": 57,
+          "n": 1
         }
       ],
       "nodos": [
         {
-          "fecha": "2026-08-12",
+          "fecha": "2026-08-13",
           "titulo": {
             "es": "China adapta sus universidades a la era de la IA y transforma sus planes de estudio",
-            "en": "US to shut five consulates as critics fear China could fill diplomatic vacuum"
+            "en": "Has the U.S. lost its dominance to China?"
           },
           "impacto": 57,
-          "categoria": "tecnologia",
+          "categoria": "economia",
           "kardashev": "K1",
           "url": "https://www.rfi.fr/es/asia-pacifico/20260811-china-adapta-sus-universidades-a-la-era-de-la-ia-y-transforma-sus-planes-de-estudio",
           "fuente": "RFI Espanol"
@@ -1007,22 +1012,17 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 29,
+      "n_nodos": 28,
       "ultima_fecha": "2026-08-11",
       "resumen": {
-        "es": "29 nodos registrados en el periodo. Lo mas reciente: Centenares de vuelos cancelados por la tormenta tropical Dolphin en el este de China.",
-        "en": "29 nodes recorded in the period. Most recent: Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai."
+        "es": "28 nodos registrados en el periodo. Lo mas reciente: Centenares de vuelos cancelados por la tormenta tropical Dolphin en el este de China.",
+        "en": "28 nodes recorded in the period. Most recent: Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai."
       },
       "estado": {
         "es": "Centenares de vuelos cancelados por la tormenta tropical Dolphin en el este de China",
         "en": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai"
       },
       "serie": [
-        {
-          "fecha": "2026-07-23",
-          "max": 64,
-          "n": 1
-        },
         {
           "fecha": "2026-07-24",
           "max": 80,
@@ -1259,21 +1259,16 @@
       },
       "color": "#E4A11B",
       "n_nodos": 34,
-      "ultima_fecha": "2026-08-12",
+      "ultima_fecha": "2026-08-13",
       "resumen": {
-        "es": "34 nodos registrados en el periodo. Lo mas reciente: 300 niños han muerto en Gaza por acciones de Israel en los 300 días desde el anuncio del alto el fuego.",
-        "en": "34 nodes recorded in the period. Most recent: Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal."
+        "es": "34 nodos registrados en el periodo. Lo mas reciente: China adapta sus universidades a la era de la IA y transforma sus planes de estudio.",
+        "en": "34 nodes recorded in the period. Most recent: Has the U.S. lost its dominance to China?."
       },
       "estado": {
-        "es": "300 niños han muerto en Gaza por acciones de Israel en los 300 días desde el anuncio del alto el fuego",
-        "en": "Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal"
+        "es": "China adapta sus universidades a la era de la IA y transforma sus planes de estudio",
+        "en": "Has the U.S. lost its dominance to China?"
       },
       "serie": [
-        {
-          "fecha": "2026-07-23",
-          "max": 90,
-          "n": 1
-        },
         {
           "fecha": "2026-07-24",
           "max": 95,
@@ -1353,9 +1348,26 @@
           "fecha": "2026-08-12",
           "max": 94,
           "n": 1
+        },
+        {
+          "fecha": "2026-08-13",
+          "max": 57,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-08-13",
+          "titulo": {
+            "es": "China adapta sus universidades a la era de la IA y transforma sus planes de estudio",
+            "en": "Has the U.S. lost its dominance to China?"
+          },
+          "impacto": 57,
+          "categoria": "economia",
+          "kardashev": "K1",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260811-china-adapta-sus-universidades-a-la-era-de-la-ia-y-transforma-sus-planes-de-estudio",
+          "fuente": "RFI Espanol"
+        },
         {
           "fecha": "2026-08-12",
           "titulo": {
@@ -1487,18 +1499,6 @@
           "kardashev": "K1",
           "url": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
           "fuente": "The Guardian World"
-        },
-        {
-          "fecha": "2026-08-01",
-          "titulo": {
-            "es": "Netanyahu se reúne con Trump en medio de los esfuerzos por volver a la negociación con Irán",
-            "en": "Iran strikes tankers under US escort in Hormuz strait as Trump gathers cabinet to discuss war"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-07-28/netanyahu-se-reune-con-trump-en-medio-de-los-esfuerzos-por-volver-a-la-negociacion-con-iran.html",
-          "fuente": "El Pais Internacional"
         }
       ]
     }

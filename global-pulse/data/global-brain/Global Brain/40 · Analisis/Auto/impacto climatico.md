@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-08-12
-nodos: 29
+actualizado: 2026-08-13
+nodos: 28
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
-> (motor: heuristic). Ventana: 21 dias ·
-> Actualizado: 2026-08-12. Para el analisis de autor ver la carpeta superior.
+> (motor: api). Ventana: 21 dias ·
+> Actualizado: 2026-08-13. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-29 nodos registrados en el periodo. Lo mas reciente: Centenares de vuelos cancelados por la tormenta tropical Dolphin en el este de China.
+28 nodos registrados en el periodo. Lo mas reciente: Centenares de vuelos cancelados por la tormenta tropical Dolphin en el este de China.
 
 ## Trend summary (EN)
-29 nodes recorded in the period. Most recent: Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai.
+28 nodes recorded in the period. Most recent: Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai.
 
 > [!note] Estado actual
 > Centenares de vuelos cancelados por la tormenta tropical Dolphin en el este de China
 
-## Nodos recientes (29 en la ventana)
+## Nodos recientes (28 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-11 | 95 | K1 | Centenares de vuelos cancelados por la tormenta tropical Dolphin |

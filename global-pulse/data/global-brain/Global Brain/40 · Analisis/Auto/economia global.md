@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-08-12
+actualizado: 2026-08-13
 nodos: 34
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
-> (motor: heuristic). Ventana: 21 dias ·
-> Actualizado: 2026-08-12. Para el analisis de autor ver la carpeta superior.
+> (motor: api). Ventana: 21 dias ·
+> Actualizado: 2026-08-13. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-34 nodos registrados en el periodo. Lo mas reciente: 300 niños han muerto en Gaza por acciones de Israel en los 300 días desde el anuncio del alto el fuego.
+34 nodos registrados en el periodo. Lo mas reciente: China adapta sus universidades a la era de la IA y transforma sus planes de estudio.
 
 ## Trend summary (EN)
-34 nodes recorded in the period. Most recent: Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal.
+34 nodes recorded in the period. Most recent: Has the U.S. lost its dominance to China?.
 
 > [!note] Estado actual
-> 300 niños han muerto en Gaza por acciones de Israel en los 300 días desde el anuncio del alto el fuego
+> China adapta sus universidades a la era de la IA y transforma sus planes de estudio
 
 ## Nodos recientes (34 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-13 | 57 | K1 | China adapta sus universidades a la era de la IA y transforma su |
 | 2026-08-12 | 94 | K1 | 300 niños han muerto en Gaza por acciones de Israel en los 300 d |
 | 2026-08-11 | 58 | K0 | Chinese EV sales surge to new high in Europe putting tariffs und |
 | 2026-08-09 | 95 | K1 | Un tribunal de EE.UU. ordena frenar las obras del salón de baile |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-04 | 55 | K1 | 25 estados demandan a la administración Trump por nuevos arancel |
 | 2026-08-04 | 45 | K1 | Gianni Infantino enfrenta creciente oposición en la FIFA tras fr |
 | 2026-08-03 | 62 | K1 | EE.UU. y Japón realizan una rara intervención conjunta para resp |
-| 2026-08-01 | 95 | K1 | Netanyahu se reúne con Trump en medio de los esfuerzos por volve |
 
 [[Global Brain — Inicio|← Inicio]]
