@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-08-13
-nodos: 18
+actualizado: 2026-08-14
+nodos: 15
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-13. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-14. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-18 nodos registrados en el periodo. Lo mas reciente: China adapta sus universidades a la era de la IA y transforma sus planes de estudio.
+15 nodos registrados en el periodo. Lo mas reciente: China adapta sus universidades a la era de la IA y transforma sus planes de estudio.
 
 ## Trend summary (EN)
-18 nodes recorded in the period. Most recent: Has the U.S. lost its dominance to China?.
+15 nodes recorded in the period. Most recent: Has the U.S. lost its dominance to China?.
 
 > [!note] Estado actual
 > China adapta sus universidades a la era de la IA y transforma sus planes de estudio
 
-## Nodos recientes (18 en la ventana)
+## Nodos recientes (15 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-13 | 57 | K1 | China adapta sus universidades a la era de la IA y transforma su |

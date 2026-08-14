@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-08-13
-nodos: 37
+actualizado: 2026-08-14
+nodos: 36
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-13. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-14. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-37 nodos registrados en el periodo. Lo mas reciente: Estados Unidos e Irán mantienen un pulso por el control del estrecho de Ormuz mientras las negociaciones se estancan.
+36 nodos registrados en el periodo. Lo mas reciente: Israeli troops force families from homes amid settler terror campaign in West Bank.
 
 ## Trend summary (EN)
-37 nodes recorded in the period. Most recent: US and Iran remain locked in a standoff over control of the Strait of Hormuz as negotiations stall.
+36 nodes recorded in the period. Most recent: Israeli troops force families from homes amid settler terror campaign in West Bank.
 
 > [!note] Estado actual
-> Estados Unidos e Irán mantienen un pulso por el control del estrecho de Ormuz mientras las negociaciones se estancan
+> Israeli troops force families from homes amid settler terror campaign in West Bank
 
-## Nodos recientes (37 en la ventana)
+## Nodos recientes (36 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-14 | 83 | K0 | Israeli troops force families from homes amid settler terror cam |
 | 2026-08-13 | 78 | K1 | Estados Unidos e Irán mantienen un pulso por el control del estr |
 | 2026-08-13 | 70 | K2 | Israel y Venezuela reanudan sus relaciones consulares tras 17 añ |
 | 2026-08-12 | 94 | K1 | 300 niños han muerto en Gaza por acciones de Israel en los 300 d |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-08 | 95 | K1 | Irán anuncia un preacuerdo con Omán para el tránsito de buques e |
 | 2026-08-06 | 83 | K0 | Leftist El-Sayed narrowly wins high-profile Michigan Democratic  |
 | 2026-08-06 | 78 | K2 | Netanyahu rechaza el plan de EE.UU. para Gaza mientras Israel in |
-| 2026-08-05 | 95 | K1 | Qué es la Red Foxtrot, el enigmático grupo criminal escandinavo  |
 
 [[Global Brain — Inicio|← Inicio]]

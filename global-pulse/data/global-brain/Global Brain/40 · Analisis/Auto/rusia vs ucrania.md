@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-08-13
+actualizado: 2026-08-14
 nodos: 22
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-13. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-14. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-22 nodos registrados en el periodo. Lo mas reciente: Rusia y Ucrania intensifican ataques mutuos contra puertos e infraestructura en el mar Negro.
+22 nodos registrados en el periodo. Lo mas reciente: Polonia frustra un complot ruso para asesinar a un ciudadano ucraniano-estadounidense en Varsovia.
 
 ## Trend summary (EN)
-22 nodes recorded in the period. Most recent: Russia and Ukraine escalate mutual attacks on Black Sea ports and infrastructure.
+22 nodes recorded in the period. Most recent: Poland foils Russian plot to kill Ukrainian-American citizen in Warsaw.
 
 > [!note] Estado actual
-> Rusia y Ucrania intensifican ataques mutuos contra puertos e infraestructura en el mar Negro
+> Polonia frustra un complot ruso para asesinar a un ciudadano ucraniano-estadounidense en Varsovia
 
 ## Nodos recientes (22 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-14 | 72 | K1 | Polonia frustra un complot ruso para asesinar a un ciudadano ucr |
 | 2026-08-13 | 72 | K1 | Rusia y Ucrania intensifican ataques mutuos contra puertos e inf |
 | 2026-08-13 | 72 | K2 | Tribunal sirio condena a muerte a Bashar al-Ásad en ausencia por |
 | 2026-08-12 | 83 | K0 | Civilian casualties climb as Russia and Ukraine exchange fresh s |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-06 | 83 | K0 | Drone carrying explosives at German airport marks ‘new level of  |
 | 2026-08-06 | 78 | K1 | Rusia intensifica ataques con misiles y drones sobre Kiev con al |
 | 2026-08-03 | 61 | K0 | Russia's online retailer Wildberries says warehouse on fire afte |
-| 2026-07-31 | 95 | K1 | Trump recibe a Zelenski con sonrisas y a Netanyahu con advertenc |
 
 [[Global Brain — Inicio|← Inicio]]
