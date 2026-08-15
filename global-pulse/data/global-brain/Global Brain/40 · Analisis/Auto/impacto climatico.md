@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-08-14
+actualizado: 2026-08-15
 nodos: 28
 origen: global-pulse
 ---
@@ -10,20 +10,22 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-14. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-15. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-28 nodos registrados en el periodo. Lo mas reciente: Rumania cierra su única central nuclear por caída histórica del nivel del Danubio debido a la sequía.
+28 nodos registrados en el periodo. Lo mas reciente: Al menos dos muertos y estructuras derrumbadas tras un poderoso sismo de 7,7 en Indonesia.
 
 ## Trend summary (EN)
-28 nodes recorded in the period. Most recent: Romania shuts its only nuclear plant as drought causes record drop in Danube River level.
+28 nodes recorded in the period. Most recent: Indonesia wildfires threaten orangutans rescued from animal traffickers.
 
 > [!note] Estado actual
-> Rumania cierra su única central nuclear por caída histórica del nivel del Danubio debido a la sequía
+> Al menos dos muertos y estructuras derrumbadas tras un poderoso sismo de 7,7 en Indonesia
 
 ## Nodos recientes (28 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-15 | 69 | K1 | Al menos dos muertos y estructuras derrumbadas tras un poderoso  |
+| 2026-08-15 | 62 | K2 | Europa enfrenta su quinta ola de calor del verano con incendios  |
 | 2026-08-14 | 68 | K2 | Rumania cierra su única central nuclear por caída histórica del  |
 | 2026-08-11 | 95 | K1 | Centenares de vuelos cancelados por la tormenta tropical Dolphin |
 | 2026-08-11 | 45 | K1 | 'We've had a lot of close calls': Canada wildfire evacuees wonde |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-08-09 | 79 | K1 | Bald Range Wildfire Forces Evacuation of 18,000 in British Colum |
 | 2026-08-09 | 66 | K0 | How Turkey uses drones to tackle fires |
 | 2026-08-07 | 72 | K1 | El Niño intensifica el calentamiento oceánico y agrava la crisis |
-| 2026-08-05 | 83 | K1 | WHO and the Netherlands renew their partnership on climate chang |
-| 2026-08-05 | 53 | K1 | EU deployed its biggest wildfire response. Is it what Europe nee |
 
 [[Global Brain — Inicio|← Inicio]]
