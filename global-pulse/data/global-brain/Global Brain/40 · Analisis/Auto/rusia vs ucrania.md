@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-08-15
+actualizado: 2026-08-16
 nodos: 22
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-15. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-16. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 22 nodos registrados en el periodo. Lo mas reciente: Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos.

@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-08-15
-nodos: 40
+actualizado: 2026-08-16
+nodos: 41
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-15. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-16. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-40 nodos registrados en el periodo. Lo mas reciente: Trump amenaza con declarar el estrecho de Ormuz territorio de EE. UU. mientras escala tensión con Irán.
+41 nodos registrados en el periodo. Lo mas reciente: Irán desmiente a Trump y afirma que controla el estrecho de Ormuz.
 
 ## Trend summary (EN)
-40 nodes recorded in the period. Most recent: Trump threatens to declare Strait of Hormuz US territory as tensions with Iran escalate.
+41 nodes recorded in the period. Most recent: Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck.
 
 > [!note] Estado actual
-> Trump amenaza con declarar el estrecho de Ormuz territorio de EE. UU. mientras escala tensión con Irán
+> Irán desmiente a Trump y afirma que controla el estrecho de Ormuz
 
-## Nodos recientes (40 en la ventana)
+## Nodos recientes (41 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-16 | 91 | K1 | Irán desmiente a Trump y afirma que controla el estrecho de Ormu |
+| 2026-08-16 | 85 | K1 | Guerra entre Estados Unidos e Irán se prolonga con presión sobre |
 | 2026-08-15 | 78 | K0 | Trump amenaza con declarar el estrecho de Ormuz territorio de EE |
 | 2026-08-15 | 57 | K0 | 2 UAE tankers attacked while transiting Strait of Hormuz, and ot |
 | 2026-08-14 | 78 | K1 | EE.UU. afirma que puede mantener indefinidamente el bloqueo nava |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-08-10 | 95 | K1 | Irán condiciona la reapertura de Ormuz a indemnización de EE. UU |
 | 2026-08-10 | 82 | K1 | Arabia Saudita, Turquía y Pakistán firman un acuerdo de defensa  |
 | 2026-08-09 | 95 | K1 | Un tribunal de EE.UU. ordena frenar las obras del salón de baile |
-| 2026-08-09 | 94 | K1 | EAU acusa a Irán de atacar un petrolero en Ormuz, en medio de av |
-| 2026-08-09 | 47 | K1 | Los hutíes desafían a Arabia Saudí con ataques a sus despliegues |
 
 [[Global Brain — Inicio|← Inicio]]

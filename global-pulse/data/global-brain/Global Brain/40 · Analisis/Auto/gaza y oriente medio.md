@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-08-15
+actualizado: 2026-08-16
 nodos: 37
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-15. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-16. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-37 nodos registrados en el periodo. Lo mas reciente: Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos.
+37 nodos registrados en el periodo. Lo mas reciente: Ataques israelíes matan a 11 personas en el sur del Líbano en el peor saldo desde la tregua de junio.
 
 ## Trend summary (EN)
-37 nodes recorded in the period. Most recent: Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos.
+37 nodes recorded in the period. Most recent: Israeli strikes kill 11 in southern Lebanon in worst toll since June truce.
 
 > [!note] Estado actual
-> Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos
+> Ataques israelíes matan a 11 personas en el sur del Líbano en el peor saldo desde la tregua de junio
 
 ## Nodos recientes (37 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-16 | 68 | K1 | Ataques israelíes matan a 11 personas en el sur del Líbano en el |
 | 2026-08-15 | 83 | K1 | Las acciones de extremistas israelíes en Cisjordania provocan el |
 | 2026-08-15 | 78 | K0 | Trump amenaza con declarar el estrecho de Ormuz territorio de EE |
 | 2026-08-15 | 72 | K1 | Continúan labores de búsqueda de casi 400 desaparecidos tras ter |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-11 | 56 | K1 | El cáncer de próstata de Joe Biden se ha extendido a los huesos, |
 | 2026-08-10 | 95 | K1 | Irán condiciona la reapertura de Ormuz a indemnización de EE. UU |
 | 2026-08-10 | 82 | K1 | Arabia Saudita, Turquía y Pakistán firman un acuerdo de defensa  |
-| 2026-08-09 | 94 | K1 | EAU acusa a Irán de atacar un petrolero en Ormuz, en medio de av |
 
 [[Global Brain — Inicio|← Inicio]]
