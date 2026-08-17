@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-08-16
-nodos: 22
+actualizado: 2026-08-17
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-16. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-17. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-22 nodos registrados en el periodo. Lo mas reciente: Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos.
+20 nodos registrados en el periodo. Lo mas reciente: Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos.
 
 ## Trend summary (EN)
-22 nodes recorded in the period. Most recent: Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos.
+20 nodes recorded in the period. Most recent: Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos.
 
 > [!note] Estado actual
 > Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos
 
-## Nodos recientes (22 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-15 | 83 | K1 | Las acciones de extremistas israelíes en Cisjordania provocan el |

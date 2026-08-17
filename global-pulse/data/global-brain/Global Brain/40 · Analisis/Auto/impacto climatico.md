@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-08-16
-nodos: 30
+actualizado: 2026-08-17
+nodos: 28
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-16. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-17. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-30 nodos registrados en el periodo. Lo mas reciente: Terremoto en Indonesia: rescate a contrarreloj mientras levantan alerta de tsunami.
+28 nodos registrados en el periodo. Lo mas reciente: Terremoto en Indonesia: rescate a contrarreloj mientras levantan alerta de tsunami.
 
 ## Trend summary (EN)
-30 nodes recorded in the period. Most recent: Indonesia wildfires threaten orangutans rescued from animal traffickers.
+28 nodes recorded in the period. Most recent: Indonesia wildfires threaten orangutans rescued from animal traffickers.
 
 > [!note] Estado actual
 > Terremoto en Indonesia: rescate a contrarreloj mientras levantan alerta de tsunami
 
-## Nodos recientes (30 en la ventana)
+## Nodos recientes (28 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-16 | 87 | K1 | Terremoto en Indonesia: rescate a contrarreloj mientras levantan |

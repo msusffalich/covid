@@ -1,208 +1,91 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-08-16",
-    "generado": "2026-08-16T05:21:27.087526+00:00",
+    "fecha": "2026-08-17",
+    "generado": "2026-08-17T05:29:36.991892+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 753,
-      "clusters": 522,
-      "nodos": 522,
-      "verificados": 522,
-      "duracion_s": 313.1
+      "piezas_ingeridas": 815,
+      "clusters": 548,
+      "nodos": 548,
+      "verificados": 548,
+      "duracion_s": 323.9
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Luigi Mangione se declara culpable en el juicio federal por asesinar a un ejecutivo de una compañía de seguros de salud",
-        "en": "New York City man charged with hate crimes after alleged synagogue assault"
-      },
-      "sintesis": {
-        "es": "El acusado tratará de invalidar el otro juicio estatal alegando doble enjuiciamiento. El acuerdo con la Fiscalía se produce semanas antes del proceso impulsado por el Departamento de Justicia",
-        "en": "Police say Larry Montes struck a woman and a security guard after he disrupted Shabbat services A New York City man is facing hate crime charges after police say he assaulted a woman and a security team member while disrupting Shabbat services at Central Synagogue in Manhattan – all in plain view of a live stream. The New York police department identified the suspect in the case as Larry Montes, 46, who was arrested after the episode at the synagogue. Montes was charged with two counts of assault as a hate crime and one count of criminal mischief as a hate crime, along with other alleged violations, police said."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Luigi Mangione",
-        "New York",
-        "UnitedHealthcare CEO",
-        "UnitedHealthcare"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_fa957e7fc1",
-        "ev_7e9d991194",
-        "ev_40892ae497",
-        "ev_cd77de9cd5",
-        "ev_55815ccdc7",
-        "ev_87e8e3a5d7",
-        "ev_ce9a7bf6b2",
-        "ev_8d9c3f4361",
-        "ev_ca4b4feb11"
-      ],
-      "cluster_id": "cl_046",
-      "imagenes": [
-        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204763_185443_video_1800.mp4",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23c8/live/687cc7b0-9772-11f1-a7ab-8b30adf0800a.jpg",
-        "https://s.france24.com/media/display/75789e46-9888-11f1-adc3-005056a97e36/w:1024/p:16x9/EN-20260815-081240-081440-CS.jpg",
-        "https://i.guim.co.uk/img/media/96b4a0cdd939fc7870e489e229d448a495916e64/9_0_4168_3335/master/4168.jpg?width=140&quality=85&auto=format&fit=max&s=aa0ae5511d256914300239bd38989dc3"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_fa957e7fc1",
-          "titulo": "Luigi Mangione se declara culpable en el juicio federal por asesinar a un ejecutivo de una compañía de seguros de salud",
-          "url": "https://elpais.com/internacional/2026-08-14/luigi-mangione-se-declara-culpable-en-el-juicio-federal-por-asesinar-a-un-ejecutivo-de-una-compania-de-seguros-de-salud.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Fri, 14 Aug 2026 15:56:21 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_7e9d991194",
-          "titulo": "Luigi Mangione se declara culpable del asesinato del CEO de UnitedHealthcare y admite que le disparó",
-          "url": "http://es.euronews.com/2026/08/14/luigi-mangione-admite-tribunal-nueva-york-mato-director-ejecutivo-brian-thompson",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 14 Aug 2026 20:03:03 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_40892ae497",
-          "titulo": "Watch: What happens if Luigi Mangione pleads guilty today?",
-          "url": "https://www.bbc.co.uk/news/videos/c36dyep3k1ko?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 14 Aug 2026 01:19:19 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_cd77de9cd5",
-          "titulo": "US : Luigi Mangione pleads guilty to killing UnitedHealthcare CEO",
-          "url": "https://www.france24.com/en/us-luigi-mangione-pleads-guilty-to-killing-unitedhealthcare-ceo",
-          "fuente": "France 24 English",
-          "fecha": "Sat, 15 Aug 2026 09:47:03 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_55815ccdc7",
-          "titulo": "Luigi Mangione admits shooting healthcare CEO Brian Thompson in New York court",
-          "url": "http://www.euronews.com/2026/08/14/luigi-mangione-admits-shooting-healthcare-ceo-brian-thompson-in-new-york-court",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 14 Aug 2026 19:26:04 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_87e8e3a5d7",
-          "titulo": "Luigi Mangione admits to shooting health insurance executive Brian Thompson, pleads guilty to federal charges",
-          "url": "https://www.cbc.ca/news/world/us-federal-hearing-mangione-thompson-killing-9.7307059?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 14 Aug 2026 11:26:04 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ce9a7bf6b2",
-          "titulo": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-          "url": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Fri, 14 Aug 2026 19:50:11 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8d9c3f4361",
-          "titulo": "New York City man charged with hate crimes after alleged synagogue assault",
-          "url": "https://www.theguardian.com/us-news/2026/aug/15/hate-crime-charges-new-york-synagogue-assault",
-          "fuente": "The Guardian World",
-          "fecha": "Sat, 15 Aug 2026 20:02:27 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ca4b4feb11",
-          "titulo": "New York City Lawmakers Push to ‘Ban the Scan’ at MSG",
-          "url": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
-          "fuente": "WIRED",
-          "fecha": "Fri, 14 Aug 2026 21:43:17 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-16_0000",
-      "fecha": "2026-08-16",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
         "es": "Irán desmiente a Trump y afirma que controla el estrecho de Ormuz",
-        "en": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck"
+        "en": "Five ways Trump could target Iran’s economy from ‘teapot’ sanctions to land blockade"
       },
       "sintesis": {
         "es": "“El estrecho de Ormuz está bajo gestión y control de la República Islámica, y nuestro país prosigue su camino con total seguridad\", afirmó Hosein Taeb, jefe de la fuerza paramilitar Basij. De este modo, contradecía al presidente estadounidense, que horas había asegurado que la vía marítima estaba en su poder.",
-        "en": "Iran's deputy foreign minister says Hormuz \"will remain Iranian\" after Trump's claim that the waterway would soon become U.S."
+        "en": "and Israeli officials have floated the prospect of a land blockade, which would require assistance from Iran's neighbors"
       },
       "categoria": "geopolitica",
       "actores": [
         "Trump",
-        "Ormuz",
-        "Iran",
-        "Strait"
+        "Corea",
+        "Sur",
+        "Kim Jong"
       ],
       "geo": {
         "lat": 39.8,
         "lon": -98.6,
         "region": "Norteamerica"
       },
-      "impacto": 91,
+      "impacto": 95,
       "fuentes": [
-        "ev_a292fdb5c5",
-        "ev_17fa2b1255",
-        "ev_56793023d6",
+        "ev_e7d1b5e05a",
+        "ev_e1d5d2b498",
+        "ev_f9e5ef6f1f",
+        "ev_3b94dc784c",
         "ev_fd2f3f7057",
-        "ev_3c49bc2057",
-        "ev_2e13be1db4",
-        "ev_23447f756c",
-        "ev_c8e9b4ca6a",
-        "ev_f10a8ebaa3",
-        "ev_130cc99432",
-        "ev_edc7a6ac04",
-        "ev_0accb8d6f3",
-        "ev_5ea58a18a4"
+        "ev_c938b68095",
+        "ev_51b0817cb6",
+        "ev_8eca393a5b"
       ],
-      "cluster_id": "cl_034",
+      "cluster_id": "cl_002",
       "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2386/live/b9e94ee0-99c8-11f1-b2ab-0dd01740f9f6.jpg",
         "https://imagenes.elpais.com/resizer/v2/MBWQHKRBQJMHZGF4FJITJB4NHY.jpg?auth=4b5c2d27879c7569d324b0e4d9cef9b679843844ccca95daedec857c46f97251",
-        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203519_001127_video_1800.mp4",
-        "https://s.france24.com/media/display/f71d591a-3a68-11f1-92f8-005056bfb2b6/w:1024/p:16x9/2026-04-17T141144Z-1003227275-RC22RKA1KOZ8-RTRMADP-3-IRAN-CRISIS-FRANCE-BRITAIN.jpg",
+        "https://s.france24.com/media/display/18bcca22-5ee2-11ec-aeca-005056a90284/w:1024/p:16x9/4c4d72cb5f782c896d108252c34480447cd3b1f7.jpg",
         "https://s.rfi.fr/media/display/05a7f0a0-71fd-11f1-8f30-005056bf30b7/w:1024/p:16x9/000-A9Z32G6.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_a292fdb5c5",
-          "titulo": "El callejón sin salida de Irán suma un nuevo problema interno a Trump",
+          "id": "ev_e7d1b5e05a",
+          "titulo": "Trump ordena reducir ejercicios militares de EE.UU. con Corea del Sur por su negativa a participar en la guerra con Irán y por su buena relación con Kim Jong un",
+          "url": "https://www.bbc.com/mundo/articles/cjd44v2eg40o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sun, 16 Aug 2026 22:26:48 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_e1d5d2b498",
+          "titulo": "Trump ordena al Pentágono reducir sus maniobras con Corea del Sur por sus buenas relaciones con Kim Jong-un",
+          "url": "http://es.euronews.com/2026/08/17/trump-ordena-al-pentagono-reducir-sus-maniobras-con-corea-del-sur-por-sus-buenas-relacione",
+          "fuente": "Euronews Espanol",
+          "fecha": "Mon, 17 Aug 2026 07:14:24 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f9e5ef6f1f",
+          "titulo": "La guerra de Irán altera el rumbo de un Trump urgido por su baja popularidad",
           "url": "https://elpais.com/internacional/2026-08-16/el-callejon-sin-salida-de-iran-suma-un-nuevo-problema-interno-a-trump.html",
           "fuente": "El Pais Internacional",
           "fecha": "Sun, 16 Aug 2026 03:30:01 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_17fa2b1255",
-          "titulo": "Trump recupera su cruzada contra las vacunas y exige reducir las dosis para los niños",
-          "url": "https://elpais.com/us/2026-08-10/trump-recupera-su-cruzada-contra-las-vacunas-y-exige-reducir-las-dosis-para-los-ninos.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Mon, 10 Aug 2026 22:52:37 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_56793023d6",
-          "titulo": "¿Por qué dos diplomáticos franceses son acusados en Irán de \"infiltración e injerencia\"?",
-          "url": "https://www.france24.com/es/francia/20260816-por-qu%C3%A9-dos-diplom%C3%A1ticos-franceses-son-acusados-en-ir%C3%A1n-de-infiltraci%C3%B3n-e-injerencia",
+          "id": "ev_3b94dc784c",
+          "titulo": "Trump rebaja los ejercicios militares con Corea del Sur en plena escalada de amenazas norcoreanas",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260817-trump-rebaja-los-ejercicios-militares-con-corea-del-sur-en-plena-escalada-de-amenazas-norcoreanas",
           "fuente": "France 24 Espanol",
-          "fecha": "Sun, 16 Aug 2026 01:36:32 GMT",
+          "fecha": "Mon, 17 Aug 2026 01:11:35 GMT",
           "idioma": "es"
         },
         {
@@ -214,21 +97,169 @@
           "idioma": "es"
         },
         {
-          "id": "ev_3c49bc2057",
-          "titulo": "Trump habla de Ormuz como tierra estadounidense, Teherán replica: \"Fue y será iraní\"",
-          "url": "http://es.euronews.com/2026/08/15/trump-habla-de-ormuz-como-tierra-estadounidense-teheran-replica-fue-y-sera-irani",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sat, 15 Aug 2026 10:09:51 +0200",
+          "id": "ev_c938b68095",
+          "titulo": "Trump dice que \"pronto\" va a declarar el estrecho de Ormuz como \"territorio de Estados Unidos\"",
+          "url": "https://www.elmundo.es/internacional/2026/08/14/6a7f789ee9cf4a90188b45b3.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sat, 15 Aug 2026 11:25:17 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_2e13be1db4",
-          "titulo": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
-          "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Sat, 15 Aug 2026 20:38:29 GMT",
+          "id": "ev_51b0817cb6",
+          "titulo": "Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos",
+          "url": "https://www.elmundo.es/internacional/2026/08/14/6a7f0140e4d4d88b488b45ac.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 14 Aug 2026 15:20:32 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_8eca393a5b",
+          "titulo": "Five ways Trump could target Iran’s economy from ‘teapot’ sanctions to land blockade",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-economic-pressure-war-sanctions-b3033861.html",
+          "fuente": "The Independent World",
+          "fecha": "Sun, 16 Aug 2026 16:03:07 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-17_0000",
+      "fecha": "2026-08-17",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-17_0001",
+        "nd_2026-08-17_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Trump recupera su cruzada contra las vacunas y exige reducir las dosis para los niños",
+        "en": "Trump dismisses reports of grim conditions on U.S. aircraft carrier"
+      },
+      "sintesis": {
+        "es": "El presidente de Estados Unidos aprueba una orden ejecutiva que insta a los Estados a revisar sus protocolos sobre las vacunas y separar las dosis en varias citas",
+        "en": "President Donald Trump dismissed reports of grim conditions aboard the USS Abraham Lincoln, an aircraft carrier currently in the Middle East that has now been deployed at sea for more than 260 days."
+      },
+      "categoria": "economia",
+      "actores": [
+        "Trump",
+        "Colombia"
+      ],
+      "geo": {
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
+      },
+      "impacto": 87,
+      "fuentes": [
+        "ev_17fa2b1255",
+        "ev_21345bd9e9",
+        "ev_f1540439fb",
+        "ev_7e11444a22",
+        "ev_f5d458a22a",
+        "ev_3a08ff91c1"
+      ],
+      "cluster_id": "cl_054",
+      "imagenes": [
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203519_001127_video_1800.mp4",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/15/17868274082644.jpg",
+        "https://e3.365dm.com/26/02/1920x1080/skynews-uss-abraham-lincoln_7168856.jpg?20260219082228",
+        "https://static.independent.co.uk/2026/08/16/19/02/GettyImages-2209060631.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_17fa2b1255",
+          "titulo": "Trump recupera su cruzada contra las vacunas y exige reducir las dosis para los niños",
+          "url": "https://elpais.com/us/2026-08-10/trump-recupera-su-cruzada-contra-las-vacunas-y-exige-reducir-las-dosis-para-los-ninos.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Mon, 10 Aug 2026 22:52:37 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_21345bd9e9",
+          "titulo": "El presidente de Colombia pide a Trump la suspensión temporal de los aranceles por el terremoto",
+          "url": "https://www.elmundo.es/internacional/2026/08/15/6a80d33efdddff88538b4589.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sun, 16 Aug 2026 07:45:06 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f1540439fb",
+          "titulo": "Trump dismisses concerns about conditions on US aircraft carrier",
+          "url": "https://news.sky.com/story/donald-trump-dismisses-concerns-about-conditions-on-us-aircraft-carrier-13573196",
+          "fuente": "Sky News World",
+          "fecha": "Sat, 15 Aug 2026 02:05:00 +0100",
           "idioma": "en"
         },
+        {
+          "id": "ev_7e11444a22",
+          "titulo": "Trump dismisses reports of grim conditions on U.S. aircraft carrier",
+          "url": "https://www.cbc.ca/player/play/9.7309072?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Sun, 16 Aug 2026 10:49:01 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f5d458a22a",
+          "titulo": "Colombia’s president asks Trump to halt tariffs to aid earthquake recovery",
+          "url": "https://www.independent.co.uk/news/world/americas/colombia-president-trump-tariffs-earthquake-recovery-b3033915.html",
+          "fuente": "The Independent World",
+          "fecha": "Sun, 16 Aug 2026 19:37:41 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3a08ff91c1",
+          "titulo": "Trump’s 2028 hat and ‘We are going to win’ message sparks fury among left about third-term ambitions",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-2028-third-term-truth-social-post-b3033863.html",
+          "fuente": "The Independent World",
+          "fecha": "Sun, 16 Aug 2026 16:00:06 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-17_0001",
+      "fecha": "2026-08-17",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-08-17_0000",
+        "nd_2026-08-17_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
+        "en": "Trump threatens to declare strait of Hormuz ‘territory of the United States’"
+      },
+      "sintesis": {
+        "es": "Seriousness of remark made in New York on Friday, and whether it signaled new policy ​position, not clear Donald Trump has threatened to declare the strait of Hormuz as “a territory of the United States” as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would “pretty soon” designate the waterway – a crucial chokepoint for global trade, through which about a fifth of the world’s seaborne oil supplies typically pass – a US territory. Continue reading...",
+        "en": "Seriousness of remark made in New York on Friday, and whether it signaled new policy ​position, not clear Donald Trump has threatened to declare the strait of Hormuz as “a territory of the United States” as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would “pretty soon” designate the waterway – a crucial chokepoint for global trade, through which about a fifth of the world’s seaborne oil supplies typically pass – a US territory. Continue reading..."
+      },
+      "categoria": "salud",
+      "actores": [
+        "Trump",
+        "Hormuz",
+        "United States",
+        "Tehran"
+      ],
+      "geo": {
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
+      },
+      "impacto": 83,
+      "fuentes": [
+        "ev_23447f756c",
+        "ev_c8e9b4ca6a",
+        "ev_130cc99432",
+        "ev_4cf2022369",
+        "ev_2f45bbd4f4",
+        "ev_72f3e9cecb"
+      ],
+      "cluster_id": "cl_199",
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/b5c83da9efbbf04d1758c3b4f20d9ba23182b70d/206_0_4535_3628/master/4535.jpg?width=140&quality=85&auto=format&fit=max&s=f1935c96b4f6952f19cc53d22246976e",
+        "https://static.independent.co.uk/2026/08/16/15/941693794..?width=1200&auto=webp&trim=0%2C195%2C0%2C195"
+      ],
+      "estado": "verificado",
+      "referencias": [
         {
           "id": "ev_23447f756c",
           "titulo": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
@@ -246,14 +277,6 @@
           "idioma": "en"
         },
         {
-          "id": "ev_f10a8ebaa3",
-          "titulo": "Trump says he will declare the Strait of Hormuz a US territory",
-          "url": "https://www.independent.co.uk/news/world/middle-east/trump-strait-of-hormuz-us-iran-war-b3033549.html",
-          "fuente": "The Independent World",
-          "fecha": "Sat, 15 Aug 2026 13:29:00 GMT",
-          "idioma": "en"
-        },
-        {
           "id": "ev_130cc99432",
           "titulo": "Trump suggests in speech that 'pretty soon I'll be declaring' Hormuz strait a U.S. territory",
           "url": "https://www.cbc.ca/news/world/trump-iran-strait-hormuz-us-territory-9.7307977?cmp=rss",
@@ -262,384 +285,204 @@
           "idioma": "en"
         },
         {
-          "id": "ev_edc7a6ac04",
-          "titulo": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 16 Aug 2026 00:00:45 +0000",
+          "id": "ev_4cf2022369",
+          "titulo": "Iran-US war latest: Tehran’s army chief tells Trump ‘we’ll break your legs’ and places $30k bounty on US soldiers",
+          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-news-trump-qatar-pilot-detention-b3033790.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 17 Aug 2026 04:37:48 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_0accb8d6f3",
-          "titulo": "With Trump’s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
-          "url": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 14 Aug 2026 13:20:34 +0000",
+          "id": "ev_2f45bbd4f4",
+          "titulo": "WHO statement on notification of withdrawal of the United States",
+          "url": "https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states",
+          "fuente": "WHO News",
+          "fecha": "Sat, 24 Jan 2026 20:09:49 Z",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_72f3e9cecb",
+          "titulo": "WHO comments on United States’ announcement of intent to withdraw",
+          "url": "https://www.who.int/news/item/21-01-2025-who-comments-on-united-states--announcement-of-intent-to-withdraw",
+          "fuente": "WHO News",
+          "fecha": "Tue, 21 Jan 2025 10:04:49 Z",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-16_0001",
-      "fecha": "2026-08-16",
+      "id": "nd_2026-08-17_0002",
+      "fecha": "2026-08-17",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-16_0003"
+        "nd_2026-08-17_0000",
+        "nd_2026-08-17_0001"
       ]
     },
     {
       "titulo": {
-        "es": "Terremoto en Indonesia: rescate a contrarreloj mientras levantan alerta de tsunami",
-        "en": "Indonesia wildfires threaten orangutans rescued from animal traffickers"
+        "es": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+        "en": "Israeli military plans to transfer law enforcement in occupied West Bank to police"
       },
       "sintesis": {
-        "es": "Un terremoto de magnitud 7,7 sacudió Indonesia, dejando graves daños en viviendas e infraestructura. La alerta de tsunami fue activada y luego levantada. El sismo, de apenas 10 km de profundidad, golpeó con fuerza a una región altamente vulnerable del Anillo de Fuego del Pacífico.",
-        "en": "Blaze fuelled by hot, dry and windy conditions comes within metres of West Kalimantan rehabilitation centre Orangutans rescued from wildlife traffickers face a new threat from the record number of fires that have broken out in Indonesia in recent weeks. Flames have come within metres of an animal rehabilitation centre in West Kalimantan as hot, dry and windy conditions have been amplified by a powerful El Niño and the human-driven climate crisis. Continue reading..."
+        "es": "Palestine’s vice-president calls plan ‘flagrant violation of international law’ and a step towards full Israeli annexation Israel’s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine’s vice-president described as a “flagrant violation of international law” and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army’s failure to tackle militants besieging three Palestinian families . Continue reading...",
+        "en": "Palestine’s vice-president calls plan ‘flagrant violation of international law’ and a step towards full Israeli annexation Israel’s defence minister wants to transfer law enforcement powers for Israelis in the occupied West Bank over to the police, a plan that Palestine’s vice-president described as a “flagrant violation of international law” and step towards full Israeli annexation. Israel Katz announced that he had ordered the military to draw up plans for the handover of responsibility for policing Israeli settlers amid domestic and international criticism of the army’s failure to tackle militants besieging three Palestinian families . Continue reading..."
       },
-      "categoria": "clima",
+      "categoria": "geopolitica",
       "actores": [
-        "Indonesia",
-        "Terremoto"
+        "West Bank",
+        "Israeli",
+        "Palestinians",
+        "Security Council"
       ],
       "geo": {
         "lat": 46.6,
         "lon": 2.2,
         "region": "Europa"
       },
-      "impacto": 87,
+      "impacto": 83,
       "fuentes": [
-        "ev_226a2bbeaa",
-        "ev_17414e8623",
-        "ev_1bee37754f",
-        "ev_b038e009a8",
-        "ev_216a767195",
-        "ev_cd9dd523f6"
+        "ev_5956343a66",
+        "ev_90769b1f95",
+        "ev_ed9a944d87",
+        "ev_7fa988b4dc",
+        "ev_a51994abea",
+        "ev_27a81325fb",
+        "ev_a0f179d3fa",
+        "ev_d0270ca9ba",
+        "ev_94faff01ce",
+        "ev_699216ea36"
       ],
-      "cluster_id": "cl_063",
+      "cluster_id": "cl_200",
       "imagenes": [
-        "https://s.france24.com/media/display/5ae2c888-98b3-11f1-90ab-005056bf30b7/w:1024/p:16x9/ES-20260815-070710-070843-CS.jpg",
-        "https://s.rfi.fr/media/display/342253c2-9853-11f1-8781-005056a97e36/w:1024/p:16x9/AP26227063973718.jpg",
-        "https://i.guim.co.uk/img/media/365918ec3179a84ff298260a75a2f84e0be35263/34_0_3960_3168/master/3960.jpg?width=140&quality=85&auto=format&fit=max&s=b36dbdcf7004485e56ce49e75cd6d4e3",
-        "https://s.france24.com/media/display/2425fcd2-98a1-11f1-a5ff-005056bf30b7/w:1024/p:16x9/EN-20260815-130828-131119-CS.jpg"
+        "https://i.guim.co.uk/img/media/b3ca7d7b89c8fea93d13e3268882fcc9a706ce5d/912_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=e7d53f1056ecc53d39b3744b1c0b197b",
+        "https://s.france24.com/media/display/1db63f36-9970-11f1-aa90-005056a90284/w:1024/p:16x9/EN-20260816-140839-141311-CS.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-02-2025-UNICEF-West-Bank-02.jpg/image560x340cropped.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/31-07-2026_Adobe_West-Bank.jpg/image560x340cropped.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_226a2bbeaa",
-          "titulo": "Terremoto en Indonesia: rescate a contrarreloj mientras levantan alerta de tsunami",
-          "url": "https://www.france24.com/es/video/20260815-terremoto-en-indonesia-rescate-a-contrarreloj-mientras-levantan-alerta-de-tsunami",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sat, 15 Aug 2026 15:22:29 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_17414e8623",
-          "titulo": "Indonesia, sacudida por dos terremotos en un mismo día",
-          "url": "https://www.rfi.fr/es/asia-pacifico/20260815-fuerte-terremoto-en-indonesia-de-magnitud-7-7-provoca-al-menos-38-v%C3%ADctimas-mortales-y-graves-da%C3%B1os",
-          "fuente": "RFI Espanol",
-          "fecha": "Sat, 15 Aug 2026 10:15:13 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_1bee37754f",
-          "titulo": "Un potente terremoto de magnitud 7,7 sacude Indonesia y causa al menos 47 muertos",
-          "url": "http://es.euronews.com/2026/08/15/un-potente-terremoto-de-magnitud-77-sacude-indonesia-y-causa-al-menos-20-muertos",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sat, 15 Aug 2026 10:03:38 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_b038e009a8",
-          "titulo": "Indonesia wildfires threaten orangutans rescued from animal traffickers",
-          "url": "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers",
+          "id": "ev_5956343a66",
+          "titulo": "Israeli military plans to transfer law enforcement in occupied West Bank to police",
+          "url": "https://www.theguardian.com/world/2026/aug/14/israeli-military-plans-transfer-law-enforcement-in-occupied-west-bank-to-police",
           "fuente": "The Guardian World",
-          "fecha": "Fri, 14 Aug 2026 04:00:16 GMT",
+          "fecha": "Fri, 14 Aug 2026 17:52:51 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_216a767195",
-          "titulo": "Indonesia hit by earthquake aftershock as rescuers search for survivors",
-          "url": "https://www.france24.com/en/indonesia-hit-by-earthquake-aftershock-as-rescuers-search-for-survivors",
+          "id": "ev_90769b1f95",
+          "titulo": "West Bank: Activist recounts life under settler siege in Qusra",
+          "url": "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra",
           "fuente": "France 24 English",
-          "fecha": "Sat, 15 Aug 2026 12:34:05 GMT",
+          "fecha": "Sun, 16 Aug 2026 14:38:57 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_cd9dd523f6",
-          "titulo": "🔴 Indonesia hit by two powerful earthquakes",
-          "url": "https://www.france24.com/en/asia-pacific/20260815-deadly-earthquake-strikes-indonesia-and-triggers-mass-evacuations",
-          "fuente": "France 24 English",
-          "fecha": "Sat, 15 Aug 2026 11:49:36 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-16_0002",
-      "fecha": "2026-08-16",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-16_0008",
-        "nd_2026-08-16_0011",
-        "nd_2026-08-16_0013"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "El presidente de Colombia pide a Trump la suspensión temporal de los aranceles por el terremoto",
-        "en": "Trump’s prosecutors investigate firm that was co-owned by daughter of judge in president’s hush-money trial: report"
-      },
-      "sintesis": {
-        "es": "Las tasas de Estados Unidos a los productos colombianos pasaron a finales de julio del 10% al 12,5% con algunas excepciones como el café o el petróleo.",
-        "en": "Trump and his allies have repeatedly attacked the Merchans, baselessly claiming the judge was biased and his daughter profited from his hush-money trial"
-      },
-      "categoria": "economia",
-      "actores": [
-        "Trump",
-        "Colombia",
-        "Will Trump"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 87,
-      "fuentes": [
-        "ev_21345bd9e9",
-        "ev_2700e9f076",
-        "ev_c18fa3320c",
-        "ev_f1540439fb",
-        "ev_d1f87a28a5",
-        "ev_0f5907e1a9"
-      ],
-      "cluster_id": "cl_122",
-      "imagenes": [
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/15/17868274082644.jpg",
-        "https://e3.365dm.com/26/02/1920x1080/skynews-uss-abraham-lincoln_7168856.jpg?20260219082228",
-        "https://static.independent.co.uk/2025/06/11/0/14/GettyImages-2155290960.jpg?width=1200&auto=webp&crop=3%3A2",
-        "https://images.mktw.net/im-76269168"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_21345bd9e9",
-          "titulo": "El presidente de Colombia pide a Trump la suspensión temporal de los aranceles por el terremoto",
-          "url": "https://www.elmundo.es/internacional/2026/08/15/6a80d33efdddff88538b4589.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sat, 15 Aug 2026 23:00:32 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_2700e9f076",
-          "titulo": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-          "url": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
+          "id": "ev_ed9a944d87",
+          "titulo": "Palestinian-American travels to West Bank home encircled by Israeli settler",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Sat, 15 Aug 2026 23:04:47 +0000",
+          "fecha": "Mon, 17 Aug 2026 03:41:30 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_c18fa3320c",
-          "titulo": "Trump administration wants to allow companies to hack foreign cybercriminals",
-          "url": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
-          "fuente": "NPR News",
-          "fecha": "Sat, 15 Aug 2026 13:25:34 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f1540439fb",
-          "titulo": "Trump dismisses concerns about conditions on US aircraft carrier",
-          "url": "https://news.sky.com/story/donald-trump-dismisses-concerns-about-conditions-on-us-aircraft-carrier-13573196",
-          "fuente": "Sky News World",
-          "fecha": "Sat, 15 Aug 2026 02:05:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d1f87a28a5",
-          "titulo": "Trump’s prosecutors investigate firm that was co-owned by daughter of judge in president’s hush-money trial: report",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-merchans-daughter-investigation-hush-money-trial-b3033598.html",
-          "fuente": "The Independent World",
-          "fecha": "Sat, 15 Aug 2026 14:47:19 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_0f5907e1a9",
-          "titulo": "Will Trump accounts and grandparent 529s bring down the price of college in the future?",
-          "url": "https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Sat, 15 Aug 2026 16:52:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-16_0003",
-      "fecha": "2026-08-16",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-08-16_0001"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Guerra entre Estados Unidos e Irán se prolonga con presión sobre el estrecho de Ormuz y la economía global",
-        "en": "US-Iran war drags on with pressure on the Strait of Hormuz and global economy"
-      },
-      "sintesis": {
-        "es": "Tras siete meses de conflicto, Irán resiste pese a la fuerte presión económica y de infraestructura, mientras Trump amenaza con declarar el estrecho de Ormuz 'territorio estadounidense', lo que elevó el precio del petróleo Brent. La guerra ha reducido drásticamente las reservas de crudo de EE.UU., disparando los precios de la gasolina a récords históricos, y genera dudas entre aliados asiáticos sobre el compromiso estadounidense en la región ante el avance de China. En el plano interno, Trump enfrenta críticas por atribuir la inflación y otros problemas a factores externos de cara a las elecciones legislativas de noviembre.",
-        "en": "Seven months into the conflict, Iran continues to resist despite heavy economic and infrastructure pressure, while Trump threatens to declare the Strait of Hormuz 'US territory,' pushing up Brent crude prices. The war has sharply depleted US oil reserves, driving gas prices to record highs, and is raising doubts among Asian allies about US commitment to the region as China expands its influence. Domestically, Trump faces criticism for blaming external factors for inflation and other issues ahead of November's midterm elections."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Estados Unidos",
-        "Irán",
-        "Donald Trump",
-        "China",
-        "aliados asiáticos de EE.UU."
-      ],
-      "geo": {
-        "lat": 26.5,
-        "lon": 56.25,
-        "region": "Estrecho de Ormuz / Irán"
-      },
-      "impacto": 85,
-      "fuentes": [
-        "ev_1e5688f6cc",
-        "ev_c938b68095",
-        "ev_f756b79508",
-        "ev_564439b066",
-        "ev_c5e3a9b5b2",
-        "ev_6964c92df6",
-        "ev_aa360fef61",
-        "ev_dc44b012e4",
-        "ev_41b3af8420",
-        "ev_2ae3394c24"
-      ],
-      "cluster_id": "cl_001",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ca1/live/fb244850-94b0-11f1-afe9-fb1a837ec5d9.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/14/17867387969096.jpg",
-        "https://static01.nyt.com/images/2026/08/12/multimedia/00dc-trump-asia-01-vczm/00dc-trump-asia-01-vczm-mediumSquareAt3X.jpg",
-        "https://static.independent.co.uk/2026/08/15/20/14/GettyImages-1434807937.jpeg?width=1200&auto=webp&trim=171%2C0%2C241%2C0"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1e5688f6cc",
-          "titulo": "¿Cuánto más puede aguantar Irán la guerra con Estados Unidos?",
-          "url": "https://www.bbc.com/mundo/articles/c0rdylwpj4no?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Sat, 15 Aug 2026 14:26:44 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c938b68095",
-          "titulo": "Trump dice que \"pronto\" va a declarar el estrecho de Ormuz como \"territorio de Estados Unidos\"",
-          "url": "https://www.elmundo.es/internacional/2026/08/14/6a7f789ee9cf4a90188b45b3.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sat, 15 Aug 2026 11:25:17 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f756b79508",
-          "titulo": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
-          "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
-          "fuente": "NYT World",
-          "fecha": "Sat, 15 Aug 2026 09:01:01 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_564439b066",
-          "titulo": "US oil reserves are so low amid Trump’s Iran war the caverns holding them could be damaged",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/strategic-petroleum-reserve-trump-iran-war-gas-prices-b3033680.html",
-          "fuente": "The Independent World",
-          "fecha": "Sat, 15 Aug 2026 20:44:23 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c5e3a9b5b2",
-          "titulo": "Trump takes blame game to a new level with Reflecting Pool, Iran war and inflation finger pointing",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-reflecting-pool-iran-war-inflation-b3033664.html",
-          "fuente": "The Independent World",
-          "fecha": "Sat, 15 Aug 2026 18:04:18 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6964c92df6",
-          "titulo": "Irán denuncia daños de billones de dólares por la contaminación petrolera en el Golfo",
-          "url": "http://es.euronews.com/2026/08/14/iran-cifra-billones-danos-causados-vertidos-golfo",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 14 Aug 2026 21:00:45 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_aa360fef61",
-          "titulo": "U.S. signals it can keep up naval blockade indefinitely, increase economic pressure on Iran",
-          "url": "https://www.cbc.ca/news/world/hegseth-us-blockade-iran-9.7306636?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Thu, 13 Aug 2026 18:42:44 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_dc44b012e4",
-          "titulo": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-          "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sat, 15 Aug 2026 21:03:57 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_41b3af8420",
-          "titulo": "Qatar denies Tehran’s claim it is detaining Iranian bomber pilots",
-          "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+          "id": "ev_7fa988b4dc",
+          "titulo": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Sat, 15 Aug 2026 20:55:29 +0000",
+          "fecha": "Mon, 17 Aug 2026 01:28:13 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_2ae3394c24",
-          "titulo": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
-          "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
-          "fuente": "NYT World",
-          "fecha": "Sat, 15 Aug 2026 19:36:20 +0000",
+          "id": "ev_a51994abea",
+          "titulo": "UN’s Albanese: Israel outsourcing coercion to settlers in West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sun, 16 Aug 2026 23:58:45 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_27a81325fb",
+          "titulo": "What could stop Israeli settler attacks on Palestinians?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sun, 16 Aug 2026 21:54:58 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a0f179d3fa",
+          "titulo": "Occupied West Bank: Settler siege of Palestinians marks a new low",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168130",
+          "fuente": "UN News",
+          "fecha": "Thu, 13 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d0270ca9ba",
+          "titulo": "Security Council LIVE: Spotlight on Israeli settler violence in West Bank",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168113",
+          "fuente": "UN News",
+          "fecha": "Tue, 11 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_94faff01ce",
+          "titulo": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168131",
+          "fuente": "UN News",
+          "fecha": "Thu, 13 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_699216ea36",
+          "titulo": "‘Israeli settlers set fire to my West Bank family home with children inside’",
+          "url": "https://www.independent.co.uk/news/world/middle-east/israeli-settler-attack-west-bank-fire-homes-children-inside-b3032645.html",
+          "fuente": "The Independent World",
+          "fecha": "Sun, 16 Aug 2026 12:21:58 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-16_0004",
-      "fecha": "2026-08-16",
+      "id": "nd_2026-08-17_0003",
+      "fecha": "2026-08-17",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Terremoto de magnitud 7,4 en Colombia deja cerca de 300 muertos y miles de damnificados",
-        "en": "Magnitude 7.4 earthquake in Colombia leaves nearly 300 dead and thousands affected"
+        "es": "Terremoto de magnitud 7,4 en Colombia deja casi 300 muertos y una masiva respuesta humanitaria",
+        "en": "Magnitude 7.4 earthquake in Colombia leaves nearly 300 dead and massive humanitarian response"
       },
       "sintesis": {
-        "es": "Un terremoto de magnitud 7,4 ocurrido el 10 de agosto de 2026 en Colombia ha dejado un saldo que asciende a 294 muertos y casi 4.000 heridos, según los últimos balances oficiales. El sismo provocó miles de viviendas destruidas y una emergencia humanitaria que sigue en curso, mientras el gobierno colombiano anuncia los primeros pasos hacia la reconstrucción y convoca al sector privado. La cobertura destaca contrastes como el caso de Armenia, ciudad que se reconstruyó tras el terremoto de 1999 y esta vez no registró víctimas mortales, junto a relatos de rescates y pérdidas entre los escombros.",
-        "en": "A magnitude 7.4 earthquake that struck Colombia on August 10, 2026 has left a death toll rising to 294 and nearly 4,000 injured, according to the latest official reports. The quake destroyed thousands of homes and triggered an ongoing humanitarian emergency, while the Colombian government announces initial steps toward reconstruction and calls on the private sector for support. Coverage highlights contrasts such as Armenia, a city rebuilt after the 1999 earthquake that this time recorded no fatalities, alongside stories of rescues and losses amid the rubble."
+        "es": "Un terremoto de magnitud 7,4 sacudió el occidente de Colombia el 10 de agosto de 2026, dejando hasta el momento 289 muertos, más de 4.000 heridos, 143 desaparecidos y más de 185.000 damnificados. Las labores de búsqueda y rescate continúan pese a haberse superado la 'ventana de vida', mientras el gobierno colombiano, la ONU y donantes privados como la familia Gilinski movilizan ayuda humanitaria y fondos para la reconstrucción. La ciudad de Armenia, reconstruida tras el sismo de 1999, no registró muertos en este nuevo evento, contrastando con la devastación en otras zonas.",
+        "en": "A magnitude 7.4 earthquake struck western Colombia on August 10, 2026, leaving 289 dead so far, over 4,000 injured, 143 missing, and more than 185,000 affected. Search and rescue efforts continue despite the 'window of life' having passed, while the Colombian government, the UN, and private donors like the Gilinski family mobilize humanitarian aid and reconstruction funds. The city of Armenia, rebuilt after the 1999 quake, recorded no deaths in this new event, contrasting with devastation elsewhere."
       },
       "categoria": "sociedad",
       "actores": [
         "Gobierno de Colombia",
-        "Habitantes de Armenia",
-        "Equipos de rescate",
-        "Sector privado colombiano"
+        "UNGRD",
+        "ONU",
+        "Familia Gilinski",
+        "Juan Pablo Montoya"
       ],
       "geo": {
-        "lat": 4.5709,
-        "lon": -74.2973,
-        "region": "Colombia"
+        "lat": 4.5,
+        "lon": -75.7,
+        "region": "Colombia (occidente, incluyendo Cali y Armenia)"
       },
-      "impacto": 72,
+      "impacto": 80,
       "fuentes": [
         "ev_970678afc7",
         "ev_f6408cea3c",
-        "ev_92d0da5fb3",
-        "ev_7500435ff1",
-        "ev_1ee3c7d186",
-        "ev_b317a5b40f"
+        "ev_7dd65196a4",
+        "ev_79a0adc2b9",
+        "ev_b317a5b40f",
+        "ev_1f19606cda"
       ],
-      "cluster_id": "cl_003",
+      "cluster_id": "cl_009",
       "imagenes": [
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7774/live/ff2b7b30-983e-11f1-a1f9-67130a019877.jpg",
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/98c6/live/c792b770-958b-11f1-b2ab-0dd01740f9f6.jpg",
-        "https://s.france24.com/media/display/ac47ed7a-96b0-11f1-8ee7-005056a97e36/w:1024/p:16x9/AP26224064927644.jpg",
-        "https://s.france24.com/media/display/17467b4a-9829-11f1-9e5f-005056bfb2b6/w:1024/p:16x9/2026-08-14T211913Z-1471403704-RC2DYMATLMVF-RTRMADP-3-COLOMBIA-QUAKE.jpg"
+        "https://s.france24.com/media/display/8ab81402-97f8-11f1-839e-005056bfb2b6/w:1024/p:16x9/62764688efce8c279c0c768945b4e8f7b3b3c735.jpg",
+        "https://s.france24.com/media/display/2a85dbb8-998e-11f1-840e-005056a90284/w:1024/p:16x9/2026-08-15T173451Z-994393473-RC24ZMAW35QI-RTRMADP-3-COLOMBIA-QUAKE.jpg"
       ],
       "estado": "verificado",
       "referencias": [
@@ -660,27 +503,19 @@
           "idioma": "es"
         },
         {
-          "id": "ev_92d0da5fb3",
-          "titulo": "Entre el dolor y el renacer: cinco historias entre los escombros del terremoto en Colombia",
-          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260815-entre-el-dolor-y-el-renacer-cinco-historias-entre-los-escombros-del-terremoto-en-colombia",
+          "id": "ev_7dd65196a4",
+          "titulo": "Colombia, una semana después del terremoto: casi 300 muertos y un largo camino de dolor y recuperación",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260816-colombia-una-semana-despu%C3%A9s-del-terremoto-casi-300-muertos-y-un-largo-camino-de-dolor-y-recuperaci%C3%B3n",
           "fuente": "France 24 Espanol",
-          "fecha": "Sat, 15 Aug 2026 21:50:58 GMT",
+          "fecha": "Sun, 16 Aug 2026 23:40:04 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_7500435ff1",
-          "titulo": "🔴 En directo | nuevo balance del terremoto en Colombia: 294 muertos y 3.935 heridos",
-          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260815-en-directo-contin%C3%BAa-la-b%C3%BAsqueda-de-sobrevivientes-cinco-d%C3%ADas-despu%C3%A9s-del-terremoto-en-colombia",
+          "id": "ev_79a0adc2b9",
+          "titulo": "Colombia mantiene la búsqueda de desaparecidos mientras crecen las donaciones tras el terremoto",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260816-en-directo-colombia-mantiene-labores-de-b%C3%BAsqueda-y-asistencia-mientras-se-registran-nuevos-tembloes-en-choc%C3%B3",
           "fuente": "France 24 Espanol",
-          "fecha": "Sat, 15 Aug 2026 14:42:00 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_1ee3c7d186",
-          "titulo": "Colombia: ¿qué pasa con los contratos de arrendamiento y los seguros inmobiliarios tras el terremoto?",
-          "url": "https://www.france24.com/es/programas/econom%C3%ADa/20260815-colombia-qu%C3%A9-pasa-con-los-contratos-de-arrendamiento-y-los-seguros-inmobiliarios-tras-el-terremoto",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sat, 15 Aug 2026 14:06:41 GMT",
+          "fecha": "Sun, 16 Aug 2026 13:37:43 GMT",
           "idioma": "es"
         },
         {
@@ -690,639 +525,802 @@
           "fuente": "El Mundo Internacional",
           "fecha": "Fri, 14 Aug 2026 07:20:59 +0200",
           "idioma": "es"
+        },
+        {
+          "id": "ev_1f19606cda",
+          "titulo": "UN continues scaling up response to earthquake in Colombia",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168128",
+          "fuente": "UN News",
+          "fecha": "Wed, 12 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-16_0005",
-      "fecha": "2026-08-16",
+      "id": "nd_2026-08-17_0004",
+      "fecha": "2026-08-17",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-17_0005",
+        "nd_2026-08-17_0007",
+        "nd_2026-08-17_0009"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "El brote de ébola en la República Democrática del Congo se convierte en el más mortífero de su historia",
+        "en": "Ebola outbreak in DR Congo becomes deadliest in its history"
+      },
+      "sintesis": {
+        "es": "El brote de ébola causado por la rara especie Bundibugyo en la República Democrática del Congo se ha convertido en el más letal de la historia del país, con al menos 2.325 muertos y 4.945 casos confirmados, superando el brote de 2018-2020. La epidemia se ha extendido ya a seis provincias, y la OMS advierte que el virus avanza más rápido que la capacidad de rastreo y contención. Ex combatientes rebeldes se han sumado a las campañas de información pública para frenar su propagación en el este del país.",
+        "en": "An Ebola outbreak caused by the rare Bundibugyo species in the Democratic Republic of Congo has become the deadliest in the country's history, with at least 2,325 deaths and 4,945 confirmed cases, surpassing the 2018-2020 outbreak. The epidemic has now spread to six provinces, with the WHO warning the virus is outpacing containment efforts. Former rebel fighters have joined public awareness campaigns to help curb its spread in the country's east."
+      },
+      "categoria": "salud",
+      "actores": [
+        "Gobierno de la República Democrática del Congo",
+        "Organización Mundial de la Salud (OMS)",
+        "Instituto Nacional de Salud Pública de la RDC",
+        "ONU",
+        "ex combatientes rebeldes"
+      ],
+      "geo": {
+        "lat": -2.5,
+        "lon": 27.0,
+        "region": "República Democrática del Congo (este del país)"
+      },
+      "impacto": 78,
+      "fuentes": [
+        "ev_5a4c26bc8d",
+        "ev_49308dab28",
+        "ev_c1e28b7c8b",
+        "ev_5256f12c60",
+        "ev_fa2ab113e8",
+        "ev_ce8b2b19a4",
+        "ev_6496b39860",
+        "ev_e3a05f226b"
+      ],
+      "cluster_id": "cl_157",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6968/live/176af9c0-99f5-11f1-8ffd-896dfa12c5fd.jpg",
+        "https://i.guim.co.uk/img/media/a393063cc2d82e5b3b20c44e22654a645b95ab37/581_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e627dfdebce0f22e71d4b8bb71204ef6",
+        "https://i.guim.co.uk/img/media/7cdf83c55d79a96a161395d5c73576671830d88a/31_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=69ea3d0c862b6a5b0a713ec4ccab78d2",
+        "https://e3.365dm.com/26/08/1920x1080/skynews-ebola-congo_7323686.jpg?20260816231920"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5a4c26bc8d",
+          "titulo": "Ebola outbreak in DR Congo becomes deadliest in its history",
+          "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Mon, 17 Aug 2026 04:41:31 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_49308dab28",
+          "titulo": "Ebola outbreak in Democratic Republic of Congo now deadliest in country’s history",
+          "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+          "fuente": "The Guardian World",
+          "fecha": "Mon, 17 Aug 2026 00:09:57 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c1e28b7c8b",
+          "titulo": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+          "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+          "fuente": "The Guardian World",
+          "fecha": "Thu, 13 Aug 2026 15:17:13 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5256f12c60",
+          "titulo": "'A wake-up call': Ebola outbreak is now DR Congo's deadliest",
+          "url": "https://news.sky.com/story/ebola-outbreak-in-dr-congo-now-deadliest-in-countrys-history-13573874",
+          "fuente": "Sky News World",
+          "fecha": "Sun, 16 Aug 2026 23:05:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_fa2ab113e8",
+          "titulo": "Democratic Republic of Congo's Ebola outbreak is now the deadliest in its history",
+          "url": "https://www.cbc.ca/news/world/drc-ebola-outbreak-deadliest-in-history-9.7309296?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Sun, 16 Aug 2026 20:35:41 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ce8b2b19a4",
+          "titulo": "Ebola outbreak in DR Congo becomes deadliest in country’s history",
+          "url": "https://www.aljazeera.com/news/2026/8/17/ebola-outbreak-in-dr-congo-becomes-deadliest-in-countrys-history?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 17 Aug 2026 01:41:40 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6496b39860",
+          "titulo": "Former rebel fighters join campaign against Ebola in the DR Congo",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168146",
+          "fuente": "UN News",
+          "fecha": "Sat, 15 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e3a05f226b",
+          "titulo": "Ebola tracing improves in DR Congo – but the virus is still winning the race",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168137",
+          "fuente": "UN News",
+          "fecha": "Thu, 13 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-17_0005",
+      "fecha": "2026-08-17",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-17_0004",
+        "nd_2026-08-17_0007"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Ministro israelí Ben-Gvir pide matar a '30 o 40' palestinos por noche en Gaza",
+        "en": "Israeli minister Ben-Gvir calls for killing '30 to 40' Palestinians nightly in Gaza"
+      },
+      "sintesis": {
+        "es": "El ministro de Seguridad Nacional de Israel, Itamar Ben-Gvir, miembro del gabinete de seguridad, declaró en una entrevista grabada que se debería matar entre 30 y 40 palestinos cada noche en Gaza, además de promover la emigración masiva de la población de la Franja, a la que considera territorio íntegramente israelí. Paralelamente, medios reportan que el ministro de Defensa Katz busca transferir a la policía la responsabilidad de proteger a los palestinos en Cisjordania tras ataques de colonos, en un contexto de creciente tolerancia oficial hacia la violencia contra civiles palestinos.",
+        "en": "Israeli National Security Minister Itamar Ben-Gvir, a member of the security cabinet, stated in a taped interview that 30 to 40 Palestinians should be killed nightly in Gaza, while also advocating for the mass emigration of Gaza's population, which he views as entirely Israeli territory. Separately, reports indicate Defense Minister Katz is seeking to shift responsibility for protecting Palestinians in the West Bank from the military to the police following settler attacks, amid growing official tolerance of violence against Palestinian civilians."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Itamar Ben-Gvir",
+        "Israel Katz",
+        "Gobierno de Israel",
+        "Palestinos en Gaza",
+        "Colonos israelíes en Cisjordania"
+      ],
+      "geo": {
+        "lat": 31.5,
+        "lon": 34.47,
+        "region": "Franja de Gaza / Cisjordania, Israel-Palestina"
+      },
+      "impacto": 78,
+      "fuentes": [
+        "ev_f1fc9f24e9",
+        "ev_c785f16c68",
+        "ev_67467111d3"
+      ],
+      "cluster_id": "cl_227",
+      "imagenes": [
+        "https://static01.nyt.com/images/2026/08/13/multimedia/13int-westbank-1-gqkf/13int-westbank-1-gqkf-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_f1fc9f24e9",
+          "titulo": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
+          "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sun, 16 Aug 2026 23:58:34 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c785f16c68",
+          "titulo": "Ben-Gvir calls for killing of '30 to 40' Palestinians in Gaza nightly in taped interview with former hostage",
+          "url": "http://www.euronews.com/2026/08/17/ben-gvir-calls-for-killing-of-30-to-40-palestinians-in-gaza-nightly-in-taped-interview-wit",
+          "fuente": "Euronews English",
+          "fecha": "Mon, 17 Aug 2026 06:42:23 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_67467111d3",
+          "titulo": "As Army Fails to Protect Palestinians, Israeli Leaders Sympathize With Settlers",
+          "url": "https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 14 Aug 2026 21:01:21 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-17_0006",
+      "fecha": "2026-08-17",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Ataques israelíes matan a 11 personas en el sur del Líbano en el peor saldo desde la tregua de junio",
-        "en": "Israeli strikes kill 11 in southern Lebanon in worst toll since June truce"
+        "es": "Gaza sigue en crisis humanitaria pese al alto el fuego",
+        "en": "Gaza remains in humanitarian crisis despite ceasefire"
       },
       "sintesis": {
-        "es": "Ataques aéreos israelíes contra los pueblos de Ansar y Deir al-Zahrani, en el sur del Líbano, mataron al menos a 11 personas, incluidos tres niños, y dejaron 19 heridos. Israel afirmó haber atacado infraestructura de Hezbolá en respuesta a un ataque previo que hirió a tres soldados israelíes, mientras Hezbolá amenazó con represalias. Este es el episodio más letal desde que los acuerdos de junio redujeron las hostilidades entre ambas partes.",
-        "en": "Israeli airstrikes on the villages of Ansar and Deir al-Zahrani in southern Lebanon killed at least 11 people, including three children, and injured 19 others. Israel said it targeted Hezbollah infrastructure in response to an earlier attack that wounded three Israeli soldiers, while Hezbollah threatened retaliation. This marks the deadliest incident since the June deals eased hostilities between the two sides."
+        "es": "Tras unos 300 días de alto el fuego entre Israel y Hamás, la población de Gaza continúa viviendo en condiciones extremas, sin agua corriente ni electricidad y con cientos de miles de personas en tiendas de campaña debido al bloqueo a la reconstrucción. Evaluaciones satelitales de la ONU muestran que la destrucción de edificios ha aumentado casi un 10% desde el inicio de la tregua en octubre, pese a la reducción de los bombardeos israelíes.",
+        "en": "About 300 days into the ceasefire between Israel and Hamas, Gaza's population continues to live in extreme conditions without running water or electricity, with hundreds of thousands still in tents due to blocked reconstruction. UN satellite assessments show building destruction has risen nearly 10% since the October ceasefire began, despite reduced Israeli bombardment."
       },
       "categoria": "geopolitica",
       "actores": [
         "Israel",
-        "Hezbolá",
-        "Líbano",
-        "Fuerzas de Defensa de Israel"
-      ],
-      "geo": {
-        "lat": 33.55,
-        "lon": 35.45,
-        "region": "Sur del Líbano"
-      },
-      "impacto": 68,
-      "fuentes": [
-        "ev_d0adb02290",
-        "ev_0f57601006",
-        "ev_9cdf7edca4",
-        "ev_a3cd3da8f7",
-        "ev_9100c0d93a",
-        "ev_6ea5ae5dbc"
-      ],
-      "cluster_id": "cl_147",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg",
-        "https://s.france24.com/media/display/9bc873a4-98c5-11f1-8108-005056a90284/w:1024/p:16x9/8d2575533c572c55c8b941d6ec31b065014ce460.jpg",
-        "https://static01.nyt.com/images/2026/08/15/multimedia/15int-lebanon-strike-01-vmgc/15int-lebanon-strike-01-vmgc-mediumSquareAt3X.jpg",
-        "https://i.guim.co.uk/img/media/7c89de51a1cb60ff5893f2358eef87af6a328c6a/103_0_4103_3283/master/4103.jpg?width=140&quality=85&auto=format&fit=max&s=d0764aaa2e0846825cd181668b8f0f09"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_d0adb02290",
-          "titulo": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-          "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sat, 15 Aug 2026 20:21:14 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_0f57601006",
-          "titulo": "Israeli strikes kill 11 in southern Lebanon, Hezbollah threatens to retaliate",
-          "url": "https://www.france24.com/en/middle-east/20260815-israeli-strikes-kill-11-in-southern-lebanon-hezbollah-threatens-to-retaliate",
-          "fuente": "France 24 English",
-          "fecha": "Sat, 15 Aug 2026 20:37:34 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9cdf7edca4",
-          "titulo": "Israeli Strikes in Lebanon Kill 11, Health Officials Say",
-          "url": "https://www.nytimes.com/2026/08/15/world/middleeast/israel-strikes-lebanon-ansar.html",
-          "fuente": "NYT World",
-          "fecha": "Sat, 15 Aug 2026 16:09:55 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a3cd3da8f7",
-          "titulo": "Israeli strikes on southern Lebanon kill 11 in worst toll since June truce",
-          "url": "https://www.theguardian.com/world/2026/aug/15/israeli-strike-on-southern-lebanon-kills-seven-in-worst-toll-since-june-state-media-says",
-          "fuente": "The Guardian World",
-          "fecha": "Sat, 15 Aug 2026 13:55:28 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9100c0d93a",
-          "titulo": "Israeli airstrikes in Lebanon kill 11 people including three children, health ministry says",
-          "url": "https://news.sky.com/story/israeli-airstrikes-in-lebanon-kill-nine-people-including-three-children-health-ministry-says-13573242",
-          "fuente": "Sky News World",
-          "fecha": "Sat, 15 Aug 2026 11:19:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6ea5ae5dbc",
-          "titulo": "Israeli airstrikes on southern Lebanon kill 11, Health Ministry says",
-          "url": "https://www.cbc.ca/news/world/lebanon-israel-nine-killed-9.7308533?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sat, 15 Aug 2026 08:42:58 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-16_0006",
-      "fecha": "2026-08-16",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Cinco años después: el régimen talibán profundiza la represión de las mujeres afganas mientras Occidente pierde influencia",
-        "en": "Five years on: Taliban rule deepens repression of Afghan women as Western influence wanes"
-      },
-      "sintesis": {
-        "es": "Se cumplen cinco años desde que los talibanes retomaron el poder en Afganistán, y analistas cuestionan si Occidente conserva algún margen de influencia sobre el régimen. Las mujeres afganas enfrentan restricciones crecientes en educación, trabajo, movilidad y vida pública, lo que la ONU describe como la peor situación para los derechos de las mujeres en el mundo. La caída de la financiación internacional amenaza los programas de apoyo a las mujeres afganas, con expertos advirtiendo de daños permanentes al país.",
-        "en": "Five years after the Taliban swept back to power in Afghanistan, analysts question whether the West retains any leverage over the regime. Afghan women face mounting restrictions on education, work, mobility and public life, with the UN describing the situation as the world's worst for women's rights. Falling international aid funding threatens support programmes for Afghan women, with experts warning of lasting damage to the country."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Talibán",
-        "Mujeres afganas",
+        "Hamás",
         "ONU",
-        "Occidente/donantes internacionales"
+        "Población civil de Gaza"
       ],
       "geo": {
-        "lat": 33.9391,
-        "lon": 67.71,
-        "region": "Afganistán"
+        "lat": 31.5,
+        "lon": 34.47,
+        "region": "Franja de Gaza"
       },
-      "impacto": 62,
+      "impacto": 75,
       "fuentes": [
-        "ev_37f7f817c1",
-        "ev_1ba3e46d40",
-        "ev_6f74d4c183"
+        "ev_de5fc286e6",
+        "ev_a7605f828a",
+        "ev_ccc0ce5a3a",
+        "ev_50463050d4",
+        "ev_39391768b3",
+        "ev_6aa054117d",
+        "ev_6c5427add9",
+        "ev_8dc7c70e9d",
+        "ev_90fc9a5a8e",
+        "ev_14dd0be580",
+        "ev_bb61d47a50",
+        "ev_e8e567eb12",
+        "ev_0984918233",
+        "ev_0accb8d6f3",
+        "ev_a00cea3573"
       ],
-      "cluster_id": "cl_159",
+      "cluster_id": "cl_038",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6df/live/5cf107f0-97de-11f1-a7ab-8b30adf0800a.jpg",
-        "https://s.france24.com/media/display/2302433a-9886-11f1-a742-005056bf30b7/w:1024/p:16x9/capture-8687405866a8027f224b3d4-87418614.jpg",
-        "https://static01.nyt.com/images/2026/08/13/multimedia/13int-afghanistan-women-1-fjtm/13int-afghanistan-women-1-fjtm-mediumSquareAt3X.jpg"
+        "https://imagenes.elpais.com/resizer/v2/CZR5EPDZMBJPHDWICQHCHDMQNE.jpg?auth=b283edc8338e31ebc95319531299834107f31b15d07bf77551c3c223cb4a3b04",
+        "https://imagenes.elpais.com/resizer/v2/VMUV6GKV6FFEBDO5T2GY7CXBJE.jpg?auth=c65b166dade239a20d25403421242284e526feb2a9016ccb1aa89acdf82ce6ee",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-UNICEF-Gaza-02.jpg/image560x340cropped.jpg",
+        "https://s.france24.com/media/display/ba659922-99dd-11f1-bb59-005056a90284/w:1024/p:16x9/2026-08-16T230048Z-1232470912-RC2YZMAKU6OT-RTRMADP-3-ISRAEL-PALESTINIANS-EGYPT-KUSHNER.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_37f7f817c1",
-          "titulo": "Five years after the Taliban swept to power, does the West have any influence?",
-          "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 14 Aug 2026 17:00:14 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1ba3e46d40",
-          "titulo": "Five years of Taliban rule: Afghan women face deepening repression",
-          "url": "https://www.france24.com/en/five-years-of-taliban-rule-afghan-women-face-deepening-repression",
-          "fuente": "France 24 English",
-          "fecha": "Sat, 15 Aug 2026 08:49:40 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6f74d4c183",
-          "titulo": "Afghan Women Erased From Public Life in Five Years of Taliban Rule",
-          "url": "https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 14 Aug 2026 05:08:37 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-16_0007",
-      "fecha": "2026-08-16",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Olas de calor e incendios forestales golpean Europa mientras aumenta la presión climática",
-        "en": "Heatwaves and wildfires strike Europe as climate pressure intensifies"
-      },
-      "sintesis": {
-        "es": "Europa occidental y oriental atraviesa una serie de olas de calor extremo, con el Reino Unido registrando su día más caluroso del año (38,1°C) y Francia enfrentando su quinta ola de calor. Simultáneamente, incendios forestales devastadores obligan a miles de personas a evacuar sus hogares, llevando a la Comisión Europea a declarar alerta alta por incendios, especialmente en países de Europa del Este. Imágenes satelitales muestran paisajes calcinados, glaciares en retroceso y otros efectos visibles del calor extremo y la sequía, mientras un nuevo estudio revela cambios complejos en la vegetación de montaña vinculados al calentamiento.",
-        "en": "Western and Eastern Europe are experiencing a series of extreme heatwaves, with the UK recording its hottest day of the year (38.1°C) and France facing its fifth heatwave. Simultaneously, devastating wildfires are forcing thousands to evacuate their homes, prompting the European Commission to declare high wildfire alert, particularly for Eastern European nations. Satellite imagery reveals scorched landscapes, shrinking glaciers, and other visible effects of extreme heat and drought, while a new study shows complex vegetation shifts in mountain regions linked to warming."
-      },
-      "categoria": "clima",
-      "actores": [
-        "Comisión Europea",
-        "Ursula von der Leyen",
-        "Reino Unido",
-        "Francia",
-        "Universidad de Viena",
-        "Academia Austriaca de Ciencias",
-        "BOKU University"
-      ],
-      "geo": {
-        "lat": 48.8566,
-        "lon": 10.0,
-        "region": "Europa"
-      },
-      "impacto": 62,
-      "fuentes": [
-        "ev_f7795af6e0",
-        "ev_6c31d0d909",
-        "ev_3d203c66fa",
-        "ev_b210e1321d"
-      ],
-      "cluster_id": "cl_162",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/europes-mountain-summi-6.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f7795af6e0",
-          "titulo": "Europe's scorched landscapes seen from space after summer heatwaves",
-          "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sat, 15 Aug 2026 05:01:13 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6c31d0d909",
-          "titulo": "Wildfires continue to devastate Europe as thousands are forced to flee their homes",
-          "url": "http://www.euronews.com/my-europe/2026/08/15/wildfires-continue-to-devastate-europe-as-thousands-are-forced-to-flee-their-homes",
-          "fuente": "Euronews English",
-          "fecha": "Sat, 15 Aug 2026 15:30:37 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3d203c66fa",
-          "titulo": "U.K. sees its hottest day of the summer as western Europe suffers through another heat wave",
-          "url": "https://www.cbc.ca/news/world/heat-wave-fires-britain-uk-france-europe-climate-change-9.7305698?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Thu, 13 Aug 2026 10:09:42 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b210e1321d",
-          "titulo": "Europe's mountain summits are warming—vegetation is responding in surprisingly different ways",
-          "url": "https://phys.org/news/2026-08-europe-mountain-summits-vegetation-ways.html",
-          "fuente": "Phys.org",
-          "fecha": "Fri, 14 Aug 2026 18:00:01 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-16_0008",
-      "fecha": "2026-08-16",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-08-16_0002",
-        "nd_2026-08-16_0011",
-        "nd_2026-08-16_0013"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "El número de muertos por el naufragio de un ferry en Zimbabue asciende a 72",
-        "en": "Death toll from Zimbabwe ferry disaster rises to 72"
-      },
-      "sintesis": {
-        "es": "Un ferry sobrecargado volcó el martes en el lago Kariba, en la frontera entre Zimbabue y Zambia, presuntamente debido a fuertes vientos. La policía informó que el número de fallecidos ascendió a al menos 72, entre ellos 18 niños, tras la recuperación de más cuerpos durante la semana.",
-        "en": "An overloaded ferry capsized on Tuesday on Lake Kariba, on the border between Zimbabwe and Zambia, reportedly due to strong winds. Police reported the death toll rose to at least 72, including 18 children, after more bodies were recovered during the week."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Gobierno de Zimbabue",
-        "Policía de Zimbabue",
-        "Víctimas del naufragio"
-      ],
-      "geo": {
-        "lat": -16.85,
-        "lon": 28.0,
-        "region": "Lago Kariba, Zimbabue/Zambia"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_811f1d4034",
-        "ev_fc08177086",
-        "ev_ee3b5e8350",
-        "ev_3799bf9e51"
-      ],
-      "cluster_id": "cl_170",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/b14768a4016a3eb7461634532d5a9f3c7c039c61/668_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=fb5e8e7beec54c6ef27f17ca3ee48446",
-        "https://e3.365dm.com/26/08/1920x1080/skynews-zimbabwe-lake-kariba_7322867.jpg?20260815213638",
-        "https://static.independent.co.uk/2026/08/15/19/83S9x4RXYp9l0BIHt8HiJvT16O_kTSITCFm3xzwca680Oy2J6hcmDKoiJxORDbQPPCXJa05XRsD7epASzCzuUn1upTmP8gMUNLr_..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_811f1d4034",
-          "titulo": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-          "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-          "fuente": "The Guardian World",
-          "fecha": "Sat, 15 Aug 2026 19:39:07 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_fc08177086",
-          "titulo": "Death toll from Zimbabwe ferry disaster rises to 72",
-          "url": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sat, 15 Aug 2026 19:10:06 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ee3b5e8350",
-          "titulo": "More bodies found after ferry disaster in Zimbabwe as number of deaths hits 72",
-          "url": "https://news.sky.com/story/more-bodies-found-after-lake-kariba-ferry-disaster-in-zimbabwe-as-number-of-deaths-hits-72-13573572",
-          "fuente": "Sky News World",
-          "fecha": "Sat, 15 Aug 2026 21:22:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3799bf9e51",
-          "titulo": "Death toll in Zimbabwe ferry disaster rises to 68 as more bodies are recovered",
-          "url": "https://www.independent.co.uk/news/world/africa/zimbabwe-ferry-disaster-death-toll-lake-kariba-b3033666.html",
-          "fuente": "The Independent World",
-          "fecha": "Sat, 15 Aug 2026 18:22:29 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-16_0009",
-      "fecha": "2026-08-16",
-      "kardashev": "K2",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Lluvias récord dejan al menos ocho muertos y miles de varados en Japón",
-        "en": "Record-breaking rainfall leaves at least eight dead and thousands stranded in Japan"
-      },
-      "sintesis": {
-        "es": "Una región al este de Tokio recibió el equivalente a tres meses de lluvia en solo 12 horas, provocando inundaciones severas que dejaron al menos ocho muertos según reportes más recientes. Miles de viajeros quedaron varados, incluyendo en el aeropuerto de Narita, mientras el transporte fue interrumpido y unos 20,000 hogares se quedaron sin electricidad.",
-        "en": "A region east of Tokyo received three months' worth of rainfall in just 12 hours, causing severe flooding that has left at least eight people dead according to the latest reports. Thousands of travelers were stranded, including at Narita Airport, as transportation was disrupted and around 20,000 homes lost power."
-      },
-      "categoria": "clima",
-      "actores": [
-        "Gobierno de Japón",
-        "Aeropuerto de Narita"
-      ],
-      "geo": {
-        "lat": 35.7647,
-        "lon": 140.3864,
-        "region": "Región de Narita/Chiba, este de Tokio, Japón"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_ca6660c0b6",
-        "ev_d5bdf5c0f3",
-        "ev_924122f05e"
-      ],
-      "cluster_id": "cl_254",
-      "imagenes": [
-        "https://static01.nyt.com/images/2026/08/14/multimedia/14int-Japan-Rain1-whlj/14int-Japan-Rain1-whlj-mediumSquareAt3X.jpg",
-        "https://e3.365dm.com/26/08/1920x1080/skynews-japan-floods-chiba_7321213.jpg?20260814073528"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ca6660c0b6",
-          "titulo": "Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan",
-          "url": "https://www.nytimes.com/2026/08/14/world/asia/chiba-tokyo-flood-rain-deaths.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 14 Aug 2026 12:47:33 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d5bdf5c0f3",
-          "titulo": "Five dead in Japan after record-breaking rainfall causes severe flooding",
-          "url": "https://news.sky.com/story/four-dead-near-tokyo-after-heavy-rains-and-floods-with-thousands-stranded-at-railway-station-13572823",
-          "fuente": "Sky News World",
-          "fecha": "Fri, 14 Aug 2026 07:01:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_924122f05e",
-          "titulo": "Record rainfall in Japan leaves at least 8 dead, strands travellers",
-          "url": "https://www.cbc.ca/news/world/japan-narita-rain-flood-9.7306982?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 14 Aug 2026 06:14:13 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-16_0010",
-      "fecha": "2026-08-16",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "España afronta una tarde crítica por los incendios: miles de evacuados y más de 50.000 hectáreas arrasadas",
-        "en": "España afronta una tarde crítica por los incendios: miles de evacuados y más de 50.000 hectáreas arrasadas"
-      },
-      "sintesis": {
-        "es": "Niebla, en Huelva, y Peñas de Riglos, en Huesca, siguen siendo los focos más preocupantes, mientras el incendio de Caboalles de Abajo mantiene la vigilancia en León y el de Collserola en Barcelona ya ha sido estabilizado.",
-        "en": "Niebla, en Huelva, y Peñas de Riglos, en Huesca, siguen siendo los focos más preocupantes, mientras el incendio de Caboalles de Abajo mantiene la vigilancia en León y el de Collserola en Barcelona ya ha sido estabilizado."
-      },
-      "categoria": "sociedad",
-      "actores": [],
-      "geo": {
-        "lat": 40.5,
-        "lon": -3.7,
-        "region": "Europa"
-      },
-      "impacto": 48,
-      "fuentes": [
-        "ev_bfe575f1df",
-        "ev_b6854684a8",
-        "ev_db820e386d",
-        "ev_8de77c3a7b"
-      ],
-      "cluster_id": "cl_005",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/91e0/live/b48adf40-91ee-11f1-a577-f5d49b610922.jpg",
-        "https://imagenes.elpais.com/resizer/v2/7DU6G7Q2ONJEB5DB67RVX35GME.jpg?auth=f85d933ead2a08a900c62643ddd50cf823aacd0a5e8bf44d4757f4561ddae1c7"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_bfe575f1df",
-          "titulo": "La ola de protestas que logró frenar la primera granja comercial de pulpos del mundo en España",
-          "url": "https://www.bbc.com/mundo/articles/c86nv9l6dlwo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Sat, 15 Aug 2026 07:58:22 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_b6854684a8",
-          "titulo": "La “carrera de obstáculos” de las afganas para pedir el traslado a España: años de espera, documentos “imposibles” y recursos judiciales",
-          "url": "https://elpais.com/internacional/2026-08-14/la-carrera-de-obstaculos-de-las-afganas-para-pedir-el-traslado-a-espana-anos-de-espera-documentos-imposibles-y-recursos-judiciales.html",
+          "id": "ev_de5fc286e6",
+          "titulo": "Gaza bajo la tregua o la banalización del horror",
+          "url": "https://elpais.com/internacional/2026-08-16/gaza-bajo-la-tregua-o-la-banalizacion-del-horror.html",
           "fuente": "El Pais Internacional",
-          "fecha": "Fri, 14 Aug 2026 03:30:01 GMT",
+          "fecha": "Sun, 16 Aug 2026 03:30:01 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_db820e386d",
-          "titulo": "España afronta una tarde crítica por los incendios: miles de evacuados y más de 50.000 hectáreas arrasadas",
-          "url": "http://es.euronews.com/my-europe/2026/08/14/espana-afronta-una-tarde-critica-por-los-incendios-miles-de-evacuados-y-mas-de-50000-hecta",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 14 Aug 2026 20:24:44 +0200",
+          "id": "ev_a7605f828a",
+          "titulo": "La vida en Gaza, un infierno cotidiano tras 300 días de alto el fuego",
+          "url": "https://elpais.com/internacional/2026-08-16/la-vida-en-gaza-un-infierno-cotidiano-tras-300-dias-de-alto-el-fuego.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Sun, 16 Aug 2026 03:30:01 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_8de77c3a7b",
-          "titulo": "El eclipse solar deja una lluvia de 348 millones en España: casi medio millón de turistas viajaron para verlo",
-          "url": "http://es.euronews.com/next/2026/08/14/el-eclipse-atrae-a-medio-millon-de-astroturistas-y-deja-350-millones-de-euros-en-espana",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 14 Aug 2026 19:42:31 +0200",
+          "id": "ev_ccc0ce5a3a",
+          "titulo": "Gaza: Destruction of buildings rises by nearly 10 per cent since ceasefire",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168138",
+          "fuente": "UN News",
+          "fecha": "Thu, 13 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_50463050d4",
+          "titulo": "Kushner se reúne con Hamás y mediadores en Egipto por plan de paz en Gaza",
+          "url": "https://www.france24.com/es/video/20260817-kushner-se-re%C3%BAne-con-ham%C3%A1s-y-mediadores-en-egipto-por-plan-de-paz-en-gaza",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 17 Aug 2026 01:49:23 GMT",
           "idioma": "es"
+        },
+        {
+          "id": "ev_39391768b3",
+          "titulo": "Hamás inicia conversaciones cruciales con Egipto sobre el plan de paz de Trump para Gaza",
+          "url": "https://www.france24.com/es/medio-oriente/20260816-ham%C3%A1s-inicia-conversaciones-cruciales-con-egipto-sobre-el-plan-de-paz-de-trump-para-gaza",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sun, 16 Aug 2026 14:03:55 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_6aa054117d",
+          "titulo": "El yerno de Trump, Jared Kushner, se reúne con una delegación de Hamas en Egipto para impulsar el avance del plan de paz para Gaza",
+          "url": "https://www.elmundo.es/internacional/2026/08/16/6a81c4a0e85ecef71c8b4572.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sun, 16 Aug 2026 18:44:28 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_6c5427add9",
+          "titulo": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+          "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Mon, 17 Aug 2026 04:50:56 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8dc7c70e9d",
+          "titulo": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+          "url": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
+          "fuente": "The Guardian World",
+          "fecha": "Sun, 16 Aug 2026 22:07:32 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_90fc9a5a8e",
+          "titulo": "Middle East live: US envoy Kushner to meet Netanyahu after talks with Hamas",
+          "url": "https://www.france24.com/en/middle-east/20260817-middle-east-live-us-envoy-kushner-to-meet-netanyahu-after-talks-with-hamas",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 17 Aug 2026 04:45:34 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_14dd0be580",
+          "titulo": "Kushner, Hamas delegation in Egypt for talks on Gaza peace plan",
+          "url": "https://www.france24.com/en/middle-east/20260816-hamas-begins-crucial-talks-with-egypt-on-trump-s-gaza-peace-plan",
+          "fuente": "France 24 English",
+          "fecha": "Sun, 16 Aug 2026 11:33:32 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_bb61d47a50",
+          "titulo": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 17 Aug 2026 00:00:35 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e8e567eb12",
+          "titulo": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+          "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+          "fuente": "NPR News",
+          "fecha": "Sun, 16 Aug 2026 16:20:22 -0400",
+          "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-16_0011",
-      "fecha": "2026-08-16",
-      "kardashev": "K0",
+      "id": "nd_2026-08-17_0007",
+      "fecha": "2026-08-17",
+      "kardashev": "K2",
       "relaciones": [
-        "nd_2026-08-16_0002",
-        "nd_2026-08-16_0008",
-        "nd_2026-08-16_0013"
+        "nd_2026-08-17_0004",
+        "nd_2026-08-17_0005"
       ]
     },
     {
       "titulo": {
-        "es": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
-        "en": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways"
+        "es": "Grand Prix de Lima 2026: Nuevos campeones brillan en el día dos",
+        "en": "Worldwide rally for maternal and newborn health marks World Health Day 2025"
       },
       "sintesis": {
-        "es": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery helps explain why very different obesity drugs can achieve similar results and suggests that carefully combining GIP-targeting treatments with GLP-1 drugs like those related to Wegovy and Ozempic could produce stronger effects.",
-        "en": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery helps explain why very different obesity drugs can achieve similar results and suggests that carefully combining GIP-targeting treatments with GLP-1 drugs like those related to Wegovy and Ozempic could produce stronger effects."
+        "es": "La segunda jornada en Lima dejó nuevas victorias históricas. Seiko Watanabe, Vlad Mitru y Dena Pohl conquistaron su primer oro en el World Judo Tour, mientras David Lima subió a lo más alto del podio en -81 kg en otro emocionante día de judo en Perú.",
+        "en": "On the occasion of the World Health Day 2025 dedicated to the theme of Healthier beginnings, hopeful futures, over 100 global WHO offices have organized wide-ranging public advocacy actions in collaboration with Member States, communities, health workers, partner and donor agencies and civil society organizations."
       },
       "categoria": "salud",
       "actores": [
-        "Scientists",
-        "Parkinson"
+        "Lima Grand",
+        "Prix",
+        "Grand Prix",
+        "Lima"
+      ],
+      "geo": {
+        "lat": -9.2,
+        "lon": -75.0,
+        "region": "Sudamerica"
+      },
+      "impacto": 69,
+      "fuentes": [
+        "ev_9643ed0299",
+        "ev_ef7613f1e7",
+        "ev_e87985d5a7",
+        "ev_22871ee84c"
+      ],
+      "cluster_id": "cl_111",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_9643ed0299",
+          "titulo": "Grand Prix de Lima 2026: Nuevos campeones brillan en el día dos",
+          "url": "http://es.euronews.com/2026/08/16/grand-prix-de-lima-2026-nuevos-campeones-brillan-en-el-dia-dos",
+          "fuente": "Euronews Espanol",
+          "fecha": "Sun, 16 Aug 2026 10:00:11 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_ef7613f1e7",
+          "titulo": "Lima Grand Prix 2026: Breakthrough victories on Day Two",
+          "url": "http://www.euronews.com/2026/08/16/lima-grand-prix-2026-breakthrough-victories-on-day-two",
+          "fuente": "Euronews English",
+          "fecha": "Sun, 16 Aug 2026 07:56:10 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e87985d5a7",
+          "titulo": "Judo World Tour: A day of firsts at the Lima Grand Prix",
+          "url": "http://www.euronews.com/2026/08/15/judo-world-tour-a-day-of-firsts-at-the-lima-grand-prix",
+          "fuente": "Euronews English",
+          "fecha": "Sat, 15 Aug 2026 09:41:04 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_22871ee84c",
+          "titulo": "Worldwide rally for maternal and newborn health marks World Health Day 2025",
+          "url": "https://www.who.int/news/item/10-04-2025-worldwide-rally-for-maternal-and-newborn-health-marks-world-health-day-2025",
+          "fuente": "WHO News",
+          "fecha": "Thu, 10 Apr 2025 15:02:54 Z",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-17_0008",
+      "fecha": "2026-08-17",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Terremoto de magnitud 7,4 en Colombia deja destrucción masiva y colapso de servicios hospitalarios",
+        "en": "Magnitude 7.4 earthquake in Colombia causes massive destruction and collapse of hospital services"
+      },
+      "sintesis": {
+        "es": "Un terremoto de magnitud 7,4 sacudió Colombia el 10 de agosto de 2026, afectando gravemente a Cali y Pereira. Más de 26 mil viviendas quedaron destruidas y el Hospital Universitario del Valle, el mayor centro público del suroccidente del país, perdió su servicio de urgencias tras el colapso de un ala completa. Continúan las labores de rescate mientras comunidades rurales reclaman mayor apoyo estatal y cientos de personas esperan noticias de familiares desaparecidos en Cali.",
+        "en": "A magnitude 7.4 earthquake struck Colombia on August 10, 2026, severely affecting Cali and Pereira. More than 26,000 homes were destroyed and the Hospital Universitario del Valle, the largest public hospital in southwestern Colombia, lost its emergency services after a wing collapsed entirely. Rescue operations continue as rural communities demand more government support and hundreds await news of missing relatives in Cali."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Unidad de Gestión del Riesgo de Colombia",
+        "Hospital Universitario del Valle",
+        "Gobierno de Colombia",
+        "comunidades de Cali y Pereira"
+      ],
+      "geo": {
+        "lat": 3.4516,
+        "lon": -76.532,
+        "region": "Cali, Valle del Cauca, Colombia"
+      },
+      "impacto": 68,
+      "fuentes": [
+        "ev_aff4f6cd74",
+        "ev_d0a830716f",
+        "ev_bf1d89aa00"
+      ],
+      "cluster_id": "cl_058",
+      "imagenes": [
+        "https://s.france24.com/media/display/0e805fda-99aa-11f1-8253-005056bfb2b6/w:1024/p:16x9/ES-20260816-131204-131401-CS.jpg",
+        "https://s.france24.com/media/display/2ff4de6e-9916-11f1-9dd7-005056a97e36/w:1024/p:16x9/ES-20260815-183310-183505-CS.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/10-08-2026-Colombia-earthquake.jpg/image560x340cropped.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_aff4f6cd74",
+          "titulo": "Terremoto en Colombia: siguen labores de rescate en Cali y Pereira mientras campesinos piden ayuda",
+          "url": "https://www.france24.com/es/video/20260816-terremoto-en-colombia-siguen-labores-de-rescate-en-cali-y-pereira-mientras-campesinos-piden-ayuda",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sun, 16 Aug 2026 19:43:09 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d0a830716f",
+          "titulo": "Terremoto deja sin servicio de urgencias al mayor hospital público del suroccidente de Colombia",
+          "url": "https://www.france24.com/es/video/20260816-terremoto-deja-sin-servicio-de-urgencias-al-mayor-hospital-p%C3%BAblico-del-suroccidente-de-colombia",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sun, 16 Aug 2026 02:08:37 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_bf1d89aa00",
+          "titulo": "Colombia quake: In Cali’s ruins, an ‘overwhelming sense of humanity’",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168139",
+          "fuente": "UN News",
+          "fecha": "Thu, 13 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-17_0009",
+      "fecha": "2026-08-17",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-17_0004"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Terremoto de magnitud 7.7 deja al menos 53 muertos y miles de desplazados en el este de Indonesia",
+        "en": "Magnitude 7.7 earthquake leaves at least 53 dead and thousands displaced in eastern Indonesia"
+      },
+      "sintesis": {
+        "es": "Un terremoto de magnitud 7.7 sacudió la región de Flores, en el este de Indonesia, causando al menos 53 muertos, cientos de viviendas y edificios públicos dañados y miles de evacuados por temor a un tsunami. Los equipos de rescate enfrentan dificultades para llegar a Nagekeo, la zona más cercana al epicentro, debido a carreteras bloqueadas por deslizamientos y fallos en las comunicaciones. La Fuerza Aérea indonesia trasladó 13 toneladas de ayuda humanitaria mientras el país procesaba la tragedia en medio de las celebraciones de su Día de la Independencia.",
+        "en": "A magnitude-7.7 earthquake struck the Flores region of eastern Indonesia, killing at least 53 people, damaging hundreds of homes and public buildings, and prompting thousands to evacuate over tsunami fears. Rescue teams have struggled to reach Nagekeo, the area closest to the epicenter, due to roads blocked by landslides and disrupted communications. The Indonesian Air Force airlifted 13 tonnes of emergency aid as the country grappled with the disaster amid Independence Day observances."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Gobierno de Indonesia",
+        "Fuerza Aérea de Indonesia",
+        "Equipos de rescate",
+        "Residentes de Flores y Nagekeo"
+      ],
+      "geo": {
+        "lat": -8.65,
+        "lon": 121.3,
+        "region": "Flores, Nusa Tenggara Oriental, Indonesia"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_cefce4e190",
+        "ev_b0c79b0825",
+        "ev_e38629922d",
+        "ev_b77aad23a7",
+        "ev_c38cd86f5d"
+      ],
+      "cluster_id": "cl_165",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
+        "https://i.guim.co.uk/img/media/c1dfcbb24723c11ca26889b87c4ab19df23653f6/93_0_1333_1067/master/1333.jpg?width=140&quality=85&auto=format&fit=max&s=133eb0e7f0aac7111f6bc94d886b87ab"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_cefce4e190",
+          "titulo": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+          "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sun, 16 Aug 2026 12:37:21 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b0c79b0825",
+          "titulo": "Powerful earthquake kills dozens in eastern Indonesia",
+          "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 15 Aug 2026 15:34:38 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e38629922d",
+          "titulo": "Thousands evacuated as Indonesia quake death toll rises to 53",
+          "url": "https://www.cbc.ca/news/world/indonesia-earthquake-evacuations-9.7308961?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Sun, 16 Aug 2026 08:23:00 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b77aad23a7",
+          "titulo": "Thousands in Indonesia await aid after quake kills 53, overshadowing Independence Day",
+          "url": "http://www.euronews.com/2026/08/17/thousands-in-indonesia-await-aid-after-quake-kills-53-overshadowing-independence-day",
+          "fuente": "Euronews English",
+          "fecha": "Mon, 17 Aug 2026 07:22:31 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c38cd86f5d",
+          "titulo": "Powerful 7.7-magnitude earthquake strikes Indonesia, killing at least 40",
+          "url": "http://www.euronews.com/2026/08/15/powerful-77-magnitude-earthquake-strikes-indonesia-killing-at-least-20",
+          "fuente": "Euronews English",
+          "fecha": "Sat, 15 Aug 2026 09:46:18 +0200",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-17_0010",
+      "fecha": "2026-08-17",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Astrónomos descubren una nueva clase de objeto astrofísico: una \"estrella agujero negro\"",
+        "en": "Astronomers discover a new class of astrophysical object: a \"black hole star\""
+      },
+      "sintesis": {
+        "es": "Utilizando el telescopio espacial James Webb, astrónomos del MIT y otras instituciones identificaron un objeto extremadamente brillante y rojo procedente de apenas unos cientos de millones de años después del Big Bang. El objeto, apodado 'estrella agujero negro', emite 100.000 millones de veces más energía de la que cualquier estrella conocida podría producir, y se cree que contiene un agujero negro de unas 100.000 masas solares envuelto en un denso capullo de hidrógeno del tamaño del sistema solar.",
+        "en": "Using the James Webb Space Telescope, astronomers from MIT and other institutions identified an extremely bright red object dating from just a few hundred million years after the Big Bang. Dubbed a 'black hole star,' the object emits 100 billion times more energy than any known star could produce, and is thought to contain a black hole of about 100,000 solar masses wrapped in a dense, star-like cocoon of hydrogen the size of the solar system."
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "MIT",
+        "James Webb Space Telescope",
+        "NASA"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
-        "region": "Global"
+        "region": "Universo temprano (observación remota, sin geolocalización terrestre específica)"
       },
-      "impacto": 48,
+      "impacto": 62,
       "fuentes": [
-        "ev_c865820cf8",
-        "ev_6bdbb3d0f1",
-        "ev_8bec88222e",
-        "ev_6c06d8739c",
-        "ev_a57b38e799",
-        "ev_54928ae154",
-        "ev_9c957c15be",
-        "ev_4ac21d20dd",
-        "ev_88994a685d"
+        "ev_05e5cf853c",
+        "ev_8063c33c11",
+        "ev_80e2be1e6f"
       ],
-      "cluster_id": "cl_344",
+      "cluster_id": "cl_373",
       "imagenes": [
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-simulate-an.jpg"
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/astronomers-discover-a-6.jpg",
+        "https://media.wired.com/photos/6a7f4c716a3123db993a937f/master/pass/MIT-BlackHoleStar-01-press_0.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_c865820cf8",
-          "titulo": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
+          "id": "ev_05e5cf853c",
+          "titulo": "JWST spots a bizarre “black hole star” 100 billion times brighter than a star",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260813045538.htm",
           "fuente": "ScienceDaily",
-          "fecha": "Sat, 15 Aug 2026 06:55:39 EDT",
+          "fecha": "Thu, 13 Aug 2026 09:03:55 EDT",
           "idioma": "en"
         },
         {
-          "id": "ev_6bdbb3d0f1",
-          "titulo": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Fri, 14 Aug 2026 09:16:36 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8bec88222e",
-          "titulo": "Scientists turn sheep’s wool into a material that helps regrow bone",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Wed, 12 Aug 2026 07:17:51 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6c06d8739c",
-          "titulo": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260811011148.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Wed, 12 Aug 2026 09:20:59 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a57b38e799",
-          "titulo": "Scientists discover the brain has a fast lane and slow lane for clearing waste",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260811011130.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Wed, 12 Aug 2026 22:05:30 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_54928ae154",
-          "titulo": "Scientists discover a hidden switch inside silver nanocatalysts",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Mon, 10 Aug 2026 08:27:30 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9c957c15be",
-          "titulo": "Scientists discover bacteria that lock toxic uranium into a stable form",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260807035149.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Sun, 09 Aug 2026 07:30:17 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4ac21d20dd",
-          "titulo": "Scientists discover a hidden brain shift that begins around age 50",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260806050700.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Thu, 06 Aug 2026 21:32:54 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_88994a685d",
-          "titulo": "Scientists simulating ant swarms find a 'first mover' can set the colony in motion",
-          "url": "https://phys.org/news/2026-08-scientists-simulating-ant-swarms-mover.html",
+          "id": "ev_8063c33c11",
+          "titulo": "Black hole star: Astronomers discover a brand-new type of astrophysical object",
+          "url": "https://phys.org/news/2026-08-black-hole-star-astronomers-brand.html",
           "fuente": "Phys.org",
-          "fecha": "Sat, 15 Aug 2026 07:00:03 EDT",
+          "fecha": "Sun, 16 Aug 2026 07:00:01 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_80e2be1e6f",
+          "titulo": "Astronomers Discover the Existence of a Black Hole Star",
+          "url": "https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/",
+          "fuente": "WIRED",
+          "fecha": "Sun, 16 Aug 2026 11:00:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-16_0012",
-      "fecha": "2026-08-16",
-      "kardashev": "K0",
+      "id": "nd_2026-08-17_0011",
+      "fecha": "2026-08-17",
+      "kardashev": "K3",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Ash from Mount Etna volcano forces closure of Sicily's busiest airport during peak holiday week",
-        "en": "Ash from Mount Etna volcano forces closure of Sicily's busiest airport during peak holiday week"
+        "es": "Marruecos detiene a más de 100 migrantes en nuevo intento de cruce masivo hacia Ceuta",
+        "en": "Morocco detains over 100 migrants in new attempted mass crossing into Ceuta"
       },
       "sintesis": {
-        "es": "Italy's federation of travel agencies and tour operators has called for a task force to coordinate responses to disruptions caused by Mount Etna and a review of how airlines handled cancellations.",
-        "en": "Italy's federation of travel agencies and tour operators has called for a task force to coordinate responses to disruptions caused by Mount Etna and a review of how airlines handled cancellations."
+        "es": "Fuerzas de seguridad marroquíes arrestaron a al menos 111 personas que intentaban cruzar hacia Ceuta el sábado, tras llamados en redes sociales a un nuevo cruce masivo, dos semanas después de que más de 72.000 migrantes entraran al enclave español y murieran al menos 96 personas. Ambos lados de la frontera reforzaron la seguridad, mientras que en Ceuta cientos de migrantes ya presentes protestaron exigiendo asilo y rechazando su devolución a Marruecos.",
+        "en": "Moroccan security forces arrested at least 111 people attempting to cross into Ceuta on Saturday after social media calls for another mass crossing, two weeks after more than 72,000 migrants surged into the Spanish enclave and at least 96 people died. Both sides tightened border security, while hundreds of migrants already in Ceuta protested demanding asylum and opposing deportation to Morocco."
       },
-      "categoria": "ciencia",
+      "categoria": "sociedad",
       "actores": [
-        "Mount Etna",
-        "Sicily",
-        "Ash",
-        "Hundreds"
+        "Marruecos",
+        "España",
+        "Ceuta",
+        "Unión Europea",
+        "migrantes"
       ],
       "geo": {
-        "lat": 41.9,
-        "lon": 12.6,
-        "region": "Europa"
+        "lat": 35.8894,
+        "lon": -5.3213,
+        "region": "Ceuta, España / frontera con Marruecos"
       },
-      "impacto": 43,
+      "impacto": 58,
       "fuentes": [
-        "ev_3814d33b07",
-        "ev_1bd4883f9d",
-        "ev_5c4885b364"
+        "ev_0c4465adec",
+        "ev_b3a700c24f",
+        "ev_27cdd083a7",
+        "ev_6252cf17ab",
+        "ev_65994ac478",
+        "ev_ca2156c716"
       ],
-      "cluster_id": "cl_267",
+      "cluster_id": "cl_171",
       "imagenes": [
-        "https://static01.nyt.com/images/2026/08/13/multimedia/13int-Italy-ash-bfpz/13int-Italy-ash-bfpz-mediumSquareAt3X.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
+        "https://i.guim.co.uk/img/media/16e26ebc9e7e6768f1247ec08c0e829ad225db8c/222_0_2475_1980/master/2475.jpg?width=140&quality=85&auto=format&fit=max&s=c4b0308effadffb153d384ea76f1def0",
+        "https://e3.365dm.com/26/08/1920x1080/skynews-ceuta-migrants-morocco_7322789.jpg?20260815191020"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_3814d33b07",
-          "titulo": "Hundreds of Flights Canceled in Sicily as Mount Etna Erupts",
-          "url": "https://www.nytimes.com/2026/08/13/world/europe/mount-etna-volcano-sicily-eruption.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 13 Aug 2026 16:25:20 +0000",
+          "id": "ev_0c4465adec",
+          "titulo": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+          "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sat, 15 Aug 2026 20:58:31 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_1bd4883f9d",
-          "titulo": "Ash clouds, lava flows and fertile soil: What are the effects of Mount Etna’s eruptions?",
-          "url": "http://www.euronews.com/2026/08/14/ash-clouds-lava-flows-and-fertile-soil-what-are-the-effects-of-mount-etnas-eruptions",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 14 Aug 2026 16:23:56 +0200",
+          "id": "ev_b3a700c24f",
+          "titulo": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+          "url": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 15 Aug 2026 18:08:21 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_5c4885b364",
-          "titulo": "Ash from Mount Etna volcano forces closure of Sicily's busiest airport during peak holiday week",
-          "url": "http://www.euronews.com/my-europe/2026/08/14/ash-from-mount-etna-volcano-forces-closure-of-sicilys-busiest-airport-during-peak-holiday-",
+          "id": "ev_27cdd083a7",
+          "titulo": "Morocco prevents hundreds of migrants from crossing into Spain's Ceuta",
+          "url": "http://www.euronews.com/my-europe/2026/08/16/morocco-prevents-new-attempts-to-cross-into-ceuta-army-says",
           "fuente": "Euronews English",
-          "fecha": "Fri, 14 Aug 2026 15:30:16 +0200",
+          "fecha": "Sun, 16 Aug 2026 09:24:46 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6252cf17ab",
+          "titulo": "More than 100 arrested in Morocco after call for another migrant mass crossing to Ceuta",
+          "url": "https://news.sky.com/story/more-than-100-arrested-in-morocco-after-social-media-call-for-another-migrant-mass-crossing-to-ceuta-13573534",
+          "fuente": "Sky News World",
+          "fecha": "Sat, 15 Aug 2026 19:00:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_65994ac478",
+          "titulo": "Morocco arrests 111 migrants headed to Spain's Ceuta as sides step up crackdown",
+          "url": "https://www.cbc.ca/news/world/morocco-arrest-migrants-spain-ceuta-9.7308697?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Sat, 15 Aug 2026 14:01:34 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ca2156c716",
+          "titulo": "Hundreds of migrants in Spain's Ceuta enclave protest for asylum, against deportation to Morocco",
+          "url": "https://www.cbc.ca/news/world/protest-migrant-spain-ceuta-morocco-9.7309187?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Sun, 16 Aug 2026 15:03:40 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-16_0013",
-      "fecha": "2026-08-16",
+      "id": "nd_2026-08-17_0012",
+      "fecha": "2026-08-17",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Why your brain keeps making the same decisions – even when better options exist",
+        "en": "Why your brain keeps making the same decisions – even when better options exist"
+      },
+      "sintesis": {
+        "es": "Why do we keep making the same choices even when better options are available? Researchers found that simply repeating a decision can reshape what we prefer, causing familiar choices to feel better than alternatives. Instead of weighing every option from scratch, the brain often remembers what it chose before and repeats it.",
+        "en": "Why do we keep making the same choices even when better options are available? Researchers found that simply repeating a decision can reshape what we prefer, causing familiar choices to feel better than alternatives. Instead of weighing every option from scratch, the brain often remembers what it chose before and repeats it."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Australia"
+      ],
+      "geo": {
+        "lat": -0.02,
+        "lon": 37.9,
+        "region": "Africa Oriental"
+      },
+      "impacto": 58,
+      "fuentes": [
+        "ev_d97385998b",
+        "ev_ac19480f20",
+        "ev_c57e1c8475",
+        "ev_c0b8558fbc"
+      ],
+      "cluster_id": "cl_179",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ccf/live/24e92cb0-97b2-11f1-a7ab-8b30adf0800a.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/10-08-2026-UNDP-Kazakhstan-rangelands.jpg/image560x340cropped.jpg",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/older-people-online.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d97385998b",
+          "titulo": "Why is Australia's mushroom killer back in court this week?",
+          "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sat, 15 Aug 2026 18:02:30 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ac19480f20",
+          "titulo": "The grass beneath our feet: Why rangelands matter",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168119",
+          "fuente": "UN News",
+          "fecha": "Sat, 15 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c57e1c8475",
+          "titulo": "Why your brain keeps making the same decisions – even when better options exist",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260812015218.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Wed, 12 Aug 2026 23:45:36 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c0b8558fbc",
+          "titulo": "Why AI training can backfire for older workers",
+          "url": "https://phys.org/news/2026-08-ai-backfire-older-workers.html",
+          "fuente": "Phys.org",
+          "fecha": "Sun, 16 Aug 2026 08:20:01 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-17_0013",
+      "fecha": "2026-08-17",
       "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-08-16_0002",
-        "nd_2026-08-16_0008",
-        "nd_2026-08-16_0011"
-      ]
+      "relaciones": []
     }
   ]
 }
