@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-08-17
+actualizado: 2026-08-18
 nodos: 20
 origen: global-pulse
 ---
@@ -10,20 +10,22 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-17. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-18. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos.
+20 nodos registrados en el periodo. Lo mas reciente: Russian strike on Kyiv book market: 'An attempt to annihilate Ukrainian identity'.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos.
+20 nodes recorded in the period. Most recent: Russian strike on Kyiv book market: 'An attempt to annihilate Ukrainian identity'.
 
 > [!note] Estado actual
-> Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos
+> Russian strike on Kyiv book market: 'An attempt to annihilate Ukrainian identity'
 
 ## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-18 | 53 | K0 | Russian strike on Kyiv book market: 'An attempt to annihilate Uk |
+| 2026-08-18 | 45 | K0 | Rusia: político antiguerra es condenado a 11 años de presión |
 | 2026-08-15 | 83 | K1 | Las acciones de extremistas israelíes en Cisjordania provocan el |
 | 2026-08-15 | 72 | K1 | Escalada en el Mar Negro: Rusia bloquea exportaciones de grano u |
 | 2026-08-14 | 72 | K1 | Polonia frustra un complot ruso para asesinar a un ciudadano ucr |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-08-09 | 74 | K1 | Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky |
 | 2026-08-08 | 47 | K0 | Ucrania vuelve a pedir ayuda a Elon Musk |
 | 2026-08-07 | 75 | K1 | Ucrania ataca refinerías petroleras profundas en Rusia mientras  |
-| 2026-08-06 | 83 | K0 | Nato to ‘urgently’ get air defences for Ukraine, as Zelenskyy wa |
-| 2026-08-06 | 83 | K0 | Drone carrying explosives at German airport marks ‘new level of  |
 
 [[Global Brain — Inicio|← Inicio]]

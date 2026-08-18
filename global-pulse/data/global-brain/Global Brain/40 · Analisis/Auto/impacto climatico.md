@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-08-17
-nodos: 28
+actualizado: 2026-08-18
+nodos: 27
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-17. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-18. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-28 nodos registrados en el periodo. Lo mas reciente: Terremoto en Indonesia: rescate a contrarreloj mientras levantan alerta de tsunami.
+27 nodos registrados en el periodo. Lo mas reciente: Puerto Rico enfrenta su peor sequía en una década con racionamiento de agua para más de 500.000 personas.
 
 ## Trend summary (EN)
-28 nodes recorded in the period. Most recent: Indonesia wildfires threaten orangutans rescued from animal traffickers.
+27 nodes recorded in the period. Most recent: Puerto Rico faces worst drought in a decade, rationing water for over 500,000 people.
 
 > [!note] Estado actual
-> Terremoto en Indonesia: rescate a contrarreloj mientras levantan alerta de tsunami
+> Puerto Rico enfrenta su peor sequía en una década con racionamiento de agua para más de 500.000 personas
 
-## Nodos recientes (28 en la ventana)
+## Nodos recientes (27 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-18 | 48 | K1 | Puerto Rico enfrenta su peor sequía en una década con racionamie |
 | 2026-08-16 | 87 | K1 | Terremoto en Indonesia: rescate a contrarreloj mientras levantan |
 | 2026-08-16 | 62 | K2 | Olas de calor e incendios forestales golpean Europa mientras aum |
 | 2026-08-16 | 55 | K1 | Lluvias récord dejan al menos ocho muertos y miles de varados en |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-10 | 62 | K1 | Tifón Dolphin toca tierra en China tras azotar Japón, más de un  |
 | 2026-08-10 | 62 | K1 | Incendio Bald Range fuera de control provoca estado de emergenci |
 | 2026-08-10 | 58 | K1 | Incendios forestales fuerzan estado de emergencia en Canadá y af |
-| 2026-08-10 | 55 | K1 | Incendios forestales en España obligan a evacuar a cientos de pe |
 
 [[Global Brain — Inicio|← Inicio]]

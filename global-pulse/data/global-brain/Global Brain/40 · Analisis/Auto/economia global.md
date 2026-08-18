@@ -2,30 +2,30 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-08-17
-nodos: 36
+actualizado: 2026-08-18
+nodos: 34
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-17. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-18. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-36 nodos registrados en el periodo. Lo mas reciente: Trump threatens to declare strait of Hormuz ‘territory of the United States’.
+34 nodos registrados en el periodo. Lo mas reciente: El presidente de Colombia pide a Trump la suspensión temporal de los aranceles por el terremoto.
 
 ## Trend summary (EN)
-36 nodes recorded in the period. Most recent: Trump threatens to declare strait of Hormuz ‘territory of the United States’.
+34 nodes recorded in the period. Most recent: Trump tells 10-year-old rescued by teen lifeguard: ‘I don’t know if I’d do it’.
 
 > [!note] Estado actual
-> Trump threatens to declare strait of Hormuz ‘territory of the United States’
+> El presidente de Colombia pide a Trump la suspensión temporal de los aranceles por el terremoto
 
-## Nodos recientes (36 en la ventana)
+## Nodos recientes (34 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-18 | 83 | K0 | El presidente de Colombia pide a Trump la suspensión temporal de |
 | 2026-08-17 | 83 | K1 | Trump threatens to declare strait of Hormuz ‘territory of the Un |
-| 2026-08-16 | 87 | K0 | El presidente de Colombia pide a Trump la suspensión temporal de |
 | 2026-08-16 | 85 | K1 | Guerra entre Estados Unidos e Irán se prolonga con presión sobre |
 | 2026-08-15 | 83 | K1 | Las acciones de extremistas israelíes en Cisjordania provocan el |
 | 2026-08-15 | 78 | K0 | Trump extiende sus tentáculos militares en Latinoamérica |
