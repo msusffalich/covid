@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-08-19
-nodos: 19
+actualizado: 2026-08-20
+nodos: 18
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-19. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-20. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-19 nodos registrados en el periodo. Lo mas reciente: Russian strike on Kyiv book market: 'An attempt to annihilate Ukrainian identity'.
+18 nodos registrados en el periodo. Lo mas reciente: Detenido en Croacia un segundo sospechoso del sabotaje a Nord Stream en 2022.
 
 ## Trend summary (EN)
-19 nodes recorded in the period. Most recent: Russian strike on Kyiv book market: 'An attempt to annihilate Ukrainian identity'.
+18 nodes recorded in the period. Most recent: Germany says 2nd suspect in Nord Stream pipeline sabotage arrested in Croatia.
 
 > [!note] Estado actual
-> Russian strike on Kyiv book market: 'An attempt to annihilate Ukrainian identity'
+> Detenido en Croacia un segundo sospechoso del sabotaje a Nord Stream en 2022
 
-## Nodos recientes (19 en la ventana)
+## Nodos recientes (18 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-20 | 89 | K1 | Detenido en Croacia un segundo sospechoso del sabotaje a Nord St |
 | 2026-08-18 | 53 | K0 | Russian strike on Kyiv book market: 'An attempt to annihilate Uk |
 | 2026-08-18 | 45 | K0 | Rusia: político antiguerra es condenado a 11 años de presión |
 | 2026-08-15 | 83 | K1 | Las acciones de extremistas israelíes en Cisjordania provocan el |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-12 | 83 | K1 | Syrian court sentences Bashar al-Assad to death in absentia for  |
 | 2026-08-09 | 74 | K1 | Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky |
 | 2026-08-08 | 47 | K0 | Ucrania vuelve a pedir ayuda a Elon Musk |
-| 2026-08-07 | 75 | K1 | Ucrania ataca refinerías petroleras profundas en Rusia mientras  |
 
 [[Global Brain — Inicio|← Inicio]]

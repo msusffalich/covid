@@ -1,524 +1,76 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-08-19",
-    "generado": "2026-08-19T05:19:43.150467+00:00",
+    "fecha": "2026-08-20",
+    "generado": "2026-08-20T05:20:42.389797+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 854,
-      "clusters": 561,
-      "nodos": 561,
-      "verificados": 561,
-      "duracion_s": 94.4
+      "piezas_ingeridas": 800,
+      "clusters": 535,
+      "nodos": 535,
+      "verificados": 535,
+      "duracion_s": 76.8
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "EEUU y Corea del Sur inician ejercicios militares, tras reducción anunciada por Trump",
-        "en": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – as it happened"
+        "es": "Quién es Natalie Harp, la mano derecha de Trump en el centro de la polémica por su cercanía con el presidente de EE.UU.",
+        "en": "Trump pretends to be Spider-Man on new White House website tracking eliminated ‘fraud’"
       },
       "sintesis": {
-        "es": "Los ejércitos surcoreano y estadounidense iniciaron este lunes la edición 2026 del ejercicio militar \"Ulchi Freedom Shield\", cuyo fin es entrenarse para responder ante cualquier ataque proveniente de Corea del Norte. Sin embargo, el presidente estadounidense, Donald Trump, anunció que \"reduciría considerablemente\" la participación de su país, alegando su \"muy buena relación con Kim Jong-un\", el líder norcoreano.",
-        "en": "US president makes threat in comments to Fox News, as his son-in-law meets the Israeli leader in Jerusalem in effort to push Gaza peace plan Trump threatens to bomb Oman if it ‘gets in the way’ of ending Iran war Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal The UN rights chief voiced alarm Monday at the rising civilian toll of escalating hostilities in Yemen , urging restraint and an immediate de-escalation to avoid plunging the country back into a full-scale war. “I urge all parties to halt immediately any actions that risk returning Yemen to full-scale conflict,” Volker Türk said in a statement, as renewed fighting between the Houthi rebels and the government undermined a 2022 truce. Continue reading..."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Trump",
-        "Estados Unidos",
-        "Corea",
-        "Sur"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_ebd601b763",
-        "ev_87afb83beb",
-        "ev_79dd62d955",
-        "ev_11085e9b02",
-        "ev_f9e5ef6f1f",
-        "ev_9186843000",
-        "ev_8d017b6e9e",
-        "ev_6dbc0a6dc6",
-        "ev_c7ec6257e5",
-        "ev_0d01675b3c",
-        "ev_d5f1dbccf3",
-        "ev_1e5688f6cc",
-        "ev_1beeff45ff",
-        "ev_6856f752a4",
-        "ev_0eb7408bfa",
-        "ev_1846c9df42",
-        "ev_369c819db3",
-        "ev_1e1be46139",
-        "ev_6b39d22624",
-        "ev_1939d54f6b",
-        "ev_8cf3df59b7",
-        "ev_0998e1ede0",
-        "ev_7ec8da174b"
-      ],
-      "cluster_id": "cl_018",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2386/live/b9e94ee0-99c8-11f1-b2ab-0dd01740f9f6.jpg",
-        "https://imagenes.elpais.com/resizer/v2/AK3ZQNOEINO2BFKMESSQFXV2SY.jpg?auth=c12200051a9f984e32edaa874435e7b15a1a1f2de372a7a094241acc54569893",
-        "https://s.rfi.fr/media/display/21c8483e-9ad4-11f1-a080-005056bfb2b6/w:1024/p:16x9/e0f965597c05995bf4c65a81497058de714040c8.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/17/17869753371337.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ebd601b763",
-          "titulo": "Trump ordena reducir ejercicios militares de EE.UU. con Corea del Sur por su negativa a participar en la guerra con Irán",
-          "url": "https://www.bbc.com/mundo/articles/cjd44v2eg40o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Mon, 17 Aug 2026 13:39:57 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_87afb83beb",
-          "titulo": "El fin del conflicto se aleja tras expirar el acuerdo entre Estados Unidos e Irán",
-          "url": "https://elpais.com/internacional/2026-08-17/el-fin-del-conflicto-se-aleja-tras-expirar-el-acuerdo-entre-estados-unidos-e-iran.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Mon, 17 Aug 2026 19:33:52 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_79dd62d955",
-          "titulo": "Trump amenaza con \"destrozar\" a su aliado Omán si cierra acuerdo con Irán sobre el paso de Ormuz",
-          "url": "https://www.rfi.fr/es/oriente-medio/20260818-trump-amenaza-con-destrozar-a-su-aliado-om%C3%A1n-si-cierra-acuerdo-con-ir%C3%A1n-sobre-el-paso-de-ormuz",
-          "fuente": "RFI Espanol",
-          "fecha": "Tue, 18 Aug 2026 07:12:12 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_11085e9b02",
-          "titulo": "Trump amenaza con bombardear Omán ante el inminente acuerdo con Irán para gestionar Ormuz",
-          "url": "https://www.elmundo.es/internacional/2026/08/17/6a83134b21efa05e578b459e.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Tue, 18 Aug 2026 08:17:00 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f9e5ef6f1f",
-          "titulo": "La guerra de Irán altera el rumbo de un Trump urgido por su baja popularidad",
-          "url": "https://elpais.com/internacional/2026-08-16/el-callejon-sin-salida-de-iran-suma-un-nuevo-problema-interno-a-trump.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sun, 16 Aug 2026 03:30:01 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_9186843000",
-          "titulo": "Estados Unidos evalúa el apoyo de los aliados de la OTAN para reasignar sus recursos en Europa",
-          "url": "https://elpais.com/internacional/2026-08-14/estados-unidos-evalua-el-apoyo-de-los-aliados-de-la-otan-para-reasignar-sus-recursos-en-europa.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Fri, 14 Aug 2026 19:54:45 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_8d017b6e9e",
-          "titulo": "Estados Unidos condena ataque israelí contra base militar en Siria",
-          "url": "https://www.france24.com/es/video/20260819-estados-unidos-condena-ataque-israel%C3%AD-contra-base-militar-en-siria",
-          "fuente": "France 24 Espanol",
-          "fecha": "Wed, 19 Aug 2026 00:11:59 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_6dbc0a6dc6",
-          "titulo": "Estados Unidos: en Nueva York, la ciudad de los 800 idiomas, el español hace furor",
-          "url": "https://www.rfi.fr/es/programas/enfoque-internacional/20260818-estados-unidos-en-nueva-york-la-ciudad-de-los-800-idiomas-el-espa%C3%B1ol-hace-furor",
-          "fuente": "RFI Espanol",
-          "fecha": "Tue, 18 Aug 2026 10:11:26 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c7ec6257e5",
-          "titulo": "La masacre de mujeres indígenas sale del silencio en Estados Unidos",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260817-la-masacre-de-mujeres-ind%C3%ADgenas-sale-del-silencio-en-estados-unidos-1",
-          "fuente": "RFI Espanol",
-          "fecha": "Mon, 17 Aug 2026 14:24:53 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_0d01675b3c",
-          "titulo": "EEUU y Corea del Sur inician ejercicios militares, tras reducción anunciada por Trump",
-          "url": "https://www.rfi.fr/es/asia-pacifico/20260817-eeuu-y-corea-del-sur-inician-ejercicios-militares-conjuntos-tras-reducci%C3%B3n-anunciada-por-trump",
-          "fuente": "RFI Espanol",
-          "fecha": "Mon, 17 Aug 2026 10:29:37 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_d5f1dbccf3",
-          "titulo": "Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – as it happened",
-          "url": "https://www.theguardian.com/world/live/2026/aug/17/trump-kushner-netanyahu-hamas-gaza-israel-blair-us-iran-hormuz-oil-latest-news-updates",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 17 Aug 2026 16:48:26 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1e5688f6cc",
-          "titulo": "¿Cuánto más puede aguantar Irán la guerra con Estados Unidos?",
-          "url": "https://www.bbc.com/mundo/articles/c0rdylwpj4no?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Sat, 15 Aug 2026 14:26:44 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-08-19_0000",
-      "fecha": "2026-08-19",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-19_0001",
-        "nd_2026-08-19_0002",
-        "nd_2026-08-19_0003",
-        "nd_2026-08-19_0004",
-        "nd_2026-08-19_0005"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Gaza: ante su desarme forzado, Hamás se debate entre el pragmatismo y su identidad",
-        "en": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal"
-      },
-      "sintesis": {
-        "es": "Jared Kushner se reunió el lunes 17 de agosto en Jerusalén con el primer ministro israelí, Benjamin Netanyahu, para hablar sobre la puesta en marcha de la fase 2 del plan de paz para Gaza. El enviado estadounidense dijo esperar que el desarme del grupo islamista Hamás comience en un plazo de \"30 días\", lo cual se llevaría a cabo bajo la supervisión de un general estadounidense. Por su parte, el ejército israelí afirma que no se retirará hasta que el movimiento terrorista palestino esté completamente desarmado.",
-        "en": "Israeli PM again insists troops will not withdraw from strip until Hamas first disarms, but calls meeting constructive Benjamin Netanyahu has told Donald Trump’s son-in-law and envoy Jared Kushner there can be no progress on the stalled Gaza ceasefire deal or an Israeli withdrawal from the coastal strip until Hamas first disarms. An Israeli official said there had been no breakthrough in ‌the meeting between the pair, saying Netanyahu had made it clear the IDF would not withdraw and would continue to carry out operations in Gaza. Continue reading..."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Gaza",
-        "Netanyahu",
-        "Israel",
-        "Trump"
-      ],
-      "geo": {
-        "lat": 31.0,
-        "lon": 34.9,
-        "region": "Oriente Medio"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_6d506ee0f1",
-        "ev_614f7dad6e",
-        "ev_bcd8290b84",
-        "ev_1250b1b280",
-        "ev_75ea864892",
-        "ev_3f20da1c21",
-        "ev_d03fa8ec2a",
-        "ev_6aa054117d",
-        "ev_7019244aad",
-        "ev_262e5666ae",
-        "ev_0984918233"
-      ],
-      "cluster_id": "cl_036",
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/6ZO4J2YIIZF43LFMUMNURUL63U.png?auth=82c49a83230ffe68d65ade4b99437d873268cedced02447b098c0fa14aebe3e9",
-        "https://s.rfi.fr/media/display/eb42cea0-7928-11f1-8e11-005056a97e36/w:1024/p:16x9/AP26187389752765.jpg",
-        "https://s.rfi.fr/media/display/e25aa122-99b8-11f1-92f5-005056bf30b7/w:1024/p:16x9/AP26226028475268.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/23-07-2026-WFP-Gaza-01.jpg/image560x340cropped.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_6d506ee0f1",
-          "titulo": "Israel y la Junta de Trump para Gaza condicionan el avance de la tregua en la Franja al desarme de Hamás",
-          "url": "https://elpais.com/internacional/2026-08-17/la-junta-de-trump-e-israel-condicionan-todo-avance-en-gaza-al-desarme-de-hamas.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Mon, 17 Aug 2026 17:53:34 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_614f7dad6e",
-          "titulo": "Gaza: ante su desarme forzado, Hamás se debate entre el pragmatismo y su identidad",
-          "url": "https://www.rfi.fr/es/oriente-medio/20260818-gaza-ante-su-desarme-forzado-ham%C3%A1s-se-debate-entre-el-pragmatismo-y-su-identidad",
-          "fuente": "RFI Espanol",
-          "fecha": "Tue, 18 Aug 2026 11:46:28 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_bcd8290b84",
-          "titulo": "El enviado de Trump se reúne con Netanyahu tras dialogar con Hamás de la paz en Gaza",
-          "url": "https://www.rfi.fr/es/oriente-medio/20260817-el-enviado-de-trump-se-re%C3%BAne-con-netanyahu-tras-dialogar-con-ham%C3%A1s-de-la-paz-en-gaza",
-          "fuente": "RFI Espanol",
-          "fecha": "Mon, 17 Aug 2026 09:39:12 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_1250b1b280",
-          "titulo": "ONU Derechos Humanos denuncia el maltrato sistemático de Israel a los palestinos que regresan a Gaza",
-          "url": "https://news.un.org/feed/view/es/story/2026/08/1541799",
-          "fuente": "Noticias ONU",
-          "fecha": "Wed, 12 Aug 2026 12:00:00 +0000",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_75ea864892",
-          "titulo": "El falso alto el fuego en la Franja de Gaza que mata un niño cada día",
-          "url": "https://www.elmundo.es/internacional/2026/08/17/6a8315effc6c8358538b457f.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Mon, 17 Aug 2026 22:35:50 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_3f20da1c21",
-          "titulo": "Kushner presiona a Netanyahu para avanzar en el plan sobre Gaza",
-          "url": "https://www.elmundo.es/internacional/2026/08/17/6a8348b1e4d4d8e2408b457a.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Mon, 17 Aug 2026 20:14:04 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_d03fa8ec2a",
-          "titulo": "Kushner se reúne con Netanyahu para garantizar el paso a la segunda fase de la Hoja de Ruta sobre Gaza",
-          "url": "https://www.elmundo.es/internacional/2026/08/17/6a82f27ce4d4d835748b457e.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Mon, 17 Aug 2026 17:08:55 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_6aa054117d",
-          "titulo": "El yerno de Trump, Jared Kushner, se reúne con una delegación de Hamas en Egipto para impulsar el avance del plan de paz para Gaza",
-          "url": "https://www.elmundo.es/internacional/2026/08/16/6a81c4a0e85ecef71c8b4572.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sun, 16 Aug 2026 18:44:28 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_7019244aad",
-          "titulo": "Netanyahu and Kushner talks make no breakthrough on stalled Gaza deal",
-          "url": "https://www.theguardian.com/world/2026/aug/17/netanyahu-kushner-talks-gaza-israel-us-board-of-peace",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 17 Aug 2026 16:42:04 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_262e5666ae",
-          "titulo": "Kushner Meets Netanyahu in Israel in Effort to Break Logjam Over Gaza",
-          "url": "https://www.nytimes.com/2026/08/17/world/middleeast/kushner-netanyahu-gaza-peace-deal.html",
-          "fuente": "NYT World",
-          "fecha": "Mon, 17 Aug 2026 21:23:29 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_0984918233",
-          "titulo": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
-          "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-          "fuente": "NYT World",
-          "fecha": "Sun, 16 Aug 2026 21:16:17 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-19_0001",
-      "fecha": "2026-08-19",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-19_0000",
-        "nd_2026-08-19_0002",
-        "nd_2026-08-19_0003",
-        "nd_2026-08-19_0004",
-        "nd_2026-08-19_0005"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Trump pacta con Canadá retrasar aranceles del 50% de EEUU",
-        "en": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project"
-      },
-      "sintesis": {
-        "es": "Los dos aliados comerciaron bienes y servicios por un valor cercano a un billón de dólares pese a sus tensas relaciones, mientras el presidente estadounidense Donald Trump mantiene la presión para imponer aranceles a sus vecinos del norte.",
-        "en": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have affected $20bn worth of goods was set to take effect. Donald Trump posted late on Tuesday on social media that he had paused the tariffs for three days “based on the fact that Canada and the USA, subject to the finalization of documents, have a DEAL!” Continue reading..."
-      },
-      "categoria": "economia",
-      "actores": [
-        "Trump",
-        "Canada",
-        "EEUU",
-        "Canadian"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_49f54964d5",
-        "ev_03df654329",
-        "ev_f8516321dc",
-        "ev_e6992e6064",
-        "ev_a7aeb6c4c6",
-        "ev_baeaa30b01",
-        "ev_9ac5563f00",
-        "ev_3a20fa71b4",
-        "ev_a725f9a4d9",
-        "ev_c4b7eca5ec",
-        "ev_b84a3552b1",
-        "ev_7f86159860",
-        "ev_d63cec5173"
-      ],
-      "cluster_id": "cl_080",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
-        "https://i.guim.co.uk/img/media/9f32ee616031ffc12c0e89c1c8ab06d19a7287ec/454_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4d726abe037885118d5fae6e756cf882",
-        "https://static01.nyt.com/images/2026/08/19/multimedia/19int-canada-tariffs-deadline-lkpf/19int-canada-tariffs-deadline-lkpf-mediumSquareAt3X.jpg",
-        "https://e3.365dm.com/26/07/1920x1080/skynews-trump-carney_7302900.jpg?20260721003217"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_49f54964d5",
-          "titulo": "Trump pacta con Canadá retrasar aranceles del 50% de EEUU",
-          "url": "http://es.euronews.com/business/2026/08/19/trump-pacta-con-canada-retrasar-aranceles-del-50-de-eeuu",
-          "fuente": "Euronews Espanol",
-          "fecha": "Wed, 19 Aug 2026 06:53:33 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_03df654329",
-          "titulo": "EEUU y Canadá se reúnen a medianoche para evitar la ofensiva arancelaria de Trump",
-          "url": "http://es.euronews.com/business/2026/08/18/eeuu-y-canada-se-reunen-a-medianoche-para-evitar-la-ofensiva-arancelaria-de-trump",
-          "fuente": "Euronews Espanol",
-          "fecha": "Tue, 18 Aug 2026 16:53:26 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f8516321dc",
-          "titulo": "Trump pauses new tariffs on Canada and says countries close to a deal",
-          "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Wed, 19 Aug 2026 03:56:35 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e6992e6064",
-          "titulo": "Trump pauses 50 percent tariff on Canada in last-minute deal",
-          "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Wed, 19 Aug 2026 02:35:15 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a7aeb6c4c6",
-          "titulo": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
-          "url": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
-          "fuente": "NPR News",
-          "fecha": "Wed, 19 Aug 2026 00:55:08 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_baeaa30b01",
-          "titulo": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
-          "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
-          "fuente": "The Guardian World",
-          "fecha": "Wed, 19 Aug 2026 03:47:12 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9ac5563f00",
-          "titulo": "Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near",
-          "url": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
-          "fuente": "NYT World",
-          "fecha": "Wed, 19 Aug 2026 04:00:28 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3a20fa71b4",
-          "titulo": "US and Canada reach last-minute tariffs deal after 'intense' talks",
-          "url": "https://news.sky.com/story/trump-pauses-tariffs-on-canada-after-last-minute-deal-13574545",
-          "fuente": "Sky News World",
-          "fecha": "Wed, 19 Aug 2026 03:27:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a725f9a4d9",
-          "titulo": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-          "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
-          "fuente": "NYT World",
-          "fecha": "Mon, 17 Aug 2026 01:13:14 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c4b7eca5ec",
-          "titulo": "Hoekstra's missteps in Canada are mild compared to some of Trump's ambassadors",
-          "url": "https://www.cbc.ca/news/politics/pete-hoekstra-petition-maga-ambassadors-9.7310065?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Tue, 18 Aug 2026 04:00:00 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b84a3552b1",
-          "titulo": "Canadian plasma clinics pause collections after deaths of two donors",
-          "url": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 14 Aug 2026 16:21:39 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_7f86159860",
-          "titulo": "U.S. businessowners don't want to leave their Canadian suppliers, but 50% tariffs might leave them no choice",
-          "url": "https://www.cbc.ca/news/world/trump-tariffs-impact-on-american-business-owners-9.7310238?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Tue, 18 Aug 2026 04:00:00 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-19_0002",
-      "fecha": "2026-08-19",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-19_0000",
-        "nd_2026-08-19_0001",
-        "nd_2026-08-19_0003",
-        "nd_2026-08-19_0004",
-        "nd_2026-08-19_0005"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Los ataques a Natalie Harp, la ayudante de Trump, desatan las iras de la Casa Blanca",
-        "en": "US senator Jon Ossoff condemns Trump as ‘draft-dodging, crook president’"
-      },
-      "sintesis": {
-        "es": "El senador demócrata Jon Ossoff carga contra una de las mujeres más fieles del equipo del presidente, apodada \"la impresora humana\" Leer",
-        "en": "Potential presidential hopeful running for re-election in Georgia intensifies White House feud after remarks about ‘Natalie’ drew ire of president and allies The Democratic senator Jon Ossoff called Donald Trump a “draft-dodging, crook president” while defending the senator Mark Kelly as a hero during a Tuesday campaign appearance in Georgia, escalating his public feud with the US president. “I don’t think anything illustrates the times more aptly than that the draft-dodging, crook president, who has plunged our nation recklessly into a war he knows not how to end or to win, tried to imprison this man, who embodies American heroism,” Ossoff said while appearing alongside Kelly and his wife, the former Arizona congresswoman Gabrielle Giffords. Continue reading..."
+        "es": "La asistente del presidente de EE.UU. Natalie Harp se ha convertido en una figura recurrente en las apariciones y viajes del mandatario. ¿Quién es y qué rol juega?",
+        "en": "New tracker claims to trace misappropriated funds from different government departments around Washington, D.C., casting the president as a pixelated version of the beloved web-slinging superhero"
       },
       "categoria": "geopolitica",
       "actores": [
         "Trump",
         "Natalie Harp",
-        "Casa Blanca",
-        "Ossoff"
+        "White House",
+        "Casa Blanca"
       ],
       "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
       },
-      "impacto": 86,
+      "impacto": 95,
       "fuentes": [
+        "ev_efe26ba8e1",
         "ev_cf33f19896",
         "ev_7b2db0328e",
-        "ev_ee08a9ba8f",
-        "ev_9e6fda8e93",
-        "ev_6affa6a5c0",
-        "ev_47fb22e189",
-        "ev_f5dbf3a13d",
-        "ev_c8913208bd",
-        "ev_f667a05068"
+        "ev_f04cd8e074",
+        "ev_fb35ad8b63",
+        "ev_5d6ea18b32",
+        "ev_36a99eaa1b",
+        "ev_ac4fd64257",
+        "ev_57c42d1b30",
+        "ev_94f2f2c927",
+        "ev_3a29a25b26",
+        "ev_870efec61b",
+        "ev_fed191e986",
+        "ev_d9520355ee",
+        "ev_5459069a16"
       ],
-      "cluster_id": "cl_038",
+      "cluster_id": "cl_007",
       "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/76df/live/4e33d7b0-9c16-11f1-843d-7bc59bf3f2ac.jpg",
         "https://imagenes.elpais.com/resizer/v2/YTLNBK2TBVMN3E24NWPY3EO6HU.jpg?auth=a49a3f211d4dfa9cb0174cc1a11b3325dcf01b95800df0cffde488ad624d2219",
         "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/18/17870768267232.jpg",
-        "https://i.guim.co.uk/img/media/f6a6bda3d2c5b0c809ea78d0484a5b5d737e3f8a/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=746233e041b1dd2cb0b5b9a6210c4467",
-        "https://static.independent.co.uk/2026/08/17/12/2251020355..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db2/live/5fb103a0-9c02-11f1-b0bd-839fb1d8b591.jpg"
       ],
       "estado": "verificado",
       "referencias": [
+        {
+          "id": "ev_efe26ba8e1",
+          "titulo": "Quién es Natalie Harp, la mano derecha de Trump en el centro de la polémica por su cercanía con el presidente de EE.UU.",
+          "url": "https://www.bbc.com/mundo/articles/cz978v5e35jo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Wed, 19 Aug 2026 22:50:48 GMT",
+          "idioma": "es"
+        },
         {
           "id": "ev_cf33f19896",
           "titulo": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
@@ -532,389 +84,522 @@
           "titulo": "Los ataques a Natalie Harp, la ayudante de Trump, desatan las iras de la Casa Blanca",
           "url": "https://www.elmundo.es/internacional/2026/08/18/6a849fdfe85ece07108b458d.html",
           "fuente": "El Mundo Internacional",
-          "fecha": "Tue, 18 Aug 2026 20:18:53 +0200",
+          "fecha": "Wed, 19 Aug 2026 08:50:09 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_ee08a9ba8f",
-          "titulo": "US senator Jon Ossoff condemns Trump as ‘draft-dodging, crook president’",
-          "url": "https://www.theguardian.com/us-news/2026/aug/18/jon-ossoff-trump",
-          "fuente": "The Guardian World",
-          "fecha": "Tue, 18 Aug 2026 23:32:53 GMT",
+          "id": "ev_f04cd8e074",
+          "titulo": "Who is Natalie Harp, Trump's right-hand woman?",
+          "url": "https://www.bbc.co.uk/news/articles/c80nzdjgmk3o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Wed, 19 Aug 2026 23:11:14 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_9e6fda8e93",
-          "titulo": "Ossoff escalates Trump feud after taunting president over aide Natalie Harp",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/ossoff-trump-president-natalie-harp-b3034800.html",
+          "id": "ev_fb35ad8b63",
+          "titulo": "Natalie Harp worked for Trump at White House for a year with no security clearance: report",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-natalie-harp-security-clearance-b3036034.html",
           "fuente": "The Independent World",
-          "fecha": "Tue, 18 Aug 2026 11:23:51 GMT",
+          "fecha": "Thu, 20 Aug 2026 01:03:57 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_6affa6a5c0",
-          "titulo": "Trump has said ‘much more sleazy’ things than Ossoff’s jibe about aide, Fox News star admits",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/fox-news-trump-sleazy-ossof-aide-b3035331.html",
+          "id": "ev_5d6ea18b32",
+          "titulo": "‘Jealous’ White House staff are leaking to press about Trump aide Natalie Harp, Laura Loomer claims",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-aide-natalie-harp-laura-loomer-b3035862.html",
           "fuente": "The Independent World",
-          "fecha": "Wed, 19 Aug 2026 03:31:29 GMT",
+          "fecha": "Wed, 19 Aug 2026 22:01:21 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_47fb22e189",
-          "titulo": "Trump aide Natalie Harp lives up to her nickname with telling one-word sign-off",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/natalie-harp-trump-human-printer-b3034890.html",
+          "id": "ev_36a99eaa1b",
+          "titulo": "Trump’s relationship with aide Natalie Harp becomes family affair as son Eric weighs in",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/natalie-harp-donald-trump-eric-white-house-b3035934.html",
           "fuente": "The Independent World",
-          "fecha": "Tue, 18 Aug 2026 21:01:21 GMT",
+          "fecha": "Wed, 19 Aug 2026 20:41:39 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_f5dbf3a13d",
-          "titulo": "Trump aide Natalie Harp gets cutting new nickname as unearthed video reveals a key way she serves him",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-natalie-harp-new-nickname-b3034437.html",
-          "fuente": "The Independent World",
-          "fecha": "Tue, 18 Aug 2026 20:01:03 GMT",
+          "id": "ev_ac4fd64257",
+          "titulo": "Why everyone is talking about Trump's aide Natalie Harp",
+          "url": "https://www.cbc.ca/news/world/natalie-harp-explainer-9.7312276?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Wed, 19 Aug 2026 14:16:01 EDT",
           "idioma": "en"
         },
         {
-          "id": "ev_c8913208bd",
-          "titulo": "Where’s Melania? As Trump aide Natalie Harp never seems to leave president’s side, first lady is rarely seen",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/melania-trump-missing-natalie-harp-b3034593.html",
+          "id": "ev_57c42d1b30",
+          "titulo": "FCC chair’s meetings with Trump, White House and right-wing media revealed in documents: report",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/fcc-chair-brendan-carr-white-house-meetings-b3035836.html",
           "fuente": "The Independent World",
-          "fecha": "Tue, 18 Aug 2026 11:27:08 GMT",
+          "fecha": "Wed, 19 Aug 2026 19:26:36 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_f667a05068",
-          "titulo": "All we know about Trump aide Natalie Harp after her brother questions ‘unhealthy’ relationship",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-truth-social-natalie-harp-b3034302.html",
+          "id": "ev_94f2f2c927",
+          "titulo": "Natalie Harp stowed in trunk of SUV when Trump’s motorcade had no space for her: report",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-aide-natalie-harp-suv-trunk-b3035508.html",
           "fuente": "The Independent World",
-          "fecha": "Tue, 18 Aug 2026 10:53:41 GMT",
+          "fecha": "Wed, 19 Aug 2026 17:30:32 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3a29a25b26",
+          "titulo": "Trump pretends to be Spider-Man on new White House website tracking eliminated ‘fraud’",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-fraud-spider-man-white-house-tracker-b3033010.html",
+          "fuente": "The Independent World",
+          "fecha": "Wed, 19 Aug 2026 16:40:31 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_870efec61b",
+          "titulo": "Trump unveils latest construction obsession with hardhat tour of White House helipad: ‘Real artists’",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-helipad-white-house-construction-b3035808.html",
+          "fuente": "The Independent World",
+          "fecha": "Wed, 19 Aug 2026 16:27:24 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-19_0003",
-      "fecha": "2026-08-19",
+      "id": "nd_2026-08-20_0000",
+      "fecha": "2026-08-20",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-19_0000",
-        "nd_2026-08-19_0001",
-        "nd_2026-08-19_0002",
-        "nd_2026-08-19_0004",
-        "nd_2026-08-19_0005"
+        "nd_2026-08-20_0001",
+        "nd_2026-08-20_0002"
       ]
     },
     {
       "titulo": {
-        "es": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
-        "en": "South Korea president calls for military independence in wake of Trump call to cut joint drills"
+        "es": "¿Por qué Donald Trump insiste en reunirse con Kim Jong-un antes de que acabe el 2026?",
+        "en": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers"
       },
       "sintesis": {
-        "es": "Lee Jae Myung reiterates desire for full command back in Seoul’s hands after Donald Trump cuts joint exercises, citing warm ties with Kim Jong-un ‘Inane, haphazard decision’ by Trump to gut South Korea alliance South Korea’s president ⁠has renewed his push to regain independent control of the military from the US in the event of war and urged faster progress in acquiring nuclear-powered submarines after Donald Trump’s order to cut joint drills. On Sunday night, Trump instructed the Pentagon to “substantially reduce” this week’s joint military exercises with South Korea, saying the nuclear-armed North “has been unthreatening and respectful” and that the US president had a “very good relationship with Kim Jong-un”. Continue reading...",
-        "en": "Lee Jae Myung reiterates desire for full command back in Seoul’s hands after Donald Trump cuts joint exercises, citing warm ties with Kim Jong-un ‘Inane, haphazard decision’ by Trump to gut South Korea alliance South Korea’s president ⁠has renewed his push to regain independent control of the military from the US in the event of war and urged faster progress in acquiring nuclear-powered submarines after Donald Trump’s order to cut joint drills. On Sunday night, Trump instructed the Pentagon to “substantially reduce” this week’s joint military exercises with South Korea, saying the nuclear-armed North “has been unthreatening and respectful” and that the US president had a “very good relationship with Kim Jong-un”. Continue reading..."
+        "es": "Donald Trump anunció que planea reunirse con Kim Jong-un en 2026 y presume de su “muy buena relación” con el líder norcoreano. Mientras se conoció que Pyongyang mantiene 57 armas nucleares. ¿Cuál es el objetivo de Trump?",
+        "en": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury."
       },
       "categoria": "geopolitica",
       "actores": [
         "Trump",
-        "South Korea",
-        "North Korea",
-        "Washington"
+        "Kim Jong",
+        "Iran",
+        "Corea"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_d133d37d79",
+        "ev_df6dbd3c37",
+        "ev_2db55028d2",
+        "ev_6b8fa07e10",
+        "ev_41370e201a",
+        "ev_324c5acaa2",
+        "ev_1131a96186",
+        "ev_1939d54f6b",
+        "ev_a4d1f804c3",
+        "ev_048b0eeeb9",
+        "ev_c2d65ab22b",
+        "ev_3b432528b2",
+        "ev_9d3502cc58",
+        "ev_1ffa486d97",
+        "ev_087d357bc4",
+        "ev_15382b7f72",
+        "ev_672b884d11",
+        "ev_9a274438f5",
+        "ev_1349ffcbd2",
+        "ev_bfb0de0be7",
+        "ev_bf02864c7a",
+        "ev_8410f398d4",
+        "ev_cf9e22be4d",
+        "ev_a2f4f040b1",
+        "ev_e70336f3e3",
+        "ev_3184a66d96",
+        "ev_1fd0357d64",
+        "ev_3f6d6354d4",
+        "ev_fdcd0112df",
+        "ev_e87e2c3ff7",
+        "ev_d4133ebceb",
+        "ev_84cc03d567",
+        "ev_ae78bb0ddc"
+      ],
+      "cluster_id": "cl_030",
+      "imagenes": [
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206062_012535_video_1800.mp4",
+        "https://imagenes.elpais.com/resizer/v2/XA53TYYPU5KYLBLCMBI6N76URQ.jpg?auth=9b8540ec4efd706a586e9e160393e0764d0bd9d2c2eb3e4c2bc99a6e18c507ea",
+        "https://s.france24.com/media/display/f3558cac-9c34-11f1-b995-005056bf30b7/w:1024/p:16x9/ES-20260819-180455-180649-CS-01.jpg",
+        "https://s.france24.com/media/display/7ef9c134-9c34-11f1-8c5e-005056bf30b7/w:1024/p:16x9/ES-20260819-190504-190828-CS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d133d37d79",
+          "titulo": "Trump apuesta por un acercamiento a Kim Jong-un para olvidar el callejón sin salida de Irán",
+          "url": "https://elpais.com/internacional/2026-08-19/trump-apuesta-por-un-acercamiento-a-kim-jong-un-para-olvidar-el-callejon-sin-salida-de-iran.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Wed, 19 Aug 2026 20:11:15 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_df6dbd3c37",
+          "titulo": "EE UU y Corea del Sur terminan sus maniobras antes de lo previsto en medio de un nuevo acercamiento de Trump a Kim Jong-un",
+          "url": "https://elpais.com/internacional/2026-08-19/ee-uu-y-corea-del-sur-terminan-sus-maniobras-antes-de-lo-previsto-en-medio-de-un-nuevo-acercamiento-de-trump-a-kim-jong-un.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Wed, 19 Aug 2026 09:57:45 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_2db55028d2",
+          "titulo": "Trump busca encuentro con Kim Jong-un en medio de tensiones nucleares",
+          "url": "https://www.france24.com/es/video/20260820-trump-busca-encuentro-con-kim-jong-un-en-medio-de-tensiones-nucleares",
+          "fuente": "France 24 Espanol",
+          "fecha": "Thu, 20 Aug 2026 04:07:30 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_6b8fa07e10",
+          "titulo": "¿Por qué Donald Trump insiste en reunirse con Kim Jong-un antes de que acabe el 2026?",
+          "url": "https://www.france24.com/es/video/20260820-por-qu%C3%A9-donald-trump-insiste-en-reunirse-con-kim-jong-un-antes-de-que-acabe-el-2026",
+          "fuente": "France 24 Espanol",
+          "fecha": "Thu, 20 Aug 2026 04:05:09 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_41370e201a",
+          "titulo": "Trump dice que se reunirá con el líder norcoreano Kim Jong-un a finales de este año",
+          "url": "http://es.euronews.com/2026/08/19/trump-dice-que-se-reunira-con-el-lider-norcoreano-kim-jong-un-a-finales-de-este-ano",
+          "fuente": "Euronews Espanol",
+          "fecha": "Wed, 19 Aug 2026 21:33:28 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_324c5acaa2",
+          "titulo": "Trump vuelve a llamar a la puerta de Kim Jong-un",
+          "url": "https://www.elmundo.es/internacional/2026/08/19/6a858aafe85ece951e8b458d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Wed, 19 Aug 2026 12:52:51 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_1131a96186",
+          "titulo": "Donald Trump publica un mapa con el Estrecho de Ormuz como \"nuevo territorio estadounidense\"",
+          "url": "https://www.elmundo.es/internacional/2026/08/18/6a84743ae85eced66d8b4580.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Tue, 18 Aug 2026 17:33:06 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_1939d54f6b",
+          "titulo": "Trump manda a callar a reportera de CNN que le preguntó sobre Corea del Norte: \"Tus hijos se sentirán indignados y avergonzados\"",
+          "url": "https://www.elmundo.es/internacional/2026/08/18/6a83a464fc6c83236a8b4578.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Tue, 18 Aug 2026 09:29:57 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_a4d1f804c3",
+          "titulo": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Thu, 20 Aug 2026 00:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_048b0eeeb9",
+          "titulo": "Trump announces ‘most crushing economic operation ever’ against Iran",
+          "url": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 19 Aug 2026 23:18:32 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c2d65ab22b",
+          "titulo": "Iran threatens to attack US targets in Europe if Trump escalates war, says report",
+          "url": "https://www.independent.co.uk/news/world/middle-east/iran-attack-europe-trump-escalation-b3034956.html",
+          "fuente": "The Independent World",
+          "fecha": "Wed, 19 Aug 2026 09:27:58 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3b432528b2",
+          "titulo": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers",
+          "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Thu, 20 Aug 2026 02:49:15 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-20_0001",
+      "fecha": "2026-08-20",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-20_0000",
+        "nd_2026-08-20_0002",
+        "nd_2026-08-20_0006"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Trump suspende por tres días la entrada en vigor de los aranceles tras un acuerdo con Canadá",
+        "en": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline"
+      },
+      "sintesis": {
+        "es": "Giro de última hora en la guerra comercial entre Washington y Ottawa. El martes 18 de agosto, Donald Trump pospuso por tres días los aranceles del 50 % que iban a aplicarse a partir del miércoles por la mañana a varios cientos de productos canadienses, un anuncio realizado a menos de dos horas del ultimátum fijado para obtener nuevas concesiones de Canadá. Un respiro de última hora que Donald Trump justifica con el anuncio de un acuerdo.",
+        "en": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’ Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have affected $20bn worth of goods was set to take effect. Donald Trump posted late on Tuesday on social media that he had paused the tariffs for three days “based on the fact that Canada and the USA, subject to the finalization of documents, have a DEAL!” Continue reading..."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Canada",
+        "Trump",
+        "Keystone",
+        "DEAL"
+      ],
+      "geo": {
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_ac35c0ad9a",
+        "ev_1c619bcc08",
+        "ev_ce452e8275",
+        "ev_1d70811393",
+        "ev_3a20fa71b4",
+        "ev_010ba170be",
+        "ev_2d4f29070d",
+        "ev_f0bbaf46d3",
+        "ev_c35a943777"
+      ],
+      "cluster_id": "cl_040",
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/F572JPUI55IDVCLGEH4GFQNK7M.jpg?auth=12dcea800f374d54e37e876ce2eeafec134aebe25f149c647b8d0f1e343b5339",
+        "https://s.rfi.fr/media/display/a0c02784-9b4b-11f1-b858-005056a97e36/w:1024/p:16x9/2026-08-07T151753Z-487940382-RC247HA8LWC2-RTRMADP-3-USA-TRUMP-TARIFFS-CANADA.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg",
+        "https://i.guim.co.uk/img/media/9f32ee616031ffc12c0e89c1c8ab06d19a7287ec/454_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=4d726abe037885118d5fae6e756cf882"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_ac35c0ad9a",
+          "titulo": "Trump afirma que EE UU y Canadá alcanzaron un acuerdo de último momento que pausa la entrada en vigor de nuevos aranceles",
+          "url": "https://elpais.com/us/2026-08-19/trump-afirma-que-ee-uu-y-canada-alcanzaron-un-acuerdo-de-ultimo-momento-que-pausa-la-entrada-en-vigor-de-nuevos-aranceles.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Wed, 19 Aug 2026 03:55:09 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_1c619bcc08",
+          "titulo": "Trump suspende por tres días la entrada en vigor de los aranceles tras un acuerdo con Canadá",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260819-trump-suspende-por-tres-d%C3%ADas-la-entrada-en-vigor-de-los-aranceles-tras-un-acuerdo-con-canad%C3%A1",
+          "fuente": "RFI Espanol",
+          "fecha": "Wed, 19 Aug 2026 11:00:51 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_ce452e8275",
+          "titulo": "Canada and US say they are finalising a trade deal",
+          "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Thu, 20 Aug 2026 03:10:48 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1d70811393",
+          "titulo": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
+          "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+          "fuente": "The Guardian World",
+          "fecha": "Wed, 19 Aug 2026 03:47:12 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3a20fa71b4",
+          "titulo": "US and Canada reach last-minute tariffs deal after 'intense' talks",
+          "url": "https://news.sky.com/story/trump-pauses-tariffs-on-canada-after-last-minute-deal-13574545",
+          "fuente": "Sky News World",
+          "fecha": "Wed, 19 Aug 2026 03:27:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_010ba170be",
+          "titulo": "Trump announces pause on 50% tariffs for Canada after reaching ‘a DEAL’",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-tariffs-canada-pause-deal-b3035419.html",
+          "fuente": "The Independent World",
+          "fecha": "Wed, 19 Aug 2026 07:01:24 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2d4f29070d",
+          "titulo": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
+          "url": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Wed, 19 Aug 2026 20:10:14 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f0bbaf46d3",
+          "titulo": "Trump and Canada’s Carney Seem to Make Progress on a Tariff Deal, but Questions Linger",
+          "url": "https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html",
+          "fuente": "NYT World",
+          "fecha": "Thu, 20 Aug 2026 00:22:17 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c35a943777",
+          "titulo": "Trump Pauses 50 Percent Tariffs on Canada and Claims Deal Is Near",
+          "url": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
+          "fuente": "NYT World",
+          "fecha": "Wed, 19 Aug 2026 12:04:49 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-20_0002",
+      "fecha": "2026-08-20",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-08-20_0000",
+        "nd_2026-08-20_0001"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Detenido en Croacia un segundo sospechoso del sabotaje a Nord Stream en 2022",
+        "en": "Germany says 2nd suspect in Nord Stream pipeline sabotage arrested in Croatia"
+      },
+      "sintesis": {
+        "es": "La Policía croata detuvo a un segundo sospechoso acusado de participar en el sabotaje de los gasoductos Nord Stream en 2022. Según la Fiscalía alemana, el buzo habría colocado explosivos, causando graves daños en los gasoductos. El detenido, de nacionalidad ucraniana, podría ser extraditado a Alemania, donde enfrentará cargos por sabotaje y destrucción de infraestructura crítica.",
+        "en": "A Ukrainian man was arrested Wednesday in Croatia in relation to undersea explosions that damaged the Nord Stream gas pipelines between Russia and Germany in 2022, Germany's federal prosecutor said."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Nord Stream",
+        "Detenido",
+        "Croacia",
+        "Croatia"
       ],
       "geo": {
         "lat": 48.4,
         "lon": 31.2,
         "region": "Europa del Este"
       },
-      "impacto": 83,
+      "impacto": 89,
       "fuentes": [
-        "ev_e70336f3e3",
-        "ev_cfb50edada",
-        "ev_709aad3233",
-        "ev_f08347b560",
-        "ev_ab8cf2054d",
-        "ev_e87e2c3ff7",
-        "ev_d4133ebceb",
-        "ev_14121e58bb",
-        "ev_71aa905a8b",
-        "ev_2202b12da8",
-        "ev_a0f49b3610"
+        "ev_f01a806ebe",
+        "ev_9d82bd540c",
+        "ev_d47311aada",
+        "ev_f3b1d83c5a",
+        "ev_2de7d61765"
       ],
-      "cluster_id": "cl_164",
+      "cluster_id": "cl_051",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ad/live/375f2780-9b83-11f1-bdab-bd265066e1df.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb7/live/b807c3f0-9a94-11f1-a291-b542ee92de7c.jpg",
-        "https://i.guim.co.uk/img/media/9d5c19d1d2fb8cc1a332e36bb6c7886808938047/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b03dbd5cd5b80ec7ebfcd7c0c24f84a9",
-        "https://i.guim.co.uk/img/media/df6bcc6943e9a77ef440e7b8573532433abd7cf5/163_0_3758_3006/master/3758.jpg?width=140&quality=85&auto=format&fit=max&s=343969124f26b94658a7f21d047eec3f"
+        "https://s.france24.com/media/display/ea81f444-9c07-11f1-8066-005056a90284/w:1024/p:16x9/ES-20260819-130852-131046-CS.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b940/live/10ce9110-9bcd-11f1-bb4d-1147ef2e78e5.jpg",
+        "https://e3.365dm.com/26/08/1920x1080/skynews-nord-stream-pipeline_7325781.jpg?20260819155057"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_e70336f3e3",
-          "titulo": "South Korea shortens war games with US, citing Washington request",
-          "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+          "id": "ev_f01a806ebe",
+          "titulo": "Detenido en Croacia un segundo sospechoso del sabotaje a Nord Stream en 2022",
+          "url": "https://www.france24.com/es/video/20260819-detenido-en-croacia-un-segundo-sospechoso-del-sabotaje-a-nord-stream-en-2022",
+          "fuente": "France 24 Espanol",
+          "fecha": "Wed, 19 Aug 2026 21:38:45 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_9d82bd540c",
+          "titulo": "Detenido en Croacia un buzo ucraniano por el sabotaje del gasoducto Nord Stream",
+          "url": "http://es.euronews.com/my-europe/2026/08/19/detienen-en-croacia-a-un-buzo-ucraniano-por-el-atentado-contra-nord-stream",
+          "fuente": "Euronews Espanol",
+          "fecha": "Wed, 19 Aug 2026 15:23:54 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d47311aada",
+          "titulo": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+          "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Wed, 19 Aug 2026 03:39:41 GMT",
+          "fecha": "Wed, 19 Aug 2026 16:31:48 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_cfb50edada",
-          "titulo": "Watch: Why has Trump shifted on North Korea?",
-          "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 17 Aug 2026 23:42:38 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_709aad3233",
-          "titulo": "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
-          "url": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
-          "fuente": "The Guardian World",
-          "fecha": "Wed, 19 Aug 2026 02:18:25 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f08347b560",
-          "titulo": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
-          "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
-          "fuente": "The Guardian World",
-          "fecha": "Tue, 18 Aug 2026 05:50:33 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ab8cf2054d",
-          "titulo": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
-          "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 17 Aug 2026 19:11:26 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e87e2c3ff7",
-          "titulo": "Trump’s Overture to North Korea Strains Alliance With the South",
-          "url": "https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html",
-          "fuente": "NYT World",
-          "fecha": "Mon, 17 Aug 2026 10:57:48 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d4133ebceb",
-          "titulo": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
-          "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
-          "fuente": "NYT World",
-          "fecha": "Mon, 17 Aug 2026 06:16:21 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_14121e58bb",
-          "titulo": "Is Trump choosing North Korea over South Korea? | About That",
-          "url": "https://www.cbc.ca/player/play/9.7311746?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Tue, 18 Aug 2026 19:08:52 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_71aa905a8b",
-          "titulo": "US, South Korea cut drills short after Trump criticism",
-          "url": "https://www.france24.com/en/live-news/20260819-us-south-korea-cut-drills-short-after-trump-criticism",
-          "fuente": "France 24 English",
-          "fecha": "Wed, 19 Aug 2026 02:27:10 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2202b12da8",
-          "titulo": "Trump downscales 'hostile' military drills with South Korea",
-          "url": "https://news.sky.com/story/trump-downscales-hostile-military-drills-with-south-korea-citing-very-good-relationship-with-kim-jong-un-13573864",
+          "id": "ev_f3b1d83c5a",
+          "titulo": "Second Ukrainian suspect arrested over Nord Stream pipeline blasts",
+          "url": "https://news.sky.com/story/second-ukrainian-suspect-arrested-over-nord-stream-pipeline-blasts-13574750",
           "fuente": "Sky News World",
-          "fecha": "Sun, 16 Aug 2026 22:47:00 +0100",
+          "fecha": "Wed, 19 Aug 2026 15:39:00 +0100",
           "idioma": "en"
         },
         {
-          "id": "ev_a0f49b3610",
-          "titulo": "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
-          "url": "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Wed, 19 Aug 2026 01:57:05 GMT",
+          "id": "ev_2de7d61765",
+          "titulo": "Germany says 2nd suspect in Nord Stream pipeline sabotage arrested in Croatia",
+          "url": "https://www.cbc.ca/news/world/nord-stream-pipeline-damage-arrest-9.7312068?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Wed, 19 Aug 2026 07:13:00 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-19_0004",
-      "fecha": "2026-08-19",
+      "id": "nd_2026-08-20_0003",
+      "fecha": "2026-08-20",
       "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-19_0000",
-        "nd_2026-08-19_0001",
-        "nd_2026-08-19_0002",
-        "nd_2026-08-19_0003",
-        "nd_2026-08-19_0005"
-      ]
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "ABC and Disney sue FCC, alleging First Amendment violations",
-        "en": "ABC and Disney sue FCC, alleging First Amendment violations"
+        "es": "Erin Patterson appeal live: prosecutors seek life in prison without parole for triple murderer",
+        "en": "Erin Patterson appeal live: prosecutors seek life in prison without parole for triple murderer"
       },
       "sintesis": {
-        "es": "The ABC network has sued the Federal Communications Commission, alleging that the Trump administration is violating its First Amendment rights by challenging ABC broadcast licenses and investigating the network's talk show The View .",
-        "en": "The ABC network has sued the Federal Communications Commission, alleging that the Trump administration is violating its First Amendment rights by challenging ABC broadcast licenses and investigating the network's talk show The View ."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "ABC",
-        "Disney",
-        "Trump",
-        "FCC"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 83,
-      "fuentes": [
-        "ev_2e40569980",
-        "ev_25477f2925",
-        "ev_c5570c30a3",
-        "ev_471201077d",
-        "ev_3c58f988ed",
-        "ev_1211a2b2c1"
-      ],
-      "cluster_id": "cl_179",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bd/live/f9b07010-9b1e-11f1-afea-3b9b9f2d3a59.jpg",
-        "https://static.independent.co.uk/2026/08/18/20/2262361321..?width=1200&auto=webp&trim=0%2C50%2C0%2C50",
-        "https://static.independent.co.uk/2026/05/01/12/09/Jimmy-Kimmel-and-Donald-Trump.png?width=1200&auto=webp&trim=0%2C7%2C0%2C7",
-        "https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-1152x648-1758655744.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_2e40569980",
-          "titulo": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-          "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Tue, 18 Aug 2026 20:39:36 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_25477f2925",
-          "titulo": "ABC and Disney sue FCC, alleging First Amendment violations",
-          "url": "https://www.npr.org/2026/08/18/nx-s1-5936406/abc-and-disney-sue-fcc-alleging-first-amendment-violations",
-          "fuente": "NPR News",
-          "fecha": "Tue, 18 Aug 2026 15:51:27 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c5570c30a3",
-          "titulo": "Disney-owned ABC files First Amendment lawsuit against FCC",
-          "url": "https://www.cnbc.com/2026/08/18/disney-abc-first-amendment-lawsuit-fcc.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Tue, 18 Aug 2026 16:57:08 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_471201077d",
-          "titulo": "Fearless FCC commissioner risks Trump’s wrath to praise ABC lawsuit over Jimmy Kimmel retaliation",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/fcc-lawsuit-disney-trump-kimmel-anna-gomez-b3035215.html",
-          "fuente": "The Independent World",
-          "fecha": "Tue, 18 Aug 2026 20:58:11 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3c58f988ed",
-          "titulo": "ABC sues Trump’s FCC for ‘retaliation’ over Jimmy Kimmel",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/abc-trump-lawsuit-fcc-first-amendment-jimmy-kimmel-b3034919.html",
-          "fuente": "The Independent World",
-          "fecha": "Tue, 18 Aug 2026 15:27:27 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1211a2b2c1",
-          "titulo": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
-          "url": "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
-          "fuente": "Ars Technica",
-          "fecha": "Tue, 18 Aug 2026 18:11:26 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-19_0005",
-      "fecha": "2026-08-19",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-08-19_0000",
-        "nd_2026-08-19_0001",
-        "nd_2026-08-19_0002",
-        "nd_2026-08-19_0003",
-        "nd_2026-08-19_0004"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch",
-        "en": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch"
-      },
-      "sintesis": {
-        "es": "Victorian court of appeal to consider whether triple murder and attempted murder guilty verdicts should be quashed Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice Get our breaking news email , free app or daily news podcast Limited accomodation during sequestering ‘issues of convenience’, Patterson’s barrister says Kidd says Patterson’s case must be considered in the context of other cases where jurors had unsupervised access to “outsiders”. He says in this case the jurors were under the supervision of the jury-keeper at all times. They are not, in our submission, a principled response.",
-        "en": "Victorian court of appeal to consider whether triple murder and attempted murder guilty verdicts should be quashed Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice Get our breaking news email , free app or daily news podcast Limited accomodation during sequestering ‘issues of convenience’, Patterson’s barrister says Kidd says Patterson’s case must be considered in the context of other cases where jurors had unsupervised access to “outsiders”. He says in this case the jurors were under the supervision of the jury-keeper at all times. They are not, in our submission, a principled response."
+        "es": "Victorian court of appeal will consider whether triple murder and attempted murder convictions should be quashed Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice Get our breaking news email , free app or daily news podcast Prosecution turns to argument Patterson wasn’t severely ill after beef wellington McWilliams is touching on the prosecution’s argument in its closing address that Patterson was not severely ill after the poisoned beef wellington lunch. Patterson’s lawyers have pointed to evidence heard in the trial, including testimony about her lowered potassium levels. McWilliams says her potassium levels were “clinically noted” but she did not present as having death cap mushroom poisoning after the meal.",
+        "en": "Victorian court of appeal will consider whether triple murder and attempted murder convictions should be quashed Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice Get our breaking news email , free app or daily news podcast Prosecution turns to argument Patterson wasn’t severely ill after beef wellington McWilliams is touching on the prosecution’s argument in its closing address that Patterson was not severely ill after the poisoned beef wellington lunch. Patterson’s lawyers have pointed to evidence heard in the trial, including testimony about her lowered potassium levels. McWilliams says her potassium levels were “clinically noted” but she did not present as having death cap mushroom poisoning after the meal."
       },
       "categoria": "salud",
       "actores": [
         "Erin Patterson",
-        "Mushroom",
         "Australia",
-        "Woman Convicted"
+        "Mushroom",
+        "Case"
       ],
       "geo": {
         "lat": -25.3,
         "lon": 133.8,
         "region": "Oceania"
       },
-      "impacto": 74,
+      "impacto": 83,
       "fuentes": [
-        "ev_0f4b3baa67",
-        "ev_d97385998b",
-        "ev_ff80088aac",
-        "ev_058a29d71c",
+        "ev_a26ce0b032",
+        "ev_9ce7054f8e",
         "ev_a88dba6bcb",
+        "ev_c20d30f4d0",
+        "ev_4589fda424",
+        "ev_d797a8f87e",
         "ev_ecc56449be"
       ],
-      "cluster_id": "cl_185",
+      "cluster_id": "cl_167",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0306/live/58d0af30-9adc-11f1-b792-a710e56a11dc.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ccf/live/24e92cb0-97b2-11f1-a7ab-8b30adf0800a.jpg",
-        "https://i.guim.co.uk/img/media/834844df6e8c6268c3d928f8aa12c5c1c6dfb8c2/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=f87026d8f018e4e341d5fd95476cd245",
-        "https://i.guim.co.uk/img/media/9a4e67d3924e4b34a60fb41a4b72df4689374a49/0_0_1592_1273/master/1592.jpg?width=140&quality=85&auto=format&fit=max&s=d21d97d5f5eef5779e24a40008011df5"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2676/live/aeb15fe0-9bb2-11f1-aed2-8d6da8d75094.jpg",
+        "https://static.independent.co.uk/2026/08/19/10/2026-08-19T035122Z_364885960_RC2F1NAZEJVT_RTRMADP_3_AUSTRALIA-DEATHS-MUSHROOMS.JPG?width=1200&auto=webp&trim=113%2C0%2C113%2C0",
+        "https://static.independent.co.uk/2026/08/19/03/2026-08-18T235347Z_1238708359_RC2ZDGA82Z7E_RTRMADP_3_AUSTRALIA-DEATHS-MUSHROOMS.JPG?width=1200&auto=webp&trim=1%2C0%2C1%2C0",
+        "https://i.guim.co.uk/img/media/179ea9ee8d7a132742cba734ebb059a2c6aa5333/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=04cb290e5e5f036f58f4df71b20198a9"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_0f4b3baa67",
-          "titulo": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-          "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
+          "id": "ev_a26ce0b032",
+          "titulo": "'Catastrophic' hotel mix-up at the heart of Australia's mushroom murder appeal",
+          "url": "https://www.bbc.co.uk/news/videos/c9v4ze2dpdjo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Mon, 17 Aug 2026 18:03:23 GMT",
+          "fecha": "Wed, 19 Aug 2026 10:52:46 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_d97385998b",
-          "titulo": "Why is Australia's mushroom killer back in court this week?",
-          "url": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sat, 15 Aug 2026 18:02:30 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ff80088aac",
-          "titulo": "Erin Patterson appeal live: mushroom murderer challenges convictions over fatal beef wellington lunch",
-          "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/erin-patterson-appeal-live-mushroom-murders-court-australia-victoria-ntwnfb",
-          "fuente": "The Guardian World",
-          "fecha": "Wed, 19 Aug 2026 04:50:09 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_058a29d71c",
-          "titulo": "Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice",
-          "url": "https://www.theguardian.com/australia-news/2026/aug/19/erin-patterson-mushroom-murders-appeal-jurors-catastrophic-failure-of-justice-ntwnfb",
-          "fuente": "The Guardian World",
-          "fecha": "Wed, 19 Aug 2026 03:37:34 GMT",
+          "id": "ev_9ce7054f8e",
+          "titulo": "Mushroom killer Erin Patterson’s lawyers say ‘catastrophic’ hotel mix-up undermined trial",
+          "url": "https://www.independent.co.uk/news/world/australasia/erin-patterson-australia-mushroom-killer-conviction-appeal-victoria-b3035526.html",
+          "fuente": "The Independent World",
+          "fecha": "Wed, 19 Aug 2026 11:54:18 GMT",
           "idioma": "en"
         },
         {
@@ -922,7 +607,31 @@
           "titulo": "Erin Patterson appeal latest: Mushroom killer’s lawyers say ‘catastrophic’ hotel mistake led to mistrial",
           "url": "https://www.independent.co.uk/news/world/australasia/erin-patterson-appeal-live-mushroom-killer-australia-b3035341.html",
           "fuente": "The Independent World",
-          "fecha": "Wed, 19 Aug 2026 04:26:18 GMT",
+          "fecha": "Wed, 19 Aug 2026 06:59:02 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c20d30f4d0",
+          "titulo": "Erin Patterson appeal live: prosecutors seek life in prison without parole for triple murderer",
+          "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
+          "fuente": "The Guardian World",
+          "fecha": "Thu, 20 Aug 2026 04:58:05 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4589fda424",
+          "titulo": "Case against Erin Patterson is ‘overwhelming’ and mushroom killer’s appeal should be dismissed, prosecutors say",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/20/erin-patterson-appeal-mushroom-murders-ntwnfb",
+          "fuente": "The Guardian World",
+          "fecha": "Thu, 20 Aug 2026 04:33:25 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d797a8f87e",
+          "titulo": "Australia mushroom killer's lawyers point to jury irregularities at appeal",
+          "url": "https://www.france24.com/en/video/20260819-australia-mushroom-killer-s-lawyers-point-to-jury-irregularities-at-appeal",
+          "fuente": "France 24 English",
+          "fecha": "Wed, 19 Aug 2026 14:30:23 GMT",
           "idioma": "en"
         },
         {
@@ -930,520 +639,700 @@
           "titulo": "Erin Patterson, Woman Convicted in Australia’s Mushroom Murder Case, Appeals",
           "url": "https://www.nytimes.com/2026/08/18/world/australia/erin-patterson-appeal-mushroom-murder-australia.html",
           "fuente": "NYT World",
-          "fecha": "Tue, 18 Aug 2026 21:00:06 +0000",
+          "fecha": "Tue, 18 Aug 2026 21:00:07 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-19_0006",
-      "fecha": "2026-08-19",
+      "id": "nd_2026-08-20_0004",
+      "fecha": "2026-08-20",
       "kardashev": "K0",
-      "relaciones": []
+      "relaciones": [
+        "nd_2026-08-20_0012"
+      ]
     },
     {
       "titulo": {
-        "es": "Terremoto de magnitud 7.4 en Colombia deja 224 muertos y crisis humanitaria en varios departamentos",
-        "en": "Magnitude 7.4 earthquake in Colombia leaves 224 dead and triggers humanitarian crisis in several departments"
+        "es": "Laboratorios Moderna y Merck anuncian buenos resultados de una vacuna contra el cáncer de piel",
+        "en": "Merck and Moderna say mRNA melanoma vaccine hits goals in late-stage trial"
       },
       "sintesis": {
-        "es": "Un terremoto de magnitud 7.4 sacudió el occidente de Colombia el 10 de agosto de 2026, dejando al menos 224 muertos y afectando a 13 departamentos, con Chocó y Buenaventura entre las zonas más golpeadas. La ONU y agencias como UNICEF han desplegado ayuda humanitaria para más de 100.000 personas, enfocándose en agua potable, salud, alimentación y protección, mientras persisten réplicas que amenazan la infraestructura. El sismo se suma a la tragedia previa en Venezuela de junio de 2026, donde otro terremoto causó muertes y destrucción, incluyendo el colapso de un albergue para migrantes deportados, afectando a familias que ahora enfrentan una doble catástrofe sísmica.",
-        "en": "A magnitude 7.4 earthquake struck western Colombia on August 10, 2026, killing at least 224 people and affecting 13 departments, with Chocó and Buenaventura among the hardest-hit areas. The UN and agencies like UNICEF have deployed humanitarian aid for over 100,000 people, focusing on clean water, health, food security and protection, while aftershocks continue to threaten infrastructure. The disaster follows a previous earthquake tragedy in Venezuela in June 2026, which caused deaths and destruction, including the collapse of a shelter housing deported migrants, affecting families now facing a double seismic catastrophe."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Gobierno de Colombia",
-        "ONU",
-        "UNICEF",
-        "Gobierno de Venezuela",
-        "comunidades afectadas en Chocó y Buenaventura"
-      ],
-      "geo": {
-        "lat": 5.6947,
-        "lon": -76.6611,
-        "region": "Chocó, Colombia"
-      },
-      "impacto": 72,
-      "fuentes": [
-        "ev_9174cd1e65",
-        "ev_ce84e9a454",
-        "ev_cb4fa4fdbb",
-        "ev_8f75ea66bf",
-        "ev_5366dc9c9d",
-        "ev_1f19606cda"
-      ],
-      "cluster_id": "cl_014",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a357/live/966e60b0-9750-11f1-9c09-a729ba578a81.png",
-        "https://s.france24.com/media/display/7c19dc26-99e9-11f1-b5d4-005056a90284/w:1024/p:16x9/image4-2-2.jpeg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/08/12-08-2026_Colombia_UNFPA_1.jpg/image560x340cropped.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/11-08-2026-Colombia-earthquake-02.jpg/image560x340cropped.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_9174cd1e65",
-          "titulo": "\"Los terremotos nos persiguen\": los hermanos adolescentes que perdieron a su madre en el sismo de Venezuela y ahora sufrieron el de Colombia",
-          "url": "https://www.bbc.com/mundo/articles/c934x32d0n7o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 13 Aug 2026 22:01:01 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_ce84e9a454",
-          "titulo": "Venezuela: deportación y terremoto, la doble desgracia del vuelo 164",
-          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260818-venezuela-deportaci%C3%B3n-y-terremoto-la-doble-desgracia-del-vuelo-164",
-          "fuente": "France 24 Espanol",
-          "fecha": "Tue, 18 Aug 2026 19:48:11 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_cb4fa4fdbb",
-          "titulo": "El terremoto en Colombia deja 224 muertos y afecta a 13 departamentos",
-          "url": "https://news.un.org/feed/view/es/story/2026/08/1541802",
-          "fuente": "Noticias ONU",
-          "fecha": "Wed, 12 Aug 2026 12:00:00 +0000",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_8f75ea66bf",
-          "titulo": "Colombia: agua potable, atención médica y alimentos, entre las necesidades urgentes tras el terremoto",
-          "url": "https://news.un.org/feed/view/es/story/2026/08/1541794",
-          "fuente": "Noticias ONU",
-          "fecha": "Tue, 11 Aug 2026 12:00:00 +0000",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_5366dc9c9d",
-          "titulo": "Colombia earthquake: UN ramps up aid for 100,000 people",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168161",
-          "fuente": "UN News",
-          "fecha": "Tue, 18 Aug 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1f19606cda",
-          "titulo": "UN continues scaling up response to earthquake in Colombia",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168128",
-          "fuente": "UN News",
-          "fecha": "Wed, 12 Aug 2026 12:00:00 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-19_0007",
-      "fecha": "2026-08-19",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Terremoto en Colombia: Entre los escombros, Cali se une para buscar a los suyos",
-        "en": "Colombia quake: In Cali’s ruins, an ‘overwhelming sense of humanity’"
-      },
-      "sintesis": {
-        "es": "En una de las ciudades más golpeadas por el terremoto que sacudió Colombia, cientos de personas siguen esperando noticias de familiares, amigos y vecinos desaparecidos. Mientras los rescatistas buscan vida bajo los edificios derrumbados, los habitantes de Cali han salido con agua, comida, herramientas y sus propias manos para ayudar. Naciones Unidas ya ha desplegado equipos y recursos en el país para apoyar la respuesta y atender las necesidades más urgentes.",
-        "en": "In one of the cities hardest hit by the earthquake that struck Colombia, hundreds of people are still waiting for news of missing relatives, friends and neighbours."
+        "es": "Las empresas farmacéuticas estadounidenses Merck y Moderna anunciaron este miércoles resultados positivos en la última fase de los ensayos clínicos de su tratamiento experimental con ARN mensajero contra el cáncer de piel, dirigido a pacientes con melanoma avanzado.",
+        "en": "Merck and Moderna report that a personalized mRNA vaccine helped prevent skin cancer from returning in high-risk patients. Observers greeted the news with enthusiasm but noted that full data from the ongoing late-stage study has yet to be released."
       },
       "categoria": "ciencia",
       "actores": [
-        "Colombia",
-        "Cali",
-        "Terremoto"
-      ],
-      "geo": {
-        "lat": 4.6,
-        "lon": -74.3,
-        "region": "Sudamerica"
-      },
-      "impacto": 58,
-      "fuentes": [
-        "ev_5ffde1397c",
-        "ev_c98577df14",
-        "ev_bf1d89aa00"
-      ],
-      "cluster_id": "cl_067",
-      "imagenes": [
-        "https://s.rfi.fr/media/display/835dbd12-9af8-11f1-8af5-005056a97e36/w:1024/p:16x9/000-C4RD2DM.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/10-08-2026-Colombia-earthquake.jpg/image560x340cropped.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_5ffde1397c",
-          "titulo": "Colombia: migrantes en Cali obligados a empezar de cero tras el terremoto",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260818-colombia-migrantes-en-cali-obligados-a-empezar-de-cero-tras-el-terremoto",
-          "fuente": "RFI Espanol",
-          "fecha": "Tue, 18 Aug 2026 11:36:31 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c98577df14",
-          "titulo": "Terremoto en Colombia: Entre los escombros, Cali se une para buscar a los suyos",
-          "url": "https://news.un.org/feed/view/es/story/2026/08/1541806",
-          "fuente": "Noticias ONU",
-          "fecha": "Thu, 13 Aug 2026 12:00:00 +0000",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_bf1d89aa00",
-          "titulo": "Colombia quake: In Cali’s ruins, an ‘overwhelming sense of humanity’",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168139",
-          "fuente": "UN News",
-          "fecha": "Thu, 13 Aug 2026 12:00:00 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-19_0008",
-      "fecha": "2026-08-19",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "OpenAI lanza ChatGPT para adolescentes con nuevas medidas de seguridad",
-        "en": "OpenAI halts testing, slows development after model went rogue"
-      },
-      "sintesis": {
-        "es": "La empresa de IA introduce protecciones específicas por edad para jóvenes de entre 13 y 17 años, mientras investigadores y padres alertan del creciente grado de dependencia emocional de los adolescentes respecto a los chatbots.",
-        "en": "OpenAI has announced it is slowing the pace of its AI development and pausing its model testing for two weeks while its research and training systems are overhauled."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "OpenAI",
-        "ChatGPT",
-        "Teens"
+        "Merck",
+        "Moderna",
+        "Laboratorios Moderna",
+        "Phase"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 58,
+      "impacto": 73,
       "fuentes": [
-        "ev_9d454434a6",
-        "ev_852cd0c89f",
-        "ev_dd436f2338"
+        "ev_dbd084f228",
+        "ev_deafde2627",
+        "ev_f46a6719ae",
+        "ev_c8f745f91e"
       ],
-      "cluster_id": "cl_115",
-      "imagenes": [],
+      "cluster_id": "cl_061",
+      "imagenes": [
+        "https://s.rfi.fr/media/display/44f722be-9bd1-11f1-b34d-005056a97e36/w:1024/p:16x9/8e06f69d63843a92ef59099f0de13f4914f11a07.jpg",
+        "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg"
+      ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_9d454434a6",
-          "titulo": "OpenAI lanza ChatGPT para adolescentes con nuevas medidas de seguridad",
-          "url": "http://es.euronews.com/next/2026/08/18/openai-lanza-chatgpt-para-adolescentes-con-nuevas-medidas-de-seguridad",
-          "fuente": "Euronews Espanol",
-          "fecha": "Tue, 18 Aug 2026 14:14:13 +0200",
+          "id": "ev_dbd084f228",
+          "titulo": "Laboratorios Moderna y Merck anuncian buenos resultados de una vacuna contra el cáncer de piel",
+          "url": "https://www.rfi.fr/es/ciencia/20260819-laboratorios-moderna-y-merck-anuncian-buenos-resultados-de-una-vacuna-contra-el-c%C3%A1ncer-de-piel",
+          "fuente": "RFI Espanol",
+          "fecha": "Wed, 19 Aug 2026 13:24:14 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_852cd0c89f",
-          "titulo": "OpenAI halts testing, slows development after model went rogue",
-          "url": "https://www.abc.net.au/news/2026-08-19/openai-slows-development-pauses-testing-after-hugging-face-hack/107053332",
-          "fuente": "ABC News Australia",
-          "fecha": "Wed, 19 Aug 2026 01:46:40 +0000",
+          "id": "ev_deafde2627",
+          "titulo": "Merck and Moderna say mRNA melanoma vaccine hits goals in late-stage trial",
+          "url": "https://www.cbc.ca/news/health/mrna-melanoma-cancer-vaccine-trial-9.7312277?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Wed, 19 Aug 2026 11:31:25 EDT",
           "idioma": "en"
         },
         {
-          "id": "ev_dd436f2338",
-          "titulo": "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
-          "url": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
+          "id": "ev_f46a6719ae",
+          "titulo": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
+          "url": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
+          "fuente": "Ars Technica",
+          "fecha": "Wed, 19 Aug 2026 16:53:56 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c8f745f91e",
+          "titulo": "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar",
+          "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
           "fuente": "CNBC Top News",
-          "fecha": "Tue, 18 Aug 2026 22:49:58 GMT",
+          "fecha": "Wed, 19 Aug 2026 20:34:09 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-19_0009",
-      "fecha": "2026-08-19",
-      "kardashev": "K2",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Why your brain keeps making the same decisions – even when better options exist",
-        "en": "Why your brain keeps making the same decisions – even when better options exist"
-      },
-      "sintesis": {
-        "es": "Why do we keep making the same choices even when better options are available? Researchers found that simply repeating a decision can reshape what we prefer, causing familiar choices to feel better than alternatives. Instead of weighing every option from scratch, the brain often remembers what it chose before and repeats it.",
-        "en": "Why do we keep making the same choices even when better options are available? Researchers found that simply repeating a decision can reshape what we prefer, causing familiar choices to feel better than alternatives. Instead of weighing every option from scratch, the brain often remembers what it chose before and repeats it."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "Why Indian"
-      ],
-      "geo": {
-        "lat": 20.6,
-        "lon": 79.0,
-        "region": "Asia Meridional"
-      },
-      "impacto": 58,
-      "fuentes": [
-        "ev_32fd41cc09",
-        "ev_ac19480f20",
-        "ev_844b073c38",
-        "ev_c57e1c8475"
-      ],
-      "cluster_id": "cl_186",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/962f/live/0e6ba550-9a21-11f1-9a44-e568b7279c37.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/10-08-2026-UNDP-Kazakhstan-rangelands.jpg/image560x340cropped.jpg",
-        "https://static.independent.co.uk/2026/08/17/18/34/GettyImages-2267488750.jpeg?width=1200&auto=webp&trim=1%2C0%2C1%2C0"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_32fd41cc09",
-          "titulo": "Why Indian law students don't want top judge at their graduation ceremony",
-          "url": "https://www.bbc.co.uk/news/articles/c171j0k74d8o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Tue, 18 Aug 2026 04:16:42 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ac19480f20",
-          "titulo": "The grass beneath our feet: Why rangelands matter",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168119",
-          "fuente": "UN News",
-          "fecha": "Sat, 15 Aug 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_844b073c38",
-          "titulo": "Why flight cancellations are getting much, much worse",
-          "url": "https://www.independent.co.uk/news/world/americas/flight-cancellations-delays-airlines-b3034976.html",
-          "fuente": "The Independent World",
-          "fecha": "Tue, 18 Aug 2026 14:10:19 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c57e1c8475",
-          "titulo": "Why your brain keeps making the same decisions – even when better options exist",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260812015218.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Wed, 12 Aug 2026 23:45:36 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-19_0010",
-      "fecha": "2026-08-19",
+      "id": "nd_2026-08-20_0005",
+      "fecha": "2026-08-20",
       "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece",
-        "en": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece"
+        "es": "Ni siquiera el duelo público escapa a la censura en China",
+        "en": "Is the US actually too chicken to take on China for trade?"
       },
       "sintesis": {
-        "es": "Marie Ebert, Alexander Cromie and their pilot died when their aircraft crashed on island of Sifnos Greek police believe a mechanical fault may have caused a helicopter to crash moments before it was due to land on the island of Sifnos, killing a British couple on honeymoon and the pilot. Authorities were focusing on Tuesday on the “strange noise” the aircraft, a privately chartered Bell 206, is reported to have made before falling to the ground and exploding on impact. Continue reading...",
-        "en": "Marie Ebert, Alexander Cromie and their pilot died when their aircraft crashed on island of Sifnos Greek police believe a mechanical fault may have caused a helicopter to crash moments before it was due to land on the island of Sifnos, killing a British couple on honeymoon and the pilot. Authorities were focusing on Tuesday on the “strange noise” the aircraft, a privately chartered Bell 206, is reported to have made before falling to the ground and exploding on impact. Continue reading..."
+        "es": "La muerte del ex primer ministro reformista Zhu Rongji reactiva el temor histórico de Pekín a que los homenajes públicos se conviertan en críticas contra el Gobierno de Xi Jinping Leer",
+        "en": "A weak yuan guarantees Beijing massive trade surplus even as the White House tries tamp down on Chinese imports Since China offered a truce in the trade war last October following its threat to deprive the United States of rare-earth magnets, the Trump administration has been happy to stop escalating. After all, imports from China have been falling, down by 40% in the year to June, compared with the same period in 2024. Best to declare victory and call it a day."
+      },
+      "categoria": "innovacion",
+      "actores": [
+        "China",
+        "Beijing"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_3efe0f52ed",
+        "ev_b232116e63",
+        "ev_f445d8a1fd",
+        "ev_cd454f955c"
+      ],
+      "cluster_id": "cl_132",
+      "imagenes": [
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/18/17870481334829.jpg",
+        "https://i.guim.co.uk/img/media/5864a734ad3d8ab2b9b8adb08725d29ddd91abfe/243_994_4491_3592/master/4491.jpg?width=140&quality=85&auto=format&fit=max&s=e12219c224212eb3951f5d4329ba0227",
+        "https://images.mktw.net/im-97422812"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_3efe0f52ed",
+          "titulo": "Ni siquiera el duelo público escapa a la censura en China",
+          "url": "https://www.elmundo.es/internacional/2026/08/18/6a843169fdddff37188b459f.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Tue, 18 Aug 2026 12:18:25 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_b232116e63",
+          "titulo": "Is the US actually too chicken to take on China for trade?",
+          "url": "https://www.theguardian.com/us-news/2026/aug/19/china-trump-trade-weak-yuan",
+          "fuente": "The Guardian World",
+          "fecha": "Wed, 19 Aug 2026 16:42:08 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f445d8a1fd",
+          "titulo": "China is defying the global bond yield surge, boosting its diversification appeal",
+          "url": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Thu, 20 Aug 2026 02:39:14 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cd454f955c",
+          "titulo": "A $420 camera for $10: China’s young consumers would rather rent than buy. Beijing has a problem.",
+          "url": "https://www.marketwatch.com/story/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-07ca4d1b?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Wed, 19 Aug 2026 21:44:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-20_0006",
+      "fecha": "2026-08-20",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-08-20_0001"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "La Corte Suprema desestima por segunda vez la apelación de Donald Trump frente a la escritora E. Jean Carroll",
+        "en": "Can Andy Burnham rewire the ‘Treasury brain’ to boost growth?"
+      },
+      "sintesis": {
+        "es": "El tribunal rechaza sin justificación el recurso del mandatario, manteniendo en firme la condena por agresión sexual y difamación Leer",
+        "en": "PM wants to reduce department’s stranglehold on public purse and bring long-term thinking to economic policy Andy Burnham is far from the first prime minister to dream of taming the power of the mighty Treasury. Boris Johnson all but forced the resignation of Sajid Javid by handpicking his team; Margaret Thatcher favoured her economic adviser Alan Walters over Nigel Lawson, prompting the latter’s furious resignation; and Tony Blair and Gordon Brown’s power struggle was the stuff of Whitehall legend. Continue reading..."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Donald Trump",
+        "Andy Burnham",
+        "Corte Suprema",
+        "Jean Carroll"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 69,
+      "fuentes": [
+        "ev_69d5a10efe",
+        "ev_a10bd64f82",
+        "ev_52d9166de8",
+        "ev_0ceab5ba36"
+      ],
+      "cluster_id": "cl_142",
+      "imagenes": [
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/17/17869842483505.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/17/17869634792925.jpg",
+        "https://i.guim.co.uk/img/media/161287725ee4c3e64c5994c60fd188605a197a6d/131_0_2869_2295/master/2869.jpg?width=140&quality=85&auto=format&fit=max&s=bd94b26ee430e9a5578cf4a88f566025",
+        "https://static01.nyt.com/images/2026/08/17/multimedia/17int-uk-burnham-text-1-cvbt/17int-uk-burnham-text-1-cvbt-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_69d5a10efe",
+          "titulo": "La Corte Suprema desestima por segunda vez la apelación de Donald Trump frente a la escritora E. Jean Carroll",
+          "url": "https://www.elmundo.es/internacional/2026/08/17/6a8333d721efa0e7588b459f.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Mon, 17 Aug 2026 18:39:24 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_a10bd64f82",
+          "titulo": "Andy Burnham intercambió mensajes con alguien que fingió ser la jefa de gabinete de Donald Trump",
+          "url": "https://www.elmundo.es/internacional/2026/08/17/6a82e6d9fc6c83e2538b457e.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Mon, 17 Aug 2026 12:48:00 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_52d9166de8",
+          "titulo": "Can Andy Burnham rewire the ‘Treasury brain’ to boost growth?",
+          "url": "https://www.theguardian.com/politics/2026/aug/19/can-andy-burnham-tame-the-power-of-the-treasury-to-boost-growth",
+          "fuente": "The Guardian World",
+          "fecha": "Wed, 19 Aug 2026 18:46:22 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0ceab5ba36",
+          "titulo": "Andy Burnham, UK Prime Minister, Exchanged Texts With Someone Posing as Trump’s Chief of Staff",
+          "url": "https://www.nytimes.com/2026/08/17/world/europe/andy-burnham-prime-minister-uk-fake-texts-trump.html",
+          "fuente": "NYT World",
+          "fecha": "Mon, 17 Aug 2026 12:32:44 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-20_0007",
+      "fecha": "2026-08-20",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Five Americans among seven killed in safari helicopter crash in Kenya",
+        "en": "Five Americans among seven killed in safari helicopter crash in Kenya"
+      },
+      "sintesis": {
+        "es": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department. Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador’s national intelligence service. Continue reading...",
+        "en": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chief Seven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department. Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador’s national intelligence service. Continue reading..."
       },
       "categoria": "salud",
       "actores": [
-        "British",
-        "Greek",
-        "Mechanical",
-        "Greece"
+        "Kenya",
+        "Ecuador",
+        "Americans",
+        "Five Americans"
       ],
       "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
+        "lat": -0.02,
+        "lon": 37.9,
+        "region": "Africa Oriental"
       },
-      "impacto": 53,
+      "impacto": 65,
       "fuentes": [
-        "ev_b7117ebf28",
-        "ev_2020643392",
-        "ev_f8efc69f98",
-        "ev_bb44d345a4"
+        "ev_217bad0cab",
+        "ev_cc676b1ed0",
+        "ev_e4f6bda2c0",
+        "ev_c11b72007e"
       ],
-      "cluster_id": "cl_206",
+      "cluster_id": "cl_153",
       "imagenes": [
-        "https://i.guim.co.uk/img/media/6ad9cad40c6c6b48101146e8d8b055abf7675d43/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ae4d7f5d08e5b6188d3cd22e054f9efc",
-        "https://e3.365dm.com/26/08/1920x1080/skynews-alex-cromie-marie-ebert_7324927.jpg?20260818144601",
-        "https://static.independent.co.uk/2026/08/18/7/03/tag_reuters-com-2026_newsml_RC2I0NAHEHF8_1728911680-reuters-35982f52.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-        "https://static.independent.co.uk/2026/08/18/13/33/image-copy.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a600/live/64fb2200-9c07-11f1-b0bd-839fb1d8b591.jpg",
+        "https://i.guim.co.uk/img/media/9fdcdc66a749e2c2d744573e77ae9530705a5893/47_0_1505_1204/master/1505.jpg?width=140&quality=85&auto=format&fit=max&s=c7e3943a1821d6f86438c68ca8ccd763",
+        "https://static01.nyt.com/images/2026/08/19/multimedia/19int-kenya-1-wqkm/19int-kenya-1-wqkm-mediumSquareAt3X.jpg",
+        "https://e3.365dm.com/26/08/1920x1080/skynews-kenya-helicopter_7325880.jpg?20260819173140"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_b7117ebf28",
-          "titulo": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece",
-          "url": "https://www.theguardian.com/world/2026/aug/18/mechanical-fault-helicopter-crash-killed-british-newlyweds-sifnos-greece",
+          "id": "ev_217bad0cab",
+          "titulo": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+          "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Wed, 19 Aug 2026 21:32:15 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cc676b1ed0",
+          "titulo": "Five Americans among seven killed in safari helicopter crash in Kenya",
+          "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
           "fuente": "The Guardian World",
-          "fecha": "Tue, 18 Aug 2026 14:24:50 GMT",
+          "fecha": "Wed, 19 Aug 2026 20:17:39 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_2020643392",
-          "titulo": "British tourist and wife killed in Greek helicopter crash on honeymoon named",
-          "url": "https://news.sky.com/story/british-couple-killed-in-greek-helicopter-crash-while-on-honeymoon-named-13574179",
+          "id": "ev_e4f6bda2c0",
+          "titulo": "5 Americans and Ecuadorean Official Are Killed in Helicopter Crash in Kenya",
+          "url": "https://www.nytimes.com/2026/08/19/world/africa/helicopter-crash-kenya.html",
+          "fuente": "NYT World",
+          "fecha": "Wed, 19 Aug 2026 22:00:40 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c11b72007e",
+          "titulo": "Ecuador intelligence boss and US news exec among seven killed in helicopter crash",
+          "url": "https://news.sky.com/story/several-tourists-feared-dead-after-northern-kenya-helicopter-crash-reports-13574663",
           "fuente": "Sky News World",
-          "fecha": "Mon, 17 Aug 2026 21:33:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f8efc69f98",
-          "titulo": "Everything we know about the Greek island helicopter crash that killed British couple",
-          "url": "https://www.independent.co.uk/news/world/europe/helicopter-crash-greek-island-cause-b3035051.html",
-          "fuente": "The Independent World",
-          "fecha": "Tue, 18 Aug 2026 15:21:03 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_bb44d345a4",
-          "titulo": "Tributes paid to ‘beloved’ British couple killed on honeymoon after helicopter crashed on Greek island",
-          "url": "https://www.independent.co.uk/news/world/europe/helicopter-crash-sifnos-greek-island-b3034472.html",
-          "fuente": "The Independent World",
-          "fecha": "Tue, 18 Aug 2026 15:11:35 GMT",
+          "fecha": "Wed, 19 Aug 2026 11:24:00 +0100",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-19_0011",
-      "fecha": "2026-08-19",
+      "id": "nd_2026-08-20_0008",
+      "fecha": "2026-08-20",
       "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "New photonic crystal method improves single-photon sources for quantum networks",
-        "en": "New photonic crystal method improves single-photon sources for quantum networks"
+        "es": "El tenista Nick Kyrgios reconoce haber dado positivo en cocaína",
+        "en": "Nick Kyrgios provisionally suspended from tennis after testing positive for cocaine"
       },
       "sintesis": {
-        "es": "Quantum communication promises many advantages over today's standard technologies, including absolutely secure transmission of large amounts of data. However, it requires single photons—and generating them is very difficult. Researchers at the Technical University of Munich (TUM) and the Munich Center for Quantum Science and Technology (MCQST) have developed a new method that overcomes the problems of previous approaches.",
-        "en": "Quantum communication promises many advantages over today's standard technologies, including absolutely secure transmission of large amounts of data. However, it requires single photons—and generating them is very difficult. Researchers at the Technical University of Munich (TUM) and the Munich Center for Quantum Science and Technology (MCQST) have developed a new method that overcomes the problems of previous approaches."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "New",
-        "Cannot"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 53,
-      "fuentes": [
-        "ev_345d65d77b",
-        "ev_21f2a5428a",
-        "ev_5c6b85cba3",
-        "ev_f1c0c74458",
-        "ev_66c9a12c33"
-      ],
-      "cluster_id": "cl_380",
-      "imagenes": [
-        "https://scx1.b-cdn.net/csz/news/tmb/2025/fishery-1.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/bad-boss.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/tum-develops-single-ph.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_345d65d77b",
-          "titulo": "New play explores 'lifelong loss' of inter-country adoption through comedy",
-          "url": "https://www.abc.net.au/news/2026-08-19/cut-chilli-play-melbourne-chenturan-aran-the-supposed-to-be/106992600",
-          "fuente": "ABC News Australia",
-          "fecha": "Wed, 19 Aug 2026 02:13:18 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_21f2a5428a",
-          "titulo": "“Cannot be explained” – New super steel stuns scientists",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Tue, 11 Aug 2026 08:59:40 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5c6b85cba3",
-          "titulo": "New set of international rules needed to protect health of fishing stocks, study shows",
-          "url": "https://phys.org/news/2026-08-international-health-fishing-stocks.html",
-          "fuente": "Phys.org",
-          "fecha": "Tue, 18 Aug 2026 20:00:01 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f1c0c74458",
-          "titulo": "New study links bad bosses with greater work intensity",
-          "url": "https://phys.org/news/2026-08-links-bad-bosses-greater-intensity.html",
-          "fuente": "Phys.org",
-          "fecha": "Tue, 18 Aug 2026 19:10:03 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_66c9a12c33",
-          "titulo": "New photonic crystal method improves single-photon sources for quantum networks",
-          "url": "https://phys.org/news/2026-08-photonic-crystal-method-photon-sources.html",
-          "fuente": "Phys.org",
-          "fecha": "Tue, 18 Aug 2026 18:00:04 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-19_0012",
-      "fecha": "2026-08-19",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "How Japan Averted a Major Earthquake Disaster",
-        "en": "How Japan Averted a Major Earthquake Disaster"
-      },
-      "sintesis": {
-        "es": "Japan avoided a major disaster after a 6.8-magnitude earthquake hit last month. Our reporter River Akira Davis visited Kumamoto, a prefecture near the epicenter, to see how it built quake-proof buildings and infrastructure.",
-        "en": "Japan avoided a major disaster after a 6.8-magnitude earthquake hit last month. Our reporter River Akira Davis visited Kumamoto, a prefecture near the epicenter, to see how it built quake-proof buildings and infrastructure."
+        "es": "Kyrgios asegura que \"le cuesta asumir\" que se acerca el final de su carrera de tenista, con hitos como alcanzar la final de Wimbeldon, tras dos años lastrado por lesiones.",
+        "en": "Former Wimbledon finalist Nick Kyrgios revealed on Wednesday he tested positive for cocaine and was provisionally suspended from tennis."
       },
       "categoria": "sociedad",
       "actores": [
-        "Spain",
-        "Earthquake",
-        "Granada",
-        "Major"
+        "Nick Kyrgios"
       ],
       "geo": {
-        "lat": 40.5,
-        "lon": -3.7,
-        "region": "Europa"
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
       },
-      "impacto": 51,
+      "impacto": 57,
       "fuentes": [
-        "ev_bbabb9cd30",
-        "ev_e4ff2cafb7",
-        "ev_4d563abda2"
+        "ev_85f896a4a4",
+        "ev_91734c7c62",
+        "ev_10009fd7c7"
       ],
-      "cluster_id": "cl_171",
+      "cluster_id": "cl_117",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03ad/live/f4bbe260-9b32-11f1-8c41-7f62681f5885.jpg",
-        "https://static.independent.co.uk/2026/08/18/12/2026-08-18T110349Z_722685191_RC2X0NAS2VG3_RTRMADP_3_SPAIN-QUAKE.JPG?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+        "https://e3.365dm.com/26/08/1920x1080/skynews-nick-kyrgios-tennis_7325402.jpg?20260819100310"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_bbabb9cd30",
-          "titulo": "Earthquake rocks Spain's historic Granada, injuring three",
-          "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Tue, 18 Aug 2026 17:15:39 GMT",
+          "id": "ev_85f896a4a4",
+          "titulo": "El tenista Nick Kyrgios reconoce haber dado positivo en cocaína",
+          "url": "http://es.euronews.com/2026/08/19/el-tenista-nick-kyrgios-reconoce-haber-dado-positivo-en-cocaina",
+          "fuente": "Euronews Espanol",
+          "fecha": "Wed, 19 Aug 2026 12:28:16 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_91734c7c62",
+          "titulo": "Nick Kyrgios banned from tennis after testing positive for cocaine",
+          "url": "https://news.sky.com/story/nick-kyrgios-banned-from-tennis-after-testing-positive-for-cocaine-13574613",
+          "fuente": "Sky News World",
+          "fecha": "Wed, 19 Aug 2026 09:46:00 +0100",
           "idioma": "en"
         },
         {
-          "id": "ev_e4ff2cafb7",
-          "titulo": "Major tourist spot closed as three more earthquakes hit southern Spain",
-          "url": "https://www.independent.co.uk/news/world/europe/granada-earthquake-spain-alhambra-today-b3034882.html",
-          "fuente": "The Independent World",
-          "fecha": "Tue, 18 Aug 2026 12:36:25 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4d563abda2",
-          "titulo": "How Japan Averted a Major Earthquake Disaster",
-          "url": "https://www.nytimes.com/video/world/asia/100000011069179/japan-earthquake-disaster-kumamoto.html",
-          "fuente": "NYT World",
-          "fecha": "Mon, 17 Aug 2026 10:34:40 +0000",
+          "id": "ev_10009fd7c7",
+          "titulo": "Nick Kyrgios provisionally suspended from tennis after testing positive for cocaine",
+          "url": "https://www.cbc.ca/sports/tennis/kyrgios-doping-infraction-9.7312067?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Wed, 19 Aug 2026 05:58:35 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-19_0013",
-      "fecha": "2026-08-19",
+      "id": "nd_2026-08-20_0009",
+      "fecha": "2026-08-20",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "We reviewed the new Pixel lineup, ask us anything",
+        "en": "We reviewed the new Pixel lineup, ask us anything"
+      },
+      "sintesis": {
+        "es": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your leisure.",
+        "en": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your leisure."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Google Pixel",
+        "Pixel",
+        "Review",
+        "Pro"
+      ],
+      "geo": {
+        "lat": -9.2,
+        "lon": -75.0,
+        "region": "Sudamerica"
+      },
+      "impacto": 57,
+      "fuentes": [
+        "ev_d6d4d06908",
+        "ev_8b1d803edf",
+        "ev_a4cc07c573",
+        "ev_d899835235"
+      ],
+      "cluster_id": "cl_464",
+      "imagenes": [
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-1-1152x648.jpg",
+        "https://media.wired.com/photos/6a85c42a5f006be0a12bd5bd/master/pass/Stephen%20Curry%20Special%20Edition%20%5Bcourtesy%20of%20Google%5D.jpg",
+        "https://media.wired.com/photos/6a84b66769f773e1f551bc6c/master/pass/Review--Google-Pixel-11-Pro-and-Pixel-11-Pro-XL_HERO.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d6d4d06908",
+          "titulo": "Google Pixel 11 series review: Is the magic fading?",
+          "url": "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+          "fuente": "Ars Technica",
+          "fecha": "Wed, 19 Aug 2026 16:11:30 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8b1d803edf",
+          "titulo": "We reviewed the new Pixel lineup, ask us anything",
+          "url": "https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama",
+          "fuente": "The Verge",
+          "fecha": "",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a4cc07c573",
+          "titulo": "Google Pixel Watch 5 Review: More Health, More AI",
+          "url": "https://www.wired.com/review/google-pixel-watch-5/",
+          "fuente": "WIRED",
+          "fecha": "Wed, 19 Aug 2026 16:34:24 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d899835235",
+          "titulo": "Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade",
+          "url": "https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/",
+          "fuente": "WIRED",
+          "fecha": "Wed, 19 Aug 2026 16:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-20_0010",
+      "fecha": "2026-08-20",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+        "en": "900 obstacles and counting: West Bank families trapped as aid access shrinks"
+      },
+      "sintesis": {
+        "es": "Humanitarians continue to provide life-saving assistance to people across the Occupied Palestinian Territory despite facing obstacles such as checkpoints, instability and access restrictions, the United Nations said on Friday.",
+        "en": "Humanitarians continue to provide life-saving assistance to people across the Occupied Palestinian Territory despite facing obstacles such as checkpoints, instability and access restrictions, the United Nations said on Friday."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "West Bank",
+        "Israel",
+        "How Israel",
+        "Financial Chokehold"
+      ],
+      "geo": {
+        "lat": 31.0,
+        "lon": 34.9,
+        "region": "Oriente Medio"
+      },
+      "impacto": 51,
+      "fuentes": [
+        "ev_7187a06b9f",
+        "ev_b6e0c17024",
+        "ev_73b2f83fb1"
+      ],
+      "cluster_id": "cl_151",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
+        "https://static01.nyt.com/images/2026/08/18/multimedia/18int-WEST-BANK-ECONOMY-top-hjvl/18int-WEST-BANK-ECONOMY-top-hjvl-mediumSquareAt3X.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-02-2025_UNFPA_West-Bank.jpg/image560x340cropped.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_7187a06b9f",
+          "titulo": "Israel opens up bids for highly-sensitive West Bank settlement project",
+          "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Thu, 20 Aug 2026 00:53:20 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b6e0c17024",
+          "titulo": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
+          "url": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
+          "fuente": "NYT World",
+          "fecha": "Tue, 18 Aug 2026 16:23:50 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_73b2f83fb1",
+          "titulo": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168147",
+          "fuente": "UN News",
+          "fecha": "Fri, 14 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-20_0011",
+      "fecha": "2026-08-20",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Missing teen hiker Lily Hooper found dead after disappearing in NSW national park a week ago",
+        "en": "Missing teen hiker Lily Hooper found dead after disappearing in NSW national park a week ago"
+      },
+      "sintesis": {
+        "es": "Premier Chris Minns tells parliament ‘this is obviously devastating’ after earlier announcing 18-year-old had been ‘found alive’ with half a bottle of water Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The body of missing 18-year-old bushwalker Lily Hooper has been found in a remote New South Wales national park more than a week after she set out on her hike. NSW police said in a statement: “The body of a woman has been located in bushland following the search for a missing bushwalker in the Southern Highlands.” Continue reading...",
+        "en": "Premier Chris Minns tells parliament ‘this is obviously devastating’ after earlier announcing 18-year-old had been ‘found alive’ with half a bottle of water Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The body of missing 18-year-old bushwalker Lily Hooper has been found in a remote New South Wales national park more than a week after she set out on her hike. NSW police said in a statement: “The body of a woman has been located in bushland following the search for a missing bushwalker in the Southern Highlands.” Continue reading..."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Missing",
+        "Lily Hooper",
+        "Australian",
+        "NSW"
+      ],
+      "geo": {
+        "lat": -25.3,
+        "lon": 133.8,
+        "region": "Oceania"
+      },
+      "impacto": 49,
+      "fuentes": [
+        "ev_880f51ea3e",
+        "ev_ec893b213b",
+        "ev_cd4e4ec053"
+      ],
+      "cluster_id": "cl_154",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c439/live/7851db30-9c3b-11f1-853e-ad17ff71705c.jpg",
+        "https://i.guim.co.uk/img/media/88767de4bf103f7cd1db7a710fb56defa740aef5/0_0_1638_1311/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=4c0a30610fd2ffc9a26dd8acadff73bc"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_880f51ea3e",
+          "titulo": "Missing teen hiker found dead in Australian bush after eight-day search",
+          "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Thu, 20 Aug 2026 04:49:52 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ec893b213b",
+          "titulo": "Missing teen hiker Lily Hooper found dead after disappearing in NSW national park a week ago",
+          "url": "https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park",
+          "fuente": "The Guardian World",
+          "fecha": "Thu, 20 Aug 2026 04:44:39 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cd4e4ec053",
+          "titulo": "Body believed to be missing 18-year-old bushwalker Lily Hooper found",
+          "url": "https://www.abc.net.au/news/2026-08-20/missing-18-year-old-bushwalker-lily-hooper-found/107045898",
+          "fuente": "ABC News Australia",
+          "fecha": "Thu, 20 Aug 2026 02:05:01 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-20_0012",
+      "fecha": "2026-08-20",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-08-20_0004"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+        "en": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways"
+      },
+      "sintesis": {
+        "es": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery helps explain why very different obesity drugs can achieve similar results and suggests that carefully combining GIP-targeting treatments with GLP-1 drugs like those related to Wegovy and Ozempic could produce stronger effects.",
+        "en": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery helps explain why very different obesity drugs can achieve similar results and suggests that carefully combining GIP-targeting treatments with GLP-1 drugs like those related to Wegovy and Ozempic could produce stronger effects."
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "Scientists",
+        "Parkinson"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 48,
+      "fuentes": [
+        "ev_a16cca62da",
+        "ev_e7341c3a21",
+        "ev_8bb6c1b1e2",
+        "ev_c865820cf8",
+        "ev_668897427c",
+        "ev_6bdbb3d0f1",
+        "ev_8bec88222e",
+        "ev_6c06d8739c",
+        "ev_a57b38e799",
+        "ev_05ae11c237"
+      ],
+      "cluster_id": "cl_384",
+      "imagenes": [
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-discover-le-2.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a16cca62da",
+          "titulo": "Scientists reveal why walking gets so much harder with age",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Sun, 16 Aug 2026 05:13:25 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e7341c3a21",
+          "titulo": "Scientists may have finally proved that “empty” space isn’t really empty",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Tue, 18 Aug 2026 02:08:04 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8bb6c1b1e2",
+          "titulo": "Scientists tracked kids for 8 years — the screen time result was unexpected",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Mon, 17 Aug 2026 02:41:08 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c865820cf8",
+          "titulo": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Sat, 15 Aug 2026 06:55:39 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_668897427c",
+          "titulo": "Scientists uncover the hidden nerve network fueling breast cancer",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814011038.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Mon, 17 Aug 2026 08:06:50 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6bdbb3d0f1",
+          "titulo": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Fri, 14 Aug 2026 09:16:36 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8bec88222e",
+          "titulo": "Scientists turn sheep’s wool into a material that helps regrow bone",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Wed, 12 Aug 2026 07:17:51 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6c06d8739c",
+          "titulo": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260811011148.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Wed, 12 Aug 2026 09:20:59 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a57b38e799",
+          "titulo": "Scientists discover the brain has a fast lane and slow lane for clearing waste",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260811011130.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Wed, 12 Aug 2026 22:05:30 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_05ae11c237",
+          "titulo": "Scientists discover learning and memory formation in model membranes",
+          "url": "https://phys.org/news/2026-08-scientists-memory-formation-membranes.html",
+          "fuente": "Phys.org",
+          "fecha": "Wed, 19 Aug 2026 21:20:01 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-20_0013",
+      "fecha": "2026-08-20",
       "kardashev": "K0",
       "relaciones": []
     }

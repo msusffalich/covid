@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-08-19
-nodos: 26
+actualizado: 2026-08-20
+nodos: 23
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-19. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-20. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-26 nodos registrados en el periodo. Lo mas reciente: Puerto Rico enfrenta su peor sequía en una década con racionamiento de agua para más de 500.000 personas.
+23 nodos registrados en el periodo. Lo mas reciente: Puerto Rico enfrenta su peor sequía en una década con racionamiento de agua para más de 500.000 personas.
 
 ## Trend summary (EN)
-26 nodes recorded in the period. Most recent: Puerto Rico faces worst drought in a decade, rationing water for over 500,000 people.
+23 nodes recorded in the period. Most recent: Puerto Rico faces worst drought in a decade, rationing water for over 500,000 people.
 
 > [!note] Estado actual
 > Puerto Rico enfrenta su peor sequía en una década con racionamiento de agua para más de 500.000 personas
 
-## Nodos recientes (26 en la ventana)
+## Nodos recientes (23 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-18 | 48 | K1 | Puerto Rico enfrenta su peor sequía en una década con racionamie |

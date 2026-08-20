@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-08-19
+actualizado: 2026-08-20
 nodos: 36
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-19. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-20. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-36 nodos registrados en el periodo. Lo mas reciente: EEUU y Corea del Sur inician ejercicios militares, tras reducción anunciada por Trump.
+36 nodos registrados en el periodo. Lo mas reciente: 900 obstacles and counting: West Bank families trapped as aid access shrinks.
 
 ## Trend summary (EN)
-36 nodes recorded in the period. Most recent: Trump threatens to bomb Oman if it ‘gets in the way’ of Iran deal as Kushner meets Netanyahu – as it happened.
+36 nodes recorded in the period. Most recent: 900 obstacles and counting: West Bank families trapped as aid access shrinks.
 
 > [!note] Estado actual
-> EEUU y Corea del Sur inician ejercicios militares, tras reducción anunciada por Trump
+> 900 obstacles and counting: West Bank families trapped as aid access shrinks
 
 ## Nodos recientes (36 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-20 | 51 | K0 | 900 obstacles and counting: West Bank families trapped as aid ac |
 | 2026-08-19 | 95 | K1 | EEUU y Corea del Sur inician ejercicios militares, tras reducció |
 | 2026-08-19 | 95 | K1 | Gaza: ante su desarme forzado, Hamás se debate entre el pragmati |
 | 2026-08-18 | 95 | K1 | La masacre de mujeres indígenas sale del silencio en Estados Uni |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-15 | 83 | K1 | Las acciones de extremistas israelíes en Cisjordania provocan el |
 | 2026-08-15 | 78 | K0 | Trump amenaza con declarar el estrecho de Ormuz territorio de EE |
 | 2026-08-15 | 72 | K1 | Continúan labores de búsqueda de casi 400 desaparecidos tras ter |
-| 2026-08-14 | 83 | K0 | Israeli troops force families from homes amid settler terror cam |
 
 [[Global Brain — Inicio|← Inicio]]
