@@ -2,29 +2,29 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-08-20
-nodos: 36
+actualizado: 2026-08-21
+nodos: 35
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-36 nodos registrados en el periodo. Lo mas reciente: 900 obstacles and counting: West Bank families trapped as aid access shrinks.
+35 nodos registrados en el periodo. Lo mas reciente: 900 obstacles and counting: West Bank families trapped as aid access shrinks.
 
 ## Trend summary (EN)
-36 nodes recorded in the period. Most recent: 900 obstacles and counting: West Bank families trapped as aid access shrinks.
+35 nodes recorded in the period. Most recent: 900 obstacles and counting: West Bank families trapped as aid access shrinks.
 
 > [!note] Estado actual
 > 900 obstacles and counting: West Bank families trapped as aid access shrinks
 
-## Nodos recientes (36 en la ventana)
+## Nodos recientes (35 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
-| 2026-08-20 | 51 | K0 | 900 obstacles and counting: West Bank families trapped as aid ac |
+| 2026-08-21 | 66 | K0 | 900 obstacles and counting: West Bank families trapped as aid ac |
 | 2026-08-19 | 95 | K1 | EEUU y Corea del Sur inician ejercicios militares, tras reducció |
 | 2026-08-19 | 95 | K1 | Gaza: ante su desarme forzado, Hamás se debate entre el pragmati |
 | 2026-08-18 | 95 | K1 | La masacre de mujeres indígenas sale del silencio en Estados Uni |

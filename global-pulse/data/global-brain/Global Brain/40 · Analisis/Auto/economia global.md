@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-08-20
-nodos: 31
+actualizado: 2026-08-21
+nodos: 30
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-31 nodos registrados en el periodo. Lo mas reciente: Trump suspende por tres días la entrada en vigor de los aranceles tras un acuerdo con Canadá.
+30 nodos registrados en el periodo. Lo mas reciente: “Día D”: la “guerra económica” de Trump contra Irán con la que promete un “aislamiento sin precedentes”.
 
 ## Trend summary (EN)
-31 nodes recorded in the period. Most recent: Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline.
+30 nodes recorded in the period. Most recent: Trump threatens Iran’s trade partners, as military strikes make way for economic pressure.
 
 > [!note] Estado actual
-> Trump suspende por tres días la entrada en vigor de los aranceles tras un acuerdo con Canadá
+> “Día D”: la “guerra económica” de Trump contra Irán con la que promete un “aislamiento sin precedentes”
 
-## Nodos recientes (31 en la ventana)
+## Nodos recientes (30 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-21 | 95 | K2 | “Día D”: la “guerra económica” de Trump contra Irán con la que p |
 | 2026-08-20 | 95 | K2 | Trump suspende por tres días la entrada en vigor de los arancele |
 | 2026-08-19 | 95 | K1 | Trump pacta con Canadá retrasar aranceles del 50% de EEUU |
 | 2026-08-18 | 83 | K0 | El presidente de Colombia pide a Trump la suspensión temporal de |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-14 | 95 | K1 | La Casa Blanca dice perder entre 16.000-22.000 millones al año p |
 | 2026-08-14 | 87 | K1 | Expertos europeos alertan del regreso de enfermedades por el rec |
 | 2026-08-14 | 78 | K1 | EE.UU. afirma que puede mantener indefinidamente el bloqueo nava |
-| 2026-08-14 | 72 | K1 | Polonia frustra un complot ruso para asesinar a un ciudadano ucr |
 
 [[Global Brain — Inicio|← Inicio]]

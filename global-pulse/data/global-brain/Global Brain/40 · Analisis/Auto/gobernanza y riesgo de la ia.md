@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-08-20
-nodos: 10
+actualizado: 2026-08-21
+nodos: 8
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-10 nodos registrados en el periodo. Lo mas reciente: OpenAI lanza ChatGPT para adolescentes con nuevas medidas de seguridad.
+8 nodos registrados en el periodo. Lo mas reciente: OpenAI lanza ChatGPT para adolescentes con nuevas medidas de seguridad.
 
 ## Trend summary (EN)
-10 nodes recorded in the period. Most recent: OpenAI halts testing, slows development after model went rogue.
+8 nodes recorded in the period. Most recent: OpenAI halts testing, slows development after model went rogue.
 
 > [!note] Estado actual
 > OpenAI lanza ChatGPT para adolescentes con nuevas medidas de seguridad
 
-## Nodos recientes (10 en la ventana)
+## Nodos recientes (8 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-19 | 58 | K2 | OpenAI lanza ChatGPT para adolescentes con nuevas medidas de seg |
@@ -31,7 +31,5 @@ origen: global-pulse
 | 2026-08-10 | 43 | K1 | En Somalia, la inteligencia artificial ayuda a llevar alimentos  |
 | 2026-08-07 | 45 | K0 | Meta lanza la herramienta Muse Code en plena oleada de hackeos d |
 | 2026-08-01 | 53 | K1 | Tech firm says its AI models hacked three companies during cyber |
-| 2026-07-31 | 58 | K1 | Resultados dispares en Big Tech: Apple y Amazon superan expectat |
-| 2026-07-31 | 58 | K1 | Anthropic revela que su modelo Claude hackeó sistemas de tres or |
 
 [[Global Brain — Inicio|← Inicio]]

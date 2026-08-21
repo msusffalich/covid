@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-08-20
+actualizado: 2026-08-21
 nodos: 23
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-23 nodos registrados en el periodo. Lo mas reciente: Puerto Rico enfrenta su peor sequía en una década con racionamiento de agua para más de 500.000 personas.
+23 nodos registrados en el periodo. Lo mas reciente: El Niño golpea a América Latina: sequías y alerta en el Canal de Panamá.
 
 ## Trend summary (EN)
-23 nodes recorded in the period. Most recent: Puerto Rico faces worst drought in a decade, rationing water for over 500,000 people.
+23 nodes recorded in the period. Most recent: US sends hospital ship as potentially historic El Niño bears down on Latin America.
 
 > [!note] Estado actual
-> Puerto Rico enfrenta su peor sequía en una década con racionamiento de agua para más de 500.000 personas
+> El Niño golpea a América Latina: sequías y alerta en el Canal de Panamá
 
 ## Nodos recientes (23 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-21 | 82 | K1 | El Niño golpea a América Latina: sequías y alerta en el Canal de |
 | 2026-08-18 | 48 | K1 | Puerto Rico enfrenta su peor sequía en una década con racionamie |
 | 2026-08-16 | 87 | K1 | Terremoto en Indonesia: rescate a contrarreloj mientras levantan |
 | 2026-08-16 | 62 | K2 | Olas de calor e incendios forestales golpean Europa mientras aum |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-11 | 45 | K1 | 'We've had a lot of close calls': Canada wildfire evacuees wonde |
 | 2026-08-10 | 62 | K1 | Tifón Dolphin toca tierra en China tras azotar Japón, más de un  |
 | 2026-08-10 | 62 | K1 | Incendio Bald Range fuera de control provoca estado de emergenci |
-| 2026-08-10 | 58 | K1 | Incendios forestales fuerzan estado de emergencia en Canadá y af |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-08-20
-nodos: 18
+actualizado: 2026-08-21
+nodos: 17
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-18 nodos registrados en el periodo. Lo mas reciente: Detenido en Croacia un segundo sospechoso del sabotaje a Nord Stream en 2022.
+17 nodos registrados en el periodo. Lo mas reciente: Detenido en Croacia un segundo sospechoso del sabotaje a Nord Stream en 2022.
 
 ## Trend summary (EN)
-18 nodes recorded in the period. Most recent: Germany says 2nd suspect in Nord Stream pipeline sabotage arrested in Croatia.
+17 nodes recorded in the period. Most recent: Germany says 2nd suspect in Nord Stream pipeline sabotage arrested in Croatia.
 
 > [!note] Estado actual
 > Detenido en Croacia un segundo sospechoso del sabotaje a Nord Stream en 2022
 
-## Nodos recientes (18 en la ventana)
+## Nodos recientes (17 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-20 | 89 | K1 | Detenido en Croacia un segundo sospechoso del sabotaje a Nord St |
