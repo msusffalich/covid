@@ -1,35 +1,282 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-08-21",
-    "generado": "2026-08-21T05:22:32.291547+00:00",
+    "fecha": "2026-08-22",
+    "generado": "2026-08-22T05:16:39.691118+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 843,
-      "clusters": 560,
-      "nodos": 560,
-      "verificados": 560,
-      "duracion_s": 107.9
+      "piezas_ingeridas": 767,
+      "clusters": 505,
+      "nodos": 505,
+      "verificados": 505,
+      "duracion_s": 84.1
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "“Día D”: la “guerra económica” de Trump contra Irán con la que promete un “aislamiento sin precedentes”",
+        "es": "El ejército israelí reconoce haber disparado contra el vehículo en el que viajaba la niña Hind Rajab",
+        "en": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision"
+      },
+      "sintesis": {
+        "es": "Por primera vez el ejército israelí admitió este miércoles que sus tropas abrieron fuego contra el automóvil en el que se encontraba Hind Rajab, la niña palestina de cinco años fallecida en Gaza en enero de 2024. Tras una investigación preliminar, la fiscalía militar ordenó la apertura de una investigación penal. Informe de nuestro corresponsal en Tel Aviv, Daniel Blumenthal.",
+        "en": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers Britain, Australia and Canada have called the decision of the Israeli military authorities not to open a criminal investigation into the April 2024 airstrikes that hit a convoy of aid vehicles in Gaza “shameful”. The strikes killed seven humanitarian workers from the US-based World Central Kitchen (WCK) organisation. WCK staff from the three countries were among the casualties of the attack, which prompted global outrage."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Israel",
+        "Hind Rajab",
+        "Gaza",
+        "Canada"
+      ],
+      "geo": {
+        "lat": 31.0,
+        "lon": 34.9,
+        "region": "Oriente Medio"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_480d2ec85e",
+        "ev_2d51e1e5f9",
+        "ev_3df8849479",
+        "ev_fa68b90785",
+        "ev_b138abf568",
+        "ev_9f4feeee38",
+        "ev_cf5e0c0d72",
+        "ev_a335db4465"
+      ],
+      "cluster_id": "cl_022",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg",
+        "https://s.rfi.fr/media/display/68284dfe-9bee-11f1-a263-005056a90284/w:1024/p:16x9/000-A8D78JM.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/19/17871595176591.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_480d2ec85e",
+          "titulo": "Israel confirma que disparó contra el vehículo en el que viajaba la niña de 5 años Hind Rajab en Gaza, cuya muerte generó condena internacional",
+          "url": "https://www.bbc.com/mundo/articles/c4g41m1ezypo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Wed, 19 Aug 2026 17:37:31 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_2d51e1e5f9",
+          "titulo": "El ejército israelí reconoce haber disparado contra el vehículo en el que viajaba la niña Hind Rajab",
+          "url": "https://www.rfi.fr/es/oriente-medio/20260820-el-ej%C3%A9rcito-israel%C3%AD-reconoce-haber-disparado-contra-el-veh%C3%ADculo-en-el-que-viajaba-la-ni%C3%B1a-hind-rajab",
+          "fuente": "RFI Espanol",
+          "fecha": "Thu, 20 Aug 2026 13:24:07 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_3df8849479",
+          "titulo": "Israel confirma que soldados dispararon contra el coche en el que murió la niña palestina Hind Rajab y abre una investigación penal",
+          "url": "https://www.elmundo.es/internacional/2026/08/19/6a85dbec21efa07d0d8b4579.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Wed, 19 Aug 2026 19:16:42 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_fa68b90785",
+          "titulo": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+          "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 21 Aug 2026 15:58:57 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b138abf568",
+          "titulo": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
+          "url": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 21 Aug 2026 15:03:34 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9f4feeee38",
+          "titulo": "Israel clears itself in killing of Canadian during airstrikes on World Central Kitchen convoy",
+          "url": "https://www.cbc.ca/news/politics/israeli-airstrike-quebec-aid-worker-gaza-investigation-9.7314335?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Thu, 20 Aug 2026 15:04:17 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cf5e0c0d72",
+          "titulo": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
+          "url": "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
+          "fuente": "The Guardian World",
+          "fecha": "Thu, 20 Aug 2026 19:15:09 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a335db4465",
+          "titulo": "Poland’s anger as Israel drops proceedings over airstrike on Gaza convoy that killed Polish volunteer",
+          "url": "https://www.independent.co.uk/news/world/europe/damian-sobol-poland-gaza-israel-b3036928.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 21 Aug 2026 09:11:54 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-22_0000",
+      "fecha": "2026-08-22",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-22_0003",
+        "nd_2026-08-22_0006"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Supremo de EE. UU. permite a Trump seguir por ahora la construcción del salón de baile de la Casa Blanca",
+        "en": "Trump joked Natalie Harp could replace Karoline Leavitt as White House press secretary: report"
+      },
+      "sintesis": {
+        "es": "En respuesta a una apelación de emergencia contra un fallo que hubiera obligado a paralizar parte de las obras este mismo 21 de agosto, la Corte Suprema estadounidense habilitó la continuidad temporal de los trabajos en la controvertida remodelación impulsada por Donald Trump. Así, los jueces del máximo tribunal tendrán más tiempo para analizar la legalidad de la reforma, que dos tribunales inferiores han juzgado como ilegítima por haberse saltado la aprobación del Congreso.",
+        "en": "Trump has also posted an AI picture of himself with the caption ‘The Best Press Secretary’, as speculation mounts over who could replace Leavitt following her unexpected announcement"
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Trump",
+        "Natalie Harp",
+        "Casa Blanca",
+        "Tribunal Supremo"
+      ],
+      "geo": {
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_3fa38c07c2",
+        "ev_cf33f19896",
+        "ev_7b2db0328e",
+        "ev_3ce630b11c",
+        "ev_7ddccebcdd",
+        "ev_5ca899223c",
+        "ev_42274c5013",
+        "ev_2df85b9c35",
+        "ev_ab7b5187c3",
+        "ev_f0259b7039"
+      ],
+      "cluster_id": "cl_040",
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/UXESX7GXA5PBFAK5OH6BOP7AUM.jpg?auth=8e7369b7a7d2fc2e2c752c9ab20902a0f82a70308f7d1569e746b369538db31a",
+        "https://imagenes.elpais.com/resizer/v2/YTLNBK2TBVMN3E24NWPY3EO6HU.jpg?auth=a49a3f211d4dfa9cb0174cc1a11b3325dcf01b95800df0cffde488ad624d2219",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/18/17870768267232.jpg",
+        "https://s.france24.com/media/display/36fe8358-9dae-11f1-9b10-005056bf30b7/w:1024/p:16x9/FOTO-PORTADA-EEUU-CASA-BLANCA-REFORMAS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_3fa38c07c2",
+          "titulo": "El Tribunal Supremo permite que Trump continúe, por ahora, con la construcción del salón de baile en la Casa Blanca",
+          "url": "https://elpais.com/us/2026-08-21/el-tribunal-supremo-permite-que-trump-continue-por-ahora-con-la-construccion-del-salon-de-baile-en-la-casa-blanca.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Fri, 21 Aug 2026 18:42:25 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_cf33f19896",
+          "titulo": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
+          "url": "https://elpais.com/internacional/2026-08-18/la-casa-blanca-se-abalanza-contra-un-senador-democrata-por-hablar-de-natalie-harp-la-impresora-humana-de-trump.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Tue, 18 Aug 2026 07:57:44 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_7b2db0328e",
+          "titulo": "Los ataques a Natalie Harp, la ayudante de Trump, desatan las iras de la Casa Blanca",
+          "url": "https://www.elmundo.es/internacional/2026/08/18/6a849fdfe85ece07108b458d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Wed, 19 Aug 2026 08:50:09 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_3ce630b11c",
+          "titulo": "Supremo de EE. UU. permite a Trump seguir por ahora la construcción del salón de baile de la Casa Blanca",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260821-supremo-de-ee-uu-permite-a-trump-seguir-por-ahora-la-construcci%C3%B3n-del-sal%C3%B3n-de-baile-de-la-casa-blanca",
+          "fuente": "France 24 Espanol",
+          "fecha": "Fri, 21 Aug 2026 23:03:04 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_7ddccebcdd",
+          "titulo": "¿Quién es Natalie Harp, la \"asistente especial\" de Trump, objeto de tantos rumores en Washington?",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260821-qui%C3%A9n-es-natalie-harp-la-asistente-especial-de-trump-objeto-de-tantos-rumores-en-washington",
+          "fuente": "RFI Espanol",
+          "fecha": "Fri, 21 Aug 2026 09:23:50 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_5ca899223c",
+          "titulo": "El Tribunal Supremo autoriza a Trump continuar de forma temporal con las obras en la Casa Blanca",
+          "url": "https://www.elmundo.es/internacional/2026/08/21/6a88a87bfc6c833d098b456d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sat, 22 Aug 2026 06:55:22 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_42274c5013",
+          "titulo": "By calling out Natalie Harp, Jon Ossoff did what no Democrat has been able to do — put Trump on his heels",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/jon-ossoff-trump-natalie-harp-b3037292.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 21 Aug 2026 21:55:05 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2df85b9c35",
+          "titulo": "New photos show ‘Natalie Harp sprinting after Trump’s golf cart’ in 2023",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/natalie-harp-trump-golf-cart-photos-b3037311.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 21 Aug 2026 20:04:17 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ab7b5187c3",
+          "titulo": "Natalie Harp labels herself ‘unworthy’ of Trump as her letters that ‘alarmed’ Secret Service are revealed in full",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/natalie-harp-trump-letters-full-b3037066.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 21 Aug 2026 13:23:59 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f0259b7039",
+          "titulo": "Trump joked Natalie Harp could replace Karoline Leavitt as White House press secretary: report",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-natalie-harp-karoline-leavitt-press-b3036936.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 21 Aug 2026 10:37:47 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-22_0001",
+      "fecha": "2026-08-22",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-22_0002",
+        "nd_2026-08-22_0006",
+        "nd_2026-08-22_0010"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Irán se declara en posición de fuerza y reclama el fin de la guerra",
         "en": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure"
       },
       "sintesis": {
-        "es": "El presidente de Estados Unidos, Donald Trump, anunció una nueva ofensiva económica contra Irán que describe como un “Día D” y la mayor operación de este tipo emprendida contra un país, con el objetivo de cortar las vías de financiación de Teherán y someterlo a un “aislamiento sin precedentes”. Washington amenaza además con represalias económicas a cualquier país, empresa o entidad financiera que ayude a mantener los flujos de dinero hacia la República Islámica mediante el contrabando de petróleo, transferencias de efectivo, casas de cambio, empresas pantalla u otros mecanismos utilizados para sortear las sanciones estadounidenses.",
+        "es": "El presidente iraní afirmó que ha llegado el momento de poner fin a la guerra que desde hace casi seis meses enfrenta a Irán con Estados Unidos e Israel, al considerar que Teherán se encuentra actualmente en una posición de ventaja estratégica. Estados Unidos, por su lado, endurece la presión económica amenazando con un aislamiento sin precedentes de Irán.",
         "en": "US president pivots towards ‘crushing’ economic operation against Iran and its trading partners as military strikes fail to bring Tehran to the table Donald Trump has announced a new campaign to isolate Iran’s economy, threatening “tremendous economic consequences” on any country that helps or does business with Tehran, a move that could set up a fresh confrontation with China if implemented. “Today, I am announcing the most crushing economic operation ever taken against any country!” Trump wrote on Truth Social. “Any country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face tremendous economic consequences.” Continue reading..."
       },
       "categoria": "geopolitica",
       "actores": [
         "Trump",
         "Iran",
-        "Kim Jong",
-        "Day"
+        "Hormuz",
+        "American"
       ],
       "geo": {
         "lat": 35.9,
@@ -38,55 +285,37 @@
       },
       "impacto": 95,
       "fuentes": [
-        "ev_59afce10d7",
-        "ev_d133d37d79",
         "ev_f9e5ef6f1f",
-        "ev_c06587c769",
-        "ev_a5f38ed959",
-        "ev_324c5acaa2",
+        "ev_8e55f2e0fc",
+        "ev_4fe78b9cd0",
         "ev_091ad2d083",
-        "ev_11085e9b02",
+        "ev_a5f38ed959",
         "ev_082e63ba3b",
         "ev_1ffa486d97",
-        "ev_15382b7f72",
-        "ev_c1ee4c245c",
-        "ev_39ee7f45f2",
-        "ev_10c4a86140",
-        "ev_d276bd74bf",
-        "ev_582a5af9c2",
-        "ev_f62b9326c1",
-        "ev_df6cf60961",
-        "ev_a6e8e7297c",
-        "ev_55bbe8a516",
+        "ev_94b930e4fe",
+        "ev_b78bbc1bd8",
+        "ev_48685ed2fa",
+        "ev_6dc8a90d47",
         "ev_1db903a384",
-        "ev_6a18fb678e",
-        "ev_8410f398d4"
+        "ev_bf1a1334b0",
+        "ev_83d37953ee",
+        "ev_45f8a34b20",
+        "ev_8e92be8b01",
+        "ev_9d65b46b12",
+        "ev_7c2301bf20",
+        "ev_02176f5ba5",
+        "ev_55bbe8a516",
+        "ev_e79e0a8f63"
       ],
-      "cluster_id": "cl_038",
+      "cluster_id": "cl_047",
       "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/MZYDTTXFPFACJIGR3JBELU2ILE.jpg?auth=b824024e959a4ba311bea3b4505a08106c9beabee1b1a91f46cd20dfcedaa32b",
-        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206062_012535_video_1800.mp4",
         "https://imagenes.elpais.com/resizer/v2/MBWQHKRBQJMHZGF4FJITJB4NHY.jpg?auth=4b5c2d27879c7569d324b0e4d9cef9b679843844ccca95daedec857c46f97251",
-        "https://s.france24.com/media/display/8cfa9a58-9cc8-11f1-b266-005056bf30b7/w:1024/p:16x9/2026-08-19T191551Z-986043361-RC2V1NA8YTLU-RTRMADP-3-USA-TRUMP.jpg"
+        "https://s.rfi.fr/media/display/cfc0143e-9d5a-11f1-8bd7-005056bfb2b6/w:1024/p:16x9/2026-08-10t081340z-106953894-rc2a6ma6wjp3-rtrmadp-3-iran-crisis-rezaei.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/20/17872436771398.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/20/17871825561534.jpg"
       ],
       "estado": "verificado",
       "referencias": [
-        {
-          "id": "ev_59afce10d7",
-          "titulo": "Trump proclama “la mayor guerra económica” contra Irán",
-          "url": "https://elpais.com/internacional/2026-08-20/trump-proclama-la-mayor-guerra-economica-contra-iran.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Thu, 20 Aug 2026 07:26:04 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_d133d37d79",
-          "titulo": "Trump apuesta por un acercamiento a Kim Jong-un para olvidar el callejón sin salida de Irán",
-          "url": "https://elpais.com/internacional/2026-08-19/trump-apuesta-por-un-acercamiento-a-kim-jong-un-para-olvidar-el-callejon-sin-salida-de-iran.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Wed, 19 Aug 2026 20:11:15 GMT",
-          "idioma": "es"
-        },
         {
           "id": "ev_f9e5ef6f1f",
           "titulo": "La guerra de Irán altera el rumbo de un Trump urgido por su baja popularidad",
@@ -96,11 +325,27 @@
           "idioma": "es"
         },
         {
-          "id": "ev_c06587c769",
-          "titulo": "“Día D”: la “guerra económica” de Trump contra Irán con la que promete un “aislamiento sin precedentes”",
-          "url": "https://www.france24.com/es/medio-oriente/20260820-d%C3%ADa-d-la-guerra-econ%C3%B3mica-de-trump-contra-ir%C3%A1n-con-la-que-promete-un-aislamiento-sin-precedentes",
-          "fuente": "France 24 Espanol",
-          "fecha": "Thu, 20 Aug 2026 18:59:40 GMT",
+          "id": "ev_8e55f2e0fc",
+          "titulo": "Irán se declara en posición de fuerza y reclama el fin de la guerra",
+          "url": "https://www.rfi.fr/es/oriente-medio/20260821-ir%C3%A1n-se-declara-en-posici%C3%B3n-de-fuerza-y-reclama-el-fin-de-la-guerra",
+          "fuente": "RFI Espanol",
+          "fecha": "Fri, 21 Aug 2026 14:00:37 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_4fe78b9cd0",
+          "titulo": "De la soltería a la inflación, ¿por qué las mujeres están congelando sus óvulos en Irán?",
+          "url": "http://es.euronews.com/2026/08/22/de-la-solteria-a-la-inflacion-por-que-las-mujeres-iranies-estan-congelando-sus-ovulos",
+          "fuente": "Euronews Espanol",
+          "fecha": "Sat, 22 Aug 2026 03:00:27 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_091ad2d083",
+          "titulo": "¿Puede Trump ahogar realmente a Irán? Las dudas sobre la efectividad de la nueva presión económica",
+          "url": "https://www.elmundo.es/internacional/2026/08/20/6a8726e2e85ece19248b4583.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 21 Aug 2026 07:20:58 +0200",
           "idioma": "es"
         },
         {
@@ -109,30 +354,6 @@
           "url": "https://www.elmundo.es/internacional/2026/08/20/6a863e07e9cf4aa4598b4572.html",
           "fuente": "El Mundo Internacional",
           "fecha": "Thu, 20 Aug 2026 07:41:48 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_324c5acaa2",
-          "titulo": "Trump vuelve a llamar a la puerta de Kim Jong-un",
-          "url": "https://www.elmundo.es/internacional/2026/08/19/6a858aafe85ece951e8b458d.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Wed, 19 Aug 2026 12:52:51 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_091ad2d083",
-          "titulo": "¿Puede Trump ahogar realmente a Irán? Las dudas sobre la efectividad de la nueva presión económica",
-          "url": "https://www.elmundo.es/internacional/2026/08/20/6a8726e2e85ece19248b4583.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 20 Aug 2026 22:37:06 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_11085e9b02",
-          "titulo": "Trump amenaza con bombardear Omán ante el inminente acuerdo con Irán para gestionar Ormuz",
-          "url": "https://www.elmundo.es/internacional/2026/08/17/6a83134b21efa05e578b459e.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Tue, 18 Aug 2026 08:17:00 +0200",
           "idioma": "es"
         },
         {
@@ -152,132 +373,149 @@
           "idioma": "en"
         },
         {
-          "id": "ev_15382b7f72",
-          "titulo": "Trump says he'll launch 'most crushing economic operation ever' on Iran",
-          "url": "https://www.cbc.ca/news/world/trump-economic-attack-iran-9.7313426?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Wed, 19 Aug 2026 20:52:14 EDT",
+          "id": "ev_94b930e4fe",
+          "titulo": "Trump says he views strait of Hormuz as ‘American territory’",
+          "url": "https://www.theguardian.com/us-news/2026/aug/21/trump-strait-of-hormuz-american-territory",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 22 Aug 2026 01:24:27 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_c1ee4c245c",
-          "titulo": "Trump threatens to crush Iran with ‘Economic D Day’ - but he is running out of cards to play",
-          "url": "https://www.independent.co.uk/news/world/middle-east/trump-iran-economy-sanctions-hormuz-b3036190.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 20 Aug 2026 13:58:43 GMT",
+          "id": "ev_b78bbc1bd8",
+          "titulo": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 22 Aug 2026 00:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_48685ed2fa",
+          "titulo": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Fri, 21 Aug 2026 23:19:37 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6dc8a90d47",
+          "titulo": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
+          "url": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
+          "fuente": "NPR News",
+          "fecha": "Fri, 21 Aug 2026 07:25:10 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1db903a384",
+          "titulo": "Iran rejects Trump's threat of 'economic warfare' on 'unprecedented scale'",
+          "url": "https://www.cbc.ca/news/world/iran-rejects-trump-economic-threat-9.7313735?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Thu, 20 Aug 2026 09:29:25 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-21_0000",
-      "fecha": "2026-08-21",
-      "kardashev": "K2",
+      "id": "nd_2026-08-22_0002",
+      "fecha": "2026-08-22",
+      "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-21_0002",
-        "nd_2026-08-21_0003",
-        "nd_2026-08-21_0004",
-        "nd_2026-08-21_0011"
+        "nd_2026-08-22_0001",
+        "nd_2026-08-22_0004",
+        "nd_2026-08-22_0006"
       ]
     },
     {
       "titulo": {
-        "es": "Finlandia acusa a una madre de trata de menores al llevar a sus hijos a las zonas del Estado Islámico",
-        "en": "FBI arrests woman over alleged plot to bomb New York capitol building"
+        "es": "¿Puede Turquía lograr la detención de Netanyahu con una notificación roja de Interpol?",
+        "en": "Turkey seeks Interpol arrest warrant for Netanyahu over Gaza flotilla detention"
       },
       "sintesis": {
-        "es": "La mujer, de unos 40 años y que ahora reside en Finlandia, llevó por primera vez a sus hijos a Siria en 2014, según una investigación preliminar de la Policía.",
-        "en": "Prosecutors say the Albany woman had pledged allegiance to the Islamic State group, and wanted to bomb the statehouse to kill lawmakers."
+        "es": "Turquía solicitó este viernes 21 de agosto a Interpol una notificación roja contra el primer ministro de Israel, Benjamin Netanyahu, después de que un tribunal de Estambul emitiera en julio una orden de arresto en un proceso por la interceptación de una flotilla humanitaria con destino a Gaza y la detención de cientos de activistas a bordo. La iniciativa abre un nuevo frente judicial internacional para el premier, que ya está sujeto desde noviembre de 2024 a una orden de arresto de la Corte Penal Internacional (CPI). Sin embargo, el líder del Estado de mayoría judía continúa en libertad y viajando al extranjero.",
+        "en": "Turkey said Friday it is seeking an international arrest warrant from Interpol for Israeli Prime Minister Benjamin Netanyahu as part of a domestic criminal case over Israel's interception and detention of dozens of activists attempting to deliver humanitarian aid to the besieged Gaza Strip in May. In response, Netanyahu's office called Turkish President Recep Tayyip Erdogan an \"anti-Semitic dictator\" and vowed to \"act forcefully against Turkey's attempts to destabilise the region\"."
       },
       "categoria": "geopolitica",
       "actores": [
-        "New York",
-        "FBI",
-        "Estado",
-        "Finlandia"
+        "Netanyahu",
+        "Interpol",
+        "Gaza",
+        "Puede"
       ],
       "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
+        "lat": 31.0,
+        "lon": 34.9,
+        "region": "Oriente Medio"
       },
-      "impacto": 95,
+      "impacto": 91,
       "fuentes": [
-        "ev_aa82cc515b",
-        "ev_4e00f99dc9",
-        "ev_c152218cf6",
-        "ev_98a9b6d7a6",
-        "ev_2d95c6aa56",
-        "ev_36880218a6"
+        "ev_384d9b7943",
+        "ev_4dfddf38bb",
+        "ev_707db6622a",
+        "ev_813e500419",
+        "ev_1b0476b252"
       ],
-      "cluster_id": "cl_091",
+      "cluster_id": "cl_041",
       "imagenes": [
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/20/17872535499565.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2871/live/b0cd8010-9cd9-11f1-8c2c-67800657f112.png",
-        "https://static.independent.co.uk/2026/08/20/21/27/HQMNBgAXcAAwVoP.jpeg?width=1200&auto=webp&trim=0%2C147%2C0%2C153"
+        "https://imagenes.elpais.com/resizer/v2/TI7CGSSRDNGGHPV72IKPW2J6VQ.jpg?auth=b5e0f95abe75303850a21d5b816a2ef30fdf40e896f0cc5eba324ea0f85b37eb",
+        "https://s.france24.com/media/display/3718bf18-5239-11f1-8c72-005056a97e36/w:1024/p:16x9/2026-04-21T114147Z-1363276551-RC2NTKAU10KA-RTRMADP-3-ISRAEL-PALESTINIANS-MEMORIAL-DAY.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/21/17873169081215.jpg",
+        "https://s.france24.com/media/display/2afc8f5a-9d86-11f1-9994-005056a90284/w:1024/p:16x9/AP26141592813959.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_aa82cc515b",
-          "titulo": "Finlandia acusa a una madre de trata de menores al llevar a sus hijos a las zonas del Estado Islámico",
-          "url": "http://es.euronews.com/my-europe/2026/08/20/finlandia-acusa-a-una-madre-de-trata-de-menores-al-llevar-a-sus-hijos-a-las-zonas-del-esta",
-          "fuente": "Euronews Espanol",
-          "fecha": "Thu, 20 Aug 2026 19:03:36 +0200",
+          "id": "ev_384d9b7943",
+          "titulo": "Turquía solicita a Interpol la detención de Netanyahu por el asalto a la flotilla con destino a Gaza",
+          "url": "https://elpais.com/internacional/2026-08-21/turquia-solicita-a-interpol-la-detencion-de-netanyahu-por-el-asalto-a-la-flotilla-con-destino-a-gaza.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Fri, 21 Aug 2026 15:15:25 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_4e00f99dc9",
-          "titulo": "El FBI arresta a una mujer por planear un ataque con bomba en el Capitolio de Nueva York en nombre del Estado Islámico",
-          "url": "https://www.elmundo.es/internacional/2026/08/20/6a875358e9cf4a781e8b4599.html",
+          "id": "ev_4dfddf38bb",
+          "titulo": "¿Puede Turquía lograr la detención de Netanyahu con una notificación roja de Interpol?",
+          "url": "https://www.france24.com/es/medio-oriente/20260821-puede-turqu%C3%ADa-lograr-la-detenci%C3%B3n-de-netanyahu-con-una-notificaci%C3%B3n-roja-de-interpol",
+          "fuente": "France 24 Espanol",
+          "fecha": "Fri, 21 Aug 2026 18:51:49 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_707db6622a",
+          "titulo": "Turquía emite orden de arresto internacional contra Netanyahu",
+          "url": "https://www.elmundo.es/internacional/2026/08/21/6a884a0121efa0a6578b4594.html",
           "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 20 Aug 2026 21:19:55 +0200",
+          "fecha": "Fri, 21 Aug 2026 15:28:37 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_c152218cf6",
-          "titulo": "FBI arrests woman over alleged plot to bomb New York capitol building",
-          "url": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 20 Aug 2026 21:03:30 GMT",
+          "id": "ev_813e500419",
+          "titulo": "Turkey seeks Interpol arrest warrant for Netanyahu over Gaza flotilla detention",
+          "url": "https://www.france24.com/en/middle-east/20260821-turkey-seeks-international-arrest-warrant-against-israel-s-netanyahu-over-gaza-flotilla-detention",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 21 Aug 2026 18:04:40 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_98a9b6d7a6",
-          "titulo": "FBI stops suspected ISIS plot to blow up New York Capitol building",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/isis-threat-new-york-capitol-fbi-b3036621.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 20 Aug 2026 20:33:00 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2d95c6aa56",
-          "titulo": "US charges woman for allegedly plotting attack on New York State Capitol",
-          "url": "https://www.aljazeera.com/news/2026/8/20/us-charges-woman-for-allegedly-plotting-attack-on-new-york-state-capitol?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Thu, 20 Aug 2026 23:01:15 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_36880218a6",
-          "titulo": "New York mayor Mamdani sues to block $10,000 teaching aide bonuses",
-          "url": "https://www.aljazeera.com/economy/2026/8/20/new-york-mayor-mamdani-sues-to-block-10000-teaching-aide-bonuses?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Thu, 20 Aug 2026 22:45:40 +0000",
+          "id": "ev_1b0476b252",
+          "titulo": "Turkey Requests Netanyahu’s Arrest, Saying Israel Abused Flotilla Activists",
+          "url": "https://www.nytimes.com/2026/08/21/world/middleeast/turkey-netanyahu-arrest-israel.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 21 Aug 2026 20:35:40 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-21_0001",
-      "fecha": "2026-08-21",
+      "id": "nd_2026-08-22_0003",
+      "fecha": "2026-08-22",
       "kardashev": "K1",
-      "relaciones": []
+      "relaciones": [
+        "nd_2026-08-22_0000"
+      ]
     },
     {
       "titulo": {
         "es": "Hong Kong condena a los guardianes de la memoria de Tiananmen por pedir el fin de la \"dictadura de partido único\" en China",
-        "en": "Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’"
+        "en": "Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’"
       },
       "sintesis": {
         "es": "Los antiguos líderes del grupo que durante tres décadas organizó las multitudinarias vigilias del 4 de junio son declarados culpables de incitar a la subversión Leer",
-        "en": "Lee Cheuk-yan and Chow Hang-tung - leaders of the Hong Kong Alliance – were tried under under a 2020 national security law Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 were found guilty of “incitement to subversion”, in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020. Lee Cheuk-yan, 69, and Chow Hang-tung, 41 “incited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power”, a press summary handed out to reporters said. Continue reading..."
+        "en": "UK Foreign Office condemns use of national security law to convict activists Lee Cheuk-yan and Chow Hang-tung Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 have been found guilty of “incitement to subversion” in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020. Lee Cheuk-yan, 69, and Chow Hang-tung, 41, “incited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power”, a press summary handed out to reporters said. The defendants each face a maximum penalty of 10 years in jail, with sentencing expected at a later date."
       },
       "categoria": "salud",
       "actores": [
@@ -291,25 +529,33 @@
         "lon": 104.2,
         "region": "Asia Oriental"
       },
-      "impacto": 90,
+      "impacto": 91,
       "fuentes": [
+        "ev_80db559f67",
         "ev_8901a6a12b",
         "ev_bc5e915b4d",
-        "ev_8a9af0836a",
-        "ev_ae27f26518",
+        "ev_0c75a162dc",
+        "ev_bb18657d29",
         "ev_b786da7f1b",
-        "ev_1cb822e1c5",
-        "ev_b7f911091d"
+        "ev_1cb822e1c5"
       ],
-      "cluster_id": "cl_121",
+      "cluster_id": "cl_042",
       "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/JLZTJ2XW5NIGFKSSJ6I7O54XY4.jpg?auth=f12f30dd7b002734994457c7a21bbbc88e93b505d9fd163a3cd721b2fc99ad6a",
         "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/21/17872810625954.jpg",
         "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d436/live/0a8eae40-9d0b-11f1-8a23-b9fc4847a391.jpg",
-        "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2e1fcbc3a457f9977863b7f443921f2c",
-        "https://e3.365dm.com/26/08/1920x1080/skynews-tiananmen-square-hong-kong_7326929.jpg?20260821025402"
+        "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2e1fcbc3a457f9977863b7f443921f2c"
       ],
       "estado": "verificado",
       "referencias": [
+        {
+          "id": "ev_80db559f67",
+          "titulo": "Hong Kong declara culpables de incitación a la subversión a los guardianes de la memoria de Tiananmén",
+          "url": "https://elpais.com/internacional/2026-08-21/hong-kong-declara-culpables-de-incitacion-a-la-subversion-a-los-guardianes-de-la-memoria-de-tiananmen.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Fri, 21 Aug 2026 14:58:49 GMT",
+          "idioma": "es"
+        },
         {
           "id": "ev_8901a6a12b",
           "titulo": "Hong Kong condena a los guardianes de la memoria de Tiananmen por pedir el fin de la \"dictadura de partido único\" en China",
@@ -323,23 +569,23 @@
           "titulo": "Hong Kong's Tiananmen activists guilty in national security trial",
           "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Fri, 21 Aug 2026 02:59:46 GMT",
+          "fecha": "Fri, 21 Aug 2026 05:47:32 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_8a9af0836a",
-          "titulo": "Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’",
+          "id": "ev_0c75a162dc",
+          "titulo": "Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’",
           "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
           "fuente": "The Guardian World",
-          "fecha": "Fri, 21 Aug 2026 03:28:02 GMT",
+          "fecha": "Fri, 21 Aug 2026 10:43:59 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_ae27f26518",
-          "titulo": "Hong Kong Tiananmen activists found guilty of national security charges",
-          "url": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 21 Aug 2026 03:50:15 +0000",
+          "id": "ev_bb18657d29",
+          "titulo": "Two organisers of Hong Kong's Tiananmen vigils charged for inciting subversion",
+          "url": "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 21 Aug 2026 11:27:54 GMT",
           "idioma": "en"
         },
         {
@@ -357,216 +603,519 @@
           "fuente": "CBC World",
           "fecha": "Thu, 20 Aug 2026 23:14:15 EDT",
           "idioma": "en"
-        },
-        {
-          "id": "ev_b7f911091d",
-          "titulo": "Hong Kong Tiananmen vigil organisers convicted",
-          "url": "https://www.abc.net.au/news/2026-08-21/hong-kong-protestors-organisers-tiananmen-vigil-convicted/107063308",
-          "fuente": "ABC News Australia",
-          "fecha": "Fri, 21 Aug 2026 03:46:00 +0000",
-          "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-21_0002",
-      "fecha": "2026-08-21",
+      "id": "nd_2026-08-22_0004",
+      "fecha": "2026-08-22",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-21_0000",
-        "nd_2026-08-21_0003"
+        "nd_2026-08-22_0002"
       ]
     },
     {
       "titulo": {
-        "es": "China: Xu Jiayin, fundador del gigante inmobiliario Evergrande, condenado a cadena perpetua",
-        "en": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud"
+        "es": "ONU advierte de propagación exponencial de Ébola en RD Congo y aumento de fallecidos",
+        "en": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history"
       },
       "sintesis": {
-        "es": "En China, la quiebra del gigante Evergrande había provocado una crisis inmobiliaria de gran magnitud. La justicia china ha puesto punto final a la parte penal de este colapso y el jueves 20 de agosto condenó a su fundador, Xu Jiayin, a cadena perpetua. Un veredicto contundente para el exmagnate inmobiliario, detenido en 2023, pero que no resuelve en absoluto la cuestión de los miles de millones que aún se adeudan a los acreedores.",
-        "en": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines Business live – latest updates The founder of Evergrande, one of China’s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated. Hui Ka Yan, 67 and once named by Forbes as China’s richest man, with a net worth of $42.5bn (£31.2bn) in 2017, pleaded guilty in April to eight charges. Continue reading..."
+        "es": "La epidemia de Ébola que azota a la República Democrática del Congo está experimentando un crecimiento exponencial, y el número de fallecidos aumenta cada día a un ritmo más rápido que en las últimas semanas, según alerta Naciones Unidas. La organización también pidió mayor cooperación económica por parte de la comunidad internacional. Desde que se detectaron los primeros casos a mediados de mayo de 2026, la enfermedad se ha propagado hacia el sur, el norte y el oeste del país.",
+        "en": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at least 2,325 people dead, according to government data, surpassing the toll from the 2018-20 outbreak. The DRC’s public health institute said confirmed cases had risen to 4,945, including 101 detected in the previous 24 hours. Continue reading..."
       },
-      "categoria": "geopolitica",
+      "categoria": "salud",
       "actores": [
-        "Evergrande",
-        "China",
-        "Jiayin",
-        "Founder"
+        "Congo",
+        "Ebola",
+        "Congo Ebola",
+        "ONU"
       ],
       "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
+        "lat": 46.6,
+        "lon": 2.2,
+        "region": "Europa"
       },
-      "impacto": 89,
+      "impacto": 91,
       "fuentes": [
-        "ev_12b54ca956",
-        "ev_51b74b9c04",
-        "ev_0430303633",
-        "ev_b5a2c79319",
-        "ev_024dd086ee"
+        "ev_e3bf3c6e32",
+        "ev_4cbc00225e",
+        "ev_ecb0dbeda8",
+        "ev_e1d7f08754",
+        "ev_52d97f5b9c",
+        "ev_940947ce2d",
+        "ev_1fa2e11459",
+        "ev_6760bd8870"
       ],
-      "cluster_id": "cl_051",
+      "cluster_id": "cl_055",
       "imagenes": [
-        "https://s.france24.com/media/display/dac8f3e4-9cd0-11f1-913b-005056a90284/w:1024/p:16x9/ES-20260820-131031-131239-CS.jpg",
-        "https://s.rfi.fr/media/display/23569fcc-372c-11ec-9ab9-005056a97e36/w:1024/p:16x9/000_9MT6A4.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d3/live/01a70de0-9cf2-11f1-bd69-2b67c2d8d19e.jpg",
-        "https://i.guim.co.uk/img/media/709754c9a4198b956f1c2acc98bb9478b6dedbde/542_0_5415_4332/master/5415.jpg?width=140&quality=85&auto=format&fit=max&s=1d0123d2d7a8dea72b3930afff1f1813"
+        "https://s.france24.com/media/display/4653afce-9da2-11f1-b1dc-005056a97e36/w:1024/p:16x9/ES-20260821-130533-130711-CS.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e4/live/66300b20-9d5d-11f1-a291-b542ee92de7c.jpg",
+        "https://static.independent.co.uk/2026/08/21/12/download.-1.?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+        "https://i.guim.co.uk/img/media/a393063cc2d82e5b3b20c44e22654a645b95ab37/581_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e627dfdebce0f22e71d4b8bb71204ef6"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_12b54ca956",
-          "titulo": "China: cadena perpetua para Xu Jiayin, fundador de Evergrande, por fraude y sobornos",
-          "url": "https://www.france24.com/es/video/20260820-china-cadena-perpetua-para-xu-jiayin-fundador-de-evergrande-por-fraude-y-sobornos",
+          "id": "ev_e3bf3c6e32",
+          "titulo": "ONU advierte de propagación exponencial de Ébola en RD Congo y aumento de fallecidos",
+          "url": "https://www.france24.com/es/video/20260821-onu-advierte-de-propagaci%C3%B3n-exponencial-de-%C3%A9bola-en-rd-congo-y-aumento-de-fallecidos",
           "fuente": "France 24 Espanol",
-          "fecha": "Thu, 20 Aug 2026 20:00:28 GMT",
+          "fecha": "Fri, 21 Aug 2026 21:51:30 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_51b74b9c04",
-          "titulo": "China: Xu Jiayin, fundador del gigante inmobiliario Evergrande, condenado a cadena perpetua",
-          "url": "https://www.rfi.fr/es/asia-pacifico/20260820-china-xu-jiayin-fundador-del-gigante-inmobiliario-evergrande-condenado-a-cadena-perpetua",
-          "fuente": "RFI Espanol",
-          "fecha": "Thu, 20 Aug 2026 08:54:02 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_0430303633",
-          "titulo": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-          "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+          "id": "ev_4cbc00225e",
+          "titulo": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+          "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Thu, 20 Aug 2026 06:08:02 GMT",
+          "fecha": "Fri, 21 Aug 2026 13:44:43 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_b5a2c79319",
-          "titulo": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
-          "url": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
+          "id": "ev_ecb0dbeda8",
+          "titulo": "Congo’s Ebola crisis deepens as deaths pass 2,500 and health workers are attacked",
+          "url": "https://www.independent.co.uk/news/world/africa/congo-ebola-outbreak-deaths-health-worker-attacks-b3037026.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 21 Aug 2026 11:45:47 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e1d7f08754",
+          "titulo": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+          "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
           "fuente": "The Guardian World",
-          "fecha": "Thu, 20 Aug 2026 12:03:39 GMT",
+          "fecha": "Mon, 17 Aug 2026 14:07:31 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_024dd086ee",
-          "titulo": "China Sentences Evergrande Founder to Life in Prison",
-          "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 20 Aug 2026 19:52:04 +0000",
+          "id": "ev_52d97f5b9c",
+          "titulo": "2,500 dead and rising: UN says DR Congo Ebola outbreak 'growing exponentially'",
+          "url": "https://www.france24.com/en/video/20260821-2-500-dead-and-rising-un-says-dr-congo-ebola-outbreak-growing-exponentially",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 21 Aug 2026 14:25:25 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_940947ce2d",
+          "titulo": "Ebola outbreak in DR Congo growing 'exponentially' as death toll passes 2,500",
+          "url": "https://www.france24.com/en/africa/20260821-ebola-outbreak-in-dr-congo-growing-exponentially-as-death-toll-passes-2-500",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 21 Aug 2026 12:55:58 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1fa2e11459",
+          "titulo": "More than 2,500 dead in DR Congo Ebola outbreak, UN says",
+          "url": "https://news.sky.com/story/more-than-2500-dead-in-dr-congo-un-says-as-ebola-spreading-to-area-bigger-than-france-13575338",
+          "fuente": "Sky News World",
+          "fecha": "Fri, 21 Aug 2026 13:10:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6760bd8870",
+          "titulo": "Ebola spreading exponentially in Congo as death toll tops 2,500, UN says",
+          "url": "https://www.cbc.ca/news/health/ebola-drc-aug21-9.7315457?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 21 Aug 2026 11:09:32 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-21_0003",
-      "fecha": "2026-08-21",
+      "id": "nd_2026-08-22_0005",
+      "fecha": "2026-08-22",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-21_0000",
-        "nd_2026-08-21_0002"
+        "nd_2026-08-22_0007"
       ]
     },
     {
       "titulo": {
-        "es": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
-        "en": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills"
+        "es": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
+        "en": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade"
       },
       "sintesis": {
-        "es": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-range ballistic missiles towards the sea, South Korea’s military said, a day after Pyongyang shrugged off Donald Trump’s order to scale back US military drills with South Korea in an apparent attempt to resume diplomacy. The joint chiefs of staff said the missiles were launched from the region of Pyongyang at around 5pm (08.00 GMT) on Thursday towards North Korea’s eastern waters. Continue reading...",
-        "en": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-un North Korea has launched about 10 short-range ballistic missiles towards the sea, South Korea’s military said, a day after Pyongyang shrugged off Donald Trump’s order to scale back US military drills with South Korea in an apparent attempt to resume diplomacy. The joint chiefs of staff said the missiles were launched from the region of Pyongyang at around 5pm (08.00 GMT) on Thursday towards North Korea’s eastern waters. Continue reading..."
+        "es": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a trade deal and taunting the prime minister, Mark Carney, for trying to “out-tough” Donald Trump. The recording, which was reportedly made at a fundraiser and shared with the Canadian Press , comes in the last stretch of a difficult negotiation in which the US president has threatened to impose 50% tariffs on Canada. Continue reading...",
+        "en": "Audio recording of US vice-president apparently made at New York fundraiser and shared with Canadian Press Leaked audio from a private event has reportedly captured the US vice-president, JD Vance, mocking Canada for apparently capitulating in a trade deal and taunting the prime minister, Mark Carney, for trying to “out-tough” Donald Trump. The recording, which was reportedly made at a fundraiser and shared with the Canadian Press , comes in the last stretch of a difficult negotiation in which the US president has threatened to impose 50% tariffs on Canada. Continue reading..."
       },
-      "categoria": "geopolitica",
+      "categoria": "economia",
       "actores": [
         "Trump",
-        "North Korea",
-        "South Korea",
-        "Japan"
+        "Canada",
+        "Carney",
+        "Canadian"
+      ],
+      "geo": {
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
+      },
+      "impacto": 83,
+      "fuentes": [
+        "ev_b16dcdf311",
+        "ev_c8c76d2fb8",
+        "ev_5bdb6c7471",
+        "ev_0cb0702e13",
+        "ev_34712d55a1",
+        "ev_6a84e8d644",
+        "ev_5c10da5f00",
+        "ev_e30de9cf93"
+      ],
+      "cluster_id": "cl_143",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
+        "https://i.guim.co.uk/img/media/4827dba8e972c050d94247357390369f6a5477f1/389_0_3191_2554/master/3191.jpg?width=140&quality=85&auto=format&fit=max&s=34596f60ad34996e79fb07d586ac035d",
+        "https://s.france24.com/media/display/06bf9068-9de2-11f1-85f9-005056bf30b7/w:1024/p:16x9/71ef5231e98ab11a4b6cb91c727ec5b618113787.jpg",
+        "https://i.guim.co.uk/img/media/e60c561c88a26ce167735ef91210ae4cc78dd494/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e42ad8f4fd17e212b111b799f3ea2506"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_b16dcdf311",
+          "titulo": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+          "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sat, 22 Aug 2026 04:46:33 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c8c76d2fb8",
+          "titulo": "Canada vows to match Trump’s 50% tariffs after trade deal talks fail",
+          "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 22 Aug 2026 04:23:38 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5bdb6c7471",
+          "titulo": "Carney says Canada will match US tariffs 'dollar for dollar' after failed trade negotiations",
+          "url": "https://www.france24.com/en/americas/20260822-carney-says-canada-will-match-us-tariffs-dollar-for-dollar-after-failed-trade-negotiations",
+          "fuente": "France 24 English",
+          "fecha": "Sat, 22 Aug 2026 04:29:13 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0cb0702e13",
+          "titulo": "US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail",
+          "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 22 Aug 2026 04:02:32 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_34712d55a1",
+          "titulo": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
+          "url": "https://www.theguardian.com/us-news/2026/aug/21/jd-vance-mark-carney-out-tough-trump-trade",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 21 Aug 2026 15:22:48 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6a84e8d644",
+          "titulo": "Trump Tariff Talks Leave Key Canadian Official Hopeful",
+          "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 21 Aug 2026 14:30:29 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5c10da5f00",
+          "titulo": "Canadian premier brands Trump ‘weak’ and predicts he’ll get ‘slaughtered’ in midterms",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/kinew-trump-canada-trade-tariffs-b3036939.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 21 Aug 2026 09:31:38 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e30de9cf93",
+          "titulo": "Trump, Vance and Bessent try to calm the bond market with ‘alternative facts’",
+          "url": "https://www.marketwatch.com/story/trump-vance-and-bessent-try-to-calm-the-bond-market-with-alternative-facts-8e424378?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Fri, 21 Aug 2026 18:29:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-22_0006",
+      "fecha": "2026-08-22",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-08-22_0000",
+        "nd_2026-08-22_0001",
+        "nd_2026-08-22_0002",
+        "nd_2026-08-22_0010"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Muere a los 92 años Nancy Kissinger, viuda y consejera del histórico ex secretario de Estado Henry Kissinger",
+        "en": "Spain's Secretary of State for Health discusses health priorities with WHO"
+      },
+      "sintesis": {
+        "es": "Considerada la consejera más cercana de su marido durante los años clave de la Guerra Fría, ejerció una notable influencia entre bambalinas en la política exterior estadounidense sin ostentar nunca un cargo diplomático formal Leer",
+        "en": "WHO welcomed Mr Javier Padilla Bernáldez, Spain’s Secretary of State for Health and his delegation on 23 and 24 April 2024 to discuss joint global health priorities. Amongst others, Spain's focus is on universal health coverage and health systems strengthening; pandemic response and emergency medical teams; organ and tissue transplantation; malaria and other tropical diseases; and polio. During the visit, participants focused on plans and on-going work across a number of areas, including WHO’s Transplantation Program to increase availability; ethical access and oversight of transplantation of human cells; tissues and organs."
+      },
+      "categoria": "salud",
+      "actores": [
+        "Nancy Kissinger",
+        "State",
+        "Muere",
+        "Estado Henry"
+      ],
+      "geo": {
+        "lat": 40.5,
+        "lon": -3.7,
+        "region": "Europa"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_fa9d67e635",
+        "ev_f30c5492f4",
+        "ev_3cbb1870b5"
+      ],
+      "cluster_id": "cl_123",
+      "imagenes": [
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/21/17872937918389.jpg",
+        "https://static01.nyt.com/images/2026/08/20/multimedia/20Kissinger-Nancy-plfg/20Kissinger-Nancy-plfg-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_fa9d67e635",
+          "titulo": "Muere a los 92 años Nancy Kissinger, viuda y consejera del histórico ex secretario de Estado Henry Kissinger",
+          "url": "https://www.elmundo.es/internacional/2026/08/21/6a87f0bce9cf4a96178b4575.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 21 Aug 2026 08:31:43 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f30c5492f4",
+          "titulo": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
+          "url": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 21 Aug 2026 02:14:30 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3cbb1870b5",
+          "titulo": "Spain's Secretary of State for Health discusses health priorities with WHO",
+          "url": "https://www.who.int/news/item/25-04-2024-spain-s-secretary-of-state-for-health-discusses-joint-global-health-priorities-with-who",
+          "fuente": "WHO News",
+          "fecha": "Thu, 25 Apr 2024 08:39:54 Z",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-22_0007",
+      "fecha": "2026-08-22",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-22_0005"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "TikTok agrees to $400m settlement to resolve US children’s privacy litigation",
+        "en": "TikTok agrees to $400m settlement to resolve US children’s privacy litigation"
+      },
+      "sintesis": {
+        "es": "The DoJ sued TikTok and its former parent company in August 2024 for allegedly failing to protect children’s privacy and collecting their information ⁠TikTok and its Chinese former parent company ByteDance on Friday agreed to a $400m settlement to resolve the US Department of Justice’s allegations that the short-form video app ⁠violated children’s online ⁠privacy. The justice ​department sued TikTok and ByteDance in 2024 for allegedly failing to protect children’s privacy and illegally collecting their information. The defendants were accused ⁠of violating a law requiring online services aimed at children to obtain parental consent to collect personal information from users under age 13.",
+        "en": "The DoJ sued TikTok and its former parent company in August 2024 for allegedly failing to protect children’s privacy and collecting their information ⁠TikTok and its Chinese former parent company ByteDance on Friday agreed to a $400m settlement to resolve the US Department of Justice’s allegations that the short-form video app ⁠violated children’s online ⁠privacy. The justice ​department sued TikTok and ByteDance in 2024 for allegedly failing to protect children’s privacy and illegally collecting their information. The defendants were accused ⁠of violating a law requiring online services aimed at children to obtain parental consent to collect personal information from users under age 13."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "TikTok",
+        "Justice Department",
+        "DOJ"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_07e0f46d7b",
+        "ev_8671c4ecf4",
+        "ev_8b52a936c1",
+        "ev_c6b1e76125"
+      ],
+      "cluster_id": "cl_144",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg",
+        "https://i.guim.co.uk/img/media/b2d9653bdd6c451e907821d5aa66ec50260b3dff/191_288_6470_5176/master/6470.jpg?width=140&quality=85&auto=format&fit=max&s=8dbb8a6b09cdaed7f153282b88567832"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_07e0f46d7b",
+          "titulo": "TikTok to pay $400m to US in one of largest child privacy settlements",
+          "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 21 Aug 2026 22:36:12 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8671c4ecf4",
+          "titulo": "TikTok agrees to $400m settlement to resolve US children’s privacy litigation",
+          "url": "https://www.theguardian.com/technology/2026/aug/21/tiktok-settlement-children-privacy",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 21 Aug 2026 22:05:24 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8b52a936c1",
+          "titulo": "TikTok settles with US Justice Department for $400m over child privacy laws",
+          "url": "https://www.aljazeera.com/economy/2026/8/21/tiktok-settles-with-us-justice-department-for-400m-over-child-privacy-laws?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Fri, 21 Aug 2026 21:59:29 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c6b1e76125",
+          "titulo": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+          "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+          "fuente": "The Verge",
+          "fecha": "",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-22_0008",
+      "fecha": "2026-08-22",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Sword attack at school in Sweden leaves one person dead and two others injured",
+        "en": "Sword attack at school in Sweden leaves one person dead and two others injured"
+      },
+      "sintesis": {
+        "es": "Hundreds of students were attending classes at the school when an 18-year-old with a sword attacked multiple people, police say",
+        "en": "Hundreds of students were attending classes at the school when an 18-year-old with a sword attacked multiple people, police say"
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "One",
+        "Swedish",
+        "Sword",
+        "Sweden"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_41ef2c7bbf",
+        "ev_0bd98c1d77",
+        "ev_95e9710c17",
+        "ev_cbff0bc156"
+      ],
+      "cluster_id": "cl_147",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
+        "https://e3.365dm.com/26/08/1920x1080/skynews-sweden-sword_7327520.jpg?20260821172337",
+        "https://static.independent.co.uk/2026/08/21/21/2290780071..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_41ef2c7bbf",
+          "titulo": "One killed in sword attack at Swedish school",
+          "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 21 Aug 2026 21:03:24 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0bd98c1d77",
+          "titulo": "One killed, three wounded in sword attack at Swedish high school",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-2026-sweden-sword-attack-clip?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Fri, 21 Aug 2026 21:23:35 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_95e9710c17",
+          "titulo": "One dead after teenager carries out sword attack at Swedish school",
+          "url": "https://news.sky.com/story/sword-wielding-attacker-injures-several-people-at-swedish-school-13575399",
+          "fuente": "Sky News World",
+          "fecha": "Fri, 21 Aug 2026 12:59:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cbff0bc156",
+          "titulo": "Sword attack at school in Sweden leaves one person dead and two others injured",
+          "url": "https://www.independent.co.uk/news/world/europe/sweden-sword-attack-fagersta-school-b3037346.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 21 Aug 2026 20:42:31 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-22_0009",
+      "fecha": "2026-08-22",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "¿Qué es fenómeno de El Niño y por qué preocupa a las autoridades meteorológicas?",
+        "en": "Britain’s railway prepares for more extreme weather as intense El Niño develops"
+      },
+      "sintesis": {
+        "es": "El Niño es un fenómeno climático global que se produce cada pocos años. Consiste en un aumento de la temperatura de la superficie del mar en el Pacífico central, que se extiende hacia el oriental en dirección a Sudamérica, provocando temperaturas más cálidas en todo el mundo, según expertos. El avance del fenómeno suscita preocupaciones en las autoridades meteorológicas de todo el mundo, pues ya ha generado intensas lluvias e inundaciones en Sudamérica y Estados Unidos, además de provocar sequías en el sur de África y el sudeste asiático.",
+        "en": "Experts say more must be done to adapt to changing climate, after two trains derailed within 24 hours during a recent heatwave Railway companies are racing to prepare for another brutal summer next year, as a developing El Niño could see 2027 break more heat-related records. Britain’s railway system has already been under stress from extreme heat this summer, with several operators reducing timetables and train speeds. Continue reading..."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Britain"
       ],
       "geo": {
         "lat": 39.8,
         "lon": -98.6,
         "region": "Norteamerica"
       },
-      "impacto": 83,
+      "impacto": 57,
       "fuentes": [
-        "ev_b6ae2cb036",
-        "ev_fb20923fc7",
-        "ev_7a1299e208",
-        "ev_e2d62d67e6",
-        "ev_c34d8df301",
-        "ev_f8f41ed333",
-        "ev_ad9f8672db"
+        "ev_36c9016819",
+        "ev_b32f2ef137",
+        "ev_0d0654ebb4"
       ],
-      "cluster_id": "cl_153",
+      "cluster_id": "cl_054",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f73b/live/1c118420-9c76-11f1-b109-879e35c24276.jpg",
-        "https://i.guim.co.uk/img/media/f1aa4a62b7bca7ec7ccef5c7cec998317506896c/139_0_4632_3706/master/4632.jpg?width=140&quality=85&auto=format&fit=max&s=cb843d83df020307c5d80dcd9644006b",
-        "https://static01.nyt.com/images/2026/08/20/multimedia/20int-japan-icc-01-gtjv/20int-japan-icc-01-gtjv-mediumSquareAt3X.jpg",
-        "https://static01.nyt.com/images/2026/08/20/multimedia/20dc-military-korea-photo-fmcv/20dc-military-korea-photo-fmcv-mediumSquareAt3X.jpg"
+        "https://s.france24.com/media/display/c137aab4-9da3-11f1-abf8-005056a90284/w:1024/p:16x9/ES-20260821-130743-130953-CS.jpg",
+        "https://i.guim.co.uk/img/media/6ec7c70476f838932ca82f465ab018db554f5c3f/461_0_6010_4807/master/6010.jpg?width=140&quality=85&auto=format&fit=max&s=08b8db0380468c0b45c6c7508286003d",
+        "https://static.independent.co.uk/2026/08/21/20/39/GettyImages-818986040.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_b6ae2cb036",
-          "titulo": "Trump wants to be friends with Kim - but South Korea could pay the price",
-          "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 20 Aug 2026 22:01:26 GMT",
-          "idioma": "en"
+          "id": "ev_36c9016819",
+          "titulo": "¿Qué es fenómeno de El Niño y por qué preocupa a las autoridades meteorológicas?",
+          "url": "https://www.france24.com/es/video/20260821-qu%C3%A9-es-fen%C3%B3meno-de-el-ni%C3%B1o-y-por-qu%C3%A9-preocupa-a-las-autoridades-meteorol%C3%B3gicas",
+          "fuente": "France 24 Espanol",
+          "fecha": "Fri, 21 Aug 2026 21:52:09 GMT",
+          "idioma": "es"
         },
         {
-          "id": "ev_fb20923fc7",
-          "titulo": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
-          "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
+          "id": "ev_b32f2ef137",
+          "titulo": "Britain’s railway prepares for more extreme weather as intense El Niño develops",
+          "url": "https://www.theguardian.com/environment/2026/aug/21/britains-railway-prepares-for-more-extreme-weather-as-intense-el-nino-develops",
           "fuente": "The Guardian World",
-          "fecha": "Thu, 20 Aug 2026 10:25:29 GMT",
+          "fecha": "Fri, 21 Aug 2026 18:07:51 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_7a1299e208",
-          "titulo": "North Korea fires a suspected missile toward the sea, Japan says",
-          "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-          "fuente": "NPR News",
-          "fecha": "Thu, 20 Aug 2026 05:24:45 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e2d62d67e6",
-          "titulo": "North Korea fires up to 10 ballistic missiles toward sea, hours after Trump speaks of re-engagement",
-          "url": "https://www.cbc.ca/news/world/north-korea-missile-launch-ulchi-freedom-trump-9.7313643?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Thu, 20 Aug 2026 07:58:09 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c34d8df301",
-          "titulo": "Japan’s U.S. Ties Could Not Save a Top Judge From Trump’s I.C.C. Sanctions",
-          "url": "https://www.nytimes.com/2026/08/20/world/asia/japan-trump-icc-judge-sanctions.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 20 Aug 2026 21:22:10 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f8f41ed333",
-          "titulo": "Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
-          "url": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 20 Aug 2026 09:04:19 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ad9f8672db",
-          "titulo": "US, South Korean militaries wrapping up drills early, a day after North Korea's missile barrage",
-          "url": "https://www.independent.co.uk/news/world/americas/donald-trump-kim-jong-un-north-korea-south-korean-pentagon-b3036797.html",
+          "id": "ev_0d0654ebb4",
+          "titulo": "This year’s devastating El Niño event could be the ‘strongest in a lifetime’",
+          "url": "https://www.independent.co.uk/climate-change/el-nino-climate-change-weather-record-us-forecast-b3037320.html",
           "fuente": "The Independent World",
-          "fecha": "Fri, 21 Aug 2026 05:01:57 GMT",
+          "fecha": "Fri, 21 Aug 2026 22:23:44 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-21_0004",
-      "fecha": "2026-08-21",
+      "id": "nd_2026-08-22_0010",
+      "fecha": "2026-08-22",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-21_0000",
-        "nd_2026-08-21_0006",
-        "nd_2026-08-21_0008",
-        "nd_2026-08-21_0011"
+        "nd_2026-08-22_0001",
+        "nd_2026-08-22_0006"
       ]
     },
     {
@@ -590,21 +1139,17 @@
         "lon": 69.3,
         "region": "Asia Meridional"
       },
-      "impacto": 83,
+      "impacto": 53,
       "fuentes": [
         "ev_1f38d4eb1d",
         "ev_e6c7baba0c",
-        "ev_7896279ca6",
-        "ev_492135f8b6",
-        "ev_8cae8a8bd3",
-        "ev_205eaae387"
+        "ev_8cae8a8bd3"
       ],
-      "cluster_id": "cl_155",
+      "cluster_id": "cl_154",
       "imagenes": [
         "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f281/live/3dc58f60-9d09-11f1-a291-b542ee92de7c.jpg",
         "https://i.guim.co.uk/img/media/96766fdecb9254b8699c680a0c29d97bfc8e18d1/350_0_6801_5440/master/6801.jpg?width=140&quality=85&auto=format&fit=max&s=7ee4a22ef28d4039349bee6a942e786b",
-        "https://static01.nyt.com/images/2026/08/20/multimedia/20int-pakistan-new1-tkwc/20int-pakistan-new1-tkwc-mediumSquareAt3X.jpg",
-        "https://e3.365dm.com/26/08/1920x1080/skynews-pakistan-imrankhan_7326886.jpg?20260820222756"
+        "https://static01.nyt.com/images/2026/08/20/multimedia/20int-pakistan-new1-tkwc/20int-pakistan-new1-tkwc-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
@@ -613,7 +1158,7 @@
           "titulo": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
           "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Fri, 21 Aug 2026 04:27:13 GMT",
+          "fecha": "Fri, 21 Aug 2026 10:46:09 GMT",
           "idioma": "en"
         },
         {
@@ -625,391 +1170,16 @@
           "idioma": "en"
         },
         {
-          "id": "ev_7896279ca6",
-          "titulo": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 21 Aug 2026 03:08:09 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_492135f8b6",
-          "titulo": "Pakistan’s ex-PM Imran Khan back in jail after brief hospital visit",
-          "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Thu, 20 Aug 2026 21:18:10 +0000",
-          "idioma": "en"
-        },
-        {
           "id": "ev_8cae8a8bd3",
           "titulo": "Imran Khan Is Granted Brief Hospital Visit Before Returning to Prison",
           "url": "https://www.nytimes.com/2026/08/20/world/asia/imran-khan-hospital-pakistan.html",
           "fuente": "NYT World",
-          "fecha": "Fri, 21 Aug 2026 05:01:02 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_205eaae387",
-          "titulo": "Ex-Pakistani PM returns to prison after hospital treatment",
-          "url": "https://news.sky.com/story/former-pakistan-prime-minister-imran-khan-moved-from-prison-to-hospital-for-treatment-13575207",
-          "fuente": "Sky News World",
-          "fecha": "Thu, 20 Aug 2026 22:14:00 +0100",
+          "fecha": "Fri, 21 Aug 2026 10:44:07 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-21_0005",
-      "fecha": "2026-08-21",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "El Niño golpea a América Latina: sequías y alerta en el Canal de Panamá",
-        "en": "US sends hospital ship as potentially historic El Niño bears down on Latin America"
-      },
-      "sintesis": {
-        "es": "El fenómeno de El Niño está golpeando con fuerza a América Latina: desde México hasta Chile se reportan sequías, inundaciones y temperaturas extremas. El corredor seco de Honduras, El Salvador y Nicaragua es la zona más afectada, mientras que el Canal de Panamá anunció la reducción de operaciones por el bajo nivel del agua.",
-        "en": "The United States plans to send a military hospital ship to Peru’s Pacific coast next year to help with the effects of El Nino"
-      },
-      "categoria": "clima",
-      "actores": [
-        "Latina",
-        "Ecuador",
-        "Lorca",
-        "Canal"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 82,
-      "fuentes": [
-        "ev_86ee52cdd7",
-        "ev_dff564da0a",
-        "ev_48519cfca6",
-        "ev_3ac3d0ecb1",
-        "ev_699dbe5cfe"
-      ],
-      "cluster_id": "cl_019",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e6b1/live/d2a1b030-9a7c-11f1-85bb-779ae48e4486.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ce5/live/366b0e60-9a21-11f1-aed2-8d6da8d75094.jpg",
-        "https://s.france24.com/media/display/47c23390-9cfc-11f1-8634-005056a90284/w:1024/p:16x9/ES-20260820-190138-190334-CS.jpg",
-        "https://static.independent.co.uk/2026/08/20/01/Peru_US_El_Nino_77_95.jpg?width=1200&auto=webp&crop=3%3A2"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_86ee52cdd7",
-          "titulo": "La niña de 10 años traficada de Perú a Ecuador para casarse con un hombre de 50 (y qué revela sobre el matrimonio infantil en América Latina)",
-          "url": "https://www.bbc.com/mundo/articles/c5yvrnqd2pdo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Tue, 18 Aug 2026 11:54:04 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_dff564da0a",
-          "titulo": "Cómo fue la profunda relación de amor de García Lorca con América Latina (y el viaje a México que pudo haberle salvado la vida)",
-          "url": "https://www.bbc.com/mundo/articles/cgk4510ddr6o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Tue, 18 Aug 2026 17:48:03 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_48519cfca6",
-          "titulo": "El Niño golpea a América Latina: sequías y alerta en el Canal de Panamá",
-          "url": "https://www.france24.com/es/video/20260821-el-ni%C3%B1o-golpea-a-am%C3%A9rica-latina-sequ%C3%ADas-y-alerta-en-el-canal-de-panam%C3%A1",
-          "fuente": "France 24 Espanol",
-          "fecha": "Fri, 21 Aug 2026 01:14:32 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_3ac3d0ecb1",
-          "titulo": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
-          "url": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 21 Aug 2026 01:12:02 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_699dbe5cfe",
-          "titulo": "US sends hospital ship as potentially historic El Niño bears down on Latin America",
-          "url": "https://www.independent.co.uk/news/world/americas/usns-comfort-peru-hospital-ship-b3036221.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 20 Aug 2026 09:33:27 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-21_0006",
-      "fecha": "2026-08-21",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-21_0004",
-        "nd_2026-08-21_0008",
-        "nd_2026-08-21_0011"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "The Republic of Korea and WHO discuss joint priorities, challenges and trends around global health",
-        "en": "The Republic of Korea and WHO discuss joint priorities, challenges and trends around global health"
-      },
-      "sintesis": {
-        "es": "The World Health Organization (WHO) and the Republic of Korea have a long-standing partnership spanning over 75 years. As a result of their fruitful collaboration, there has been significant progress in health and development all around the world. The Republic of Korea has gone from being a donor-recipient country to a donor-country and is now a leader in global health and playing a critical role on the world stage.",
-        "en": "The World Health Organization (WHO) and the Republic of Korea have a long-standing partnership spanning over 75 years. As a result of their fruitful collaboration, there has been significant progress in health and development all around the world. The Republic of Korea has gone from being a donor-recipient country to a donor-country and is now a leader in global health and playing a critical role on the world stage."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Ebola",
-        "Congo",
-        "Democratic Republic",
-        "Epidemic"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 82,
-      "fuentes": [
-        "ev_e1d7f08754",
-        "ev_4cea71cf68",
-        "ev_b8e4ec1977",
-        "ev_6d505bdf7c",
-        "ev_fe2f0e3c69",
-        "ev_6496b39860",
-        "ev_e3a05f226b",
-        "ev_297f2ac379"
-      ],
-      "cluster_id": "cl_172",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/a393063cc2d82e5b3b20c44e22654a645b95ab37/581_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e627dfdebce0f22e71d4b8bb71204ef6",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-05-2026-UNICEF-DR-Congo-ebola.jpg/image560x340cropped.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/21-07-2026-UNOCHA-DR-Congo-ebola.jpg/image560x340cropped.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/14-08-2026-MONUSCO-DR-Congo-ebola-02.jpg/image560x340cropped.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e1d7f08754",
-          "titulo": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-          "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 17 Aug 2026 14:07:31 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4cea71cf68",
-          "titulo": "Ebola outbreak becomes deadliest in DR Congo’s history",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168154",
-          "fuente": "UN News",
-          "fecha": "Mon, 17 Aug 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b8e4ec1977",
-          "titulo": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168148",
-          "fuente": "UN News",
-          "fecha": "Fri, 14 Aug 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6d505bdf7c",
-          "titulo": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
-          "url": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Thu, 20 Aug 2026 20:10:42 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_fe2f0e3c69",
-          "titulo": "DR Congo to receive 70,000 doses of Ebola vaccine used in past outbreaks, WHO says",
-          "url": "http://www.euronews.com/health/2026/08/20/dr-congo-to-receive-70000-doses-of-ebola-vaccine-used-in-past-outbreaks-who-says",
-          "fuente": "Euronews English",
-          "fecha": "Thu, 20 Aug 2026 16:08:41 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6496b39860",
-          "titulo": "Former rebel fighters join campaign against Ebola in the DR Congo",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168146",
-          "fuente": "UN News",
-          "fecha": "Sat, 15 Aug 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e3a05f226b",
-          "titulo": "Ebola tracing improves in DR Congo – but the virus is still winning the race",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168137",
-          "fuente": "UN News",
-          "fecha": "Thu, 13 Aug 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_297f2ac379",
-          "titulo": "The Republic of Korea and WHO discuss joint priorities, challenges and trends around global health",
-          "url": "https://www.who.int/news/item/29-08-2024-the-republic-of-korea-and-who-discuss-joint-priorities--challenges-and-trends-around-global-health",
-          "fuente": "WHO News",
-          "fecha": "Wed, 04 Sep 2024 09:19:05 Z",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-21_0007",
-      "fecha": "2026-08-21",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Llega a Oriente Próximo el portaaviones de EE UU que relevará al atribulado ‘Abraham Lincoln’",
-        "en": "Meth trafficking across Middle East becoming more advanced, UNODC warns"
-      },
-      "sintesis": {
-        "es": "La tripulación acumula siete meses de servicio durante la guerra contra Irán, con denuncias sobre un serio deterioro en sus condiciones sanitarias, de salud mental y de alimentación",
-        "en": "Authorities in Iran intercepted 3,663 kilogrammes of methamphetamines headed for Europe and the Persian Gulf in the first quarter of 2026, according to the UN’s drugs and crime fighting agency (UNODC)."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Middle East",
-        "Llega",
-        "Oriente",
-        "Abraham Lincoln"
-      ],
-      "geo": {
-        "lat": 38.9,
-        "lon": -77.0,
-        "region": "Norteamerica"
-      },
-      "impacto": 78,
-      "fuentes": [
-        "ev_7e0c42d27c",
-        "ev_f1f8250c27",
-        "ev_15d6bbcd83",
-        "ev_94a9f3760e"
-      ],
-      "cluster_id": "cl_030",
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/OC7K7QZXCVMVTNDEHQD3GO2IN4.jpg?auth=41519c7dcb2bfb79541f93a73f8c3b747bf2ce7708e48ea1e2f2e4dd761bfa9a",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Graphics%20Library/2026/08/14-08-2026-UNODC-infographic.jpg/image560x340cropped.jpg",
-        "https://static.independent.co.uk/2026/08/20/18/2026-08-19T143103Z_702194656_RC2PZMAOUIBH_RTRMADP_3_IRAN-CRISIS-USA-CARRIER.JPG?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_7e0c42d27c",
-          "titulo": "Llega a Oriente Próximo el portaaviones de EE UU que relevará al atribulado ‘Abraham Lincoln’",
-          "url": "https://elpais.com/internacional/2026-08-20/llega-a-oriente-proximo-el-portaaviones-de-ee-uu-que-relevara-al-atribulado-abraham-lincoln.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Thu, 20 Aug 2026 19:57:31 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f1f8250c27",
-          "titulo": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
-          "url": "http://www.euronews.com/2026/08/20/new-us-carrier-strike-group-arrives-in-middle-east-to-relieve-long-deployed-uss-abraham-li",
-          "fuente": "Euronews English",
-          "fecha": "Thu, 20 Aug 2026 18:01:42 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_15d6bbcd83",
-          "titulo": "Meth trafficking across Middle East becoming more advanced, UNODC warns",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168142",
-          "fuente": "UN News",
-          "fecha": "Fri, 14 Aug 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_94a9f3760e",
-          "titulo": "USS Lincoln’s replacement arrives in Middle East after worries over troops’ mental health",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/uss-lincoln-conditions-george-washington-middle-east-b3036561.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 20 Aug 2026 18:55:25 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-21_0008",
-      "fecha": "2026-08-21",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-21_0004",
-        "nd_2026-08-21_0006",
-        "nd_2026-08-21_0011"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-        "en": "900 obstacles and counting: West Bank families trapped as aid access shrinks"
-      },
-      "sintesis": {
-        "es": "Humanitarians continue to provide life-saving assistance to people across the Occupied Palestinian Territory despite facing obstacles such as checkpoints, instability and access restrictions, the United Nations said on Friday.",
-        "en": "Humanitarians continue to provide life-saving assistance to people across the Occupied Palestinian Territory despite facing obstacles such as checkpoints, instability and access restrictions, the United Nations said on Friday."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "West Bank",
-        "Israel",
-        "France",
-        "Germany"
-      ],
-      "geo": {
-        "lat": 51.2,
-        "lon": 10.4,
-        "region": "Europa"
-      },
-      "impacto": 66,
-      "fuentes": [
-        "ev_194e45c68c",
-        "ev_1b7ac09b26",
-        "ev_b6e0c17024",
-        "ev_73b2f83fb1"
-      ],
-      "cluster_id": "cl_146",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg",
-        "https://static01.nyt.com/images/2026/08/18/multimedia/18int-WEST-BANK-ECONOMY-top-hjvl/18int-WEST-BANK-ECONOMY-top-hjvl-mediumSquareAt3X.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-02-2025_UNFPA_West-Bank.jpg/image560x340cropped.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_194e45c68c",
-          "titulo": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-          "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 20 Aug 2026 18:55:14 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1b7ac09b26",
-          "titulo": "European leaders demand Israel halt controversial E1 settlement project in West Bank",
-          "url": "http://www.euronews.com/my-europe/2026/08/20/european-leaders-demand-israel-halt-controversial-e1-settlement-project-in-west-bank",
-          "fuente": "Euronews English",
-          "fecha": "Thu, 20 Aug 2026 20:22:40 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b6e0c17024",
-          "titulo": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
-          "url": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
-          "fuente": "NYT World",
-          "fecha": "Tue, 18 Aug 2026 16:23:50 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_73b2f83fb1",
-          "titulo": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168147",
-          "fuente": "UN News",
-          "fecha": "Fri, 14 Aug 2026 12:00:00 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-21_0009",
-      "fecha": "2026-08-21",
+      "id": "nd_2026-08-22_0011",
+      "fecha": "2026-08-22",
       "kardashev": "K0",
       "relaciones": []
     },
@@ -1034,28 +1204,20 @@
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 51,
+      "impacto": 53,
       "fuentes": [
-        "ev_5f3998f5e3",
         "ev_b04ed50023",
-        "ev_298476c183"
+        "ev_36ea5c3284",
+        "ev_d1c17976bc"
       ],
-      "cluster_id": "cl_158",
+      "cluster_id": "cl_241",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc1c/live/a8086e60-9c69-11f1-827b-69a6492daae1.jpg",
         "https://static01.nyt.com/images/2026/08/20/multimedia/20xp-belgium-son/20xp-belgium-son-mediumSquareAt3X-v2.jpg",
+        "https://e3.365dm.com/26/08/1920x1080/skynews-belgium-prince-vandenkerckhove_7327086.png?20260821103508",
         "https://static.independent.co.uk/2026/08/20/20/37/b941b6e0-9c7e-11f1-9653-11ace0f67d4d-jpg.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       ],
       "estado": "verificado",
       "referencias": [
-        {
-          "id": "ev_5f3998f5e3",
-          "titulo": "Belgian car salesman becomes prince after royal parentage confirmed",
-          "url": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 20 Aug 2026 10:14:47 GMT",
-          "idioma": "en"
-        },
         {
           "id": "ev_b04ed50023",
           "titulo": "A Prince at 26: Once-Secret Son of Belgian Royal Gains Legal Recognition",
@@ -1065,202 +1227,89 @@
           "idioma": "en"
         },
         {
-          "id": "ev_298476c183",
-          "titulo": "Former car salesman becomes Belgian prince after parentage confirmed",
-          "url": "https://www.independent.co.uk/news/world/europe/belgium-car-salesman-prince-clement-vandenkerckhove-b3036664.html",
+          "id": "ev_36ea5c3284",
+          "titulo": "Ex-car salesman becomes Belgian prince as royal paternity confirmed",
+          "url": "https://news.sky.com/story/ex-car-salesman-becomes-belgian-prince-as-father-officially-recognises-paternity-13575309",
+          "fuente": "Sky News World",
+          "fecha": "Fri, 21 Aug 2026 10:20:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d1c17976bc",
+          "titulo": "How a former car salesman became a Belgian prince after DNA test proved he was royalty",
+          "url": "https://www.independent.co.uk/news/world/europe/belgium-prince-dna-car-salesman-b3036911.html",
           "fuente": "The Independent World",
-          "fecha": "Thu, 20 Aug 2026 21:07:53 GMT",
+          "fecha": "Fri, 21 Aug 2026 13:46:27 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-21_0010",
-      "fecha": "2026-08-21",
+      "id": "nd_2026-08-22_0012",
+      "fecha": "2026-08-22",
       "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-        "en": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal"
+        "es": "Accused in Tupac Shakur murder trial says nephew fired the fatal shots in 1996 drive-by shooting",
+        "en": "Accused in Tupac Shakur murder trial says nephew fired the fatal shots in 1996 drive-by shooting"
       },
       "sintesis": {
-        "es": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African country receive as many as 1,200 people under the Trump administration ’s immigration crackdown. The group arrived at the Roberts international airport outside the capital, Monrovia. The Liberia-US agreement is one of the largest third-country deportation arrangements pursued by the administration since Trump returned to office last year.",
-        "en": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African country receive as many as 1,200 people under the Trump administration ’s immigration crackdown. The group arrived at the Roberts international airport outside the capital, Monrovia. The Liberia-US agreement is one of the largest third-country deportation arrangements pursued by the administration since Trump returned to office last year."
+        "es": "Jurors on Thursday heard Duane (Keffe D) Davis tell detectives in an audio recording of a 2008 police interview that his nephew Orlando (Baby Lane) Anderson fired the shots that killed rapper Tupac Shakur. Davis is accused of orchestrating the 1996 killing of the 25-year-old hip-hop superstar.",
+        "en": "Jurors on Thursday heard Duane (Keffe D) Davis tell detectives in an audio recording of a 2008 police interview that his nephew Orlando (Baby Lane) Anderson fired the shots that killed rapper Tupac Shakur. Davis is accused of orchestrating the 1996 killing of the 25-year-old hip-hop superstar."
       },
       "categoria": "sociedad",
       "actores": [
-        "Liberia",
-        "Trump",
-        "First",
-        "Deportees"
+        "Tupac",
+        "Duane Davis",
+        "Accused",
+        "Tupac Shakur"
       ],
       "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
       },
-      "impacto": 51,
+      "impacto": 48,
       "fuentes": [
-        "ev_e0779fc33f",
-        "ev_8ebcfb6877",
-        "ev_829a2cb0de"
+        "ev_878f3d488c",
+        "ev_f5afb3b45c",
+        "ev_382588bad0"
       ],
-      "cluster_id": "cl_168",
+      "cluster_id": "cl_149",
       "imagenes": [
-        "https://i.guim.co.uk/img/media/e1640f0d7c0f429d968c7c729f4d6ea957a531f0/218_0_4284_3426/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=d4c757fefe1f876dc9aebf32f9cbbe82",
-        "https://static.independent.co.uk/2026/08/20/17/2290658332..?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-        "https://static01.nyt.com/images/2026/09/02/multimedia/20int-liberia-trump-deportees-1-fcjz/02int-liberia-trump-deportees-1-fcjz-mediumSquareAt3X.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37e6/live/437eb910-9d57-11f1-a291-b542ee92de7c.jpg",
+        "https://static.independent.co.uk/2026/08/21/07/2290737730..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_e0779fc33f",
-          "titulo": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-          "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-          "fuente": "The Guardian World",
-          "fecha": "Thu, 20 Aug 2026 19:57:59 GMT",
+          "id": "ev_878f3d488c",
+          "titulo": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+          "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 21 Aug 2026 18:09:38 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_8ebcfb6877",
-          "titulo": "First group of Trump’s third-country deportees arrive in Liberia from US",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/liberia-deportation-ice-trump-b3036533.html",
+          "id": "ev_f5afb3b45c",
+          "titulo": "Tupac murder jury hears Duane Davis name his nephew as rapper’s killer",
+          "url": "https://www.independent.co.uk/news/world/americas/crime/orlando-anderson-tupac-murder-trial-duane-davis-b3036842.html",
           "fuente": "The Independent World",
-          "fecha": "Thu, 20 Aug 2026 16:50:50 GMT",
+          "fecha": "Fri, 21 Aug 2026 07:07:01 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_829a2cb0de",
-          "titulo": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
-          "url": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 20 Aug 2026 22:18:55 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-21_0011",
-      "fecha": "2026-08-21",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-21_0000",
-        "nd_2026-08-21_0004",
-        "nd_2026-08-21_0006",
-        "nd_2026-08-21_0008"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "NASA Updates Next Steps for Commercial Swift Boost Mission",
-        "en": "NASA Updates Next Steps for Commercial Swift Boost Mission"
-      },
-      "sintesis": {
-        "es": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to […]",
-        "en": "Due to an ongoing commercial spacecraft attitude control issue, NASA and Katalyst Space announced Wednesday the LINK spacecraft will not capture or boost an agency satellite to a higher altitude to extend its science mission as planned. However, LINK still will attempt to conduct rendezvous and proximity operations with NASA’s Neil Gehrels Swift Observatory to […]"
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "NASA",
-        "Swift",
-        "NASA Updates",
-        "Next Steps"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 51,
-      "fuentes": [
-        "ev_b14bf383a0",
-        "ev_b59ca3c612",
-        "ev_e9bc6b2b07"
-      ],
-      "cluster_id": "cl_368",
-      "imagenes": [
-        "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-1152x648.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_b14bf383a0",
-          "titulo": "NASA will no longer attempt to save its aging Swift space telescope",
-          "url": "https://www.cbc.ca/news/science/nasa-not-saving-swift-telescope-9.7314041?cmp=rss",
+          "id": "ev_382588bad0",
+          "titulo": "Accused in Tupac Shakur murder trial says nephew fired the fatal shots in 1996 drive-by shooting",
+          "url": "https://www.cbc.ca/news/entertainment/tupac-trial-nephew-fatal-shots-9.7316050?cmp=rss",
           "fuente": "CBC World",
-          "fecha": "Thu, 20 Aug 2026 13:15:51 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b59ca3c612",
-          "titulo": "NASA Updates Next Steps for Commercial Swift Boost Mission",
-          "url": "https://www.nasa.gov/news-release/nasa-updates-next-steps-for-commercial-swift-boost-mission/",
-          "fuente": "NASA News",
-          "fecha": "Wed, 19 Aug 2026 18:08:25 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e9bc6b2b07",
-          "titulo": "NASA calls off mission to rescue Swift gamma-ray observatory",
-          "url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
-          "fuente": "Ars Technica",
-          "fecha": "Thu, 20 Aug 2026 00:18:48 +0000",
+          "fecha": "Fri, 21 Aug 2026 16:59:29 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-21_0012",
-      "fecha": "2026-08-21",
-      "kardashev": "K2",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Monte dei Paschi di Siena, el consejo aprueba 2 OPAs de canje sobre Banco Bpm y Banca Generali",
-        "en": "Monte dei Paschi board approves dual exchange offers for Banco Bpm and Banca Generali"
-      },
-      "sintesis": {
-        "es": "El plan del consejero delegado Luigi Lovaglio busca reforzar Mps y frenar la opa de Intesa Sanpaolo por 30.500 millones de euros, luz verde con nueve votos a favor y cuatro abstenciones.",
-        "en": "CEO Luigi Lovaglio's plan aims to bolster MPS and fend off Intesa Sanpaolo's 30.5-billion-euro Opas. Approved with nine votes in favour and four abstentions."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "Monte",
-        "Paschi",
-        "Banco Bpm",
-        "Banca Generali"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 50,
-      "fuentes": [
-        "ev_45f09a044c",
-        "ev_3785ead6f5"
-      ],
-      "cluster_id": "cl_090",
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_45f09a044c",
-          "titulo": "Monte dei Paschi di Siena, el consejo aprueba 2 OPAs de canje sobre Banco Bpm y Banca Generali",
-          "url": "http://es.euronews.com/business/2026/08/20/monte-dei-paschi-di-siena-el-consejo-aprueba-2-opas-de-canje-sobre-banco-bpm-y-banca-gener",
-          "fuente": "Euronews Espanol",
-          "fecha": "Thu, 20 Aug 2026 19:10:20 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_3785ead6f5",
-          "titulo": "Monte dei Paschi board approves dual exchange offers for Banco Bpm and Banca Generali",
-          "url": "http://www.euronews.com/business/2026/08/20/monte-dei-paschi-board-approves-dual-exchange-offers-for-banco-bpm-and-banca-generali",
-          "fuente": "Euronews English",
-          "fecha": "Thu, 20 Aug 2026 19:10:17 +0200",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-21_0013",
-      "fecha": "2026-08-21",
-      "kardashev": "K2",
+      "id": "nd_2026-08-22_0013",
+      "fecha": "2026-08-22",
+      "kardashev": "K0",
       "relaciones": []
     }
   ]

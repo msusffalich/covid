@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-08-21T05:23:14.300759+00:00",
+    "generado": "2026-08-22T05:17:17.476988+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 37,
-      "ultima_fecha": "2026-08-21",
+      "n_nodos": 36,
+      "ultima_fecha": "2026-08-22",
       "resumen": {
-        "es": "37 nodos registrados en el periodo. Lo mas reciente: “Día D”: la “guerra económica” de Trump contra Irán con la que promete un “aislamiento sin precedentes”.",
-        "en": "37 nodes recorded in the period. Most recent: Trump threatens Iran’s trade partners, as military strikes make way for economic pressure."
+        "es": "36 nodos registrados en el periodo. Lo mas reciente: Irán se declara en posición de fuerza y reclama el fin de la guerra.",
+        "en": "36 nodes recorded in the period. Most recent: Trump threatens Iran’s trade partners, as military strikes make way for economic pressure."
       },
       "estado": {
-        "es": "“Día D”: la “guerra económica” de Trump contra Irán con la que promete un “aislamiento sin precedentes”",
+        "es": "Irán se declara en posición de fuerza y reclama el fin de la guerra",
         "en": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure"
       },
       "serie": [
-        {
-          "fecha": "2026-08-01",
-          "max": 95,
-          "n": 2
-        },
         {
           "fecha": "2026-08-02",
           "max": 95,
@@ -123,9 +118,26 @@
           "fecha": "2026-08-21",
           "max": 95,
           "n": 2
+        },
+        {
+          "fecha": "2026-08-22",
+          "max": 95,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-08-22",
+          "titulo": {
+            "es": "Irán se declara en posición de fuerza y reclama el fin de la guerra",
+            "en": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure"
+          },
+          "impacto": 95,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-08-16/el-callejon-sin-salida-de-iran-suma-un-nuevo-problema-interno-a-trump.html",
+          "fuente": "El Pais Internacional"
+        },
         {
           "fecha": "2026-08-21",
           "titulo": {
@@ -257,18 +269,6 @@
           "kardashev": "K0",
           "url": "https://news.un.org/feed/view/en/story/2026/08/1168142",
           "fuente": "UN News"
-        },
-        {
-          "fecha": "2026-08-14",
-          "titulo": {
-            "es": "EE.UU. afirma que puede mantener indefinidamente el bloqueo naval a Irán mientras fracasan las negociaciones de alto el fuego",
-            "en": "US says it can maintain naval blockade on Iran indefinitely as ceasefire talks stall"
-          },
-          "impacto": 78,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss",
-          "fuente": "Al Jazeera"
         }
       ]
     },
@@ -500,22 +500,17 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 35,
-      "ultima_fecha": "2026-08-21",
+      "n_nodos": 36,
+      "ultima_fecha": "2026-08-22",
       "resumen": {
-        "es": "35 nodos registrados en el periodo. Lo mas reciente: 900 obstacles and counting: West Bank families trapped as aid access shrinks.",
-        "en": "35 nodes recorded in the period. Most recent: 900 obstacles and counting: West Bank families trapped as aid access shrinks."
+        "es": "36 nodos registrados en el periodo. Lo mas reciente: El ejército israelí reconoce haber disparado contra el vehículo en el que viajaba la niña Hind Rajab.",
+        "en": "36 nodes recorded in the period. Most recent: ‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision."
       },
       "estado": {
-        "es": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
-        "en": "900 obstacles and counting: West Bank families trapped as aid access shrinks"
+        "es": "El ejército israelí reconoce haber disparado contra el vehículo en el que viajaba la niña Hind Rajab",
+        "en": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision"
       },
       "serie": [
-        {
-          "fecha": "2026-08-01",
-          "max": 95,
-          "n": 2
-        },
         {
           "fecha": "2026-08-02",
           "max": 95,
@@ -610,9 +605,50 @@
           "fecha": "2026-08-21",
           "max": 66,
           "n": 1
+        },
+        {
+          "fecha": "2026-08-22",
+          "max": 95,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-08-22",
+          "titulo": {
+            "es": "El ejército israelí reconoce haber disparado contra el vehículo en el que viajaba la niña Hind Rajab",
+            "en": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision"
+          },
+          "impacto": 95,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/c4g41m1ezypo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
+        {
+          "fecha": "2026-08-22",
+          "titulo": {
+            "es": "Irán se declara en posición de fuerza y reclama el fin de la guerra",
+            "en": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure"
+          },
+          "impacto": 95,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-08-16/el-callejon-sin-salida-de-iran-suma-un-nuevo-problema-interno-a-trump.html",
+          "fuente": "El Pais Internacional"
+        },
+        {
+          "fecha": "2026-08-22",
+          "titulo": {
+            "es": "¿Puede Turquía lograr la detención de Netanyahu con una notificación roja de Interpol?",
+            "en": "Turkey seeks Interpol arrest warrant for Netanyahu over Gaza flotilla detention"
+          },
+          "impacto": 91,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-08-21/turquia-solicita-a-interpol-la-detencion-de-netanyahu-por-el-asalto-a-la-flotilla-con-destino-a-gaza.html",
+          "fuente": "El Pais Internacional"
+        },
         {
           "fecha": "2026-08-21",
           "titulo": {
@@ -720,42 +756,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-08-15",
-          "titulo": {
-            "es": "Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos",
-            "en": "Las acciones de extremistas israelíes en Cisjordania provocan el enfado de Estados Unidos"
-          },
-          "impacto": 83,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/c4gj41jl0npo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-08-15",
-          "titulo": {
-            "es": "Trump amenaza con declarar el estrecho de Ormuz territorio de EE. UU. mientras escala tensión con Irán",
-            "en": "Trump threatens to declare Strait of Hormuz US territory as tensions with Iran escalate"
-          },
-          "impacto": 78,
-          "categoria": "geopolitica",
-          "kardashev": "K0",
-          "url": "https://www.france24.com/es/medio-oriente/20260815-trump-eleva-la-tensi%C3%B3n-con-ir%C3%A1n-por-ormuz-y-pide-a-los-hogares-de-ee-uu-soportar-el-golpe-econ%C3%B3mico",
-          "fuente": "France 24 Espanol"
-        },
-        {
-          "fecha": "2026-08-15",
-          "titulo": {
-            "es": "Continúan labores de búsqueda de casi 400 desaparecidos tras terremoto en Cali, Colombia",
-            "en": "Search continues for nearly 400 missing after earthquake in Cali, Colombia"
-          },
-          "impacto": 72,
-          "categoria": "sociedad",
-          "kardashev": "K1",
-          "url": "https://www.france24.com/es/video/20260814-informe-desde-cali-contin%C3%BAan-labores-de-b%C3%BAsqueda-de-casi-400-desaparecidos",
-          "fuente": "France 24 Espanol"
         }
       ]
     },
@@ -766,22 +766,17 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 8,
+      "n_nodos": 7,
       "ultima_fecha": "2026-08-19",
       "resumen": {
-        "es": "8 nodos registrados en el periodo. Lo mas reciente: OpenAI lanza ChatGPT para adolescentes con nuevas medidas de seguridad.",
-        "en": "8 nodes recorded in the period. Most recent: OpenAI halts testing, slows development after model went rogue."
+        "es": "7 nodos registrados en el periodo. Lo mas reciente: OpenAI lanza ChatGPT para adolescentes con nuevas medidas de seguridad.",
+        "en": "7 nodes recorded in the period. Most recent: OpenAI halts testing, slows development after model went rogue."
       },
       "estado": {
         "es": "OpenAI lanza ChatGPT para adolescentes con nuevas medidas de seguridad",
         "en": "OpenAI halts testing, slows development after model went rogue"
       },
       "serie": [
-        {
-          "fecha": "2026-08-01",
-          "max": 53,
-          "n": 1
-        },
         {
           "fecha": "2026-08-07",
           "max": 45,
@@ -885,18 +880,6 @@
           "kardashev": "K0",
           "url": "http://es.euronews.com/next/2026/08/06/meta-lanza-la-herramienta-muse-code-en-plena-oleada-de-hackeos-de-ia",
           "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-08-01",
-          "titulo": {
-            "es": "Tech firm says its AI models hacked three companies during cyber tests",
-            "en": "Tech firm says its AI models hacked three companies during cyber tests"
-          },
-          "impacto": 53,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
         }
       ]
     },
@@ -907,15 +890,15 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 23,
-      "ultima_fecha": "2026-08-21",
+      "n_nodos": 24,
+      "ultima_fecha": "2026-08-22",
       "resumen": {
-        "es": "23 nodos registrados en el periodo. Lo mas reciente: El Niño golpea a América Latina: sequías y alerta en el Canal de Panamá.",
-        "en": "23 nodes recorded in the period. Most recent: US sends hospital ship as potentially historic El Niño bears down on Latin America."
+        "es": "24 nodos registrados en el periodo. Lo mas reciente: ¿Qué es fenómeno de El Niño y por qué preocupa a las autoridades meteorológicas?.",
+        "en": "24 nodes recorded in the period. Most recent: Britain’s railway prepares for more extreme weather as intense El Niño develops."
       },
       "estado": {
-        "es": "El Niño golpea a América Latina: sequías y alerta en el Canal de Panamá",
-        "en": "US sends hospital ship as potentially historic El Niño bears down on Latin America"
+        "es": "¿Qué es fenómeno de El Niño y por qué preocupa a las autoridades meteorológicas?",
+        "en": "Britain’s railway prepares for more extreme weather as intense El Niño develops"
       },
       "serie": [
         {
@@ -982,9 +965,26 @@
           "fecha": "2026-08-21",
           "max": 82,
           "n": 1
+        },
+        {
+          "fecha": "2026-08-22",
+          "max": 57,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-08-22",
+          "titulo": {
+            "es": "¿Qué es fenómeno de El Niño y por qué preocupa a las autoridades meteorológicas?",
+            "en": "Britain’s railway prepares for more extreme weather as intense El Niño develops"
+          },
+          "impacto": 57,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.france24.com/es/video/20260821-qu%C3%A9-es-fen%C3%B3meno-de-el-ni%C3%B1o-y-por-qu%C3%A9-preocupa-a-las-autoridades-meteorol%C3%B3gicas",
+          "fuente": "France 24 Espanol"
+        },
         {
           "fecha": "2026-08-21",
           "titulo": {
@@ -1116,18 +1116,6 @@
           "kardashev": "K1",
           "url": "https://www.france24.com/es/video/20260809-tif%C3%B3n-dolphin-toca-tierra-en-china-generando-fuertes-vientos-y-lluvias",
           "fuente": "France 24 Espanol"
-        },
-        {
-          "fecha": "2026-08-10",
-          "titulo": {
-            "es": "Incendio Bald Range fuera de control provoca estado de emergencia y evacuación masiva en Columbia Británica",
-            "en": "Out-of-control Bald Range wildfire triggers state of emergency and mass evacuation in British Columbia"
-          },
-          "impacto": 62,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
         }
       ]
     },
@@ -1138,22 +1126,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 30,
-      "ultima_fecha": "2026-08-21",
+      "n_nodos": 29,
+      "ultima_fecha": "2026-08-22",
       "resumen": {
-        "es": "30 nodos registrados en el periodo. Lo mas reciente: “Día D”: la “guerra económica” de Trump contra Irán con la que promete un “aislamiento sin precedentes”.",
-        "en": "30 nodes recorded in the period. Most recent: Trump threatens Iran’s trade partners, as military strikes make way for economic pressure."
+        "es": "29 nodos registrados en el periodo. Lo mas reciente: JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade.",
+        "en": "29 nodes recorded in the period. Most recent: JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade."
       },
       "estado": {
-        "es": "“Día D”: la “guerra económica” de Trump contra Irán con la que promete un “aislamiento sin precedentes”",
-        "en": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure"
+        "es": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
+        "en": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade"
       },
       "serie": [
-        {
-          "fecha": "2026-08-01",
-          "max": 95,
-          "n": 2
-        },
         {
           "fecha": "2026-08-03",
           "max": 62,
@@ -1238,9 +1221,26 @@
           "fecha": "2026-08-21",
           "max": 95,
           "n": 1
+        },
+        {
+          "fecha": "2026-08-22",
+          "max": 83,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-08-22",
+          "titulo": {
+            "es": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade",
+            "en": "JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump on trade"
+          },
+          "impacto": 83,
+          "categoria": "economia",
+          "kardashev": "K0",
+          "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
         {
           "fecha": "2026-08-21",
           "titulo": {
@@ -1372,18 +1372,6 @@
           "kardashev": "K1",
           "url": "https://elpais.com/opinion/2026-08-10/las-ultimas-elecciones-de-trump.html",
           "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-08-14",
-          "titulo": {
-            "es": "EE.UU. afirma que puede mantener indefinidamente el bloqueo naval a Irán mientras fracasan las negociaciones de alto el fuego",
-            "en": "US says it can maintain naval blockade on Iran indefinitely as ceasefire talks stall"
-          },
-          "impacto": 78,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/8/14/iran-war-live-us-eyes-indefinite-iran-naval-blockade?traffic_source=rss",
-          "fuente": "Al Jazeera"
         }
       ]
     }

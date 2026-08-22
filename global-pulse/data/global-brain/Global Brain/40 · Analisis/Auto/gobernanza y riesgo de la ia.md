@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-08-21
-nodos: 8
+actualizado: 2026-08-22
+nodos: 7
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-21. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-22. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-8 nodos registrados en el periodo. Lo mas reciente: OpenAI lanza ChatGPT para adolescentes con nuevas medidas de seguridad.
+7 nodos registrados en el periodo. Lo mas reciente: OpenAI lanza ChatGPT para adolescentes con nuevas medidas de seguridad.
 
 ## Trend summary (EN)
-8 nodes recorded in the period. Most recent: OpenAI halts testing, slows development after model went rogue.
+7 nodes recorded in the period. Most recent: OpenAI halts testing, slows development after model went rogue.
 
 > [!note] Estado actual
 > OpenAI lanza ChatGPT para adolescentes con nuevas medidas de seguridad
 
-## Nodos recientes (8 en la ventana)
+## Nodos recientes (7 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-19 | 58 | K2 | OpenAI lanza ChatGPT para adolescentes con nuevas medidas de seg |
@@ -30,6 +30,5 @@ origen: global-pulse
 | 2026-08-11 | 56 | K1 | El cáncer de próstata de Joe Biden se ha extendido a los huesos, |
 | 2026-08-10 | 43 | K1 | En Somalia, la inteligencia artificial ayuda a llevar alimentos  |
 | 2026-08-07 | 45 | K0 | Meta lanza la herramienta Muse Code en plena oleada de hackeos d |
-| 2026-08-01 | 53 | K1 | Tech firm says its AI models hacked three companies during cyber |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-08-21
+actualizado: 2026-08-22
 nodos: 17
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-21. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-22. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 17 nodos registrados en el periodo. Lo mas reciente: Detenido en Croacia un segundo sospechoso del sabotaje a Nord Stream en 2022.
