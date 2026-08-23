@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-08-22
-nodos: 24
+actualizado: 2026-08-23
+nodos: 23
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-22. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-23. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-24 nodos registrados en el periodo. Lo mas reciente: ¿Qué es fenómeno de El Niño y por qué preocupa a las autoridades meteorológicas?.
+23 nodos registrados en el periodo. Lo mas reciente: ¿Qué es fenómeno de El Niño y por qué preocupa a las autoridades meteorológicas?.
 
 ## Trend summary (EN)
-24 nodes recorded in the period. Most recent: Britain’s railway prepares for more extreme weather as intense El Niño develops.
+23 nodes recorded in the period. Most recent: Britain’s railway prepares for more extreme weather as intense El Niño develops.
 
 > [!note] Estado actual
 > ¿Qué es fenómeno de El Niño y por qué preocupa a las autoridades meteorológicas?
 
-## Nodos recientes (24 en la ventana)
+## Nodos recientes (23 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-22 | 57 | K1 | ¿Qué es fenómeno de El Niño y por qué preocupa a las autoridades |

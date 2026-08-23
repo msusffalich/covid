@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-08-22
-nodos: 36
+actualizado: 2026-08-23
+nodos: 34
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-22. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-23. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-36 nodos registrados en el periodo. Lo mas reciente: El ejército israelí reconoce haber disparado contra el vehículo en el que viajaba la niña Hind Rajab.
+34 nodos registrados en el periodo. Lo mas reciente: Exdiplomáticos piden sanciones contra Israel por acciones en los Territorios Palestinos.
 
 ## Trend summary (EN)
-36 nodes recorded in the period. Most recent: ‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision.
+34 nodes recorded in the period. Most recent: How will the British press cover Harry and Meghan this time around?.
 
 > [!note] Estado actual
-> El ejército israelí reconoce haber disparado contra el vehículo en el que viajaba la niña Hind Rajab
+> Exdiplomáticos piden sanciones contra Israel por acciones en los Territorios Palestinos
 
-## Nodos recientes (36 en la ventana)
+## Nodos recientes (34 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-23 | 95 | K1 | Exdiplomáticos piden sanciones contra Israel por acciones en los |
 | 2026-08-22 | 95 | K1 | El ejército israelí reconoce haber disparado contra el vehículo  |
 | 2026-08-22 | 95 | K1 | Irán se declara en posición de fuerza y reclama el fin de la gue |
 | 2026-08-22 | 91 | K1 | ¿Puede Turquía lograr la detención de Netanyahu con una notifica |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-17 | 83 | K1 | Israeli military plans to transfer law enforcement in occupied W |
 | 2026-08-17 | 78 | K1 | Ministro israelí Ben-Gvir pide matar a '30 o 40' palestinos por  |
 | 2026-08-17 | 75 | K2 | Gaza sigue en crisis humanitaria pese al alto el fuego |
-| 2026-08-16 | 68 | K1 | Ataques israelíes matan a 11 personas en el sur del Líbano en el |
 
 [[Global Brain — Inicio|← Inicio]]

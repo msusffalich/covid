@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-08-22
-nodos: 36
+actualizado: 2026-08-23
+nodos: 34
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-22. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-23. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-36 nodos registrados en el periodo. Lo mas reciente: Irán se declara en posición de fuerza y reclama el fin de la guerra.
+34 nodos registrados en el periodo. Lo mas reciente: ¿Puede Trump ahogar realmente a Irán? Las dudas sobre la efectividad de la nueva presión económica.
 
 ## Trend summary (EN)
-36 nodes recorded in the period. Most recent: Trump threatens Iran’s trade partners, as military strikes make way for economic pressure.
+34 nodes recorded in the period. Most recent: Trump threatens Iran’s trade partners, as military strikes make way for economic pressure.
 
 > [!note] Estado actual
-> Irán se declara en posición de fuerza y reclama el fin de la guerra
+> ¿Puede Trump ahogar realmente a Irán? Las dudas sobre la efectividad de la nueva presión económica
 
-## Nodos recientes (36 en la ventana)
+## Nodos recientes (34 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-23 | 95 | K1 | ¿Puede Trump ahogar realmente a Irán? Las dudas sobre la efectiv |
 | 2026-08-22 | 95 | K1 | Irán se declara en posición de fuerza y reclama el fin de la gue |
 | 2026-08-21 | 95 | K2 | “Día D”: la “guerra económica” de Trump contra Irán con la que p |
 | 2026-08-21 | 78 | K1 | Llega a Oriente Próximo el portaaviones de EE UU que relevará al |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-17 | 83 | K1 | Trump threatens to declare strait of Hormuz ‘territory of the Un |
 | 2026-08-16 | 85 | K1 | Guerra entre Estados Unidos e Irán se prolonga con presión sobre |
 | 2026-08-15 | 78 | K0 | Trump amenaza con declarar el estrecho de Ormuz territorio de EE |
-| 2026-08-15 | 57 | K0 | 2 UAE tankers attacked while transiting Strait of Hormuz, and ot |
 
 [[Global Brain — Inicio|← Inicio]]
