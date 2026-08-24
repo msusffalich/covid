@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-08-23
-nodos: 18
+actualizado: 2026-08-24
+nodos: 17
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-23. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-24. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-18 nodos registrados en el periodo. Lo mas reciente: Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief.
+17 nodos registrados en el periodo. Lo mas reciente: Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief.
 
 ## Trend summary (EN)
-18 nodes recorded in the period. Most recent: Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief.
+17 nodes recorded in the period. Most recent: Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief.
 
 > [!note] Estado actual
 > Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief
 
-## Nodos recientes (18 en la ventana)
+## Nodos recientes (17 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-23 | 83 | K0 | Attack on Ukraine shopping centre that killed 16 is ‘terror by d |

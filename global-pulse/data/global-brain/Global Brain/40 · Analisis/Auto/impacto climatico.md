@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-08-23
-nodos: 23
+actualizado: 2026-08-24
+nodos: 22
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-23. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-24. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-23 nodos registrados en el periodo. Lo mas reciente: ¿Qué es fenómeno de El Niño y por qué preocupa a las autoridades meteorológicas?.
+22 nodos registrados en el periodo. Lo mas reciente: Landslide at waste mound in Guinea capital kills 30, government says.
 
 ## Trend summary (EN)
-23 nodes recorded in the period. Most recent: Britain’s railway prepares for more extreme weather as intense El Niño develops.
+22 nodes recorded in the period. Most recent: Landslide at waste mound in Guinea capital kills 30, government says.
 
 > [!note] Estado actual
-> ¿Qué es fenómeno de El Niño y por qué preocupa a las autoridades meteorológicas?
+> Landslide at waste mound in Guinea capital kills 30, government says
 
-## Nodos recientes (23 en la ventana)
+## Nodos recientes (22 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-24 | 72 | K1 | Landslide at waste mound in Guinea capital kills 30, government  |
 | 2026-08-22 | 57 | K1 | ¿Qué es fenómeno de El Niño y por qué preocupa a las autoridades |
 | 2026-08-21 | 82 | K1 | El Niño golpea a América Latina: sequías y alerta en el Canal de |
 | 2026-08-18 | 48 | K1 | Puerto Rico enfrenta su peor sequía en una década con racionamie |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-14 | 68 | K2 | Rumania cierra su única central nuclear por caída histórica del  |
 | 2026-08-11 | 95 | K1 | Centenares de vuelos cancelados por la tormenta tropical Dolphin |
 | 2026-08-11 | 45 | K1 | 'We've had a lot of close calls': Canada wildfire evacuees wonde |
-| 2026-08-10 | 62 | K1 | Tifón Dolphin toca tierra en China tras azotar Japón, más de un  |
 
 [[Global Brain — Inicio|← Inicio]]

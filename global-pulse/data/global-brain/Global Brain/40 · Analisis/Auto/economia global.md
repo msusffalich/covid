@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-08-23
+actualizado: 2026-08-24
 nodos: 33
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-23. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-24. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-33 nodos registrados en el periodo. Lo mas reciente: Exdiplomáticos piden sanciones contra Israel por acciones en los Territorios Palestinos.
+33 nodos registrados en el periodo. Lo mas reciente: El rial iraní toca un mínimo histórico mientras Trump amenaza con una "guerra económica".
 
 ## Trend summary (EN)
-33 nodes recorded in the period. Most recent: How will the British press cover Harry and Meghan this time around?.
+33 nodes recorded in the period. Most recent: Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods.
 
 > [!note] Estado actual
-> Exdiplomáticos piden sanciones contra Israel por acciones en los Territorios Palestinos
+> El rial iraní toca un mínimo histórico mientras Trump amenaza con una "guerra económica"
 
 ## Nodos recientes (33 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-24 | 95 | K1 | El rial iraní toca un mínimo histórico mientras Trump amenaza co |
 | 2026-08-23 | 95 | K1 | Exdiplomáticos piden sanciones contra Israel por acciones en los |
 | 2026-08-23 | 74 | K0 | La deuda de EE. UU. supera cinco veces el PIB de toda América La |
 | 2026-08-23 | 72 | K1 | Colapsan negociaciones comerciales entre EE.UU. y Canadá; entran |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-18 | 83 | K0 | El presidente de Colombia pide a Trump la suspensión temporal de |
 | 2026-08-17 | 83 | K1 | Trump threatens to declare strait of Hormuz ‘territory of the Un |
 | 2026-08-16 | 85 | K1 | Guerra entre Estados Unidos e Irán se prolonga con presión sobre |
-| 2026-08-15 | 83 | K1 | Las acciones de extremistas israelíes en Cisjordania provocan el |
 
 [[Global Brain — Inicio|← Inicio]]
