@@ -1,532 +1,629 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-08-24",
-    "generado": "2026-08-24T05:28:53.891291+00:00",
+    "fecha": "2026-08-25",
+    "generado": "2026-08-25T05:22:39.802152+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 780,
-      "clusters": 528,
-      "nodos": 528,
-      "verificados": 528,
-      "duracion_s": 90.9
+      "piezas_ingeridas": 749,
+      "clusters": 505,
+      "nodos": 505,
+      "verificados": 505,
+      "duracion_s": 76.2
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "El rial iraní toca un mínimo histórico mientras Trump amenaza con una \"guerra económica\"",
-        "en": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods"
+        "es": "Arabia Saudita invertirá 6.000 millones de euros en tres parques temáticos cerca de París",
+        "en": "Saudi Arabia to invest €6 billion in theme parks near Paris, Macron says"
       },
       "sintesis": {
-        "es": "Mientras Estados Unidos amenaza con nuevas sanciones contra Irán, el rial iraní cayó a un mínimo histórico frente al dólar, según medios locales. Las autoridades iraníes relativizaron la amenaza de Donald Trump, quien dijo que libraría una \"guerra económica\" contra Teherán. Los residentes en la capital tienen opiniones encontradas sobre cómo debería actuar el Gobierno.",
-        "en": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them “dollar for dollar” after the collapse of trade talks. The tariffs came into force on roughly $20bn (£14.6bn) of goods – ranging from hockey sticks to tongue depressors – at 04.00GMT. Trade experts said the tariffs could result in some job losses, but the largest impact is expected to be political, driving a further wedge between the traditional allies."
+        "es": "Francia y Arabia Saudita firmaron un acuerdo para una inversión saudita de 6.000 millones de euros (7.000 millones de dólares) destinada a construir tres parques de diversiones cerca de París, uno de ellos posiblemente dedicado al manga. El anuncio se produjo durante la visita del príncipe heredero Mohammed bin Salman a Francia, centrada en acuerdos bilaterales y en la crisis en Medio Oriente.",
+        "en": "France and Saudi Arabia on Monday signed an agreement for the oil-rich Gulf kingdom to invest €6 billion to create three amusement parks near Paris, including one likely to be a manga-themed park, the French presidential office said. The announcement came during Saudi Crown Prince Mohammed bin Salman's visit focused on bilateral deals and the current crisis in the Middle East."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Trump",
-        "Canada",
-        "Carney",
-        "Estado"
+        "Macron",
+        "Paris",
+        "Saudi Arabia",
+        "France"
       ],
       "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_324982a913",
-        "ev_b73c66374f",
-        "ev_09ace84c02",
-        "ev_ff38c0cb57",
-        "ev_3b5d6b79f3",
-        "ev_2c082acd05",
-        "ev_0c6094ed8f",
-        "ev_b1836a5467",
-        "ev_3efa0d1b8a",
-        "ev_9e0cdb1484",
-        "ev_9510e17703",
-        "ev_5752e90bd2",
-        "ev_34712d55a1",
-        "ev_b27b2e01e4",
-        "ev_a4d84981ac"
-      ],
-      "cluster_id": "cl_012",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
-        "https://s.france24.com/media/display/7e692b74-9f5e-11f1-bbce-005056bfb2b6/w:1024/p:16x9/ES-20260823-183201-183348-CS.jpg",
-        "https://s.france24.com/media/display/443d54e2-9ebf-11f1-a9cb-005056bfb2b6/w:1024/p:16x9/AP26234046509856.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_324982a913",
-          "titulo": "Canadá igualará los aranceles estadounidenses \"dólar por dólar\" tras la ruptura de las negociaciones comerciales con el gobierno de Trump",
-          "url": "https://www.bbc.com/mundo/articles/cpd7dvg6jepo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Sun, 23 Aug 2026 07:09:55 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_b73c66374f",
-          "titulo": "El rial iraní toca un mínimo histórico mientras Trump amenaza con una \"guerra económica\"",
-          "url": "https://www.france24.com/es/video/20260824-el-rial-iran%C3%AD-toca-un-m%C3%ADnimo-hist%C3%B3rico-mientras-trump-amenaza-con-una-guerra-econ%C3%B3mica",
-          "fuente": "France 24 Espanol",
-          "fecha": "Mon, 24 Aug 2026 02:14:01 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_09ace84c02",
-          "titulo": "Trump afirma que Canadá quiere \"los beneficios de ser un Estado, sin serlo\" mientras se agrava la guerra comercial",
-          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260823-trump-afirma-que-canad%C3%A1-quiere-los-beneficios-de-ser-un-estado-sin-serlo-mientras-se-agrava-la-guerra-comercial",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sun, 23 Aug 2026 15:11:14 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_ff38c0cb57",
-          "titulo": "Canadá planta cara a Trump tras fracasar el acuerdo: \"Los aranceles están diseñados para hacernos daño\"",
-          "url": "http://es.euronews.com/2026/08/23/canada-planta-cara-a-trump-tras-fracasar-el-acuerdo-los-aranceles-estan-disenados-para-hac",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sun, 23 Aug 2026 08:46:37 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_3b5d6b79f3",
-          "titulo": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-          "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sun, 23 Aug 2026 19:11:30 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2c082acd05",
-          "titulo": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-          "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-          "fuente": "The Guardian World",
-          "fecha": "Sun, 23 Aug 2026 19:32:59 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_0c6094ed8f",
-          "titulo": "Canada-U.S. Trade War Escalates as Talks Collapse",
-          "url": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-          "fuente": "NYT World",
-          "fecha": "Sat, 22 Aug 2026 16:33:59 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b1836a5467",
-          "titulo": "Trump says Canada 'wants the benefits' of being a U.S. state 'without being one' as trade dispute deepens",
-          "url": "https://www.cbc.ca/news/canada/trump-canada-trade-dispute-9.7317333?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sun, 23 Aug 2026 08:33:01 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3efa0d1b8a",
-          "titulo": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-          "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Sun, 23 Aug 2026 06:39:00 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9e0cdb1484",
-          "titulo": "Carney faces crucial test after walking away from Trump's deal",
-          "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sat, 22 Aug 2026 20:02:46 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9510e17703",
-          "titulo": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-          "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-          "fuente": "The Guardian World",
-          "fecha": "Sat, 22 Aug 2026 14:04:57 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5752e90bd2",
-          "titulo": "'America has changed': Canada to match Trump's tariffs 'dollar for dollar' after trade talks collapse",
-          "url": "https://news.sky.com/story/donald-trumps-50-us-tariffs-on-canada-to-be-matched-dollar-for-dollar-after-trade-talks-collapse-13575681",
-          "fuente": "Sky News World",
-          "fecha": "Sat, 22 Aug 2026 06:09:00 +0100",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-24_0000",
-      "fecha": "2026-08-24",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-24_0001"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Trump envía a Italia piedra de Indiana para tallar columnas del salón de baile de la Casa Blanca",
-        "en": "Trump sends Indiana stone to Italy to carve White House ballroom columns"
-      },
-      "sintesis": {
-        "es": "¿Quién esculpirá las columnas de la fachada de la nueva sala de baile de la Casa Blanca? La piedra caliza llega de Indiana y se trabajará en Italia, con artesanos de Carrara y de la Toscana como favoritos por su tradición histórica, aunque sus nombres no se han revelado.",
-        "en": "The sculptors of the White House's new ballroom façade remain unnamed. Indiana limestone will be worked in Italy, likely in Carrara, Tuscany, the historic centre of marble craft."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Trump",
-        "Casa Blanca",
-        "Natalie Harp",
-        "Indiana"
-      ],
-      "geo": {
-        "lat": 41.9,
-        "lon": 12.6,
+        "lat": 46.6,
+        "lon": 2.2,
         "region": "Europa"
       },
       "impacto": 95,
       "fuentes": [
-        "ev_cf33f19896",
-        "ev_1e9f829063",
-        "ev_5ca899223c",
-        "ev_399df1c303",
-        "ev_5d588a125f",
-        "ev_d5a2cc9a57"
+        "ev_9254cea510",
+        "ev_1c4fd6666d",
+        "ev_5eeeffdd4e",
+        "ev_bbc96b2bec",
+        "ev_9bf5fe2993",
+        "ev_cd91092f91",
+        "ev_b869cf7de6"
       ],
-      "cluster_id": "cl_049",
+      "cluster_id": "cl_039",
       "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/YTLNBK2TBVMN3E24NWPY3EO6HU.jpg?auth=a49a3f211d4dfa9cb0174cc1a11b3325dcf01b95800df0cffde488ad624d2219",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/21/17873408763519.jpg",
-        "https://static.independent.co.uk/2026/08/23/19/download..?width=1200&auto=webp&trim=244%2C0%2C244%2C0",
-        "https://static.independent.co.uk/2026/08/23/13/2291041074..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+        "https://imagenes.elpais.com/resizer/v2/UZPACT3ZJZL2RMHLYKBL4EXUA4.jpg?auth=9eed40b2c478672961645472771ca33afee5901c860e1eb73699b896f6bfc405",
+        "https://s.france24.com/media/display/7a181164-9fdd-11f1-86a6-005056a97e36/w:1024/p:16x9/AP26236547093503.jpg",
+        "https://s.rfi.fr/media/display/032ba358-9ef8-11f1-83ed-005056bf30b7/w:1024/p:16x9/2026-08-20T185538Z-942739809-RC2VHBATT3FF-RTRMADP-3-FRANCE-SAUDI.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/23/17875123452939.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_cf33f19896",
-          "titulo": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
-          "url": "https://elpais.com/internacional/2026-08-18/la-casa-blanca-se-abalanza-contra-un-senador-democrata-por-hablar-de-natalie-harp-la-impresora-humana-de-trump.html",
+          "id": "ev_9254cea510",
+          "titulo": "Macron anuncia tres parques “como Disneyland” en París financiados por Arabia Saudí",
+          "url": "https://elpais.com/internacional/2026-08-24/macron-anuncia-tres-parques-como-disneyland-en-paris-financiados-por-arabia-saudi.html",
           "fuente": "El Pais Internacional",
-          "fecha": "Tue, 18 Aug 2026 07:57:44 GMT",
+          "fecha": "Mon, 24 Aug 2026 19:41:00 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_1e9f829063",
-          "titulo": "Trump envía a Italia piedra de Indiana para tallar columnas del salón de baile de la Casa Blanca",
-          "url": "http://es.euronews.com/cultura/2026/08/23/trump-envia-a-italia-piedra-de-indiana-para-tallar-columnas-del-salon-de-baile-de-la-casa",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sun, 23 Aug 2026 19:42:15 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_5ca899223c",
-          "titulo": "El Tribunal Supremo autoriza a Trump continuar de forma temporal con las obras en la Casa Blanca",
-          "url": "https://www.elmundo.es/internacional/2026/08/21/6a88a87bfc6c833d098b456d.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sat, 22 Aug 2026 06:55:22 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_399df1c303",
-          "titulo": "Trump sends Indiana stone to Italy to carve White House ballroom columns",
-          "url": "http://www.euronews.com/culture/2026/08/23/trump-sends-indiana-stone-to-italy-to-carve-white-house-ballroom-columns",
-          "fuente": "Euronews English",
-          "fecha": "Sun, 23 Aug 2026 19:42:19 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5d588a125f",
-          "titulo": "Trump’s aide Natalie Harp, son Eric and MAGA inner circle join president and Melania for Freedom 250 Grand Prix",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-melania-freedom-250-grand-prix-b3037869.html",
-          "fuente": "The Independent World",
-          "fecha": "Sun, 23 Aug 2026 22:37:12 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d5a2cc9a57",
-          "titulo": "Trump aide Natalie Harp back in her comfort zone as she trails president on another golf course",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/natalie-harp-2020-trump-election-memo-b3037750.html",
-          "fuente": "The Independent World",
-          "fecha": "Sun, 23 Aug 2026 14:12:55 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-24_0001",
-      "fecha": "2026-08-24",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-08-24_0000",
-        "nd_2026-08-24_0007"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
-        "en": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule"
-      },
-      "sintesis": {
-        "es": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed “great settlement revolution” in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B – placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading...",
-        "en": "Report says violence is moving from Israeli-controlled areas to those earmarked for a future Palestinian state Violent Israeli settler attacks in the two areas of the occupied West Bank under direct Palestinian rule have almost doubled since 2025, as settlers pursue a self-proclaimed “great settlement revolution” in the very heart of the territory earmarked for a Palestinian state. According to a report by the Israeli human rights organisation Yesh Din , shared with the Guardian, data shows that almost two-thirds of incidents of settler violence so far in 2026 have taken place in the so-called Areas A and B – placed under Palestinian Authority governance in the 1995 Oslo accords. Continue reading..."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "West Bank",
-        "Israeli",
-        "Palestinian",
-        "How Israel"
-      ],
-      "geo": {
-        "lat": 31.0,
-        "lon": 34.9,
-        "region": "Oriente Medio"
-      },
-      "impacto": 83,
-      "fuentes": [
-        "ev_cc45d2fada",
-        "ev_87a9908f6b",
-        "ev_ce6972320d",
-        "ev_af296e00f1",
-        "ev_52c43b0348",
-        "ev_57a1391065"
-      ],
-      "cluster_id": "cl_174",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/3bc5a6a0-9d8b-11f1-adf5-2dc21c9cc109.jpg",
-        "https://i.guim.co.uk/img/media/54e13f301954108c3b5370909d458d3d8875f235/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=5c4fd45f3a02e92209f360b938acb7f6",
-        "https://static01.nyt.com/images/2026/08/21/multimedia/21WestBank-attack-01-cwhm/21WestBank-attack-01-cwhm-mediumSquareAt3X.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_cc45d2fada",
-          "titulo": "How Israel is expanding settlements in drive to reshape West Bank",
-          "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 21 Aug 2026 19:31:47 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_87a9908f6b",
-          "titulo": "Is Israel about to split the occupied West Bank in half?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 23 Aug 2026 20:23:01 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ce6972320d",
-          "titulo": "Israeli settler attacks shift focus to West Bank areas under direct Palestinian rule",
-          "url": "https://www.theguardian.com/world/2026/aug/21/israeli-settler-attacks-shift-to-heart-of-territory-earmarked-for-palestinian-state",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 21 Aug 2026 06:00:26 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_af296e00f1",
-          "titulo": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
-          "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 21 Aug 2026 18:32:08 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_52c43b0348",
-          "titulo": "Israeli settler blockades part of escalating violence against Palestinians in the occupied West Bank",
-          "url": "https://www.cbc.ca/news/world/israeli-siege-occupied-west-bank-qusra-9.7315801?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sat, 22 Aug 2026 04:00:00 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_57a1391065",
-          "titulo": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 23 Aug 2026 18:47:11 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-24_0002",
-      "fecha": "2026-08-24",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-08-24_0003"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "¿Por qué cuatro cometas desencadenan otra amenaza de ofensiva de Israel contra la devastada Gaza?",
-        "en": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision"
-      },
-      "sintesis": {
-        "es": "Cuatro cometas fueron encontradas en la comunidad israelí de Nahal Oz sin explosivos ni materiales peligrosos. Hamás afirma que fueron lanzados por niños, mientras que Israel los considera una amenaza y advierte que intensificará sus operaciones en Gaza si se repiten los episodios. Cerca de 21.300 menores de edad, según datos locales, han muerto en este territorio palestino por los ataques israelíes desde el 7 de octubre de 2023.",
-        "en": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers Britain, Australia and Canada have called the decision of the Israeli military authorities not to open a criminal investigation into the April 2024 airstrikes that hit a convoy of aid vehicles in Gaza “shameful”. The strikes killed seven humanitarian workers from the US-based World Central Kitchen (WCK) organisation. WCK staff from the three countries were among the casualties of the attack, which prompted global outrage."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Israel",
-        "Gaza",
-        "Burnham",
-        "Labour"
-      ],
-      "geo": {
-        "lat": 31.0,
-        "lon": 34.9,
-        "region": "Oriente Medio"
-      },
-      "impacto": 82,
-      "fuentes": [
-        "ev_3cf79cde66",
-        "ev_8746dbfec9",
-        "ev_e837b58362",
-        "ev_b138abf568",
-        "ev_9f4feeee38"
-      ],
-      "cluster_id": "cl_044",
-      "imagenes": [
-        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260823/1207052_193320_video_1800.mp4",
-        "https://s.france24.com/media/display/9735369a-9a7a-11f1-89f5-005056bfb2b6/w:1024/p:16x9/7242c3ab626920066de603b283b00e7ca553dce6.jpg",
-        "https://i.guim.co.uk/img/media/ec0744852a17ac2bbbae27142080744bd3f9b1e2/889_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=99bebcae427ae922d5520e53df6bd442",
-        "https://i.guim.co.uk/img/media/6f8218c8c2d7497add0d356c16dac75464f978de/0_0_4426_3543/master/4426.jpg?width=140&quality=85&auto=format&fit=max&s=8b88e3ca4473e3b0e89c0785cbe9954c"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_3cf79cde66",
-          "titulo": "Israel dice a Hamás que intensificará sus bombardeos si no cesan los lanzamientos de cometas desde Gaza",
-          "url": "https://elpais.com/internacional/2026-08-23/israel-dice-a-hamas-que-intensificara-sus-bombardeos-si-no-cesan-los-lanzamientos-de-cometas-desde-gaza.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sun, 23 Aug 2026 18:50:50 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_8746dbfec9",
-          "titulo": "¿Por qué cuatro cometas desencadenan otra amenaza de ofensiva de Israel contra la devastada Gaza?",
-          "url": "https://www.france24.com/es/medio-oriente/20260823-por-qu%C3%A9-cuatro-cometas-desencadenan-otra-amenaza-de-ofensiva-de-israel-contra-la-devastada-gaza",
+          "id": "ev_1c4fd6666d",
+          "titulo": "Arabia Saudita invertirá 6.000 millones de euros en tres parques temáticos cerca de París",
+          "url": "https://www.france24.com/es/europa/20260824-arabia-saudita-invertir%C3%A1-6-000-millones-de-euros-en-tres-parques-tem%C3%A1ticos-cerca-de-par%C3%ADs",
           "fuente": "France 24 Espanol",
-          "fecha": "Sun, 23 Aug 2026 20:44:16 GMT",
+          "fecha": "Mon, 24 Aug 2026 22:50:26 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_e837b58362",
-          "titulo": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
-          "url": "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
-          "fuente": "The Guardian World",
-          "fecha": "Sun, 23 Aug 2026 11:26:40 GMT",
+          "id": "ev_5eeeffdd4e",
+          "titulo": "Francia: El príncipe saudita Mohamed bin Salman visita París con una agenda llena",
+          "url": "https://www.rfi.fr/es/francia/20260823-francia-el-pr%C3%ADncipe-saudita-mohamed-bin-salman-visita-par%C3%ADs-con-una-agenda-llena",
+          "fuente": "RFI Espanol",
+          "fecha": "Sun, 23 Aug 2026 13:40:21 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_bbc96b2bec",
+          "titulo": "Macron corteja al despiadado Bin Salman para mantener la influencia francesa en Oriente Próximo y hacer negocios",
+          "url": "https://www.elmundo.es/internacional/2026/08/24/6a8b0304e9cf4adf388b4575.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Mon, 24 Aug 2026 02:14:17 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_9bf5fe2993",
+          "titulo": "Saudi Arabia to invest €6 billion in theme parks near Paris, Macron says",
+          "url": "https://www.france24.com/en/europe/20260824-saudi-arabia-to-invest-%E2%82%AC6-billion-theme-parks-near-paris-macron-says",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 24 Aug 2026 18:13:11 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_b138abf568",
-          "titulo": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
-          "url": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 21 Aug 2026 15:03:34 GMT",
+          "id": "ev_cd91092f91",
+          "titulo": "With 'rare' Paris talks, France hopes to cash in on Saudi investment programme",
+          "url": "https://www.france24.com/en/with-rare-paris-talks-france-hopes-to-cash-in-on-saudi-investment-programme",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 24 Aug 2026 13:52:23 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_9f4feeee38",
-          "titulo": "Israel clears itself in killing of Canadian during airstrikes on World Central Kitchen convoy",
-          "url": "https://www.cbc.ca/news/politics/israeli-airstrike-quebec-aid-worker-gaza-investigation-9.7314335?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Thu, 20 Aug 2026 15:04:17 EDT",
+          "id": "ev_b869cf7de6",
+          "titulo": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+          "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 25 Aug 2026 04:38:20 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-24_0003",
-      "fecha": "2026-08-24",
+      "id": "nd_2026-08-25_0000",
+      "fecha": "2026-08-25",
       "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-24_0002"
-      ]
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "Hong Kong condena a los guardianes de la memoria de Tiananmen por pedir el fin de la \"dictadura de partido único\" en China",
-        "en": "Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’"
+        "es": "Informe desde Washington: EE. UU. advierte a países que no apoyen sanciones estadounidenses a Irán",
+        "en": "Iran predicts ‘another defeat’ for US after Washington's new sanctions"
       },
       "sintesis": {
-        "es": "Los antiguos líderes del grupo que durante tres décadas organizó las multitudinarias vigilias del 4 de junio son declarados culpables de incitar a la subversión Leer",
-        "en": "UK Foreign Office condemns use of national security law to convict activists Lee Cheuk-yan and Chow Hang-tung Two Hong Kong activists who organised annual vigils marking China’s deadly Tiananmen crackdown in 1989 have been found guilty of “incitement to subversion” in one of the most high-profile cases in Hong Kong since Beijing imposed its national security law in 2020. Lee Cheuk-yan, 69, and Chow Hang-tung, 41, “incited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power”, a press summary handed out to reporters said. The defendants each face a maximum penalty of 10 years in jail, with sentencing expected at a later date."
+        "es": "Estados Unidos lanzó una nueva ofensiva económica contra Irán, pero aún mantiene un período de espera antes de aplicar sanciones más duras a países que comercian con Teherán. La advertencia es clara: aquellos países que no apoyen las sanciones estadounidenses, serían aislados del sistema financiero del dólar. Desde Washington, nuestra corresponsal Carolina Valladares nos cuenta los detalles.",
+        "en": "Iranian Economy Minister Ali Madanizadeh on Monday warned of \"another defeat\" for the US after Treasury Secretary Scott Bessent announced expanded sanctions against Tehran. Madanizadeh said Iran had a \"two-year plan\" to counter the new sanctions and dismissed Bessent's stated efforts to sever \"every economic lifeline\" sustaining Iran. Read our blog to see how the day's events unfolded."
       },
-      "categoria": "economia",
+      "categoria": "geopolitica",
       "actores": [
-        "Hong Kong",
-        "Shein",
-        "Tiananmen Square",
-        "Tiananmen"
+        "Iran",
+        "Bessent",
+        "Washington",
+        "Informe"
       ],
       "geo": {
         "lat": 35.9,
         "lon": 104.2,
         "region": "Asia Oriental"
       },
-      "impacto": 79,
+      "impacto": 95,
       "fuentes": [
-        "ev_8901a6a12b",
-        "ev_bd0c0f7c08",
-        "ev_476ce9482e",
-        "ev_0c75a162dc",
-        "ev_1cb822e1c5"
+        "ev_52e69e9f0b",
+        "ev_d420f9e1be",
+        "ev_d8155016b7",
+        "ev_a91c6b8e09",
+        "ev_b690e60b39",
+        "ev_528cd803f2",
+        "ev_b6e5f5d256",
+        "ev_c1096a4628"
       ],
-      "cluster_id": "cl_142",
+      "cluster_id": "cl_056",
       "imagenes": [
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/21/17872810625954.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e462/live/c906d120-9f60-11f1-8564-6b99aa01bb8b.jpg",
-        "https://i.guim.co.uk/img/media/a5f2728ff52788c315c073da43cf496d9cf46c65/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=75297e9c85a7d2c725f4b243af50bedb",
-        "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2e1fcbc3a457f9977863b7f443921f2c"
+        "https://s.france24.com/media/display/fd9a4128-a00b-11f1-9c9a-005056bf30b7/w:1024/p:16x9/ES-20260824-130421-130806-CS.jpg",
+        "https://s.france24.com/media/display/552900fe-9ff4-11f1-9dfb-005056bfb2b6/w:1024/p:16x9/348da3527c6d3d2c0b2149d797c9ea9560ee6767.jpg",
+        "https://s.france24.com/media/display/08ac3fe8-9ff4-11f1-80a7-005056bf30b7/w:1024/p:16x9/AP26236447179370.jpg",
+        "https://static.independent.co.uk/2026/08/24/21/Treasury_Bessent_86692.jpg?width=1200&auto=webp&crop=3%3A2"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_8901a6a12b",
-          "titulo": "Hong Kong condena a los guardianes de la memoria de Tiananmen por pedir el fin de la \"dictadura de partido único\" en China",
-          "url": "https://www.elmundo.es/internacional/2026/08/21/6a87c026e9cf4af72f8b4598.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 21 Aug 2026 07:02:45 +0200",
+          "id": "ev_52e69e9f0b",
+          "titulo": "Informe desde Washington: EE. UU. advierte a países que no apoyen sanciones estadounidenses a Irán",
+          "url": "https://www.france24.com/es/video/20260824-informe-desde-washington-ee-uu-advierte-a-pa%C3%ADses-que-no-apoyen-sanciones-estadounidenses-a-ir%C3%A1n",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 24 Aug 2026 23:29:37 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_bd0c0f7c08",
-          "titulo": "Shein aims for almost $27bn valuation in stock market debut",
-          "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 24 Aug 2026 05:09:22 GMT",
+          "id": "ev_d420f9e1be",
+          "titulo": "🔴 Mideast live: US unveils fresh sanctions to 'sever every economic lifeline' sustaining Iran",
+          "url": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 24 Aug 2026 17:16:05 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_476ce9482e",
-          "titulo": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
-          "url": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 24 Aug 2026 04:02:59 GMT",
+          "id": "ev_d8155016b7",
+          "titulo": "US unveils expanded sanctions aimed at Iran's 'economic asphyxiation'",
+          "url": "https://www.france24.com/en/middle-east/20260824-us-unveils-fresh-sanctions-to-sever-every-economic-lifeline-sustaining-iran",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 24 Aug 2026 13:27:10 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_0c75a162dc",
-          "titulo": "Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’",
-          "url": "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 21 Aug 2026 10:43:59 GMT",
+          "id": "ev_a91c6b8e09",
+          "titulo": "Iran predicts ‘another defeat’ for US after Washington's new sanctions",
+          "url": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 24 Aug 2026 12:50:27 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_1cb822e1c5",
-          "titulo": "Tiananmen Square vigil organizers convicted of 'inciting subversion' in Hong Kong",
-          "url": "https://www.cbc.ca/news/world/tiananmen-square-vigil-organizers-convicted-9.7315066?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Thu, 20 Aug 2026 23:14:15 EDT",
+          "id": "ev_b690e60b39",
+          "titulo": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
+          "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+          "fuente": "NPR News",
+          "fecha": "Mon, 24 Aug 2026 08:26:00 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_528cd803f2",
+          "titulo": "The Latest: Bessent warns the world to cut financial ties to Iran or face US retaliation",
+          "url": "https://www.independent.co.uk/news/world/americas/donald-trump-jd-vance-iran-scott-bessent-susan-collins-b3038503.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 24 Aug 2026 20:34:55 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b6e5f5d256",
+          "titulo": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
+          "url": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 24 Aug 2026 13:17:35 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c1096a4628",
+          "titulo": "Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation",
+          "url": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Mon, 24 Aug 2026 19:40:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-24_0004",
-      "fecha": "2026-08-24",
+      "id": "nd_2026-08-25_0001",
+      "fecha": "2026-08-25",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-24_0012"
+        "nd_2026-08-25_0003",
+        "nd_2026-08-25_0008"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Trump retira a Siria de la lista de \"patrocinadores del terrorismo\" tras 47 años: ¿qué significa?",
+        "en": "Trump administration plans to revoke 200,000 visas of asylum seekers"
+      },
+      "sintesis": {
+        "es": "Tras cumplirse los 45 días formales de plazo desde la notificación al Congreso, el Gobierno de Donald Trump quitó oficialmente a Siria de su lista de países \"patrocinadores del terrorismo\", en la que se encontraba desde 1979. Este paso significa el levantamiento de una serie de sanciones, que Damasco consideraba el \"último obstáculo\" para permitir que la reconexión del país con el sistema financiero y económico global.",
+        "en": "The state department will revoke B1 and B2 visas issued between 2016 and 2026, whose holders have sought or are now seeking asylum Donald Trump’s administration said on Monday it planned to revoke the non-immigrant visas of foreigners who have applied for or are currently seeking asylum status in the US, marking its latest step in a sweeping immigration crackdown. A state department spokesperson said it was coordinating with the Department of Homeland Security “to identify and revoke the non-immigrant visas of foreigners who have come to the United States claiming to be short-term visitors, but then file for asylum to stay here permanently”. Continue reading..."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Trump",
+        "Siria"
+      ],
+      "geo": {
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
+      },
+      "impacto": 87,
+      "fuentes": [
+        "ev_7c4f9d65f1",
+        "ev_2bfcebd6f7",
+        "ev_cb4571de1f",
+        "ev_347d1ee7fc",
+        "ev_4c44107c0d",
+        "ev_2f26ef4753",
+        "ev_1f1fa00d1b",
+        "ev_0110660eda",
+        "ev_dd1cc7d10f",
+        "ev_8f31b92538",
+        "ev_e7201ac30a",
+        "ev_b3bbde7a32"
+      ],
+      "cluster_id": "cl_042",
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/BYNNTEIFQVLZHAMRHELZBUDBJ4.jpg?auth=a495fa825a335cb41dac5f830ca03d56a75c17a69cfea54910e9da3cdd61a1e1",
+        "https://s.france24.com/media/display/1d0187b4-a008-11f1-904a-005056bfb2b6/w:1024/p:16x9/FOTO-PORTADA-EEUU-SIRIA-TRUMP-AL-SHARAA.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/22/17874154354134.jpg",
+        "https://i.guim.co.uk/img/media/4b1c4de1e3a634f4f93a72dfc2d4c3c265237f69/256_0_3288_2632/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=983c308b9c3fd505bcfebb371f33ae3c"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_7c4f9d65f1",
+          "titulo": "Siria abandona después de 47 años el listado de EE UU de países que patrocinan el terrorismo",
+          "url": "https://elpais.com/internacional/2026-08-24/siria-abandona-despues-de-47-anos-el-listado-de-ee-uu-de-paises-que-patrocinan-el-terrorismo.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Mon, 24 Aug 2026 19:21:03 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_2bfcebd6f7",
+          "titulo": "Trump retira a Siria de la lista de \"patrocinadores del terrorismo\" tras 47 años: ¿qué significa?",
+          "url": "https://www.france24.com/es/medio-oriente/20260825-trump-retira-a-siria-de-la-lista-de-patrocinadores-del-terrorismo-tras-47-a%C3%B1os-qu%C3%A9-significa",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 25 Aug 2026 00:05:19 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_cb4571de1f",
+          "titulo": "Un tribunal federal anula la suspensión de visados ordenada por Trump para 75 países",
+          "url": "https://www.elmundo.es/internacional/2026/08/22/6a89cbf2e4d4d8815f8b459f.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sat, 22 Aug 2026 18:19:07 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_347d1ee7fc",
+          "titulo": "Trump administration plans to revoke 200,000 visas of asylum seekers",
+          "url": "https://www.theguardian.com/us-news/2026/aug/24/trump-administration-revoke-asylum-visas",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 25 Aug 2026 01:45:35 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4c44107c0d",
+          "titulo": "Trump administration to revoke visas of foreigners seeking asylum in US, officials say",
+          "url": "https://www.france24.com/en/americas/20260824-trump-administration-revoke-visas-foreigners-seeking-asylum",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 24 Aug 2026 22:54:49 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2f26ef4753",
+          "titulo": "Trump administration plans to revoke B1, B2 visas of 200,000 asylum seekers",
+          "url": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 25 Aug 2026 01:01:44 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1f1fa00d1b",
+          "titulo": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
+          "url": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
+          "fuente": "NPR News",
+          "fecha": "Tue, 25 Aug 2026 00:56:29 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0110660eda",
+          "titulo": "US to rescind 200,000 business and travel visas from those seeking asylum: report",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rescind-business-travel-visas-record-b3038501.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 24 Aug 2026 22:24:00 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_dd1cc7d10f",
+          "titulo": "Trump’s nutrition advisor says kids should eat food fresh from the ground - like hot dogs",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ben-carson-hot-dogs-maha-b3038542.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 24 Aug 2026 23:43:18 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8f31b92538",
+          "titulo": "Trump admin reopens a border crossing to cattle to try and bring down record beef prices",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-beef-prices-cattle-imports-b3038334.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 24 Aug 2026 18:17:14 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e7201ac30a",
+          "titulo": "Trump boasts ‘there has never been anything close’ to his endorsement winning streak",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-endorsements-midterm-elections-b3037971.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 24 Aug 2026 06:19:19 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b3bbde7a32",
+          "titulo": "Trump administration proposes $103,000 fee for skilled worker visas",
+          "url": "https://www.abc.net.au/news/2026-08-25/trump-administration-proposed-h1b-visa-explained/107075218",
+          "fuente": "ABC News Australia",
+          "fecha": "Tue, 25 Aug 2026 04:27:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-25_0002",
+      "fecha": "2026-08-25",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-25_0003"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "El ‘lobby’ petrolero pro-Trump se hace de oro con la guerra contra Irán",
+        "en": "Iran Pledges to Defy Trump’s Economic Sanctions"
+      },
+      "sintesis": {
+        "es": "El sector fósil estadounidense, gran donante del republicano, multiplica sus beneficios con el cierre de Ormuz y la crisis global de refino",
+        "en": "Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran’s economy. One Iranian official vowed that “not a single drop of oil” would leave the gulf."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Trump",
+        "Iran",
+        "Day",
+        "Economic"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 86,
+      "fuentes": [
+        "ev_412e840f2d",
+        "ev_98b51d4500",
+        "ev_d1c3283ff1",
+        "ev_d71dd09568",
+        "ev_bc679b254b",
+        "ev_7c2301bf20",
+        "ev_02176f5ba5",
+        "ev_88b7c77e4f",
+        "ev_63895c194b",
+        "ev_a3f2512721",
+        "ev_56a8bb292a",
+        "ev_aed0179009",
+        "ev_392082ba37"
+      ],
+      "cluster_id": "cl_047",
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/OXIMLEKJNNEDVOLUAVBTVC4RJ4.jpg?auth=83608be7a3724dfab2f83f7815a910e496922fa922bbdbf4fc49b834f57fdd73",
+        "https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-economy-ltpj/24int-iran-economy-ltpj-mediumSquareAt3X.jpg",
+        "https://static01.nyt.com/images/2026/08/23/multimedia/23-int-iran-war-01-lpzq/23-int-iran-war-01-lpzq-mediumSquareAt3X.jpg",
+        "https://static.independent.co.uk/2026/08/25/00/2026-08-24T202227Z_1102145854_RC275NA3BY3Q_RTRMADP_3_USA-TRUMP.JPG?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_412e840f2d",
+          "titulo": "El ‘lobby’ petrolero pro-Trump se hace de oro con la guerra contra Irán",
+          "url": "https://elpais.com/internacional/2026-08-24/el-lobby-petrolero-pro-trump-se-hace-de-oro-con-la-guerra-contra-iran.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Mon, 24 Aug 2026 03:45:01 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_98b51d4500",
+          "titulo": "US public support for Iran war falls as Trump approval at record low: Poll",
+          "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 24 Aug 2026 21:35:10 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d1c3283ff1",
+          "titulo": "Iran Pledges to Defy Trump’s Economic Sanctions",
+          "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
+          "fuente": "NYT World",
+          "fecha": "Mon, 24 Aug 2026 21:12:01 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d71dd09568",
+          "titulo": "Iran Warns Gulf States Not to Join Trump’s Economic War",
+          "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
+          "fuente": "NYT World",
+          "fecha": "Sun, 23 Aug 2026 17:00:10 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_bc679b254b",
+          "titulo": "Iran-US war latest: Trump unveils ‘economic D-Day’ sanctions as Tehran vows to go on the attack",
+          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-sanctions-bessent-hormuz-news-b3038608.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 25 Aug 2026 05:10:43 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_7c2301bf20",
+          "titulo": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran",
+          "url": "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 21 Aug 2026 14:48:14 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_02176f5ba5",
+          "titulo": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
+          "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 21 Aug 2026 14:41:40 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_88b7c77e4f",
+          "titulo": "Trump’s ‘Economic D-Day’ for Iran arrives - but he is running out of cards to play",
+          "url": "https://www.independent.co.uk/news/world/middle-east/trump-iran-economy-sanctions-hormuz-b3038030.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 24 Aug 2026 10:35:23 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_63895c194b",
+          "titulo": "EEUU amenaza con nuevas sanciones a cualquier país que comercie con Irán, incluido China: \"Es momento de elegir de qué lado están\"",
+          "url": "https://www.elmundo.es/internacional/2026/08/24/6a8c85d9e4d4d870468b4579.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Mon, 24 Aug 2026 21:34:17 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_a3f2512721",
+          "titulo": "Irán dice que considerará \"enemigo\" a cualquier país que participe en la \"guerra económica\" de EEUU",
+          "url": "https://www.elmundo.es/internacional/2026/08/23/6a8a1bbd21efa0a6578b45c9.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sun, 23 Aug 2026 00:04:57 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_56a8bb292a",
+          "titulo": "¿Ha perdido Irán el control del Estrecho de Ormuz? Filas de petroleros atraviesan el paso marítimo escoltados por barcos de EEUU",
+          "url": "https://www.elmundo.es/internacional/2026/08/21/6a880c6ee4d4d874538b459e.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 21 Aug 2026 10:29:40 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_aed0179009",
+          "titulo": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
+          "url": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 24 Aug 2026 18:32:36 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-25_0003",
+      "fecha": "2026-08-25",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-25_0001",
+        "nd_2026-08-25_0002",
+        "nd_2026-08-25_0008"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front line’ while striking Russia’s economy",
+        "en": "Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front line’ while striking Russia’s economy"
+      },
+      "sintesis": {
+        "es": "Genie Godula is pleased to welcome Samantha de Bendern, Associate Fellow at Chatham House. Europe is taking increasingly consequential steps to support Ukraine, but de Bendern warns that they remain insufficient to address the country's fundamental vulnerability. Are Ukraine's allies prepared to actively help protect Ukrainian airspace?",
+        "en": "Genie Godula is pleased to welcome Samantha de Bendern, Associate Fellow at Chatham House. Europe is taking increasingly consequential steps to support Ukraine, but de Bendern warns that they remain insufficient to address the country's fundamental vulnerability. Are Ukraine's allies prepared to actively help protect Ukrainian airspace?"
+      },
+      "categoria": "innovacion",
+      "actores": [
+        "Ukraine",
+        "Russia",
+        "Burnham",
+        "Kyiv"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 66,
+      "fuentes": [
+        "ev_085f3d90ef",
+        "ev_d51e8ce7ee",
+        "ev_5befc0e226",
+        "ev_9764dbf83d",
+        "ev_5b6d91fa83",
+        "ev_e80384bd00"
+      ],
+      "cluster_id": "cl_113",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
+        "https://s.france24.com/media/display/de29530e-9fbd-11f1-843a-005056a90284/w:1024/p:16x9/EN-20260824-130116-131020-CS.jpg",
+        "https://static01.nyt.com/images/2026/08/24/multimedia/24int-uk-russia-ukraine-kqzv-vblg/24int-uk-russia-ukraine-kqzv-vblg-mediumSquareAt3X.jpg",
+        "https://static.independent.co.uk/2026/08/24/11/download..?width=1200&auto=webp&trim=291%2C739%2C530%2C663"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_085f3d90ef",
+          "titulo": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+          "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 25 Aug 2026 01:48:24 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d51e8ce7ee",
+          "titulo": "Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front line’ while striking Russia’s economy",
+          "url": "https://www.france24.com/en/ukraine-showing-remarkable-innovation-kyiv-holding-front-line-while-striking-russia-s-economy",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 24 Aug 2026 13:32:21 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5befc0e226",
+          "titulo": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+          "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+          "fuente": "NYT World",
+          "fecha": "Mon, 24 Aug 2026 22:16:57 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9764dbf83d",
+          "titulo": "‘Who started the fire?’ Burnham challenges Putin on first trip to Ukraine as UK-Russia tensions grow",
+          "url": "https://www.independent.co.uk/news/world/europe/andy-burnham-ukraine-visit-storm-shadow-russia-putin-war-b3038597.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 25 Aug 2026 04:41:47 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5b6d91fa83",
+          "titulo": "What the renewed Black Sea blockade means for Ukraine’s farmers",
+          "url": "https://www.france24.com/en/europe/20260824-what-renewed-black-sea-blockade-means-ukraine-farmers",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 24 Aug 2026 17:41:42 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e80384bd00",
+          "titulo": "Ukraine-Russia war latest: Moscow strikes cargo ship in Black Sea after Zelensky calls for talks to stop attacks",
+          "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-drone-missile-strikes-b3037956.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 24 Aug 2026 21:34:42 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-25_0004",
+      "fecha": "2026-08-25",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-08-25_0010",
+        "nd_2026-08-25_0013"
       ]
     },
     {
@@ -541,36 +638,35 @@
       "categoria": "clima",
       "actores": [
         "Guinea",
-        "Landslide",
-        "Landfill"
+        "Landslide"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 72,
+      "impacto": 58,
       "fuentes": [
-        "ev_aa4acebfc3",
+        "ev_84f3ce25d3",
         "ev_a590c70989",
         "ev_a494d1af32",
-        "ev_c24d56d08f",
-        "ev_7c4b5d4ea5"
+        "ev_081d1cebdd"
       ],
-      "cluster_id": "cl_150",
+      "cluster_id": "cl_127",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b50/live/049ddab0-9f9a-11f1-a291-b542ee92de7c.jpg",
         "https://e3.365dm.com/26/08/1920x1080/skynews-landslide-guinea-rubbish-tip_7329549.jpg?20260823201406",
-        "https://i.guim.co.uk/img/media/bfb8c700f99c74433c5b3173e4f501f6e216a498/25_10_3458_2766/master/3458.jpg?width=140&quality=85&auto=format&fit=max&s=9be55d6e6768a346d1aa2a8257a6b4f9"
+        "https://i.guim.co.uk/img/media/bfb8c700f99c74433c5b3173e4f501f6e216a498/25_10_3458_2766/master/3458.jpg?width=140&quality=85&auto=format&fit=max&s=9be55d6e6768a346d1aa2a8257a6b4f9",
+        "https://s.france24.com/media/display/8e5b7870-9fb8-11f1-b2f0-005056bf30b7/w:1024/p:16x9/2026-08-23T205549Z-2033132822-RC2G4NAW6BYT-RTRMADP-3-GUINEA-LANDSLIDE.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_aa4acebfc3",
-          "titulo": "Guinea rubbish landfill collapse kills 30",
+          "id": "ev_84f3ce25d3",
+          "titulo": "Guinea rubbish landfill collapse kills 31",
           "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Sun, 23 Aug 2026 18:17:37 GMT",
+          "fecha": "Mon, 24 Aug 2026 11:26:19 GMT",
           "idioma": "en"
         },
         {
@@ -590,295 +686,453 @@
           "idioma": "en"
         },
         {
-          "id": "ev_c24d56d08f",
-          "titulo": "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 23 Aug 2026 21:08:17 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_7c4b5d4ea5",
-          "titulo": "Landslide at landfill in Guinea kills 30 people, government says",
-          "url": "http://www.euronews.com/2026/08/24/landslide-at-landfill-in-guinea-kills-30-people-government-says",
-          "fuente": "Euronews English",
-          "fecha": "Mon, 24 Aug 2026 05:16:15 +0200",
+          "id": "ev_081d1cebdd",
+          "titulo": "Guinea searches for survivors after landfill landslides kill 30",
+          "url": "https://www.france24.com/en/guinea-searches-for-survivors-after-landfill-landslides-kill-30",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 24 Aug 2026 12:42:59 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-24_0005",
-      "fecha": "2026-08-24",
+      "id": "nd_2026-08-25_0005",
+      "fecha": "2026-08-25",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "TikTok acepta pagar 400 millones de dólares por recopilar datos de menores en EE.UU.",
-        "en": "TikTok will pay $400 million to settle DOJ child privacy lawsuit"
+        "es": "¿Qué pasó con el sueño americano de Harry y Meghan?",
+        "en": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return"
       },
       "sintesis": {
-        "es": "TikTok ha acordado pagar 400 millones de dólares para resolver una demanda de las autoridades estadounidenses, que acusaban a la plataforma de recopilar datos personales de menores de 13 años sin el consentimiento de sus padres.",
-        "en": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or obtaining consent and did not delete the accounts […]"
+        "es": "Los duques de Sussex gozaron de cierto éxito en la industria del entretenimiento, pero su reinado en Hollywood ha demostrado ser corto.",
+        "en": "Recent surveys suggest the broader public views both of them negatively, especially in comparison to Harry’s brother, William, and his wife, Kate."
       },
-      "categoria": "tecnologia",
+      "categoria": "sociedad",
       "actores": [
-        "TikTok",
-        "DOJ"
+        "Harry",
+        "Meghan",
+        "Return",
+        "What Does"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 70,
+      "impacto": 56,
       "fuentes": [
-        "ev_b3664498f7",
-        "ev_07e0f46d7b",
-        "ev_ff3f30aa34",
-        "ev_c6b1e76125"
+        "ev_1013f0f8df",
+        "ev_4042036820",
+        "ev_bbe5874fb5"
       ],
-      "cluster_id": "cl_110",
+      "cluster_id": "cl_031",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f31/live/0a64ce80-9e10-11f1-b109-879e35c24276.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d3a/live/c7e95f20-9d2f-11f1-aed2-8d6da8d75094.jpg",
+        "https://static01.nyt.com/images/2026/08/21/multimedia/21int-uk-harry-schools-photo1-htbj/21int-uk-harry-schools-photo1-htbj-mediumSquareAt3X.jpg",
+        "https://static01.nyt.com/images/2026/08/21/multimedia/21uk-harry-meghan-voices-1-wghc/21uk-harry-meghan-voices-1-wghc-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_b3664498f7",
-          "titulo": "TikTok acepta pagar 400 millones de dólares por recopilar datos de menores en EE.UU.",
-          "url": "http://es.euronews.com/2026/08/22/tiktok-acepta-pagar-400-millones-de-dolares-por-recopilar-datos-de-menores-en-eeuu",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sat, 22 Aug 2026 18:30:15 +0200",
+          "id": "ev_1013f0f8df",
+          "titulo": "¿Qué pasó con el sueño americano de Harry y Meghan?",
+          "url": "https://www.bbc.com/mundo/articles/c5yv12d5r0no?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sat, 22 Aug 2026 13:30:03 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_07e0f46d7b",
-          "titulo": "TikTok to pay $400m to US in one of largest child privacy settlements",
-          "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 21 Aug 2026 22:36:12 GMT",
+          "id": "ev_4042036820",
+          "titulo": "What Does Harry and Meghan’s Return to England Mean for Their Children?",
+          "url": "https://www.nytimes.com/2026/08/22/world/europe/harry-meghan-children-schools.html",
+          "fuente": "NYT World",
+          "fecha": "Sat, 22 Aug 2026 12:49:57 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_ff3f30aa34",
-          "titulo": "TikTok agrees to pay $400 million to settle US children's privacy lawsuit",
-          "url": "http://www.euronews.com/2026/08/22/tiktok-agrees-to-pay-400-million-to-settle-us-childrens-privacy-lawsuit",
-          "fuente": "Euronews English",
-          "fecha": "Sat, 22 Aug 2026 11:08:58 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c6b1e76125",
-          "titulo": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-          "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-          "fuente": "The Verge",
-          "fecha": "",
+          "id": "ev_bbe5874fb5",
+          "titulo": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return",
+          "url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 21 Aug 2026 15:23:40 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-24_0006",
-      "fecha": "2026-08-24",
+      "id": "nd_2026-08-25_0006",
+      "fecha": "2026-08-25",
       "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Muere a los 92 años Nancy Kissinger, viuda y consejera del histórico ex secretario de Estado Henry Kissinger",
-        "en": "Spain's Secretary of State for Health discusses health priorities with WHO"
+        "es": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
+        "en": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses"
       },
       "sintesis": {
-        "es": "Considerada la consejera más cercana de su marido durante los años clave de la Guerra Fría, ejerció una notable influencia entre bambalinas en la política exterior estadounidense sin ostentar nunca un cargo diplomático formal Leer",
-        "en": "WHO welcomed Mr Javier Padilla Bernáldez, Spain’s Secretary of State for Health and his delegation on 23 and 24 April 2024 to discuss joint global health priorities. Amongst others, Spain's focus is on universal health coverage and health systems strengthening; pandemic response and emergency medical teams; organ and tissue transplantation; malaria and other tropical diseases; and polio. During the visit, participants focused on plans and on-going work across a number of areas, including WHO’s Transplantation Program to increase availability; ethical access and oversight of transplantation of human cells; tissues and organs."
+        "es": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy. Prince Harry’s spokesperson confirmed he was no longer a trustee of African Parks , which admitted last year that human rights abuses were committed by its rangers in the Republic of the Congo. Continue reading...",
+        "en": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy. Prince Harry’s spokesperson confirmed he was no longer a trustee of African Parks , which admitted last year that human rights abuses were committed by its rangers in the Republic of the Congo. Continue reading..."
       },
-      "categoria": "salud",
+      "categoria": "sociedad",
       "actores": [
-        "Nancy Kissinger",
-        "State",
-        "Muere",
-        "Estado Henry"
+        "Prince Harry",
+        "Elton John",
+        "Others Told",
+        "Pay Daily"
       ],
       "geo": {
-        "lat": 40.5,
-        "lon": -3.7,
-        "region": "Europa"
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
       },
-      "impacto": 65,
+      "impacto": 53,
       "fuentes": [
-        "ev_fa9d67e635",
-        "ev_f30c5492f4",
-        "ev_3cbb1870b5"
+        "ev_c1b8d7767b",
+        "ev_6f3a4f9da4",
+        "ev_58772de3aa"
       ],
-      "cluster_id": "cl_138",
+      "cluster_id": "cl_137",
       "imagenes": [
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/21/17872937918389.jpg",
-        "https://static01.nyt.com/images/2026/08/23/multimedia/20Kissinger-Nancy-plfg-print1/20Kissinger-Nancy-plfg-mediumSquareAt3X.jpg"
+        "https://i.guim.co.uk/img/media/77bfd9102a5d3092cc1153ef2655588870e9000a/581_0_2866_2294/master/2866.jpg?width=140&quality=85&auto=format&fit=max&s=11a9c171e103e448612a73c3c895176b",
+        "https://e3.365dm.com/26/08/1920x1080/skynews-prince-harry-duke-of-sussex_7330289.jpg?20260824185542",
+        "https://static01.nyt.com/images/2026/08/21/multimedia/21int-UK-HARRY-COURT-kbtf/21int-UK-HARRY-COURT-kbtf-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_fa9d67e635",
-          "titulo": "Muere a los 92 años Nancy Kissinger, viuda y consejera del histórico ex secretario de Estado Henry Kissinger",
-          "url": "https://www.elmundo.es/internacional/2026/08/21/6a87f0bce9cf4a96178b4575.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 21 Aug 2026 08:31:43 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f30c5492f4",
-          "titulo": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
-          "url": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 21 Aug 2026 02:14:30 +0000",
+          "id": "ev_c1b8d7767b",
+          "titulo": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
+          "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
+          "fuente": "The Guardian World",
+          "fecha": "Mon, 24 Aug 2026 17:34:50 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_3cbb1870b5",
-          "titulo": "Spain's Secretary of State for Health discusses health priorities with WHO",
-          "url": "https://www.who.int/news/item/25-04-2024-spain-s-secretary-of-state-for-health-discusses-joint-global-health-priorities-with-who",
-          "fuente": "WHO News",
-          "fecha": "Thu, 25 Apr 2024 08:39:54 Z",
+          "id": "ev_6f3a4f9da4",
+          "titulo": "Prince Harry steps down from board of wildlife charity",
+          "url": "https://news.sky.com/story/prince-harry-steps-down-from-board-of-wildlife-charity-ahead-of-return-to-uk-with-meghan-13576743",
+          "fuente": "Sky News World",
+          "fecha": "Mon, 24 Aug 2026 18:41:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_58772de3aa",
+          "titulo": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
+          "url": "https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 21 Aug 2026 18:22:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-24_0007",
-      "fecha": "2026-08-24",
+      "id": "nd_2026-08-25_0007",
+      "fecha": "2026-08-25",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "How atmospheric dryness limits increases in typhoon rainfall",
+        "en": "How atmospheric dryness limits increases in typhoon rainfall"
+      },
+      "sintesis": {
+        "es": "Under global warming, scientists have widely expected tropical cyclones (including typhoons and hurricanes) to bring more intense and frequent rainfall. The underlying physics seems intuitive: Rising temperatures allow the atmosphere to hold more moisture, which, combined with intensifying storms, should theoretically trigger more destructive downpours. However, when researchers analyze climate model projections, they encounter a puzzling phenomenon.",
+        "en": "Under global warming, scientists have widely expected tropical cyclones (including typhoons and hurricanes) to bring more intense and frequent rainfall. The underlying physics seems intuitive: Rising temperatures allow the atmosphere to hold more moisture, which, combined with intensifying storms, should theoretically trigger more destructive downpours. However, when researchers analyze climate model projections, they encounter a puzzling phenomenon."
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "Iran"
+      ],
+      "geo": {
+        "lat": 32.4,
+        "lon": 53.7,
+        "region": "Oriente Medio"
+      },
+      "impacto": 53,
+      "fuentes": [
+        "ev_f7e6618918",
+        "ev_151479c2bd",
+        "ev_95841b984b",
+        "ev_da60af6924",
+        "ev_8282bdd376"
+      ],
+      "cluster_id": "cl_188",
+      "imagenes": [
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/research-shows-how-fus.jpg",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/the-midlife-clock-is-t.jpg",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/hku-study-reveals-how.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_f7e6618918",
+          "titulo": "How US sanctions on Iran ripple through global markets and consumers",
+          "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 24 Aug 2026 22:46:02 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_151479c2bd",
+          "titulo": "How fusion reactions can survive flaws—up to a point",
+          "url": "https://phys.org/news/2026-08-fusion-reactions-survive-flaws.html",
+          "fuente": "Phys.org",
+          "fecha": "Mon, 24 Aug 2026 19:00:01 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_95841b984b",
+          "titulo": "The midlife clock is ticking: How we understand 'time left' can help us use it well",
+          "url": "https://phys.org/news/2026-08-midlife-clock-left.html",
+          "fuente": "Phys.org",
+          "fecha": "Mon, 24 Aug 2026 18:20:01 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_da60af6924",
+          "titulo": "How atmospheric dryness limits increases in typhoon rainfall",
+          "url": "https://phys.org/news/2026-08-atmospheric-dryness-limits-typhoon-rainfall.html",
+          "fuente": "Phys.org",
+          "fecha": "Mon, 24 Aug 2026 17:10:01 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8282bdd376",
+          "titulo": "How to get a low auto loan and mortgage rate when bond yields increase borrowing costs",
+          "url": "https://www.cnbc.com/select/how-to-get-a-low-auto-loan-mortgage-rate-with-high-bond-yields/",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 24 Aug 2026 17:58:27 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-25_0008",
+      "fecha": "2026-08-25",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-24_0001"
+        "nd_2026-08-25_0001",
+        "nd_2026-08-25_0003",
+        "nd_2026-08-25_0009"
       ]
     },
     {
       "titulo": {
-        "es": "Jailed ex-Pakistan PM Imran Khan allowed brief hospital visit after uproar over health",
-        "en": "Jailed ex-Pakistan PM Imran Khan allowed brief hospital visit after uproar over health"
+        "es": "Israeli settler blockades part of escalating violence against Palestinians in the occupied West Bank",
+        "en": "Israeli settler blockades part of escalating violence against Palestinians in the occupied West Bank"
       },
       "sintesis": {
-        "es": "Supreme court ordered transfer of ex-leader whose health is reportedly deteriorating, but he was returned to prison several hours later Pakistan’s jailed former prime minister Imran Khan was briefly taken to a hospital in the country’s capital on supreme court orders after weeks of uproar about his deteriorating health. Khan, 73, was transferred to the hospital in the early hours of Friday, but then moved back to Adiala prison in Rawalpindi after a ⁠few hours, a spokesperson for his party said on Friday. Continue reading...",
-        "en": "Supreme court ordered transfer of ex-leader whose health is reportedly deteriorating, but he was returned to prison several hours later Pakistan’s jailed former prime minister Imran Khan was briefly taken to a hospital in the country’s capital on supreme court orders after weeks of uproar about his deteriorating health. Khan, 73, was transferred to the hospital in the early hours of Friday, but then moved back to Adiala prison in Rawalpindi after a ⁠few hours, a spokesperson for his party said on Friday. Continue reading..."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Imran Khan",
-        "Jailed",
-        "Pakistan",
-        "Granted Brief"
-      ],
-      "geo": {
-        "lat": 30.4,
-        "lon": 69.3,
-        "region": "Asia Meridional"
-      },
-      "impacto": 53,
-      "fuentes": [
-        "ev_72370935bf",
-        "ev_e6c7baba0c",
-        "ev_8cae8a8bd3"
-      ],
-      "cluster_id": "cl_149",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92fd/live/5223f330-9f6f-11f1-830e-359f4d9d175a.jpg",
-        "https://i.guim.co.uk/img/media/96766fdecb9254b8699c680a0c29d97bfc8e18d1/350_0_6801_5440/master/6801.jpg?width=140&quality=85&auto=format&fit=max&s=7ee4a22ef28d4039349bee6a942e786b",
-        "https://static01.nyt.com/images/2026/08/20/multimedia/20int-pakistan-new1-tkwc/20int-pakistan-new1-tkwc-mediumSquareAt3X.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_72370935bf",
-          "titulo": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 24 Aug 2026 03:55:35 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e6c7baba0c",
-          "titulo": "Jailed ex-Pakistan PM Imran Khan allowed brief hospital visit after uproar over health",
-          "url": "https://www.theguardian.com/world/2026/aug/20/imran-khan-hospital-pakistan",
-          "fuente": "The Guardian World",
-          "fecha": "Thu, 20 Aug 2026 23:07:10 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8cae8a8bd3",
-          "titulo": "Imran Khan Is Granted Brief Hospital Visit Before Returning to Prison",
-          "url": "https://www.nytimes.com/2026/08/20/world/asia/imran-khan-hospital-pakistan.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 21 Aug 2026 10:44:07 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-24_0008",
-      "fecha": "2026-08-24",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Christine Lagarde podría dejar el BCE para presidir el Foro Económico Mundial en 2027",
-        "en": "ECB head Christine Lagarde 'ready to serve' WEF, report says"
-      },
-      "sintesis": {
-        "es": "Lagarde figura como posible candidata a dirigir el Foro Económico Mundial, actualmente copresidido por Larry Fink, consejero delegado de BlackRock, y André Hoffmann, vicepresidente de Roche.",
-        "en": "The World Economic Forum is currently co-chaired by BlackRock CEO Larry Fink and André Hoffmann, the vice chairman of Roche."
+        "es": "A Palestinian-American has returned to his home in the occupied West Bank village of Qusra to protect it from Israeli settlers, amid a surge in attacks and settlement expansion.",
+        "en": "A Palestinian-American has returned to his home in the occupied West Bank village of Qusra to protect it from Israeli settlers, amid a surge in attacks and settlement expansion."
       },
       "categoria": "sociedad",
       "actores": [
-        "Christine Lagarde",
-        "BCE",
-        "Foro",
-        "Mundial"
+        "Israeli",
+        "Displaced Palestinians",
+        "Gaza",
+        "Palestinian Teenager"
       ],
       "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
+        "lat": 31.0,
+        "lon": 34.9,
+        "region": "Oriente Medio"
       },
-      "impacto": 50,
+      "impacto": 53,
       "fuentes": [
-        "ev_6b667a67dd",
-        "ev_1add1b8c71"
+        "ev_3d0a2210c7",
+        "ev_af296e00f1",
+        "ev_52c43b0348"
       ],
-      "cluster_id": "cl_094",
-      "imagenes": [],
+      "cluster_id": "cl_192",
+      "imagenes": [
+        "https://static01.nyt.com/images/2026/08/21/multimedia/21WestBank-attack-01-cwhm/21WestBank-attack-01-cwhm-mediumSquareAt3X.jpg"
+      ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_6b667a67dd",
-          "titulo": "Christine Lagarde podría dejar el BCE para presidir el Foro Económico Mundial en 2027",
-          "url": "http://es.euronews.com/my-europe/2026/08/23/la-presidenta-del-bce-christine-lagarde-lista-para-servir-al-wef-segun-un-informe",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sun, 23 Aug 2026 14:30:06 +0200",
-          "idioma": "es"
+          "id": "ev_3d0a2210c7",
+          "titulo": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 24 Aug 2026 21:12:06 +0000",
+          "idioma": "en"
         },
         {
-          "id": "ev_1add1b8c71",
-          "titulo": "ECB head Christine Lagarde 'ready to serve' WEF, report says",
-          "url": "http://www.euronews.com/my-europe/2026/08/23/ecb-head-christine-lagarde-ready-to-serve-wef-report-says",
-          "fuente": "Euronews English",
-          "fecha": "Sun, 23 Aug 2026 14:27:56 +0200",
+          "id": "ev_af296e00f1",
+          "titulo": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
+          "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 21 Aug 2026 18:32:08 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_52c43b0348",
+          "titulo": "Israeli settler blockades part of escalating violence against Palestinians in the occupied West Bank",
+          "url": "https://www.cbc.ca/news/world/israeli-siege-occupied-west-bank-qusra-9.7315801?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Sat, 22 Aug 2026 04:00:00 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-24_0009",
-      "fecha": "2026-08-24",
+      "id": "nd_2026-08-25_0009",
+      "fecha": "2026-08-25",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-08-25_0008"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "En Ucrania, los ataques rusos se multiplican y el número de víctimas civiles aumenta",
+        "en": "En Ucrania, los ataques rusos se multiplican y el número de víctimas civiles aumenta"
+      },
+      "sintesis": {
+        "es": "En la noche del 21 al 22 de agosto se produjeron nuevos ataques contra la capital ucraniana. El país se encuentra en estado de máxima alerta, a dos días del Día de la Independencia, una fecha que tradicionalmente se ve marcada por ataques rusos masivos. En todo el país, el balance de estas agresiones contra la población civil ya es elevado.",
+        "en": "En la noche del 21 al 22 de agosto se produjeron nuevos ataques contra la capital ucraniana. El país se encuentra en estado de máxima alerta, a dos días del Día de la Independencia, una fecha que tradicionalmente se ve marcada por ataques rusos masivos. En todo el país, el balance de estas agresiones contra la población civil ya es elevado."
+      },
+      "categoria": "innovacion",
+      "actores": [
+        "Ucrania",
+        "Ozon"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 49,
+      "fuentes": [
+        "ev_d256212eeb",
+        "ev_fa88b549a9",
+        "ev_874be08f6a",
+        "ev_d749ff558b"
+      ],
+      "cluster_id": "cl_041",
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/7H3FB6ZTHBEV7A6SNOFIFUVI2A.jpg?auth=a1ed8be271ea0773796765557102a92ca068ce160aac8f9f073f5d01b9c76804",
+        "https://s.rfi.fr/media/display/feaade4a-9df6-11f1-8084-005056bfb2b6/w:1024/p:16x9/AP26233422751335.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/24/17875961687200.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/21/17873283299929.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d256212eeb",
+          "titulo": "Ucrania apunta al corazón del comercio ruso al bombardear cuatro almacenes del gigante Ozon",
+          "url": "https://elpais.com/internacional/2026-08-24/ucrania-apunta-al-corazon-del-comercio-ruso-al-bombardear-cuatro-almacenes-del-gigante-ozon.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Mon, 24 Aug 2026 13:44:10 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_fa88b549a9",
+          "titulo": "En Ucrania, los ataques rusos se multiplican y el número de víctimas civiles aumenta",
+          "url": "https://www.rfi.fr/es/europa/20260822-en-ucrania-los-ataques-rusos-se-multiplican-y-el-n%C3%BAmero-de-v%C3%ADctimas-civiles-aumenta",
+          "fuente": "RFI Espanol",
+          "fecha": "Sat, 22 Aug 2026 10:54:07 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_874be08f6a",
+          "titulo": "Ucrania cumple 35 años luchando por seguir existiendo",
+          "url": "https://www.elmundo.es/internacional/2026/08/24/6a8c8d3121efa06d088b4592.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Mon, 24 Aug 2026 22:45:30 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d749ff558b",
+          "titulo": "Al menos 19 muertos y casi un centenar de heridos en un ataque ruso contra un centro comercial en Ucrania a plena luz del día",
+          "url": "https://www.elmundo.es/internacional/2026/08/21/6a8875aefc6c8353118b459f.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 21 Aug 2026 22:59:47 +0200",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-08-25_0010",
+      "fecha": "2026-08-25",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-08-25_0004",
+        "nd_2026-08-25_0013"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "De la Espriella estrena su política migratoria en Colombia con un anuncio de operativos y deportaciones",
+        "en": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown"
+      },
+      "sintesis": {
+        "es": "El presidente Abelardo de la Espriella ordenó iniciar operativos para identificar y deportar a extranjeros que cometan delitos y a migrantes en situación irregular en Colombia. La medida del ultraderechista marca una de las primeras definiciones de su Gobierno sobre migración en un país donde viven cerca de 2,8 millones de venezolanos, la mayor comunidad de foráneos .",
+        "en": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on immigrants, ordering authorities to detain and deport people who are in the country irregularly or have committed crimes. In office for just over two weeks, the millionaire former lawyer made the announcement on Sunday as the country continued to grapple with the aftermath of a 7.4-magnitude earthquake on 10 August that killed more than 300 people and destroyed more than 30,000 homes. Continue reading..."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Colombia",
+        "Espriella",
+        "Abelardo"
+      ],
+      "geo": {
+        "lat": 4.6,
+        "lon": -74.3,
+        "region": "Sudamerica"
+      },
+      "impacto": 49,
+      "fuentes": [
+        "ev_992550ebac",
+        "ev_dcc0a61ae3",
+        "ev_418281636a"
+      ],
+      "cluster_id": "cl_055",
+      "imagenes": [
+        "https://s.france24.com/media/display/569987e6-a01d-11f1-bc51-005056a90284/w:1024/p:16x9/ES-20260824-191239-191420-CS.jpg",
+        "https://s.france24.com/media/display/2e0272c2-a002-11f1-a28d-005056bfb2b6/w:1024/p:16x9/8023250586001w.jpg",
+        "https://i.guim.co.uk/img/media/16d4042f8c9b2aabb47619aa73c090daec510abd/784_32_3286_2630/master/3286.jpg?width=140&quality=85&auto=format&fit=max&s=0dff00fca5aae55855f30002bd0c4d94"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_992550ebac",
+          "titulo": "Colombia: De la Espriella ordena deportaciones de migrantes irregulares y vinculados con delitos",
+          "url": "https://www.france24.com/es/video/20260825-colombia-de-la-espriella-ordena-deportaciones-de-migrantes-irregulares-y-vinculados-con-delitos",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 25 Aug 2026 00:46:50 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_dcc0a61ae3",
+          "titulo": "De la Espriella estrena su política migratoria en Colombia con un anuncio de operativos y deportaciones",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260824-de-la-espriella-estrena-su-pol%C3%ADtica-migratoria-en-colombia-con-un-anuncio-de-operativos-y-deportaciones",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 24 Aug 2026 21:29:47 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_418281636a",
+          "titulo": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+          "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 25 Aug 2026 00:34:47 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-25_0011",
+      "fecha": "2026-08-25",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Muere Siim Kallas, ex primer ministro de Estonia y padre de Kaja Kallas, a los 77 años",
-        "en": "Metsola pays tribute to ex-EU Commissioner Kallas, after daughter Kaja Kallas announces father's death"
+        "es": "Health of Norway's King Harald deteriorated at the weekend, say royal officials",
+        "en": "Health of Norway's King Harald deteriorated at the weekend, say royal officials"
       },
       "sintesis": {
-        "es": "Siim Kallas, una de las figuras clave de la política estonia y europea, falleció a los 77 años. Su hija, Kaja Kallas, anunció su muerte, mientras líderes europeos como Roberta Metsola han rendido homenaje a su trayectoria.",
-        "en": "“It is with sadness that I must announce that my dear father, Siim Kallas, passed away last night,” posted EU foreign affairs chief Kaja Kallas on Instagram."
+        "es": "Norway's King Harald is in a stable condition in hospital after his health deteriorated at the weekend, royal officials have said.",
+        "en": "Norway's King Harald is in a stable condition in hospital after his health deteriorated at the weekend, royal officials have said."
       },
-      "categoria": "sociedad",
+      "categoria": "salud",
       "actores": [
-        "Kaja Kallas",
-        "Muere Siim",
-        "Kallas",
-        "Estonia"
+        "Norway",
+        "King Harald",
+        "King",
+        "Health"
       ],
       "geo": {
         "lat": 0.0,
@@ -887,300 +1141,114 @@
       },
       "impacto": 49,
       "fuentes": [
-        "ev_f8d3046437",
-        "ev_8e05c5f6ba"
+        "ev_ec92a6ab0e",
+        "ev_2a839991da",
+        "ev_342917e659"
       ],
-      "cluster_id": "cl_109",
-      "imagenes": [],
+      "cluster_id": "cl_119",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3908/live/3388cd30-9f8b-11f1-9fae-bbc7231f436d.jpg",
+        "https://e3.365dm.com/26/08/1920x1080/skynews-king-harald-norway_7329846.jpg?20260824100229",
+        "https://static.independent.co.uk/2026/06/23/15/2276683971..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_f8d3046437",
-          "titulo": "Muere Siim Kallas, ex primer ministro de Estonia y padre de Kaja Kallas, a los 77 años",
-          "url": "http://es.euronews.com/my-europe/2026/08/22/metsola-rinde-homenaje-al-excomisario-europeo-siim-kallas-tras-anunciar-su-muerte-kaja-kal",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sat, 22 Aug 2026 18:46:11 +0200",
-          "idioma": "es"
+          "id": "ev_ec92a6ab0e",
+          "titulo": "King of Norway's health has worsened, palace says",
+          "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Mon, 24 Aug 2026 08:31:55 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_8e05c5f6ba",
-          "titulo": "Metsola pays tribute to ex-EU Commissioner Kallas, after daughter Kaja Kallas announces father's death",
-          "url": "http://www.euronews.com/my-europe/2026/08/22/metsola-pays-tribute-to-ex-eu-commissioner-kallas-after-daughter-kaja-kallas-announces-fat",
-          "fuente": "Euronews English",
-          "fecha": "Sat, 22 Aug 2026 18:45:12 +0200",
+          "id": "ev_2a839991da",
+          "titulo": "Health of Norway's King Harald deteriorated at the weekend, say royal officials",
+          "url": "https://news.sky.com/story/health-of-norways-king-harald-deteriorated-at-the-weekend-say-royal-officials-13576556",
+          "fuente": "Sky News World",
+          "fecha": "Mon, 24 Aug 2026 09:53:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_342917e659",
+          "titulo": "Royal Palace gives health update on Norway’s King Harald as 89-year-old remains in hospital",
+          "url": "https://www.independent.co.uk/news/world/europe/king-harald-norway-health-hospital-latest-b3038080.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 24 Aug 2026 13:25:31 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-24_0010",
-      "fecha": "2026-08-24",
+      "id": "nd_2026-08-25_0012",
+      "fecha": "2026-08-25",
       "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Gstaad vs. St. Moritz: ¿Cuál es el mejor destino de Suiza para esquiar este invierno?",
-        "en": "Gstaad vs St. Moritz: Skiing, scenery and aprés-ski – which Swiss resort town should you visit?"
+        "es": "‘Fix that little spot’: Danish PM hits back at unsolicited beauty tip from cosmetic surgeon",
+        "en": "‘Fix that little spot’: Danish PM hits back at unsolicited beauty tip from cosmetic surgeon"
       },
       "sintesis": {
-        "es": "Tanto si le apasiona esquiar como si valora más el après-ski, esto es lo que debe saber antes de elegir una estancia alpina en St. Moritz o Gstaad.",
-        "en": "Whether you’re serious about skiing or care more about après-ski, here’s what you need to know before choosing an Alpine stay in St. Moritz or Gstaad."
+        "es": "Mette Frederiksen, who received message on returning from Ukraine, advises women to embrace self-acceptance Sick of getting unsolicited beauty tips on social media, the Danish prime minister, Mette Frederiksen , rebuffed a male cosmetic surgeon’s offer to “fix” her and advised women in similar situations to embrace self-acceptance. Frederiksen, a Social Democrat and Denmark’s second female prime minister, posted on Instagram that she had just returned from a trip to Ukraine, where she was subjected to air raid sirens, when she found a message proposing some help with her appearance. Continue reading...",
+        "en": "Mette Frederiksen, who received message on returning from Ukraine, advises women to embrace self-acceptance Sick of getting unsolicited beauty tips on social media, the Danish prime minister, Mette Frederiksen , rebuffed a male cosmetic surgeon’s offer to “fix” her and advised women in similar situations to embrace self-acceptance. Frederiksen, a Social Democrat and Denmark’s second female prime minister, posted on Instagram that she had just returned from a trip to Ukraine, where she was subjected to air raid sirens, when she found a message proposing some help with her appearance. Continue reading..."
       },
-      "categoria": "sociedad",
+      "categoria": "salud",
       "actores": [
-        "Gstaad",
-        "Moritz",
-        "Suiza",
-        "Skiing"
+        "Denmark",
+        "Fix",
+        "Danish",
+        "Instagram"
       ],
       "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 48,
-      "fuentes": [
-        "ev_96e8ca1801",
-        "ev_ea3af27782"
-      ],
-      "cluster_id": "cl_105",
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_96e8ca1801",
-          "titulo": "Gstaad vs. St. Moritz: ¿Cuál es el mejor destino de Suiza para esquiar este invierno?",
-          "url": "http://es.euronews.com/viajes/2026/08/23/gstaad-o-st-moritz-que-ciudad-suiza-elegir-para-esqui-paisajes-y-apres-ski",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sun, 23 Aug 2026 07:07:56 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_ea3af27782",
-          "titulo": "Gstaad vs St. Moritz: Skiing, scenery and aprés-ski – which Swiss resort town should you visit?",
-          "url": "http://www.euronews.com/travel/2026/08/23/gstaad-vs-st-moritz-skiing-scenery-and-apres-ski-which-swiss-resort-town-should-you-visit",
-          "fuente": "Euronews English",
-          "fecha": "Sun, 23 Aug 2026 07:07:56 +0200",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-24_0011",
-      "fecha": "2026-08-24",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "China abruptly delays ambitious Chang’e-7 mission to find water ice on moon",
-        "en": "China abruptly delays ambitious Chang’e-7 mission to find water ice on moon"
-      },
-      "sintesis": {
-        "es": "China has postponed its Chang’e-7 lunar mission, which was due to launch in the coming days and search for water ice near the Moon’s south pole, a government agency said Saturday. Officials said the mission did not meet launch conditions, without providing further details.",
-        "en": "China has postponed its Chang’e-7 lunar mission, which was due to launch in the coming days and search for water ice near the Moon’s south pole, a government agency said Saturday. Officials said the mission did not meet launch conditions, without providing further details."
-      },
-      "categoria": "innovacion",
-      "actores": [
-        "China",
-        "Chang",
-        "Due",
-        "Moon"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
       },
       "impacto": 47,
       "fuentes": [
-        "ev_c6c589d5cb",
-        "ev_e20750dd8b",
-        "ev_d9b9406015"
+        "ev_9a51c14edb",
+        "ev_8980709580",
+        "ev_ab68e858cc"
       ],
-      "cluster_id": "cl_213",
+      "cluster_id": "cl_154",
       "imagenes": [
-        "https://s.france24.com/media/display/a5fe5816-9efb-11f1-8513-005056a90284/w:1024/p:16x9/AP26235451703162.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/china-abruptly-postpon.jpg",
-        "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped-1152x648.jpg"
+        "https://i.guim.co.uk/img/media/465171aefebfeec2269ea8e0de8a32ab67e68802/380_35_4667_3733/master/4667.jpg?width=140&quality=85&auto=format&fit=max&s=56f198b33bd1e4f7277c2051f2cc7250",
+        "https://static.independent.co.uk/2026/08/24/16/Denmark_Prime_Minister_Body_Shaming_85894.jpg?width=1200&auto=webp&crop=3%3A2"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_c6c589d5cb",
-          "titulo": "China abruptly delays ambitious Chang’e-7 mission to find water ice on moon",
-          "url": "https://www.france24.com/en/asia-pacific/20260823-china-abruptly-delays-ambitious-chang-e-7-mission-to-find-water-ice-on-moon",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 23 Aug 2026 14:23:11 GMT",
+          "id": "ev_9a51c14edb",
+          "titulo": "‘Fix that little spot’: Danish PM hits back at unsolicited beauty tip from cosmetic surgeon",
+          "url": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
+          "fuente": "The Guardian World",
+          "fecha": "Mon, 24 Aug 2026 16:59:53 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_e20750dd8b",
-          "titulo": "China abruptly postpones ambitious Chang'e-7 lunar mission launch",
-          "url": "https://phys.org/news/2026-08-china-abruptly-postpones-ambitious-lunar.html",
-          "fuente": "Phys.org",
-          "fecha": "Sun, 23 Aug 2026 10:38:51 EDT",
+          "id": "ev_8980709580",
+          "titulo": "Denmark's prime minister blasts unsolicited beauty advice from plastic surgeon on Instagram",
+          "url": "https://www.independent.co.uk/news/world/europe/mette-frederiksen-ukraine-denmark-botox-donald-trump-b3038343.html",
+          "fuente": "The Independent World",
+          "fecha": "Mon, 24 Aug 2026 15:11:57 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_d9b9406015",
-          "titulo": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
-          "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-          "fuente": "Ars Technica",
-          "fecha": "Sun, 23 Aug 2026 14:30:16 +0000",
+          "id": "ev_ab68e858cc",
+          "titulo": "Denmark's PM blasts plastic surgeon for his unsolicited offer to 'fix' spot on her nose",
+          "url": "https://www.cbc.ca/news/world/mette-frederiksen-instagram-post-9.7318725?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Mon, 24 Aug 2026 15:55:00 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-24_0012",
-      "fecha": "2026-08-24",
-      "kardashev": "K2",
+      "id": "nd_2026-08-25_0013",
+      "fecha": "2026-08-25",
+      "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-24_0004"
+        "nd_2026-08-25_0004",
+        "nd_2026-08-25_0010"
       ]
-    },
-    {
-      "titulo": {
-        "es": "Lenovo Coupon Codes: 15% Off in August 2026",
-        "en": "Lenovo Coupon Codes: 15% Off in August 2026"
-      },
-      "sintesis": {
-        "es": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-        "en": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "August",
-        "Codes",
-        "Promo Codes",
-        "Off"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 47,
-      "fuentes": [
-        "ev_81ebe64315",
-        "ev_33218c284a",
-        "ev_7b2aa0a981",
-        "ev_7fe63c439c",
-        "ev_916a4db681",
-        "ev_76f3903d6d",
-        "ev_0ec1094382",
-        "ev_5b7490debd",
-        "ev_608f1bf5c1",
-        "ev_656feb4d9c",
-        "ev_5e5667c01b",
-        "ev_551ee79d37"
-      ],
-      "cluster_id": "cl_488",
-      "imagenes": [
-        "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
-        "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
-        "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
-        "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_81ebe64315",
-          "titulo": "Paramount+ Coupon Codes and Deals for August 2026",
-          "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-          "fuente": "WIRED",
-          "fecha": "Fri, 21 Aug 2026 05:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_33218c284a",
-          "titulo": "Zoro Coupon Codes: 55% Off August",
-          "url": "https://www.wired.com/story/zoro-promo-code/",
-          "fuente": "WIRED",
-          "fecha": "Fri, 21 Aug 2026 05:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_7b2aa0a981",
-          "titulo": "Valvoline Coupons and Promo Codes for August 2026",
-          "url": "https://www.wired.com/story/valvoline-coupons/",
-          "fuente": "WIRED",
-          "fecha": "Fri, 21 Aug 2026 05:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_7fe63c439c",
-          "titulo": "30% Off Canon Promo Codes | August 2026",
-          "url": "https://www.wired.com/story/canon-promo-code/",
-          "fuente": "WIRED",
-          "fecha": "Fri, 21 Aug 2026 05:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_916a4db681",
-          "titulo": "Hoka Coupon Codes: 30% Off in August 2026",
-          "url": "https://www.wired.com/story/hoka-coupon-code/",
-          "fuente": "WIRED",
-          "fecha": "Fri, 21 Aug 2026 05:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_76f3903d6d",
-          "titulo": "Lenovo Coupon Codes: 15% Off in August 2026",
-          "url": "https://www.wired.com/story/lenovo-coupon-code/",
-          "fuente": "WIRED",
-          "fecha": "Fri, 21 Aug 2026 05:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_0ec1094382",
-          "titulo": "B&H Photo Promo Codes and Deals This August 2026",
-          "url": "https://www.wired.com/story/bh-photo-coupon/",
-          "fuente": "WIRED",
-          "fecha": "Fri, 21 Aug 2026 05:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5b7490debd",
-          "titulo": "Home Depot Promo Codes: 30% Off in August 2026",
-          "url": "https://www.wired.com/story/home-depot-promo-code/",
-          "fuente": "WIRED",
-          "fecha": "Fri, 21 Aug 2026 05:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_608f1bf5c1",
-          "titulo": "Ray-Ban Promo Codes: Save 50% in August 2026",
-          "url": "https://www.wired.com/story/ray-ban-promo-code/",
-          "fuente": "WIRED",
-          "fecha": "Fri, 21 Aug 2026 05:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_656feb4d9c",
-          "titulo": "Meta Quest Promo Codes and Coupons for August 2026",
-          "url": "https://www.wired.com/story/meta-quest-promo-code/",
-          "fuente": "WIRED",
-          "fecha": "Fri, 21 Aug 2026 05:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5e5667c01b",
-          "titulo": "Squarespace Promo Codes: 20% Off in August 2026",
-          "url": "https://www.wired.com/story/squarespace-promo-code/",
-          "fuente": "WIRED",
-          "fecha": "Fri, 21 Aug 2026 05:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_551ee79d37",
-          "titulo": "Peacock Promo Codes: 40% Off August 2026",
-          "url": "https://www.wired.com/story/peacock-promo-code/",
-          "fuente": "WIRED",
-          "fecha": "Thu, 20 Aug 2026 05:00:00 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-24_0013",
-      "fecha": "2026-08-24",
-      "kardashev": "K0",
-      "relaciones": []
     }
   ]
 }

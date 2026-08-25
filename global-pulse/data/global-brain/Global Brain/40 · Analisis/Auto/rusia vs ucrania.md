@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-08-24
-nodos: 17
+actualizado: 2026-08-25
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-24. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-25. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-17 nodos registrados en el periodo. Lo mas reciente: Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief.
+20 nodos registrados en el periodo. Lo mas reciente: Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front line’ while striking Russia’s economy.
 
 ## Trend summary (EN)
-17 nodes recorded in the period. Most recent: Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief.
+20 nodes recorded in the period. Most recent: Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front line’ while striking Russia’s economy.
 
 > [!note] Estado actual
-> Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief
+> Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front line’ while striking Russia’s economy
 
-## Nodos recientes (17 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-25 | 66 | K2 | Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front lin |
+| 2026-08-25 | 49 | K0 | En Ucrania, los ataques rusos se multiplican y el número de víct |
+| 2026-08-25 | 47 | K1 | ‘Fix that little spot’: Danish PM hits back at unsolicited beaut |
 | 2026-08-23 | 83 | K0 | Attack on Ukraine shopping centre that killed 16 is ‘terror by d |
 | 2026-08-20 | 89 | K1 | Detenido en Croacia un segundo sospechoso del sabotaje a Nord St |
 | 2026-08-18 | 53 | K0 | Russian strike on Kyiv book market: 'An attempt to annihilate Uk |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-08-14 | 72 | K1 | Polonia frustra un complot ruso para asesinar a un ciudadano ucr |
 | 2026-08-13 | 72 | K1 | Rusia y Ucrania intensifican ataques mutuos contra puertos e inf |
 | 2026-08-13 | 72 | K2 | Tribunal sirio condena a muerte a Bashar al-Ásad en ausencia por |
-| 2026-08-12 | 83 | K0 | Civilian casualties climb as Russia and Ukraine exchange fresh s |
-| 2026-08-12 | 83 | K1 | Syrian court sentences Bashar al-Assad to death in absentia for  |
-| 2026-08-09 | 74 | K1 | Serbia’s Vucic attempts diplomatic ‘balancing act’ with Zelensky |
 
 [[Global Brain — Inicio|← Inicio]]
