@@ -1,137 +1,35 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-08-25",
-    "generado": "2026-08-25T05:22:39.802152+00:00",
+    "fecha": "2026-08-26",
+    "generado": "2026-08-26T05:23:04.537096+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 749,
-      "clusters": 505,
-      "nodos": 505,
-      "verificados": 505,
-      "duracion_s": 76.2
+      "piezas_ingeridas": 834,
+      "clusters": 587,
+      "nodos": 587,
+      "verificados": 587,
+      "duracion_s": 105.6
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Arabia Saudita invertirá 6.000 millones de euros en tres parques temáticos cerca de París",
-        "en": "Saudi Arabia to invest €6 billion in theme parks near Paris, Macron says"
+        "es": "Trump acusa a Irán de matar manifestantes a \"niveles nunca vistos\" y de no pagar a parte de su Ejército",
+        "en": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing"
       },
       "sintesis": {
-        "es": "Francia y Arabia Saudita firmaron un acuerdo para una inversión saudita de 6.000 millones de euros (7.000 millones de dólares) destinada a construir tres parques de diversiones cerca de París, uno de ellos posiblemente dedicado al manga. El anuncio se produjo durante la visita del príncipe heredero Mohammed bin Salman a Francia, centrada en acuerdos bilaterales y en la crisis en Medio Oriente.",
-        "en": "France and Saudi Arabia on Monday signed an agreement for the oil-rich Gulf kingdom to invest €6 billion to create three amusement parks near Paris, including one likely to be a manga-themed park, the French presidential office said. The announcement came during Saudi Crown Prince Mohammed bin Salman's visit focused on bilateral deals and the current crisis in the Middle East."
+        "es": "El presidente estadounidense denuncia una \"crisis humanitaria de proporciones épicas\" en Irán y asegura que Teherán no puede pagar a parte de su Ejército. La ONU cifra en decenas las ejecuciones vinculadas a las protestas en 2026, mientras 32 países exigen que cesen.",
+        "en": "US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from the White Stripes Don’t already get First Thing in your inbox? Sign up here Good morning."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Macron",
-        "Paris",
-        "Saudi Arabia",
-        "France"
-      ],
-      "geo": {
-        "lat": 46.6,
-        "lon": 2.2,
-        "region": "Europa"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_9254cea510",
-        "ev_1c4fd6666d",
-        "ev_5eeeffdd4e",
-        "ev_bbc96b2bec",
-        "ev_9bf5fe2993",
-        "ev_cd91092f91",
-        "ev_b869cf7de6"
-      ],
-      "cluster_id": "cl_039",
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/UZPACT3ZJZL2RMHLYKBL4EXUA4.jpg?auth=9eed40b2c478672961645472771ca33afee5901c860e1eb73699b896f6bfc405",
-        "https://s.france24.com/media/display/7a181164-9fdd-11f1-86a6-005056a97e36/w:1024/p:16x9/AP26236547093503.jpg",
-        "https://s.rfi.fr/media/display/032ba358-9ef8-11f1-83ed-005056bf30b7/w:1024/p:16x9/2026-08-20T185538Z-942739809-RC2VHBATT3FF-RTRMADP-3-FRANCE-SAUDI.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/23/17875123452939.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_9254cea510",
-          "titulo": "Macron anuncia tres parques “como Disneyland” en París financiados por Arabia Saudí",
-          "url": "https://elpais.com/internacional/2026-08-24/macron-anuncia-tres-parques-como-disneyland-en-paris-financiados-por-arabia-saudi.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Mon, 24 Aug 2026 19:41:00 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_1c4fd6666d",
-          "titulo": "Arabia Saudita invertirá 6.000 millones de euros en tres parques temáticos cerca de París",
-          "url": "https://www.france24.com/es/europa/20260824-arabia-saudita-invertir%C3%A1-6-000-millones-de-euros-en-tres-parques-tem%C3%A1ticos-cerca-de-par%C3%ADs",
-          "fuente": "France 24 Espanol",
-          "fecha": "Mon, 24 Aug 2026 22:50:26 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_5eeeffdd4e",
-          "titulo": "Francia: El príncipe saudita Mohamed bin Salman visita París con una agenda llena",
-          "url": "https://www.rfi.fr/es/francia/20260823-francia-el-pr%C3%ADncipe-saudita-mohamed-bin-salman-visita-par%C3%ADs-con-una-agenda-llena",
-          "fuente": "RFI Espanol",
-          "fecha": "Sun, 23 Aug 2026 13:40:21 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_bbc96b2bec",
-          "titulo": "Macron corteja al despiadado Bin Salman para mantener la influencia francesa en Oriente Próximo y hacer negocios",
-          "url": "https://www.elmundo.es/internacional/2026/08/24/6a8b0304e9cf4adf388b4575.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Mon, 24 Aug 2026 02:14:17 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_9bf5fe2993",
-          "titulo": "Saudi Arabia to invest €6 billion in theme parks near Paris, Macron says",
-          "url": "https://www.france24.com/en/europe/20260824-saudi-arabia-to-invest-%E2%82%AC6-billion-theme-parks-near-paris-macron-says",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 24 Aug 2026 18:13:11 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_cd91092f91",
-          "titulo": "With 'rare' Paris talks, France hopes to cash in on Saudi investment programme",
-          "url": "https://www.france24.com/en/with-rare-paris-talks-france-hopes-to-cash-in-on-saudi-investment-programme",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 24 Aug 2026 13:52:23 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b869cf7de6",
-          "titulo": "France, Saudi Arabia agree on $7bn theme park project near Paris",
-          "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Tue, 25 Aug 2026 04:38:20 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-25_0000",
-      "fecha": "2026-08-25",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Informe desde Washington: EE. UU. advierte a países que no apoyen sanciones estadounidenses a Irán",
-        "en": "Iran predicts ‘another defeat’ for US after Washington's new sanctions"
-      },
-      "sintesis": {
-        "es": "Estados Unidos lanzó una nueva ofensiva económica contra Irán, pero aún mantiene un período de espera antes de aplicar sanciones más duras a países que comercian con Teherán. La advertencia es clara: aquellos países que no apoyen las sanciones estadounidenses, serían aislados del sistema financiero del dólar. Desde Washington, nuestra corresponsal Carolina Valladares nos cuenta los detalles.",
-        "en": "Iranian Economy Minister Ali Madanizadeh on Monday warned of \"another defeat\" for the US after Treasury Secretary Scott Bessent announced expanded sanctions against Tehran. Madanizadeh said Iran had a \"two-year plan\" to counter the new sanctions and dismissed Bessent's stated efforts to sever \"every economic lifeline\" sustaining Iran. Read our blog to see how the day's events unfolded."
-      },
-      "categoria": "geopolitica",
-      "actores": [
+        "Trump",
         "Iran",
-        "Bessent",
-        "Washington",
-        "Informe"
+        "Supreme",
+        "First Thing"
       ],
       "geo": {
         "lat": 35.9,
@@ -140,110 +38,232 @@
       },
       "impacto": 95,
       "fuentes": [
-        "ev_52e69e9f0b",
-        "ev_d420f9e1be",
-        "ev_d8155016b7",
-        "ev_a91c6b8e09",
-        "ev_b690e60b39",
-        "ev_528cd803f2",
-        "ev_b6e5f5d256",
-        "ev_c1096a4628"
+        "ev_133be3da22",
+        "ev_2b041ef298",
+        "ev_d125ac2b17",
+        "ev_0d64eb5301",
+        "ev_24afef4abe",
+        "ev_6106b5cd82",
+        "ev_37b9c237dc",
+        "ev_ad9c0a4801"
       ],
-      "cluster_id": "cl_056",
+      "cluster_id": "cl_035",
       "imagenes": [
-        "https://s.france24.com/media/display/fd9a4128-a00b-11f1-9c9a-005056bf30b7/w:1024/p:16x9/ES-20260824-130421-130806-CS.jpg",
-        "https://s.france24.com/media/display/552900fe-9ff4-11f1-9dfb-005056bfb2b6/w:1024/p:16x9/348da3527c6d3d2c0b2149d797c9ea9560ee6767.jpg",
-        "https://s.france24.com/media/display/08ac3fe8-9ff4-11f1-80a7-005056bf30b7/w:1024/p:16x9/AP26236447179370.jpg",
-        "https://static.independent.co.uk/2026/08/24/21/Treasury_Bessent_86692.jpg?width=1200&auto=webp&crop=3%3A2"
+        "https://imagenes.elpais.com/resizer/v2/GNST4QG2N5JAHMEJI3IUG6KMCY.jpg?auth=2bab60f40993ff1de947e4be258b3934d7124ec422b08af4fe280acda60f8800",
+        "https://i.guim.co.uk/img/media/4a9f9d9a35e0debbe5f1f29de3098fb6da308e93/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=d5454f627c1b015a0635119b33a77a70",
+        "https://static01.nyt.com/images/2026/08/20/multimedia/00int-Iran-Artemis-kcbz/00int-Iran-Artemis-kcbz-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_52e69e9f0b",
-          "titulo": "Informe desde Washington: EE. UU. advierte a países que no apoyen sanciones estadounidenses a Irán",
-          "url": "https://www.france24.com/es/video/20260824-informe-desde-washington-ee-uu-advierte-a-pa%C3%ADses-que-no-apoyen-sanciones-estadounidenses-a-ir%C3%A1n",
-          "fuente": "France 24 Espanol",
-          "fecha": "Mon, 24 Aug 2026 23:29:37 GMT",
+          "id": "ev_133be3da22",
+          "titulo": "¿Quién comercia con Irán? Los países en la diana de Trump",
+          "url": "https://elpais.com/internacional/2026-08-25/quien-comercia-con-iran-los-paises-en-la-diana-de-trump.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Tue, 25 Aug 2026 16:57:24 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_d420f9e1be",
-          "titulo": "🔴 Mideast live: US unveils fresh sanctions to 'sever every economic lifeline' sustaining Iran",
-          "url": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 24 Aug 2026 17:16:05 GMT",
+          "id": "ev_2b041ef298",
+          "titulo": "Trump acusa a Irán de matar manifestantes a \"niveles nunca vistos\" y de no pagar a parte de su Ejército",
+          "url": "http://es.euronews.com/2026/08/25/trump-critica-a-teheran-por-ejecutar-a-manifestantes-a-niveles-nunca-vistos",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 25 Aug 2026 15:35:06 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d125ac2b17",
+          "titulo": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
+          "url": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 25 Aug 2026 12:31:53 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_d8155016b7",
-          "titulo": "US unveils expanded sanctions aimed at Iran's 'economic asphyxiation'",
-          "url": "https://www.france24.com/en/middle-east/20260824-us-unveils-fresh-sanctions-to-sever-every-economic-lifeline-sustaining-iran",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 24 Aug 2026 13:27:10 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a91c6b8e09",
-          "titulo": "Iran predicts ‘another defeat’ for US after Washington's new sanctions",
-          "url": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 24 Aug 2026 12:50:27 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b690e60b39",
-          "titulo": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
-          "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+          "id": "ev_0d64eb5301",
+          "titulo": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
+          "url": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
           "fuente": "NPR News",
-          "fecha": "Mon, 24 Aug 2026 08:26:00 -0400",
+          "fecha": "Tue, 25 Aug 2026 07:09:01 -0400",
           "idioma": "en"
         },
         {
-          "id": "ev_528cd803f2",
-          "titulo": "The Latest: Bessent warns the world to cut financial ties to Iran or face US retaliation",
-          "url": "https://www.independent.co.uk/news/world/americas/donald-trump-jd-vance-iran-scott-bessent-susan-collins-b3038503.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 24 Aug 2026 20:34:55 GMT",
+          "id": "ev_24afef4abe",
+          "titulo": "Supreme Court rejects challenge to Trump order on mail-in ballots, but more legal battles are expected",
+          "url": "https://www.cbc.ca/news/world/us-supreme-court-trump-mail-in-ballots-9.7319285?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 25 Aug 2026 09:28:58 EDT",
           "idioma": "en"
         },
         {
-          "id": "ev_b6e5f5d256",
-          "titulo": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
-          "url": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Mon, 24 Aug 2026 13:17:35 GMT",
+          "id": "ev_6106b5cd82",
+          "titulo": "New US sanctions signal Trump desperation on Iran, experts say",
+          "url": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 25 Aug 2026 20:34:49 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_c1096a4628",
-          "titulo": "Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation",
-          "url": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Mon, 24 Aug 2026 19:40:00 GMT",
+          "id": "ev_37b9c237dc",
+          "titulo": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+          "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+          "fuente": "NPR News",
+          "fecha": "Tue, 25 Aug 2026 05:07:09 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ad9c0a4801",
+          "titulo": "Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home",
+          "url": "https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html",
+          "fuente": "NYT World",
+          "fecha": "Tue, 25 Aug 2026 23:58:04 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-25_0001",
-      "fecha": "2026-08-25",
+      "id": "nd_2026-08-26_0000",
+      "fecha": "2026-08-26",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-25_0003",
-        "nd_2026-08-25_0008"
+        "nd_2026-08-26_0002",
+        "nd_2026-08-26_0003",
+        "nd_2026-08-26_0004",
+        "nd_2026-08-26_0005",
+        "nd_2026-08-26_0013"
       ]
     },
     {
       "titulo": {
-        "es": "Trump retira a Siria de la lista de \"patrocinadores del terrorismo\" tras 47 años: ¿qué significa?",
-        "en": "Trump administration plans to revoke 200,000 visas of asylum seekers"
+        "es": "¿El jefe de la CIA viajó a Moscú? ¿Por qué? Esto se sabe",
+        "en": "CIA director John Ratcliffe reportedly on Moscow visit"
       },
       "sintesis": {
-        "es": "Tras cumplirse los 45 días formales de plazo desde la notificación al Congreso, el Gobierno de Donald Trump quitó oficialmente a Siria de su lista de países \"patrocinadores del terrorismo\", en la que se encontraba desde 1979. Este paso significa el levantamiento de una serie de sanciones, que Damasco consideraba el \"último obstáculo\" para permitir que la reconexión del país con el sistema financiero y económico global.",
-        "en": "The state department will revoke B1 and B2 visas issued between 2016 and 2026, whose holders have sought or are now seeking asylum Donald Trump’s administration said on Monday it planned to revoke the non-immigrant visas of foreigners who have applied for or are currently seeking asylum status in the US, marking its latest step in a sweeping immigration crackdown. A state department spokesperson said it was coordinating with the Department of Homeland Security “to identify and revoke the non-immigrant visas of foreigners who have come to the United States claiming to be short-term visitors, but then file for asylum to stay here permanently”. Continue reading..."
+        "es": "Según los medios estadounidenses 'CBS' y 'Axios', el director de la CIA, John Ratcliffe, visitó Moscú este martes 25 de agosto. Ratcliffe llegó a Moscú con una visita sorpresa en la mañana y salió de la capital rusa por la tarde del mismo día entre rumores de una posible liberación del estadounidense Charles Zimmerman.",
+        "en": "Unannounced trip reported by US media is said to be Ratcliffe’s first known visit to Russia as CIA chief The CIA director, John Ratcliffe, has made an unannounced visit to Moscow, US media reported, after flight data showed an American military aircraft flew to the Russian capital, where a US diplomatic motorcade was later spotted. CBS News quoted sources familiar with the situation as confirming Ratcliffe’s trip, saying it was his first known visit to Russia as CIA chief. Axios separately confirmed the visit, quoting a US official."
       },
       "categoria": "geopolitica",
       "actores": [
+        "CIA",
+        "Moscow",
+        "Ratcliffe",
+        "John Ratcliffe"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_2290b01e6f",
+        "ev_e0105a3654",
+        "ev_abf84b17a9",
+        "ev_6832258f23",
+        "ev_007b680bb2",
+        "ev_4035b9b644",
+        "ev_9ccf2896a9",
+        "ev_5dacadd14d",
+        "ev_e80b87f6b1"
+      ],
+      "cluster_id": "cl_048",
+      "imagenes": [
+        "https://s.france24.com/media/display/d4b988ba-4fff-11f1-bff8-005056a97e36/w:1024/p:16x9/AP26134772650160.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/25/17876762994621.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg",
+        "https://i.guim.co.uk/img/media/7af07e105849a6d3126b60ea6197afa023f107aa/751_0_2175_1740/master/2175.jpg?width=140&quality=85&auto=format&fit=max&s=54c514cc003c82cf728b3faa34495551"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_2290b01e6f",
+          "titulo": "¿El jefe de la CIA viajó a Moscú? ¿Por qué? Esto se sabe",
+          "url": "https://www.france24.com/es/europa/20260826-el-jefe-de-la-cia-viaj%C3%B3-a-mosc%C3%BA-por-qu%C3%A9-esto-se-sabe",
+          "fuente": "France 24 Espanol",
+          "fecha": "Wed, 26 Aug 2026 00:40:56 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_e0105a3654",
+          "titulo": "El director de la CIA John Ratcliffe llega a Moscú en una visita secreta y sin agenda conocida",
+          "url": "http://es.euronews.com/my-europe/2026/08/25/el-director-de-la-cia-john-ratcliffe-llega-a-moscu-en-una-visita-secreta-y-sin-agenda-cono",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 25 Aug 2026 17:17:42 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_abf84b17a9",
+          "titulo": "El jefe de la CIA visita por sorpresa Moscú con la guerra en una nueva fase de peligro",
+          "url": "https://www.elmundo.es/internacional/2026/08/25/6a8da6fae9cf4a98778b458e.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Tue, 25 Aug 2026 20:34:51 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_6832258f23",
+          "titulo": "CIA chief travels to Moscow for unannounced talks, US media reports",
+          "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 25 Aug 2026 19:48:14 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_007b680bb2",
+          "titulo": "CIA director John Ratcliffe reportedly on Moscow visit",
+          "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 25 Aug 2026 16:00:09 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4035b9b644",
+          "titulo": "CIA director Ratcliffe arrives in Moscow on secret visit, US reports claim",
+          "url": "http://www.euronews.com/my-europe/2026/08/25/cia-director-ratcliffe-arrives-in-moscow-on-secret-visit-us-reports-claim",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 25 Aug 2026 17:01:26 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9ccf2896a9",
+          "titulo": "CIA director John Ratcliffe meets with Russian officials in Moscow, reports say",
+          "url": "https://www.cbc.ca/news/world/cia-director-ratcliffe-moscow-meetings-9.7320041?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 25 Aug 2026 16:14:16 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5dacadd14d",
+          "titulo": "Ukraine-Russia war latest: Mystery as military plane ‘carrying CIA director’ leaves Moscow after short visit",
+          "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-burnham-drone-attacks-b3038615.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 25 Aug 2026 22:56:29 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e80b87f6b1",
+          "titulo": "CIA director ‘makes mystery visit to Moscow’ with no explanation from Kremlin or Trump",
+          "url": "https://www.independent.co.uk/news/world/europe/cia-john-ratcliffe-moscow-visit-russia-b3038932.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 25 Aug 2026 18:33:34 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-26_0001",
+      "fecha": "2026-08-26",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Un tribunal federal anula la suspensión de visados ordenada por Trump para 75 países",
+        "en": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal"
+      },
+      "sintesis": {
+        "es": "Un tribunal federal de Nueva York ha dejado sin efecto la suspensión de visados de inmigrante impuesta por la Administración de Donald Trump a 75 naciones, al concluir que el secretario de Estado, Marco Rubio, se extralimitó en sus funciones Leer",
+        "en": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African country receive as many as 1,200 people under the Trump administration ’s immigration crackdown. The group arrived at the Roberts international airport outside the capital, Monrovia. The Liberia-US agreement is one of the largest third-country deportation arrangements pursued by the administration since Trump returned to office last year."
+      },
+      "categoria": "salud",
+      "actores": [
         "Trump",
-        "Siria"
+        "Liberia"
       ],
       "geo": {
         "lat": 39.8,
@@ -252,42 +272,30 @@
       },
       "impacto": 87,
       "fuentes": [
-        "ev_7c4f9d65f1",
-        "ev_2bfcebd6f7",
+        "ev_d79911a8e3",
         "ev_cb4571de1f",
-        "ev_347d1ee7fc",
-        "ev_4c44107c0d",
-        "ev_2f26ef4753",
-        "ev_1f1fa00d1b",
-        "ev_0110660eda",
-        "ev_dd1cc7d10f",
-        "ev_8f31b92538",
-        "ev_e7201ac30a",
-        "ev_b3bbde7a32"
+        "ev_e0779fc33f",
+        "ev_76725474db",
+        "ev_abf242f1fc",
+        "ev_e8f7b921df",
+        "ev_1a9c87ba34",
+        "ev_1cd31c6897"
       ],
-      "cluster_id": "cl_042",
+      "cluster_id": "cl_156",
       "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/BYNNTEIFQVLZHAMRHELZBUDBJ4.jpg?auth=a495fa825a335cb41dac5f830ca03d56a75c17a69cfea54910e9da3cdd61a1e1",
-        "https://s.france24.com/media/display/1d0187b4-a008-11f1-904a-005056bfb2b6/w:1024/p:16x9/FOTO-PORTADA-EEUU-SIRIA-TRUMP-AL-SHARAA.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/25/17876357949135.jpg",
         "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/22/17874154354134.jpg",
-        "https://i.guim.co.uk/img/media/4b1c4de1e3a634f4f93a72dfc2d4c3c265237f69/256_0_3288_2632/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=983c308b9c3fd505bcfebb371f33ae3c"
+        "https://i.guim.co.uk/img/media/e1640f0d7c0f429d968c7c729f4d6ea957a531f0/218_0_4284_3426/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=d4c757fefe1f876dc9aebf32f9cbbe82",
+        "https://static.independent.co.uk/2026/08/25/19/2026-08-25T170807Z_1130055397_RC2T5NAQOM88_RTRMADP_3_USA-TRUMP.JPG?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_7c4f9d65f1",
-          "titulo": "Siria abandona después de 47 años el listado de EE UU de países que patrocinan el terrorismo",
-          "url": "https://elpais.com/internacional/2026-08-24/siria-abandona-despues-de-47-anos-el-listado-de-ee-uu-de-paises-que-patrocinan-el-terrorismo.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Mon, 24 Aug 2026 19:21:03 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_2bfcebd6f7",
-          "titulo": "Trump retira a Siria de la lista de \"patrocinadores del terrorismo\" tras 47 años: ¿qué significa?",
-          "url": "https://www.france24.com/es/medio-oriente/20260825-trump-retira-a-siria-de-la-lista-de-patrocinadores-del-terrorismo-tras-47-a%C3%B1os-qu%C3%A9-significa",
-          "fuente": "France 24 Espanol",
-          "fecha": "Tue, 25 Aug 2026 00:05:19 GMT",
+          "id": "ev_d79911a8e3",
+          "titulo": "A un kilo del umbral de la obesidad: los 108 kilos de Trump encienden las alarmas sobre su salud",
+          "url": "https://www.elmundo.es/internacional/2026/08/25/6a8d2999e9cf4a001a8b4577.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Tue, 25 Aug 2026 07:35:25 +0200",
           "idioma": "es"
         },
         {
@@ -299,774 +307,895 @@
           "idioma": "es"
         },
         {
-          "id": "ev_347d1ee7fc",
-          "titulo": "Trump administration plans to revoke 200,000 visas of asylum seekers",
-          "url": "https://www.theguardian.com/us-news/2026/aug/24/trump-administration-revoke-asylum-visas",
+          "id": "ev_e0779fc33f",
+          "titulo": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+          "url": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
           "fuente": "The Guardian World",
-          "fecha": "Tue, 25 Aug 2026 01:45:35 GMT",
+          "fecha": "Thu, 20 Aug 2026 19:57:59 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_4c44107c0d",
-          "titulo": "Trump administration to revoke visas of foreigners seeking asylum in US, officials say",
-          "url": "https://www.france24.com/en/americas/20260824-trump-administration-revoke-visas-foreigners-seeking-asylum",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 24 Aug 2026 22:54:49 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2f26ef4753",
-          "titulo": "Trump administration plans to revoke B1, B2 visas of 200,000 asylum seekers",
-          "url": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
+          "id": "ev_76725474db",
+          "titulo": "US soldier who called for Trump impeachment facing military charges",
+          "url": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Tue, 25 Aug 2026 01:01:44 +0000",
+          "fecha": "Tue, 25 Aug 2026 21:16:43 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_1f1fa00d1b",
-          "titulo": "US set for largest mass visa revocation in history targeting up to 200,000 foreigners, officials say",
-          "url": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
-          "fuente": "NPR News",
-          "fecha": "Tue, 25 Aug 2026 00:56:29 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_0110660eda",
-          "titulo": "US to rescind 200,000 business and travel visas from those seeking asylum: report",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rescind-business-travel-visas-record-b3038501.html",
+          "id": "ev_abf242f1fc",
+          "titulo": "Trump’s agriculture secretary refuses to say where foreign beef to lower prices is coming from",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-beef-imports-brooke-rollins-b3039094.html",
           "fuente": "The Independent World",
-          "fecha": "Mon, 24 Aug 2026 22:24:00 GMT",
+          "fecha": "Tue, 25 Aug 2026 20:27:34 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_dd1cc7d10f",
-          "titulo": "Trump’s nutrition advisor says kids should eat food fresh from the ground - like hot dogs",
+          "id": "ev_e8f7b921df",
+          "titulo": "Trump has pulled nearly 300 national parks’ emergency responders to work on his DC pet projects: report",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-national-parks-workers-dc-projects-b3038934.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 25 Aug 2026 20:19:41 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1a9c87ba34",
+          "titulo": "Trump’s nutrition advisor jokes kids should eat food fresh from the ground - like hot dogs",
           "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ben-carson-hot-dogs-maha-b3038542.html",
           "fuente": "The Independent World",
-          "fecha": "Mon, 24 Aug 2026 23:43:18 GMT",
+          "fecha": "Mon, 24 Aug 2026 23:42:00 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_8f31b92538",
-          "titulo": "Trump admin reopens a border crossing to cattle to try and bring down record beef prices",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-beef-prices-cattle-imports-b3038334.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 24 Aug 2026 18:17:14 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e7201ac30a",
-          "titulo": "Trump boasts ‘there has never been anything close’ to his endorsement winning streak",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-endorsements-midterm-elections-b3037971.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 24 Aug 2026 06:19:19 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b3bbde7a32",
-          "titulo": "Trump administration proposes $103,000 fee for skilled worker visas",
-          "url": "https://www.abc.net.au/news/2026-08-25/trump-administration-proposed-h1b-visa-explained/107075218",
-          "fuente": "ABC News Australia",
-          "fecha": "Tue, 25 Aug 2026 04:27:00 +0000",
+          "id": "ev_1cd31c6897",
+          "titulo": "Trump tried to curb clean energy. It’s booming anyway.",
+          "url": "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
+          "fuente": "Ars Technica",
+          "fecha": "Mon, 24 Aug 2026 14:43:56 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-25_0002",
-      "fecha": "2026-08-25",
+      "id": "nd_2026-08-26_0002",
+      "fecha": "2026-08-26",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-25_0003"
+        "nd_2026-08-26_0000",
+        "nd_2026-08-26_0003",
+        "nd_2026-08-26_0004",
+        "nd_2026-08-26_0005",
+        "nd_2026-08-26_0008"
       ]
     },
     {
       "titulo": {
-        "es": "El ‘lobby’ petrolero pro-Trump se hace de oro con la guerra contra Irán",
-        "en": "Iran Pledges to Defy Trump’s Economic Sanctions"
+        "es": "Trump considera renombrar el lago Ontario como \"lago América\" tras decir el primer ministro que puede \"besar\" su \"culo\"",
+        "en": "The Latest: Canada is expected to announce retaliatory tariffs against the US"
       },
       "sintesis": {
-        "es": "El sector fósil estadounidense, gran donante del republicano, multiplica sus beneficios con el cierre de Ormuz y la crisis global de refino",
-        "en": "Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran’s economy. One Iranian official vowed that “not a single drop of oil” would leave the gulf."
+        "es": "Un cambio así recordaría la medida unilateral tomada por el presidente republicano el año pasado, cuando mediante una orden ejecutiva rebautizó el golfo de México como el golfo de América Leer",
+        "en": "Canada is preparing retaliatory tariffs against the United States as relations sharply deteriorate, with President Donald Trump telling Canadian leaders to “fall in line” and musing about renaming Lake Ontario as “Lake America.”"
       },
       "categoria": "geopolitica",
       "actores": [
         "Trump",
-        "Iran",
-        "Day",
-        "Economic"
+        "Lake Ontario",
+        "Lake America",
+        "Canada"
       ],
       "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
       },
       "impacto": 86,
       "fuentes": [
-        "ev_412e840f2d",
-        "ev_98b51d4500",
-        "ev_d1c3283ff1",
-        "ev_d71dd09568",
-        "ev_bc679b254b",
-        "ev_7c2301bf20",
-        "ev_02176f5ba5",
-        "ev_88b7c77e4f",
-        "ev_63895c194b",
-        "ev_a3f2512721",
-        "ev_56a8bb292a",
-        "ev_aed0179009",
-        "ev_392082ba37"
+        "ev_66d4dd8ece",
+        "ev_9d77d3564a",
+        "ev_6da56ddf15",
+        "ev_3766901f0c",
+        "ev_af654b7dbe",
+        "ev_186f4d8d57",
+        "ev_a4d84981ac",
+        "ev_50df93589a",
+        "ev_ff1baa3955",
+        "ev_eb7ee471d4"
       ],
-      "cluster_id": "cl_047",
+      "cluster_id": "cl_153",
       "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/OXIMLEKJNNEDVOLUAVBTVC4RJ4.jpg?auth=83608be7a3724dfab2f83f7815a910e496922fa922bbdbf4fc49b834f57fdd73",
-        "https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-economy-ltpj/24int-iran-economy-ltpj-mediumSquareAt3X.jpg",
-        "https://static01.nyt.com/images/2026/08/23/multimedia/23-int-iran-war-01-lpzq/23-int-iran-war-01-lpzq-mediumSquareAt3X.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/25/17876591247342.jpg",
+        "https://static01.nyt.com/images/2026/08/23/multimedia/23int-latam-diplo-bmhl/23int-latam-diplo-bmhl-mediumSquareAt3X.jpg",
+        "https://static.independent.co.uk/2026/08/25/16/45/GettyImages-2235613531.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
         "https://static.independent.co.uk/2026/08/25/00/2026-08-24T202227Z_1102145854_RC275NA3BY3Q_RTRMADP_3_USA-TRUMP.JPG?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_412e840f2d",
-          "titulo": "El ‘lobby’ petrolero pro-Trump se hace de oro con la guerra contra Irán",
-          "url": "https://elpais.com/internacional/2026-08-24/el-lobby-petrolero-pro-trump-se-hace-de-oro-con-la-guerra-contra-iran.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Mon, 24 Aug 2026 03:45:01 GMT",
+          "id": "ev_66d4dd8ece",
+          "titulo": "Trump considera renombrar el lago Ontario como \"lago América\" tras decir el primer ministro que puede \"besar\" su \"culo\"",
+          "url": "https://www.elmundo.es/internacional/2026/08/25/6a8d855021efa0942a8b4572.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Tue, 25 Aug 2026 20:37:10 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_98b51d4500",
-          "titulo": "US public support for Iran war falls as Trump approval at record low: Poll",
-          "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 24 Aug 2026 21:35:10 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d1c3283ff1",
-          "titulo": "Iran Pledges to Defy Trump’s Economic Sanctions",
-          "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
+          "id": "ev_9d77d3564a",
+          "titulo": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+          "url": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
           "fuente": "NYT World",
-          "fecha": "Mon, 24 Aug 2026 21:12:01 +0000",
+          "fecha": "Sun, 23 Aug 2026 09:01:52 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_d71dd09568",
-          "titulo": "Iran Warns Gulf States Not to Join Trump’s Economic War",
-          "url": "https://www.nytimes.com/2026/08/23/world/europe/iran-economy-war-united-states.html",
-          "fuente": "NYT World",
-          "fecha": "Sun, 23 Aug 2026 17:00:10 +0000",
+          "id": "ev_6da56ddf15",
+          "titulo": "Trump considering renaming Lake Ontario to 'Lake America' as trade war with Canada escalates",
+          "url": "http://www.euronews.com/2026/08/25/trump-considering-renaming-lake-ontario-to-lake-america-as-trade-war-with-canada-escalates",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 25 Aug 2026 14:31:22 +0200",
           "idioma": "en"
         },
         {
-          "id": "ev_bc679b254b",
-          "titulo": "Iran-US war latest: Trump unveils ‘economic D-Day’ sanctions as Tehran vows to go on the attack",
-          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-sanctions-bessent-hormuz-news-b3038608.html",
+          "id": "ev_3766901f0c",
+          "titulo": "Michigan rep delivers epic Natalie Harp dig over Trump’s threat to rename Lake Ontario",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/michigan-rep-natalie-harp-trump-lake-ontario-b3039019.html",
           "fuente": "The Independent World",
-          "fecha": "Tue, 25 Aug 2026 05:10:43 GMT",
+          "fecha": "Tue, 25 Aug 2026 18:56:10 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_7c2301bf20",
-          "titulo": "Why China Thinks It Can Resist Trump’s Economic Threats on Iran",
-          "url": "https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 21 Aug 2026 14:48:14 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_02176f5ba5",
-          "titulo": "Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says",
-          "url": "https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 21 Aug 2026 14:41:40 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_88b7c77e4f",
-          "titulo": "Trump’s ‘Economic D-Day’ for Iran arrives - but he is running out of cards to play",
-          "url": "https://www.independent.co.uk/news/world/middle-east/trump-iran-economy-sanctions-hormuz-b3038030.html",
+          "id": "ev_af654b7dbe",
+          "titulo": "Trump threatens to rename Lake Ontario to Lake America after premier called him ‘king of bankruptcies’",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-lake-ontario-name-trade-war-b3038837.html",
           "fuente": "The Independent World",
-          "fecha": "Mon, 24 Aug 2026 10:35:23 GMT",
+          "fecha": "Tue, 25 Aug 2026 15:25:55 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_63895c194b",
-          "titulo": "EEUU amenaza con nuevas sanciones a cualquier país que comercie con Irán, incluido China: \"Es momento de elegir de qué lado están\"",
-          "url": "https://www.elmundo.es/internacional/2026/08/24/6a8c85d9e4d4d870468b4579.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Mon, 24 Aug 2026 21:34:17 +0200",
-          "idioma": "es"
+          "id": "ev_186f4d8d57",
+          "titulo": "The Latest: Canada is expected to announce retaliatory tariffs against the US",
+          "url": "https://www.independent.co.uk/news/world/americas/donald-trump-mark-carney-canada-ontario-hakeem-jeffries-b3038913.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 25 Aug 2026 13:45:27 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_a3f2512721",
-          "titulo": "Irán dice que considerará \"enemigo\" a cualquier país que participe en la \"guerra económica\" de EEUU",
-          "url": "https://www.elmundo.es/internacional/2026/08/23/6a8a1bbd21efa0a6578b45c9.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sun, 23 Aug 2026 00:04:57 +0200",
-          "idioma": "es"
+          "id": "ev_a4d84981ac",
+          "titulo": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
+          "url": "https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html",
+          "fuente": "NYT World",
+          "fecha": "Sun, 23 Aug 2026 14:43:24 +0000",
+          "idioma": "en"
         },
         {
-          "id": "ev_56a8bb292a",
-          "titulo": "¿Ha perdido Irán el control del Estrecho de Ormuz? Filas de petroleros atraviesan el paso marítimo escoltados por barcos de EEUU",
-          "url": "https://www.elmundo.es/internacional/2026/08/21/6a880c6ee4d4d874538b459e.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 21 Aug 2026 10:29:40 +0200",
-          "idioma": "es"
+          "id": "ev_50df93589a",
+          "titulo": "Trump drove a lap past his $14.7M DC makeover mistake — then went looking for a fight with Canada",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-grand-prix-canada-tariffs-analysis-b3038921.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 25 Aug 2026 18:05:50 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_aed0179009",
-          "titulo": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
-          "url": "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Mon, 24 Aug 2026 18:32:36 GMT",
+          "id": "ev_ff1baa3955",
+          "titulo": "Canada matches Trump tariffs with up to 50% levies on hundreds of US goods",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/canada-tariffs-us-trump-trade-b3038993.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 25 Aug 2026 15:22:40 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_eb7ee471d4",
+          "titulo": "California governor 'absolutely' believes Trump will restart trade talks with Canada in 'a matter of days'",
+          "url": "https://www.cbc.ca/news/politics/trump-gavin-newsom-canada-trade-negotiations-9.7320584?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 25 Aug 2026 21:34:23 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-25_0003",
-      "fecha": "2026-08-25",
+      "id": "nd_2026-08-26_0003",
+      "fecha": "2026-08-26",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-25_0001",
-        "nd_2026-08-25_0002",
-        "nd_2026-08-25_0008"
+        "nd_2026-08-26_0000",
+        "nd_2026-08-26_0002",
+        "nd_2026-08-26_0004",
+        "nd_2026-08-26_0005",
+        "nd_2026-08-26_0008"
       ]
     },
     {
       "titulo": {
-        "es": "Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front line’ while striking Russia’s economy",
-        "en": "Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front line’ while striking Russia’s economy"
+        "es": "Trump endorsement helps boost Darline Graham in South Carolina primary to replace her late brother in US Senate – as it happened",
+        "en": "Trump endorsement helps boost Darline Graham in South Carolina primary to replace her late brother in US Senate – as it happened"
       },
       "sintesis": {
-        "es": "Genie Godula is pleased to welcome Samantha de Bendern, Associate Fellow at Chatham House. Europe is taking increasingly consequential steps to support Ukraine, but de Bendern warns that they remain insufficient to address the country's fundamental vulnerability. Are Ukraine's allies prepared to actively help protect Ukrainian airspace?",
-        "en": "Genie Godula is pleased to welcome Samantha de Bendern, Associate Fellow at Chatham House. Europe is taking increasingly consequential steps to support Ukraine, but de Bendern warns that they remain insufficient to address the country's fundamental vulnerability. Are Ukraine's allies prepared to actively help protect Ukrainian airspace?"
+        "es": "This live blog is now closed. South Carolina chooses Darline Graham as Republican nominee for US Senate Sign up for the US Breaking News email On Truth Social, however, the president shot down assertions that the US talks with Canada collapsed in part due a proposed trade deal that would have weakened French language protections . “I would never interfere with Canadians speaking French!” he wrote.",
+        "en": "This live blog is now closed. South Carolina chooses Darline Graham as Republican nominee for US Senate Sign up for the US Breaking News email On Truth Social, however, the president shot down assertions that the US talks with Canada collapsed in part due a proposed trade deal that would have weakened French language protections . “I would never interfere with Canadians speaking French!” he wrote."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Darline Graham",
+        "South Carolina",
+        "Trump",
+        "Senate"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 127.8,
+        "region": "Asia Oriental"
+      },
+      "impacto": 83,
+      "fuentes": [
+        "ev_02ceb5fc64",
+        "ev_9429a0dd4b",
+        "ev_3ec735eb14",
+        "ev_db7be66e3b",
+        "ev_9ed2892afd",
+        "ev_62dd8dd0b8",
+        "ev_870e5d1505",
+        "ev_2a7a1535f3"
+      ],
+      "cluster_id": "cl_227",
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/520e2f2d26a6fbd0c991abe4e8ec356cb50122b9/570_0_6236_4990/master/6236.jpg?width=140&quality=85&auto=format&fit=max&s=573b1fa114716619807aa6b2db51e2f8",
+        "https://static.independent.co.uk/2026/08/26/02/2291331448..?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+        "https://static.independent.co.uk/2026/08/25/10/2291338266..?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+        "https://static.independent.co.uk/2026/08/25/10/2291352144..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_02ceb5fc64",
+          "titulo": "Trump endorsement helps boost Darline Graham in South Carolina primary to replace her late brother in US Senate – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/25/donald-trump-tariffs-canada-midterms-primary-south-carolina-iran-ukraine-voting-rights-latest-news-updates",
+          "fuente": "The Guardian World",
+          "fecha": "Wed, 26 Aug 2026 01:59:47 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9429a0dd4b",
+          "titulo": "Sen. Darline Graham wins GOP nomination for U.S. Senate in South Carolina",
+          "url": "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
+          "fuente": "NPR News",
+          "fecha": "Tue, 25 Aug 2026 16:47:54 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3ec735eb14",
+          "titulo": "Darline Graham wins South Carolina GOP runoff to replace her late brother",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/darline-graham-south-carolina-gop-senate-primary-b3039273.html",
+          "fuente": "The Independent World",
+          "fecha": "Wed, 26 Aug 2026 01:35:41 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_db7be66e3b",
+          "titulo": "Darline Graham wins Republican primary runoff in South Carolina",
+          "url": "https://www.cbc.ca/news/world/darline-graham-wins-south-carolina-primary-runoff-9.7320638?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 25 Aug 2026 22:12:10 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9ed2892afd",
+          "titulo": "Sen. Darline Graham, Trump's pick for South Carolina Senate, wins GOP primary",
+          "url": "https://www.cnbc.com/2026/08/25/trump-darline-graham-south-carolina-primary.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Wed, 26 Aug 2026 01:07:28 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_62dd8dd0b8",
+          "titulo": "Republicans are expecting Trump pick Darline Graham to lose tonight’s SC runoff: report",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/darline-graham-republicans-trump-senate-b3038981.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 25 Aug 2026 15:10:01 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_870e5d1505",
+          "titulo": "Can Trump get Lindsey Graham’s sister elected?",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/south-carolina-senate-graham-norman-b3038762.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 25 Aug 2026 10:16:44 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2a7a1535f3",
+          "titulo": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
+          "url": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Wed, 26 Aug 2026 02:06:21 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-26_0004",
+      "fecha": "2026-08-26",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-08-26_0000",
+        "nd_2026-08-26_0002",
+        "nd_2026-08-26_0003",
+        "nd_2026-08-26_0005",
+        "nd_2026-08-26_0013"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+        "en": "Dolly Parton, one of country music's most singular performers, has died at age 80"
+      },
+      "sintesis": {
+        "es": "The artist was a star performer in country music and went on to become one of the genre's most recognizable and universally adored ambassadors to broader popular culture.",
+        "en": "The artist was a star performer in country music and went on to become one of the genre's most recognizable and universally adored ambassadors to broader popular culture."
       },
       "categoria": "innovacion",
       "actores": [
-        "Ukraine",
-        "Russia",
-        "Burnham",
-        "Kyiv"
+        "Dolly Parton",
+        "Country",
+        "Queen",
+        "Trump"
       ],
       "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
       },
-      "impacto": 66,
+      "impacto": 81,
       "fuentes": [
-        "ev_085f3d90ef",
-        "ev_d51e8ce7ee",
-        "ev_5befc0e226",
-        "ev_9764dbf83d",
-        "ev_5b6d91fa83",
-        "ev_e80384bd00"
+        "ev_8f46c6999d",
+        "ev_be8fe1d2e7",
+        "ev_e4ae066861",
+        "ev_c7d68d50ec",
+        "ev_d71fc91f25",
+        "ev_5a32d84865"
       ],
-      "cluster_id": "cl_113",
+      "cluster_id": "cl_243",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/714d/live/73b30ef0-9fce-11f1-b109-879e35c24276.jpg",
-        "https://s.france24.com/media/display/de29530e-9fbd-11f1-843a-005056a90284/w:1024/p:16x9/EN-20260824-130116-131020-CS.jpg",
-        "https://static01.nyt.com/images/2026/08/24/multimedia/24int-uk-russia-ukraine-kqzv-vblg/24int-uk-russia-ukraine-kqzv-vblg-mediumSquareAt3X.jpg",
-        "https://static.independent.co.uk/2026/08/24/11/download..?width=1200&auto=webp&trim=291%2C739%2C530%2C663"
+        "https://static.independent.co.uk/2026/08/25/18/42/MixCollage-25-Aug-2026-02-47-PM-4518.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_085f3d90ef",
-          "titulo": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-          "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Tue, 25 Aug 2026 01:48:24 GMT",
+          "id": "ev_8f46c6999d",
+          "titulo": "Who was the ‘Queen of Country’ Dolly Parton?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 25 Aug 2026 21:29:11 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_d51e8ce7ee",
-          "titulo": "Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front line’ while striking Russia’s economy",
-          "url": "https://www.france24.com/en/ukraine-showing-remarkable-innovation-kyiv-holding-front-line-while-striking-russia-s-economy",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 24 Aug 2026 13:32:21 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5befc0e226",
-          "titulo": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
-          "url": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
-          "fuente": "NYT World",
-          "fecha": "Mon, 24 Aug 2026 22:16:57 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9764dbf83d",
-          "titulo": "‘Who started the fire?’ Burnham challenges Putin on first trip to Ukraine as UK-Russia tensions grow",
-          "url": "https://www.independent.co.uk/news/world/europe/andy-burnham-ukraine-visit-storm-shadow-russia-putin-war-b3038597.html",
+          "id": "ev_be8fe1d2e7",
+          "titulo": "Trump orders flags at half mast to honor Dolly Parton after her death age 80",
+          "url": "https://www.independent.co.uk/news/world/americas/trump-dolly-parton-tribute-flag-half-mast-b3039115.html",
           "fuente": "The Independent World",
-          "fecha": "Tue, 25 Aug 2026 04:41:47 GMT",
+          "fecha": "Tue, 25 Aug 2026 18:50:58 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_5b6d91fa83",
-          "titulo": "What the renewed Black Sea blockade means for Ukraine’s farmers",
-          "url": "https://www.france24.com/en/europe/20260824-what-renewed-black-sea-blockade-means-ukraine-farmers",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 24 Aug 2026 17:41:42 GMT",
+          "id": "ev_e4ae066861",
+          "titulo": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+          "url": "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+          "fuente": "NPR News",
+          "fecha": "Tue, 25 Aug 2026 14:17:32 -0400",
           "idioma": "en"
         },
         {
-          "id": "ev_e80384bd00",
-          "titulo": "Ukraine-Russia war latest: Moscow strikes cargo ship in Black Sea after Zelensky calls for talks to stop attacks",
-          "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-drone-missile-strikes-b3037956.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 24 Aug 2026 21:34:42 GMT",
+          "id": "ev_c7d68d50ec",
+          "titulo": "Country music icon Dolly Parton dies aged 80, family announces",
+          "url": "http://www.euronews.com/culture/2026/08/25/country-music-icon-dolly-parton-dies-aged-80-family-announces",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 25 Aug 2026 20:11:28 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d71fc91f25",
+          "titulo": "Next Atlantic tropical storm will be named Dolly but no connection to Parton's death",
+          "url": "http://www.euronews.com/2026/08/26/next-atlantic-tropical-storm-will-be-named-dolly-but-no-connection-to-partons-death",
+          "fuente": "Euronews English",
+          "fecha": "Wed, 26 Aug 2026 07:15:25 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5a32d84865",
+          "titulo": "Dolly Parton, queen of country music, dies at 80",
+          "url": "https://www.cnbc.com/2026/08/25/dolly-parton-country-music-dies-80.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Tue, 25 Aug 2026 18:45:36 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-25_0004",
-      "fecha": "2026-08-25",
-      "kardashev": "K2",
+      "id": "nd_2026-08-26_0005",
+      "fecha": "2026-08-26",
+      "kardashev": "K0",
       "relaciones": [
-        "nd_2026-08-25_0010",
-        "nd_2026-08-25_0013"
+        "nd_2026-08-26_0000",
+        "nd_2026-08-26_0002",
+        "nd_2026-08-26_0003",
+        "nd_2026-08-26_0004",
+        "nd_2026-08-26_0012"
       ]
     },
     {
       "titulo": {
-        "es": "Landslide at waste mound in Guinea capital kills 30, government says",
-        "en": "Landslide at waste mound in Guinea capital kills 30, government says"
+        "es": "Canadá impone aranceles de hasta 50% a EE.UU. tras colapso de negociaciones comerciales",
+        "en": "Canada imposes tariffs of up to 50% on US goods after trade talks collapse"
       },
       "sintesis": {
-        "es": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks. The incident occurred less than a week after the government announced plans to close the ⁠site and relocate the waste because of the threat it posed, especially during the rainy season, which causes landslides and fatal flash ⁠floods each year in crowded, underdeveloped cities across parts of West Africa. Continue reading...",
-        "en": "Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks. The incident occurred less than a week after the government announced plans to close the ⁠site and relocate the waste because of the threat it posed, especially during the rainy season, which causes landslides and fatal flash ⁠floods each year in crowded, underdeveloped cities across parts of West Africa. Continue reading..."
+        "es": "Tras el fracaso de las negociaciones comerciales con Washington, el primer ministro canadiense Mark Carney anunció aranceles de represalia de hasta el 50% sobre productos estadounidenses por un valor de 27.600 millones de dólares canadienses, vigentes a partir del 8 de septiembre de 2026. La medida responde a los aranceles impuestos por el gobierno de Trump y marca una escalada en la guerra comercial entre ambos países, pese a que Canadá depende de EE.UU. para el 70% de sus exportaciones. Carney defendió la decisión como necesaria para proteger a trabajadores y productores canadienses afectados.",
+        "en": "Following the collapse of trade negotiations with Washington, Canadian Prime Minister Mark Carney announced retaliatory tariffs of up to 50% on US products worth CAD 27.6 billion, effective September 8, 2026. The move responds to tariffs imposed by the Trump administration and marks an escalation in the trade war between the two countries, despite Canada relying on the US for 70% of its exports. Carney defended the decision as necessary to protect Canadian workers and producers."
       },
-      "categoria": "clima",
+      "categoria": "economia",
       "actores": [
-        "Guinea",
-        "Landslide"
+        "Mark Carney",
+        "Donald Trump",
+        "Gobierno de Canadá",
+        "Gobierno de Estados Unidos"
       ],
       "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
+        "lat": 45.4215,
+        "lon": -75.6972,
+        "region": "Canadá/Estados Unidos"
       },
-      "impacto": 58,
+      "impacto": 72,
       "fuentes": [
-        "ev_84f3ce25d3",
-        "ev_a590c70989",
-        "ev_a494d1af32",
-        "ev_081d1cebdd"
+        "ev_91e79c4404",
+        "ev_61f8c6843f",
+        "ev_493f439149",
+        "ev_f201dfaeb1",
+        "ev_87fc7ca5d2",
+        "ev_189949a248",
+        "ev_ac6587f6fc",
+        "ev_f98caa03c8",
+        "ev_b27b2e01e4",
+        "ev_f5e9bc1549",
+        "ev_aac25b737f",
+        "ev_6027a989fb",
+        "ev_c240ece0ca",
+        "ev_f1f23e9784",
+        "ev_84e6804db3",
+        "ev_e9cf7dc881",
+        "ev_9d4ba9df97",
+        "ev_56b35d2516"
       ],
-      "cluster_id": "cl_127",
+      "cluster_id": "cl_002",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b50/live/049ddab0-9f9a-11f1-a291-b542ee92de7c.jpg",
-        "https://e3.365dm.com/26/08/1920x1080/skynews-landslide-guinea-rubbish-tip_7329549.jpg?20260823201406",
-        "https://i.guim.co.uk/img/media/bfb8c700f99c74433c5b3173e4f501f6e216a498/25_10_3458_2766/master/3458.jpg?width=140&quality=85&auto=format&fit=max&s=9be55d6e6768a346d1aa2a8257a6b4f9",
-        "https://s.france24.com/media/display/8e5b7870-9fb8-11f1-b2f0-005056bf30b7/w:1024/p:16x9/2026-08-23T205549Z-2033132822-RC2G4NAW6BYT-RTRMADP-3-GUINEA-LANDSLIDE.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/819e/live/f84388a0-a0bb-11f1-b8cc-1bd2cc322bf4.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e8d/live/bdb8d650-9fcf-11f1-b109-879e35c24276.jpg",
+        "https://s.france24.com/media/display/d29c6406-a0c4-11f1-85c7-005056bfb2b6/w:1024/p:16x9/ES-20260825-120148-120343-CS.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_84f3ce25d3",
-          "titulo": "Guinea rubbish landfill collapse kills 31",
-          "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 24 Aug 2026 11:26:19 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a590c70989",
-          "titulo": "Landslide kills 30 after mound of waste collapses at landfill site",
-          "url": "https://news.sky.com/story/guinea-landslide-kills-30-people-after-mound-of-waste-collapses-at-landfill-site-13576442",
-          "fuente": "Sky News World",
-          "fecha": "Sun, 23 Aug 2026 20:29:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a494d1af32",
-          "titulo": "Landslide at waste mound in Guinea capital kills 30, government says",
-          "url": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
-          "fuente": "The Guardian World",
-          "fecha": "Sun, 23 Aug 2026 22:16:53 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_081d1cebdd",
-          "titulo": "Guinea searches for survivors after landfill landslides kill 30",
-          "url": "https://www.france24.com/en/guinea-searches-for-survivors-after-landfill-landslides-kill-30",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 24 Aug 2026 12:42:59 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-25_0005",
-      "fecha": "2026-08-25",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "¿Qué pasó con el sueño americano de Harry y Meghan?",
-        "en": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return"
-      },
-      "sintesis": {
-        "es": "Los duques de Sussex gozaron de cierto éxito en la industria del entretenimiento, pero su reinado en Hollywood ha demostrado ser corto.",
-        "en": "Recent surveys suggest the broader public views both of them negatively, especially in comparison to Harry’s brother, William, and his wife, Kate."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Harry",
-        "Meghan",
-        "Return",
-        "What Does"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 56,
-      "fuentes": [
-        "ev_1013f0f8df",
-        "ev_4042036820",
-        "ev_bbe5874fb5"
-      ],
-      "cluster_id": "cl_031",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d3a/live/c7e95f20-9d2f-11f1-aed2-8d6da8d75094.jpg",
-        "https://static01.nyt.com/images/2026/08/21/multimedia/21int-uk-harry-schools-photo1-htbj/21int-uk-harry-schools-photo1-htbj-mediumSquareAt3X.jpg",
-        "https://static01.nyt.com/images/2026/08/21/multimedia/21uk-harry-meghan-voices-1-wghc/21uk-harry-meghan-voices-1-wghc-mediumSquareAt3X.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1013f0f8df",
-          "titulo": "¿Qué pasó con el sueño americano de Harry y Meghan?",
-          "url": "https://www.bbc.com/mundo/articles/c5yv12d5r0no?at_medium=RSS&at_campaign=rss",
+          "id": "ev_91e79c4404",
+          "titulo": "Cómo puede contraatacar Canadá para perjudicar a la economía de EE.UU. (y a Trump) en plena guerra comercial",
+          "url": "https://www.bbc.com/mundo/articles/ce8x1l47l30o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo",
-          "fecha": "Sat, 22 Aug 2026 13:30:03 GMT",
+          "fecha": "Tue, 25 Aug 2026 16:38:32 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_4042036820",
-          "titulo": "What Does Harry and Meghan’s Return to England Mean for Their Children?",
-          "url": "https://www.nytimes.com/2026/08/22/world/europe/harry-meghan-children-schools.html",
-          "fuente": "NYT World",
-          "fecha": "Sat, 22 Aug 2026 12:49:57 +0000",
+          "id": "ev_61f8c6843f",
+          "titulo": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
+          "url": "https://www.bbc.com/mundo/articles/ceq85gq9n1lo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Mon, 24 Aug 2026 17:45:03 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_493f439149",
+          "titulo": "Canadá contraataca: aranceles de hasta el 50% a productos de EE. UU.",
+          "url": "https://www.france24.com/es/video/20260825-canad%C3%A1-contraataca-aranceles-de-hasta-el-50-a-productos-de-ee-uu",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 25 Aug 2026 22:08:07 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f201dfaeb1",
+          "titulo": "Canadá responde a Trump \"dólar por dólar\" con aranceles de hasta el 50% a productos de EE.UU.",
+          "url": "http://es.euronews.com/2026/08/25/canada-responde-a-trump-dolar-por-dolar-con-aranceles-de-hasta-el-50-a-productos-de-eeuu",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 25 Aug 2026 18:15:23 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_87fc7ca5d2",
+          "titulo": "How Canada could hit back to hurt the US economy - and Trump",
+          "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 25 Aug 2026 02:49:22 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_bbe5874fb5",
-          "titulo": "‘They’re Always Going to Be Polarizing’: Britons Split on Harry and Meghan’s Return",
-          "url": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-royal-return-public-opinion.html",
+          "id": "ev_189949a248",
+          "titulo": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs",
+          "url": "https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html",
           "fuente": "NYT World",
-          "fecha": "Fri, 21 Aug 2026 15:23:40 +0000",
+          "fecha": "Wed, 26 Aug 2026 03:02:19 +0000",
           "idioma": "en"
+        },
+        {
+          "id": "ev_ac6587f6fc",
+          "titulo": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+          "url": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
+          "fuente": "NYT World",
+          "fecha": "Tue, 25 Aug 2026 20:42:58 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f98caa03c8",
+          "titulo": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
+          "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
+          "fuente": "NYT World",
+          "fecha": "Sat, 22 Aug 2026 20:35:49 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b27b2e01e4",
+          "titulo": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+          "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+          "fuente": "NYT World",
+          "fecha": "Sun, 23 Aug 2026 07:15:52 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f5e9bc1549",
+          "titulo": "\"No nos vamos a doblegar\": Canadá anuncia aranceles recíprocos contra EE.UU. por US$20.000 millones",
+          "url": "https://www.bbc.com/mundo/articles/cdx5610qlk3o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Tue, 25 Aug 2026 15:43:18 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_aac25b737f",
+          "titulo": "¿Qué se venden EE. UU. y Canadá, enfrascados en una nueva batalla comercial?",
+          "url": "https://www.france24.com/es/programas/econom%C3%ADa/20260826-qu%C3%A9-se-venden-ee-uu-y-canad%C3%A1-enfrascados-en-una-nueva-batalla-comercial",
+          "fuente": "France 24 Espanol",
+          "fecha": "Wed, 26 Aug 2026 01:31:36 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_6027a989fb",
+          "titulo": "¿Qué impacto tendrá en Canadá la represalia arancelaria contra EE. UU.?",
+          "url": "https://www.france24.com/es/video/20260825-qu%C3%A9-impacto-tendr%C3%A1-en-canad%C3%A1-la-represalia-arancelaria-contra-ee-uu",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 25 Aug 2026 22:00:45 GMT",
+          "idioma": "es"
         }
       ],
-      "id": "nd_2026-08-25_0006",
-      "fecha": "2026-08-25",
-      "kardashev": "K0",
-      "relaciones": []
+      "id": "nd_2026-08-26_0006",
+      "fecha": "2026-08-26",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-26_0012"
+      ]
     },
     {
       "titulo": {
-        "es": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
-        "en": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses"
+        "es": "IN PHOTOS | Tornado hits village in France",
+        "en": "IN PHOTOS | Tornado hits village in France"
       },
       "sintesis": {
-        "es": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy. Prince Harry’s spokesperson confirmed he was no longer a trustee of African Parks , which admitted last year that human rights abuses were committed by its rangers in the Republic of the Congo. Continue reading...",
-        "en": "Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy. Prince Harry’s spokesperson confirmed he was no longer a trustee of African Parks , which admitted last year that human rights abuses were committed by its rangers in the Republic of the Congo. Continue reading..."
+        "es": "A tornado of rare intensity has ravaged the village of Pomas in southern France, leaving dozens injured and damaging more than 300 homes. No missing persons have been reported.",
+        "en": "A tornado of rare intensity has ravaged the village of Pomas in southern France, leaving dozens injured and damaging more than 300 homes. No missing persons have been reported."
       },
-      "categoria": "sociedad",
+      "categoria": "salud",
       "actores": [
-        "Prince Harry",
-        "Elton John",
-        "Others Told",
-        "Pay Daily"
+        "France",
+        "Tornado",
+        "French",
+        "PHOTOS"
       ],
       "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
+        "lat": 46.6,
+        "lon": 2.2,
+        "region": "Europa"
       },
-      "impacto": 53,
+      "impacto": 70,
       "fuentes": [
-        "ev_c1b8d7767b",
-        "ev_6f3a4f9da4",
-        "ev_58772de3aa"
+        "ev_2ef25b6c86",
+        "ev_3fb4b7ce25",
+        "ev_131a5e3947",
+        "ev_277630128a",
+        "ev_32be05e133"
       ],
-      "cluster_id": "cl_137",
+      "cluster_id": "cl_178",
       "imagenes": [
-        "https://i.guim.co.uk/img/media/77bfd9102a5d3092cc1153ef2655588870e9000a/581_0_2866_2294/master/2866.jpg?width=140&quality=85&auto=format&fit=max&s=11a9c171e103e448612a73c3c895176b",
-        "https://e3.365dm.com/26/08/1920x1080/skynews-prince-harry-duke-of-sussex_7330289.jpg?20260824185542",
-        "https://static01.nyt.com/images/2026/08/21/multimedia/21int-UK-HARRY-COURT-kbtf/21int-UK-HARRY-COURT-kbtf-mediumSquareAt3X.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/15a64300-a00e-11f1-9bf0-5f4ec548648d.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c23/live/6d32eae0-a074-11f1-b109-879e35c24276.png",
+        "https://static01.nyt.com/images/2026/08/25/multimedia/25france-tornado-01-bmgf/25france-tornado-01-bmgf-mediumSquareAt3X.jpg",
+        "https://static.independent.co.uk/2026/08/25/07/2026-08-24T191047Z_1225761210_RC275NAKNUZQ_RTRMADP_3_FRANCE-WEATHER.JPG?width=1200&auto=webp&trim=657%2C0%2C657%2C0"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_c1b8d7767b",
-          "titulo": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
-          "url": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 24 Aug 2026 17:34:50 GMT",
+          "id": "ev_2ef25b6c86",
+          "titulo": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+          "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 25 Aug 2026 08:52:17 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_6f3a4f9da4",
-          "titulo": "Prince Harry steps down from board of wildlife charity",
-          "url": "https://news.sky.com/story/prince-harry-steps-down-from-board-of-wildlife-charity-ahead-of-return-to-uk-with-meghan-13576743",
-          "fuente": "Sky News World",
-          "fecha": "Mon, 24 Aug 2026 18:41:00 +0100",
+          "id": "ev_3fb4b7ce25",
+          "titulo": "IN PHOTOS | Tornado hits village in France",
+          "url": "https://www.cbc.ca/news/world/france-tornado-photo-scroller-9.7319436?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 25 Aug 2026 10:31:04 EDT",
           "idioma": "en"
         },
         {
-          "id": "ev_58772de3aa",
-          "titulo": "Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million",
-          "url": "https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html",
+          "id": "ev_131a5e3947",
+          "titulo": "Moment tornado tears through southern France",
+          "url": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 25 Aug 2026 00:16:35 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_277630128a",
+          "titulo": "Tornado Rips Through Towns in Southern France",
+          "url": "https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html",
           "fuente": "NYT World",
-          "fecha": "Fri, 21 Aug 2026 18:22:00 +0000",
+          "fecha": "Tue, 25 Aug 2026 14:52:29 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_32be05e133",
+          "titulo": "Huge tornado of ‘rare intensity’ tears through villages in southern France as over 300 homes damaged",
+          "url": "https://www.independent.co.uk/news/world/europe/aude-tornado-france-verzeille-weather-b3038634.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 25 Aug 2026 11:39:24 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-25_0007",
-      "fecha": "2026-08-25",
+      "id": "nd_2026-08-26_0007",
+      "fecha": "2026-08-26",
       "kardashev": "K0",
-      "relaciones": []
+      "relaciones": [
+        "nd_2026-08-26_0009"
+      ]
     },
     {
       "titulo": {
-        "es": "How atmospheric dryness limits increases in typhoon rainfall",
-        "en": "How atmospheric dryness limits increases in typhoon rainfall"
+        "es": "Lindsay Clancy asesinó a sus tres hijos: ahora EEUU debate si fue una asesina o una mujer gravemente enferma",
+        "en": "Heartbreaking Lindsay Clancy trial comes down to one question over deaths of three children"
       },
       "sintesis": {
-        "es": "Under global warming, scientists have widely expected tropical cyclones (including typhoons and hurricanes) to bring more intense and frequent rainfall. The underlying physics seems intuitive: Rising temperatures allow the atmosphere to hold more moisture, which, combined with intensifying storms, should theoretically trigger more destructive downpours. However, when researchers analyze climate model projections, they encounter a puzzling phenomenon.",
-        "en": "Under global warming, scientists have widely expected tropical cyclones (including typhoons and hurricanes) to bring more intense and frequent rainfall. The underlying physics seems intuitive: Rising temperatures allow the atmosphere to hold more moisture, which, combined with intensifying storms, should theoretically trigger more destructive downpours. However, when researchers analyze climate model projections, they encounter a puzzling phenomenon."
+        "es": "El juicio ha enfrentado a activistas feministas que denuncian el fracaso de la atención psiquiátrica con activistas MAGA que rechazan utilizar la enfermedad mental como atenuante Leer",
+        "en": "After nearly a month of testimony, jurors in the Lindsay Clancy murder trial are set to hear from the final witnesses in a case that has largely been about her mental state when she strangled her three young children"
+      },
+      "categoria": "salud",
+      "actores": [
+        "Lindsay Clancy",
+        "EEUU",
+        "Murder Trial",
+        "Massachusetts"
+      ],
+      "geo": {
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
+      },
+      "impacto": 67,
+      "fuentes": [
+        "ev_fafb935bc8",
+        "ev_51726c7e37",
+        "ev_24ce707891",
+        "ev_cee31604c0"
+      ],
+      "cluster_id": "cl_152",
+      "imagenes": [
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/25/17876645230367.jpg",
+        "https://static01.nyt.com/images/2026/08/23/multimedia/23themorning-clancy-kzmf/23themorning-clancy-kzmf-mediumSquareAt3X.jpg",
+        "https://static.independent.co.uk/2026/08/25/05/Lindsay_Clancy_Trial__8675.jpg?width=1200&auto=webp&crop=3%3A2",
+        "https://static.independent.co.uk/2026/08/23/13/Postpartum_Psychosis_35976.jpg?width=1200&auto=webp&crop=3%3A2"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_fafb935bc8",
+          "titulo": "Lindsay Clancy asesinó a sus tres hijos: ahora EEUU debate si fue una asesina o una mujer gravemente enferma",
+          "url": "https://www.elmundo.es/internacional/2026/08/25/6a8d97afe9cf4a56168b45a7.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Tue, 25 Aug 2026 22:44:10 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_51726c7e37",
+          "titulo": "A Murder Trial in Massachusetts",
+          "url": "https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html",
+          "fuente": "NYT World",
+          "fecha": "Sun, 23 Aug 2026 15:30:19 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_24ce707891",
+          "titulo": "Heartbreaking Lindsay Clancy trial comes down to one question over deaths of three children",
+          "url": "https://www.independent.co.uk/news/world/americas/crime/lindsay-clancy-murder-trial-postpartum-b3038664.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 25 Aug 2026 07:34:34 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cee31604c0",
+          "titulo": "As Lindsay Clancy’s trial grips America, one mother reveals how postpartum psychosis stole her reality",
+          "url": "https://www.independent.co.uk/news/world/americas/bridget-chesterton-postpartum-psychosis-clancy-b3038660.html",
+          "fuente": "The Independent World",
+          "fecha": "Tue, 25 Aug 2026 07:55:30 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-26_0008",
+      "fecha": "2026-08-26",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-08-26_0002",
+        "nd_2026-08-26_0003"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "La astronauta Sophie Adenot realiza su segunda salida al espacio",
+        "en": "Astronauts Anil Menon and Sophie Adenot on Spacewalk"
+      },
+      "sintesis": {
+        "es": "Tras su salida al espacio el 18 de agosto, cuando se convirtió en la primera francesa en \"caminar\" en el vacío, Sophie Adenot ha vuelto a salir de la EEI para sustituir una antena.",
+        "en": "From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station on Aug. The pair will finish installing a high-speed […]"
       },
       "categoria": "ciencia",
       "actores": [
-        "Iran"
+        "Sophie Adenot",
+        "Mission",
+        "ISS",
+        "Astronauts Anil"
       ],
       "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
+        "lat": 46.6,
+        "lon": 2.2,
+        "region": "Europa"
       },
-      "impacto": 53,
+      "impacto": 63,
       "fuentes": [
-        "ev_f7e6618918",
-        "ev_151479c2bd",
-        "ev_95841b984b",
-        "ev_da60af6924",
-        "ev_8282bdd376"
+        "ev_3e86df63da",
+        "ev_c31a99a61a",
+        "ev_5d1a286290"
       ],
-      "cluster_id": "cl_188",
-      "imagenes": [
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/research-shows-how-fus.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/the-midlife-clock-is-t.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/hku-study-reveals-how.jpg"
-      ],
+      "cluster_id": "cl_093",
+      "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_f7e6618918",
-          "titulo": "How US sanctions on Iran ripple through global markets and consumers",
-          "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 24 Aug 2026 22:46:02 +0000",
+          "id": "ev_3e86df63da",
+          "titulo": "La astronauta Sophie Adenot realiza su segunda salida al espacio",
+          "url": "http://es.euronews.com/next/2026/08/25/sophie-adenot-realiza-su-2-salida-al-espacio",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 25 Aug 2026 19:42:34 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_c31a99a61a",
+          "titulo": "Mission accomplished for Sophie Adenot: ISS antenna installed",
+          "url": "http://www.euronews.com/next/2026/08/25/mission-accomplished-for-sophie-adenot-iss-antenna-installed",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 25 Aug 2026 19:42:04 +0200",
           "idioma": "en"
         },
         {
-          "id": "ev_151479c2bd",
-          "titulo": "How fusion reactions can survive flaws—up to a point",
-          "url": "https://phys.org/news/2026-08-fusion-reactions-survive-flaws.html",
-          "fuente": "Phys.org",
-          "fecha": "Mon, 24 Aug 2026 19:00:01 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_95841b984b",
-          "titulo": "The midlife clock is ticking: How we understand 'time left' can help us use it well",
-          "url": "https://phys.org/news/2026-08-midlife-clock-left.html",
-          "fuente": "Phys.org",
-          "fecha": "Mon, 24 Aug 2026 18:20:01 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_da60af6924",
-          "titulo": "How atmospheric dryness limits increases in typhoon rainfall",
-          "url": "https://phys.org/news/2026-08-atmospheric-dryness-limits-typhoon-rainfall.html",
-          "fuente": "Phys.org",
-          "fecha": "Mon, 24 Aug 2026 17:10:01 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8282bdd376",
-          "titulo": "How to get a low auto loan and mortgage rate when bond yields increase borrowing costs",
-          "url": "https://www.cnbc.com/select/how-to-get-a-low-auto-loan-mortgage-rate-with-high-bond-yields/",
-          "fuente": "CNBC Top News",
-          "fecha": "Mon, 24 Aug 2026 17:58:27 GMT",
+          "id": "ev_5d1a286290",
+          "titulo": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
+          "url": "https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/",
+          "fuente": "NASA News",
+          "fecha": "Tue, 25 Aug 2026 14:57:26 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-25_0008",
-      "fecha": "2026-08-25",
-      "kardashev": "K1",
+      "id": "nd_2026-08-26_0009",
+      "fecha": "2026-08-26",
+      "kardashev": "K2",
       "relaciones": [
-        "nd_2026-08-25_0001",
-        "nd_2026-08-25_0003",
-        "nd_2026-08-25_0009"
+        "nd_2026-08-26_0007"
       ]
     },
     {
       "titulo": {
-        "es": "Israeli settler blockades part of escalating violence against Palestinians in the occupied West Bank",
-        "en": "Israeli settler blockades part of escalating violence against Palestinians in the occupied West Bank"
+        "es": "Uno de cada cuatro adolescentes en América Latina y el Caribe sufre acoso escolar",
+        "en": "Uno de cada cuatro adolescentes en América Latina y el Caribe sufre acoso escolar"
       },
       "sintesis": {
-        "es": "A Palestinian-American has returned to his home in the occupied West Bank village of Qusra to protect it from Israeli settlers, amid a surge in attacks and settlement expansion.",
-        "en": "A Palestinian-American has returned to his home in the occupied West Bank village of Qusra to protect it from Israeli settlers, amid a surge in attacks and settlement expansion."
+        "es": "El acoso y el ciberacoso pueden tener consecuencias profundas y duraderas en la salud mental, física y emocional de niños y adolescentes. Una nueva guía de la Organización Panamericana de la Salud explica cómo reconocer las señales de alerta y qué medidas han demostrado funcionar para prevenir estas formas de violencia.",
+        "en": "El acoso y el ciberacoso pueden tener consecuencias profundas y duraderas en la salud mental, física y emocional de niños y adolescentes. Una nueva guía de la Organización Panamericana de la Salud explica cómo reconocer las señales de alerta y qué medidas han demostrado funcionar para prevenir estas formas de violencia."
       },
-      "categoria": "sociedad",
+      "categoria": "salud",
       "actores": [
-        "Israeli",
-        "Displaced Palestinians",
-        "Gaza",
-        "Palestinian Teenager"
+        "Latina",
+        "Dominicana",
+        "Ecuador",
+        "Uno"
       ],
       "geo": {
-        "lat": 31.0,
-        "lon": 34.9,
-        "region": "Oriente Medio"
+        "lat": -9.2,
+        "lon": -75.0,
+        "region": "Sudamerica"
       },
-      "impacto": 53,
+      "impacto": 61,
       "fuentes": [
-        "ev_3d0a2210c7",
-        "ev_af296e00f1",
-        "ev_52c43b0348"
+        "ev_1f31554c78",
+        "ev_86ee52cdd7",
+        "ev_2b9e546510",
+        "ev_a6704e0504",
+        "ev_f2d00c8a34"
       ],
-      "cluster_id": "cl_192",
+      "cluster_id": "cl_016",
       "imagenes": [
-        "https://static01.nyt.com/images/2026/08/21/multimedia/21WestBank-attack-01-cwhm/21WestBank-attack-01-cwhm-mediumSquareAt3X.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5174/live/c13d7a80-9db1-11f1-9537-fb0a2e1c2505.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e6b1/live/d2a1b030-9a7c-11f1-85bb-779ae48e4486.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/22-10-25-ONUNews-Acai.jpg/image560x340cropped.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/02-12-2022_UNICEF_online_safety-01.jpg/image560x340cropped.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_3d0a2210c7",
-          "titulo": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 24 Aug 2026 21:12:06 +0000",
-          "idioma": "en"
+          "id": "ev_1f31554c78",
+          "titulo": "Cuál es la situación del hambre en América Latina (y cómo República Dominicana ha logrado ser el último país en alcanzar el hambre cero)",
+          "url": "https://www.bbc.com/mundo/articles/c77g1jd322no?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Fri, 21 Aug 2026 12:13:14 GMT",
+          "idioma": "es"
         },
         {
-          "id": "ev_af296e00f1",
-          "titulo": "Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village",
-          "url": "https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 21 Aug 2026 18:32:08 +0000",
-          "idioma": "en"
+          "id": "ev_86ee52cdd7",
+          "titulo": "La niña de 10 años traficada de Perú a Ecuador para casarse con un hombre de 50 (y qué revela sobre el matrimonio infantil en América Latina)",
+          "url": "https://www.bbc.com/mundo/articles/c5yvrnqd2pdo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Tue, 18 Aug 2026 11:54:04 GMT",
+          "idioma": "es"
         },
         {
-          "id": "ev_52c43b0348",
-          "titulo": "Israeli settler blockades part of escalating violence against Palestinians in the occupied West Bank",
-          "url": "https://www.cbc.ca/news/world/israeli-siege-occupied-west-bank-qusra-9.7315801?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sat, 22 Aug 2026 04:00:00 EDT",
-          "idioma": "en"
+          "id": "ev_2b9e546510",
+          "titulo": "América Latina busca convertir su potencial agroalimentario en inversiones para el campo",
+          "url": "https://news.un.org/feed/view/es/story/2026/08/1541827",
+          "fuente": "Noticias ONU",
+          "fecha": "Thu, 20 Aug 2026 12:00:00 +0000",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_a6704e0504",
+          "titulo": "Uno de cada cuatro adolescentes en América Latina y el Caribe sufre acoso escolar",
+          "url": "https://news.un.org/feed/view/es/story/2026/08/1541811",
+          "fuente": "Noticias ONU",
+          "fecha": "Mon, 17 Aug 2026 12:00:00 +0000",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f2d00c8a34",
+          "titulo": "América Latina se blinda contra el crimen organizado bajo la sombra de Trump",
+          "url": "https://www.elmundo.es/internacional/2026/08/22/6a8463a7fc6c83fe118b459d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sat, 22 Aug 2026 23:17:29 +0200",
+          "idioma": "es"
         }
       ],
-      "id": "nd_2026-08-25_0009",
-      "fecha": "2026-08-25",
+      "id": "nd_2026-08-26_0010",
+      "fecha": "2026-08-26",
       "kardashev": "K0",
       "relaciones": [
-        "nd_2026-08-25_0008"
+        "nd_2026-08-26_0011"
       ]
     },
     {
       "titulo": {
-        "es": "En Ucrania, los ataques rusos se multiplican y el número de víctimas civiles aumenta",
-        "en": "En Ucrania, los ataques rusos se multiplican y el número de víctimas civiles aumenta"
-      },
-      "sintesis": {
-        "es": "En la noche del 21 al 22 de agosto se produjeron nuevos ataques contra la capital ucraniana. El país se encuentra en estado de máxima alerta, a dos días del Día de la Independencia, una fecha que tradicionalmente se ve marcada por ataques rusos masivos. En todo el país, el balance de estas agresiones contra la población civil ya es elevado.",
-        "en": "En la noche del 21 al 22 de agosto se produjeron nuevos ataques contra la capital ucraniana. El país se encuentra en estado de máxima alerta, a dos días del Día de la Independencia, una fecha que tradicionalmente se ve marcada por ataques rusos masivos. En todo el país, el balance de estas agresiones contra la población civil ya es elevado."
-      },
-      "categoria": "innovacion",
-      "actores": [
-        "Ucrania",
-        "Ozon"
-      ],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 49,
-      "fuentes": [
-        "ev_d256212eeb",
-        "ev_fa88b549a9",
-        "ev_874be08f6a",
-        "ev_d749ff558b"
-      ],
-      "cluster_id": "cl_041",
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/7H3FB6ZTHBEV7A6SNOFIFUVI2A.jpg?auth=a1ed8be271ea0773796765557102a92ca068ce160aac8f9f073f5d01b9c76804",
-        "https://s.rfi.fr/media/display/feaade4a-9df6-11f1-8084-005056bfb2b6/w:1024/p:16x9/AP26233422751335.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/24/17875961687200.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/21/17873283299929.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_d256212eeb",
-          "titulo": "Ucrania apunta al corazón del comercio ruso al bombardear cuatro almacenes del gigante Ozon",
-          "url": "https://elpais.com/internacional/2026-08-24/ucrania-apunta-al-corazon-del-comercio-ruso-al-bombardear-cuatro-almacenes-del-gigante-ozon.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Mon, 24 Aug 2026 13:44:10 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_fa88b549a9",
-          "titulo": "En Ucrania, los ataques rusos se multiplican y el número de víctimas civiles aumenta",
-          "url": "https://www.rfi.fr/es/europa/20260822-en-ucrania-los-ataques-rusos-se-multiplican-y-el-n%C3%BAmero-de-v%C3%ADctimas-civiles-aumenta",
-          "fuente": "RFI Espanol",
-          "fecha": "Sat, 22 Aug 2026 10:54:07 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_874be08f6a",
-          "titulo": "Ucrania cumple 35 años luchando por seguir existiendo",
-          "url": "https://www.elmundo.es/internacional/2026/08/24/6a8c8d3121efa06d088b4592.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Mon, 24 Aug 2026 22:45:30 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_d749ff558b",
-          "titulo": "Al menos 19 muertos y casi un centenar de heridos en un ataque ruso contra un centro comercial en Ucrania a plena luz del día",
-          "url": "https://www.elmundo.es/internacional/2026/08/21/6a8875aefc6c8353118b459f.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 21 Aug 2026 22:59:47 +0200",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-08-25_0010",
-      "fecha": "2026-08-25",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-08-25_0004",
-        "nd_2026-08-25_0013"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "De la Espriella estrena su política migratoria en Colombia con un anuncio de operativos y deportaciones",
+        "es": "Venezolanos en el limbo: ¿cómo queda la mayor población migrante de Colombia con De la Espriella?",
         "en": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown"
       },
       "sintesis": {
-        "es": "El presidente Abelardo de la Espriella ordenó iniciar operativos para identificar y deportar a extranjeros que cometan delitos y a migrantes en situación irregular en Colombia. La medida del ultraderechista marca una de las primeras definiciones de su Gobierno sobre migración en un país donde viven cerca de 2,8 millones de venezolanos, la mayor comunidad de foráneos .",
+        "es": "El presidente Abelardo de la Espriella se sumó oficialmente a la ola antinmigración que los gobiernos de ultraderecha han tomado como bandera desde que comenzó el viraje conservador en Latinoamérica. En la mira de sus esfuerzos de deportación está una población que constituye la segunda minoría más grande del país, los 2,8 millones de venezolanos que decidieron quedarse en la primera escala de su estampida. ¿Cuál es la situación de los que no pudieron regularizarse?",
         "en": "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on immigrants, ordering authorities to detain and deport people who are in the country irregularly or have committed crimes. In office for just over two weeks, the millionaire former lawyer made the announcement on Sunday as the country continued to grapple with the aftermath of a 7.4-magnitude earthquake on 10 August that killed more than 300 people and destroyed more than 30,000 homes. Continue reading..."
       },
       "categoria": "sociedad",
       "actores": [
         "Colombia",
         "Espriella",
+        "Venezolanos",
         "Abelardo"
       ],
       "geo": {
@@ -1074,34 +1203,34 @@
         "lon": -74.3,
         "region": "Sudamerica"
       },
-      "impacto": 49,
+      "impacto": 59,
       "fuentes": [
-        "ev_992550ebac",
-        "ev_dcc0a61ae3",
+        "ev_5621d4d1c5",
+        "ev_ffaaa9d8c4",
         "ev_418281636a"
       ],
-      "cluster_id": "cl_055",
+      "cluster_id": "cl_047",
       "imagenes": [
-        "https://s.france24.com/media/display/569987e6-a01d-11f1-bc51-005056a90284/w:1024/p:16x9/ES-20260824-191239-191420-CS.jpg",
-        "https://s.france24.com/media/display/2e0272c2-a002-11f1-a28d-005056bfb2b6/w:1024/p:16x9/8023250586001w.jpg",
+        "https://s.france24.com/media/display/b17ffbb0-a0ed-11f1-ac4f-005056a97e36/w:1024/p:16x9/AP26238005240589.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/25/17876436798052.jpg",
         "https://i.guim.co.uk/img/media/16d4042f8c9b2aabb47619aa73c090daec510abd/784_32_3286_2630/master/3286.jpg?width=140&quality=85&auto=format&fit=max&s=0dff00fca5aae55855f30002bd0c4d94"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_992550ebac",
-          "titulo": "Colombia: De la Espriella ordena deportaciones de migrantes irregulares y vinculados con delitos",
-          "url": "https://www.france24.com/es/video/20260825-colombia-de-la-espriella-ordena-deportaciones-de-migrantes-irregulares-y-vinculados-con-delitos",
+          "id": "ev_5621d4d1c5",
+          "titulo": "Venezolanos en el limbo: ¿cómo queda la mayor población migrante de Colombia con De la Espriella?",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260826-venezolanos-en-el-limbo-c%C3%B3mo-queda-la-mayor-poblaci%C3%B3n-migrante-de-colombia-ante-de-la-espriella",
           "fuente": "France 24 Espanol",
-          "fecha": "Tue, 25 Aug 2026 00:46:50 GMT",
+          "fecha": "Wed, 26 Aug 2026 02:16:54 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_dcc0a61ae3",
-          "titulo": "De la Espriella estrena su política migratoria en Colombia con un anuncio de operativos y deportaciones",
-          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260824-de-la-espriella-estrena-su-pol%C3%ADtica-migratoria-en-colombia-con-un-anuncio-de-operativos-y-deportaciones",
-          "fuente": "France 24 Espanol",
-          "fecha": "Mon, 24 Aug 2026 21:29:47 GMT",
+          "id": "ev_ffaaa9d8c4",
+          "titulo": "De la Espriella ordena la persecución y deportación de inmigrantes irregulares en Colombia",
+          "url": "https://www.elmundo.es/internacional/2026/08/25/6a8d4808fdddff07188b4597.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Tue, 25 Aug 2026 09:45:18 +0200",
           "idioma": "es"
         },
         {
@@ -1113,141 +1242,230 @@
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-25_0011",
-      "fecha": "2026-08-25",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Health of Norway's King Harald deteriorated at the weekend, say royal officials",
-        "en": "Health of Norway's King Harald deteriorated at the weekend, say royal officials"
-      },
-      "sintesis": {
-        "es": "Norway's King Harald is in a stable condition in hospital after his health deteriorated at the weekend, royal officials have said.",
-        "en": "Norway's King Harald is in a stable condition in hospital after his health deteriorated at the weekend, royal officials have said."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Norway",
-        "King Harald",
-        "King",
-        "Health"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 49,
-      "fuentes": [
-        "ev_ec92a6ab0e",
-        "ev_2a839991da",
-        "ev_342917e659"
-      ],
-      "cluster_id": "cl_119",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3908/live/3388cd30-9f8b-11f1-9fae-bbc7231f436d.jpg",
-        "https://e3.365dm.com/26/08/1920x1080/skynews-king-harald-norway_7329846.jpg?20260824100229",
-        "https://static.independent.co.uk/2026/06/23/15/2276683971..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ec92a6ab0e",
-          "titulo": "King of Norway's health has worsened, palace says",
-          "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 24 Aug 2026 08:31:55 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2a839991da",
-          "titulo": "Health of Norway's King Harald deteriorated at the weekend, say royal officials",
-          "url": "https://news.sky.com/story/health-of-norways-king-harald-deteriorated-at-the-weekend-say-royal-officials-13576556",
-          "fuente": "Sky News World",
-          "fecha": "Mon, 24 Aug 2026 09:53:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_342917e659",
-          "titulo": "Royal Palace gives health update on Norway’s King Harald as 89-year-old remains in hospital",
-          "url": "https://www.independent.co.uk/news/world/europe/king-harald-norway-health-hospital-latest-b3038080.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 24 Aug 2026 13:25:31 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-25_0012",
-      "fecha": "2026-08-25",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "‘Fix that little spot’: Danish PM hits back at unsolicited beauty tip from cosmetic surgeon",
-        "en": "‘Fix that little spot’: Danish PM hits back at unsolicited beauty tip from cosmetic surgeon"
-      },
-      "sintesis": {
-        "es": "Mette Frederiksen, who received message on returning from Ukraine, advises women to embrace self-acceptance Sick of getting unsolicited beauty tips on social media, the Danish prime minister, Mette Frederiksen , rebuffed a male cosmetic surgeon’s offer to “fix” her and advised women in similar situations to embrace self-acceptance. Frederiksen, a Social Democrat and Denmark’s second female prime minister, posted on Instagram that she had just returned from a trip to Ukraine, where she was subjected to air raid sirens, when she found a message proposing some help with her appearance. Continue reading...",
-        "en": "Mette Frederiksen, who received message on returning from Ukraine, advises women to embrace self-acceptance Sick of getting unsolicited beauty tips on social media, the Danish prime minister, Mette Frederiksen , rebuffed a male cosmetic surgeon’s offer to “fix” her and advised women in similar situations to embrace self-acceptance. Frederiksen, a Social Democrat and Denmark’s second female prime minister, posted on Instagram that she had just returned from a trip to Ukraine, where she was subjected to air raid sirens, when she found a message proposing some help with her appearance. Continue reading..."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Denmark",
-        "Fix",
-        "Danish",
-        "Instagram"
-      ],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 47,
-      "fuentes": [
-        "ev_9a51c14edb",
-        "ev_8980709580",
-        "ev_ab68e858cc"
-      ],
-      "cluster_id": "cl_154",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/465171aefebfeec2269ea8e0de8a32ab67e68802/380_35_4667_3733/master/4667.jpg?width=140&quality=85&auto=format&fit=max&s=56f198b33bd1e4f7277c2051f2cc7250",
-        "https://static.independent.co.uk/2026/08/24/16/Denmark_Prime_Minister_Body_Shaming_85894.jpg?width=1200&auto=webp&crop=3%3A2"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_9a51c14edb",
-          "titulo": "‘Fix that little spot’: Danish PM hits back at unsolicited beauty tip from cosmetic surgeon",
-          "url": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 24 Aug 2026 16:59:53 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8980709580",
-          "titulo": "Denmark's prime minister blasts unsolicited beauty advice from plastic surgeon on Instagram",
-          "url": "https://www.independent.co.uk/news/world/europe/mette-frederiksen-ukraine-denmark-botox-donald-trump-b3038343.html",
-          "fuente": "The Independent World",
-          "fecha": "Mon, 24 Aug 2026 15:11:57 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ab68e858cc",
-          "titulo": "Denmark's PM blasts plastic surgeon for his unsolicited offer to 'fix' spot on her nose",
-          "url": "https://www.cbc.ca/news/world/mette-frederiksen-instagram-post-9.7318725?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Mon, 24 Aug 2026 15:55:00 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-25_0013",
-      "fecha": "2026-08-25",
+      "id": "nd_2026-08-26_0011",
+      "fecha": "2026-08-26",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-25_0004",
-        "nd_2026-08-25_0010"
+        "nd_2026-08-26_0010"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Muere Dolly Parton, leyenda de la música country, a los 80 años",
+        "en": "Dolly Parton, country music legend, dies at 80"
+      },
+      "sintesis": {
+        "es": "La cantante, compositora y actriz estadounidense Dolly Parton falleció el 25 de agosto de 2026 en Nashville, Tennessee, a los 80 años, tras una breve batalla contra el cáncer. Autora de más de 3.000 canciones, incluidos clásicos como 'Jolene', '9 to 5' e 'I Will Always Love You', dejó un legado en la música, el cine y los negocios, incluyendo el parque temático Dollywood y la fundación filantrópica Imagination Library. Su muerte generó tributos de figuras públicas y medios de todo el mundo.",
+        "en": "American singer, songwriter and actress Dolly Parton died on August 25, 2026 in Nashville, Tennessee, at age 80 following a brief battle with cancer. Author of more than 3,000 songs including classics like 'Jolene,' '9 to 5' and 'I Will Always Love You,' she left a legacy spanning music, film and business, including the Dollywood theme park and the Imagination Library philanthropic initiative. Her death prompted tributes from public figures and media worldwide."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Dolly Parton",
+        "Brian Seaver",
+        "Reba McEntire",
+        "Dionne Warwick",
+        "Donald Trump"
+      ],
+      "geo": {
+        "lat": 36.1627,
+        "lon": -86.7816,
+        "region": "Nashville, Tennessee, Estados Unidos"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_903cff744f",
+        "ev_7401f5f212",
+        "ev_28774de1eb",
+        "ev_de70563753",
+        "ev_c048f633fa",
+        "ev_ba73f0ec6f",
+        "ev_fc880e00a2",
+        "ev_f8311ffed5",
+        "ev_22578d6b84",
+        "ev_fc0bfcf9b6",
+        "ev_bde55fe006",
+        "ev_dfa65901ed"
+      ],
+      "cluster_id": "cl_003",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bc1a/live/82a535a0-a0eb-11f1-b472-737f3c678eb0.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/434d/live/74259210-a0da-11f1-bf10-8564b038b65d.jpg",
+        "https://s.france24.com/media/display/ab65c9b0-a0e0-11f1-817d-005056a90284/w:1024/p:16x9/ES-20260825-180743-180950-CS.jpg",
+        "https://s.france24.com/media/display/09a0287a-a0b6-11f1-9608-005056bf30b7/w:1024/p:16x9/DOLLY-OK.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_903cff744f",
+          "titulo": "Muere Dolly Parton, la leyenda del country que conquistó a millones cantando desde el corazón",
+          "url": "https://www.bbc.com/mundo/articles/cx2z92rgleko?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Wed, 26 Aug 2026 01:17:02 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_7401f5f212",
+          "titulo": "La historia de \"I Will Always Love You\", la canción escrita por Dolly Parton que Whitney Houston convirtió en un himno del amor",
+          "url": "https://www.bbc.com/mundo/articles/cp935z5r5x2o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Tue, 25 Aug 2026 22:48:16 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_28774de1eb",
+          "titulo": "Adiós a Dolly Parton: la artista que transformó la música country",
+          "url": "https://www.france24.com/es/video/20260826-adi%C3%B3s-a-dolly-parton-la-artista-que-transform%C3%B3-la-m%C3%BAsica-country",
+          "fuente": "France 24 Espanol",
+          "fecha": "Wed, 26 Aug 2026 00:37:43 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_de70563753",
+          "titulo": "Fallece a los 80 años la cantante estadounidense Dolly Parton, ícono de la música country",
+          "url": "https://www.france24.com/es/cultura/20260825-fallece-a-los-80-a%C3%B1os-la-cantante-estadounidense-dolly-parton-%C3%ADcono-de-la-m%C3%BAsica-country",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 25 Aug 2026 18:54:37 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_c048f633fa",
+          "titulo": "Murió a los 80 años la cantante estadounidense Dolly Parton, ícono de la música country",
+          "url": "https://www.france24.com/es/minuto-a-minuto/20260825-muri%C3%B3-a-los-80-a%C3%B1os-la-cantante-estadounidense-dolly-parton-%C3%ADcono-de-la-m%C3%BAsica-country",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 25 Aug 2026 18:11:18 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_ba73f0ec6f",
+          "titulo": "Muere a los 80 años la leyenda del country Dolly Parton",
+          "url": "http://es.euronews.com/cultura/2026/08/25/muere-a-los-80-anos-la-leyenda-del-country-dolly-parton-anuncia-su-familia",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 25 Aug 2026 20:12:33 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_fc880e00a2",
+          "titulo": "Tributes pour in after country music legend Dolly Parton, 80, dies following ‘brief battle with cancer’ – latest updates",
+          "url": "https://www.theguardian.com/us-news/live/2026/aug/25/dolly-parton-dead-age-80-live",
+          "fuente": "The Guardian World",
+          "fecha": "Wed, 26 Aug 2026 04:42:37 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f8311ffed5",
+          "titulo": "Tributes pour in for country music icon Dolly Parton",
+          "url": "https://www.cbc.ca/news/entertainment/livestory/dolly-parton-obit-9.7319938?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 25 Aug 2026 14:46:15 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_22578d6b84",
+          "titulo": "Dolly Parton, beloved US country music icon, dies at 80",
+          "url": "https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 25 Aug 2026 20:14:21 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_fc0bfcf9b6",
+          "titulo": "Dolly Parton built a better world, with rhinestones and songs",
+          "url": "https://www.independent.co.uk/news/world/americas/dolly-parton-new-york-one-vanderbilt-university-american-b3039298.html",
+          "fuente": "The Independent World",
+          "fecha": "Wed, 26 Aug 2026 04:09:19 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_bde55fe006",
+          "titulo": "Dolly Parton, one of country music's greatest legends, dead at 80",
+          "url": "https://www.cbc.ca/news/entertainment/dolly-parton-death-9.7319927?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 25 Aug 2026 14:11:10 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_dfa65901ed",
+          "titulo": "Dolly Parton on life, love and loss in her own words",
+          "url": "https://www.abc.net.au/news/2026-08-26/dolly-parton-famous-quotes-on-fame-life-and-loss/107078516",
+          "fuente": "ABC News Australia",
+          "fecha": "Wed, 26 Aug 2026 03:04:22 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-26_0012",
+      "fecha": "2026-08-26",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-26_0005",
+        "nd_2026-08-26_0006"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?",
+        "en": "A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?"
+      },
+      "sintesis": {
+        "es": "China’s humanoid robots are achieving superhuman feats of athleticism. But how that translates into the real world is still an open question, experts said.",
+        "en": "China’s humanoid robots are achieving superhuman feats of athleticism. But how that translates into the real world is still an open question, experts said."
+      },
+      "categoria": "innovacion",
+      "actores": [
+        "Moment",
+        "Usain Bolt",
+        "World",
+        "Chinese Robot"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 53,
+      "fuentes": [
+        "ev_e34b3aef4f",
+        "ev_4070e93db7",
+        "ev_6270bf1609"
+      ],
+      "cluster_id": "cl_195",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee7/live/c783fb00-9e4a-11f1-8871-ff7211da55c9.jpg",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/08/World-Humanoid-Robot-Games-2026-1152x648.jpg",
+        "https://static01.nyt.com/images/2026/08/24/multimedia/24int-china-robot-games-cover-lptq/24int-china-robot-games-cover-lptq-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_e34b3aef4f",
+          "titulo": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sat, 22 Aug 2026 17:02:06 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4070e93db7",
+          "titulo": "World humanoid robot games show runners breaking records, bursting into flames",
+          "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
+          "fuente": "Ars Technica",
+          "fecha": "Tue, 25 Aug 2026 20:59:03 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6270bf1609",
+          "titulo": "A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?",
+          "url": "https://www.nytimes.com/2026/08/24/world/asia/chinese-robot-100-meter-usain-bolt.html",
+          "fuente": "NYT World",
+          "fecha": "Wed, 26 Aug 2026 03:10:09 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-26_0013",
+      "fecha": "2026-08-26",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-08-26_0000",
+        "nd_2026-08-26_0004"
       ]
     }
   ]

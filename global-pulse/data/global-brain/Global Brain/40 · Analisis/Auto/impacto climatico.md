@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-08-25
-nodos: 23
+actualizado: 2026-08-26
+nodos: 21
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-25. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-26. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-23 nodos registrados en el periodo. Lo mas reciente: Landslide at waste mound in Guinea capital kills 30, government says.
+21 nodos registrados en el periodo. Lo mas reciente: Landslide at waste mound in Guinea capital kills 30, government says.
 
 ## Trend summary (EN)
-23 nodes recorded in the period. Most recent: Landslide at waste mound in Guinea capital kills 30, government says.
+21 nodes recorded in the period. Most recent: Landslide at waste mound in Guinea capital kills 30, government says.
 
 > [!note] Estado actual
 > Landslide at waste mound in Guinea capital kills 30, government says
 
-## Nodos recientes (23 en la ventana)
+## Nodos recientes (21 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-25 | 58 | K1 | Landslide at waste mound in Guinea capital kills 30, government  |
