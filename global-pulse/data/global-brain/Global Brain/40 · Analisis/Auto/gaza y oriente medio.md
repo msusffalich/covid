@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-08-26
-nodos: 32
+actualizado: 2026-08-27
+nodos: 30
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-26. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-27. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-32 nodos registrados en el periodo. Lo mas reciente: Israeli settler blockades part of escalating violence against Palestinians in the occupied West Bank.
+30 nodos registrados en el periodo. Lo mas reciente: Israeli settler blockades part of escalating violence against Palestinians in the occupied West Bank.
 
 ## Trend summary (EN)
-32 nodes recorded in the period. Most recent: Israeli settler blockades part of escalating violence against Palestinians in the occupied West Bank.
+30 nodes recorded in the period. Most recent: Israeli settler blockades part of escalating violence against Palestinians in the occupied West Bank.
 
 > [!note] Estado actual
 > Israeli settler blockades part of escalating violence against Palestinians in the occupied West Bank
 
-## Nodos recientes (32 en la ventana)
+## Nodos recientes (30 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-25 | 53 | K0 | Israeli settler blockades part of escalating violence against Pa |

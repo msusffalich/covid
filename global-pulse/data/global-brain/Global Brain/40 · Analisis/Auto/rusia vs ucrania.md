@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-08-26
-nodos: 21
+actualizado: 2026-08-27
+nodos: 19
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-26. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-27. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-21 nodos registrados en el periodo. Lo mas reciente: ¿El jefe de la CIA viajó a Moscú? ¿Por qué? Esto se sabe.
+19 nodos registrados en el periodo. Lo mas reciente: Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista.
 
 ## Trend summary (EN)
-21 nodes recorded in the period. Most recent: CIA director John Ratcliffe reportedly on Moscow visit.
+19 nodes recorded in the period. Most recent: Andy Burnham’s autumn of pain– podcast.
 
 > [!note] Estado actual
-> ¿El jefe de la CIA viajó a Moscú? ¿Por qué? Esto se sabe
+> Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (19 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-27 | 82 | K1 | Primera cirugía cerebral en el mundo guiada por IA en Reino Unid |
 | 2026-08-26 | 95 | K2 | ¿El jefe de la CIA viajó a Moscú? ¿Por qué? Esto se sabe |
 | 2026-08-25 | 66 | K2 | Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front lin |
 | 2026-08-25 | 49 | K0 | En Ucrania, los ataques rusos se multiplican y el número de víct |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-15 | 83 | K1 | Las acciones de extremistas israelíes en Cisjordania provocan el |
 | 2026-08-15 | 72 | K1 | Escalada en el Mar Negro: Rusia bloquea exportaciones de grano u |
 | 2026-08-14 | 72 | K1 | Polonia frustra un complot ruso para asesinar a un ciudadano ucr |
-| 2026-08-13 | 72 | K1 | Rusia y Ucrania intensifican ataques mutuos contra puertos e inf |
 
 [[Global Brain — Inicio|← Inicio]]

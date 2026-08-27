@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-08-26
-nodos: 33
+actualizado: 2026-08-27
+nodos: 35
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-26. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-27. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-33 nodos registrados en el periodo. Lo mas reciente: Trump considera renombrar el lago Ontario como "lago América" tras decir el primer ministro que puede "besar" su "culo".
+35 nodos registrados en el periodo. Lo mas reciente: Trump abre dos frentes de guerra económica: ¿quién pagará el precio?.
 
 ## Trend summary (EN)
-33 nodes recorded in the period. Most recent: The Latest: Canada is expected to announce retaliatory tariffs against the US.
+35 nodes recorded in the period. Most recent: Wife of US soldier deported after Trump rollback on military family protections.
 
 > [!note] Estado actual
-> Trump considera renombrar el lago Ontario como "lago América" tras decir el primer ministro que puede "besar" su "culo"
+> Trump abre dos frentes de guerra económica: ¿quién pagará el precio?
 
-## Nodos recientes (33 en la ventana)
+## Nodos recientes (35 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-27 | 87 | K1 | Trump abre dos frentes de guerra económica: ¿quién pagará el pre |
+| 2026-08-27 | 86 | K1 | Detenido un hombre por transportar una guillotina en las inmedia |
 | 2026-08-26 | 86 | K1 | Trump considera renombrar el lago Ontario como "lago América" tr |
 | 2026-08-26 | 72 | K1 | Canadá impone aranceles de hasta 50% a EE.UU. tras colapso de ne |
 | 2026-08-25 | 95 | K1 | Arabia Saudita invertirá 6.000 millones de euros en tres parques |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-08-23 | 72 | K1 | Colapsan negociaciones comerciales entre EE.UU. y Canadá; entran |
 | 2026-08-23 | 52 | K0 | Canadian PM says country ‘at war’ with US on trade and fires bac |
 | 2026-08-22 | 83 | K0 | JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump |
-| 2026-08-21 | 95 | K2 | “Día D”: la “guerra económica” de Trump contra Irán con la que p |
-| 2026-08-20 | 95 | K2 | Trump suspende por tres días la entrada en vigor de los arancele |
 
 [[Global Brain — Inicio|← Inicio]]
