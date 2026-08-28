@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-08-27
-nodos: 35
+actualizado: 2026-08-28
+nodos: 36
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-27. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-28. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-35 nodos registrados en el periodo. Lo mas reciente: Trump abre dos frentes de guerra económica: ¿quién pagará el precio?.
+36 nodos registrados en el periodo. Lo mas reciente: Récord de detenciones en EE. UU.: ¿Trump cumple su promesa antimigración?.
 
 ## Trend summary (EN)
-35 nodes recorded in the period. Most recent: Wife of US soldier deported after Trump rollback on military family protections.
+36 nodes recorded in the period. Most recent: Trump’s agriculture secretary commits to ‘waiving red tape’ to allow ranchers to process and sell their own beef – live.
 
 > [!note] Estado actual
-> Trump abre dos frentes de guerra económica: ¿quién pagará el precio?
+> Récord de detenciones en EE. UU.: ¿Trump cumple su promesa antimigración?
 
-## Nodos recientes (35 en la ventana)
+## Nodos recientes (36 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-28 | 87 | K2 | Récord de detenciones en EE. UU.: ¿Trump cumple su promesa antim |
+| 2026-08-28 | 83 | K0 | How to lose Trump’s trade war: test Canada’s resolve with threat |
+| 2026-08-28 | 83 | K1 | Fed chair says delivering ‘stable prices’ is central bank’s job  |
 | 2026-08-27 | 87 | K1 | Trump abre dos frentes de guerra económica: ¿quién pagará el pre |
 | 2026-08-27 | 86 | K1 | Detenido un hombre por transportar una guillotina en las inmedia |
 | 2026-08-26 | 86 | K1 | Trump considera renombrar el lago Ontario como "lago América" tr |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-08-24 | 95 | K1 | El rial iraní toca un mínimo histórico mientras Trump amenaza co |
 | 2026-08-23 | 95 | K1 | Exdiplomáticos piden sanciones contra Israel por acciones en los |
 | 2026-08-23 | 74 | K0 | La deuda de EE. UU. supera cinco veces el PIB de toda América La |
-| 2026-08-23 | 72 | K1 | Colapsan negociaciones comerciales entre EE.UU. y Canadá; entran |
-| 2026-08-23 | 52 | K0 | Canadian PM says country ‘at war’ with US on trade and fires bac |
-| 2026-08-22 | 83 | K0 | JD Vance reportedly mocks Carney for trying to ‘out-tough’ Trump |
 
 [[Global Brain — Inicio|← Inicio]]

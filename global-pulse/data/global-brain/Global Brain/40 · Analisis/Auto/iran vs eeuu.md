@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-08-27
-nodos: 36
+actualizado: 2026-08-28
+nodos: 37
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-27. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-28. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-36 nodos registrados en el periodo. Lo mas reciente: Trump abre dos frentes de guerra económica: ¿quién pagará el precio?.
+37 nodos registrados en el periodo. Lo mas reciente: Trump vs. Irán: miles de muertes, estancamiento y asfixia económica, seis meses que sacuden el mundo.
 
 ## Trend summary (EN)
-36 nodes recorded in the period. Most recent: Wife of US soldier deported after Trump rollback on military family protections.
+37 nodes recorded in the period. Most recent: Iran seeks to criminalise all contact with foreign media in ‘chilling’ crackdown.
 
 > [!note] Estado actual
-> Trump abre dos frentes de guerra económica: ¿quién pagará el precio?
+> Trump vs. Irán: miles de muertes, estancamiento y asfixia económica, seis meses que sacuden el mundo
 
-## Nodos recientes (36 en la ventana)
+## Nodos recientes (37 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-28 | 95 | K1 | Trump vs. Irán: miles de muertes, estancamiento y asfixia económ |
+| 2026-08-28 | 83 | K1 | Fed chair says delivering ‘stable prices’ is central bank’s job  |
 | 2026-08-27 | 87 | K1 | Trump abre dos frentes de guerra económica: ¿quién pagará el pre |
 | 2026-08-27 | 83 | K1 | Iran faces strait of Hormuz paradox as strategic value of chokeh |
 | 2026-08-27 | 82 | K1 | Primera cirugía cerebral en el mundo guiada por IA en Reino Unid |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-08-25 | 53 | K1 | How atmospheric dryness limits increases in typhoon rainfall |
 | 2026-08-24 | 95 | K1 | El rial iraní toca un mínimo histórico mientras Trump amenaza co |
 | 2026-08-23 | 95 | K1 | ¿Puede Trump ahogar realmente a Irán? Las dudas sobre la efectiv |
-| 2026-08-22 | 95 | K1 | Irán se declara en posición de fuerza y reclama el fin de la gue |
-| 2026-08-21 | 95 | K2 | “Día D”: la “guerra económica” de Trump contra Irán con la que p |
 
 [[Global Brain — Inicio|← Inicio]]

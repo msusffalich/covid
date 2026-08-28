@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-08-27
-nodos: 19
+actualizado: 2026-08-28
+nodos: 18
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-27. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-28. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-19 nodos registrados en el periodo. Lo mas reciente: Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista.
+18 nodos registrados en el periodo. Lo mas reciente: Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista.
 
 ## Trend summary (EN)
-19 nodes recorded in the period. Most recent: Andy Burnham’s autumn of pain– podcast.
+18 nodes recorded in the period. Most recent: Andy Burnham’s autumn of pain– podcast.
 
 > [!note] Estado actual
 > Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista
 
-## Nodos recientes (19 en la ventana)
+## Nodos recientes (18 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-27 | 82 | K1 | Primera cirugía cerebral en el mundo guiada por IA en Reino Unid |
