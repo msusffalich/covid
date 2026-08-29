@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-08-28
+actualizado: 2026-08-29
 nodos: 37
 origen: global-pulse
 ---
@@ -10,20 +10,22 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-28. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-29. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-37 nodos registrados en el periodo. Lo mas reciente: Trump vs. Irán: miles de muertes, estancamiento y asfixia económica, seis meses que sacuden el mundo.
+37 nodos registrados en el periodo. Lo mas reciente: Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán.
 
 ## Trend summary (EN)
-37 nodes recorded in the period. Most recent: Iran seeks to criminalise all contact with foreign media in ‘chilling’ crackdown.
+37 nodes recorded in the period. Most recent: Iran war hits 6-month milestone with Trump's attention largely elsewhere.
 
 > [!note] Estado actual
-> Trump vs. Irán: miles de muertes, estancamiento y asfixia económica, seis meses que sacuden el mundo
+> Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán
 
 ## Nodos recientes (37 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-29 | 95 | K1 | Análisis: el desgaste económico y bélico de Estados Unidos tras  |
+| 2026-08-29 | 85 | K1 | Irán y EE.UU. cumplen seis meses de guerra con crisis económica, |
 | 2026-08-28 | 95 | K1 | Trump vs. Irán: miles de muertes, estancamiento y asfixia económ |
 | 2026-08-28 | 83 | K1 | Fed chair says delivering ‘stable prices’ is central bank’s job  |
 | 2026-08-27 | 87 | K1 | Trump abre dos frentes de guerra económica: ¿quién pagará el pre |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-08-25 | 95 | K1 | Informe desde Washington: EE. UU. advierte a países que no apoye |
 | 2026-08-25 | 86 | K1 | El ‘lobby’ petrolero pro-Trump se hace de oro con la guerra cont |
 | 2026-08-25 | 53 | K1 | How atmospheric dryness limits increases in typhoon rainfall |
-| 2026-08-24 | 95 | K1 | El rial iraní toca un mínimo histórico mientras Trump amenaza co |
-| 2026-08-23 | 95 | K1 | ¿Puede Trump ahogar realmente a Irán? Las dudas sobre la efectiv |
 
 [[Global Brain — Inicio|← Inicio]]

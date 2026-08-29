@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-08-28
+actualizado: 2026-08-29
 nodos: 18
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-28. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-29. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-18 nodos registrados en el periodo. Lo mas reciente: Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista.
+18 nodos registrados en el periodo. Lo mas reciente: Rusia y Estados Unidos: ¿Qué hay detrás del viaje del jefe de la CIA a Moscú?.
 
 ## Trend summary (EN)
-18 nodes recorded in the period. Most recent: Andy Burnham’s autumn of pain– podcast.
+18 nodes recorded in the period. Most recent: Rusia y Estados Unidos: ¿Qué hay detrás del viaje del jefe de la CIA a Moscú?.
 
 > [!note] Estado actual
-> Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista
+> Rusia y Estados Unidos: ¿Qué hay detrás del viaje del jefe de la CIA a Moscú?
 
 ## Nodos recientes (18 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-29 | 83 | K1 | Rusia y Estados Unidos: ¿Qué hay detrás del viaje del jefe de la |
 | 2026-08-27 | 82 | K1 | Primera cirugía cerebral en el mundo guiada por IA en Reino Unid |
 | 2026-08-26 | 95 | K2 | ¿El jefe de la CIA viajó a Moscú? ¿Por qué? Esto se sabe |
 | 2026-08-25 | 66 | K2 | Ukraine showing ‘remarkable innovation’: Kyiv ‘holding front lin |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-18 | 45 | K0 | Rusia: político antiguerra es condenado a 11 años de presión |
 | 2026-08-15 | 83 | K1 | Las acciones de extremistas israelíes en Cisjordania provocan el |
 | 2026-08-15 | 72 | K1 | Escalada en el Mar Negro: Rusia bloquea exportaciones de grano u |
-| 2026-08-14 | 72 | K1 | Polonia frustra un complot ruso para asesinar a un ciudadano ucr |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-08-28
+actualizado: 2026-08-29
 nodos: 36
 origen: global-pulse
 ---
@@ -10,20 +10,22 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-28. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-29. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-36 nodos registrados en el periodo. Lo mas reciente: Récord de detenciones en EE. UU.: ¿Trump cumple su promesa antimigración?.
+36 nodos registrados en el periodo. Lo mas reciente: "El acuerdo petrolero más grande de la historia": Trump anuncia trato por 65.000 millones de barriles con Venezuela.
 
 ## Trend summary (EN)
-36 nodes recorded in the period. Most recent: Trump’s agriculture secretary commits to ‘waiving red tape’ to allow ranchers to process and sell their own beef – live.
+36 nodes recorded in the period. Most recent: Trump announces new US oil agreement with Venezuela.
 
 > [!note] Estado actual
-> Récord de detenciones en EE. UU.: ¿Trump cumple su promesa antimigración?
+> "El acuerdo petrolero más grande de la historia": Trump anuncia trato por 65.000 millones de barriles con Venezuela
 
 ## Nodos recientes (36 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-29 | 95 | K1 | "El acuerdo petrolero más grande de la historia": Trump anuncia  |
+| 2026-08-29 | 83 | K0 | Warsh flags inflation concerns as he rejects Fed forward guidanc |
 | 2026-08-28 | 87 | K2 | Récord de detenciones en EE. UU.: ¿Trump cumple su promesa antim |
 | 2026-08-28 | 83 | K0 | How to lose Trump’s trade war: test Canada’s resolve with threat |
 | 2026-08-28 | 83 | K1 | Fed chair says delivering ‘stable prices’ is central bank’s job  |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-08-25 | 95 | K1 | Arabia Saudita invertirá 6.000 millones de euros en tres parques |
 | 2026-08-25 | 86 | K1 | El ‘lobby’ petrolero pro-Trump se hace de oro con la guerra cont |
 | 2026-08-24 | 95 | K1 | El rial iraní toca un mínimo histórico mientras Trump amenaza co |
-| 2026-08-23 | 95 | K1 | Exdiplomáticos piden sanciones contra Israel por acciones en los |
-| 2026-08-23 | 74 | K0 | La deuda de EE. UU. supera cinco veces el PIB de toda América La |
 
 [[Global Brain — Inicio|← Inicio]]

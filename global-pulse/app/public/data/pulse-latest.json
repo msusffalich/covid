@@ -1,146 +1,785 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-08-28",
-    "generado": "2026-08-28T16:58:46.639733+00:00",
+    "fecha": "2026-08-29",
+    "generado": "2026-08-29T11:27:16.389015+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 812,
-      "clusters": 509,
-      "nodos": 509,
-      "verificados": 509,
-      "duracion_s": 59.9
+      "piezas_ingeridas": 858,
+      "clusters": 521,
+      "nodos": 521,
+      "verificados": 521,
+      "duracion_s": 261.7
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Haakon VIII de Noruega, el nuevo rostro de una monarquía envuelta en desgracias y escándalos tras la muerte de Harald V",
+        "es": "\"El acuerdo petrolero más grande de la historia\": Trump anuncia trato por 65.000 millones de barriles con Venezuela",
+        "en": "Trump announces new US oil agreement with Venezuela"
+      },
+      "sintesis": {
+        "es": "El presidente estadounidense, Donald Trump, aseguró que el pacto dará a Washington el control mayoritario sobre más de 65.000 millones de barriles de las reservas venezolanas y permitirá más que duplicar las reservas de EE. El mandatario afirmó que el acuerdo no tendrá costo para los contribuyentes y permitirá reducir el precio de la gasolina.",
+        "en": "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn barrels of proven oil reserves. The terms of the agreement remain to be seen, but the US president said on his social-media platform that it had been brokered “through a partnership with ⁠private business” by his secretary of state, Marco Rubio, and defense secretary, Pete Hegseth. Continue reading..."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Venezuela",
+        "Trump",
+        "Donald Trump",
+        "Ontario"
+      ],
+      "geo": {
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_3aa9e67fc3",
+        "ev_f6df3ffb44",
+        "ev_73f58e9c22",
+        "ev_9185e427ab",
+        "ev_2e3bb196c4",
+        "ev_bea613e138",
+        "ev_a26f6c378e",
+        "ev_97afd5a13e",
+        "ev_67761c7a17",
+        "ev_782064c367",
+        "ev_d46595c924",
+        "ev_650b8b190f",
+        "ev_9041b2096e",
+        "ev_86d6d27660",
+        "ev_35de1c38ff",
+        "ev_5b27363485",
+        "ev_08a7ba19aa",
+        "ev_c1d1dfee33",
+        "ev_436cb65bd8"
+      ],
+      "cluster_id": "cl_000",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0096/live/8ae15490-a345-11f1-a743-c370dc02b161.jpg",
+        "https://imagenes.elpais.com/resizer/v2/HVR2MVKDDNL3LA7LZT54RXQND4.jpg?auth=effe781ac1c574f4168632364bcff6f973e778a1a25fc22cc6d6e5c4965fcd4d",
+        "https://s.france24.com/media/display/98ffc33e-a130-11f1-a053-005056a90284/w:1024/p:16x9/0dac977c7a39248ab5c6202a3db3fbe46f67304b.jpg",
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260827/1208439_190127_video_1800.mp4"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_3aa9e67fc3",
+          "titulo": "Donald Trump y Delcy Rodríguez anuncian un acuerdo que otorga a EE.UU. el control de más del 20% de las reservas de petróleo de Venezuela",
+          "url": "https://www.bbc.com/mundo/articles/cwyz1d15w9go?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sat, 29 Aug 2026 03:31:24 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f6df3ffb44",
+          "titulo": "Trump anuncia un acuerdo con Venezuela para adueñarse de parte de sus reservas petroleras",
+          "url": "https://elpais.com/us/2026-08-28/trump-anuncia-un-acuerdo-con-venezuela-para-aduenarse-de-parte-de-su-sector-petrolero.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Sat, 29 Aug 2026 02:02:36 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_73f58e9c22",
+          "titulo": "\"El acuerdo petrolero más grande de la historia\": Trump anuncia trato por 65.000 millones de barriles con Venezuela",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260828-el-acuerdo-petrolero-m%C3%A1s-grande-de-la-historia-trump-anuncia-trato-por-65-000-millones-de-barriles-con-venezuela",
+          "fuente": "France 24 Espanol",
+          "fecha": "Fri, 28 Aug 2026 23:10:04 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_9185e427ab",
+          "titulo": "De lago Ontario a lago América: ¿Quién tiene el poder de decidir el nombre de los lugares geográficos?",
+          "url": "https://elpais.com/internacional/2026-08-29/de-lago-ontario-a-lago-america-quien-tiene-el-poder-de-decidir-el-nombre-de-los-lugares-geograficos.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Sat, 29 Aug 2026 03:30:01 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_2e3bb196c4",
+          "titulo": "Donald Trump ordena cambiar el nombre del lago Ontario a lago \"América\"",
+          "url": "https://www.elmundo.es/internacional/2026/08/28/6a914ed021efa03c5c8b4577.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 28 Aug 2026 12:15:09 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_bea613e138",
+          "titulo": "Trump se plantea cambiar el nombre al Atlántico o al Pacífico por océano América",
+          "url": "https://www.elmundo.es/internacional/2026/08/27/6a908bd9e4d4d885548b459e.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 28 Aug 2026 08:03:16 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_a26f6c378e",
+          "titulo": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+          "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sat, 29 Aug 2026 02:42:27 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_97afd5a13e",
+          "titulo": "Trump announces new US oil agreement with Venezuela",
+          "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 28 Aug 2026 23:34:36 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_67761c7a17",
+          "titulo": "Trump announces 'historic' agreement for US stake in Venezuela oil reserves",
+          "url": "https://www.france24.com/en/americas/20260829-trump-announces-historic-agreement-for-us-stake-in-venezuela-oil-reserves",
+          "fuente": "France 24 English",
+          "fecha": "Sat, 29 Aug 2026 00:05:18 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_782064c367",
+          "titulo": "US to control one fifth of Venezuela's oil reserves, Trump says",
+          "url": "https://www.france24.com/en/us-to-control-one-fifth-of-venezuela-s-oil-reserves-trump-says",
+          "fuente": "France 24 English",
+          "fecha": "Sat, 29 Aug 2026 08:55:18 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d46595c924",
+          "titulo": "Trump says US is taking partial control of Venezuela's vast oil reserves",
+          "url": "https://news.sky.com/story/trump-says-us-is-taking-partial-control-of-venezuelas-vast-oil-reserves-13578423",
+          "fuente": "Sky News World",
+          "fecha": "Sat, 29 Aug 2026 03:17:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_650b8b190f",
+          "titulo": "‘Disgusting’: Donald Trump faces backlash for posting AI image of him and Dolly Parton",
+          "url": "http://www.euronews.com/culture/2026/08/28/disgusting-donald-trump-faces-backlash-for-posting-ai-image-of-him-and-dolly-parton",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 28 Aug 2026 15:39:38 +0200",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-29_0000",
+      "fecha": "2026-08-29",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-29_0001",
+        "nd_2026-08-29_0003",
+        "nd_2026-08-29_0005",
+        "nd_2026-08-29_0010",
+        "nd_2026-08-29_0011"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán",
+        "en": "Iran war hits 6-month milestone with Trump's attention largely elsewhere"
+      },
+      "sintesis": {
+        "es": "La guerra en Irán cumple seis meses desde los primeros ataques de Estados Unidos e Israel y parece que los objetivos del presidente Donald Trump están lejos de cumplirse. Para Manuel Supervielle, experto militar, en Geopolítica y Derecho Internacional, el mandatario estadounidense no ha cumplido ninguno de sus objetivos en Teherán, que han cambiado constantemente, y las Fuerzas Estadounidenses han tenido un desgaste considerable.",
+        "en": "A number of U.S. lawmakers called on Donald Trump to end the war with Iran as it reached its six-month mark on Friday, while the U.S. president has given mixed signals regarding the state of the conflict."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Trump",
+        "Estados Unidos",
+        "Europa",
+        "Nuevos"
+      ],
+      "geo": {
+        "lat": 61.5,
+        "lon": 105.3,
+        "region": "Rusia"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_ecfdb51b64",
+        "ev_68fcb70ba7",
+        "ev_109e4bc021",
+        "ev_fb6f92e1fe",
+        "ev_20de331f20",
+        "ev_62327626ea",
+        "ev_d61403379c",
+        "ev_0eb42fa6e3"
+      ],
+      "cluster_id": "cl_017",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/239d/live/98ae3c90-a12a-11f1-8c37-3f30331ac537.jpg",
+        "https://imagenes.elpais.com/resizer/v2/AXN6HQXMOZPUXEWODM3UUUS2QM.jpg?auth=0ba437bc944c49ba99e6051d2e43354c4856cb67e40ec2b038e95c4f9ef2224b",
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207764_224845_video_1800.mp4",
+        "https://s.france24.com/media/display/f27c04da-a334-11f1-84ea-005056a97e36/w:1024/p:16x9/ES-20260828-153403-153755-CS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_ecfdb51b64",
+          "titulo": "Cómo la respuesta de Canadá a los nuevos aranceles de EE.UU. pone a prueba los límites del poder de Trump",
+          "url": "https://www.bbc.com/mundo/articles/cp3kwd28dl5o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Fri, 28 Aug 2026 03:42:54 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_68fcb70ba7",
+          "titulo": "Trump y el petróleo venezolano, un “acuerdo” con muchos cabos sueltos",
+          "url": "https://elpais.com/internacional/2026-08-29/trump-y-el-petroleo-venezolano-un-acuerdo-con-muchos-cabos-sueltos.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Sat, 29 Aug 2026 10:35:29 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_109e4bc021",
+          "titulo": "Canadá impone nuevos aranceles de entre el 15% y el 50% a Estados Unidos como represalia a los de Trump",
+          "url": "https://elpais.com/internacional/2026-08-25/canada-impone-nuevos-aranceles-de-entre-el-15-y-el-50-a-estados-unidos-como-represalia-a-los-de-trump.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Tue, 25 Aug 2026 16:34:35 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_fb6f92e1fe",
+          "titulo": "Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán",
+          "url": "https://www.france24.com/es/video/20260828-an%C3%A1lisis-el-desgaste-econ%C3%B3mico-y-b%C3%A9lico-de-estados-unidos-tras-seis-meses-de-guerra-en-ir%C3%A1n",
+          "fuente": "France 24 Espanol",
+          "fecha": "Fri, 28 Aug 2026 23:12:08 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_20de331f20",
+          "titulo": "Nuevos vuelos entre Estados Unidos y Europa en 2027: París, Barcelona, Ibiza y más destinos",
+          "url": "http://es.euronews.com/viajes/2026/08/28/las-grandes-aerolineas-estadounidenses-lanzan-nuevas-rutas-europeas-en-2027-estos-son-sus",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 28 Aug 2026 14:30:11 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_62327626ea",
+          "titulo": "Tras seis meses de guerra, el problema de Trump es que a Irán le importa menos sufrir que rendirse",
+          "url": "https://www.elmundo.es/internacional/2026/08/27/6a903cede9cf4a15398b457d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 28 Aug 2026 08:03:44 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d61403379c",
+          "titulo": "Islandia vuelve a mirar a Europa, un posible refugio ante la imprevisibilidad de Estados Unidos y Rusia",
+          "url": "https://www.elmundo.es/internacional/2026/08/28/6a9055dffdddff7b328b45bd.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 28 Aug 2026 00:09:24 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_0eb42fa6e3",
+          "titulo": "Iran war hits 6-month milestone with Trump's attention largely elsewhere",
+          "url": "https://www.cbc.ca/news/world/iran-war-six-months-trump-9.7323892?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 28 Aug 2026 13:13:07 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-29_0001",
+      "fecha": "2026-08-29",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-29_0000",
+        "nd_2026-08-29_0003",
+        "nd_2026-08-29_0004",
+        "nd_2026-08-29_0005",
+        "nd_2026-08-29_0010",
+        "nd_2026-08-29_0011"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Al menos 160 muertos y 700 desaparecidos, muchos turistas, por una fuerte riada entre Nepal y el Tíbet: \"Vi cómo las aguas se llevaban por delante ocho o nueve camiones\"",
+        "en": "At least 93,000 ‘in great need’ after Nepal-Tibet flash floods, says Red Cross"
+      },
+      "sintesis": {
+        "es": "El Ministerio de Exteriores de España afirma que, por el momento, \"no constan españoles afectados o ilocalizables\", por lo que no confirma la información de las autoridades de Nepal sobre dos españoles desaparecidos Leer",
+        "en": "Federation says it fears death toll of nearly 600 will continue to rise as rescuers reach cut-off areas Nepal-Tibet flash flood – latest updates Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash floods? The Red Cross has said at least 93,000 people may have been affected by Wednesday’s flash floods on the Nepal-Tibet border, which have killed nearly 600 people, left another 1,900 missing, and triggered a huge rescue operation that is being hampered by fears of new flooding. The International Federation of Red Cross and Red Crescent Societies (IFRC), the world’s largest humanitarian network, said it feared the death toll would continue to rise as some of the hardest-hit areas remained inaccessible after roads and bridges were destroyed by the torrents."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Nepal",
+        "Tibet",
+        "Death",
+        "Red Cross"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 94,
+      "fuentes": [
+        "ev_2dd488af2c",
+        "ev_cfee140d72",
+        "ev_a13e768a70",
+        "ev_eddbc5faa6",
+        "ev_c07f066921",
+        "ev_3122f34a5b",
+        "ev_f80d57d905",
+        "ev_b757568d0f",
+        "ev_63b469c41f",
+        "ev_216eb55c2f",
+        "ev_4f7e435039",
+        "ev_beb9cccfe2"
+      ],
+      "cluster_id": "cl_143",
+      "imagenes": [
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/26/17877413196083.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/26/17877673417694.jpg",
+        "https://i.guim.co.uk/img/media/801126947c8d8ca4588da62c64e532997fb1a82b/842_378_2721_2176/master/2721.jpg?width=140&quality=85&auto=format&fit=max&s=2c7938ed9867377e259a29c685f3bfd2",
+        "https://i.guim.co.uk/img/media/b8b087079ca3e898d252c98b7dd352ece06e5f17/0_0_5000_4000/master/5000.png?width=140&quality=85&auto=format&fit=max&s=a0db2bfd405059366376d13824d2b6ef"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_2dd488af2c",
+          "titulo": "Al menos 160 muertos y 700 desaparecidos, muchos turistas, por una fuerte riada entre Nepal y el Tíbet: \"Vi cómo las aguas se llevaban por delante ocho o nueve camiones\"",
+          "url": "https://www.elmundo.es/internacional/2026/08/26/6a8eaf12e4d4d807778b457d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Thu, 27 Aug 2026 02:47:45 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_cfee140d72",
+          "titulo": "El colapso de un glaciar pudo desencadenar la mortal riada entre Nepal y el Tíbet",
+          "url": "https://www.elmundo.es/internacional/2026/08/26/6a8f2c5421efa00c418b459c.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Wed, 26 Aug 2026 20:13:05 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_a13e768a70",
+          "titulo": "At least 93,000 ‘in great need’ after Nepal-Tibet flash floods, says Red Cross",
+          "url": "https://www.theguardian.com/world/2026/aug/28/nepal-tibet-flash-floods-red-cross-rescuers-death-toll",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 28 Aug 2026 15:55:41 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_eddbc5faa6",
+          "titulo": "Families of 33 missing Britons rush to Nepal as fears grow of more floods",
+          "url": "https://www.theguardian.com/world/2026/aug/28/families-missing-britons-nepal-flash-floods",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 28 Aug 2026 15:44:38 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c07f066921",
+          "titulo": "Nepal-Tibet flood rescue efforts resume after being halted by overflowing lake",
+          "url": "https://www.theguardian.com/world/2026/aug/28/flash-flood-risk-halt-rescue-tibet-nepal-death-toll-china-lake-burst",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 28 Aug 2026 10:17:07 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3122f34a5b",
+          "titulo": "Race to get aid into Nepal and Tibet amid warnings flood lake could burst",
+          "url": "https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-floods-aid",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 28 Aug 2026 04:48:52 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f80d57d905",
+          "titulo": "🔴 Nepal-Tibet floods live: Death toll passes 600, nearly 3,000 people missing",
+          "url": "https://www.france24.com/en/asia-pacific/20260829-nepal-tibet-floods-live-death-toll-passes-600-nearly-2-500-people-still-missing",
+          "fuente": "France 24 English",
+          "fecha": "Sat, 29 Aug 2026 05:38:21 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b757568d0f",
+          "titulo": "Nepal-Tibet floods live: Death toll passes 600, nearly 3,000 people missing",
+          "url": "https://www.france24.com/en/asia-pacific/20260829-nepal-tibet-floods-live-death-toll-passes-600-nearly-2-500-people-still-missing",
+          "fuente": "France 24 English",
+          "fecha": "Sat, 29 Aug 2026 05:06:17 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_63b469c41f",
+          "titulo": "🔴Nepal-Tibet floods live: Death toll passes 580, nearly 2,500 people missing",
+          "url": "https://www.france24.com/en/asia-pacific/20260828-nepal-tibet-live-china-warns-lake-formed-by-mudslide-on-nepal-border-could-breach",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 28 Aug 2026 17:06:15 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_216eb55c2f",
+          "titulo": "Death toll at least 359, with more than 1,000 missing in Nepal, Tibet after catastrophic floods",
+          "url": "https://www.cbc.ca/news/world/nepal-tibet-flood-missing-killed-9.7322278?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Thu, 27 Aug 2026 04:57:40 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4f7e435039",
+          "titulo": "Nepal: Families cling to hope as nearly 1,000 remain missing",
+          "url": "https://www.france24.com/en/nepal-families-cling-to-hope-as-nearly-1-000-remain-missing",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 28 Aug 2026 16:56:39 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_beb9cccfe2",
+          "titulo": "UN chief, Red Cross renew call for rules on lethal autonomous weapons",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168196",
+          "fuente": "UN News",
+          "fecha": "Tue, 25 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-29_0002",
+      "fecha": "2026-08-29",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-29_0009",
+        "nd_2026-08-29_0013"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Irán y EE.UU. cumplen seis meses de guerra con crisis económica, bloqueo naval y represión interna",
+        "en": "Iran and US mark six months of war amid economic crisis, naval blockade and internal crackdown"
+      },
+      "sintesis": {
+        "es": "Tras seis meses de conflicto iniciado con ataques conjuntos de EE.UU. e Israel contra Irán, persisten el estancamiento diplomático y el cierre del estrecho de Ormuz, generando una crisis energética global. Irán reconoce una caída cercana al 35% en su comercio exterior por sanciones y el bloqueo naval estadounidense, mientras pide diplomacia y fin de la ofensiva israelí en Gaza, Líbano y Siria. En paralelo, Teherán avanza en una ley que criminalizaría el contacto con medios extranjeros, endureciendo la represión interna.",
+        "en": "Six months into the conflict that began with joint US-Israeli strikes on Iran, diplomatic talks remain stalled and the Strait of Hormuz closure continues, fueling a global energy crisis. Iran acknowledges nearly a 35% drop in foreign trade due to sanctions and the US naval blockade, while calling for diplomacy and an end to Israeli offensives in Gaza, Lebanon and Syria. Meanwhile, Tehran advances a law that would criminalize contact with foreign media, tightening internal repression."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Estados Unidos",
+        "Irán",
+        "Israel",
+        "Donald Trump"
+      ],
+      "geo": {
+        "lat": 32.4279,
+        "lon": 53.688,
+        "region": "Irán / Oriente Medio"
+      },
+      "impacto": 85,
+      "fuentes": [
+        "ev_c1d4c9fdfd",
+        "ev_62e18c92b9",
+        "ev_e0e091c371",
+        "ev_1e84bf2f21"
+      ],
+      "cluster_id": "cl_049",
+      "imagenes": [
+        "https://s.france24.com/media/display/3bcda536-a316-11f1-9364-005056a90284/w:1024/p:16x9/ES-20260828-110528-110952-CS.jpg",
+        "https://i.guim.co.uk/img/media/cbb47ed3ed3d204b3517bb213722c9176f89f705/557_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=132054a6416467133ed5788d5fb4d215"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c1d4c9fdfd",
+          "titulo": "¿Cuál es la posición diplomática y militar de EE. UU. tras seis meses de guerra contra Irán?",
+          "url": "https://www.france24.com/es/video/20260828-cu%C3%A1l-es-la-posici%C3%B3n-diplom%C3%A1tica-y-militar-de-ee-uu-tras-seis-meses-de-guerra-contra-ir%C3%A1n",
+          "fuente": "France 24 Espanol",
+          "fecha": "Fri, 28 Aug 2026 19:33:08 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_62e18c92b9",
+          "titulo": "Iran seeks to criminalise all contact with foreign media in ‘chilling’ crackdown",
+          "url": "https://www.theguardian.com/global-development/2026/aug/26/iran-criminalises-contact-foreign-media-human-rights-crackdown",
+          "fuente": "The Guardian World",
+          "fecha": "Wed, 26 Aug 2026 05:00:35 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e0e091c371",
+          "titulo": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+          "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 29 Aug 2026 10:09:26 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1e84bf2f21",
+          "titulo": "Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible'",
+          "url": "https://www.cnbc.com/2026/08/28/us-iran-war-trump-hormuz-oman-centcom.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Fri, 28 Aug 2026 12:39:02 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-29_0003",
+      "fecha": "2026-08-29",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-29_0000",
+        "nd_2026-08-29_0001",
+        "nd_2026-08-29_0004"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Rusia y Estados Unidos: ¿Qué hay detrás del viaje del jefe de la CIA a Moscú?",
+        "en": "Rusia y Estados Unidos: ¿Qué hay detrás del viaje del jefe de la CIA a Moscú?"
+      },
+      "sintesis": {
+        "es": "¿Intentó el jefe de la CIA disuadir a Rusia de atacar a la OTAN durante su viaje secreto a Moscú? La visita no anunciada del director de la CIA, John Ratcliffe, a Moscú esta semana ha adquirido una dimensión estratégica después de que 'The Wall Street Journal' y 'CBS News', citando a fuentes familiarizadas con el viaje, aseguraran que uno de sus objetivos fue advertir al Kremlin contra cualquier ataque a un país de la OTAN, especialmente en los Estados bálticos, en un momento en que la inteligencia estadounidense evalúa que Rusia podría tratar de poner a prueba la determinación de la Alianza.",
+        "en": "¿Intentó el jefe de la CIA disuadir a Rusia de atacar a la OTAN durante su viaje secreto a Moscú? La visita no anunciada del director de la CIA, John Ratcliffe, a Moscú esta semana ha adquirido una dimensión estratégica después de que 'The Wall Street Journal' y 'CBS News', citando a fuentes familiarizadas con el viaje, aseguraran que uno de sus objetivos fue advertir al Kremlin contra cualquier ataque a un país de la OTAN, especialmente en los Estados bálticos, en un momento en que la inteligencia estadounidense evalúa que Rusia podría tratar de poner a prueba la determinación de la Alianza."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "CIA",
+        "Estados Unidos",
+        "OTAN",
+        "Rusia"
+      ],
+      "geo": {
+        "lat": 61.5,
+        "lon": 105.3,
+        "region": "Rusia"
+      },
+      "impacto": 83,
+      "fuentes": [
+        "ev_c02fc441d4",
+        "ev_1af6ef55da",
+        "ev_2199f46690",
+        "ev_4274c06c93",
+        "ev_002bd96835",
+        "ev_e1b4373e2f",
+        "ev_a7d9938fe9",
+        "ev_671c64b438",
+        "ev_2944770e69"
+      ],
+      "cluster_id": "cl_019",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ad16/live/af711460-a26b-11f1-afbb-e7fe0ecffb65.jpg",
+        "https://s.france24.com/media/display/72099aa6-a35c-11f1-b0f4-005056bfb2b6/w:1024/p:16x9/FORMATO-HOST-4.png",
+        "https://s.rfi.fr/media/display/062ac250-a13c-11f1-adf1-005056a90284/w:1024/p:16x9/2026-08-26T062622Z-2036709937-RC2R5NA8MEQF-RTRMADP-3-USA-RUSSIA-CIA.jpg",
+        "https://imagenes.elpais.com/resizer/v2/PHFIN7YYZ5FBZHCPBD6GJOF4XM.jpg?auth=d458d25948d8203dcbc089d3e5f72a6dcdc66c95b32fe7725305eeed0ff91608"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c02fc441d4",
+          "titulo": "Cómo se puede interpretar el viaje secreto del jefe de la CIA a Moscú",
+          "url": "https://www.bbc.com/mundo/articles/cr50m3mjr08o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Thu, 27 Aug 2026 23:06:27 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_1af6ef55da",
+          "titulo": "Rusia y Estados Unidos: ¿Qué hay detrás del viaje del jefe de la CIA a Moscú?",
+          "url": "https://www.france24.com/es/video/20260829-rusia-y-estados-unidos-qu%C3%A9-hay-detr%C3%A1s-del-viaje-del-jefe-de-la-cia-a-mosc%C3%BA",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sat, 29 Aug 2026 03:49:20 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_2199f46690",
+          "titulo": "Rusia: Director de la CIA advirtió a Moscú sobre no atacar a la OTAN (prensa)",
+          "url": "https://www.rfi.fr/es/europa/20260827-rusia-director-de-la-cia-advirti%C3%B3-a-mosc%C3%BA-sobre-no-atacar-a-la-otan-prensa",
+          "fuente": "RFI Espanol",
+          "fecha": "Thu, 27 Aug 2026 13:34:21 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_4274c06c93",
+          "titulo": "¿Planea Rusia atacar a la OTAN? El viaje secreto del jefe de la CIA a Moscú dispara las alarmas",
+          "url": "http://es.euronews.com/my-europe/2026/08/28/estan-seguras-las-republicas-balticas-el-viaje-del-jefe-de-la-cia-a-moscu-genera-nuevas-du",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 28 Aug 2026 16:01:20 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_002bd96835",
+          "titulo": "Estados Unidos, cada vez más una fortaleza contra la inmigración",
+          "url": "https://elpais.com/internacional/2026-08-27/estados-unidos-cada-vez-mas-una-fortaleza-contra-la-inmigracion.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Thu, 27 Aug 2026 03:30:01 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_e1b4373e2f",
+          "titulo": "Corte Penal Internacional: las nuevas sanciones de Estados Unidos son un ataque flagrante contra su independencia",
+          "url": "https://news.un.org/feed/view/es/story/2026/08/1541823",
+          "fuente": "Noticias ONU",
+          "fecha": "Wed, 19 Aug 2026 12:00:00 +0000",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_a7d9938fe9",
+          "titulo": "El director de la CIA viajó a Moscú para advertir a Putin de que no ataque a ningún país de la OTAN, según el WSJ y CBS",
+          "url": "https://www.elmundo.es/internacional/2026/08/27/6a8ffae4fc6c8340158b45a5.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Thu, 27 Aug 2026 20:17:16 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_671c64b438",
+          "titulo": "Elecciones en Rusia: ¿Putin busca blindar su poder en plena guerra?",
+          "url": "https://www.france24.com/es/programas/ventana-a-europa/20260828-elecciones-en-rusia-putin-busca-blindar-su-poder-en-plena-guerra",
+          "fuente": "France 24 Espanol",
+          "fecha": "Fri, 28 Aug 2026 20:02:45 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_2944770e69",
+          "titulo": "¿Dónde podría atacar Rusia? Así preocupa Putin a la OTAN ( no sólo por la guerra híbrida)",
+          "url": "https://www.elmundo.es/internacional/2026/08/28/6a914f05fdddff0a718b4583.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 28 Aug 2026 20:39:03 +0200",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-08-29_0004",
+      "fecha": "2026-08-29",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-08-29_0001",
+        "nd_2026-08-29_0003"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "El limbo de los mexicanos deportados por Trump a terceros países",
+        "en": "Los Angeles fire survivors face record wait for federal disaster aid under Trump"
+      },
+      "sintesis": {
+        "es": "deportó cerca de 2.300 mexicanos a Guatemala en 2026, y a decenas más a Honduras. El gobierno estadounidense está normalizando estas deportaciones a terceros países.",
+        "en": "Nearly 600 days after the devastating 2025 fires, thousands of Los Angeles residents are still waiting for more than $15bn in federal funds to rebuild their communities As thousands of residents in Spokane, Washington, begin to grapple with a long recovery after a destructive set of blazes that consumed hundreds of homes in the state’s second most populated city this month, victims of the Los Angeles firestorm broke a grim record – they have faced the longest delay in modern history for federal aid. Nearly 600 days since a historic firestorm roared into communities across Los Angeles, reducing more than 16,000 structures to ash and toxic debris, the Trump administration has failed to appropriate more than $15bn in long-term recovery funds that are crucial to rebuilding. The delay in supplying the badly needed funds is months longer than the last record set when victims of the Maui fires had to wait 500 days to receive the support, LAist noted this week."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Trump",
+        "Los Angeles"
+      ],
+      "geo": {
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
+      },
+      "impacto": 83,
+      "fuentes": [
+        "ev_a2137453da",
+        "ev_7e8ca9eed7",
+        "ev_6a4b410087",
+        "ev_697a32b1ed",
+        "ev_4bc6e3f4c9"
+      ],
+      "cluster_id": "cl_063",
+      "imagenes": [
+        "https://s.rfi.fr/media/display/47e20788-5c56-11f1-a271-005056a97e36/w:1024/p:16x9/2026-05-28T222428Z-1792534916-RC2JILARJTTQ-RTRMADP-3-USA-IMMIGRATION.jpg",
+        "https://i.guim.co.uk/img/media/d6341b9be80af45b46afcc83ce09f2a0f866b987/336_0_3347_2679/master/3347.jpg?width=140&quality=85&auto=format&fit=max&s=7b986491a62d4c996c340ed2f011c382",
+        "https://static.independent.co.uk/2026/08/29/01/2284475262..?width=1200&auto=webp&trim=0%2C91%2C0%2C91",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2281424431-1024x648.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a2137453da",
+          "titulo": "El limbo de los mexicanos deportados por Trump a terceros países",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260827-el-limbo-de-los-mexicanos-deportados-por-trump-a-terceros-pa%C3%ADses",
+          "fuente": "RFI Espanol",
+          "fecha": "Thu, 27 Aug 2026 12:36:55 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_7e8ca9eed7",
+          "titulo": "Los Angeles fire survivors face record wait for federal disaster aid under Trump",
+          "url": "https://www.theguardian.com/us-news/2026/aug/28/los-angeles-wildfire-survivors-federal-aid",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 28 Aug 2026 22:39:26 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6a4b410087",
+          "titulo": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
+          "url": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
+          "fuente": "NPR News",
+          "fecha": "Sat, 29 Aug 2026 06:00:00 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_697a32b1ed",
+          "titulo": "Trump’s proposed arch backed despite adverse effects on DC sightlines",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-arch-national-parks-service-washington-landmarks-report-b3041352.html",
+          "fuente": "The Independent World",
+          "fecha": "Sat, 29 Aug 2026 00:52:49 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4bc6e3f4c9",
+          "titulo": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+          "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+          "fuente": "Ars Technica",
+          "fecha": "Thu, 27 Aug 2026 18:57:08 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-29_0005",
+      "fecha": "2026-08-29",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-08-29_0000",
+        "nd_2026-08-29_0001",
+        "nd_2026-08-29_0010",
+        "nd_2026-08-29_0011"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Norway’s King Harald dies aged 89",
         "en": "Norway’s King Harald dies aged 89"
       },
       "sintesis": {
-        "es": "El rey Haakon VIII de Noruega ascendió automáticamente al trono tras el fallecimiento de su padre, el rey Harald V, este viernes 28 de agosto. Es el nuevo rostro de una monarquía elogiada por su modernidad y modestia, pero que en los últimos años se ha visto inmersa en desgracias y escándalos, entre ellos las revelaciones sobre la amistad de la reina con el fallecido depredador sexual Jeffrey Epstein.",
+        "es": "Norwegians gather to remember monarch whose death comes amid scandal over links between crown princess and Jeffrey Epstein Norwegians have gathered in their thousands to pay their respects to King Harald V, Europe’s oldest reigning monarch, who has died, aged 89, in Oslo. He was succeeded immediately by his son, King Haakon VIII. The new king thanked “the government and Norwegian people for their support and sympathy for the royal family at this time”.",
         "en": "Norwegians gather to remember monarch whose death comes amid scandal over links between crown princess and Jeffrey Epstein Norwegians have gathered in their thousands to pay their respects to King Harald V, Europe’s oldest reigning monarch, who has died, aged 89, in Oslo. He was succeeded immediately by his son, King Haakon VIII. The new king thanked “the government and Norwegian people for their support and sympathy for the royal family at this time”."
       },
       "categoria": "salud",
       "actores": [
-        "Noruega",
-        "Harald",
+        "Norway",
         "King Harald",
-        "Muere"
+        "Haakon",
+        "King Haakon"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 95,
+      "impacto": 83,
       "fuentes": [
-        "ev_42b406f05e",
-        "ev_f90b73f713",
-        "ev_9acc618f24",
-        "ev_0215173ce7",
-        "ev_9943e73ae6",
-        "ev_aea4dd1b1c",
-        "ev_fcf580cfa0",
-        "ev_972a6c5cba",
-        "ev_bdda4bcf45",
+        "ev_1914e5e6bc",
         "ev_54ea1f7e41",
         "ev_da0b0d4674",
-        "ev_8cd25be618",
-        "ev_8f383dd20a",
-        "ev_100c7d0821",
-        "ev_6b33147d7d",
-        "ev_6da3a0e92d",
+        "ev_11e91fbd3d",
+        "ev_32fde89d0f",
+        "ev_2106a99182",
+        "ev_fe95be9e5b",
+        "ev_9658aef293",
         "ev_a512bb75c5",
-        "ev_6f5a2a2ee6",
-        "ev_c4a9d18aca",
-        "ev_ffbdd4e19a",
-        "ev_62daf1c75c",
-        "ev_c607d4d90e"
+        "ev_c4a9d18aca"
       ],
-      "cluster_id": "cl_002",
+      "cluster_id": "cl_166",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5cd0/live/975cf7c0-a2c7-11f1-941c-8741c1a72471.jpg",
-        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260828/1208582_064841_video_1800.mp4",
-        "https://imagenes.elpais.com/resizer/v2/VL474AO6ZRCWLHNYM4DEOYNZDU.jpg?auth=3a0ddf4b715a853594c5bbfd82eff2cc303e71a139bbbabf13f271fb6698e929",
-        "https://imagenes.elpais.com/resizer/v2/INQFH6QXVJK3JIKH4LA4KU7NRY.jpg?auth=b0b94c831ededf388df02d2ffb87d87a71a947b3a6e1fb7b670d4046d4aa2007"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1336/live/81184bf0-a2cb-11f1-941c-8741c1a72471.jpg",
+        "https://i.guim.co.uk/img/media/e8b8379ac5ddd85bee997842bce3d5b24b938a74/200_96_4178_3343/master/4178.jpg?width=140&quality=85&auto=format&fit=max&s=61870803168ddb8c2ed25d0944e629c1",
+        "https://s.france24.com/media/display/d51c7b0a-a2ac-11f1-b15b-005056a97e36/w:1024/p:16x9/AP23128282047679.jpg",
+        "https://static01.nyt.com/images/2026/08/28/multimedia/28int-norway-new-king-pfmb/28int-norway-new-king-pfmb-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_42b406f05e",
-          "titulo": "Muere a los 89 años Harald de Noruega, el rey que se casó con una plebeya y reformó la monarquía de su país",
-          "url": "https://www.bbc.com/mundo/articles/c3eq87gd2v7o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Fri, 28 Aug 2026 08:01:10 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f90b73f713",
-          "titulo": "Muere Harald V, rey de Noruega, a los 89 años",
-          "url": "https://elpais.com/internacional/2026-08-28/muere-harald-v-rey-de-noruega-a-los-89-anos.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Fri, 28 Aug 2026 08:52:54 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_9acc618f24",
-          "titulo": "Así queda la línea de sucesión del trono de Noruega tras la muerte de Harald V",
-          "url": "https://elpais.com/gente/2026-08-28/asi-queda-la-linea-de-sucesion-del-trono-de-noruega-tras-la-muerte-de-harald-v.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Fri, 28 Aug 2026 07:11:14 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_0215173ce7",
-          "titulo": "Monarquías y líderes europeos muestran sus condolencias por la muerte de Harald V: “Guio a Noruega con humildad”",
-          "url": "https://elpais.com/internacional/2026-08-28/monarquias-y-lideres-europeos-muestran-sus-condolencias-por-la-muerte-de-harald-v-guio-a-noruega-con-humildad.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Fri, 28 Aug 2026 12:09:21 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_9943e73ae6",
-          "titulo": "Haakon VIII de Noruega, el nuevo rostro de una monarquía envuelta en desgracias y escándalos tras la muerte de Harald V",
-          "url": "https://www.france24.com/es/europa/20260828-haakon-viii-de-noruega-el-nuevo-rostro-de-una-monarqu%C3%ADa-envuelta-en-desgracias-y-esc%C3%A1ndalos-tras-la-muerte-de-harald-v",
-          "fuente": "France 24 Espanol",
-          "fecha": "Fri, 28 Aug 2026 14:31:24 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_aea4dd1b1c",
-          "titulo": "Muere el rey Harald V de Noruega a los 89 años tras varias complicaciones de salud",
-          "url": "http://es.euronews.com/my-europe/2026/08/28/muere-rey-harald-v-noruega-complicaciones-salud",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 28 Aug 2026 08:52:24 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_fcf580cfa0",
-          "titulo": "Haakon VIII, un nuevo rey para Noruega con el reto de que su pueblo perdone a su esposa, Mette-Marit",
-          "url": "https://www.elmundo.es/internacional/2026/08/28/6a8c7c30e9cf4ab27b8b45a2.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 28 Aug 2026 13:20:21 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_972a6c5cba",
-          "titulo": "Muere Harald de Noruega, el rey sin rival en popularidad que encarnó la Monarquía del Bienestar y las libertades",
-          "url": "https://www.elmundo.es/internacional/2026/08/28/6a8c5059e4d4d8b5458b45a5.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 28 Aug 2026 10:24:29 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_bdda4bcf45",
-          "titulo": "El rey Harald V de Noruega, \"muy grave\", empeora su estado de salud",
-          "url": "https://www.elmundo.es/internacional/2026/08/27/6a8ff166fc6c83b81e8b45ac.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 27 Aug 2026 10:22:25 +0200",
-          "idioma": "es"
+          "id": "ev_1914e5e6bc",
+          "titulo": "King Haakon begins reign after turbulent year for Norwegian monarchy",
+          "url": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 28 Aug 2026 10:37:21 GMT",
+          "idioma": "en"
         },
         {
           "id": "ev_54ea1f7e41",
@@ -159,1106 +798,104 @@
           "idioma": "en"
         },
         {
-          "id": "ev_8cd25be618",
-          "titulo": "Mourners in Norway Remember King Harald V",
-          "url": "https://www.nytimes.com/2026/08/28/world/europe/king-harald-norway-death.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 28 Aug 2026 14:56:44 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-28_0000",
-      "fecha": "2026-08-28",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-28_0012",
-        "nd_2026-08-28_0013"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Serbia: polémica por anuncio de funerales de Estado para el criminal de guerra Ratko Mladic",
-        "en": "Ratko Mladic, war criminal and former Bosnian Serb military leader, dead"
-      },
-      "sintesis": {
-        "es": "La muerte de Ratko Mladic sigue provocando una fuerte controversia en los Balcanes, sobre todo, después de que el ministro serbio de Justicia anunciara que el exjefe militar de los serbios de Bosnia recibirá funerales con honores militares y de Estado. Mladic fue condenado a cadena perpetua por genocidio, crímenes de guerra y crímenes contra la humanidad. Con información de nuestro corresponsal en Belgrado, Laurent Rouy.",
-        "en": "Ratko Mladic, convicted of genocide for orchestrating the 1995 Srebrenica massacre of at least 8,000 Muslims in Europe's worst atrocity since the Second World War, has died."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Ratko Mladic",
-        "Bosnia",
-        "Serbia",
-        "Estado"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_1885a4b21d",
-        "ev_c319245d38",
-        "ev_edbb875fba",
-        "ev_18c515784a",
-        "ev_905ce4eeba",
-        "ev_8eb32b3d67",
-        "ev_5682f23818",
-        "ev_f2b4985a39",
-        "ev_766faa73ce",
-        "ev_521debedf7",
-        "ev_9b70d3957a"
-      ],
-      "cluster_id": "cl_013",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92ef/live/f7a22fb0-a254-11f1-a1d7-5567ac89ca4e.png",
-        "https://s.rfi.fr/media/display/0dc12c7e-a2b9-11f1-a560-005056a97e36/w:1024/p:16x9/AP25155570637829.jpg",
-        "https://s.rfi.fr/media/display/7a286db4-a219-11f1-a8e7-005056bfb2b6/w:1024/p:16x9/3674d6a43a5dfaa6e2d1f2249f47a4d510d19d0e.jpg",
-        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260827/1208387_165320_video_1800.mp4"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1885a4b21d",
-          "titulo": "Muere a los 84 años Ratko Mladic, el \"carnicero de Bosnia\" que fue condenado a cadena perpetua por genocidio en la antigua Yugoslavia",
-          "url": "https://www.bbc.com/mundo/articles/c4g07ep8z93o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 27 Aug 2026 13:59:02 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c319245d38",
-          "titulo": "Serbia: polémica por anuncio de funerales de Estado para el criminal de guerra Ratko Mladic",
-          "url": "https://www.rfi.fr/es/europa/20260828-serbia-pol%C3%A9mica-por-anuncio-de-funerales-de-estado-para-el-criminal-de-guerra-ratko-mladic",
-          "fuente": "RFI Espanol",
-          "fecha": "Fri, 28 Aug 2026 12:50:06 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_edbb875fba",
-          "titulo": "Murió Ratko Mladic, el \"carnicero de los Balcanes\"",
-          "url": "https://www.rfi.fr/es/europa/20260827-muri%C3%B3-ratko-mladic-el-carnicero-de-los-balcanes",
-          "fuente": "RFI Espanol",
-          "fecha": "Thu, 27 Aug 2026 13:42:38 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_18c515784a",
-          "titulo": "Muere Ratko Mladic, el ‘carnicero de Bosnia’",
-          "url": "https://elpais.com/internacional/2026-08-27/muere-ratko-mladic-el-carnicero-de-bosnia.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Thu, 27 Aug 2026 17:24:17 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_905ce4eeba",
-          "titulo": "Muere Ratko Mladić, el 'carnicero de Bosnia', a los 84 años",
-          "url": "https://www.france24.com/es/video/20260827-muere-ratko-mladi%C4%87-el-carnicero-de-bosnia-a-los-85-a%C3%B1os",
-          "fuente": "France 24 Espanol",
-          "fecha": "Thu, 27 Aug 2026 21:17:47 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_8eb32b3d67",
-          "titulo": "Muere Mladic, el Carnicero de los Balcanes, condenado por la matanza de Srebrenica: \"Las fosas permanecen y cada veredicto de La Haya sigue en pie\"",
-          "url": "https://www.elmundo.es/internacional/2026/08/27/6a9031c121efa0fe388b45d3.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 27 Aug 2026 17:32:55 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_5682f23818",
-          "titulo": "Ratko Mladic será enterrado en Serbia con honores de Estado",
-          "url": "https://www.elmundo.es/internacional/2026/08/28/6a91559021efa070468b4574.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 28 Aug 2026 11:54:53 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f2b4985a39",
-          "titulo": "Ratko Mladic, Murderous ‘Butcher of Bosnia,’ Dies at 83",
-          "url": "https://www.nytimes.com/2026/08/27/world/europe/ratko-mladic-dead.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 27 Aug 2026 16:57:48 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_766faa73ce",
-          "titulo": "'Butcher of Bosnia' Ratko Mladic dies",
-          "url": "https://news.sky.com/story/butcher-of-bosnia-ratko-mladic-convicted-of-genocide-dies-13577791",
-          "fuente": "Sky News World",
-          "fecha": "Thu, 27 Aug 2026 14:11:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_521debedf7",
-          "titulo": "Ratko Mladic death: Former Bosnian Serb general convicted of genocide dies aged 84",
-          "url": "https://www.independent.co.uk/news/world/europe/rakto-mladic-dead-bosnia-serbia-genocide-b3040343.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 27 Aug 2026 13:06:59 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9b70d3957a",
-          "titulo": "Ratko Mladic, war criminal and former Bosnian Serb military leader, dead",
-          "url": "https://www.cbc.ca/news/world/ratko-mladic-war-criminal-dead-9.7322761?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Thu, 27 Aug 2026 12:58:07 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-28_0001",
-      "fecha": "2026-08-28",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "\"Asqueroso\": Las críticas a Trump por publicar una imagen de IA con Dolly Parton",
-        "en": "‘Disgusting’: Donald Trump faces backlash for posting AI image of him and Dolly Parton"
-      },
-      "sintesis": {
-        "es": "En un mensaje con IA, Trump acudió a Truth Social para compartir una imagen en la que aparece del brazo de Dolly Parton, algo que sus fans, de luto por su muerte esta semana, vieron como una falta de respeto.",
-        "en": "In one of his latest AI slop posts, Trump took to Truth Social to share an AI-generated illustration of him arm in arm with Dolly Parton walking around the White House. This was a step too far for fans of the artist, who died this week and has left millions mourning her loss."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Dolly Parton",
-        "Miley Cyrus",
-        "Muere Dolly",
-        "Parton"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_095fb6ea7b",
-        "ev_903cff744f",
-        "ev_a189279df6",
-        "ev_59d4945f33",
-        "ev_07f13d4499",
-        "ev_650b8b190f",
-        "ev_b61612dc40",
-        "ev_ce5a05b493"
-      ],
-      "cluster_id": "cl_027",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9fbc/live/a902b070-a199-11f1-9d54-6f26c2c0ae1e.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bc1a/live/82a535a0-a0eb-11f1-b472-737f3c678eb0.jpg",
-        "https://static.independent.co.uk/2026/08/27/17/2284893895..?width=1200&auto=webp&trim=0%2C46%2C0%2C46"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_095fb6ea7b",
-          "titulo": "\"Un ángel a mi lado\": Miley Cyrus rinde un sentido homenaje a su madrina Dolly Parton",
-          "url": "https://www.bbc.com/mundo/articles/cn74y15482do?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Wed, 26 Aug 2026 22:32:41 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_903cff744f",
-          "titulo": "Muere Dolly Parton, la leyenda del country que conquistó a millones cantando desde el corazón",
-          "url": "https://www.bbc.com/mundo/articles/cx2z92rgleko?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Wed, 26 Aug 2026 01:17:02 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_a189279df6",
-          "titulo": "\"Asqueroso\": Las críticas a Trump por publicar una imagen de IA con Dolly Parton",
-          "url": "http://es.euronews.com/cultura/2026/08/28/asqueroso-donald-trump-afronta-criticas-por-publicar-imagen-ia-con-dolly-parton",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 28 Aug 2026 15:41:26 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_59d4945f33",
-          "titulo": "La hermana de Dolly Parton revela que se ofreció a probar un tratamiento experimental contra el cáncer",
-          "url": "http://es.euronews.com/cultura/2026/08/28/la-hermana-de-dolly-parton-revela-que-se-ofrecio-a-probar-tratamiento-experimental-contra",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 28 Aug 2026 11:50:32 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_07f13d4499",
-          "titulo": "This week's quiz includes two Dolly Parton questions, because she deserves it",
-          "url": "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
-          "fuente": "NPR News",
-          "fecha": "Fri, 28 Aug 2026 05:01:00 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_650b8b190f",
-          "titulo": "‘Disgusting’: Donald Trump faces backlash for posting AI image of him and Dolly Parton",
-          "url": "http://www.euronews.com/culture/2026/08/28/disgusting-donald-trump-faces-backlash-for-posting-ai-image-of-him-and-dolly-parton",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 28 Aug 2026 15:39:38 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b61612dc40",
-          "titulo": "Dolly Parton offered to undergo experimental cancer treatment to help others, sister reveals",
-          "url": "http://www.euronews.com/culture/2026/08/28/dolly-parton-offered-to-undergo-experimental-cancer-treatment-to-help-others-sister-reveal",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 28 Aug 2026 11:49:29 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ce5a05b493",
-          "titulo": "Ted Cruz’s Dolly Parton tribute backfires in an unexpected way",
-          "url": "https://www.independent.co.uk/bulletin/news/ted-cruz-dolly-parton-tribute-x-b3040644.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 27 Aug 2026 22:10:51 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-28_0002",
-      "fecha": "2026-08-28",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Trump vs. Irán: miles de muertes, estancamiento y asfixia económica, seis meses que sacuden el mundo",
-        "en": "Iran seeks to criminalise all contact with foreign media in ‘chilling’ crackdown"
-      },
-      "sintesis": {
-        "es": "La incursión de EE. e Israel del 28 de febrero, que supuestamente duraría semanas, cumple medio año de conflicto y no muestra señales de solución a la vista.",
-        "en": "As photojournalist sentenced to 15 years, rights groups warn law would turn civic engagement into security crime Iran has taken the first step towards criminalising contact with foreign media, in a move human rights groups have said attempts to “sever the entire Iranian society from the rest of the world”. For journalists, researchers and even ordinary citizens, the proposed law being discussed by Iranian lawmakers this month could make speaking to international audiences and groups a potential criminal act and restrict coverage of events such as January’s mass anti-regime protests . Continue reading..."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Trump",
-        "Iran",
-        "White House",
-        "Most"
-      ],
-      "geo": {
-        "lat": 61.5,
-        "lon": 105.3,
-        "region": "Rusia"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_a8f6d8acd4",
-        "ev_62327626ea",
-        "ev_62e18c92b9",
-        "ev_b6cde5758a",
-        "ev_78a43010d2",
-        "ev_3b794a2d88",
-        "ev_ef0fd86a93",
-        "ev_93770d018a",
-        "ev_4ab02da72c"
-      ],
-      "cluster_id": "cl_050",
-      "imagenes": [
-        "https://s.france24.com/media/display/f7777cd6-8056-11f1-bfb4-005056bf30b7/w:1024/p:16x9/WEB-PORTADA-EXP-14JUL.png",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/27/17878556559434.jpg",
-        "https://i.guim.co.uk/img/media/cbb47ed3ed3d204b3517bb213722c9176f89f705/557_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=132054a6416467133ed5788d5fb4d215",
-        "https://static.independent.co.uk/2026/08/28/15/33/Screenshot-2026-08-28-at-16-33-17.png?width=1200&auto=webp&trim=39%2C0%2C76%2C0"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_a8f6d8acd4",
-          "titulo": "Trump vs. Irán: miles de muertes, estancamiento y asfixia económica, seis meses que sacuden el mundo",
-          "url": "https://www.france24.com/es/medio-oriente/20260828-trump-vs-ir%C3%A1n-miles-de-muertes-estancamiento-y-asfixia-econ%C3%B3mica-seis-meses-que-sacuden-el-mundo",
-          "fuente": "France 24 Espanol",
-          "fecha": "Fri, 28 Aug 2026 01:43:30 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_62327626ea",
-          "titulo": "Tras seis meses de guerra, el problema de Trump es que a Irán le importa menos sufrir que rendirse",
-          "url": "https://www.elmundo.es/internacional/2026/08/27/6a903cede9cf4a15398b457d.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 28 Aug 2026 08:03:44 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_62e18c92b9",
-          "titulo": "Iran seeks to criminalise all contact with foreign media in ‘chilling’ crackdown",
-          "url": "https://www.theguardian.com/global-development/2026/aug/26/iran-criminalises-contact-foreign-media-human-rights-crackdown",
-          "fuente": "The Guardian World",
-          "fecha": "Wed, 26 Aug 2026 05:00:35 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b6cde5758a",
-          "titulo": "White House is not a ‘happy environment’ as Trump’s frustration with Iran war grows, reporter claims",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/white-house-trump-iran-war-b3041160.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 28 Aug 2026 16:44:21 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_78a43010d2",
-          "titulo": "‘Most’ of Trump’s staff wants to leave the White House, reporter claims",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-staff-exodus-karoline-leavitt-maggie-haberman-b3040634.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 28 Aug 2026 00:33:48 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3b794a2d88",
-          "titulo": "Trump kept CIA chief’s visit to Russia from White House officials: report",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-russia-cia-white-house-ratcliffe-b3041001.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 28 Aug 2026 13:31:53 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ef0fd86a93",
-          "titulo": "Disaster of Trump’s war in Iran laid bare six months on: Thousands dead, economic chaos and a region in flames",
-          "url": "https://www.independent.co.uk/news/world/middle-east/iran-war-trump-anniversary-deaths-economy-b3039363.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 28 Aug 2026 10:52:00 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_93770d018a",
-          "titulo": "Karoline Leavitt is leaving the White House — replacing her could be an impossible job",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/karoline-leavitt-trump-departure-analysis-b3040557.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 27 Aug 2026 19:26:00 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4ab02da72c",
-          "titulo": "U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare",
-          "url": "https://www.cnbc.com/2026/08/28/navy-blockade-iran-oil-exports-sanctions-trump.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Fri, 28 Aug 2026 11:50:45 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-28_0003",
-      "fecha": "2026-08-28",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-28_0006",
-        "nd_2026-08-28_0008"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "China y Nepal retoman labores de emergencia tras amenaza de nuevo desbordamiento en la cordillera",
-        "en": "Nepal flood disaster reconstructed minute by minute"
-      },
-      "sintesis": {
-        "es": "Tras unas horas de suspensión sobre el terreno, China y Nepal han retomado los esfuerzos incansables de búsqueda y rescate tras el colapso de un glaciar en la cordillera del Himalaya, a una altura de unos 5.000 metros de altura. El derrumbe provocó un enorme alud de lodo que destruyó todo a su paso, dejando al menos unos 538 fallecidos y 1.400 desaparecidos en Nepal y en China, en el condado de Gyirong, en el Tíbet. Los datos siguen siendo muy preliminares.",
-        "en": "New satellite imagery and video analysis show the deadly Nepal floods began when part of a glacier near the Chinese border collapsed, triggering a debris flow that raced downstream at up to 150 km/h and devastated communities over more than 80 kilometres. Scientists are still piecing together the exact sequence of events, while authorities warn the disaster may not be over as a newly formed lake upstream has started to overflow."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Nepal",
-        "China",
-        "China Offers",
-        "Condolences"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 93,
-      "fuentes": [
-        "ev_07cd2c3c99",
-        "ev_bfffe3415a",
-        "ev_09b9b50176",
-        "ev_3b53b1593a",
-        "ev_f7f31bcc55",
-        "ev_a033b526c9",
-        "ev_bf1201cb1d",
-        "ev_5019f2ae5e",
-        "ev_edf895112c",
-        "ev_102996dbb1",
-        "ev_dadc4c82d2"
-      ],
-      "cluster_id": "cl_032",
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/LQFWD5ZMHJEZZD6AAYAT5BHN6M.jpg?auth=0bff6237d3d527fbad09510fee5b75b6572c19c5fde4405ceb340813d8f3a864",
-        "https://s.rfi.fr/media/display/0723846e-a2c5-11f1-8d31-005056bfb2b6/w:1024/p:16x9/bf142d70758c87ebc7d23df62d05579504d55f35.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879045616081.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c53/live/5e79d6c0-a1e2-11f1-aed2-8d6da8d75094.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_07cd2c3c99",
-          "titulo": "La ruta de la seda ártica de China ya es una realidad",
-          "url": "https://elpais.com/opinion/2026-08-22/la-ruta-de-la-seda-artica-de-china-ya-es-una-realidad.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sat, 22 Aug 2026 03:30:01 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_bfffe3415a",
-          "titulo": "China y Nepal retoman labores de emergencia tras amenaza de nuevo desbordamiento en la cordillera",
-          "url": "https://www.rfi.fr/es/asia-pacifico/20260828-china-y-nepal-retoman-labores-de-emergencia-tras-amenaza-de-nuevo-desbordamiento-en-la-cordillera",
-          "fuente": "RFI Espanol",
-          "fecha": "Fri, 28 Aug 2026 10:23:14 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_09b9b50176",
-          "titulo": "Un vídeo viral lleva a la detención de dos hombres por robar los pendientes de oro a un cadáver tras la riada de Nepal",
-          "url": "https://www.elmundo.es/internacional/2026/08/28/6a9135d8e9cf4ae8198b4571.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 28 Aug 2026 10:13:50 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_3b53b1593a",
-          "titulo": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
-          "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 28 Aug 2026 03:23:21 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f7f31bcc55",
-          "titulo": "Nepal floods explained: The chain of events behind the disaster",
-          "url": "https://www.france24.com/en/nepal-floods-explained-the-chain-of-events-behind-the-disaster",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 28 Aug 2026 12:48:06 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a033b526c9",
-          "titulo": "Nepal flood disaster reconstructed minute by minute",
-          "url": "https://www.france24.com/en/nepal-flood-disaster-reconstructed-minute-by-minute",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 28 Aug 2026 09:22:57 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_bf1201cb1d",
-          "titulo": "China Offers Condolences to Nepal While Emphasizing Disaster Began There",
-          "url": "https://www.nytimes.com/2026/08/28/world/asia/china-nepal-floods-xi-jinping.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 28 Aug 2026 15:20:02 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5019f2ae5e",
-          "titulo": "Nepal: A newly formed lake is sparking fears of more flooding along the Chinese border",
-          "url": "https://www.france24.com/en/video/20260828-nepal-a-newly-formed-lake-is-sparking-fears-of-more-flooding-along-the-chinese-border",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 28 Aug 2026 12:36:23 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_edf895112c",
-          "titulo": "‘Barrier lake’ triggers fresh floods, halts rescue at Nepal-China border",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/barrier-lake-triggers-fresh-floods-halts-rescue-at-nepal-china-border?traffic_source=rss",
+          "id": "ev_11e91fbd3d",
+          "titulo": "Norway mourns King Harald as new era begins under Haakon VIII",
+          "url": "https://www.aljazeera.com/news/2026/8/29/norway-mourns-king-harald-as-new-era-begins-under-haakon-viii?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Fri, 28 Aug 2026 11:46:00 +0000",
+          "fecha": "Sat, 29 Aug 2026 09:45:37 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_102996dbb1",
-          "titulo": "Lake formed from debris poses new threat in Nepal, with death toll from floods over 530",
-          "url": "https://www.cbc.ca/news/world/nepal-flood-rescue-china-9.7323763?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 28 Aug 2026 04:52:58 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_dadc4c82d2",
-          "titulo": "Why a newly formed lake is sparking fears of more flooding along the Nepal-China border",
-          "url": "https://phys.org/news/2026-08-newly-lake-nepal-china-border.html",
-          "fuente": "Phys.org",
-          "fecha": "Fri, 28 Aug 2026 11:20:01 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-28_0004",
-      "fecha": "2026-08-28",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-08-28_0011",
-        "nd_2026-08-28_0012"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Adiós al 'doomscrolling': Meta establecerá un toque de queda para los adolescentes en Instagram",
-        "en": "How teen accounts on Instagram and Facebook are changing after Meta's $18B US settlement"
-      },
-      "sintesis": {
-        "es": "Instagram y Facebook de Meta bloquearán pronto a los menores desde medianoche y limitarán su uso a dos horas diarias, parte de un acuerdo de 18.000 millones de dólares (15.400 millones de euros) con 48 estados de EE.UU.",
-        "en": "Changes are coming for teen Instagram and Facebook users after parent company Meta agreed to platform changes in a landmark U.S. settlement to resolve claims of online harms to youth. Experts tell CBC News what's changing, how widely and what impact this might have going forward."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Meta",
-        "Instagram",
-        "The Meta",
-        "Settlement Will"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 91,
-      "fuentes": [
-        "ev_770354a2a2",
-        "ev_8649d7222c",
-        "ev_6ad1c9f73a",
-        "ev_20a81a21b5",
-        "ev_4958394088"
-      ],
-      "cluster_id": "cl_096",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e90/live/9843a980-a25f-11f1-883e-b50da2634501.jpg",
-        "https://media.wired.com/photos/6a8f1ebc03c90c0d1d7ffc12/master/pass/Will-Metas-New-Controls-for-Teens-Actually-Work-Business-2263201376.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_770354a2a2",
-          "titulo": "Adiós al 'doomscrolling': Meta establecerá un toque de queda para los adolescentes en Instagram",
-          "url": "http://es.euronews.com/next/2026/08/28/meta-fija-toque-de-queda-en-instagram-para-adolescentes-adios-al-doomscrolling",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 28 Aug 2026 11:40:04 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_8649d7222c",
-          "titulo": "'Not far enough' - US parents and teens on Meta's new limits for young users",
-          "url": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 28 Aug 2026 09:32:14 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6ad1c9f73a",
-          "titulo": "The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable",
-          "url": "https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/",
-          "fuente": "WIRED",
-          "fecha": "Wed, 26 Aug 2026 20:55:46 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_20a81a21b5",
-          "titulo": "No more doomscrolling till dawn: Meta sets curfews for teen Instagram use",
-          "url": "http://www.euronews.com/next/2026/08/28/no-more-doomscrolling-till-dawn-meta-sets-curfews-for-teen-instagram-use",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 28 Aug 2026 11:38:27 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4958394088",
-          "titulo": "How teen accounts on Instagram and Facebook are changing after Meta's $18B US settlement",
-          "url": "https://www.cbc.ca/news/world/meta-settlement-explainer-9.7322782?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 28 Aug 2026 04:00:00 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-28_0005",
-      "fecha": "2026-08-28",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Récord de detenciones en EE. UU.: ¿Trump cumple su promesa antimigración?",
-        "en": "Trump’s agriculture secretary commits to ‘waiving red tape’ to allow ranchers to process and sell their own beef – live"
-      },
-      "sintesis": {
-        "es": "El asedio a los inmigrantes se intensifica en Estados Unidos. Por un lado, Washington ha pausado las citas para solicitar visas de inmigrante en sus embajadas y consulados en todo el mundo. Por otro, las detenciones dentro del país alcanzaron en julio su nivel más alto desde el regreso de Donald Trump a la Casa Blanca: casi 50.000 migrantes fueron detenidos por ICE, unos 1.500 al día.",
-        "en": "Brooke Rollins teases ‘big announcements’ next week to facilitate Trump’s pledge to allow ranchers and farmers to process their own food and avoid the ‘nasty monopoly’ of large processing plants Sign up for the US Breaking News email A reminder that we are covering the latest out of Jackson Hole, Wyoming, where Kevin Warsh – the new chair of the Federal Reserve – will deliver his first speech as the head of the US central bank at the annual economic policy symposium. As my colleagues note, Warsh is under pressure to provide clarity on how the Federal Reserve should handle with inflation if price pressures don’t abate. Continue reading..."
-      },
-      "categoria": "economia",
-      "actores": [
-        "Trump"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 87,
-      "fuentes": [
-        "ev_4c30c399ca",
-        "ev_a2137453da",
-        "ev_0f93c792d3",
-        "ev_6264690c2c",
-        "ev_88a7606d4d",
-        "ev_4bc6e3f4c9"
-      ],
-      "cluster_id": "cl_043",
-      "imagenes": [
-        "https://s.france24.com/media/display/52784afa-f4bd-11f0-928a-005056bf30b7/w:1024/p:16x9/2026-01-11T213252Z-732200521-RC25ZIANEZD9-RTRMADP-3-USA-TRUMP-MINNESOTA.jpg",
-        "https://s.rfi.fr/media/display/47e20788-5c56-11f1-a271-005056a97e36/w:1024/p:16x9/2026-05-28T222428Z-1792534916-RC2JILARJTTQ-RTRMADP-3-USA-IMMIGRATION.jpg",
-        "https://i.guim.co.uk/img/media/29299872a9ec2777422d1a50204bc82a523a2d79/1454_0_7213_5768/master/7213.jpg?width=140&quality=85&auto=format&fit=max&s=9a8ee9282866b60c2f7761d72fd5692e",
-        "https://i.guim.co.uk/img/media/8d03ebde3ca413b5ca7f2166a639a8e7b221ef39/333_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=8637d4c13912e075f4906d8268c35505"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_4c30c399ca",
-          "titulo": "Récord de detenciones en EE. UU.: ¿Trump cumple su promesa antimigración?",
-          "url": "https://www.france24.com/es/programas/el-debate/20260828-r%C3%A9cord-de-detenciones-en-ee-uu-trump-cumple-su-cuestionada-promesa-antimigraci%C3%B3n",
-          "fuente": "France 24 Espanol",
-          "fecha": "Fri, 28 Aug 2026 16:08:23 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_a2137453da",
-          "titulo": "El limbo de los mexicanos deportados por Trump a terceros países",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260827-el-limbo-de-los-mexicanos-deportados-por-trump-a-terceros-pa%C3%ADses",
-          "fuente": "RFI Espanol",
-          "fecha": "Thu, 27 Aug 2026 12:36:55 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_0f93c792d3",
-          "titulo": "Trump’s agriculture secretary commits to ‘waiving red tape’ to allow ranchers to process and sell their own beef – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/aug/28/donald-trump-mail-voting-tariffs-canada-space-nasa-march-on-washington-latest-news-updates",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 28 Aug 2026 16:40:47 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6264690c2c",
-          "titulo": "Trump pledges to allow cattle ranchers to process own food amid beef imports backlash",
-          "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-cattle-ranchers-beef-imports-backlash",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 28 Aug 2026 15:32:49 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_88a7606d4d",
-          "titulo": "Trump administration warns universities they could lose foreign students in new internship crackdown",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ice-cpt-international-students-b3040867.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 28 Aug 2026 08:42:49 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4bc6e3f4c9",
-          "titulo": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
-          "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
-          "fuente": "Ars Technica",
-          "fecha": "Thu, 27 Aug 2026 18:57:08 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-28_0006",
-      "fecha": "2026-08-28",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-08-28_0003",
-        "nd_2026-08-28_0007",
-        "nd_2026-08-28_0008"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Lindsay Clancy asesinó a sus tres hijos: ahora EEUU debate si fue una asesina o una mujer gravemente enferma",
-        "en": "I’m a mother who watched the Lindsay Clancy trial. Here’s what I want you to know about postpartum psychosis"
-      },
-      "sintesis": {
-        "es": "El juicio ha enfrentado a activistas feministas que denuncian el fracaso de la atención psiquiátrica con activistas MAGA que rechazan utilizar la enfermedad mental como atenuante Leer",
-        "en": "Moms who have been closely following the Lindsay Clancy murder trial reflect on their experiences of postpartum mental health crises and tell Rhian Lubin why the case has them speaking out about the failures of America’s maternal healthcare system"
-      },
-      "categoria": "salud",
-      "actores": [
-        "Lindsay Clancy",
-        "EEUU",
-        "Here",
-        "Friday"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 83,
-      "fuentes": [
-        "ev_39ca369436",
-        "ev_fafb935bc8",
-        "ev_8e8f488432",
-        "ev_c632c2e40a",
-        "ev_e8313ab26a",
-        "ev_45de46d224"
-      ],
-      "cluster_id": "cl_006",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f14e/live/d9675ee0-a280-11f1-a8b0-37643783caf9.png",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/25/17876645230367.jpg",
-        "https://static.independent.co.uk/2026/08/28/16/2026-08-25T155018Z_1351588844_RC2R5NAI854G_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?width=1200&auto=webp&trim=261%2C0%2C261%2C0",
-        "https://static.independent.co.uk/2026/08/28/09/2026-08-27T181607Z_1434939295_RC247NA9G3LD_RTRMADP_3_MASSACHUSETTS-CRIME-CLANCY.JPG?width=1200&auto=webp&trim=49%2C0%2C49%2C0"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_39ca369436",
-          "titulo": "5 momentos clave del juicio a Lindsay Clancy, la madre acusada de asesinar a sus tres hijos en EE.UU.",
-          "url": "https://www.bbc.com/mundo/articles/c2l899jkjp7o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 27 Aug 2026 19:48:46 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_fafb935bc8",
-          "titulo": "Lindsay Clancy asesinó a sus tres hijos: ahora EEUU debate si fue una asesina o una mujer gravemente enferma",
-          "url": "https://www.elmundo.es/internacional/2026/08/25/6a8d97afe9cf4a56168b45a7.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Tue, 25 Aug 2026 22:44:10 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_8e8f488432",
-          "titulo": "I’m a mother who watched the Lindsay Clancy trial. Here’s what I want you to know about postpartum psychosis",
-          "url": "https://www.independent.co.uk/news/world/americas/lindsay-clancy-postpartum-psychosis-b3040408.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 28 Aug 2026 15:23:21 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c632c2e40a",
-          "titulo": "Lindsay Clancy jury returns Friday to decide her fate after heartbreaking murder trial",
-          "url": "https://www.independent.co.uk/news/world/americas/crime/lindsay-clancy-murder-trial-massachusetts-b3040844.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 28 Aug 2026 08:08:31 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e8313ab26a",
-          "titulo": "Why Lindsay Clancy, on trial for the deaths of her 3 children, has so many supporters",
-          "url": "https://www.cbc.ca/news/world/lindsay-clancy-trial-support-9.7322441?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 28 Aug 2026 04:01:24 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_45de46d224",
-          "titulo": "Lindsay Clancy case: Everything we learned at trial as jury begins deliberating",
-          "url": "https://www.independent.co.uk/news/world/americas/crime/lindsay-clancy-murder-trial-children-jury-deliberation-b3040567.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 27 Aug 2026 17:36:44 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-28_0007",
-      "fecha": "2026-08-28",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-08-28_0006",
-        "nd_2026-08-28_0008"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks",
-        "en": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks"
-      },
-      "sintesis": {
-        "es": "The US president expected Ottawa to bow to tariff demands, but Canada is striking back – and it could cost Americans This was originally published in This Week in Trumpland. Sign up to receive it in your inbox every Wednesday Earlier this year, a survey found that Canada , along with Switzerland , was the best-liked country in the world. We all know this kind of polling is about as scientific as a high school popularity contest, but at least anecdotally, Canadians have a reputation for being friendly and welcoming, respectful and polite.",
-        "en": "The US president expected Ottawa to bow to tariff demands, but Canada is striking back – and it could cost Americans This was originally published in This Week in Trumpland. Sign up to receive it in your inbox every Wednesday Earlier this year, a survey found that Canada , along with Switzerland , was the best-liked country in the world. We all know this kind of polling is about as scientific as a high school popularity contest, but at least anecdotally, Canadians have a reputation for being friendly and welcoming, respectful and polite."
-      },
-      "categoria": "economia",
-      "actores": [
-        "Trump",
-        "Lake America",
-        "Lake Ontario",
-        "Canada"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 83,
-      "fuentes": [
-        "ev_7d9791787f",
-        "ev_b62f979c16",
-        "ev_bf6f0050af",
-        "ev_b817b92792",
-        "ev_a005dad6f2",
-        "ev_52ffbcf143",
-        "ev_8dfae1cabb",
-        "ev_78f93e12d8",
-        "ev_2ed022cd53",
-        "ev_018990dcb5",
-        "ev_c5b9edecfa",
-        "ev_b94eea6206"
-      ],
-      "cluster_id": "cl_132",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9493/live/3093a800-a2cb-11f1-aed2-8d6da8d75094.jpg",
-        "https://i.guim.co.uk/img/media/1586ee752c1141711a22a6c478c71542d4fb0cc2/139_0_5997_4801/master/5997.jpg?width=140&quality=85&auto=format&fit=max&s=6fd956c8ec6aaefe286f7de27426d99f",
-        "https://s.france24.com/media/display/4eef493a-a2d0-11f1-8958-005056bfb2b6/w:1024/p:16x9/Sequence-08-00-00-10-00-Still002.jpg",
-        "https://e3.365dm.com/26/08/1920x1080/skynews-donald-trump_7332983.jpg?20260827185330"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_7d9791787f",
-          "titulo": "Trump signs order to rename Lake Ontario as Lake America",
-          "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 28 Aug 2026 08:26:09 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b62f979c16",
-          "titulo": "Trump signs executive order to rename Lake Ontario as Lake America",
-          "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
-          "fuente": "The Guardian World",
-          "fecha": "Thu, 27 Aug 2026 22:55:04 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_bf6f0050af",
-          "titulo": "US-CANADA: Trump signs order renaming Lake Ontario to ‘Lake America’",
-          "url": "https://www.france24.com/en/video/20260828-us-canada-trump-signs-order-renaming-lake-ontario-to-lake-america",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 28 Aug 2026 12:16:51 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b817b92792",
-          "titulo": "Can Trump really rename Lake Ontario, ‘Lake America’?",
-          "url": "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss",
+          "id": "ev_32fde89d0f",
+          "titulo": "‘The whole country’s grandfather:’ Norway’s King Harald V dies aged 89",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/the-whole-countrys-grandfather-norways-king-harald-v-dies-aged-89?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Fri, 28 Aug 2026 14:36:19 +0000",
+          "fecha": "Sat, 29 Aug 2026 04:14:51 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_a005dad6f2",
-          "titulo": "Trump signs order renaming Lake Ontario as 'Lake America' in the US",
-          "url": "https://news.sky.com/story/trump-signs-order-renaming-lake-ontario-as-lake-america-in-the-us-13577819",
+          "id": "ev_2106a99182",
+          "titulo": "Who Is Haakon, Norway’s New King?",
+          "url": "https://www.nytimes.com/2026/08/28/world/europe/norway-new-king-haakon.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 28 Aug 2026 19:44:47 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_fe95be9e5b",
+          "titulo": "Norway mourns king Harald V as crown prince Haakon becomes king",
+          "url": "http://www.euronews.com/video/2026/08/28/norway-mourns-king-harald-v-as-crown-prince-haakon-becomes-king",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 28 Aug 2026 22:40:41 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9658aef293",
+          "titulo": "Europe's royal houses and world leaders mourn the death of Norway's King Harald V",
+          "url": "http://www.euronews.com/my-europe/2026/08/28/europes-royal-houses-and-world-leaders-mourn-the-death-of-norways-king-harald-v",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 28 Aug 2026 22:34:15 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a512bb75c5",
+          "titulo": "Charles pays tribute to 'dear cousin' King Harald of Norway",
+          "url": "https://news.sky.com/story/king-harald-of-norway-dies-13578013",
           "fuente": "Sky News World",
-          "fecha": "Thu, 27 Aug 2026 18:29:00 +0100",
+          "fecha": "Fri, 28 Aug 2026 07:30:00 +0100",
           "idioma": "en"
         },
         {
-          "id": "ev_52ffbcf143",
-          "titulo": "Canada’s Carney responds to Trump’s Lake America name change with a history lesson",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/canada-trump-lake-ontario-carney-reaction-b3041149.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 28 Aug 2026 16:13:23 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8dfae1cabb",
-          "titulo": "Trump signs order to change Lake Ontario into ‘Lake America’ as his fight with Canada spirals",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-rename-lake-ontario-america-canada-b3040577.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 27 Aug 2026 20:23:55 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_78f93e12d8",
-          "titulo": "Trump signs order to rename Lake Ontario as 'Lake America'",
-          "url": "https://www.cbc.ca/news/world/trump-lake-ontario-america-9.7322947?cmp=rss",
+          "id": "ev_c4a9d18aca",
+          "titulo": "King Harald V, Norway's reform-minded head of state, dead at 89",
+          "url": "https://www.cbc.ca/news/world/king-harald-norway-obit-9.7323781?cmp=rss",
           "fuente": "CBC World",
-          "fecha": "Thu, 27 Aug 2026 13:35:10 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2ed022cd53",
-          "titulo": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
-          "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 28 Aug 2026 11:00:56 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_018990dcb5",
-          "titulo": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks",
-          "url": "https://www.theguardian.com/us-news/2026/aug/26/trump-canada-trade-war",
-          "fuente": "The Guardian World",
-          "fecha": "Wed, 26 Aug 2026 18:15:21 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c5b9edecfa",
-          "titulo": "Canadian officials consider naming street ‘Obama Ave’ to troll Trump after Lake Ontario ‘shenanigans’",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/canadian-rename-trump-street-ottawa-b3041133.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 28 Aug 2026 16:10:04 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b94eea6206",
-          "titulo": "News anchor blasts ‘deeply pathetic’ Trump over ‘Lake America’ stunt in Canada fight: ‘You Sad Weirdo’",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-lake-ontario-america-chris-haynes-b3040836.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 28 Aug 2026 09:55:10 GMT",
+          "fecha": "Fri, 28 Aug 2026 04:48:46 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-28_0008",
-      "fecha": "2026-08-28",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-08-28_0003",
-        "nd_2026-08-28_0006",
-        "nd_2026-08-28_0007"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Uganda's King of Tooro, once world's youngest reigning monarch, dies at 34",
-        "en": "Uganda's King of Tooro, once world's youngest reigning monarch, dies at 34"
-      },
-      "sintesis": {
-        "es": "King Oyo Nyimba, leader of the Tooro kingdom in western Uganda, has died at the age of 34, the region's prime minister of his kingdom announced Thursday. Crowned at three years old, he became the world's youngest reigning monarch in 1995.",
-        "en": "King Oyo Nyimba, leader of the Tooro kingdom in western Uganda, has died at the age of 34, the region's prime minister of his kingdom announced Thursday. Crowned at three years old, he became the world's youngest reigning monarch in 1995."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "World",
-        "Uganda",
-        "King",
-        "King Oyo"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 83,
-      "fuentes": [
-        "ev_3b1ea0d75c",
-        "ev_30236eba5f",
-        "ev_ba1c3205c4",
-        "ev_2af4b606d7",
-        "ev_5c19fe5637",
-        "ev_efddb73ff7"
-      ],
-      "cluster_id": "cl_133",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f05/live/e8034d20-a2ca-11f1-aed2-8d6da8d75094.jpg",
-        "https://s.france24.com/media/display/ee60b112-a2c0-11f1-9a6d-005056a97e36/w:1024/p:16x9/AP26240259254820.jpg",
-        "https://static01.nyt.com/images/2026/08/29/multimedia/28int-uganda-1-fgzm/290int-uganda-1-fgzm-mediumSquareAt3X.jpg",
-        "https://e3.365dm.com/26/08/1920x1080/skynews-oyo-nyimba-king-oyo_7333610.jpg?20260828133344"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_3b1ea0d75c",
-          "titulo": "World's youngest reigning traditional monarch dies aged 34",
-          "url": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 28 Aug 2026 11:13:24 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_30236eba5f",
-          "titulo": "Uganda's King of Tooro, once world's youngest reigning monarch, dies at 34",
-          "url": "https://www.france24.com/en/africa/20260828-uganda-s-king-of-tooro-once-world-s-youngest-reigning-monarch-dies-at-34",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 28 Aug 2026 09:52:44 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ba1c3205c4",
-          "titulo": "King Oyo of Uganda’s Tooro Kingdom Dies at 34",
-          "url": "https://www.nytimes.com/2026/08/28/world/africa/uganda-king-oyo-dead.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 28 Aug 2026 16:45:58 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2af4b606d7",
-          "titulo": "World's youngest reigning monarch dies age 34",
-          "url": "https://news.sky.com/story/ugandan-ruler-named-worlds-youngest-monarch-died-age-34-13578122",
-          "fuente": "Sky News World",
-          "fecha": "Fri, 28 Aug 2026 13:25:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5c19fe5637",
-          "titulo": "Harald V, Norway’s King as Tradition and Modernity Collided, Dies at 89",
-          "url": "https://www.nytimes.com/2026/08/28/world/europe/king-harald-v-dead.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 28 Aug 2026 10:49:36 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_efddb73ff7",
-          "titulo": "King Oyo: World’s ‘youngest king’ dies aged 34 after secret illness",
-          "url": "https://www.independent.co.uk/news/world/africa/king-oyo-tooro-kingdom-death-b3041105.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 28 Aug 2026 14:38:40 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-08-28_0009",
-      "fecha": "2026-08-28",
-      "kardashev": "K0",
+      "id": "nd_2026-08-29_0006",
+      "fecha": "2026-08-29",
+      "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
-        "en": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists"
+        "es": "Warsh flags inflation concerns as he rejects Fed forward guidance",
+        "en": "Warsh flags inflation concerns as he rejects Fed forward guidance"
       },
       "sintesis": {
-        "es": "However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubborn The US Federal Reserve is not done fighting high inflation, its chair, Kevin Warsh, said in his first major speech in the role on Friday, emphasizing that it was “the Fed’s job to deliver stable prices”. Warsh did not indicate where the Fed will take interest rates in the coming months, despite US inflation remaining stubbornly above the central bank’s 2% target amid the war in Iran. But his speech was taken by markets as a signal that rates may rise in the coming months, a move that may put him at odds with Donald Trump , who has aggressively called for rates to be cut.",
-        "en": "However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubborn The US Federal Reserve is not done fighting high inflation, its chair, Kevin Warsh, said in his first major speech in the role on Friday, emphasizing that it was “the Fed’s job to deliver stable prices”. Warsh did not indicate where the Fed will take interest rates in the coming months, despite US inflation remaining stubbornly above the central bank’s 2% target amid the war in Iran. But his speech was taken by markets as a signal that rates may rise in the coming months, a move that may put him at odds with Donald Trump , who has aggressively called for rates to be cut."
+        "es": "Federal Reserve Chair Kevin Warsh used his first Jackson Hole address on Friday to argue that financial conditions are not restrictive and that underlying inflation has not meaningfully improved, a hawkish assessment that strengthens the case for a rate hike, while ruling out forward guidance.",
+        "en": "Federal Reserve Chair Kevin Warsh used his first Jackson Hole address on Friday to argue that financial conditions are not restrictive and that underlying inflation has not meaningfully improved, a hawkish assessment that strengthens the case for a rate hike, while ruling out forward guidance."
       },
       "categoria": "economia",
       "actores": [
-        "Fed",
-        "Warsh",
         "Kevin Warsh",
-        "Jackson Hole"
+        "Fed",
+        "Jackson Hole",
+        "Warsh"
       ],
       "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
       },
       "impacto": 83,
       "fuentes": [
-        "ev_1d62eaaed8",
-        "ev_28dc06b053",
         "ev_15b9ed1ad4",
         "ev_145f3a58ea",
+        "ev_b5e13488be",
         "ev_70d553d8af",
         "ev_0008f3c338",
         "ev_d158fc4fc7",
-        "ev_b203cb2622"
+        "ev_638bc1bbea"
       ],
-      "cluster_id": "cl_138",
+      "cluster_id": "cl_229",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5899/live/39824e70-a2fe-11f1-80b3-bf1a174ac193.jpg",
-        "https://i.guim.co.uk/img/media/1af8fe39a9ff21d1976e753bf02d26f64d0354b0/1779_1033_4046_3238/master/4046.jpg?width=140&quality=85&auto=format&fit=max&s=509ad875000eec5562259a9dc26ea61e",
         "https://static.independent.co.uk/2026/08/28/14/02/GettyImages-2291773172.jpg?width=1200&auto=webp&trim=0%2C788%2C1200%2C1010"
       ],
       "estado": "verificado",
       "referencias": [
-        {
-          "id": "ev_1d62eaaed8",
-          "titulo": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-          "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 28 Aug 2026 15:15:26 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_28dc06b053",
-          "titulo": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
-          "url": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 28 Aug 2026 15:48:57 GMT",
-          "idioma": "en"
-        },
         {
           "id": "ev_15b9ed1ad4",
           "titulo": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
@@ -1276,6 +913,14 @@
           "idioma": "en"
         },
         {
+          "id": "ev_b5e13488be",
+          "titulo": "More U.S. rate hikes possible with inflation still elevated, Federal Reserve chair Kevin Warsh says",
+          "url": "https://www.cbc.ca/news/business/fed-warsh-jackson-hole-speech-9.7324232?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 28 Aug 2026 13:52:50 EDT",
+          "idioma": "en"
+        },
+        {
           "id": "ev_70d553d8af",
           "titulo": "Warsh flags inflation concerns as he rejects Fed forward guidance",
           "url": "http://www.euronews.com/business/2026/08/28/warsh-flags-inflation-concerns-as-he-rejects-fed-forward-guidance",
@@ -1288,7 +933,7 @@
           "titulo": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
           "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
           "fuente": "CNBC Top News",
-          "fecha": "Fri, 28 Aug 2026 16:35:07 GMT",
+          "fecha": "Fri, 28 Aug 2026 17:44:02 GMT",
           "idioma": "en"
         },
         {
@@ -1296,20 +941,114 @@
           "titulo": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
           "url": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
           "fuente": "CNBC Top News",
-          "fecha": "Fri, 28 Aug 2026 16:40:07 GMT",
+          "fecha": "Fri, 28 Aug 2026 20:08:18 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_b203cb2622",
-          "titulo": "S&P 500 is little changed, heads for winning week as Warsh says Fed committed to fighting inflation: Live updates",
-          "url": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html",
+          "id": "ev_638bc1bbea",
+          "titulo": "What we learned from Warsh's Jackson Hole speech, and GE Vernova's CFO to retire",
+          "url": "https://www.cnbc.com/2026/08/28/what-we-learned-from-warshs-jackson-hole-speech-and-ge-vernovas-cfo-to-retire.html",
           "fuente": "CNBC Top News",
-          "fecha": "Fri, 28 Aug 2026 16:52:07 GMT",
+          "fecha": "Fri, 28 Aug 2026 18:03:05 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-28_0010",
-      "fecha": "2026-08-28",
+      "id": "nd_2026-08-29_0007",
+      "fecha": "2026-08-29",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Colapso glaciar en el Himalaya deja cientos de muertos y desaparecidos en Nepal y China",
+        "en": "Himalayan glacier collapse leaves hundreds dead and missing in Nepal and China"
+      },
+      "sintesis": {
+        "es": "El colapso de un glaciar a unos 5.000 metros de altura en la cordillera del Himalaya provocó un enorme alud de lodo e inundaciones repentinas que afectaron a Nepal y al condado de Gyirong, en el Tíbet (China). El desastre ha dejado más de 600 muertos y hasta 1.400 desaparecidos, con comunidades aisladas e infraestructura destruida. China y Nepal reanudaron las labores de búsqueda y rescate tras una breve pausa, mientras la ONU despliega ayuda humanitaria y expertos advierten sobre el riesgo de un nuevo desbordamiento de un lago recién formado.",
+        "en": "The collapse of a glacier at about 5,000 meters in the Himalayan range triggered a massive mudslide and flash floods affecting Nepal and Gyirong county in Tibet, China. The disaster has left over 600 dead and up to 1,400 missing, with communities isolated and infrastructure destroyed. China and Nepal resumed search and rescue operations after a brief pause, while the UN deploys humanitarian aid and experts warn of the risk of a new outburst from a newly formed lake."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Gobierno de Nepal",
+        "Gobierno de China",
+        "Xi Jinping",
+        "Naciones Unidas",
+        "comunidades del Tíbet y Nepal"
+      ],
+      "geo": {
+        "lat": 28.3949,
+        "lon": 84.124,
+        "region": "Cordillera del Himalaya (Nepal - Tíbet, China)"
+      },
+      "impacto": 80,
+      "fuentes": [
+        "ev_bfffe3415a",
+        "ev_ca1cecf7bc",
+        "ev_7f0612899c",
+        "ev_3982845e02",
+        "ev_bf1201cb1d",
+        "ev_4ae9424f2a"
+      ],
+      "cluster_id": "cl_052",
+      "imagenes": [
+        "https://s.rfi.fr/media/display/0723846e-a2c5-11f1-8d31-005056bfb2b6/w:1024/p:16x9/bf142d70758c87ebc7d23df62d05579504d55f35.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNICEF-Nepal-floods-03.jpg/image560x340cropped.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNICEF-Nepal-floods-02.jpg/image560x340cropped.jpg",
+        "https://static01.nyt.com/images/2026/08/28/multimedia/28nepal-floods-china-blame-01-gmjq/28nepal-floods-china-blame-01-gmjq-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_bfffe3415a",
+          "titulo": "China y Nepal retoman labores de emergencia tras amenaza de nuevo desbordamiento en la cordillera",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260828-china-y-nepal-retoman-labores-de-emergencia-tras-amenaza-de-nuevo-desbordamiento-en-la-cordillera",
+          "fuente": "RFI Espanol",
+          "fecha": "Fri, 28 Aug 2026 10:23:14 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_ca1cecf7bc",
+          "titulo": "Cientos de muertos y desaparecidos tras devastadoras inundaciones en Nepal y China",
+          "url": "https://news.un.org/feed/view/es/story/2026/08/1541843",
+          "fuente": "Noticias ONU",
+          "fecha": "Thu, 27 Aug 2026 12:00:00 +0000",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_7f0612899c",
+          "titulo": "Inundaciones mortales en Nepal y China: la ONU se moviliza",
+          "url": "https://news.un.org/feed/view/es/story/2026/08/1541839",
+          "fuente": "Noticias ONU",
+          "fecha": "Wed, 26 Aug 2026 12:00:00 +0000",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_3982845e02",
+          "titulo": "Nepal and China resume flood rescue as death toll surpasses 600",
+          "url": "https://www.aljazeera.com/news/2026/8/29/nepal-and-china-resume-flood-rescue-as-death-toll-nears-600?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 29 Aug 2026 03:35:58 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_bf1201cb1d",
+          "titulo": "China Offers Condolences to Nepal While Emphasizing Disaster Began There",
+          "url": "https://www.nytimes.com/2026/08/28/world/asia/china-nepal-floods-xi-jinping.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 28 Aug 2026 20:12:33 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4ae9424f2a",
+          "titulo": "Deadly floods cause widespread destruction in China, Nepal",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168208",
+          "fuente": "UN News",
+          "fecha": "Wed, 26 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-29_0008",
+      "fecha": "2026-08-29",
       "kardashev": "K1",
       "relaciones": []
     },
@@ -1325,7 +1064,7 @@
       "categoria": "clima",
       "actores": [
         "Nepal",
-        "Avalancha",
+        "Cara",
         "Exteriores"
       ],
       "geo": {
@@ -1336,24 +1075,24 @@
       "impacto": 77,
       "fuentes": [
         "ev_042a405730",
+        "ev_f52082abd0",
         "ev_fedd71dbed",
         "ev_6181f752d1",
-        "ev_66f32b8969",
+        "ev_7085620954",
         "ev_33c6e6ce56",
-        "ev_924b7d09c1",
         "ev_725ba671ea",
         "ev_3246d05388",
         "ev_1d623c4b0c",
-        "ev_f4dd567ea6",
-        "ev_2dd488af2c",
-        "ev_cfee140d72"
+        "ev_0d2946199a",
+        "ev_3f09842901",
+        "ev_f4dd567ea6"
       ],
-      "cluster_id": "cl_000",
+      "cluster_id": "cl_005",
       "imagenes": [
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4581/live/0b422aa0-a2fc-11f1-80b3-bf1a174ac193.png",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e443/live/4eced610-a2e3-11f1-a291-b542ee92de7c.jpg",
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c516/live/59b6fd70-a264-11f1-b16f-05d87216ddb2.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/28a0/live/96e866d0-a281-11f1-a8b0-37643783caf9.png",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e2ed/live/3fae4130-a21a-11f1-9090-b51af3a01fc2.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/28a0/live/96e866d0-a281-11f1-a8b0-37643783caf9.png"
       ],
       "estado": "verificado",
       "referencias": [
@@ -1362,7 +1101,15 @@
           "titulo": "Los mapas y gráficos que muestran la magnitud y el impacto de la avalancha en Nepal y Tíbet",
           "url": "https://www.bbc.com/mundo/articles/cpd0v6218j0o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo",
-          "fecha": "Fri, 28 Aug 2026 11:48:57 GMT",
+          "fecha": "Sat, 29 Aug 2026 01:10:31 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f52082abd0",
+          "titulo": "El lago que hace temer que se produzca una nueva avalancha en la frontera de Nepal y Tíbet",
+          "url": "https://www.bbc.com/mundo/articles/cx2zydx1vdno?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Fri, 28 Aug 2026 17:19:37 GMT",
           "idioma": "es"
         },
         {
@@ -1378,15 +1125,15 @@
           "titulo": "Qué causó la avalancha y otras 3 preguntas sobre la catástrofe que dejó cientos de muertos y desaparecidos en Nepal y Tíbet",
           "url": "https://www.bbc.com/mundo/articles/c99dv957nj0o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo",
-          "fecha": "Fri, 28 Aug 2026 01:42:05 GMT",
+          "fecha": "Sat, 29 Aug 2026 01:56:07 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_66f32b8969",
-          "titulo": "\"La riada se lo llevó todo\": sobrevivientes de la avalancha en Nepal y Tíbet describen el horror de ver a sus seres queridos arrastrados por la corriente",
-          "url": "https://www.bbc.com/mundo/articles/cvgylg4028jo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 27 Aug 2026 11:33:44 GMT",
+          "id": "ev_7085620954",
+          "titulo": "La tragedia de Nepal alerta sobre un peligro creciente: 15 millones de personas viven bajo la amenaza de los lagos glaciares",
+          "url": "https://elpais.com/clima-y-medio-ambiente/2026-08-29/la-tragedia-de-nepal-alerta-sobre-una-amenaza-creciente-15-millones-de-personas-viven-bajo-la-amenaza-de-los-lagos-glaciares.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Sat, 29 Aug 2026 05:49:47 GMT",
           "idioma": "es"
         },
         {
@@ -1395,14 +1142,6 @@
           "url": "https://elpais.com/internacional/2026-08-28/el-riesgo-de-una-segunda-riada-amenaza-nepal-y-tibet-tras-una-catastrofe-que-deja-ya-al-menos-472-muertos.html",
           "fuente": "El Pais Internacional",
           "fecha": "Fri, 28 Aug 2026 15:14:25 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_924b7d09c1",
-          "titulo": "Avalancha en Nepal y el Tíbet: ¿qué amenaza supone el lago de represa formado por la crecida?",
-          "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260828-avalancha-en-nepal-y-el-t%C3%ADbet-qu%C3%A9-amenaza-supone-el-lago-de-represa-formado-por-la-crecida",
-          "fuente": "France 24 Espanol",
-          "fecha": "Fri, 28 Aug 2026 15:51:58 GMT",
           "idioma": "es"
         },
         {
@@ -1430,210 +1169,420 @@
           "idioma": "es"
         },
         {
+          "id": "ev_0d2946199a",
+          "titulo": "Nepal: los equipos de emergencia, en alerta ante el riesgo de nuevas inundaciones",
+          "url": "https://news.un.org/feed/view/es/story/2026/08/1541847",
+          "fuente": "Noticias ONU",
+          "fecha": "Fri, 28 Aug 2026 12:00:00 +0000",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_3f09842901",
+          "titulo": "La llamada de Cara, la australiana dada por desaparecida que escapa a pie del caos entre Tíbet y Nepal",
+          "url": "https://www.elmundo.es/internacional/2026/08/28/6a91b135e9cf4a55098b4571.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 28 Aug 2026 22:42:26 +0200",
+          "idioma": "es"
+        },
+        {
           "id": "ev_f4dd567ea6",
           "titulo": "Más de 1.500 personas siguen desaparecidas en Nepal y el Tíbet: Exteriores confirma que hay cuatro españoles no localizados",
           "url": "https://www.elmundo.es/internacional/2026/08/27/6a8fca4121efa0ba2d8b45c9.html",
           "fuente": "El Mundo Internacional",
           "fecha": "Thu, 27 Aug 2026 18:24:37 +0200",
           "idioma": "es"
-        },
-        {
-          "id": "ev_2dd488af2c",
-          "titulo": "Al menos 160 muertos y 700 desaparecidos, muchos turistas, por una fuerte riada entre Nepal y el Tíbet: \"Vi cómo las aguas se llevaban por delante ocho o nueve camiones\"",
-          "url": "https://www.elmundo.es/internacional/2026/08/26/6a8eaf12e4d4d807778b457d.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 27 Aug 2026 02:47:45 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_cfee140d72",
-          "titulo": "El colapso de un glaciar pudo desencadenar la mortal riada entre Nepal y el Tíbet",
-          "url": "https://www.elmundo.es/internacional/2026/08/26/6a8f2c5421efa00c418b459c.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Wed, 26 Aug 2026 20:13:05 +0200",
-          "idioma": "es"
         }
       ],
-      "id": "nd_2026-08-28_0011",
-      "fecha": "2026-08-28",
+      "id": "nd_2026-08-29_0009",
+      "fecha": "2026-08-29",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-28_0004",
-        "nd_2026-08-28_0012"
+        "nd_2026-08-29_0002",
+        "nd_2026-08-29_0013"
       ]
     },
     {
       "titulo": {
-        "es": "Muere Yayoi Kusama, la ‘reina de los lunares’",
-        "en": "Yayoi Kusama, Japanese Pop Artist Known for Polka-Dot Paintings, Dies at 97"
+        "es": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
+        "en": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city"
       },
       "sintesis": {
-        "es": "Fue una de las artistas plásticas más extraordinarias, exuberantes e influyentes del siglo XX y XXI, autora de obras basadas en la repetición obsesiva de motivos. Transformó la enfermedad mental en una obra artística única y reconocible. Trabajaba en un taller cercano a un centro psiquiátrico donde se internó de forma voluntaria hace cinco décadas.",
-        "en": "The Japanese artist’s polka-dot-covered paintings, phallic sculptures and public performances caused a stir in New York City and Europe in the 1960s."
+        "es": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan races Every day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US and Canadian cities that have come to act as one in the creation of North America’s auto industry. News this week of Donald Trump’s escalating trade spat with Canada has everyone worried. Political and economic leaders and observers labeled the move an act of “hubris” , blamed Trump’s “ego”, and called the escalation “insanity”.",
+        "en": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan races Every day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US and Canadian cities that have come to act as one in the creation of North America’s auto industry. News this week of Donald Trump’s escalating trade spat with Canada has everyone worried. Political and economic leaders and observers labeled the move an act of “hubris” , blamed Trump’s “ego”, and called the escalation “insanity”."
       },
-      "categoria": "salud",
+      "categoria": "economia",
       "actores": [
-        "Yayoi Kusama",
-        "Muere",
-        "Muere Yayoi",
-        "Kusama"
+        "Trump",
+        "Lake Ontario",
+        "Lake America",
+        "Canada"
       ],
       "geo": {
-        "lat": 36.2,
-        "lon": 138.3,
-        "region": "Asia Oriental"
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
       },
-      "impacto": 77,
+      "impacto": 74,
       "fuentes": [
-        "ev_cb98b87650",
-        "ev_de4bdce417",
-        "ev_41c16cf00f",
-        "ev_ebd8745998",
-        "ev_19570678d3",
-        "ev_3c1b935351"
+        "ev_2ed022cd53",
+        "ev_a005dad6f2",
+        "ev_52ffbcf143",
+        "ev_78f93e12d8",
+        "ev_100b0d14a4",
+        "ev_552a0629f0",
+        "ev_c5b9edecfa",
+        "ev_6646576d98"
       ],
-      "cluster_id": "cl_011",
+      "cluster_id": "cl_179",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/08d9/live/ee030b80-a201-11f1-a291-b542ee92de7c.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ca1/live/98308630-a1dc-11f1-aed2-8d6da8d75094.jpg",
-        "https://s.rfi.fr/media/display/e2773880-a1f8-11f1-b399-005056a90284/w:1024/p:16x9/000-C6L8363.jpg",
-        "https://static01.nyt.com/images/2026/08/27/multimedia/27int-Japan-Kusama-Reax-01-wmbp/27int-Japan-Kusama-Reax-01-wmbp-mediumSquareAt3X.jpg"
+        "https://i.guim.co.uk/img/media/6cb7c05ad2b250f46203cd9341cbbd12075b7bdd/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=bb4deb0df4d177295f9085386ff08ba3",
+        "https://e3.365dm.com/26/08/1920x1080/skynews-donald-trump_7332983.jpg?20260827185330",
+        "https://static.independent.co.uk/2026/08/24/15/2291058527..?width=1200&auto=webp&trim=267%2C0%2C267%2C0",
+        "https://static.independent.co.uk/2026/08/28/23/2291733496..?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_cb98b87650",
-          "titulo": "Las imágenes del hipnótico universo de puntos y espejos que creó la artista japonesa Yayoi Kusama",
-          "url": "https://www.bbc.com/mundo/articles/cwyz55jj78ko?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 27 Aug 2026 17:27:28 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_de4bdce417",
-          "titulo": "Muere a los 97 años Yayoi Kusama, la artista japonesa que convirtió los lunares en un símbolo del arte contemporáneo",
-          "url": "https://www.bbc.com/mundo/articles/c20ljrlv0qvo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 27 Aug 2026 09:46:28 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_41c16cf00f",
-          "titulo": "Muere Yayoi Kusama, la ‘reina de los lunares’",
-          "url": "https://www.rfi.fr/es/cultura/20260827-muere-yayoi-kasuma-la-reina-de-los-lunares",
-          "fuente": "RFI Espanol",
-          "fecha": "Thu, 27 Aug 2026 09:32:38 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_ebd8745998",
-          "titulo": "In Japan, Yayoi Kusama Is Remembered as a Visionary and a Rebel",
-          "url": "https://www.nytimes.com/2026/08/27/world/asia/yayoi-kusama-japan-artist.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 27 Aug 2026 11:06:16 +0000",
+          "id": "ev_2ed022cd53",
+          "titulo": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
+          "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 28 Aug 2026 11:00:56 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_19570678d3",
-          "titulo": "Yayoi Kusama Was the Avant-Garde Radical Who Became a Pop Icon",
-          "url": "https://www.nytimes.com/2026/08/26/arts/design/yayoi-kusama-appraisal.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 27 Aug 2026 10:03:24 +0000",
+          "id": "ev_a005dad6f2",
+          "titulo": "Trump signs order renaming Lake Ontario as 'Lake America' in the US",
+          "url": "https://news.sky.com/story/trump-signs-order-renaming-lake-ontario-as-lake-america-in-the-us-13577819",
+          "fuente": "Sky News World",
+          "fecha": "Thu, 27 Aug 2026 18:29:00 +0100",
           "idioma": "en"
         },
         {
-          "id": "ev_3c1b935351",
-          "titulo": "Yayoi Kusama, Japanese Pop Artist Known for Polka-Dot Paintings, Dies at 97",
-          "url": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 27 Aug 2026 16:30:50 +0000",
+          "id": "ev_52ffbcf143",
+          "titulo": "Canada’s Carney responds to Trump’s Lake America name change with a history lesson",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/canada-trump-lake-ontario-carney-reaction-b3041149.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 28 Aug 2026 16:13:23 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_78f93e12d8",
+          "titulo": "Trump signs order to rename Lake Ontario as 'Lake America'",
+          "url": "https://www.cbc.ca/news/world/trump-lake-ontario-america-9.7322947?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Thu, 27 Aug 2026 13:35:10 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_100b0d14a4",
+          "titulo": "Trump may have rebranded it as Lake America but US residents can’t stop googling its old name",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-lake-america-ontario-google-searches-b3041315.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 28 Aug 2026 22:24:01 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_552a0629f0",
+          "titulo": "Soon the ‘Trump Earth’: President’s renaming of Great Lake pushes US and his administration to brink of absurdity",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-lake-ontario-america-gulf-rename-president-b3040649.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 28 Aug 2026 11:34:07 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c5b9edecfa",
+          "titulo": "Canadian officials consider naming street ‘Obama Ave’ to troll Trump after Lake Ontario ‘shenanigans’",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/canadian-rename-trump-street-ottawa-b3041133.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 28 Aug 2026 16:10:04 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6646576d98",
+          "titulo": "Despite Trump's renaming of Lake Ontario, Great Lakes endure as symbol of U.S.-Canada collaboration",
+          "url": "https://www.cbc.ca/news/science/great-lakes-ontario-environment-climate-9.7323168?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 28 Aug 2026 04:00:00 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-28_0012",
-      "fecha": "2026-08-28",
-      "kardashev": "K2",
+      "id": "nd_2026-08-29_0010",
+      "fecha": "2026-08-29",
+      "kardashev": "K0",
       "relaciones": [
-        "nd_2026-08-28_0000",
-        "nd_2026-08-28_0004",
-        "nd_2026-08-28_0011",
-        "nd_2026-08-28_0013"
+        "nd_2026-08-29_0000",
+        "nd_2026-08-29_0001",
+        "nd_2026-08-29_0005",
+        "nd_2026-08-29_0011"
       ]
     },
     {
       "titulo": {
-        "es": "Muere a los 85 años Peter Cullen, la voz icónica de Optimus Prime, Ígor y 'Depredador'",
-        "en": "Optimus Prime voice actor dies"
+        "es": "President Trump Signs Executive Order to Create US Space Academy",
+        "en": "President Trump Signs Executive Order to Create US Space Academy"
       },
       "sintesis": {
-        "es": "Peter Cullen, la voz que marcó la cultura popular de los años ochenta y dejó su huella en el cine y la TV, ha muerto rodeado de su familia. En 2023, Cullen recibió el premio a toda una carrera en los Emmy de programas infantiles y familiares.",
-        "en": "Peter Cullen, who voiced characters in Winnie the Pooh and Transformers, has died aged 85, his agent and family have confirmed."
+        "es": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S.",
+        "en": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S."
       },
-      "categoria": "sociedad",
+      "categoria": "ciencia",
       "actores": [
-        "Optimus Prime",
-        "Peter Cullen",
-        "Eeyore",
-        "Muere"
+        "Artemis",
+        "Trump",
+        "Congressional Space",
+        "Medal"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 77,
+      "impacto": 74,
       "fuentes": [
-        "ev_e36c75f8a3",
-        "ev_c7df2cbf8f",
-        "ev_9b6559b9b7",
-        "ev_f88403e430"
+        "ev_6c2648cc8e",
+        "ev_6e2bc4835e",
+        "ev_5b2a1a39bd",
+        "ev_f354fc84c2",
+        "ev_b3a18ded0c",
+        "ev_4999c5174b"
       ],
-      "cluster_id": "cl_100",
+      "cluster_id": "cl_316",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9529/live/82879e30-a22d-11f1-bd54-531a21306a62.jpg",
-        "https://e3.365dm.com/26/08/1920x1080/skynews-peter-cullen-cullen_7333129.jpg?20260827211730"
+        "https://static.independent.co.uk/2026/08/28/18/2292469485..?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-1152x648.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_e36c75f8a3",
-          "titulo": "Muere a los 85 años Peter Cullen, la voz icónica de Optimus Prime, Ígor y 'Depredador'",
-          "url": "http://es.euronews.com/cultura/2026/08/28/muere-a-los-85-anos-peter-cullen-voz-iconica-de-optimus-prime-igor-y-predator",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 28 Aug 2026 10:07:08 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c7df2cbf8f",
-          "titulo": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
-          "url": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 27 Aug 2026 16:00:12 GMT",
+          "id": "ev_6c2648cc8e",
+          "titulo": "Trump keeps Artemis II astronauts waiting for their medals after he arrives late and then speechifies about what he’ll build next",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-artemis-astronauts-houston-construction-project-b3041221.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 28 Aug 2026 21:41:50 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_9b6559b9b7",
-          "titulo": "Peter Cullen, the iconic voice of Optimus Prime, Eeyore and Predator, dies aged 85",
-          "url": "http://www.euronews.com/culture/2026/08/28/peter-cullen-the-iconic-voice-of-optimus-prime-eeyore-and-predator-dies-aged-85",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 28 Aug 2026 09:21:46 +0200",
+          "id": "ev_6e2bc4835e",
+          "titulo": "Trump to award Congressional Space Medal of Honor to Artemis II astronauts",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260823094138.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Mon, 24 Aug 2026 00:25:30 EDT",
           "idioma": "en"
         },
         {
-          "id": "ev_f88403e430",
-          "titulo": "Optimus Prime voice actor dies",
-          "url": "https://news.sky.com/story/peter-cullen-who-voiced-eeyore-and-optimus-prime-dies-aged-85-13577938",
-          "fuente": "Sky News World",
-          "fecha": "Thu, 27 Aug 2026 21:04:00 +0100",
+          "id": "ev_5b2a1a39bd",
+          "titulo": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+          "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+          "fuente": "NASA News",
+          "fecha": "Fri, 28 Aug 2026 22:21:31 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f354fc84c2",
+          "titulo": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+          "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+          "fuente": "NASA News",
+          "fecha": "Fri, 28 Aug 2026 17:37:01 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b3a18ded0c",
+          "titulo": "President Trump Signs Executive Order to Create US Space Academy",
+          "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+          "fuente": "NASA News",
+          "fecha": "Fri, 28 Aug 2026 17:21:04 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4999c5174b",
+          "titulo": "Here's what we know about the \"space academy\" Trump just announced",
+          "url": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
+          "fuente": "Ars Technica",
+          "fecha": "Fri, 28 Aug 2026 17:36:30 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-08-28_0013",
-      "fecha": "2026-08-28",
+      "id": "nd_2026-08-29_0011",
+      "fecha": "2026-08-29",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-08-29_0000",
+        "nd_2026-08-29_0001",
+        "nd_2026-08-29_0005",
+        "nd_2026-08-29_0010"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Brote de ébola en RD Congo alcanza escala sin precedentes y la ONU pide tregua humanitaria",
+        "en": "Ebola outbreak in DR Congo reaches unprecedented scale as UN calls for humanitarian truce"
+      },
+      "sintesis": {
+        "es": "El brote de ébola Bundibugyo en la República Democrática del Congo ha superado los 5514 casos confirmados y 2642 muertes, propagándose a velocidad récord tras 100 días de epidemia. La OMS y la ONU advierten sobre el riesgo de propagación regional y piden una tregua humanitaria de seis meses para permitir el acceso a comunidades afectadas, señalando que la falta de acceso, no de recursos médicos, es el principal obstáculo. El secretario general de la ONU condenó la 'indiferencia' internacional ante la crisis, mientras organizaciones como la Cruz Roja enfrentan además un problema de desinformación y desconfianza comunitaria.",
+        "en": "The Bundibugyo Ebola outbreak in the Democratic Republic of Congo has surpassed 5514 confirmed cases and 2642 deaths, spreading at record speed after 100 days since being declared. WHO and UN officials warn of regional spread risk and are calling for a six-month humanitarian truce to allow access to affected communities, noting that lack of access—not medical knowledge or tools—is the main challenge. The UN Secretary-General condemned international 'indifference' toward the crisis, while organizations like the Red Cross also face a crisis of misinformation and community distrust."
+      },
+      "categoria": "salud",
+      "actores": [
+        "Organización Mundial de la Salud (OMS)",
+        "ONU",
+        "Naciones Unidas - Secretario General",
+        "República Democrática del Congo",
+        "Cruz Roja y Media Luna Roja"
+      ],
+      "geo": {
+        "lat": -2.5,
+        "lon": 28.0,
+        "region": "República Democrática del Congo (región oriental)"
+      },
+      "impacto": 72,
+      "fuentes": [
+        "ev_e6389168ac",
+        "ev_46d705b699",
+        "ev_ef0da0af10",
+        "ev_48d3cac6a6",
+        "ev_4a957f2df1"
+      ],
+      "cluster_id": "cl_064",
+      "imagenes": [
+        "https://s.rfi.fr/media/display/a3060c88-a204-11f1-bb00-005056bfb2b6/w:1024/p:16x9/AP26223446025999-1.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/20-08-2026-WHO-DR-Congo-ebola.jpg/image560x340cropped.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/14-08-2026-MONUSCO-DR-Congo-ebola-01.jpg/image560x340cropped.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/18-08-2026-UNOCHA-DR-Congo-ebola-05.jpg/image560x340cropped.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_e6389168ac",
+          "titulo": "Responsable de OMS a RFI: \"Podemos controlar la epidemia de ébola en RD Congo, pero hay riesgo de propagación\"",
+          "url": "https://www.rfi.fr/es/programas/programa-especial/20260827-responsable-de-oms-a-rfi-podemos-contolar-la-epidemia-de-%C3%A9bola-pero-existe-riesgo-de-propagaci%C3%B3n",
+          "fuente": "RFI Espanol",
+          "fecha": "Thu, 27 Aug 2026 10:53:03 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_46d705b699",
+          "titulo": "RDC Congo: la OMS pide una tregua humanitaria de seis meses para frenar la epidemia de Ébola",
+          "url": "https://news.un.org/feed/view/es/story/2026/08/1541834",
+          "fuente": "Noticias ONU",
+          "fecha": "Tue, 25 Aug 2026 12:00:00 +0000",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_ef0da0af10",
+          "titulo": "UN chief condemns ‘indifference’ as Ebola cases mount in DR Congo",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168217",
+          "fuente": "UN News",
+          "fecha": "Thu, 27 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_48d3cac6a6",
+          "titulo": "100 days of Ebola and the race to stop the spread",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168195",
+          "fuente": "UN News",
+          "fecha": "Mon, 24 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4a957f2df1",
+          "titulo": "The Ebola outbreak in DR Congo is not just a medical crisis – it is also a crisis of trust",
+          "url": "https://www.independent.co.uk/news/world/africa/ebola-outbreak-congo-deaths-misinformation-b3041187.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 28 Aug 2026 16:25:06 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-29_0012",
+      "fecha": "2026-08-29",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Search continues as number missing in Nepal-Tibet floods rises to 2,478 – as it happened",
+        "en": "Search continues as number missing in Nepal-Tibet floods rises to 2,478 – as it happened"
+      },
+      "sintesis": {
+        "es": "This live blog is now closed ‘The flood took everything I have’: survivors grieve for relatives and homes swept away in Nepal Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash floods? More now on the Nepali army’s rescue operation to save about 100 people trapped in a tunnel at a hydropower project swamped by Wednesday’s flooding . “Two helicopters have been dispatched but it is challenging because it is tough to even locate the entry points of the tunnel,” army spokesperson Raja Ram Basnet told AFP.",
+        "en": "This live blog is now closed ‘The flood took everything I have’: survivors grieve for relatives and homes swept away in Nepal Visual guide: how the deadly flooding unfolded Tell us: have you been affected by the flash floods? More now on the Nepali army’s rescue operation to save about 100 people trapped in a tunnel at a hydropower project swamped by Wednesday’s flooding . “Two helicopters have been dispatched but it is challenging because it is tough to even locate the entry points of the tunnel,” army spokesperson Raja Ram Basnet told AFP."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Nepal",
+        "Search",
+        "Immense",
+        "Missing"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_c6dac63069",
+        "ev_6e9b74c709",
+        "ev_c2d3a80764",
+        "ev_2e55e2a024",
+        "ev_d6f7ab9ec4"
+      ],
+      "cluster_id": "cl_180",
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/354fbd9087f6426e4a815de18580298cf136cb3d/0_73_602_482/master/602.jpg?width=140&quality=85&auto=format&fit=max&s=08ce8ebaf9062913ec86625242402e69",
+        "https://s.france24.com/media/display/0b381f60-a383-11f1-b57d-005056bf30b7/w:1024/p:16x9/EN-20260829-100137-100259-CS.jpg",
+        "https://static01.nyt.com/images/2026/08/29/multimedia/29NEPAL-RESCUE-EFFORT-01-cfjv/29NEPAL-RESCUE-EFFORT-01-cfjv-mediumSquareAt3X.jpg",
+        "https://static01.nyt.com/images/2026/08/28/multimedia/28nepal-floods-hydroelectric-industry-topart-vqlg/28nepal-floods-hydroelectric-industry-topart-vqlg-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c6dac63069",
+          "titulo": "Search continues as number missing in Nepal-Tibet floods rises to 2,478 – as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 29 Aug 2026 03:49:58 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6e9b74c709",
+          "titulo": "Nepal army races to rescue more than 100 trapped in hydropower tunnel after floods",
+          "url": "https://www.france24.com/en/nepal-army-races-to-rescue-more-than-100-trapped-in-hydropower-tunnel-after-floods",
+          "fuente": "France 24 English",
+          "fecha": "Sat, 29 Aug 2026 08:50:06 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c2d3a80764",
+          "titulo": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods",
+          "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+          "fuente": "NYT World",
+          "fecha": "Sat, 29 Aug 2026 10:12:23 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2e55e2a024",
+          "titulo": "Nepal’s Hydropower Industry Was Booming. Now 900 Workers Are Missing.",
+          "url": "https://www.nytimes.com/2026/08/28/world/asia/nepals-hydropower-industry-was-booming-now-900-workers-are-missing.html",
+          "fuente": "NYT World",
+          "fecha": "Sat, 29 Aug 2026 00:58:11 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d6f7ab9ec4",
+          "titulo": "‘Immense impact’ of Nepal flood disaster highlighted as casualties mount",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168221",
+          "fuente": "UN News",
+          "fecha": "Fri, 28 Aug 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-08-29_0013",
+      "fecha": "2026-08-29",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-08-28_0000",
-        "nd_2026-08-28_0012"
+        "nd_2026-08-29_0002",
+        "nd_2026-08-29_0009"
       ]
     }
   ]
