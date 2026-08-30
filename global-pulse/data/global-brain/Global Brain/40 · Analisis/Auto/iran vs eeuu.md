@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-08-29
-nodos: 37
+actualizado: 2026-08-30
+nodos: 35
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-29. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-30. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-37 nodos registrados en el periodo. Lo mas reciente: Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán.
+35 nodos registrados en el periodo. Lo mas reciente: Irán reporta 7.500 millones de dólares en ingresos petroleros pese al bloqueo naval de EE.UU..
 
 ## Trend summary (EN)
-37 nodes recorded in the period. Most recent: Iran war hits 6-month milestone with Trump's attention largely elsewhere.
+35 nodes recorded in the period. Most recent: Iran seeks to criminalise all contact with foreign media in ‘chilling’ crackdown.
 
 > [!note] Estado actual
-> Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán
+> Irán reporta 7.500 millones de dólares en ingresos petroleros pese al bloqueo naval de EE.UU.
 
-## Nodos recientes (37 en la ventana)
+## Nodos recientes (35 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-30 | 83 | K1 | Irán reporta 7.500 millones de dólares en ingresos petroleros pe |
 | 2026-08-29 | 95 | K1 | Análisis: el desgaste económico y bélico de Estados Unidos tras  |
 | 2026-08-29 | 85 | K1 | Irán y EE.UU. cumplen seis meses de guerra con crisis económica, |
 | 2026-08-28 | 95 | K1 | Trump vs. Irán: miles de muertes, estancamiento y asfixia económ |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-26 | 95 | K1 | Trump acusa a Irán de matar manifestantes a "niveles nunca visto |
 | 2026-08-25 | 95 | K1 | Informe desde Washington: EE. UU. advierte a países que no apoye |
 | 2026-08-25 | 86 | K1 | El ‘lobby’ petrolero pro-Trump se hace de oro con la guerra cont |
-| 2026-08-25 | 53 | K1 | How atmospheric dryness limits increases in typhoon rainfall |
 
 [[Global Brain — Inicio|← Inicio]]

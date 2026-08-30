@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-08-29
-nodos: 32
+actualizado: 2026-08-30
+nodos: 31
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-29. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-30. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-32 nodos registrados en el periodo. Lo mas reciente: Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán.
+31 nodos registrados en el periodo. Lo mas reciente: Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán.
 
 ## Trend summary (EN)
-32 nodes recorded in the period. Most recent: Iran war hits 6-month milestone with Trump's attention largely elsewhere.
+31 nodes recorded in the period. Most recent: Iran war hits 6-month milestone with Trump's attention largely elsewhere.
 
 > [!note] Estado actual
 > Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán
 
-## Nodos recientes (32 en la ventana)
+## Nodos recientes (31 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-29 | 95 | K1 | Análisis: el desgaste económico y bélico de Estados Unidos tras  |
