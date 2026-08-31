@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-08-30
-nodos: 38
+actualizado: 2026-08-31
+nodos: 41
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-30. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-31. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-38 nodos registrados en el periodo. Lo mas reciente: ¿Qué gana y qué cede Venezuela con el "histórico" acuerdo petrolero con Trump?.
+41 nodos registrados en el periodo. Lo mas reciente: EE.UU. toma las riendas del G20 con la deuda mundial e Irán en el centro de la agenda.
 
 ## Trend summary (EN)
-38 nodes recorded in the period. Most recent: Trump posts AI video of ‘Lake America’ being protected by an army of bequiffed ‘Donald Ducks’.
+41 nodes recorded in the period. Most recent: G20 finance chiefs gather in North Carolina with Iran sanctions and tariffs in focus.
 
 > [!note] Estado actual
-> ¿Qué gana y qué cede Venezuela con el "histórico" acuerdo petrolero con Trump?
+> EE.UU. toma las riendas del G20 con la deuda mundial e Irán en el centro de la agenda
 
-## Nodos recientes (38 en la ventana)
+## Nodos recientes (41 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-08-31 | 91 | K2 | EE.UU. toma las riendas del G20 con la deuda mundial e Irán en e |
+| 2026-08-31 | 80 | K1 | EE.UU. y Venezuela anuncian el 'mayor acuerdo petrolero de la hi |
+| 2026-08-31 | 59 | K1 | Qué son las armas nucleares tácticas y por qué el círculo de Put |
 | 2026-08-30 | 95 | K1 | ¿Qué gana y qué cede Venezuela con el "histórico" acuerdo petrol |
 | 2026-08-30 | 83 | K1 | Irán reporta 7.500 millones de dólares en ingresos petroleros pe |
 | 2026-08-30 | 78 | K1 | Trump anuncia acuerdo para que EE.UU. controle 65.000 millones d |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-08-28 | 83 | K0 | How to lose Trump’s trade war: test Canada’s resolve with threat |
 | 2026-08-28 | 83 | K1 | Fed chair says delivering ‘stable prices’ is central bank’s job  |
 | 2026-08-27 | 87 | K1 | Trump abre dos frentes de guerra económica: ¿quién pagará el pre |
-| 2026-08-27 | 86 | K1 | Detenido un hombre por transportar una guillotina en las inmedia |
-| 2026-08-26 | 86 | K1 | Trump considera renombrar el lago Ontario como "lago América" tr |
-| 2026-08-26 | 72 | K1 | Canadá impone aranceles de hasta 50% a EE.UU. tras colapso de ne |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-08-30
-nodos: 9
+actualizado: 2026-08-31
+nodos: 8
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-30. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-08-31. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-9 nodos registrados en el periodo. Lo mas reciente: Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista.
+8 nodos registrados en el periodo. Lo mas reciente: Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista.
 
 ## Trend summary (EN)
-9 nodes recorded in the period. Most recent: Andy Burnham’s autumn of pain– podcast.
+8 nodes recorded in the period. Most recent: Andy Burnham’s autumn of pain– podcast.
 
 > [!note] Estado actual
 > Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista
 
-## Nodos recientes (9 en la ventana)
+## Nodos recientes (8 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-08-27 | 82 | K1 | Primera cirugía cerebral en el mundo guiada por IA en Reino Unid |
@@ -31,6 +31,5 @@ origen: global-pulse
 | 2026-08-13 | 57 | K1 | China adapta sus universidades a la era de la IA y transforma su |
 | 2026-08-11 | 64 | K1 | Four takeaways from Mark Zuckerberg’s massive AI manifesto |
 | 2026-08-11 | 56 | K1 | El cáncer de próstata de Joe Biden se ha extendido a los huesos, |
-| 2026-08-10 | 43 | K1 | En Somalia, la inteligencia artificial ayuda a llevar alimentos  |
 
 [[Global Brain — Inicio|← Inicio]]

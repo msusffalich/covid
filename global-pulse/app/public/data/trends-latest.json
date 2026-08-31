@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-08-30T10:15:40.346582+00:00",
+    "generado": "2026-08-31T11:16:03.842250+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 35,
-      "ultima_fecha": "2026-08-30",
+      "n_nodos": 36,
+      "ultima_fecha": "2026-08-31",
       "resumen": {
-        "es": "35 nodos registrados en el periodo. Lo mas reciente: Irán reporta 7.500 millones de dólares en ingresos petroleros pese al bloqueo naval de EE.UU..",
-        "en": "35 nodes recorded in the period. Most recent: Iran seeks to criminalise all contact with foreign media in ‘chilling’ crackdown."
+        "es": "36 nodos registrados en el periodo. Lo mas reciente: Primeros ataques de Estados Unidos contra Irán desde hace un mes.",
+        "en": "36 nodes recorded in the period. Most recent: US and Iran trade strikes for first time in weeks."
       },
       "estado": {
-        "es": "Irán reporta 7.500 millones de dólares en ingresos petroleros pese al bloqueo naval de EE.UU.",
-        "en": "Iran seeks to criminalise all contact with foreign media in ‘chilling’ crackdown"
+        "es": "Primeros ataques de Estados Unidos contra Irán desde hace un mes",
+        "en": "US and Iran trade strikes for first time in weeks"
       },
       "serie": [
-        {
-          "fecha": "2026-08-10",
-          "max": 95,
-          "n": 2
-        },
         {
           "fecha": "2026-08-11",
           "max": 95,
@@ -123,9 +118,50 @@
           "fecha": "2026-08-30",
           "max": 83,
           "n": 1
+        },
+        {
+          "fecha": "2026-08-31",
+          "max": 95,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-08-31",
+          "titulo": {
+            "es": "Primeros ataques de Estados Unidos contra Irán desde hace un mes",
+            "en": "US and Iran trade strikes for first time in weeks"
+          },
+          "impacto": 95,
+          "categoria": "geopolitica",
+          "kardashev": "K2",
+          "url": "https://www.bbc.com/mundo/articles/cp3kwd28dl5o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
+        {
+          "fecha": "2026-08-31",
+          "titulo": {
+            "es": "EE.UU. toma las riendas del G20 con la deuda mundial e Irán en el centro de la agenda",
+            "en": "G20 finance chiefs gather in North Carolina with Iran sanctions and tariffs in focus"
+          },
+          "impacto": 91,
+          "categoria": "innovacion",
+          "kardashev": "K2",
+          "url": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html",
+          "fuente": "El Pais Internacional"
+        },
+        {
+          "fecha": "2026-08-31",
+          "titulo": {
+            "es": "Iran hostilities flare after US strike in strait of Hormuz – Middle East crisis live",
+            "en": "Iran hostilities flare after US strike in strait of Hormuz – Middle East crisis live"
+          },
+          "impacto": 83,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates",
+          "fuente": "The Guardian World"
+        },
         {
           "fecha": "2026-08-30",
           "titulo": {
@@ -233,42 +269,6 @@
           "kardashev": "K1",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/six-months-after-us-strike-on-iran-school-parents-still-grieve?traffic_source=rss",
           "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-08-26",
-          "titulo": {
-            "es": "Trump acusa a Irán de matar manifestantes a \"niveles nunca vistos\" y de no pagar a parte de su Ejército",
-            "en": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-08-25/quien-comercia-con-iran-los-paises-en-la-diana-de-trump.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-08-25",
-          "titulo": {
-            "es": "Informe desde Washington: EE. UU. advierte a países que no apoyen sanciones estadounidenses a Irán",
-            "en": "Iran predicts ‘another defeat’ for US after Washington's new sanctions"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.france24.com/es/video/20260824-informe-desde-washington-ee-uu-advierte-a-pa%C3%ADses-que-no-apoyen-sanciones-estadounidenses-a-ir%C3%A1n",
-          "fuente": "France 24 Espanol"
-        },
-        {
-          "fecha": "2026-08-25",
-          "titulo": {
-            "es": "El ‘lobby’ petrolero pro-Trump se hace de oro con la guerra contra Irán",
-            "en": "Iran Pledges to Defy Trump’s Economic Sanctions"
-          },
-          "impacto": 86,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-08-24/el-lobby-petrolero-pro-trump-se-hace-de-oro-con-la-guerra-contra-iran.html",
-          "fuente": "El Pais Internacional"
         }
       ]
     },
@@ -279,15 +279,15 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 17,
-      "ultima_fecha": "2026-08-29",
+      "n_nodos": 18,
+      "ultima_fecha": "2026-08-31",
       "resumen": {
-        "es": "17 nodos registrados en el periodo. Lo mas reciente: Rusia y Estados Unidos: ¿Qué hay detrás del viaje del jefe de la CIA a Moscú?.",
-        "en": "17 nodes recorded in the period. Most recent: Rusia y Estados Unidos: ¿Qué hay detrás del viaje del jefe de la CIA a Moscú?."
+        "es": "18 nodos registrados en el periodo. Lo mas reciente: Qué son las armas nucleares tácticas y por qué el círculo de Putin las valora como opción real.",
+        "en": "18 nodes recorded in the period. Most recent: Xi arrives for SCO summit, Putin meeting as regional bloc pushes back on US dominance."
       },
       "estado": {
-        "es": "Rusia y Estados Unidos: ¿Qué hay detrás del viaje del jefe de la CIA a Moscú?",
-        "en": "Rusia y Estados Unidos: ¿Qué hay detrás del viaje del jefe de la CIA a Moscú?"
+        "es": "Qué son las armas nucleares tácticas y por qué el círculo de Putin las valora como opción real",
+        "en": "Xi arrives for SCO summit, Putin meeting as regional bloc pushes back on US dominance"
       },
       "serie": [
         {
@@ -344,9 +344,26 @@
           "fecha": "2026-08-29",
           "max": 83,
           "n": 1
+        },
+        {
+          "fecha": "2026-08-31",
+          "max": 59,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-08-31",
+          "titulo": {
+            "es": "Qué son las armas nucleares tácticas y por qué el círculo de Putin las valora como opción real",
+            "en": "Xi arrives for SCO summit, Putin meeting as regional bloc pushes back on US dominance"
+          },
+          "impacto": 59,
+          "categoria": "economia",
+          "kardashev": "K1",
+          "url": "https://www.elmundo.es/internacional/2026/08/27/6a90655021efa04f678b4576.html",
+          "fuente": "El Mundo Internacional"
+        },
         {
           "fecha": "2026-08-29",
           "titulo": {
@@ -478,18 +495,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/c4gj41jl0npo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-08-15",
-          "titulo": {
-            "es": "Escalada en el Mar Negro: Rusia bloquea exportaciones de grano ucraniano mientras Kiev golpea refinerías e instalaciones navales rusas",
-            "en": "Black Sea escalation: Russia blocks Ukrainian grain exports as Kyiv strikes Russian refineries and naval facilities"
-          },
-          "impacto": 72,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-08-14/la-guerra-del-grano-vuelve-al-mar-negro-rusia-bloquea-las-exportaciones-de-ucrania-y-amenaza-la-proxima-cosecha.html",
-          "fuente": "El Pais Internacional"
         }
       ]
     },
@@ -500,22 +505,17 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 31,
+      "n_nodos": 29,
       "ultima_fecha": "2026-08-29",
       "resumen": {
-        "es": "31 nodos registrados en el periodo. Lo mas reciente: Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán.",
-        "en": "31 nodes recorded in the period. Most recent: Iran war hits 6-month milestone with Trump's attention largely elsewhere."
+        "es": "29 nodos registrados en el periodo. Lo mas reciente: Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán.",
+        "en": "29 nodes recorded in the period. Most recent: Iran war hits 6-month milestone with Trump's attention largely elsewhere."
       },
       "estado": {
         "es": "Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán",
         "en": "Iran war hits 6-month milestone with Trump's attention largely elsewhere"
       },
       "serie": [
-        {
-          "fecha": "2026-08-10",
-          "max": 95,
-          "n": 2
-        },
         {
           "fecha": "2026-08-11",
           "max": 95,
@@ -756,22 +756,17 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 9,
+      "n_nodos": 8,
       "ultima_fecha": "2026-08-27",
       "resumen": {
-        "es": "9 nodos registrados en el periodo. Lo mas reciente: Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista.",
-        "en": "9 nodes recorded in the period. Most recent: Andy Burnham’s autumn of pain– podcast."
+        "es": "8 nodos registrados en el periodo. Lo mas reciente: Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista.",
+        "en": "8 nodes recorded in the period. Most recent: Andy Burnham’s autumn of pain– podcast."
       },
       "estado": {
         "es": "Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista",
         "en": "Andy Burnham’s autumn of pain– podcast"
       },
       "serie": [
-        {
-          "fecha": "2026-08-10",
-          "max": 43,
-          "n": 1
-        },
         {
           "fecha": "2026-08-11",
           "max": 64,
@@ -887,18 +882,6 @@
           "kardashev": "K1",
           "url": "https://www.elmundo.es/internacional/2026/08/08/6a774ddffdddff720f8b457b.html",
           "fuente": "El Mundo Internacional"
-        },
-        {
-          "fecha": "2026-08-10",
-          "titulo": {
-            "es": "En Somalia, la inteligencia artificial ayuda a llevar alimentos a las familias que pasan hambre",
-            "en": "In Somalia, AI is helping deliver food to hungry families"
-          },
-          "impacto": 43,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://news.un.org/feed/view/es/story/2026/08/1541777",
-          "fuente": "Noticias ONU"
         }
       ]
     },
@@ -909,22 +892,17 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 33,
-      "ultima_fecha": "2026-08-30",
+      "n_nodos": 32,
+      "ultima_fecha": "2026-08-31",
       "resumen": {
-        "es": "33 nodos registrados en el periodo. Lo mas reciente: China impone la ley del silencio en Tíbet tras la catástrofe del Himalaya.",
-        "en": "33 nodes recorded in the period. Most recent: Nepal-Tibet floods: Nepal calls for technical support for rescue efforts as number of missing rises to nearly 3,000 – as it happened."
+        "es": "32 nodos registrados en el periodo. Lo mas reciente: Fifteen missing and dozens evacuated after Grand Canyon is swept by flash floods.",
+        "en": "32 nodes recorded in the period. Most recent: Fifteen missing and dozens evacuated after Grand Canyon is swept by flash floods."
       },
       "estado": {
-        "es": "China impone la ley del silencio en Tíbet tras la catástrofe del Himalaya",
-        "en": "Nepal-Tibet floods: Nepal calls for technical support for rescue efforts as number of missing rises to nearly 3,000 – as it happened"
+        "es": "Fifteen missing and dozens evacuated after Grand Canyon is swept by flash floods",
+        "en": "Fifteen missing and dozens evacuated after Grand Canyon is swept by flash floods"
       },
       "serie": [
-        {
-          "fecha": "2026-08-10",
-          "max": 62,
-          "n": 4
-        },
         {
           "fecha": "2026-08-11",
           "max": 95,
@@ -989,9 +967,50 @@
           "fecha": "2026-08-30",
           "max": 95,
           "n": 5
+        },
+        {
+          "fecha": "2026-08-31",
+          "max": 83,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-08-31",
+          "titulo": {
+            "es": "Fifteen missing and dozens evacuated after Grand Canyon is swept by flash floods",
+            "en": "Fifteen missing and dozens evacuated after Grand Canyon is swept by flash floods"
+          },
+          "impacto": 83,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
+        {
+          "fecha": "2026-08-31",
+          "titulo": {
+            "es": "Avalancha e inundaciones entre Nepal y Tíbet dejan más de 900 muertos y miles de desaparecidos",
+            "en": "Avalanche and floods between Nepal and Tibet leave over 900 dead and thousands missing"
+          },
+          "impacto": 78,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260830-en-directo-nepal-recupera-781-cad%C3%A1veres-y-mantiene-a-2-502-personas-desaparecidas-tras-las-inundaciones",
+          "fuente": "France 24 Espanol"
+        },
+        {
+          "fecha": "2026-08-31",
+          "titulo": {
+            "es": "China oculta información sobre inundaciones mortales en Tíbet mientras crecen las dudas sobre el número de víctimas",
+            "en": "China conceals information on deadly Tibet floods as doubts grow over the death toll"
+          },
+          "impacto": 62,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/czrz3mm0d82o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
         {
           "fecha": "2026-08-30",
           "titulo": {
@@ -1099,42 +1118,6 @@
           "kardashev": "K1",
           "url": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
           "fuente": "The Guardian World"
-        },
-        {
-          "fecha": "2026-08-28",
-          "titulo": {
-            "es": "China y Nepal retoman labores de emergencia tras amenaza de nuevo desbordamiento en la cordillera",
-            "en": "Nepal flood disaster reconstructed minute by minute"
-          },
-          "impacto": 93,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://elpais.com/opinion/2026-08-22/la-ruta-de-la-seda-artica-de-china-ya-es-una-realidad.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-08-27",
-          "titulo": {
-            "es": "Colapso glaciar en el Himalaya provoca catástrofe mortal en Nepal y Tíbet con cientos de muertos y desaparecidos",
-            "en": "Himalayan glacier collapse triggers deadly disaster in Nepal and Tibet with hundreds dead and missing"
-          },
-          "impacto": 78,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260827-en-directo-cerca-de-1-400-desaparecidos-tras-los-deslizamientos-de-lodo-en-nepal-y-el-t%C3%ADbet",
-          "fuente": "France 24 Espanol"
-        },
-        {
-          "fecha": "2026-08-27",
-          "titulo": {
-            "es": "Riada catastrófica en la frontera Nepal-Tíbet tras colapso glaciar deja cientos de muertos y más de 1.500 desaparecidos",
-            "en": "Catastrophic flood on Nepal-Tibet border after glacier collapse leaves hundreds dead and over 1,500 missing"
-          },
-          "impacto": 78,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.elmundo.es/internacional/2026/08/27/6a8fca4121efa0ba2d8b45c9.html",
-          "fuente": "El Mundo Internacional"
         }
       ]
     },
@@ -1145,15 +1128,15 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 38,
-      "ultima_fecha": "2026-08-30",
+      "n_nodos": 41,
+      "ultima_fecha": "2026-08-31",
       "resumen": {
-        "es": "38 nodos registrados en el periodo. Lo mas reciente: ¿Qué gana y qué cede Venezuela con el \"histórico\" acuerdo petrolero con Trump?.",
-        "en": "38 nodes recorded in the period. Most recent: Trump posts AI video of ‘Lake America’ being protected by an army of bequiffed ‘Donald Ducks’."
+        "es": "41 nodos registrados en el periodo. Lo mas reciente: EE.UU. toma las riendas del G20 con la deuda mundial e Irán en el centro de la agenda.",
+        "en": "41 nodes recorded in the period. Most recent: G20 finance chiefs gather in North Carolina with Iran sanctions and tariffs in focus."
       },
       "estado": {
-        "es": "¿Qué gana y qué cede Venezuela con el \"histórico\" acuerdo petrolero con Trump?",
-        "en": "Trump posts AI video of ‘Lake America’ being protected by an army of bequiffed ‘Donald Ducks’"
+        "es": "EE.UU. toma las riendas del G20 con la deuda mundial e Irán en el centro de la agenda",
+        "en": "G20 finance chiefs gather in North Carolina with Iran sanctions and tariffs in focus"
       },
       "serie": [
         {
@@ -1255,9 +1238,50 @@
           "fecha": "2026-08-30",
           "max": 95,
           "n": 3
+        },
+        {
+          "fecha": "2026-08-31",
+          "max": 91,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-08-31",
+          "titulo": {
+            "es": "EE.UU. toma las riendas del G20 con la deuda mundial e Irán en el centro de la agenda",
+            "en": "G20 finance chiefs gather in North Carolina with Iran sanctions and tariffs in focus"
+          },
+          "impacto": 91,
+          "categoria": "innovacion",
+          "kardashev": "K2",
+          "url": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html",
+          "fuente": "El Pais Internacional"
+        },
+        {
+          "fecha": "2026-08-31",
+          "titulo": {
+            "es": "EE.UU. y Venezuela anuncian el 'mayor acuerdo petrolero de la historia' con control estadounidense de 65.000 millones de barriles",
+            "en": "US and Venezuela announce 'biggest oil deal in history' giving US control over 65 billion barrels"
+          },
+          "impacto": 80,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/c783xln84p1o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
+        {
+          "fecha": "2026-08-31",
+          "titulo": {
+            "es": "Qué son las armas nucleares tácticas y por qué el círculo de Putin las valora como opción real",
+            "en": "Xi arrives for SCO summit, Putin meeting as regional bloc pushes back on US dominance"
+          },
+          "impacto": 59,
+          "categoria": "economia",
+          "kardashev": "K1",
+          "url": "https://www.elmundo.es/internacional/2026/08/27/6a90655021efa04f678b4576.html",
+          "fuente": "El Mundo Internacional"
+        },
         {
           "fecha": "2026-08-30",
           "titulo": {
@@ -1364,42 +1388,6 @@
           "categoria": "geopolitica",
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/c70lzkq5j8yo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-08-27",
-          "titulo": {
-            "es": "Detenido un hombre por transportar una guillotina en las inmediaciones del Congreso de Estados Unidos",
-            "en": "How to lose Trump’s trade war: test Canada’s resolve with threats to hockey sticks"
-          },
-          "impacto": 86,
-          "categoria": "economia",
-          "kardashev": "K1",
-          "url": "https://elpais.com/opinion/2026-08-21/pueden-los-progresistas-de-estados-unidos-impulsar-el-crecimiento-economico.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-08-26",
-          "titulo": {
-            "es": "Trump considera renombrar el lago Ontario como \"lago América\" tras decir el primer ministro que puede \"besar\" su \"culo\"",
-            "en": "The Latest: Canada is expected to announce retaliatory tariffs against the US"
-          },
-          "impacto": 86,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.elmundo.es/internacional/2026/08/25/6a8d855021efa0942a8b4572.html",
-          "fuente": "El Mundo Internacional"
-        },
-        {
-          "fecha": "2026-08-26",
-          "titulo": {
-            "es": "Canadá impone aranceles de hasta 50% a EE.UU. tras colapso de negociaciones comerciales",
-            "en": "Canada imposes tariffs of up to 50% on US goods after trade talks collapse"
-          },
-          "impacto": 72,
-          "categoria": "economia",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/ce8x1l47l30o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
         }
       ]
