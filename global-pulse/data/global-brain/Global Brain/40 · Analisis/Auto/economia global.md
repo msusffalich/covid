@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-08-31
+actualizado: 2026-09-01
 nodos: 41
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-08-31. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-01. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-41 nodos registrados en el periodo. Lo mas reciente: EE.UU. toma las riendas del G20 con la deuda mundial e Irán en el centro de la agenda.
+41 nodos registrados en el periodo. Lo mas reciente: Bailey alerta de que los nuevos modelos de IA son una amenaza para la economía global.
 
 ## Trend summary (EN)
-41 nodes recorded in the period. Most recent: G20 finance chiefs gather in North Carolina with Iran sanctions and tariffs in focus.
+41 nodes recorded in the period. Most recent: New policy brief outlines how EU policies can better support sponge restoration.
 
 > [!note] Estado actual
-> EE.UU. toma las riendas del G20 con la deuda mundial e Irán en el centro de la agenda
+> Bailey alerta de que los nuevos modelos de IA son una amenaza para la economía global
 
 ## Nodos recientes (41 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-01 | 57 | K1 | Bailey alerta de que los nuevos modelos de IA son una amenaza pa |
 | 2026-08-31 | 91 | K2 | EE.UU. toma las riendas del G20 con la deuda mundial e Irán en e |
 | 2026-08-31 | 80 | K1 | EE.UU. y Venezuela anuncian el 'mayor acuerdo petrolero de la hi |
 | 2026-08-31 | 59 | K1 | Qué son las armas nucleares tácticas y por qué el círculo de Put |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-28 | 87 | K2 | Récord de detenciones en EE. UU.: ¿Trump cumple su promesa antim |
 | 2026-08-28 | 83 | K0 | How to lose Trump’s trade war: test Canada’s resolve with threat |
 | 2026-08-28 | 83 | K1 | Fed chair says delivering ‘stable prices’ is central bank’s job  |
-| 2026-08-27 | 87 | K1 | Trump abre dos frentes de guerra económica: ¿quién pagará el pre |
 
 [[Global Brain — Inicio|← Inicio]]
