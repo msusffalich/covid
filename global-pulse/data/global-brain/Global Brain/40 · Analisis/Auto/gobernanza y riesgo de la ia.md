@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-01
-nodos: 6
+actualizado: 2026-09-02
+nodos: 7
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-01. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-02. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-6 nodos registrados en el periodo. Lo mas reciente: Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista.
+7 nodos registrados en el periodo. Lo mas reciente: John Ternus sucede a Tim Cook como nuevo CEO de Apple.
 
 ## Trend summary (EN)
-6 nodes recorded in the period. Most recent: Andy Burnham’s autumn of pain– podcast.
+7 nodes recorded in the period. Most recent: John Ternus succeeds Tim Cook as Apple's new CEO.
 
 > [!note] Estado actual
-> Primera cirugía cerebral en el mundo guiada por IA en Reino Unido salva la vista
+> John Ternus sucede a Tim Cook como nuevo CEO de Apple
 
-## Nodos recientes (6 en la ventana)
+## Nodos recientes (7 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-02 | 68 | K2 | John Ternus sucede a Tim Cook como nuevo CEO de Apple |
+| 2026-09-02 | 62 | K1 | OpenAI retrasa el desarrollo de su modelo Astra tras un incident |
 | 2026-08-27 | 82 | K1 | Primera cirugía cerebral en el mundo guiada por IA en Reino Unid |
 | 2026-08-27 | 66 | K0 | Hugging Face’s new robot is an adorable rollerskating duck |
 | 2026-08-26 | 53 | K0 | A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be |

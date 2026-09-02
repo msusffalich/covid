@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-01
+actualizado: 2026-09-02
 nodos: 27
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-01. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-02. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-27 nodos registrados en el periodo. Lo mas reciente: Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán.
+27 nodos registrados en el periodo. Lo mas reciente: Una operación israelí para capturar a un mando de Hamás en Gaza acaba con cuatro palestinos muertos.
 
 ## Trend summary (EN)
-27 nodes recorded in the period. Most recent: Iran war hits 6-month milestone with Trump's attention largely elsewhere.
+27 nodes recorded in the period. Most recent: Israeli Raid in Gaza Kills 4, Palestinian Officials Say.
 
 > [!note] Estado actual
-> Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán
+> Una operación israelí para capturar a un mando de Hamás en Gaza acaba con cuatro palestinos muertos
 
 ## Nodos recientes (27 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-02 | 77 | K1 | Una operación israelí para capturar a un mando de Hamás en Gaza  |
 | 2026-08-29 | 95 | K1 | Análisis: el desgaste económico y bélico de Estados Unidos tras  |
 | 2026-08-29 | 85 | K1 | Irán y EE.UU. cumplen seis meses de guerra con crisis económica, |
 | 2026-08-28 | 95 | K1 | Trump vs. Irán: miles de muertes, estancamiento y asfixia económ |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-22 | 95 | K1 | Irán se declara en posición de fuerza y reclama el fin de la gue |
 | 2026-08-22 | 91 | K1 | ¿Puede Turquía lograr la detención de Netanyahu con una notifica |
 | 2026-08-21 | 66 | K0 | 900 obstacles and counting: West Bank families trapped as aid ac |
-| 2026-08-19 | 95 | K1 | EEUU y Corea del Sur inician ejercicios militares, tras reducció |
 
 [[Global Brain — Inicio|← Inicio]]
