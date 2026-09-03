@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-02
-nodos: 27
+actualizado: 2026-09-03
+nodos: 25
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-02. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-03. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-27 nodos registrados en el periodo. Lo mas reciente: Una operación israelí para capturar a un mando de Hamás en Gaza acaba con cuatro palestinos muertos.
+25 nodos registrados en el periodo. Lo mas reciente: Una operación israelí para capturar a un mando de Hamás en Gaza acaba con cuatro palestinos muertos.
 
 ## Trend summary (EN)
-27 nodes recorded in the period. Most recent: Israeli Raid in Gaza Kills 4, Palestinian Officials Say.
+25 nodes recorded in the period. Most recent: Israeli Raid in Gaza Kills 4, Palestinian Officials Say.
 
 > [!note] Estado actual
 > Una operación israelí para capturar a un mando de Hamás en Gaza acaba con cuatro palestinos muertos
 
-## Nodos recientes (27 en la ventana)
+## Nodos recientes (25 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-02 | 77 | K1 | Una operación israelí para capturar a un mando de Hamás en Gaza  |

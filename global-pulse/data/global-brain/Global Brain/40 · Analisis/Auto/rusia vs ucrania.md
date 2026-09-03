@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-09-02
-nodos: 18
+actualizado: 2026-09-03
+nodos: 16
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-02. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-03. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-18 nodos registrados en el periodo. Lo mas reciente: Alemania acusa formalmente a Rusia de ataque híbrido con drones en el aeropuerto de Leipzig.
+16 nodos registrados en el periodo. Lo mas reciente: Alemania acusa formalmente a Rusia de ataque híbrido con drones en el aeropuerto de Leipzig.
 
 ## Trend summary (EN)
-18 nodes recorded in the period. Most recent: Germany formally blames Russia for hybrid drone attack at Leipzig airport.
+16 nodes recorded in the period. Most recent: Germany formally blames Russia for hybrid drone attack at Leipzig airport.
 
 > [!note] Estado actual
 > Alemania acusa formalmente a Rusia de ataque híbrido con drones en el aeropuerto de Leipzig
 
-## Nodos recientes (18 en la ventana)
+## Nodos recientes (16 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-02 | 78 | K1 | Alemania acusa formalmente a Rusia de ataque híbrido con drones  |

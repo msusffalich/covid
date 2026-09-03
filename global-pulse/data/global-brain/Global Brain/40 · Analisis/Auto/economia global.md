@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-02
+actualizado: 2026-09-03
 nodos: 41
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-02. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-03. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-41 nodos registrados en el periodo. Lo mas reciente: Venezuela cede a EE.UU. el control de una quinta parte de sus reservas petroleras tras acuerdo post-Maduro.
+41 nodos registrados en el periodo. Lo mas reciente: UK mortgage borrowers brace for rate jump amid global bond sell-off.
 
 ## Trend summary (EN)
-41 nodes recorded in the period. Most recent: Venezuela hands US control of a fifth of its oil reserves following post-Maduro agreement.
+41 nodes recorded in the period. Most recent: UK mortgage borrowers brace for rate jump amid global bond sell-off.
 
 > [!note] Estado actual
-> Venezuela cede a EE.UU. el control de una quinta parte de sus reservas petroleras tras acuerdo post-Maduro
+> UK mortgage borrowers brace for rate jump amid global bond sell-off
 
 ## Nodos recientes (41 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-03 | 62 | K1 | UK mortgage borrowers brace for rate jump amid global bond sell- |
 | 2026-09-02 | 78 | K1 | Venezuela cede a EE.UU. el control de una quinta parte de sus re |
 | 2026-09-01 | 57 | K1 | Bailey alerta de que los nuevos modelos de IA son una amenaza pa |
 | 2026-08-31 | 91 | K2 | EE.UU. toma las riendas del G20 con la deuda mundial e Irán en e |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-29 | 95 | K1 | "El acuerdo petrolero más grande de la historia": Trump anuncia  |
 | 2026-08-29 | 83 | K0 | Warsh flags inflation concerns as he rejects Fed forward guidanc |
 | 2026-08-28 | 87 | K2 | Récord de detenciones en EE. UU.: ¿Trump cumple su promesa antim |
-| 2026-08-28 | 83 | K0 | How to lose Trump’s trade war: test Canada’s resolve with threat |
 
 [[Global Brain — Inicio|← Inicio]]
