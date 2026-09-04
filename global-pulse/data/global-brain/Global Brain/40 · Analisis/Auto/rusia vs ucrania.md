@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-09-03
+actualizado: 2026-09-04
 nodos: 16
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-03. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-04. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-16 nodos registrados en el periodo. Lo mas reciente: Alemania acusa formalmente a Rusia de ataque híbrido con drones en el aeropuerto de Leipzig.
+16 nodos registrados en el periodo. Lo mas reciente: Europe Today: Rusia amenaza a Europa, la crisis de Ceuta se agrava y AfD lidera.
 
 ## Trend summary (EN)
-16 nodes recorded in the period. Most recent: Germany formally blames Russia for hybrid drone attack at Leipzig airport.
+16 nodes recorded in the period. Most recent: Europe Today: Russia targets Europe, Ceuta crisis deepens, and AfD leads polls in east Germany.
 
 > [!note] Estado actual
-> Alemania acusa formalmente a Rusia de ataque híbrido con drones en el aeropuerto de Leipzig
+> Europe Today: Rusia amenaza a Europa, la crisis de Ceuta se agrava y AfD lidera
 
 ## Nodos recientes (16 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-04 | 86 | K0 | Europe Today: Rusia amenaza a Europa, la crisis de Ceuta se agra |
 | 2026-09-02 | 78 | K1 | Alemania acusa formalmente a Rusia de ataque híbrido con drones  |
 | 2026-09-01 | 83 | K2 | Russia targets Kyiv and its region for sixth consecutive night o |
 | 2026-08-31 | 59 | K1 | Qué son las armas nucleares tácticas y por qué el círculo de Put |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-25 | 47 | K1 | ‘Fix that little spot’: Danish PM hits back at unsolicited beaut |
 | 2026-08-23 | 83 | K0 | Attack on Ukraine shopping centre that killed 16 is ‘terror by d |
 | 2026-08-20 | 89 | K1 | Detenido en Croacia un segundo sospechoso del sabotaje a Nord St |
-| 2026-08-18 | 53 | K0 | Russian strike on Kyiv book market: 'An attempt to annihilate Uk |
 
 [[Global Brain — Inicio|← Inicio]]

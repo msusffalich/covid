@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-03
-nodos: 41
+actualizado: 2026-09-04
+nodos: 39
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-03. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-04. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-41 nodos registrados en el periodo. Lo mas reciente: UK mortgage borrowers brace for rate jump amid global bond sell-off.
+39 nodos registrados en el periodo. Lo mas reciente: Informe desde Washington: Trump pide al Supremo desbloquear su restricción al voto por correo.
 
 ## Trend summary (EN)
-41 nodes recorded in the period. Most recent: UK mortgage borrowers brace for rate jump amid global bond sell-off.
+39 nodes recorded in the period. Most recent: Iran hits US military targets in the region as Washington probes deadly wedding strike.
 
 > [!note] Estado actual
-> UK mortgage borrowers brace for rate jump amid global bond sell-off
+> Informe desde Washington: Trump pide al Supremo desbloquear su restricción al voto por correo
 
-## Nodos recientes (41 en la ventana)
+## Nodos recientes (39 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-04 | 95 | K1 | Informe desde Washington: Trump pide al Supremo desbloquear su r |
+| 2026-09-04 | 87 | K2 | Una juez bloquea el último intento de Trump de limitar la ciudad |
+| 2026-09-04 | 72 | K1 | Volkswagen aprueba recorte de 50.000 empleos adicionales, hasta  |
 | 2026-09-03 | 62 | K1 | UK mortgage borrowers brace for rate jump amid global bond sell- |
 | 2026-09-02 | 78 | K1 | Venezuela cede a EE.UU. el control de una quinta parte de sus re |
 | 2026-09-01 | 57 | K1 | Bailey alerta de que los nuevos modelos de IA son una amenaza pa |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-08-30 | 95 | K1 | ¿Qué gana y qué cede Venezuela con el "histórico" acuerdo petrol |
 | 2026-08-30 | 83 | K1 | Irán reporta 7.500 millones de dólares en ingresos petroleros pe |
 | 2026-08-30 | 78 | K1 | Trump anuncia acuerdo para que EE.UU. controle 65.000 millones d |
-| 2026-08-29 | 95 | K1 | "El acuerdo petrolero más grande de la historia": Trump anuncia  |
-| 2026-08-29 | 83 | K0 | Warsh flags inflation concerns as he rejects Fed forward guidanc |
-| 2026-08-28 | 87 | K2 | Récord de detenciones en EE. UU.: ¿Trump cumple su promesa antim |
 
 [[Global Brain — Inicio|← Inicio]]

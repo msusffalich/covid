@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-09-03
-nodos: 40
+actualizado: 2026-09-04
+nodos: 41
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-03. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-04. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-40 nodos registrados en el periodo. Lo mas reciente: En China, la energía solar supera al carbón en potencia instalada.
+41 nodos registrados en el periodo. Lo mas reciente: Nepal enfrenta crisis humanitaria tras devastadoras inundaciones repentinas.
 
 ## Trend summary (EN)
-40 nodes recorded in the period. Most recent: China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal.
+41 nodes recorded in the period. Most recent: Nepal faces humanitarian crisis after devastating flash floods.
 
 > [!note] Estado actual
-> En China, la energía solar supera al carbón en potencia instalada
+> Nepal enfrenta crisis humanitaria tras devastadoras inundaciones repentinas
 
-## Nodos recientes (40 en la ventana)
+## Nodos recientes (41 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-04 | 72 | K1 | Nepal enfrenta crisis humanitaria tras devastadoras inundaciones |
+| 2026-09-04 | 70 | K1 | La ONU advierte que El Niño 2026 podría ser el más intenso regis |
 | 2026-09-03 | 81 | K2 | En China, la energía solar supera al carbón en potencia instalad |
 | 2026-09-03 | 78 | K1 | Inundaciones y avalancha en Nepal dejan más de 1.000 muertos y m |
 | 2026-09-02 | 95 | K2 | Nepal: más de mil muertos y dificultades para que los equipos de |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-01 | 57 | K1 | Bailey alerta de que los nuevos modelos de IA son una amenaza pa |
 | 2026-09-01 | 55 | K1 | China restringe información sobre inundaciones mortales en Tíbet |
 | 2026-08-31 | 83 | K1 | Fifteen missing and dozens evacuated after Grand Canyon is swept |
-| 2026-08-31 | 78 | K1 | Avalancha e inundaciones entre Nepal y Tíbet dejan más de 900 mu |
-| 2026-08-31 | 62 | K1 | China oculta información sobre inundaciones mortales en Tíbet mi |
 
 [[Global Brain — Inicio|← Inicio]]
