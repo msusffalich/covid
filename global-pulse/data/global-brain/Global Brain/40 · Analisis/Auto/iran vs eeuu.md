@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-09-04
+actualizado: 2026-09-05
 nodos: 38
 origen: global-pulse
 ---
@@ -10,20 +10,22 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-04. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-05. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-38 nodos registrados en el periodo. Lo mas reciente: Informe desde Washington: Trump pide al Supremo desbloquear su restricción al voto por correo.
+38 nodos registrados en el periodo. Lo mas reciente: El partido Reform UK bajo investigación por donaciones extranjeras: Farage niega infringir la ley.
 
 ## Trend summary (EN)
-38 nodes recorded in the period. Most recent: Iran hits US military targets in the region as Washington probes deadly wedding strike.
+38 nodes recorded in the period. Most recent: Farage gives speech at Reform conference after party officials suspended over donations sting – as it happened.
 
 > [!note] Estado actual
-> Informe desde Washington: Trump pide al Supremo desbloquear su restricción al voto por correo
+> El partido Reform UK bajo investigación por donaciones extranjeras: Farage niega infringir la ley
 
 ## Nodos recientes (38 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-05 | 95 | K1 | El partido Reform UK bajo investigación por donaciones extranjer |
+| 2026-09-05 | 91 | K1 | Trump califica el conflicto con Irán como "small potatoes" (algo |
 | 2026-09-04 | 95 | K1 | Informe desde Washington: Trump pide al Supremo desbloquear su r |
 | 2026-09-03 | 88 | K2 | Escalada militar EEUU-Irán: ataque a boda causa múltiples muerto |
 | 2026-09-03 | 85 | K1 | En Egipto, Xi Jinping busca fortalecer la influencia china frent |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-08-31 | 95 | K2 | Primeros ataques de Estados Unidos contra Irán desde hace un mes |
 | 2026-08-31 | 91 | K2 | EE.UU. toma las riendas del G20 con la deuda mundial e Irán en e |
 | 2026-08-31 | 83 | K1 | Iran hostilities flare after US strike in strait of Hormuz – Mid |
-| 2026-08-30 | 83 | K1 | Irán reporta 7.500 millones de dólares en ingresos petroleros pe |
-| 2026-08-29 | 95 | K1 | Análisis: el desgaste económico y bélico de Estados Unidos tras  |
 
 [[Global Brain — Inicio|← Inicio]]

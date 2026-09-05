@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-04
-nodos: 9
+actualizado: 2026-09-05
+nodos: 10
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-04. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-05. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-9 nodos registrados en el periodo. Lo mas reciente: Nvidia adquiere la plataforma de IA Hugging Face por 12.900 millones de dólares.
+10 nodos registrados en el periodo. Lo mas reciente: Inteligencia artificial: Nvidia comprará la plataforma de Hugging Face por USD 12.900 millones.
 
 ## Trend summary (EN)
-9 nodes recorded in the period. Most recent: Nvidia acquires AI platform Hugging Face for $12.9 billion.
+10 nodes recorded in the period. Most recent: AI's 'warning shot': Tech companies, experts raise fears of more rogue swarms after alarming Hugging Face hack.
 
 > [!note] Estado actual
-> Nvidia adquiere la plataforma de IA Hugging Face por 12.900 millones de dólares
+> Inteligencia artificial: Nvidia comprará la plataforma de Hugging Face por USD 12.900 millones
 
-## Nodos recientes (9 en la ventana)
+## Nodos recientes (10 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-05 | 86 | K1 | Inteligencia artificial: Nvidia comprará la plataforma de Huggin |
 | 2026-09-04 | 78 | K1 | Nvidia adquiere la plataforma de IA Hugging Face por 12.900 mill |
 | 2026-09-04 | 72 | K1 | OpenAI comienza el despliegue de GPT-6 Astra en medio de crecien |
 | 2026-09-03 | 53 | K0 | Trump administration backs OpenAI in New York Times' copyright c |

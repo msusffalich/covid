@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-04
-nodos: 25
+actualizado: 2026-09-05
+nodos: 22
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-04. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-05. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-25 nodos registrados en el periodo. Lo mas reciente: Israel busca respaldo de EE.UU. para plan de expulsión masiva de palestinos de Gaza.
+22 nodos registrados en el periodo. Lo mas reciente: Israel busca respaldo de EE.UU. para plan de expulsión masiva de palestinos de Gaza.
 
 ## Trend summary (EN)
-25 nodes recorded in the period. Most recent: Israel seeks US backing for plan to expel Palestinians from Gaza.
+22 nodes recorded in the period. Most recent: Israel seeks US backing for plan to expel Palestinians from Gaza.
 
 > [!note] Estado actual
 > Israel busca respaldo de EE.UU. para plan de expulsión masiva de palestinos de Gaza
 
-## Nodos recientes (25 en la ventana)
+## Nodos recientes (22 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-04 | 82 | K1 | Israel busca respaldo de EE.UU. para plan de expulsión masiva de |
