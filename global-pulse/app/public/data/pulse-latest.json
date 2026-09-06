@@ -1,33 +1,391 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-09-05",
-    "generado": "2026-09-05T08:42:58.526999+00:00",
+    "fecha": "2026-09-06",
+    "generado": "2026-09-06T09:01:49.306567+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 859,
-      "clusters": 570,
-      "nodos": 570,
-      "verificados": 570,
-      "duracion_s": 146.6
+      "piezas_ingeridas": 766,
+      "clusters": 501,
+      "nodos": 501,
+      "verificados": 501,
+      "duracion_s": 146.7
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Malvinas: Reino Unido reafirma que las islas “son británicas” tras el reclamo de soberanía de Milei",
-        "en": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands"
+        "es": "Putin y Zelenski ordenan detener los ataques hasta el lunes por la visita de los enviados de Trump",
+        "en": "Trump envoys and Putin discussed ‘next steps’ for ending Ukraine war, White House says"
       },
       "sintesis": {
-        "es": "El presidente argentino Javier Milei habló este jueves por cadena nacional para referirse a la cuestión Malvinas, días después de que su par estadounidense, Donald Trump, dijera que podría revisar la postura de su país sobre las islas. Reino Unido no tardó en reaccionar.",
-        "en": "President cites Trump’s suggestion that he might reconsider US stance on British sovereignty and threatens swifter sanctions on UK oil interests President Javier Milei has said “winds of change” favourable to Argentina’s claim to the Falkland Islands are blowing around the world in a televised address, citing signs that Donald Trump may reconsider the US position on the islands’ sovereignty. “Recently, President Trump declared that the US is re-evaluating its historic position in relation to the Malvinas,” he said, using the Argentinian name for the islands. Continue reading..."
+        "es": "El empresario Steve Witkoff y el yerno de Trump, Jared Kushner, llegaron a Moscú y viajarán el domingo a Kiev con el objetivo de reactivar las negociaciones de paz",
+        "en": "‘Substantive plans’ will be announced in ‘coming weeks’ as envoys head to Kyiv for talks with Ukraine’s president, Volodymyr Zelenskyy Donald Trump’s envoys “discussed substantive plans for next steps” for ending the war between Ukraine and Russia during their meeting on Saturday in Moscow with Vladimir Putin, the White House said. Those steps would be announced in “coming weeks”, a White House official said in a statement, and the envoys “look forward to equally productive meetings tomorrow [Sunday] in Ukraine”. Continue reading..."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Milei",
+        "Putin",
+        "Trump",
+        "Ukraine",
+        "White House"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_ca8c774324",
+        "ev_b0e783c8a9",
+        "ev_4cd4d19f63",
+        "ev_f5400e408b",
+        "ev_424e188dbe",
+        "ev_cb10c5076d",
+        "ev_e79a5997a5",
+        "ev_e1cee5c59e",
+        "ev_27ca8764f6",
+        "ev_b0e6362c97",
+        "ev_aa3a57ea39",
+        "ev_8357f5f914",
+        "ev_ea32f8f7a3",
+        "ev_e39c7266d8",
+        "ev_5e8f8cdd68",
+        "ev_cecea5f01c",
+        "ev_a48b6b2632",
+        "ev_5a83b04e88",
+        "ev_b93a3d1baf"
+      ],
+      "cluster_id": "cl_043",
+      "imagenes": [
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260905/1211374_190929_video_1800.mp4",
+        "https://i.guim.co.uk/img/media/6c169677a60bc6a610e0f252fbbe628a152fa07e/2_0_4440_3553/master/4440.jpg?width=140&quality=85&auto=format&fit=max&s=0654b6dd46204528f1b130253d178fc2",
+        "https://s.france24.com/media/display/ad604e40-a9ad-11f1-9eeb-005056bfb2b6/w:1024/p:16x9/000-C7FN7NR.jpg",
+        "https://e3.365dm.com/26/09/1920x1080/skynews-ukraine-railway_7341388.jpg?20260904213557"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_ca8c774324",
+          "titulo": "Putin y Zelenski ordenan detener los ataques hasta el lunes por la visita de los enviados de Trump",
+          "url": "https://elpais.com/internacional/2026-09-05/los-negociadores-de-trump-llegan-a-moscu-para-intentar-reimpulsar-las-negociaciones-de-paz.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Sat, 05 Sep 2026 11:02:30 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_b0e783c8a9",
+          "titulo": "Trump envoys and Putin discussed ‘next steps’ for ending Ukraine war, White House says",
+          "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
+          "fuente": "The Guardian World",
+          "fecha": "Sun, 06 Sep 2026 02:21:03 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4cd4d19f63",
+          "titulo": "Live: Trump's envoys head to Ukraine after 'substantive' talks with Putin",
+          "url": "https://www.france24.com/en/europe/20260906-live-trump-s-envoys-head-to-ukraine-after-substantive-talks-with-putin",
+          "fuente": "France 24 English",
+          "fecha": "Sun, 06 Sep 2026 04:57:43 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f5400e408b",
+          "titulo": "Bulletproof vests and blacked-out carriages: How Ukraine defies Putin to keep trains moving",
+          "url": "https://news.sky.com/story/bulletproof-vests-and-blacked-out-carriages-how-ukraine-defies-putin-to-keep-trains-moving-13582190",
+          "fuente": "Sky News World",
+          "fecha": "Sun, 06 Sep 2026 06:26:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_424e188dbe",
+          "titulo": "Tetris owner lashes out at Trump team over ‘Build the Wall’ arcade game on new White House site",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-white-house-arcade-tetris-maga-b3045254.html",
+          "fuente": "The Independent World",
+          "fecha": "Sat, 05 Sep 2026 15:35:54 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cb10c5076d",
+          "titulo": "Trump White House just tossed a grenade into international space relations",
+          "url": "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
+          "fuente": "Ars Technica",
+          "fecha": "Fri, 04 Sep 2026 15:46:33 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e79a5997a5",
+          "titulo": "The White House is making arcade games racist",
+          "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+          "fuente": "The Verge",
+          "fecha": "",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e1cee5c59e",
+          "titulo": "Putin meets with U.S. envoys at the Kremlin for renewed talks on ending the war in Ukraine",
+          "url": "https://www.cnbc.com/2026/09/05/witkoff-kushner-moscow-russia-ukraine.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Sat, 05 Sep 2026 21:38:22 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_27ca8764f6",
+          "titulo": "US envoys set for Ukraine talks after meeting Putin in Russia",
+          "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sun, 06 Sep 2026 02:24:16 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b0e6362c97",
+          "titulo": "'A bad sign': US envoys head to Kyiv after three-hour talks with Putin",
+          "url": "https://www.france24.com/en/a-bad-sign-us-envoys-head-to-kyiv-after-three-hour-talks-with-putin",
+          "fuente": "France 24 English",
+          "fecha": "Sun, 06 Sep 2026 06:18:30 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_aa3a57ea39",
+          "titulo": "War in Ukraine: Putin, Zelensky order pause in strikes",
+          "url": "https://www.france24.com/en/video/20260905-war-in-ukraine-putin-zelensky-order-pause-in-strikes",
+          "fuente": "France 24 English",
+          "fecha": "Sat, 05 Sep 2026 16:15:40 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8357f5f914",
+          "titulo": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 05 Sep 2026 21:23:06 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-06_0000",
+      "fecha": "2026-09-06",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-09-06_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Mueren dos pilotos al estrellarse un caza delante de miles de personas durante una exhibición aérea cerca de Atenas",
+        "en": "Two pilots killed in Phantom F-4 jet crash during Greek air force annual show"
+      },
+      "sintesis": {
+        "es": "El siniestro ha obligado al ministro de Defensa a cancelar su agenda oficial mientras se investigan las causas del choque y el estado de la tripulación Leer",
+        "en": "The twin seat aircraft crashed at Tanagra air base, north of Athens, during an air show, on Sunday."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Two",
+        "Greek",
+        "Phantom",
+        "Athens Flying"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 90,
+      "fuentes": [
+        "ev_94afa5aa00",
+        "ev_d3557a83aa",
+        "ev_f1dcac3a1f",
+        "ev_826b046413",
+        "ev_21fee9eb12"
+      ],
+      "cluster_id": "cl_084",
+      "imagenes": [
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/05/17886139851839.png",
+        "https://e3.365dm.com/26/09/1920x1080/skynews-plane-greece_7342510.jpg?20260905200926",
+        "https://static.independent.co.uk/2026/09/05/15/2293099887..?width=1200&auto=webp&crop=3%3A2"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_94afa5aa00",
+          "titulo": "Athens Flying Week, mueren dos 2 pilotos tras estrellarse un F-4 Phantom",
+          "url": "http://es.euronews.com/my-europe/2026/09/05/athens-flying-week-mueren-dos-2-pilotos-tras-estrellarse-un-f-4-phantom",
+          "fuente": "Euronews Espanol",
+          "fecha": "Sat, 05 Sep 2026 17:27:04 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d3557a83aa",
+          "titulo": "Mueren dos pilotos al estrellarse un caza delante de miles de personas durante una exhibición aérea cerca de Atenas",
+          "url": "https://www.elmundo.es/internacional/2026/09/05/6a9c159afdddffca0d8b4591.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sat, 05 Sep 2026 17:04:47 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f1dcac3a1f",
+          "titulo": "Two pilots killed in Phantom F-4 jet crash during Greek air force annual show",
+          "url": "http://www.euronews.com/my-europe/2026/09/05/two-pilots-killed-in-phantom-f-4-jet-crash-during-greek-air-force-annual-show",
+          "fuente": "Euronews English",
+          "fecha": "Sat, 05 Sep 2026 20:11:07 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_826b046413",
+          "titulo": "Two pilots die in Greek military jet crash",
+          "url": "https://news.sky.com/story/two-pilots-die-in-greek-military-jet-crash-13582090",
+          "fuente": "Sky News World",
+          "fecha": "Sat, 05 Sep 2026 20:01:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_21fee9eb12",
+          "titulo": "Two killed as Greek air force jet crashes at annual air show near Athens",
+          "url": "https://www.independent.co.uk/news/world/europe/hellenic-air-force-phantom-crash-greece-b3045353.html",
+          "fuente": "The Independent World",
+          "fecha": "Sat, 05 Sep 2026 20:32:41 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-06_0001",
+      "fecha": "2026-09-06",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Una juez bloquea el último intento de Trump de limitar la ciudadanía por nacimiento",
+        "en": "Trump administration to dig at triumphal arch site despite no final federal approvals"
+      },
+      "sintesis": {
+        "es": "La juez Deborah Boardman, en una decisión de 35 páginas, paralizó hoy la aplicación de la nueva orden ejecutiva señalando que \"es casi con toda certeza inconstitucional\" porque el Supremo \"ya decidió que los niños\" son \"ciudadanos al nacer\", y agregó que esa es \"la ley\" y \"el presidente debe seguirla\" Leer",
+        "en": "The Trump administration says it will break ground on a 250-foot triumphal arch in Washington, D.C., without final federal approval and despite an ongoing lawsuit."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Trump"
+      ],
+      "geo": {
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
+      },
+      "impacto": 87,
+      "fuentes": [
+        "ev_8871749133",
+        "ev_0802130cf2",
+        "ev_7ebc321189",
+        "ev_3b22b43f77",
+        "ev_e2eedfdb16",
+        "ev_2f12825154",
+        "ev_77f4be28e4",
+        "ev_5f5b06e04a",
+        "ev_77f2ca1e87"
+      ],
+      "cluster_id": "cl_034",
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/D23IOUQMGBGBHAIQC4O2D5J56Q.JPG?auth=0ab408893bd752165d838aed5717df4588d30982a87730cb8943a79de712ad68",
+        "https://imagenes.elpais.com/resizer/v2/N5K4ASROXFEAZMK4XXGDYKOLHU.jpg?auth=053fcb2b9c87e2c7cd6ba10fde03326237f315fa559c2de7da071546854b1025",
+        "https://imagenes.elpais.com/resizer/v2/DM3YNMWLY5PILKRX3EH7PZEJ4I.jpg?auth=b7179a821c8a54d363b0710c16f7fddf81b404886184e94d023d7d61ceeb655c",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/05/17886319173523.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8871749133",
+          "titulo": "Canadá se atreve a plantar cara a Trump",
+          "url": "https://elpais.com/internacional/2026-09-06/canada-se-atreve-a-plantar-cara-a-trump.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Sun, 06 Sep 2026 03:30:01 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_0802130cf2",
+          "titulo": "Trump ha entendido el futuro: los videojuegos y el campo de batalla de la política",
+          "url": "https://elpais.com/internacional/2026-09-04/trump-ha-entendido-el-futuro-los-videojuegos-y-el-campo-de-batalla-de-la-politica.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Fri, 04 Sep 2026 10:46:44 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_7ebc321189",
+          "titulo": "Los republicanos, entre la espada de Trump y la pared del descontento de los votantes",
+          "url": "https://elpais.com/internacional/2026-09-06/los-republicanos-entre-la-espada-de-trump-y-la-pared-del-descontento-de-los-votantes.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Sun, 06 Sep 2026 03:30:01 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_3b22b43f77",
+          "titulo": "Los emisarios de Trump 'aterrizan' en una guerra preparada para durar",
+          "url": "https://www.elmundo.es/internacional/2026/09/06/6a9c5a9ffdddff2e3a8b4584.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sun, 06 Sep 2026 08:30:19 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_e2eedfdb16",
+          "titulo": "Una juez bloquea el último intento de Trump de limitar la ciudadanía por nacimiento",
+          "url": "https://www.elmundo.es/internacional/2026/09/03/6a9908fde4d4d8a7078b457f.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Thu, 03 Sep 2026 07:44:44 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_2f12825154",
+          "titulo": "Trump signs order to remove endangered species protection for grey wolves",
+          "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sat, 05 Sep 2026 09:12:48 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_77f4be28e4",
+          "titulo": "Trump administration to dig at triumphal arch site despite no final federal approvals",
+          "url": "https://www.npr.org/2026/09/05/nx-s1-5957875/trump-administration-to-dig-at-triumphal-arch-site-despite-no-final-federal-approvals",
+          "fuente": "NPR News",
+          "fecha": "Sat, 05 Sep 2026 07:43:24 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5f5b06e04a",
+          "titulo": "Trump team must give 48 hours notice before starting construction on DC arch, judge rules",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-arch-construction-washington-dc-b3045326.html",
+          "fuente": "The Independent World",
+          "fecha": "Sat, 05 Sep 2026 18:42:35 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_77f2ca1e87",
+          "titulo": "Trump admin targets tax-exempt status at private colleges — threatening a key tax break for donations",
+          "url": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Fri, 04 Sep 2026 12:15:44 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-06_0002",
+      "fecha": "2026-09-06",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-09-06_0000"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Reino Unido: el partido antiinmigración Reform UK quiere aprovechar su congreso para volver a movilizarse",
+        "en": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands"
+      },
+      "sintesis": {
+        "es": "El partido de extrema derecha Reform UK se reúne en Birmingham, en el centro de Inglaterra, tras un verano bastante desastroso. El partido y su líder, Nigel Farage, están acusados de haber recibido donaciones financieras poco transparentes; de hecho, este último se ha impuesto un silencio total ante los medios desde hace un mes, y la formación está quedando rezagada en las encuestas frente a los partidos tradicionales.",
+        "en": "US president suggests he might support his Argentinian ally’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance. “I am your retribution,” he declared to an admiring audience at the 2023 Conservative Political Action Conference (CPAC) as he commenced his march back to the White House. It is unlikely Argentina, and far-flung holdovers of the former British empire, were on the US president’s mind at the time."
+      },
+      "categoria": "geopolitica",
+      "actores": [
         "Reino Unido",
+        "Milei",
         "Malvinas",
         "Falklands"
       ],
@@ -36,27 +394,21 @@
         "lon": -63.6,
         "region": "Sudamerica"
       },
-      "impacto": 95,
+      "impacto": 83,
       "fuentes": [
         "ev_7a27ab99ea",
         "ev_5091800509",
-        "ev_8ed3fbef36",
-        "ev_5bb9ef799d",
+        "ev_88fe7cd6f8",
         "ev_9420985fa9",
         "ev_e84293388a",
-        "ev_b5064310c5",
-        "ev_d586b2c6a6",
-        "ev_ead5017797",
-        "ev_b8eaaf01ef",
-        "ev_9ad4966284",
-        "ev_05214d18a8"
+        "ev_f47d456f31"
       ],
-      "cluster_id": "cl_009",
+      "cluster_id": "cl_016",
       "imagenes": [
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b61f/live/938f32a0-a071-11f1-b109-879e35c24276.jpg",
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cced/live/05276f30-a870-11f1-bbad-43eaf67b94b6.jpg",
-        "https://imagenes.elpais.com/resizer/v2/UT3QWJBFIJD2LFMNB2VCRDGOQI.jpg?auth=9761f0e1d3dc72680ba7e6a3ea5e4e7d3d33a83f1589d2463651580c6e534683",
-        "https://s.france24.com/media/display/4e7b3dc8-a8cb-11f1-85cf-005056a90284/w:1024/p:16x9/FORMATO-1-38.png"
+        "https://s.rfi.fr/media/display/5a728f2a-a8ec-11f1-8b2b-005056bf30b7/w:1024/p:16x9/000-C7DP9VE.jpg",
+        "https://s.rfi.fr/media/display/64468dfa-a845-11f1-b93a-005056bfb2b6/w:1024/p:16x9/AP26246528405125.jpg"
       ],
       "estado": "verificado",
       "referencias": [
@@ -77,19 +429,11 @@
           "idioma": "es"
         },
         {
-          "id": "ev_8ed3fbef36",
-          "titulo": "El Reino Unido le responde a Milei y reafirma su compromiso “absoluto e inamovible” con las Malvinas",
-          "url": "https://elpais.com/argentina/2026-09-04/el-reino-unido-le-responde-a-milei-y-reafirma-su-compromiso-absoluto-e-inamovible-con-las-malvinas.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Fri, 04 Sep 2026 20:03:02 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_5bb9ef799d",
-          "titulo": "Islas Malvinas: Milei atiza el debate sobre la soberanía del archipiélago",
-          "url": "https://www.france24.com/es/video/20260905-islas-malvinas-milei-atiza-el-debate-sobre-la-soberan%C3%ADa-del-archipi%C3%A9lago",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sat, 05 Sep 2026 01:58:04 GMT",
+          "id": "ev_88fe7cd6f8",
+          "titulo": "Reino Unido: el partido antiinmigración Reform UK quiere aprovechar su congreso para volver a movilizarse",
+          "url": "https://www.rfi.fr/es/europa/20260905-reino-unido-el-partido-antiinmigraci%C3%B3n-reform-uk-quiere-aprovechar-su-congreso-para-volver-a-movilizarse",
+          "fuente": "RFI Espanol",
+          "fecha": "Sat, 05 Sep 2026 13:38:49 GMT",
           "idioma": "es"
         },
         {
@@ -109,1087 +453,332 @@
           "idioma": "es"
         },
         {
-          "id": "ev_b5064310c5",
-          "titulo": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-          "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 04 Sep 2026 11:54:51 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d586b2c6a6",
-          "titulo": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
-          "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 04 Sep 2026 09:31:52 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ead5017797",
-          "titulo": "UK hits back at Argentinian Falklands claim and insists islands remain British",
-          "url": "https://www.theguardian.com/uk-news/2026/sep/04/uk-ministers-hit-back-argentinian-falkland-islands-claim",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 04 Sep 2026 09:24:46 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b8eaaf01ef",
-          "titulo": "Argentina's Milei escalates Falklands dispute as Trump questions U.S. support for Britain",
-          "url": "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Fri, 04 Sep 2026 07:50:49 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9ad4966284",
-          "titulo": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+          "id": "ev_f47d456f31",
+          "titulo": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
           "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
           "fuente": "The Guardian World",
-          "fecha": "Fri, 04 Sep 2026 20:21:52 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_05214d18a8",
-          "titulo": "Trump avoids backing UK over Falklands, saying Britain 'not there to help' in Iran",
-          "url": "https://news.sky.com/story/trump-avoids-backing-uk-over-falklands-saying-britain-not-there-to-help-in-iran-13581044",
-          "fuente": "Sky News World",
-          "fecha": "Thu, 03 Sep 2026 21:35:00 +0100",
+          "fecha": "Sat, 05 Sep 2026 22:19:40 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-05_0000",
-      "fecha": "2026-09-05",
+      "id": "nd_2026-09-06_0003",
+      "fecha": "2026-09-06",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "El partido Reform UK bajo investigación por donaciones extranjeras: Farage niega infringir la ley",
-        "en": "Farage gives speech at Reform conference after party officials suspended over donations sting – as it happened"
+        "es": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+        "en": "Egyptian TV presenter among 12 sentenced to death for drug crime"
       },
       "sintesis": {
-        "es": "Reform UK, el partido de Nigel Farage, quedó en el centro de un escándalo de financiación irregular. Una investigación encubierta reveló intentos de recibir donaciones extranjeras y financiar encuestas de forma opaca. Dos dirigentes dimitieron y la Policía británica abrió pesquisas, mientras Farage niega haber infringido la ley.",
-        "en": "This blog is now closed, you can read more on this story here British ministers have hit back after the Argentinian president said “winds of change” favourable to his country’s claim to the Falklands were “blowing around the world”, Kiran Stacey reports. The Electoral Commission has issued a statement this morning saying it is in touch with the police about the undercover investigation into Reform UK. In a statement, it said: We are considering all relevant information, in line with our regulatory remit, and we are in touch with the Met police."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Reform",
-        "Farage",
-        "Nigel Farage",
-        "Bardella"
-      ],
-      "geo": {
-        "lat": 46.6,
-        "lon": 2.2,
-        "region": "Europa"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_b967619fb5",
-        "ev_c6322dcb1f",
-        "ev_2d838e285a",
-        "ev_14d6b976ef",
-        "ev_de9f0b5f93",
-        "ev_8f14165b4c",
-        "ev_901f0a9921",
-        "ev_6eb37afd8c",
-        "ev_ca7b25d3b7"
-      ],
-      "cluster_id": "cl_056",
-      "imagenes": [
-        "https://s.france24.com/media/display/200384de-a89c-11f1-8cc8-005056bfb2b6/w:1024/p:16x9/ES-20260904-131137-131321-CS.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/04/17885252389655.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/03/17884566838723.jpg",
-        "https://i.guim.co.uk/img/media/9884b2e9f9016671fff699b1d9843d818460fde6/0_0_5880_4704/master/5880.jpg?width=140&quality=85&auto=format&fit=max&s=5ed10ed59d650953c5f00373bc665c69"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_b967619fb5",
-          "titulo": "El partido Reform UK bajo investigación por donaciones extranjeras: Farage niega infringir la ley",
-          "url": "https://www.france24.com/es/video/20260904-el-partido-reform-uk-bajo-investigaci%C3%B3n-por-donaciones-extranjeras-farage-niega-infringir-la-ley",
-          "fuente": "France 24 Espanol",
-          "fecha": "Fri, 04 Sep 2026 21:14:17 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c6322dcb1f",
-          "titulo": "Nigel Farage, atrapado en alusiones de financiación ilegal horas antes de su intervención en el congreso anual de Reform UK",
-          "url": "https://www.elmundo.es/internacional/2026/09/04/6a9aba54e4d4d8e9018b4571.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 04 Sep 2026 14:42:07 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_2d838e285a",
-          "titulo": "Farage celebra el congreso de Reform UK estancado en los sondeos y con sus rivales al alza",
-          "url": "https://www.elmundo.es/internacional/2026/09/03/6a99aeb2e85eceff118b45af.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 03 Sep 2026 19:32:56 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_14d6b976ef",
-          "titulo": "Farage seeks to shore up damaged leadership as scandal engulfs Reform conference",
-          "url": "https://www.theguardian.com/politics/2026/sep/04/nigel-farage-seeks-shore-up-damaged-reform-leadership-scandal-engulfs-party-conference",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 04 Sep 2026 18:16:10 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_de9f0b5f93",
-          "titulo": "Farage gives speech at Reform conference after party officials suspended over donations sting – as it happened",
-          "url": "https://www.theguardian.com/politics/live/2026/sep/04/reform-uk-donations-nigel-farage-james-orr-dan-jukes-channel-4-investigation-conference-jordan-bardella-latest-news-updates",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 04 Sep 2026 17:02:25 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8f14165b4c",
-          "titulo": "Two senior Reform UK officials resign as Farage faces fresh foreign donations scandal",
-          "url": "https://www.france24.com/en/europe/20260905-two-senior-reform-uk-officials-resign-as-farage-faces-fresh-foreign-donations-scandal",
-          "fuente": "France 24 English",
-          "fecha": "Sat, 05 Sep 2026 06:30:29 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_901f0a9921",
-          "titulo": "Nigel Farage to Speak at Reform UK Conference Amid Scrutiny Over Party Finances",
-          "url": "https://www.nytimes.com/2026/09/04/world/europe/farage-reform-uk-conference-donations.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 04 Sep 2026 19:35:50 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6eb37afd8c",
-          "titulo": "Bardella signs pact with Farage to stop small boat crossings 'forever'",
-          "url": "http://www.euronews.com/my-europe/2026/09/04/bardella-signs-pact-with-farage-to-stop-small-boat-crossings-forever",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 04 Sep 2026 18:24:28 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ca7b25d3b7",
-          "titulo": "Bardella to meet with Farage at Reform party conference in Birmingham, as part of international tour",
-          "url": "http://www.euronews.com/my-europe/2026/09/04/bardella-to-meet-with-farage-at-reform-party-conference-in-birmingham-as-part-of-internati",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 04 Sep 2026 11:48:43 +0200",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-05_0001",
-      "fecha": "2026-09-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-05_0002",
-        "nd_2026-09-05_0009"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Giorgia Meloni bate el récord de longevidad al frente de un gobierno italiano",
-        "en": "'Italian opposition fragmented: No alternative leader, no other possible leader than Giorgia Meloni'"
-      },
-      "sintesis": {
-        "es": "A partir de este viernes, el gobierno de Giorgia Meloni es el más longevo de los 80 años de historia de la República italiana: 1.413 días, es decir, casi cuatro años. Sobre las claves de este hito, el informe de nuestro corresponsal en Roma, Federico Guiglia.",
-        "en": "Alison Sargent is pleased to welcome Political analyst Lorenzo Pregliasco, co-founder of polling agency YouTrend and adjunct professor at the University of Bologna. He argues that Giorgia Meloni’s unusual longevity in office is best understood not simply as a record of political strength, but as the product of a carefully calibrated governing strategy. Meloni has maintained stability partly by avoiding structural reforms disruptive enough to mobilize multiple constituencies against her at once."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Giorgia Meloni",
-        "Meloni",
-        "Gobierno",
-        "Italian"
-      ],
-      "geo": {
-        "lat": 41.9,
-        "lon": 12.6,
-        "region": "Europa"
-      },
-      "impacto": 91,
-      "fuentes": [
-        "ev_f62ebd8948",
-        "ev_1592219a51",
-        "ev_5a9a222475",
-        "ev_d5e35371b5",
-        "ev_97a6a3d554",
-        "ev_4101eccb60",
-        "ev_4eb377c2ed"
-      ],
-      "cluster_id": "cl_064",
-      "imagenes": [
-        "https://s.rfi.fr/media/display/c92d5000-a84a-11f1-b8b0-005056a97e36/w:1024/p:16x9/2026-08-31T073229Z-1019194467-RC29A8AWUEQI-RTRMADP-3-ITALY-GOVERNMENT-MELONI.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/03/17884468579632.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/03/17884476791381.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/04/17885457699044.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f62ebd8948",
-          "titulo": "Giorgia Meloni bate el récord de longevidad al frente de un gobierno italiano",
-          "url": "https://www.rfi.fr/es/europa/20260904-giorgia-meloni-bate-el-r%C3%A9cord-de-longevidad-al-frente-de-un-gobierno-italiano",
-          "fuente": "RFI Espanol",
-          "fecha": "Fri, 04 Sep 2026 11:43:46 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_1592219a51",
-          "titulo": "Meloni y las claves del Gobierno más longevo de la Italia republicana",
-          "url": "https://www.elmundo.es/internacional/2026/09/03/6a999640e4d4d8f20f8b459a.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 03 Sep 2026 22:56:00 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_5a9a222475",
-          "titulo": "El giro moderado de Giorgia Meloni",
-          "url": "https://www.elmundo.es/internacional/2026/09/04/6a9984f7e4d4d8a7078b459c.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 04 Sep 2026 00:12:32 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_d5e35371b5",
-          "titulo": "Giorgia Meloni celebra su longevidad en el Gobierno: \"La estabilidad es la gran reforma que hemos regalado a esta nación\"",
-          "url": "https://www.elmundo.es/internacional/2026/09/04/6a9b08ddfdddff7d6d8b456f.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 04 Sep 2026 20:16:42 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_97a6a3d554",
-          "titulo": "'Italian opposition fragmented: No alternative leader, no other possible leader than Giorgia Meloni'",
-          "url": "https://www.france24.com/en/video/20260904-italian-opposition-fragmented-no-alternative-leader-no-other-possible-leader-than-giorgia-meloni-1",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 04 Sep 2026 15:35:05 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4101eccb60",
-          "titulo": "Meloni marks government longevity at Bari rally with 2027 vote in sight",
-          "url": "http://www.euronews.com/2026/09/04/meloni-marks-government-longevity-at-bari-rally-with-2027-vote-in-sight",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 04 Sep 2026 21:47:40 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4eb377c2ed",
-          "titulo": "Meloni celebrates her Italian government's longevity during party rally in Bari",
-          "url": "https://www.independent.co.uk/news/world/europe/giorgia-meloni-bari-silvio-berlusconi-italian-rome-b3045012.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 04 Sep 2026 18:44:01 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-05_0002",
-      "fecha": "2026-09-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-05_0001",
-        "nd_2026-09-05_0009"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Trump califica el conflicto con Irán como \"small potatoes\" (algo menor) y coincide con Vance en que no es una \"guerra\"",
-        "en": "Trump downplays war with Iran, in which 18 US service members have been killed so far, as ‘small potatoes’ – as it happened"
-      },
-      "sintesis": {
-        "es": "\"Yo no lo llamaría una guerra\", ha asegurado el mandatario Leer",
-        "en": "This live blog is now closed. Sign up for US Breaking News emails President Trump threatened in a social media post on Friday to stop trade with some countries unless the US Federal Reserve moves to cut interest rates. Trump cited August’s strong jobs report as sufficient justification to lower rates, and warned that, if the central bank didn’t go along, he’d halt trade between the US and any nations with which it maintains a trade deficit."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Trump",
-        "Iran",
-        "Vance",
-        "Fed"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 91,
-      "fuentes": [
-        "ev_a85e2c2a95",
-        "ev_88626ecc9b",
-        "ev_889f5eb00a",
-        "ev_ae967af7b0",
-        "ev_31502583e1",
-        "ev_fc9927e907",
-        "ev_48641f17d3",
-        "ev_c8de8b2d93",
-        "ev_1988085069",
-        "ev_37557f4c2f",
-        "ev_fb696fbce8",
-        "ev_f429f35f9f",
-        "ev_c17ae20079"
-      ],
-      "cluster_id": "cl_146",
-      "imagenes": [
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/04/17885541124000.jpg",
-        "https://i.guim.co.uk/img/media/adea61021f59162ff2a2ff1fc97d0234b8917a35/526_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=d790e83af40fc70cf83f9843262a38b1",
-        "https://static01.nyt.com/images/2026/09/02/multimedia/02dc-prexy-wvkg/02dc-prexy-wvkg-mediumSquareAt3X.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a255/live/6ee62f30-a882-11f1-824a-0fc4c5d895ae.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_a85e2c2a95",
-          "titulo": "Trump califica el conflicto con Irán como \"small potatoes\" (algo menor) y coincide con Vance en que no es una \"guerra\"",
-          "url": "https://www.elmundo.es/internacional/2026/09/04/6a9b2b4afc6c833b478b45b7.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 04 Sep 2026 22:36:38 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_88626ecc9b",
-          "titulo": "Trump downplays war with Iran, in which 18 US service members have been killed so far, as ‘small potatoes’ – as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2026/sep/04/missouri-supreme-court-congressional-district-map-mail-in-voting-us-canada-trade-war-executive-orders-latest-news-updates",
-          "fuente": "The Guardian World",
-          "fecha": "Sat, 05 Sep 2026 02:15:18 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_889f5eb00a",
-          "titulo": "Trump doubles down on threat to halt trade with top partners unless Fed cuts rates",
-          "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Fri, 04 Sep 2026 19:48:08 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ae967af7b0",
-          "titulo": "‘Small potatoes’: US President Trump downplays war on Iran",
-          "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 04 Sep 2026 23:55:50 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_31502583e1",
-          "titulo": "Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again",
-          "url": "https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html",
-          "fuente": "NYT World",
-          "fecha": "Wed, 02 Sep 2026 19:56:53 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_fc9927e907",
-          "titulo": "¿Cómo podría terminar la guerra de EE.UU. contra Irán? 3 expertos dan su opinión",
-          "url": "https://www.bbc.com/mundo/articles/cwyzqr7v4n4o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Fri, 04 Sep 2026 23:19:39 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_48641f17d3",
-          "titulo": "Trump gets testy and calls Iran war ‘small potatoes’ when pressed on length of fight",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-war-small-potatoes-length-timeline-b3045133.html",
-          "fuente": "The Independent World",
-          "fecha": "Sat, 05 Sep 2026 07:11:12 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c8de8b2d93",
-          "titulo": "US airman’s widow was told Iran conflict ‘is not technically a war’ in battle over benefits",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/airman-widow-trump-iran-war-b3045053.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 04 Sep 2026 21:04:12 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1988085069",
-          "titulo": "Trump admits he is putting his name on everything because nobody will after he’s ‘gone’",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-name-white-house-ballroom-dc-arch-b3044990.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 04 Sep 2026 19:08:22 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_37557f4c2f",
-          "titulo": "Trump threatens to stop trade with other countries if the US doesn’t lower its own interest rates",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-threat-trade-fed-interest-rates-b3044886.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 04 Sep 2026 15:33:07 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_fb696fbce8",
-          "titulo": "US military disables ad trackers as data emerges as growing threat in Iran war",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/us-military-ad-trackers-iran-war-b3044820.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 04 Sep 2026 14:15:02 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f429f35f9f",
-          "titulo": "Trump claims he is ‘saving’ the UK from a nuclear attack by waging war on Iran",
-          "url": "https://www.independent.co.uk/news/uk/politics/trump-saving-uk-nuclear-attack-iran-war-b3044685.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 04 Sep 2026 10:36:11 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-05_0003",
-      "fecha": "2026-09-05",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Inteligencia artificial: Nvidia comprará la plataforma de Hugging Face por USD 12.900 millones",
-        "en": "AI's 'warning shot': Tech companies, experts raise fears of more rogue swarms after alarming Hugging Face hack"
-      },
-      "sintesis": {
-        "es": "El gigante de los semiconductores Nvidia adquirirá la plataforma de inteligencia artificial Hugging Face por un monto de 12.900 millones de dólares, anunció este 3 de septiembre la compañía en un comunicado.",
-        "en": "Tech experts are warning of dire consequences if AI systems continue to escape human control, after a group of OpenAI agents went rogue in July and hacked into a billion-dollar company — what some are calling a \"warning shot\" amid the rapid development of artificial intelligence."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Hugging Face",
-        "Nvidia",
-        "OpenAI",
-        "German"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 86,
-      "fuentes": [
-        "ev_9323488f55",
-        "ev_d3c8f87f9a",
-        "ev_2d3ce26615",
-        "ev_f203fcf128",
-        "ev_5579d2843a",
-        "ev_259a7e2167"
-      ],
-      "cluster_id": "cl_078",
-      "imagenes": [
-        "https://s.rfi.fr/media/display/6250404e-9cde-11f1-bb21-005056bfb2b6/w:1024/p:16x9/2026-08-20T172544Z-2114380371-RC2QRLA53G3J-RTRMADP-3-USA-CHINA-NVIDIA.jpg",
-        "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/master/pass/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_9323488f55",
-          "titulo": "Inteligencia artificial: Nvidia comprará la plataforma de Hugging Face por USD 12.900 millones",
-          "url": "https://www.rfi.fr/es/sociedad/20260903-inteligencia-artificial-nvidia-comprar%C3%A1-la-plataforma-de-hugging-face-por-usd-12-900-millones",
-          "fuente": "RFI Espanol",
-          "fecha": "Thu, 03 Sep 2026 15:37:28 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_d3c8f87f9a",
-          "titulo": "OpenAI agents hijacked German website in AI breakout that predates Hugging Face incident, researchers say",
-          "url": "https://www.cbc.ca/news/world/openai-hijacked-german-website-swarm-rogue-message-board-9.7332658?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 04 Sep 2026 13:08:08 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2d3ce26615",
-          "titulo": "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring: Reuters",
-          "url": "https://www.cnbc.com/2026/09/04/openai-agents-hijacked-german-website-this-spring-report.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Fri, 04 Sep 2026 12:47:12 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f203fcf128",
-          "titulo": "AI's 'warning shot': Tech companies, experts raise fears of more rogue swarms after alarming Hugging Face hack",
-          "url": "https://www.cbc.ca/news/world/open-ai-hugging-face-hack-warning-shot-9.7331459?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 04 Sep 2026 04:00:00 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5579d2843a",
-          "titulo": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
-          "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
-          "fuente": "WIRED",
-          "fecha": "Thu, 03 Sep 2026 12:43:09 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_259a7e2167",
-          "titulo": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
-          "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Fri, 04 Sep 2026 11:31:30 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-05_0004",
-      "fecha": "2026-09-05",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Judge declares mistrial in Lindsay Clancy’s murder trial after emergency appeal denied",
-        "en": "Judge declares mistrial in Lindsay Clancy’s murder trial after emergency appeal denied"
-      },
-      "sintesis": {
-        "es": "The judge in Lindsay Clancy’s murder trial has officially declared a mistrial after the defence’s eleventh-hour emergency appeal was denied, bringing this chapter of the case that has captivated spectators to a dramatic close.",
-        "en": "The judge in Lindsay Clancy’s murder trial has officially declared a mistrial after the defence’s eleventh-hour emergency appeal was denied, bringing this chapter of the case that has captivated spectators to a dramatic close."
+        "es": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drug case, official media reported on Saturday. The presenter, Sarah Khalifa, 39, is best known for her programme Mission Impossible, which dealt with issues concerning security and crime. Continue reading...",
+        "en": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugs An Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling drug case, official media reported on Saturday. The presenter, Sarah Khalifa, 39, is best known for her programme Mission Impossible, which dealt with issues concerning security and crime. Continue reading..."
       },
       "categoria": "salud",
       "actores": [
-        "Lindsay Clancy",
-        "Judge",
-        "Mistrial",
-        "Key"
+        "Egyptian",
+        "Egypt",
+        "Sarah Khalifa",
+        "Mission Impossible"
       ],
       "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 83,
-      "fuentes": [
-        "ev_0386c3a8a4",
-        "ev_8fb0d37b90",
-        "ev_b93d11d3df",
-        "ev_fba809c540",
-        "ev_58b82e93b0",
-        "ev_73abba9d9d",
-        "ev_e9dc78728a",
-        "ev_302a75484f",
-        "ev_97fd9778fe",
-        "ev_3a7bc143bc"
-      ],
-      "cluster_id": "cl_167",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
-        "https://static.independent.co.uk/2026/09/05/00/Lindsay_Clancy_Trial_47573.jpg?width=1200&auto=webp&crop=3%3A2",
-        "https://static.independent.co.uk/2026/09/04/15/38/AP26247504215747.jpg?width=1200&auto=webp&trim=0%2C122%2C0%2C121",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737f/live/484b4750-a802-11f1-aed2-8d6da8d75094.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_0386c3a8a4",
-          "titulo": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-          "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 04 Sep 2026 22:48:38 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8fb0d37b90",
-          "titulo": "Judge declares mistrial in Lindsay Clancy children’s murder case",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/judge-declares-mistrial-in-lindsay-clancy-childrens-murder-case?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sat, 05 Sep 2026 01:02:18 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b93d11d3df",
-          "titulo": "With jury deadlocked, judge declares a mistrial in Lindsay Clancy's murder case",
-          "url": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
-          "fuente": "NPR News",
-          "fecha": "Fri, 04 Sep 2026 12:20:30 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_fba809c540",
-          "titulo": "Key moments in the Lindsay Clancy case: the 911 call, mental health care, mistrial",
-          "url": "https://www.independent.co.uk/news/world/americas/mass-plymouth-massachusetts-americans-god-b3045092.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 04 Sep 2026 23:02:39 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_58b82e93b0",
-          "titulo": "Mistrial declared in Lindsay Clancy case after last-minute defense Hail Mary is denied",
-          "url": "https://www.independent.co.uk/news/world/americas/crime/lindsay-clancy-mistrial-verdict-deadlocked-hung-jury-b3042769.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 04 Sep 2026 19:06:25 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_73abba9d9d",
-          "titulo": "Judge declares mistrial in Lindsay Clancy’s murder trial after emergency appeal denied",
-          "url": "https://www.cbc.ca/news/world/lindsay-clancy-trial-jury-stuck-9.7332273?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 04 Sep 2026 10:43:30 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e9dc78728a",
-          "titulo": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
-          "url": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 04 Sep 2026 00:55:45 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_302a75484f",
-          "titulo": "Lindsay Clancy jury resumes seventh day of deliberations after courtroom clash over holdout juror",
-          "url": "https://www.independent.co.uk/news/world/americas/crime/lindsay-clancy-verdict-watch-deadlocked-jury-deliberations-b3044807.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 04 Sep 2026 15:07:38 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_97fd9778fe",
-          "titulo": "Judge lectures Lindsay Clancy jury on reasonable doubt, tells them to keep deliberating",
-          "url": "https://www.cbc.ca/news/world/lindsay-clancy-trial-deadlocked-more-deliberations-9.7331518?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Thu, 03 Sep 2026 16:05:48 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3a7bc143bc",
-          "titulo": "The Lindsay Clancy case has ended in a mistrial. What happens now?",
-          "url": "https://www.abc.net.au/news/2026-09-05/lindsay-clancy-murder-trial-declared-mistrial-what-next/107119826",
-          "fuente": "ABC News Australia",
-          "fecha": "Sat, 05 Sep 2026 04:20:41 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-05_0005",
-      "fecha": "2026-09-05",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Inundaciones devastadoras en la frontera entre Nepal y China dejan más de 1.300 muertos",
-        "en": "Devastating floods on the Nepal-China border leave over 1,300 dead"
-      },
-      "sintesis": {
-        "es": "Crecidas repentinas y corrimientos de tierra en el Himalaya, en la frontera entre Nepal y el Tíbet (China), han causado más de 1.300 muertos y cientos de desaparecidos, con comunidades aisladas y 22.000 personas sin agua potable. Las autoridades continúan operaciones de rescate en centrales hidroeléctricas y túneles, mientras la ONU y UNICEF despliegan ayuda humanitaria de emergencia ante el riesgo de nuevas riadas.",
-        "en": "Flash floods and landslides in the Himalayas along the Nepal-Tibet (China) border have killed over 1,300 people and left hundreds missing, isolating communities and leaving 22,000 people without drinking water. Authorities continue rescue operations in hydroelectric plants and tunnels while the UN and UNICEF deploy emergency humanitarian aid amid the risk of further flooding."
-      },
-      "categoria": "clima",
-      "actores": [
-        "Gobierno de Nepal",
-        "China",
-        "ONU",
-        "UNICEF",
-        "equipos de rescate"
-      ],
-      "geo": {
-        "lat": 28.3949,
-        "lon": 84.124,
-        "region": "Nepal / Tíbet, China"
-      },
-      "impacto": 78,
-      "fuentes": [
-        "ev_809993df56",
-        "ev_bd94b5c612",
-        "ev_4f12a1ab5a",
-        "ev_0d2946199a",
-        "ev_ca1cecf7bc",
-        "ev_7f0612899c"
-      ],
-      "cluster_id": "cl_022",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9a58/live/cf305410-a5e9-11f1-b109-879e35c24276.jpg",
-        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260904/1210824_071838_video_1800.mp4",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/31-08-2026-UNICEF-Nepal.jpg/image560x340cropped.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/27-08-2026-UNICEF-Nepal-floods-03.jpg/image560x340cropped.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_809993df56",
-          "titulo": "Cómo fueron los últimos minutos antes de que las inundaciones arrasaran la frontera entre Nepal y China",
-          "url": "https://www.bbc.com/mundo/articles/cqxv9xq7qy0o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Tue, 01 Sep 2026 15:44:20 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_bd94b5c612",
-          "titulo": "Nepal rescata con vida a dos trabajadores de un túnel de una central hidroeléctrica nueve días después de la riada",
-          "url": "https://elpais.com/internacional/2026-09-04/nepal-rescata-con-vida-a-dos-trabajadores-de-un-tunel-de-una-central-hidroelectrica-nueve-dias-despues-de-la-riada.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Fri, 04 Sep 2026 09:35:42 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_4f12a1ab5a",
-          "titulo": "Las inundaciones de Nepal dejan a 22.000 personas sin agua potable",
-          "url": "https://news.un.org/feed/view/es/story/2026/09/1541865",
-          "fuente": "Noticias ONU",
-          "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_0d2946199a",
-          "titulo": "Nepal: los equipos de emergencia, en alerta ante el riesgo de nuevas inundaciones",
-          "url": "https://news.un.org/feed/view/es/story/2026/08/1541847",
-          "fuente": "Noticias ONU",
-          "fecha": "Fri, 28 Aug 2026 12:00:00 +0000",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_ca1cecf7bc",
-          "titulo": "Cientos de muertos y desaparecidos tras devastadoras inundaciones en Nepal y China",
-          "url": "https://news.un.org/feed/view/es/story/2026/08/1541843",
-          "fuente": "Noticias ONU",
-          "fecha": "Thu, 27 Aug 2026 12:00:00 +0000",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_7f0612899c",
-          "titulo": "Inundaciones mortales en Nepal y China: la ONU se moviliza",
-          "url": "https://news.un.org/feed/view/es/story/2026/08/1541839",
-          "fuente": "Noticias ONU",
-          "fecha": "Wed, 26 Aug 2026 12:00:00 +0000",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-09-05_0006",
-      "fecha": "2026-09-05",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Nepal: Rescatan vivos a dos trabajadores atrapados en un túnel durante nueve días",
-        "en": "In Nepal and Tibet, Pollution on Glaciers Could Fuel More Flood Disasters"
-      },
-      "sintesis": {
-        "es": "Los equipos de rescate lograron encontrar el viernes a dos obreros con vida en un túnel del norte de Nepal, donde estaban atrapados desde el catastrófico deslave del 26 de agosto en el Himalaya.",
-        "en": "Darkened by soot from vehicles and factories, the region’s glaciers are absorbing more heat and melting at dangerous rates."
-      },
-      "categoria": "clima",
-      "actores": [
-        "Nepal",
-        "Rescatan",
-        "Tibet",
-        "Pollution"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 77,
-      "fuentes": [
-        "ev_d37a8928b7",
-        "ev_4670a303c1",
-        "ev_fe3b0fe8d1",
-        "ev_7b49a9b1c9"
-      ],
-      "cluster_id": "cl_012",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f44/live/b5f6b4c0-a86a-11f1-bbad-43eaf67b94b6.png",
-        "https://s.rfi.fr/media/display/d337319a-a83d-11f1-889e-005056bf30b7/w:1024/p:16x9/AP26247192474452.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/04/17885009461764.jpg",
-        "https://static01.nyt.com/images/2026/09/02/multimedia/02CLI-NEPAL-DIRTY-GLACIERS-01-jqgt/02CLI-NEPAL-DIRTY-GLACIERS-01-jqgt-mediumSquareAt3X.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_d37a8928b7",
-          "titulo": "El increíble rescate de dos trabajadores tras 9 días atrapados en un túnel por la avalancha en la frontera entre Nepal y Tíbet",
-          "url": "https://www.bbc.com/mundo/articles/cz9z5qdlgz3o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Fri, 04 Sep 2026 11:22:21 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_4670a303c1",
-          "titulo": "Nepal: Rescatan vivos a dos trabajadores atrapados en un túnel durante nueve días",
-          "url": "https://www.rfi.fr/es/asia-pacifico/20260904-nepal-rescatan-vivos-a-dos-trabajadores-atrapados-en-un-t%C3%BAnel-durante-nueve-d%C3%ADas",
-          "fuente": "RFI Espanol",
-          "fecha": "Fri, 04 Sep 2026 08:51:37 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_fe3b0fe8d1",
-          "titulo": "Rescatan con vida a dos trabajadores de un túnel en Nepal tras diez días atrapados por la riada",
-          "url": "https://www.elmundo.es/internacional/2026/09/04/6a9a5ba921efa032148b459f.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 04 Sep 2026 13:44:16 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_7b49a9b1c9",
-          "titulo": "In Nepal and Tibet, Pollution on Glaciers Could Fuel More Flood Disasters",
-          "url": "https://www.nytimes.com/2026/09/02/climate/pollution-soot-glaciers-melting-himalayas.html",
-          "fuente": "NYT World",
-          "fecha": "Wed, 02 Sep 2026 17:24:14 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-05_0007",
-      "fecha": "2026-09-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-05_0010"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – as it happened",
-        "en": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – as it happened"
-      },
-      "sintesis": {
-        "es": "This blog is now closed, you can read more on this story here in Magdeburg, Saxony-Anhalt Polls have suggested that the election on Sunday could yield Germany’s first-ever state government led by the far-right Alternative für Deutschland (AfD), shattering a postwar taboo and leaving minorities’ fate in the hands of a party that has promised to launch deportations “from day one”. Continue reading...",
-        "en": "This blog is now closed, you can read more on this story here in Magdeburg, Saxony-Anhalt Polls have suggested that the election on Sunday could yield Germany’s first-ever state government led by the far-right Alternative für Deutschland (AfD), shattering a postwar taboo and leaving minorities’ fate in the hands of a party that has promised to launch deportations “from day one”. Continue reading..."
-      },
-      "categoria": "innovacion",
-      "actores": [
-        "Russian",
-        "Ukraine"
-      ],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
+        "lat": 26.8,
+        "lon": 30.8,
+        "region": "Africa del Norte"
       },
       "impacto": 75,
       "fuentes": [
-        "ev_70435a1cc6",
-        "ev_e43fc084fb",
-        "ev_5fb77c3982",
-        "ev_05ed591286",
-        "ev_f2d0efbe28",
-        "ev_54152ca3b0"
+        "ev_fc15e17426",
+        "ev_ca08d5d773",
+        "ev_f9f4e52bf4",
+        "ev_cd6c10f607",
+        "ev_47cab9cada"
       ],
-      "cluster_id": "cl_200",
+      "cluster_id": "cl_137",
       "imagenes": [
-        "https://i.guim.co.uk/img/media/40369786be198a531f12b91b9d64a512923039e0/462_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=47f60e0a66efbb40256c15f84690958e",
-        "https://static.independent.co.uk/2026/09/04/11/Russia-Ukraine-War_5383_.jpg?width=1200&auto=webp&crop=3%3A2",
-        "https://static.independent.co.uk/2026/09/03/15/49/fd6528fc-d3cd-4827-bc43-a93c814daab3-copy.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
+        "https://i.guim.co.uk/img/media/2b21dab2c27129a9519848c80bdafef75e9cfea3/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0ffe8f8a5e960cde6b6c1e0d670b5152",
+        "https://static.independent.co.uk/2026/09/06/8/38/pars-france-france.jpg?width=1200&auto=webp&trim=449%2C229%2C322%2C121"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_70435a1cc6",
-          "titulo": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – as it happened",
-          "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
+          "id": "ev_fc15e17426",
+          "titulo": "TV presenter among 12 sentenced to death in Egypt drugs case",
+          "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sun, 06 Sep 2026 08:05:22 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ca08d5d773",
+          "titulo": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+          "url": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
           "fuente": "The Guardian World",
-          "fecha": "Fri, 04 Sep 2026 16:01:10 GMT",
+          "fecha": "Sat, 05 Sep 2026 18:00:15 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_e43fc084fb",
-          "titulo": "🔴 Russian drone ‘aimed directly’ at Ukraine security service HQ",
-          "url": "https://www.france24.com/en/europe/20260904-russian-drone-aimed-directly-at-ukraine-security-service-hq-zelensky-says",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 04 Sep 2026 15:07:42 GMT",
+          "id": "ev_f9f4e52bf4",
+          "titulo": "Egyptian TV presenter Sarah Khalifa sentenced to death in drugs case",
+          "url": "https://www.aljazeera.com/news/2026/9/6/egyptian-tv-presenter-sentenced-to-death-in-major-drug-case?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sun, 06 Sep 2026 07:20:37 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_5fb77c3982",
-          "titulo": "Russian attack hits Ukraine's security service headquarters",
-          "url": "https://www.cbc.ca/news/world/russia-ukraine-daytime-attack-sbu-9.7332396?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 04 Sep 2026 10:36:05 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_05ed591286",
-          "titulo": "Could an EU custodian break the long deadlock on the Russian assets?",
-          "url": "http://www.euronews.com/my-europe/2026/09/05/could-an-eu-custodian-break-the-long-deadlock-on-the-russian-assets",
-          "fuente": "Euronews English",
-          "fecha": "Sat, 05 Sep 2026 08:00:30 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f2d0efbe28",
-          "titulo": "Russian attacks kill at least 3 in Ukraine as US talks on the war are expected",
-          "url": "https://www.independent.co.uk/news/world/europe/ukraine-moscow-kyiv-vladimir-putin-white-house-b3044722.html",
+          "id": "ev_cd6c10f607",
+          "titulo": "Egyptian TV host Sarah Khalifa among 12 sentenced to death in drugs case",
+          "url": "https://www.independent.co.uk/news/world/middle-east/sarah-khalifa-egypt-sentenced-death-drugs-case-b3045441.html",
           "fuente": "The Independent World",
-          "fecha": "Fri, 04 Sep 2026 10:30:15 GMT",
+          "fecha": "Sun, 06 Sep 2026 08:36:38 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_54152ca3b0",
-          "titulo": "Russian general accused of masterminding attack on children’s hospital ‘shot in head’",
-          "url": "https://www.independent.co.uk/news/world/europe/russia-general-nikolai-varpakhovich-shot-b3044651.html",
-          "fuente": "The Independent World",
-          "fecha": "Fri, 04 Sep 2026 10:19:24 GMT",
+          "id": "ev_47cab9cada",
+          "titulo": "Mission Impossible presenter among 12 sentenced to death in Egypt",
+          "url": "https://www.abc.net.au/news/2026-09-06/sarah-khalifa-egyptian-tv-presenter-sentenced-to-death-drugs/107121306",
+          "fuente": "ABC News Australia",
+          "fecha": "Sun, 06 Sep 2026 01:49:17 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-05_0008",
-      "fecha": "2026-09-05",
+      "id": "nd_2026-09-06_0004",
+      "fecha": "2026-09-06",
       "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "What did she see? The intelligence scramble to retrace an accused spy's footsteps",
-        "en": "What did she see? The intelligence scramble to retrace an accused spy's footsteps"
+        "es": "US ambassador to Israel visits Palestinian town hit by West Bank settler violence",
+        "en": "US ambassador to Israel visits Palestinian town hit by West Bank settler violence"
       },
       "sintesis": {
-        "es": "The arrest of Canadian Biwei Zhang on espionage allegations has set off a transatlantic intelligence scramble. From NATO headquarters to Canadian and European agencies, investigators are retracing a decade of internships and government work to determine what she accessed, what may have been compromised — and whether she was working alone.",
-        "en": "The arrest of Canadian Biwei Zhang on espionage allegations has set off a transatlantic intelligence scramble. From NATO headquarters to Canadian and European agencies, investigators are retracing a decade of internships and government work to determine what she accessed, what may have been compromised — and whether she was working alone."
+        "es": "US ambassador to Israel Mike Huckabee on Saturday visited Turmus Ayya, a Palestinian town in the Israeli-occupied West Bank that has been repeatedly targeted by Israeli settler violence. Huckabee, a staunch supporter of Israel and its illegal settlements in the Palestinian territory, said that it was in the Israeli government's interests to take action against violent settlers.",
+        "en": "US ambassador to Israel Mike Huckabee on Saturday visited Turmus Ayya, a Palestinian town in the Israeli-occupied West Bank that has been repeatedly targeted by Israeli settler violence. Huckabee, a staunch supporter of Israel and its illegal settlements in the Palestinian territory, said that it was in the Israeli government's interests to take action against violent settlers."
       },
-      "categoria": "innovacion",
+      "categoria": "sociedad",
       "actores": [
-        "IFA"
+        "West Bank",
+        "Palestinian",
+        "BBC",
+        "Israel"
       ],
       "geo": {
-        "lat": 51.2,
-        "lon": 10.4,
-        "region": "Europa"
+        "lat": 31.0,
+        "lon": 34.9,
+        "region": "Oriente Medio"
       },
-      "impacto": 58,
+      "impacto": 66,
       "fuentes": [
-        "ev_d6786e9768",
-        "ev_ea8b1c4034",
-        "ev_2294aff407",
-        "ev_84cce55117"
+        "ev_375f389def",
+        "ev_e1ea4de0c8",
+        "ev_77bf3b43c9",
+        "ev_a07a92eda4"
       ],
-      "cluster_id": "cl_307",
-      "imagenes": [],
+      "cluster_id": "cl_154",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf50/live/afcc7190-a84f-11f1-a291-b542ee92de7c.jpg",
+        "https://s.france24.com/media/display/dce040ce-a91e-11f1-8989-005056a97e36/w:1024/p:16x9/2026-09-05T083710Z-194611372-RC2WCNA3NVQT-RTRMADP-3-ISRAEL-PALESTINIANS-SETTLERS-USA.jpg",
+        "https://static01.nyt.com/images/2026/09/05/multimedia/05int-westbank-huckabee-1-blzt/05int-westbank-huckabee-1-blzt-mediumSquareAt3X.jpg"
+      ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_d6786e9768",
-          "titulo": "IFA 2026: What could the home of the future look like?",
-          "url": "http://www.euronews.com/next/2026/09/04/ifa-2026-what-could-the-home-of-the-future-look-like",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 04 Sep 2026 11:54:52 +0200",
+          "id": "ev_375f389def",
+          "titulo": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+          "url": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 04 Sep 2026 12:39:05 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_ea8b1c4034",
-          "titulo": "What did she see? The intelligence scramble to retrace an accused spy's footsteps",
-          "url": "https://www.cbc.ca/news/politics/canada-china-spy-nato-intelligence-9.7331493?cmp=rss",
+          "id": "ev_e1ea4de0c8",
+          "titulo": "US ambassador to Israel visits Palestinian town hit by West Bank settler violence",
+          "url": "https://www.france24.com/en/middle-east/20260905-us-ambassador-to-israel-visits-palestinian-town-hit-by-west-bank-settler-violence",
+          "fuente": "France 24 English",
+          "fecha": "Sat, 05 Sep 2026 12:19:19 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_77bf3b43c9",
+          "titulo": "Huckabee Condemns ‘Terrorist’ Attacks on Palestinians in West Bank Town Hall",
+          "url": "https://www.nytimes.com/2026/09/05/world/middleeast/huckabee-west-bank-settler-attacks.html",
+          "fuente": "NYT World",
+          "fecha": "Sat, 05 Sep 2026 22:40:27 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a07a92eda4",
+          "titulo": "U.S. ambassador visits Palestinian town amid rise in occupied West Bank settler violence",
+          "url": "https://www.cbc.ca/news/world/us-ambassador-visits-palestinian-town-9.7333786?cmp=rss",
           "fuente": "CBC World",
-          "fecha": "Fri, 04 Sep 2026 04:00:00 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2294aff407",
-          "titulo": "The best tech and gadgets announced at IFA so far",
-          "url": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-          "fuente": "The Verge",
-          "fecha": "",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_84cce55117",
-          "titulo": "What strong jobs data means for rates — plus, an out-of-favor trade shines this week",
-          "url": "https://www.cnbc.com/2026/09/04/what-strong-jobs-data-means-for-rates-plus-an-out-of-favor-trade-shines-this-week.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Fri, 04 Sep 2026 18:51:01 GMT",
+          "fecha": "Sat, 05 Sep 2026 11:38:15 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-05_0009",
-      "fecha": "2026-09-05",
+      "id": "nd_2026-09-06_0005",
+      "fecha": "2026-09-06",
       "kardashev": "K0",
       "relaciones": [
-        "nd_2026-09-05_0001",
-        "nd_2026-09-05_0002"
+        "nd_2026-09-06_0006"
       ]
     },
     {
       "titulo": {
-        "es": "Nepal flooding deaths surpass 900 as needs climb",
-        "en": "Nepal flooding deaths surpass 900 as needs climb"
+        "es": "Israeli strikes kill four in Lebanon after alleged Hezbollah drone launch",
+        "en": "Israeli strikes kill four in Lebanon after alleged Hezbollah drone launch"
       },
       "sintesis": {
-        "es": "The confirmed death toll from Nepal’s catastrophic floods has surged to 903, with more than 4,200 still missing as rescue crews and humanitarian workers battle blocked highways to reach the hardest-hit areas, UN Spokesperson Stéphane Dujarric said on Monday.",
-        "en": "The confirmed death toll from Nepal’s catastrophic floods has surged to 903, with more than 4,200 still missing as rescue crews and humanitarian workers battle blocked highways to reach the hardest-hit areas, UN Spokesperson Stéphane Dujarric said on Monday."
+        "es": "Israeli air strikes on southern Lebanon Sunday killed four people, two of them women, the country's health ministry said. Israel's military said that the strikes were a response to an alleged Hezbollah drone launch targeting troops in the Israeli-occupied \"security zone\" in the country's south.",
+        "en": "Israeli air strikes on southern Lebanon Sunday killed four people, two of them women, the country's health ministry said. Israel's military said that the strikes were a response to an alleged Hezbollah drone launch targeting troops in the Israeli-occupied \"security zone\" in the country's south."
+      },
+      "categoria": "innovacion",
+      "actores": [
+        "Lebanon",
+        "Israeli",
+        "Hezbollah",
+        "Three"
+      ],
+      "geo": {
+        "lat": 32.4,
+        "lon": 53.7,
+        "region": "Oriente Medio"
+      },
+      "impacto": 66,
+      "fuentes": [
+        "ev_e163a4fcbc",
+        "ev_cdb1039cff",
+        "ev_0e54cb7fea",
+        "ev_4393fd12fd"
+      ],
+      "cluster_id": "cl_187",
+      "imagenes": [
+        "https://s.france24.com/media/display/2b6c4208-a9cc-11f1-97b3-005056a97e36/w:1024/p:16x9/AP26249260716697.jpg",
+        "https://static01.nyt.com/images/2026/09/03/multimedia/03INT-ISRAEL-HEZBOLLAH-cflj/03INT-ISRAEL-HEZBOLLAH-cflj-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_e163a4fcbc",
+          "titulo": "Israeli strikes kill four in Lebanon after alleged Hezbollah drone launch",
+          "url": "https://www.france24.com/en/middle-east/20260906-israeli-strikes-kill-four-in-lebanon-after-alleged-hezbollah-drone-launch",
+          "fuente": "France 24 English",
+          "fecha": "Sun, 06 Sep 2026 08:49:41 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cdb1039cff",
+          "titulo": "Three killed in Israeli strikes on Lebanon, health ministry says",
+          "url": "http://www.euronews.com/2026/09/05/three-killed-in-israeli-strikes-on-lebanon-health-ministry-says",
+          "fuente": "Euronews English",
+          "fecha": "Sat, 05 Sep 2026 11:04:04 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0e54cb7fea",
+          "titulo": "Nearly 9,000 killed in Israeli attacks on Lebanon since 2023",
+          "url": "https://www.aljazeera.com/news/2026/9/6/nearly-9000-killed-in-israeli-attacks-on-lebanon-since-2023?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sun, 06 Sep 2026 02:56:31 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4393fd12fd",
+          "titulo": "Israel Says It Cleared Tunnels to Strategic Hezbollah Fortress in Lebanon",
+          "url": "https://www.nytimes.com/2026/09/03/world/middleeast/israeli-hezbollah-lebanon.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 04 Sep 2026 01:42:02 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-06_0006",
+      "fecha": "2026-09-06",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-09-06_0005"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "How much clearcutting can nature sustain? A study determines the ecological limit for boreal forest birds",
+        "en": "How much clearcutting can nature sustain? A study determines the ecological limit for boreal forest birds"
+      },
+      "sintesis": {
+        "es": "A study led by the University of Jyväskylä in Finland evaluated, for the first time, an ecological threshold for the amount of clearcutting in boreal forests. According to the results, maintaining populations of bird species specialized in old-growth forests requires either a forest rotation period of at least 90 years on average or that approximately one-fifth of the forest area be excluded from clearcut management. The study provides a concrete target for the ecologically sustainable use of forests.",
+        "en": "A study led by the University of Jyväskylä in Finland evaluated, for the first time, an ecological threshold for the amount of clearcutting in boreal forests. According to the results, maintaining populations of bird species specialized in old-growth forests requires either a forest rotation period of at least 90 years on average or that approximately one-fifth of the forest area be excluded from clearcut management. The study provides a concrete target for the ecologically sustainable use of forests."
       },
       "categoria": "salud",
       "actores": [
-        "Nepal",
-        "Mounting"
+        "Views"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 57,
+      "impacto": 62,
       "fuentes": [
-        "ev_c7c995d44e",
-        "ev_0136c237f3",
-        "ev_e07dcc0fbf",
-        "ev_34b8610e57",
-        "ev_5b781ef825",
-        "ev_178037d074",
-        "ev_9fd47728ed"
+        "ev_fcb9e168f1",
+        "ev_b0531b7eb7",
+        "ev_0a59d2c87a",
+        "ev_c5bb881431",
+        "ev_40794a4405"
       ],
-      "cluster_id": "cl_174",
+      "cluster_id": "cl_202",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5561/live/dbe464c0-a87e-11f1-a291-b542ee92de7c.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490f/live/cf76c760-a864-11f1-aed2-8d6da8d75094.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc63/live/61693130-a806-11f1-a291-b542ee92de7c.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/28-08-2026-UNICEF-Nepal-floods-05.jpg/image560x340cropped.jpg"
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/how-much-clearcutting.jpg",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/old-man-pet-dog.jpg",
+        "https://images.mktw.net/im-87943806"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_c7c995d44e",
-          "titulo": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-          "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 04 Sep 2026 14:40:00 GMT",
+          "id": "ev_fcb9e168f1",
+          "titulo": "How do you arrest 50,000 people quietly?",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/9/6/how-do-you-arrest-50000-people-quietly?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sun, 06 Sep 2026 07:45:08 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_0136c237f3",
-          "titulo": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-          "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 04 Sep 2026 22:02:52 GMT",
+          "id": "ev_b0531b7eb7",
+          "titulo": "How much clearcutting can nature sustain? A study determines the ecological limit for boreal forest birds",
+          "url": "https://phys.org/news/2026-09-clearcutting-nature-sustain-ecological-limit.html",
+          "fuente": "Phys.org",
+          "fecha": "Sat, 05 Sep 2026 16:30:01 EDT",
           "idioma": "en"
         },
         {
-          "id": "ev_e07dcc0fbf",
-          "titulo": "Nepal says it will need billions in funding to rebuild after flash floods",
-          "url": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 04 Sep 2026 02:20:37 GMT",
+          "id": "ev_0a59d2c87a",
+          "titulo": "Views from a physician and veterinarian: How to improve barriers to pet care when owners are hospitalized",
+          "url": "https://phys.org/news/2026-09-views-physician-veterinarian-barriers-pet.html",
+          "fuente": "Phys.org",
+          "fecha": "Sat, 05 Sep 2026 14:00:04 EDT",
           "idioma": "en"
         },
         {
-          "id": "ev_34b8610e57",
-          "titulo": "'The health system in Nepal is not prepared for this'",
-          "url": "https://www.npr.org/2026/09/04/nx-s1-5954050/nepal-flood-waters-physical-mental-health",
-          "fuente": "NPR News",
-          "fecha": "Fri, 04 Sep 2026 16:41:08 -0400",
+          "id": "ev_c5bb881431",
+          "titulo": "The big business of personal protection: How private security became a $50 billion industry",
+          "url": "https://www.cnbc.com/2026/09/04/private-security-spending-crime-allied-universal.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Fri, 04 Sep 2026 14:15:04 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_5b781ef825",
-          "titulo": "UN aims to raise nearly $50 million for Nepal flood response",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168281",
-          "fuente": "UN News",
-          "fecha": "Fri, 04 Sep 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_178037d074",
-          "titulo": "Nepal floods: Mounting death toll and concern for women and girls",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168234",
-          "fuente": "UN News",
-          "fecha": "Tue, 01 Sep 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9fd47728ed",
-          "titulo": "Nepal flooding deaths surpass 900 as needs climb",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168233",
-          "fuente": "UN News",
-          "fecha": "Mon, 31 Aug 2026 12:00:00 +0000",
+          "id": "ev_40794a4405",
+          "titulo": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
+          "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Sat, 05 Sep 2026 17:00:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-05_0010",
-      "fecha": "2026-09-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-05_0007"
-      ]
+      "id": "nd_2026-09-06_0007",
+      "fecha": "2026-09-06",
+      "kardashev": "K0",
+      "relaciones": []
     },
     {
       "titulo": {
@@ -1200,33 +789,42 @@
         "es": "The US government is investigating whether the Cybercab, which lacks a steering wheel and pedals, meets vehicle safety standards.",
         "en": "The US government is investigating whether the Cybercab, which lacks a steering wheel and pedals, meets vehicle safety standards."
       },
-      "categoria": "innovacion",
+      "categoria": "tecnologia",
       "actores": [
         "Tesla",
         "Cybercab",
-        "Cybercab Officially",
-        "Launches Today"
+        "Wall Street",
+        "Cybercab Officially"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 57,
+      "impacto": 61,
       "fuentes": [
+        "ev_b420256b33",
         "ev_33a25290d6",
         "ev_db05a45f07",
         "ev_764a2dae3b",
-        "ev_c539ced4ed"
+        "ev_3a9075da9f"
       ],
-      "cluster_id": "cl_515",
+      "cluster_id": "cl_414",
       "imagenes": [
+        "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg",
         "https://media.wired.com/photos/6a9ad63d482e2501722eeac3/master/pass/GettyImages-2193378836.jpg",
-        "https://media.wired.com/photos/6a985f4fb0ecbdbb43db44df/master/pass/Tesla-CyberCab-Event-Gear-2270749481.jpg",
-        "https://images.mktw.net/im-46697140"
+        "https://media.wired.com/photos/6a985f4fb0ecbdbb43db44df/master/pass/Tesla-CyberCab-Event-Gear-2270749481.jpg"
       ],
       "estado": "verificado",
       "referencias": [
+        {
+          "id": "ev_b420256b33",
+          "titulo": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+          "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+          "fuente": "Ars Technica",
+          "fecha": "Sat, 05 Sep 2026 15:17:36 +0000",
+          "idioma": "en"
+        },
         {
           "id": "ev_33a25290d6",
           "titulo": "Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation",
@@ -1252,132 +850,351 @@
           "idioma": "en"
         },
         {
-          "id": "ev_c539ced4ed",
-          "titulo": "Tesla’s stock falls as Cybercab launch lands with a thud",
-          "url": "https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Fri, 04 Sep 2026 20:18:00 GMT",
+          "id": "ev_3a9075da9f",
+          "titulo": "We got more defensive last week as Wall Street raised the bar for AI stocks",
+          "url": "https://www.cnbc.com/2026/09/05/we-got-more-defensive-last-week-as-wall-street-raised-the-bar-for-ai-stocks.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Sat, 05 Sep 2026 16:45:14 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-05_0011",
-      "fecha": "2026-09-05",
+      "id": "nd_2026-09-06_0008",
+      "fecha": "2026-09-06",
       "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Dark matter detector finds a strange signal scientists can’t yet explain",
-        "en": "Dark matter detector finds a strange signal scientists can’t yet explain"
+        "es": "Nuevos rescates con vida diez días después de la catastrófica riada en Nepal",
+        "en": "New survivors rescued ten days after Nepal's devastating flood"
       },
       "sintesis": {
-        "es": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious event is the first hint of a long-sought dark matter particle.",
-        "en": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a discovery yet, but additional data could show whether this single mysterious event is the first hint of a long-sought dark matter particle."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "Dark",
-        "Scientists Have",
-        "Found",
-        "Most Convincing"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 52,
-      "fuentes": [
-        "ev_f22ad34f5a",
-        "ev_cfd051ff42",
-        "ev_c3b52c7a84"
-      ],
-      "cluster_id": "cl_227",
-      "imagenes": [
-        "https://media.wired.com/photos/6a98924a0e116056ac219f35/master/pass/932730082"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f22ad34f5a",
-          "titulo": "Have scientists discovered a dark matter particle?",
-          "url": "https://www.aljazeera.com/features/2026/9/5/have-scientists-discovered-a-dark-matter-particle?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sat, 05 Sep 2026 07:13:23 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_cfd051ff42",
-          "titulo": "Dark matter detector finds a strange signal scientists can’t yet explain",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Fri, 04 Sep 2026 02:46:01 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c3b52c7a84",
-          "titulo": "Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle",
-          "url": "https://www.wired.com/story/scientists-find-most-convincing-evidence-yet-dark-matter-particle/",
-          "fuente": "WIRED",
-          "fecha": "Thu, 03 Sep 2026 11:30:00 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-05_0012",
-      "fecha": "2026-09-05",
-      "kardashev": "K3",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "La cantante afgana Aryana Sayeed desafía a los talibanes con una gira europea",
-        "en": "Ladies Only: Afghan pop star Aryana Sayeed takes on Taliban with European tour"
-      },
-      "sintesis": {
-        "es": "Aryana Sayeed, una de las mayores estrellas del pop de Afganistán, inicia una gira europea solo para mujeres. Busca aprovechar su fama para unir a las afganas y alzar la voz por los derechos de las mujeres.",
-        "en": "Aryana Sayeed, one of Afghanistan’s biggest pop stars, is kicking off a women-only European tour, using her platform to bring Afghan women together and speak out for women’s rights."
+        "es": "Diez días después del deslave de hielo, piedra y barro que mató a más de 1.300 personas en Nepal y el Tíbet el 26 de agosto, dos personas más fueron rescatadas con vida: un trabajador chino atrapado en un túnel de la central hidroeléctrica Trishuli y una mujer de 64 años sepultada bajo lodo en su vivienda en Nuwakot. Estos rescates se suman a otros dos ocurridos un día antes, dando esperanza a las labores de búsqueda mientras más de 5.000 personas continúan desaparecidas. La catástrofe también dañó más del 10% de la capacidad hidroeléctrica del país, evidenciando la vulnerabilidad de la dependencia energética de Nepal en este sector.",
+        "en": "Ten days after a deadly ice, rock and mudslide killed more than 1,300 people in Nepal and Tibet on August 26, two more survivors were rescued: a Chinese worker trapped in a tunnel at the Trishuli hydropower plant and a 64-year-old woman buried under mud in her home in Nuwakot. These rescues follow two others found alive the previous day, boosting hope for ongoing search operations as more than 5,000 people remain missing. The disaster also knocked out over 10% of the country's hydropower generation capacity, exposing the vulnerability of Nepal's heavy reliance on this energy source."
       },
       "categoria": "sociedad",
       "actores": [
-        "Aryana Sayeed",
-        "Ladies Only",
-        "Afghan",
-        "Taliban"
+        "Gobierno de Nepal",
+        "equipos de rescate nepalíes",
+        "trabajador chino rescatado",
+        "central hidroeléctrica Trishuli"
+      ],
+      "geo": {
+        "lat": 28.2,
+        "lon": 85.1,
+        "region": "Nepal (Rasuwa y Nuwakot)"
+      },
+      "impacto": 58,
+      "fuentes": [
+        "ev_841eed12ef",
+        "ev_f0447e584f",
+        "ev_b2c3e3b5d0",
+        "ev_f4e93d2a9c",
+        "ev_0136c237f3"
+      ],
+      "cluster_id": "cl_056",
+      "imagenes": [
+        "https://s.france24.com/media/display/a8f031de-a937-11f1-8f4d-005056a97e36/w:1024/p:16x9/FOTO-PORTADA-NEPAL-RESCATE-CHINO.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/05/17886009940380.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c65/live/034c61b0-a830-11f1-b808-43cdd10f38ce.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490f/live/cf76c760-a864-11f1-aed2-8d6da8d75094.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_841eed12ef",
+          "titulo": "Dos nuevos rescates alientan a seguir las tareas de búsqueda, diez días después de la riada en Nepal",
+          "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260905-dos-nuevos-rescates-alientan-a-seguir-las-tareas-de-b%C3%BAsqueda-diez-d%C3%ADas-despu%C3%A9s-de-la-riada-en-nepal",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sat, 05 Sep 2026 15:28:44 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f0447e584f",
+          "titulo": "Nepal, dos personas rescatadas con vida 10 días después de las inundaciones",
+          "url": "http://es.euronews.com/2026/09/05/nepal-dos-personas-rescatadas-con-vida-10-dias-despues-de-las-inundaciones",
+          "fuente": "Euronews Espanol",
+          "fecha": "Sat, 05 Sep 2026 14:26:57 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_b2c3e3b5d0",
+          "titulo": "Un chino y una mujer de 64 años, rescatados vivos en Nepal en el undécimo día tras riada",
+          "url": "https://www.elmundo.es/internacional/2026/09/05/6a9be11dfc6c83794b8b45ba.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sat, 05 Sep 2026 11:37:08 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f4e93d2a9c",
+          "titulo": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+          "url": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 04 Sep 2026 12:30:56 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0136c237f3",
+          "titulo": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+          "url": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sat, 05 Sep 2026 14:07:38 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-06_0009",
+      "fecha": "2026-09-06",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Brote de sarampión en Bangladesh se acerca a las 1,000 muertes infantiles",
+        "en": "Measles outbreak in Bangladesh nears 1,000 child deaths"
+      },
+      "sintesis": {
+        "es": "Bangladesh enfrenta su brote de sarampión más mortal en décadas, con hospitales saturados de niños y bebés afectados y un saldo cercano a las mil muertes infantiles en seis meses. Las autoridades sanitarias señalan que la desnutrición y la escasez de alimentos agravan la crisis, mientras trabajan para contener la epidemia.",
+        "en": "Bangladesh is facing its deadliest measles outbreak in decades, with hospitals overwhelmed by sick children and infants and a death toll nearing 1,000 over six months. Health authorities point to malnutrition and food shortages as key factors worsening the crisis while efforts continue to control the outbreak."
+      },
+      "categoria": "salud",
+      "actores": [
+        "Gobierno de Bangladesh",
+        "Ministerio de Salud de Bangladesh",
+        "Niños y familias afectadas"
+      ],
+      "geo": {
+        "lat": 23.685,
+        "lon": 90.3563,
+        "region": "Bangladesh"
+      },
+      "impacto": 58,
+      "fuentes": [
+        "ev_254177df03",
+        "ev_b367cda169"
+      ],
+      "cluster_id": "cl_059",
+      "imagenes": [
+        "https://s.france24.com/media/display/065014be-a935-11f1-867a-005056bfb2b6/w:1024/p:16x9/ES-20260905-073655-073845-CS.jpg",
+        "https://s.france24.com/media/display/63bb68a0-a918-11f1-8bc3-005056bfb2b6/w:1024/p:16x9/EN-20260905-120523-120708-CS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_254177df03",
+          "titulo": "Bangladesh: hospitales saturados por epidemia de sarampión que ha afectado principalmente a niños",
+          "url": "https://www.france24.com/es/video/20260905-bangladesh-hospitales-saturados-por-epidemia-de-sarampi%C3%B3n-que-ha-afectado-principalmente-a-ni%C3%B1os",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sat, 05 Sep 2026 14:35:57 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_b367cda169",
+          "titulo": "Bangladesh measles toll nears grim 1,000-child mark",
+          "url": "https://www.france24.com/en/video/20260905-bangladesh-measles-toll-nears-grim-1-000-child-mark",
+          "fuente": "France 24 English",
+          "fecha": "Sat, 05 Sep 2026 12:18:42 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-06_0010",
+      "fecha": "2026-09-06",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Suspensión masiva de vuelos en el principal aeropuerto de Indonesia por la erupción de un volcán",
+        "en": "Indonesia’s most dangerous fires are burning underground"
+      },
+      "sintesis": {
+        "es": "El monte Anak Krakatoa es un volcán activo situado en el estrecho de Sonda, entre las islas de Java y Sumatra.",
+        "en": "Indonesia’s dangerous peat fires are surging early in the 2026 fire season as a strengthening El Niño and severe drought dry out wetlands that can burn underground for months. These slow smoldering fires are especially destructive because they release far more fine particles and several pollutants than typical tropical forest fires, while thick smoke can make them difficult for satellites to detect."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Indonesia"
+      ],
+      "geo": {
+        "lat": -0.8,
+        "lon": 113.9,
+        "region": "Sudeste Asiatico"
+      },
+      "impacto": 57,
+      "fuentes": [
+        "ev_46291e66ed",
+        "ev_0e77786ecf",
+        "ev_992e91a157"
+      ],
+      "cluster_id": "cl_076",
+      "imagenes": [
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/a-handout-photo-from-t.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_46291e66ed",
+          "titulo": "Suspensión masiva de vuelos en el principal aeropuerto de Indonesia por la erupción de un volcán",
+          "url": "http://es.euronews.com/2026/09/06/suspension-masiva-de-vuelos-en-el-principal-aeropuerto-de-indonesia-por-la-erupcion-de-un-",
+          "fuente": "Euronews Espanol",
+          "fecha": "Sun, 06 Sep 2026 09:25:08 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_0e77786ecf",
+          "titulo": "Indonesia’s most dangerous fires are burning underground",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Sun, 06 Sep 2026 03:57:45 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_992e91a157",
+          "titulo": "Indonesia rescues second orangutan mother and baby from wildfire",
+          "url": "https://phys.org/news/2026-09-indonesia-orangutan-mother-baby-wildfire.html",
+          "fuente": "Phys.org",
+          "fecha": "Sat, 05 Sep 2026 06:40:01 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-06_0011",
+      "fecha": "2026-09-06",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "OpenAI admits to German wiki ‘incident’",
+        "en": "OpenAI admits to German wiki ‘incident’"
+      },
+      "sintesis": {
+        "es": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote […]",
+        "en": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote […]"
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Hugging Face",
+        "OpenAI",
+        "German",
+        "Tech"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 49,
+      "impacto": 57,
       "fuentes": [
-        "ev_6aa76bc118",
-        "ev_83c35836a8"
+        "ev_d3c8f87f9a",
+        "ev_c3d244756f",
+        "ev_f203fcf128",
+        "ev_5579d2843a"
       ],
-      "cluster_id": "cl_110",
-      "imagenes": [],
+      "cluster_id": "cl_306",
+      "imagenes": [
+        "https://media.wired.com/photos/6a906df0a8a32784cdb5c100/master/pass/Nvidia-Throws-Major-Weight-Behind-Open-Weights-Business-2286326275.jpg"
+      ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_6aa76bc118",
-          "titulo": "La cantante afgana Aryana Sayeed desafía a los talibanes con una gira europea",
-          "url": "http://es.euronews.com/cultura/2026/09/04/gira-europea-solo-para-mujeres-la-estrella-afgana-aryana-sayeed-desafia-a-los-talibanes",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 04 Sep 2026 15:52:41 +0200",
-          "idioma": "es"
+          "id": "ev_d3c8f87f9a",
+          "titulo": "OpenAI agents hijacked German website in AI breakout that predates Hugging Face incident, researchers say",
+          "url": "https://www.cbc.ca/news/world/openai-hijacked-german-website-swarm-rogue-message-board-9.7332658?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 04 Sep 2026 13:08:08 EDT",
+          "idioma": "en"
         },
         {
-          "id": "ev_83c35836a8",
-          "titulo": "Ladies Only: Afghan pop star Aryana Sayeed takes on Taliban with European tour",
-          "url": "http://www.euronews.com/culture/2026/09/04/ladies-only-afghan-pop-star-aryana-sayeed-takes-on-taliban-with-european-tour",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 04 Sep 2026 15:50:31 +0200",
+          "id": "ev_c3d244756f",
+          "titulo": "OpenAI admits to German wiki ‘incident’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+          "fuente": "The Verge",
+          "fecha": "",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f203fcf128",
+          "titulo": "AI's 'warning shot': Tech companies, experts raise fears of more rogue swarms after alarming Hugging Face hack",
+          "url": "https://www.cbc.ca/news/world/open-ai-hugging-face-hack-warning-shot-9.7331459?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 04 Sep 2026 04:00:00 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5579d2843a",
+          "titulo": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+          "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+          "fuente": "WIRED",
+          "fecha": "Thu, 03 Sep 2026 12:43:09 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-05_0013",
-      "fecha": "2026-09-05",
+      "id": "nd_2026-09-06_0012",
+      "fecha": "2026-09-06",
       "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Paris hosts African Diaspora International Film Festival",
+        "en": "Paris hosts African Diaspora International Film Festival"
+      },
+      "sintesis": {
+        "es": "This weekend, Paris is hosting the 16th edition of FIFDA, the African Diaspora International Film Festival. From September 4 to 6, 15 films from 13 countries will be screened, spanning fiction and non-fiction, as well as feature-length and short films. The festival provides a space to explore how contemporary societies face and overcome wounds from the past, while giving a voice to members of African diasporas.",
+        "en": "This weekend, Paris is hosting the 16th edition of FIFDA, the African Diaspora International Film Festival. From September 4 to 6, 15 films from 13 countries will be screened, spanning fiction and non-fiction, as well as feature-length and short films. The festival provides a space to explore how contemporary societies face and overcome wounds from the past, while giving a voice to members of African diasporas."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Paris",
+        "African Diaspora",
+        "International Film",
+        "Festival"
+      ],
+      "geo": {
+        "lat": 46.6,
+        "lon": 2.2,
+        "region": "Europa"
+      },
+      "impacto": 53,
+      "fuentes": [
+        "ev_f14216a3c3",
+        "ev_bf20f67906",
+        "ev_fc95304d95"
+      ],
+      "cluster_id": "cl_194",
+      "imagenes": [
+        "https://s.france24.com/media/display/c650cd64-a92e-11f1-856a-005056a90284/w:1024/p:16x9/EN-20260904-214712-215632-CS.jpg",
+        "https://static01.nyt.com/images/2026/09/04/world/africa/04vid-maps-africa-cover-image/04vid-maps-africa-cover-image-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_f14216a3c3",
+          "titulo": "Paris hosts African Diaspora International Film Festival",
+          "url": "https://www.france24.com/en/video/20260905-paris-hosts-african-diaspora-international-film-festival",
+          "fuente": "France 24 English",
+          "fecha": "Sat, 05 Sep 2026 15:22:32 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_bf20f67906",
+          "titulo": "U.N. Approves African Proposal for a New World Map",
+          "url": "https://www.nytimes.com/2026/09/04/world/africa/world-map-projection-africa.html",
+          "fuente": "NYT World",
+          "fecha": "Sat, 05 Sep 2026 01:26:14 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_fc95304d95",
+          "titulo": "Paris drops Mercator projection: France now looks smaller on world maps",
+          "url": "http://www.euronews.com/2026/09/05/paris-drops-mercator-projection-france-now-looks-smaller-on-world-maps",
+          "fuente": "Euronews English",
+          "fecha": "Sat, 05 Sep 2026 17:16:31 +0200",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-06_0013",
+      "fecha": "2026-09-06",
+      "kardashev": "K2",
       "relaciones": []
     }
   ]

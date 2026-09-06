@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-09-05
-nodos: 42
+actualizado: 2026-09-06
+nodos: 41
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-05. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-06. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-42 nodos registrados en el periodo. Lo mas reciente: Inundaciones devastadoras en la frontera entre Nepal y China dejan más de 1.300 muertos.
+41 nodos registrados en el periodo. Lo mas reciente: Nuevos rescates con vida diez días después de la catastrófica riada en Nepal.
 
 ## Trend summary (EN)
-42 nodes recorded in the period. Most recent: Devastating floods on the Nepal-China border leave over 1,300 dead.
+41 nodes recorded in the period. Most recent: New survivors rescued ten days after Nepal's devastating flood.
 
 > [!note] Estado actual
-> Inundaciones devastadoras en la frontera entre Nepal y China dejan más de 1.300 muertos
+> Nuevos rescates con vida diez días después de la catastrófica riada en Nepal
 
-## Nodos recientes (42 en la ventana)
+## Nodos recientes (41 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-06 | 58 | K1 | Nuevos rescates con vida diez días después de la catastrófica ri |
+| 2026-09-06 | 57 | K2 | Suspensión masiva de vuelos en el principal aeropuerto de Indone |
 | 2026-09-05 | 78 | K1 | Inundaciones devastadoras en la frontera entre Nepal y China dej |
 | 2026-09-05 | 77 | K1 | Nepal: Rescatan vivos a dos trabajadores atrapados en un túnel d |
 | 2026-09-05 | 57 | K1 | Nepal flooding deaths surpass 900 as needs climb |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-02 | 95 | K2 | Nepal: más de mil muertos y dificultades para que los equipos de |
 | 2026-09-02 | 78 | K1 | Nepal: se reduce la esperanza de hallar sobrevivientes tras riad |
 | 2026-09-02 | 72 | K1 | Nepal recurre a entierros masivos tras inundaciones catastrófica |
-| 2026-09-01 | 85 | K1 | Inundaciones catastróficas por colapso glaciar en el Himalaya de |
-| 2026-09-01 | 85 | K1 | Inundaciones glaciares en Nepal y Tíbet dejan más de 1,000 muert |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-05
-nodos: 10
+actualizado: 2026-09-06
+nodos: 11
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-05. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-06. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-10 nodos registrados en el periodo. Lo mas reciente: Inteligencia artificial: Nvidia comprará la plataforma de Hugging Face por USD 12.900 millones.
+11 nodos registrados en el periodo. Lo mas reciente: OpenAI admits to German wiki ‘incident’.
 
 ## Trend summary (EN)
-10 nodes recorded in the period. Most recent: AI's 'warning shot': Tech companies, experts raise fears of more rogue swarms after alarming Hugging Face hack.
+11 nodes recorded in the period. Most recent: OpenAI admits to German wiki ‘incident’.
 
 > [!note] Estado actual
-> Inteligencia artificial: Nvidia comprará la plataforma de Hugging Face por USD 12.900 millones
+> OpenAI admits to German wiki ‘incident’
 
-## Nodos recientes (10 en la ventana)
+## Nodos recientes (11 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-06 | 57 | K0 | OpenAI admits to German wiki ‘incident’ |
 | 2026-09-05 | 86 | K1 | Inteligencia artificial: Nvidia comprará la plataforma de Huggin |
 | 2026-09-04 | 78 | K1 | Nvidia adquiere la plataforma de IA Hugging Face por 12.900 mill |
 | 2026-09-04 | 72 | K1 | OpenAI comienza el despliegue de GPT-6 Astra en medio de crecien |

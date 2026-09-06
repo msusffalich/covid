@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-09-05
-nodos: 38
+actualizado: 2026-09-06
+nodos: 36
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-05. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-06. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-38 nodos registrados en el periodo. Lo mas reciente: El partido Reform UK bajo investigación por donaciones extranjeras: Farage niega infringir la ley.
+36 nodos registrados en el periodo. Lo mas reciente: El partido Reform UK bajo investigación por donaciones extranjeras: Farage niega infringir la ley.
 
 ## Trend summary (EN)
-38 nodes recorded in the period. Most recent: Farage gives speech at Reform conference after party officials suspended over donations sting – as it happened.
+36 nodes recorded in the period. Most recent: Farage gives speech at Reform conference after party officials suspended over donations sting – as it happened.
 
 > [!note] Estado actual
 > El partido Reform UK bajo investigación por donaciones extranjeras: Farage niega infringir la ley
 
-## Nodos recientes (38 en la ventana)
+## Nodos recientes (36 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-05 | 95 | K1 | El partido Reform UK bajo investigación por donaciones extranjer |
