@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-09-06
-nodos: 36
+actualizado: 2026-09-07
+nodos: 35
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-06. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-07. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-36 nodos registrados en el periodo. Lo mas reciente: El partido Reform UK bajo investigación por donaciones extranjeras: Farage niega infringir la ley.
+35 nodos registrados en el periodo. Lo mas reciente: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
 
 ## Trend summary (EN)
-36 nodes recorded in the period. Most recent: Farage gives speech at Reform conference after party officials suspended over donations sting – as it happened.
+35 nodes recorded in the period. Most recent: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
 
 > [!note] Estado actual
-> El partido Reform UK bajo investigación por donaciones extranjeras: Farage niega infringir la ley
+> Middle East Live: Several killed in Israeli strikes in southern Lebanon
 
-## Nodos recientes (36 en la ventana)
+## Nodos recientes (35 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-07 | 83 | K0 | Middle East Live: Several killed in Israeli strikes in southern  |
 | 2026-09-05 | 95 | K1 | El partido Reform UK bajo investigación por donaciones extranjer |
 | 2026-09-05 | 91 | K1 | Trump califica el conflicto con Irán como "small potatoes" (algo |
 | 2026-09-04 | 95 | K1 | Informe desde Washington: Trump pide al Supremo desbloquear su r |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-01 | 95 | K1 | Trump amenaza con "golpear duramente a Irán" ante la reanudación |
 | 2026-08-31 | 95 | K2 | Primeros ataques de Estados Unidos contra Irán desde hace un mes |
 | 2026-08-31 | 91 | K2 | EE.UU. toma las riendas del G20 con la deuda mundial e Irán en e |
-| 2026-08-31 | 83 | K1 | Iran hostilities flare after US strike in strait of Hormuz – Mid |
 
 [[Global Brain — Inicio|← Inicio]]

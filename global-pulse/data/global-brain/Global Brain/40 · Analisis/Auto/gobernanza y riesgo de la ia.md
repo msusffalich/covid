@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-06
-nodos: 11
+actualizado: 2026-09-07
+nodos: 12
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-06. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-07. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-11 nodos registrados en el periodo. Lo mas reciente: OpenAI admits to German wiki ‘incident’.
+12 nodos registrados en el periodo. Lo mas reciente: OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk.
 
 ## Trend summary (EN)
-11 nodes recorded in the period. Most recent: OpenAI admits to German wiki ‘incident’.
+12 nodes recorded in the period. Most recent: OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk.
 
 > [!note] Estado actual
-> OpenAI admits to German wiki ‘incident’
+> OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk
 
-## Nodos recientes (11 en la ventana)
+## Nodos recientes (12 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-07 | 53 | K2 | OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk |
 | 2026-09-06 | 57 | K0 | OpenAI admits to German wiki ‘incident’ |
 | 2026-09-05 | 86 | K1 | Inteligencia artificial: Nvidia comprará la plataforma de Huggin |
 | 2026-09-04 | 78 | K1 | Nvidia adquiere la plataforma de IA Hugging Face por 12.900 mill |

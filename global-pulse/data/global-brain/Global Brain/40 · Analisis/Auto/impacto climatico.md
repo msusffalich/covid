@@ -2,30 +2,30 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-09-06
-nodos: 41
+actualizado: 2026-09-07
+nodos: 42
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-06. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-07. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-41 nodos registrados en el periodo. Lo mas reciente: Nuevos rescates con vida diez días después de la catastrófica riada en Nepal.
+42 nodos registrados en el periodo. Lo mas reciente: Suspensión masiva de vuelos en el principal aeropuerto de Indonesia por la erupción de un volcán.
 
 ## Trend summary (EN)
-41 nodes recorded in the period. Most recent: New survivors rescued ten days after Nepal's devastating flood.
+42 nodes recorded in the period. Most recent: Indonesia’s most dangerous fires are burning underground.
 
 > [!note] Estado actual
-> Nuevos rescates con vida diez días después de la catastrófica riada en Nepal
+> Suspensión masiva de vuelos en el principal aeropuerto de Indonesia por la erupción de un volcán
 
-## Nodos recientes (41 en la ventana)
+## Nodos recientes (42 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-07 | 74 | K2 | Suspensión masiva de vuelos en el principal aeropuerto de Indone |
 | 2026-09-06 | 58 | K1 | Nuevos rescates con vida diez días después de la catastrófica ri |
-| 2026-09-06 | 57 | K2 | Suspensión masiva de vuelos en el principal aeropuerto de Indone |
 | 2026-09-05 | 78 | K1 | Inundaciones devastadoras en la frontera entre Nepal y China dej |
 | 2026-09-05 | 77 | K1 | Nepal: Rescatan vivos a dos trabajadores atrapados en un túnel d |
 | 2026-09-05 | 57 | K1 | Nepal flooding deaths surpass 900 as needs climb |
