@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-07
+actualizado: 2026-09-08
 nodos: 12
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-07. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-08. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 12 nodos registrados en el periodo. Lo mas reciente: OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk.

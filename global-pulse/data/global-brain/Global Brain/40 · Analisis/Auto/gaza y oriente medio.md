@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-07
-nodos: 21
+actualizado: 2026-09-08
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-07. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-08. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-21 nodos registrados en el periodo. Lo mas reciente: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
+20 nodos registrados en el periodo. Lo mas reciente: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
 
 ## Trend summary (EN)
-21 nodes recorded in the period. Most recent: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
+20 nodes recorded in the period. Most recent: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
 
 > [!note] Estado actual
 > Middle East Live: Several killed in Israeli strikes in southern Lebanon
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-07 | 83 | K0 | Middle East Live: Several killed in Israeli strikes in southern  |

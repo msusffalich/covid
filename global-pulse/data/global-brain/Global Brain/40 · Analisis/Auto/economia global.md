@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-07
-nodos: 35
+actualizado: 2026-09-08
+nodos: 34
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-07. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-08. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-35 nodos registrados en el periodo. Lo mas reciente: Malvinas: Reino Unido reafirma que las islas “son británicas” tras el reclamo de soberanía de Milei.
+34 nodos registrados en el periodo. Lo mas reciente: Malvinas: Reino Unido reafirma que las islas “son británicas” tras el reclamo de soberanía de Milei.
 
 ## Trend summary (EN)
-35 nodes recorded in the period. Most recent: Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands.
+34 nodes recorded in the period. Most recent: Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands.
 
 > [!note] Estado actual
 > Malvinas: Reino Unido reafirma que las islas “son británicas” tras el reclamo de soberanía de Milei
 
-## Nodos recientes (35 en la ventana)
+## Nodos recientes (34 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-05 | 95 | K1 | Malvinas: Reino Unido reafirma que las islas “son británicas” tr |

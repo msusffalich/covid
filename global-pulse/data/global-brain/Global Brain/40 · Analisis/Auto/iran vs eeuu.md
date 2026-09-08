@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-09-07
-nodos: 35
+actualizado: 2026-09-08
+nodos: 33
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-07. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-08. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-35 nodos registrados en el periodo. Lo mas reciente: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
+33 nodos registrados en el periodo. Lo mas reciente: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
 
 ## Trend summary (EN)
-35 nodes recorded in the period. Most recent: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
+33 nodes recorded in the period. Most recent: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
 
 > [!note] Estado actual
 > Middle East Live: Several killed in Israeli strikes in southern Lebanon
 
-## Nodos recientes (35 en la ventana)
+## Nodos recientes (33 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-07 | 83 | K0 | Middle East Live: Several killed in Israeli strikes in southern  |
