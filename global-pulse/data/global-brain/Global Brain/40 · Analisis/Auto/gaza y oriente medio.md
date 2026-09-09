@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-08
+actualizado: 2026-09-09
 nodos: 20
 origen: global-pulse
 ---
@@ -10,20 +10,22 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-08. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-09. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
+20 nodos registrados en el periodo. Lo mas reciente: Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados Unidos reaviva el conflicto de Yemen.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
+20 nodes recorded in the period. Most recent: Canada’s retaliatory US tariffs take effect as trade dispute grows.
 
 > [!note] Estado actual
-> Middle East Live: Several killed in Israeli strikes in southern Lebanon
+> Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados Unidos reaviva el conflicto de Yemen
 
 ## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-09 | 95 | K1 | Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados U |
+| 2026-09-09 | 74 | K0 | Israel castiga a Reino Unido por liderar denuncia de colonizació |
 | 2026-09-07 | 83 | K0 | Middle East Live: Several killed in Israeli strikes in southern  |
 | 2026-09-07 | 53 | K0 | U.S. ambassador visits Palestinian town amid rise in occupied We |
 | 2026-09-06 | 66 | K0 | US ambassador to Israel visits Palestinian town hit by West Bank |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-08-29 | 85 | K1 | Irán y EE.UU. cumplen seis meses de guerra con crisis económica, |
 | 2026-08-28 | 95 | K1 | Trump vs. Irán: miles de muertes, estancamiento y asfixia económ |
 | 2026-08-25 | 53 | K0 | Israeli settler blockades part of escalating violence against Pa |
-| 2026-08-24 | 83 | K0 | Israeli settler attacks shift focus to West Bank areas under dir |
-| 2026-08-24 | 82 | K1 | ¿Por qué cuatro cometas desencadenan otra amenaza de ofensiva de |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-09-08
+actualizado: 2026-09-09
 nodos: 43
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-08. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-09. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 43 nodos registrados en el periodo. Lo mas reciente: Vigilias, luto y protestas en el decimotercer día de operaciones de búsqueda tras la riada en Nepal.

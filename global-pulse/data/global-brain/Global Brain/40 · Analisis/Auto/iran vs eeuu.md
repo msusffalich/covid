@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-09-08
-nodos: 33
+actualizado: 2026-09-09
+nodos: 34
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-08. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-09. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-33 nodos registrados en el periodo. Lo mas reciente: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
+34 nodos registrados en el periodo. Lo mas reciente: Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados Unidos reaviva el conflicto de Yemen.
 
 ## Trend summary (EN)
-33 nodes recorded in the period. Most recent: Middle East Live: Several killed in Israeli strikes in southern Lebanon.
+34 nodes recorded in the period. Most recent: Canada’s retaliatory US tariffs take effect as trade dispute grows.
 
 > [!note] Estado actual
-> Middle East Live: Several killed in Israeli strikes in southern Lebanon
+> Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados Unidos reaviva el conflicto de Yemen
 
-## Nodos recientes (33 en la ventana)
+## Nodos recientes (34 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-09 | 95 | K1 | Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados U |
+| 2026-09-09 | 95 | K1 | Arabia Saudí responde tras el mayor ataque de los hutíes a insta |
 | 2026-09-07 | 83 | K0 | Middle East Live: Several killed in Israeli strikes in southern  |
 | 2026-09-05 | 95 | K1 | El partido Reform UK bajo investigación por donaciones extranjer |
 | 2026-09-05 | 91 | K1 | Trump califica el conflicto con Irán como "small potatoes" (algo |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-02 | 95 | K1 | Expertos denuncian 223 personas asesinadas en un año por ataques |
 | 2026-09-02 | 53 | K0 | Middle East live: Iran launches retaliatory strikes after fresh  |
 | 2026-09-01 | 95 | K1 | Trump amenaza con "golpear duramente a Irán" ante la reanudación |
-| 2026-08-31 | 95 | K2 | Primeros ataques de Estados Unidos contra Irán desde hace un mes |
-| 2026-08-31 | 91 | K2 | EE.UU. toma las riendas del G20 con la deuda mundial e Irán en e |
 
 [[Global Brain — Inicio|← Inicio]]
