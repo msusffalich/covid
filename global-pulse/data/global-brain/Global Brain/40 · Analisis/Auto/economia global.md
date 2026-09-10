@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-09
-nodos: 35
+actualizado: 2026-09-10
+nodos: 37
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-09. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-10. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-35 nodos registrados en el periodo. Lo mas reciente: Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados Unidos reaviva el conflicto de Yemen.
+37 nodos registrados en el periodo. Lo mas reciente: El impacto incierto de las sanciones contra los asentamientos israelíes.
 
 ## Trend summary (EN)
-35 nodes recorded in the period. Most recent: Canada’s retaliatory US tariffs take effect as trade dispute grows.
+37 nodes recorded in the period. Most recent: Argentina to file criminal case against oil company operating in Falklands.
 
 > [!note] Estado actual
-> Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados Unidos reaviva el conflicto de Yemen
+> El impacto incierto de las sanciones contra los asentamientos israelíes
 
-## Nodos recientes (35 en la ventana)
+## Nodos recientes (37 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-10 | 95 | K2 | El impacto incierto de las sanciones contra los asentamientos is |
+| 2026-09-10 | 95 | K0 | Rubio anuncia que pedirá 45 millones de dólares al Congreso para |
+| 2026-09-10 | 79 | K0 | US bans Canadian dairy, alcohol and motorcycles as trade war esc |
 | 2026-09-09 | 95 | K1 | Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados U |
 | 2026-09-09 | 83 | K0 | Trump banning import of Canadian booze, motorcycles, other goods |
 | 2026-09-05 | 95 | K1 | Malvinas: Reino Unido reafirma que las islas “son británicas” tr |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-09-04 | 72 | K1 | Volkswagen aprueba recorte de 50.000 empleos adicionales, hasta  |
 | 2026-09-03 | 62 | K1 | UK mortgage borrowers brace for rate jump amid global bond sell- |
 | 2026-09-02 | 78 | K1 | Venezuela cede a EE.UU. el control de una quinta parte de sus re |
-| 2026-09-01 | 57 | K1 | Bailey alerta de que los nuevos modelos de IA son una amenaza pa |
-| 2026-08-31 | 91 | K2 | EE.UU. toma las riendas del G20 con la deuda mundial e Irán en e |
-| 2026-08-31 | 80 | K1 | EE.UU. y Venezuela anuncian el 'mayor acuerdo petrolero de la hi |
 
 [[Global Brain — Inicio|← Inicio]]

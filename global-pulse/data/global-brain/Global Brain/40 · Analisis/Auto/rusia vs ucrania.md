@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-09-09
-nodos: 17
+actualizado: 2026-09-10
+nodos: 18
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-09. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-10. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-17 nodos registrados en el periodo. Lo mas reciente: Directo a... Washington y la "constructiva" llamada entre Trump y Putin.
+18 nodos registrados en el periodo. Lo mas reciente: El avión de Zelenski estuvo a punto de ser alcanzado por un dron cuando se dirigía a Noruega.
 
 ## Trend summary (EN)
-17 nodes recorded in the period. Most recent: South Park creators troll Donald Trump by changing name of show to 'South America'.
+18 nodes recorded in the period. Most recent: Norway bids farewell to King Harald V as crowds gather in Oslo.
 
 > [!note] Estado actual
-> Directo a... Washington y la "constructiva" llamada entre Trump y Putin
+> El avión de Zelenski estuvo a punto de ser alcanzado por un dron cuando se dirigía a Noruega
 
-## Nodos recientes (17 en la ventana)
+## Nodos recientes (18 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-10 | 95 | K1 | El avión de Zelenski estuvo a punto de ser alcanzado por un dron |
+| 2026-09-10 | 83 | K0 | Russian drones kill at least nine in strikes targeting warehouse |
 | 2026-09-09 | 95 | K1 | Directo a... Washington y la "constructiva" llamada entre Trump  |
 | 2026-09-08 | 64 | K0 | Ucrania: "La visita de Witkoff y Kushner a Kiev tiene valor simb |
 | 2026-09-07 | 87 | K0 | Los emisarios de Trump 'aterrizan' en una guerra preparada para  |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-01 | 83 | K2 | Russia targets Kyiv and its region for sixth consecutive night o |
 | 2026-08-31 | 59 | K1 | Qué son las armas nucleares tácticas y por qué el círculo de Put |
 | 2026-08-29 | 83 | K1 | Rusia y Estados Unidos: ¿Qué hay detrás del viaje del jefe de la |
-| 2026-08-27 | 82 | K1 | Primera cirugía cerebral en el mundo guiada por IA en Reino Unid |
-| 2026-08-26 | 95 | K2 | ¿El jefe de la CIA viajó a Moscú? ¿Por qué? Esto se sabe |
 
 [[Global Brain — Inicio|← Inicio]]

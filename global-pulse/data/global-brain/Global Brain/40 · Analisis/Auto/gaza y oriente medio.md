@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-09
+actualizado: 2026-09-10
 nodos: 20
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-09. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-10. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados Unidos reaviva el conflicto de Yemen.
+20 nodos registrados en el periodo. Lo mas reciente: El impacto incierto de las sanciones contra los asentamientos israelíes.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: Canada’s retaliatory US tariffs take effect as trade dispute grows.
+20 nodes recorded in the period. Most recent: Argentina to file criminal case against oil company operating in Falklands.
 
 > [!note] Estado actual
-> Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados Unidos reaviva el conflicto de Yemen
+> El impacto incierto de las sanciones contra los asentamientos israelíes
 
 ## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-10 | 95 | K2 | El impacto incierto de las sanciones contra los asentamientos is |
 | 2026-09-09 | 95 | K1 | Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados U |
 | 2026-09-09 | 74 | K0 | Israel castiga a Reino Unido por liderar denuncia de colonizació |
 | 2026-09-07 | 83 | K0 | Middle East Live: Several killed in Israeli strikes in southern  |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-08-29 | 95 | K1 | Análisis: el desgaste económico y bélico de Estados Unidos tras  |
 | 2026-08-29 | 85 | K1 | Irán y EE.UU. cumplen seis meses de guerra con crisis económica, |
 | 2026-08-28 | 95 | K1 | Trump vs. Irán: miles de muertes, estancamiento y asfixia económ |
-| 2026-08-25 | 53 | K0 | Israeli settler blockades part of escalating violence against Pa |
 
 [[Global Brain — Inicio|← Inicio]]

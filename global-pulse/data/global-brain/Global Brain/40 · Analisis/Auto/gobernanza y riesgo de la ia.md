@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-09
-nodos: 11
+actualizado: 2026-09-10
+nodos: 12
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-09. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-10. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-11 nodos registrados en el periodo. Lo mas reciente: OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk.
+12 nodos registrados en el periodo. Lo mas reciente: OpenAI genera controversia tras afirmar que resolvió un problema matemático centenario.
 
 ## Trend summary (EN)
-11 nodes recorded in the period. Most recent: OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk.
+12 nodes recorded in the period. Most recent: OpenAI sparks controversy after claiming to solve century-old math problem.
 
 > [!note] Estado actual
-> OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk
+> OpenAI genera controversia tras afirmar que resolvió un problema matemático centenario
 
-## Nodos recientes (11 en la ventana)
+## Nodos recientes (12 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-10 | 58 | K2 | OpenAI genera controversia tras afirmar que resolvió un problema |
 | 2026-09-07 | 53 | K2 | OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk |
 | 2026-09-06 | 57 | K0 | OpenAI admits to German wiki ‘incident’ |
 | 2026-09-05 | 86 | K1 | Inteligencia artificial: Nvidia comprará la plataforma de Huggin |
