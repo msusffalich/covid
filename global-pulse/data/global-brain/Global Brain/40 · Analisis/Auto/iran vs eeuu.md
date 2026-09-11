@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-09-10
-nodos: 33
+actualizado: 2026-09-11
+nodos: 32
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-10. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-11. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-33 nodos registrados en el periodo. Lo mas reciente: Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados Unidos reaviva el conflicto de Yemen.
+32 nodos registrados en el periodo. Lo mas reciente: Putin llega a Nueva Delhi para una cumbre de los BRICS marcada por los conflictos globales.
 
 ## Trend summary (EN)
-33 nodes recorded in the period. Most recent: Canada’s retaliatory US tariffs take effect as trade dispute grows.
+32 nodes recorded in the period. Most recent: Putin arrives in India for BRICS summit set to be dominated by Middle East, Ukraine wars.
 
 > [!note] Estado actual
-> Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados Unidos reaviva el conflicto de Yemen
+> Putin llega a Nueva Delhi para una cumbre de los BRICS marcada por los conflictos globales
 
-## Nodos recientes (33 en la ventana)
+## Nodos recientes (32 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-11 | 95 | K1 | Putin llega a Nueva Delhi para una cumbre de los BRICS marcada p |
 | 2026-09-09 | 95 | K1 | Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados U |
 | 2026-09-09 | 95 | K1 | Arabia Saudí responde tras el mayor ataque de los hutíes a insta |
 | 2026-09-07 | 83 | K0 | Middle East Live: Several killed in Israeli strikes in southern  |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-03 | 81 | K1 | Cómo una pequeña isla en Canadá apareció, desapareció y fue loca |
 | 2026-09-02 | 95 | K1 | Expertos denuncian 223 personas asesinadas en un año por ataques |
 | 2026-09-02 | 53 | K0 | Middle East live: Iran launches retaliatory strikes after fresh  |
-| 2026-09-01 | 95 | K1 | Trump amenaza con "golpear duramente a Irán" ante la reanudación |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-10
+actualizado: 2026-09-11
 nodos: 37
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-10. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-11. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-37 nodos registrados en el periodo. Lo mas reciente: El impacto incierto de las sanciones contra los asentamientos israelíes.
+37 nodos registrados en el periodo. Lo mas reciente: Anthropic revela usos indebidos de su IA en ciberataques, armas biológicas y espionaje, y advierte de riesgos económicos y existenciales.
 
 ## Trend summary (EN)
-37 nodes recorded in the period. Most recent: Argentina to file criminal case against oil company operating in Falklands.
+37 nodes recorded in the period. Most recent: Anthropic reveals misuse of its AI for cyberattacks, bioweapons and espionage, while warning of economic and existential risks.
 
 > [!note] Estado actual
-> El impacto incierto de las sanciones contra los asentamientos israelíes
+> Anthropic revela usos indebidos de su IA en ciberataques, armas biológicas y espionaje, y advierte de riesgos económicos y existenciales
 
 ## Nodos recientes (37 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-11 | 72 | K1 | Anthropic revela usos indebidos de su IA en ciberataques, armas  |
 | 2026-09-10 | 95 | K2 | El impacto incierto de las sanciones contra los asentamientos is |
 | 2026-09-10 | 95 | K0 | Rubio anuncia que pedirá 45 millones de dólares al Congreso para |
 | 2026-09-10 | 79 | K0 | US bans Canadian dairy, alcohol and motorcycles as trade war esc |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-04 | 87 | K2 | Una juez bloquea el último intento de Trump de limitar la ciudad |
 | 2026-09-04 | 72 | K1 | Volkswagen aprueba recorte de 50.000 empleos adicionales, hasta  |
 | 2026-09-03 | 62 | K1 | UK mortgage borrowers brace for rate jump amid global bond sell- |
-| 2026-09-02 | 78 | K1 | Venezuela cede a EE.UU. el control de una quinta parte de sus re |
 
 [[Global Brain — Inicio|← Inicio]]
