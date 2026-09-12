@@ -1,225 +1,35 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-09-11",
-    "generado": "2026-09-11T09:18:16.315859+00:00",
+    "fecha": "2026-09-12",
+    "generado": "2026-09-12T08:59:15.281366+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 792,
-      "clusters": 534,
-      "nodos": 534,
-      "verificados": 534,
-      "duracion_s": 350.3
+      "piezas_ingeridas": 794,
+      "clusters": 550,
+      "nodos": 550,
+      "verificados": 550,
+      "duracion_s": 279.9
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Argelia rompe relaciones diplomáticas con Emiratos Árabes Unidos y le cierra su espacio aéreo",
-        "en": "Norway’s Foreign Minister warns Netanyahu’s government driving Israel into a 'very dangerous place'"
+        "es": "A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?",
+        "en": "BRICS leaders gather in India as wars and US tensions test unity"
       },
       "sintesis": {
-        "es": "Argelia ha roto relaciones diplomáticas con Emiratos Árabes Unidos y ha prohibido la entrada en su espacio aéreo de aviones civiles y militares emiratíes, alegando \"actos provocadores y hostiles\". Los vuelos comerciales hacia Argel quedan exentos hasta finales de 2026.",
-        "en": "Norway's Foreign Minister Espen Barth Eide tells Euronews that Israel has lost “tremendous support” because of how it has conducted its military response to the 7 October attacks."
+        "es": "El bloque de once economías emergentes pone a prueba este fin de semana en Nueva Delhi su reciente ampliación, que, si bien ha fortalecido la representación de la organización, también ha elevado las divisiones internas y los obstáculos para lograr una declaración conjunta. Las guerras en Medio Oriente y Ucrania y el regreso de Xi Jinping a India en medio de las tensiones comerciales son el telón de fondo de una cumbre que igual buscará lograr resultados concretos.",
+        "en": "BRICS leaders are set to meet in New Delhi on Saturday to discuss trade, investment and global conflicts. The summit comes as wars in Ukraine and the Middle East, along with rising US-China tensions, test the bloc’s unity and ambitions for a greater role in global affairs."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Netanyahu",
-        "Emiratos",
-        "Unidos",
-        "Israel"
-      ],
-      "geo": {
-        "lat": 31.0,
-        "lon": 34.9,
-        "region": "Oriente Medio"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_b1e126c2e7",
-        "ev_4274225234",
-        "ev_c793c62d1a",
-        "ev_095e74960a",
-        "ev_682ccd87fa",
-        "ev_a90f8b4c23"
-      ],
-      "cluster_id": "cl_006",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/02b9/live/ab737020-ad0f-11f1-bc1f-3f186ca4140c.jpg",
-        "https://imagenes.elpais.com/resizer/v2/QHLZYNQEZ5NABD5DU45OOSRG7U.jpg?auth=6a5cb28856a46ffcbf6b8f2b94992377769ac88c0a22f906f16e33f8a000a6ff",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/08/17888753794041.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b9/live/ab737020-ad0f-11f1-bc1f-3f186ca4140c.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_b1e126c2e7",
-          "titulo": "Netanyahu demandará al periódico que publicó que Emiratos Árabes Unidos le advirtió de los ataques del 7 de octubre contra Israel",
-          "url": "https://www.bbc.com/mundo/articles/c0lrk4zn809o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 10 Sep 2026 22:56:33 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_4274225234",
-          "titulo": "Argelia rompe relaciones con Emiratos Árabes Unidos, país aliado de Marruecos e Israel, tras acusarle de acciones hostiles",
-          "url": "https://elpais.com/internacional/2026-09-10/argelia-rompe-relaciones-con-emiratos-arabes-unidos-pais-aliado-de-marruecos-e-israel-tras-acusarle-de-acciones-hostiles.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Thu, 10 Sep 2026 17:49:44 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c793c62d1a",
-          "titulo": "Argelia rompe relaciones diplomáticas con Emiratos Árabes Unidos y le cierra su espacio aéreo",
-          "url": "https://es.euronews.com/2026/09/11/argelia-rompe-relaciones-diplomaticas-emiratos-arabes-unidos-cierra-su-espacio-aereo",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 11 Sep 2026 07:21:48 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_095e74960a",
-          "titulo": "El presidente de Emiratos Árabes Unidos alertó a Netanyahu pocos días antes del ataque del 7-O, según publica Haaretz",
-          "url": "https://www.elmundo.es/internacional/2026/09/08/6aa01131e85ece78118b457c.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Tue, 08 Sep 2026 20:06:06 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_682ccd87fa",
-          "titulo": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-          "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 10 Sep 2026 15:54:17 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a90f8b4c23",
-          "titulo": "Norway’s Foreign Minister warns Netanyahu’s government driving Israel into a 'very dangerous place'",
-          "url": "https://www.euronews.com/video/2026/09/11/norways-foreign-minister-warns-netanyahus-government-driving-israel-into-a-very-dangerous-",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 11 Sep 2026 09:59:34 +0200",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-11_0000",
-      "fecha": "2026-09-11",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-09-11_0001"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Israel mata a cuatro integrantes de una familia en un bombardeo contra Beit Lahia, en Gaza",
-        "en": "Secret systems used by Israel in mass killings of Gaza civilians revealed in new film"
-      },
-      "sintesis": {
-        "es": "En la noche del 9 al 10 de septiembre, el Ejército de Israel bombardeó Beit Lahia, en el norte de la Franja de Gaza, matando a cuatro integrantes de una misma familia, cuyos cuerpos, según un responsable del hospital Al-Shifa, fueron recuperados desmembrados debido a la magnitud de la explosión. También se reportaron ataques sobre el campo de refugiados de Jabalia, mientras Israel sigue atacando casi a diario el enclave.",
-        "en": "Testimony from Israeli military insiders involved in surveillance and remote killings features in documentary produced by the Guardian Testimony from 24 Israeli military insiders ​on the secret ​systems used in ​the war on Gaza​ has been revealed in a new documentary film about the mass killing of Palestinian civilians. NAZA, a film from the Oscar-winning Israeli directors Yuval Abraham and Rachel Szor, was shown at the Venice international film festival on Thursday as the only documentary competing for its prestigious Golden Lion award. Continue reading..."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Gaza",
-        "Israeli",
-        "Israel",
-        "Beit Lahia"
-      ],
-      "geo": {
-        "lat": 31.0,
-        "lon": 34.9,
-        "region": "Oriente Medio"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_09c2d75203",
-        "ev_eff36cfb00",
-        "ev_ad9c631a88",
-        "ev_a18bbdd09b",
-        "ev_bb3edf850b",
-        "ev_8ed3e5449f"
-      ],
-      "cluster_id": "cl_053",
-      "imagenes": [
-        "https://s.france24.com/media/display/c5de98ae-ad87-11f1-960e-005056a97e36/w:1024/p:16x9/ES-20260910-164016-164140-CS.jpg",
-        "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/265_73_2528_2022/master/2528.jpg?width=140&quality=85&auto=format&fit=max&s=731b5d72ad8e0aed3fa5cb099968f617",
-        "https://s.france24.com/media/display/160943d0-ad22-11f1-83ed-005056bf30b7/w:1024/p:16x9/6313157432cdcb86dbc5df006a22ed29851403a3.jpg",
-        "https://static.independent.co.uk/2026/09/10/17/Italy_Venice_Film_Festival_Naza_Photo_Call_83823.jpg?width=1200&auto=webp&crop=3%3A2"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_09c2d75203",
-          "titulo": "Israel mata a cuatro integrantes de una familia en un bombardeo contra Beit Lahia, en Gaza",
-          "url": "https://www.france24.com/es/video/20260911-israel-mata-a-cuatro-integrantes-de-una-familia-en-un-bombardeo-contra-beit-lahia-en-gaza",
-          "fuente": "France 24 Espanol",
-          "fecha": "Fri, 11 Sep 2026 02:33:57 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_eff36cfb00",
-          "titulo": "Secret systems used by Israel in mass killings of Gaza civilians revealed in new film",
-          "url": "https://www.theguardian.com/world/2026/sep/10/secret-systems-used-by-israel-in-mass-killings-of-gaza-civilians-revealed-in-new-film",
-          "fuente": "The Guardian World",
-          "fecha": "Thu, 10 Sep 2026 13:42:20 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ad9c631a88",
-          "titulo": "Israeli-made film about use of AI for mass killing in Gaza gets record ovation at Venice premiere",
-          "url": "https://www.france24.com/en/middle-east/20260910-israeli-made-film-about-mass-killings-in-gaza-gets-25-minute-ovation-at-venice-premiere",
-          "fuente": "France 24 English",
-          "fecha": "Thu, 10 Sep 2026 18:19:12 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a18bbdd09b",
-          "titulo": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 11 Sep 2026 05:25:34 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_bb3edf850b",
-          "titulo": "Oscar-winning Israeli filmmakers' documentary on Gaza war premieres at Venice Film Festival",
-          "url": "https://www.independent.co.uk/news/world/europe/israeli-gaza-james-wilson-hamas-italy-b3048128.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 10 Sep 2026 16:06:53 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8ed3e5449f",
-          "titulo": "Israeli strike in Gaza kills family of four, including two children",
-          "url": "https://www.euronews.com/2026/09/11/israeli-strike-in-gaza-kills-family-of-four-including-two-children",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 11 Sep 2026 04:37:19 +0200",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-11_0001",
-      "fecha": "2026-09-11",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-11_0000"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Putin llega a Nueva Delhi para una cumbre de los BRICS marcada por los conflictos globales",
-        "en": "Putin arrives in India for BRICS summit set to be dominated by Middle East, Ukraine wars"
-      },
-      "sintesis": {
-        "es": "El presidente chino Xi Jinping también tiene previsto asistir a la cumbre de dos días, que sería su primera visita a India desde 2019.",
-        "en": "Russian President Vladimir Putin arrived in New Delhi on Friday for a two-day BRICS summit expected to focus on wars in Ukraine and the Middle East and economic challenges. Putin and Iran’s President Masoud Pezeshkian are due to meet Prime Minister Narendra Modi, while China’s Xi Jinping is also expected to hold talks."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Putin",
         "BRICS",
+        "China",
         "India",
-        "Ukraine"
+        "Rusia"
       ],
       "geo": {
         "lat": 48.4,
@@ -228,53 +38,91 @@
       },
       "impacto": 95,
       "fuentes": [
-        "ev_925644589e",
-        "ev_06498bb37b",
-        "ev_c5fdf83e57",
-        "ev_a69d74096a",
+        "ev_b7917a1f3e",
+        "ev_184a5c61ca",
+        "ev_674a7b63c4",
+        "ev_8a973e64ff",
+        "ev_f845eea440",
+        "ev_19d882a679",
+        "ev_3dd6576e5c",
+        "ev_a22f5d740b",
         "ev_cec352fc26",
+        "ev_f0ac671afe",
+        "ev_661a9ba838",
         "ev_c0b2d1ea0a",
-        "ev_4038551f24",
-        "ev_f8e3f4839a"
+        "ev_932adc7b8b"
       ],
-      "cluster_id": "cl_096",
+      "cluster_id": "cl_055",
       "imagenes": [
-        "https://s.france24.com/media/display/f0d61468-acf3-11f1-ab71-005056bfb2b6/w:1024/p:16x9/7e5fcf827b46397639dc014e8f6942451ecb7847.jpg",
-        "https://static01.nyt.com/images/2026/09/11/multimedia/11int-brics-preview-vtpj/11int-brics-preview-vtpj-mediumSquareAt3X.jpg",
-        "https://static.independent.co.uk/2026/09/10/12/2026-08-20T114617Z_208909581_RC2B2NA22NF3_RTRMADP_3_RUSSIA-PUTIN-RELICS.JPG?width=1200&auto=webp&trim=19%2C0%2C19%2C0"
+        "https://s.france24.com/media/display/f209af6e-ae3a-11f1-b481-005056bfb2b6/w:1024/p:16x9/ES-20260911-144218-144410-CS.jpg",
+        "https://s.france24.com/media/display/40916688-ae11-11f1-8829-005056bf30b7/w:1024/p:16x9/acfb1345200db4f8e7c5847848562a4b0fb87d7fw.jpg",
+        "https://s.rfi.fr/media/display/0da9c1b2-acfd-11f1-8f67-005056a90284/w:1024/p:16x9/2026-09-08T155217Z-706919122-RC2ZENA265J6-RTRMADP-3-BRICS-SUMMIT.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/10/17890238657341.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_925644589e",
-          "titulo": "Putin llega a Nueva Delhi para una cumbre de los BRICS marcada por los conflictos globales",
-          "url": "https://es.euronews.com/2026/09/11/putin-llega-nueva-delhi-para-una-cumbre-brics-marcada-por-los-conflictos-globales",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 11 Sep 2026 08:55:51 +0200",
+          "id": "ev_b7917a1f3e",
+          "titulo": "Inicia en Nueva Delhi la cumbre de los BRICS, marcada por divisiones internas y crisis globales",
+          "url": "https://www.france24.com/es/video/20260912-inicia-en-nueva-delhi-la-cumbre-de-los-brics-marcada-por-divisiones-internas-y-crisis-globales",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sat, 12 Sep 2026 00:04:55 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_06498bb37b",
-          "titulo": "Putin arrives in India for BRICS summit set to be dominated by Middle East, Ukraine wars",
-          "url": "https://www.france24.com/en/asia-pacific/20260911-putin-xi-india-brics-summit-ukraine-middle-east-wars",
+          "id": "ev_184a5c61ca",
+          "titulo": "A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?",
+          "url": "https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20260911-a-la-sombra-de-las-guerras-y-con-la-presencia-de-rusia-china-e-ir%C3%A1n-qu%C3%A9-esperar-de-la-cumbre-de-los-brics",
+          "fuente": "France 24 Espanol",
+          "fecha": "Fri, 11 Sep 2026 18:49:03 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_674a7b63c4",
+          "titulo": "Los BRICS se reúnen en un contexto de crisis por las guerras en Oriente Medio y Ucrania",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260911-los-brics-se-re%C3%BAnen-en-un-contexto-de-crisis-por-las-guerras-en-oriente-medio-y-ucrania",
+          "fuente": "RFI Espanol",
+          "fecha": "Fri, 11 Sep 2026 09:13:04 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_8a973e64ff",
+          "titulo": "Detenido en Rusia un guardia de seguridad de la embajada británica por espiar para Ucrania",
+          "url": "https://www.elmundo.es/internacional/2026/09/10/6aa25546e4d4d8e0388b459d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Thu, 10 Sep 2026 19:11:41 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f845eea440",
+          "titulo": "BRICS leaders gather in India as wars and US tensions test unity",
+          "url": "https://www.france24.com/en/asia-pacific/20260912-brics-summit-set-to-be-dominated-by-wars-in-ukraine-and-iran",
           "fuente": "France 24 English",
-          "fecha": "Fri, 11 Sep 2026 02:08:34 GMT",
+          "fecha": "Sat, 12 Sep 2026 06:51:43 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_c5fdf83e57",
-          "titulo": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
-          "url": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
+          "id": "ev_19d882a679",
+          "titulo": "BRICS summit opens in New Delhi amid wars, global tensions, tariffs",
+          "url": "https://www.aljazeera.com/news/2026/9/12/brics-summit-opens-in-new-delhi-amid-wars-global-tensions-tariffs?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Fri, 11 Sep 2026 02:40:19 +0000",
+          "fecha": "Sat, 12 Sep 2026 07:40:50 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_a69d74096a",
-          "titulo": "BRICS red carpet sparks anger in India’s capital",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/brics-red-carpet-sparks-anger-in-indias-capital?traffic_source=rss",
+          "id": "ev_3dd6576e5c",
+          "titulo": "China’s Xi lands in India for BRICS summit overshadowed by wars",
+          "url": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Fri, 11 Sep 2026 04:37:48 +0000",
+          "fecha": "Sat, 12 Sep 2026 04:27:27 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a22f5d740b",
+          "titulo": "BRICS leaders meet in India as wars and US tensions test the bloc",
+          "url": "https://www.npr.org/2026/09/12/g-s1-143054/brics-leaders-meet-in-india",
+          "fuente": "NPR News",
+          "fecha": "Sat, 12 Sep 2026 03:18:55 -0400",
           "idioma": "en"
         },
         {
@@ -282,7 +130,23 @@
           "titulo": "At BRICS Summit, China and India Vie for Influence",
           "url": "https://www.nytimes.com/2026/09/11/world/asia/china-india-brics-summit.html",
           "fuente": "NYT World",
-          "fecha": "Fri, 11 Sep 2026 04:22:12 +0000",
+          "fecha": "Fri, 11 Sep 2026 11:48:03 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f0ac671afe",
+          "titulo": "BRICS meets in India: What’s on the agenda, why it matters",
+          "url": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 12 Sep 2026 05:22:09 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_661a9ba838",
+          "titulo": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table",
+          "url": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
+          "fuente": "NYT World",
+          "fecha": "Sat, 12 Sep 2026 06:30:14 +0000",
           "idioma": "en"
         },
         {
@@ -290,163 +154,773 @@
           "titulo": "BRICS leaders arrive in India ahead of two-day summit as global conflicts set to take centre stage",
           "url": "https://www.euronews.com/2026/09/11/russian-leader-vladimir-putin-arrives-in-india-ahead-of-brics-summit",
           "fuente": "Euronews English",
-          "fecha": "Fri, 11 Sep 2026 08:42:17 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4038551f24",
-          "titulo": "Putin sends bones of medieval warrior to Ukraine frontline in desperate bid to boost morale",
-          "url": "https://www.independent.co.uk/news/world/europe/russia-prince-dmitry-donskoy-bones-ukraine-b3047928.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 10 Sep 2026 11:35:28 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f8e3f4839a",
-          "titulo": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy",
-          "url": "https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Fri, 11 Sep 2026 07:43:24 GMT",
+          "fecha": "Fri, 11 Sep 2026 14:58:49 +0200",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-11_0002",
-      "fecha": "2026-09-11",
+      "id": "nd_2026-09-12_0000",
+      "fecha": "2026-09-12",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Estados Unidos: un año después de su muerte, ¿qué legado dejó Charlie Kirk?",
-        "en": "Utah Valley University remains divided a year after Charlie Kirk’s assassination. His picture still haunts the campus"
+        "es": "El primer ministro laborista de Noruega reivindica la monarquía en el funeral de Harald V",
+        "en": "Norway's Princess Astrid dies two days after funeral of her brother, the late King Harald"
       },
       "sintesis": {
-        "es": "Con motivo de la convención republicana celebrada en Dallas, Texas, el miércoles 9 y el jueves 10 de septiembre, Donald Trump rindió homenaje a Charlie Kirk, asesinado a tiros el 10 de septiembre de 2025. Con su organización Turning Point USA, esta figura conservadora de la derecha nacionalista cristiana había contribuido a la reelección de Donald Trump, sobre todo al movilizar a los votantes jóvenes. Un año después de su muerte, su activismo político y su legado perduran.",
-        "en": "Some students are protesting on the anniversary of Kirk’s death after the university canceled classes and allowed Turning Point USA to host a memorial at its event center"
+        "es": "Jonas Gahr Støre agradece su \"sentido del deber hasta el final\" en una ceremonia en la Catedral de Oslo a la que, junto a los reyes Felipe y Letizia, asistieron los principales representantes de las casas reales europeas Leer",
+        "en": "Norway's ‌Princess Astrid, an older sister ‌of the late King ​Harald, died on Friday at ​the ‌age of 94, the royal palace ​said in a statement."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Estados Unidos",
-        "Charlie Kirk",
-        "Trump",
-        "Islandia"
+        "Norway",
+        "King Harald",
+        "Noruega",
+        "Harald"
       ],
       "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
+        "lat": 40.5,
+        "lon": -3.7,
+        "region": "Europa"
       },
-      "impacto": 86,
+      "impacto": 94,
       "fuentes": [
-        "ev_ee5959bb96",
-        "ev_62d02ac6e7",
-        "ev_6135e4a692",
-        "ev_01c4a8676e",
-        "ev_155cbf8752",
-        "ev_cd6d7d1cb0"
+        "ev_2a20c898a2",
+        "ev_01b76464cc",
+        "ev_5fbd01be91",
+        "ev_94c432ff3c",
+        "ev_b7d009e3cb",
+        "ev_674d20e920",
+        "ev_3c2734637d"
       ],
-      "cluster_id": "cl_071",
+      "cluster_id": "cl_095",
       "imagenes": [
-        "https://s.rfi.fr/media/display/fdbb0878-acf8-11f1-91e6-005056a90284/w:1024/p:16x9/AP26252763881642.jpg",
-        "https://s.rfi.fr/media/display/b03254b0-ad2c-11f1-82bb-005056bf30b7/w:1024/p:16x9/PHOTO-2026-09-10-14-58-51-2.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/10/17890507376098.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/08/17888867654447.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4871/live/931f3ad0-adfb-11f1-8169-6fdea7f79791.png",
+        "https://e3.365dm.com/26/09/1920x1080/skynews-princess-astrid-obit_7348092.jpg?20260911142819",
+        "https://static.independent.co.uk/2026/09/11/14/download.-2.?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_ee5959bb96",
-          "titulo": "Estados Unidos: un año después de su muerte, ¿qué legado dejó Charlie Kirk?",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260910-estados-unidos-un-a%C3%B1o-despu%C3%A9s-de-su-muerte-qu%C3%A9-legado-dej%C3%B3-charlie-kirk",
-          "fuente": "RFI Espanol",
-          "fecha": "Thu, 10 Sep 2026 12:51:18 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_62d02ac6e7",
-          "titulo": "Estados Unidos: 25 años después, las heridas del 11-S siguen abiertas",
-          "url": "https://www.rfi.fr/es/programas/enfoque-internacional/20260910-estados-unidos-25-a%C3%B1os-despu%C3%A9s-las-heridas-del-11-s-siguen-abiertas",
-          "fuente": "RFI Espanol",
-          "fecha": "Thu, 10 Sep 2026 15:43:21 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_6135e4a692",
-          "titulo": "Estados Unidos conmemora el 25 aniversario del 11-S entre el recuerdo de las víctimas y las secuelas",
-          "url": "https://es.euronews.com/2026/09/11/estados-unidos-conmemora-25-aniversario-del-11-s-entre-recuerdo-victimas-secuelas",
+          "id": "ev_2a20c898a2",
+          "titulo": "La princesa Astrid de Noruega muere 2 días después del funeral de su hermano, el rey Harald",
+          "url": "https://es.euronews.com/my-europe/2026/09/11/la-princesa-astrid-de-noruega-muere-2-dias-despues-del-funeral-de-su-hermano-el-rey-harald",
           "fuente": "Euronews Espanol",
-          "fecha": "Fri, 11 Sep 2026 08:34:48 +0200",
+          "fecha": "Fri, 11 Sep 2026 22:30:21 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_01c4a8676e",
-          "titulo": "25 años del 11-S: el día que Estados Unidos se rompió, pero el siglo no cambió",
-          "url": "https://www.elmundo.es/internacional/2026/09/10/6aa2b9d6fdddff0e1f8b4578.html",
+          "id": "ev_01b76464cc",
+          "titulo": "El primer ministro laborista de Noruega reivindica la monarquía en el funeral de Harald V",
+          "url": "https://www.elmundo.es/internacional/2026/09/09/6aa170a921efa065128b45a9.html",
           "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 10 Sep 2026 22:49:34 +0200",
+          "fecha": "Wed, 09 Sep 2026 16:58:06 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_155cbf8752",
-          "titulo": "América según Trump: de Canadá a Islandia, todo termina bajo la bandera de los Estados Unidos",
-          "url": "https://www.elmundo.es/internacional/2026/09/08/6aa03929fdddff58268b45be.html",
+          "id": "ev_5fbd01be91",
+          "titulo": "Los reyes Felipe VI y Letizia participan en el cortejo fúnebre de Harald V de Noruega",
+          "url": "https://www.elmundo.es/internacional/2026/09/09/6aa13686e4d4d81a428b4573.html",
           "fuente": "El Mundo Internacional",
-          "fecha": "Wed, 09 Sep 2026 06:57:39 +0200",
+          "fecha": "Wed, 09 Sep 2026 12:35:52 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_cd6d7d1cb0",
-          "titulo": "Utah Valley University remains divided a year after Charlie Kirk’s assassination. His picture still haunts the campus",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/charlie-kirk-memorial-utah-valley-university-b3048194.html",
+          "id": "ev_94c432ff3c",
+          "titulo": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+          "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 11 Sep 2026 16:00:59 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b7d009e3cb",
+          "titulo": "Norway's Princess Astrid dies two days after funeral of brother King Harald",
+          "url": "https://www.euronews.com/my-europe/2026/09/11/norways-princess-astrid-dies-two-days-after-funeral-of-brother-king-harald",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 11 Sep 2026 17:14:01 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_674d20e920",
+          "titulo": "Norway's Princess Astrid dies two days after funeral of her brother, the late King Harald",
+          "url": "https://news.sky.com/story/norways-princess-astrid-dies-two-days-after-funeral-of-her-brother-the-late-king-harald-13584441",
+          "fuente": "Sky News World",
+          "fecha": "Fri, 11 Sep 2026 14:22:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3c2734637d",
+          "titulo": "Sister of Norway’s King Harald dies just days after attending late monarch’s funeral",
+          "url": "https://www.independent.co.uk/news/world/europe/norway-princess-astrid-dead-harald-funeral-b3048705.html",
           "fuente": "The Independent World",
-          "fecha": "Thu, 10 Sep 2026 20:04:55 GMT",
+          "fecha": "Fri, 11 Sep 2026 15:07:07 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-11_0003",
-      "fecha": "2026-09-11",
-      "kardashev": "K1",
+      "id": "nd_2026-09-12_0001",
+      "fecha": "2026-09-12",
+      "kardashev": "K0",
       "relaciones": [
-        "nd_2026-09-11_0004",
-        "nd_2026-09-11_0009"
+        "nd_2026-09-12_0009",
+        "nd_2026-09-12_0010"
       ]
     },
     {
       "titulo": {
-        "es": "As New York marks 25 years since 9/11, Muslims recall stigmatisation in aftermath of attacks",
-        "en": "As New York marks 25 years since 9/11, Muslims recall stigmatisation in aftermath of attacks"
+        "es": "Los hutíes toman la isla de Perim y consolidan el control del estrecho de Bab el-Mandeb",
+        "en": "Houthis capture Perim Island, consolidating control over the Bab el-Mandeb strait"
       },
       "sintesis": {
-        "es": "As New York marks 25 years since the terrorist attacks on September 11th, New York’s Muslim community has become increasingly part of the fabric of the city. One sign of that is the election of Zohran Mamdani as the city’s mayor last November. Another is the state's largest mosque, due to open its doors at the end of the year.",
-        "en": "As New York marks 25 years since the terrorist attacks on September 11th, New York’s Muslim community has become increasingly part of the fabric of the city. One sign of that is the election of Zohran Mamdani as the city’s mayor last November. Another is the state's largest mosque, due to open its doors at the end of the year."
+        "es": "Los rebeldes hutíes, respaldados por Irán, capturaron la isla de Perim y localidades costeras clave en Yemen, tras la retirada de fuerzas del gobierno reconocido por la ONU, consolidando así el control de facto sobre el estrecho de Bab el-Mandeb. Este paso marítimo es una ruta alternativa vital para las exportaciones de petróleo saudí tras el bloqueo iraní del estrecho de Ormuz, y Arabia Saudita cerró un importante oleoducto tras un ataque. El avance también ha provocado el desplazamiento de cerca de 50.000 civiles yemeníes y amenaza con ampliar el conflicto regional vinculado a la guerra entre Irán y potencias occidentales.",
+        "en": "Iran-backed Houthi rebels captured Perim Island and key coastal towns in Yemen after government-aligned forces withdrew, consolidating de facto control over the Bab el-Mandeb strait. This waterway serves as a vital alternative route for Saudi oil exports following Iran's blockade of the Strait of Hormuz, and Saudi Arabia shut down a major pipeline after an attack. The advance has also displaced nearly 50,000 Yemeni civilians and risks widening the regional conflict tied to the Iran-West war."
       },
-      "categoria": "innovacion",
+      "categoria": "geopolitica",
       "actores": [
-        "New York",
-        "Twin Towers",
-        "City",
-        "Trump"
+        "Hutíes (Ansar Allah)",
+        "Irán",
+        "Arabia Saudita",
+        "Gobierno de Yemen reconocido por la ONU",
+        "Estados Unidos"
+      ],
+      "geo": {
+        "lat": 12.65,
+        "lon": 43.42,
+        "region": "Estrecho de Bab el-Mandeb, Yemen"
+      },
+      "impacto": 88,
+      "fuentes": [
+        "ev_df50ede3ab",
+        "ev_5ddeb624c6",
+        "ev_f84444ca91",
+        "ev_d66350731c",
+        "ev_145719598a",
+        "ev_0ccd1a673a",
+        "ev_c3ec6a9606",
+        "ev_b709ac60c7",
+        "ev_ee5cc871e5",
+        "ev_96b66047d6",
+        "ev_c06d47048e",
+        "ev_2147fcb8a5",
+        "ev_eb8d04b444",
+        "ev_9b3542cba9",
+        "ev_4a83d42a3a",
+        "ev_630a9a4653",
+        "ev_fefde26d5e",
+        "ev_d1cfd507ac",
+        "ev_ed347f083b",
+        "ev_d8e6f4f32d",
+        "ev_2a7fc32d75",
+        "ev_731c322694",
+        "ev_4192726a4a"
+      ],
+      "cluster_id": "cl_056",
+      "imagenes": [
+        "https://s.france24.com/media/display/e97ed2ba-adc3-11f1-b34d-005056a97e36/w:1024/p:16x9/AP26253315512845.jpg",
+        "https://s.rfi.fr/media/display/16c75886-adc0-11f1-b706-005056a90284/w:1024/p:16x9/AP26099435460715.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/11/17891426180731.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82b5/live/066e1ff0-ae16-11f1-aa28-67f8824e7b72.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_df50ede3ab",
+          "titulo": "Los rebeldes hutíes del Yemen controlan el estrecho de Bab el-Mandeb con la toma de la isla de Perim",
+          "url": "https://www.france24.com/es/medio-oriente/20260912-los-rebeldes-hut%C3%ADes-del-yemen-controlan-el-estrecho-de-bab-el-mandeb-con-la-toma-de-la-isla-de-perim",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sat, 12 Sep 2026 00:03:01 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_5ddeb624c6",
+          "titulo": "Yemen: Rebeldes hutíes toman una isla clave que da acceso al mar Rojo",
+          "url": "https://www.rfi.fr/es/oriente-medio/20260911-yemen-rebeldes-hut%C3%ADes-toman-una-isla-clave-que-da-acceso-al-mar-rojo",
+          "fuente": "RFI Espanol",
+          "fecha": "Fri, 11 Sep 2026 09:06:44 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f84444ca91",
+          "titulo": "Los hutíes respaldados por Irán se hacen con el control de un estratégico cuello de botella del mar Rojo",
+          "url": "https://www.elmundo.es/internacional/2026/09/11/6aa403f5e85ece9d1c8b45a6.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 11 Sep 2026 22:54:33 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d66350731c",
+          "titulo": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+          "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 11 Sep 2026 19:44:58 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_145719598a",
+          "titulo": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
+          "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 12 Sep 2026 04:45:28 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0ccd1a673a",
+          "titulo": "Iran-backed Houthis seize near control of vital Bab el-Mandeb shipping lane",
+          "url": "https://www.france24.com/en/middle-east/20260911-iran-backed-houthis-seize-near-control-of-vital-bab-el-mandeb-shipping-lane",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 11 Sep 2026 20:09:31 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c3ec6a9606",
+          "titulo": "Yemen's Houthis capture a Red Sea island in threat to shipping",
+          "url": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
+          "fuente": "NPR News",
+          "fecha": "Sat, 12 Sep 2026 01:57:08 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b709ac60c7",
+          "titulo": "Houthis seize key Yemeni island in Bab el-Mandeb, taking control of the strait",
+          "url": "https://www.euronews.com/2026/09/12/houthis-seize-yemeni-island-in-bab-el-mandeb-taking-control-of-the-strait",
+          "fuente": "Euronews English",
+          "fecha": "Sat, 12 Sep 2026 00:08:14 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ee5cc871e5",
+          "titulo": "Iran-US war latest: Crucial Saudi oil pipeline ‘on fire’ as Houthis capture island near key shipping route",
+          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-houthis-red-sea-yemen-oil-b3048368.html",
+          "fuente": "The Independent World",
+          "fecha": "Sat, 12 Sep 2026 03:09:39 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_96b66047d6",
+          "titulo": "Houthis seize strategic island, Saudis close pipeline as fighting escalates",
+          "url": "https://www.cbc.ca/news/world/saudi-strikes-yemen-mokha-airport-houthis-island-9.7339979?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 11 Sep 2026 08:10:58 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c06d47048e",
+          "titulo": "Nearly 50,000 Yemeni civilians flee as Houthis advance along Red Sea coast",
+          "url": "https://www.theguardian.com/world/2026/sep/12/yemen-houthi-advance-red-sea-coast-displaces-civilians-bab-al-mandab",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 12 Sep 2026 04:00:24 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2147fcb8a5",
+          "titulo": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
+          "url": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Fri, 11 Sep 2026 17:40:46 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-12_0002",
+      "fecha": "2026-09-12",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "EEUU: Trump promete 5.000 dólares a cada adulto si los republicanos ganan los “midterms”",
+        "en": "Has Trump won over voters with his midterm convention?"
+      },
+      "sintesis": {
+        "es": "Esta nueva maniobra del presidente estadounidense se produjo en el marco de la convención nacional del Partido Republicano que el partido organiza en Dallas este miércoles y jueves. Es la primera vez que el partido organiza un encuentro de este tipo antes de la cita de las elecciones de medio mandato, en momentos en que la política de Donald Trump lo perjudica cada vez más.",
+        "en": "The BBC's North America editor Sarah Smith breaks down the main takeaways from the first-ever Republican convention held in the middle of a US presidential term."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Trump",
+        "EEUU",
+        "Has Trump"
       ],
       "geo": {
         "lat": 39.8,
         "lon": -98.6,
         "region": "Norteamerica"
       },
-      "impacto": 74,
+      "impacto": 87,
+      "fuentes": [
+        "ev_a2180f988a",
+        "ev_d4656b179f",
+        "ev_9cb0b2204b",
+        "ev_eb8a64fb80",
+        "ev_9f8bfeb4dc",
+        "ev_2c400d9b5a",
+        "ev_4fc1da0da0",
+        "ev_5ea58a27d4",
+        "ev_f2151fd979"
+      ],
+      "cluster_id": "cl_009",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19e9/live/614b06b0-adec-11f1-9a5c-a7a4083eb832.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03be/live/b7895680-adab-11f1-b1d1-571ed4d7ff2c.jpg",
+        "https://s.rfi.fr/media/display/edc2d034-aceb-11f1-ba23-005056bfb2b6/w:1024/p:16x9/2026-09-10T041256Z-1924694352-RC22GNA7VJNS-RTRMADP-3-USA-ELECTION-REPUBLICANS.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/11/17891072767461.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a2180f988a",
+          "titulo": "\"Por esto es que hoy luchamos. No tenemos elección\": Trump sobre los 25 años de los ataques del 11-S",
+          "url": "https://www.bbc.co.uk/mundo/live/c9lyk68xrd4yt?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d4656b179f",
+          "titulo": "¿Es la promesa de Trump de pagar US$5.000 a los votantes de EE.UU. una señal de pánico?",
+          "url": "https://www.bbc.com/mundo/articles/cn45w3zyg9po?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Fri, 11 Sep 2026 10:23:22 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_9cb0b2204b",
+          "titulo": "EEUU: Trump promete 5.000 dólares a cada adulto si los republicanos ganan los “midterms”",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260910-eeuu-trump-promete-5-000-d%C3%B3lares-a-cada-adulto-si-los-republicanos-ganan-los-midterms",
+          "fuente": "RFI Espanol",
+          "fecha": "Thu, 10 Sep 2026 08:56:04 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_eb8a64fb80",
+          "titulo": "El censo de EEUU evalúa un plan para omitir datos de inmigrantes y raza",
+          "url": "https://www.elmundo.es/internacional/2026/09/11/6aa398fcfc6c8319068b4598.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 11 Sep 2026 08:15:35 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_9f8bfeb4dc",
+          "titulo": "Trump cierra una convención republicana descafeinada haciendo entonar a los asistentes un juramento de lealtad \"al mejor presidente de la historia\"",
+          "url": "https://www.elmundo.es/internacional/2026/09/11/6aa38caefc6c83284c8b4576.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 11 Sep 2026 07:36:57 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_2c400d9b5a",
+          "titulo": "5.000 dólares para cada adulto: la promesa de Trump si los republicanos ganan las dos cámaras",
+          "url": "https://www.elmundo.es/internacional/2026/09/09/6aa1bcebfc6c8395278b4584.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Wed, 09 Sep 2026 23:48:20 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_4fc1da0da0",
+          "titulo": "Has Trump won over voters with his midterm convention?",
+          "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 11 Sep 2026 06:16:54 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5ea58a27d4",
+          "titulo": "Trump wants to require his $5,000 dividends to be spent in the US",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-cash-dividends-spent-america-b3048849.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 11 Sep 2026 18:55:13 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f2151fd979",
+          "titulo": "Trump's forced coal plant extensions thrown out by judge",
+          "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+          "fuente": "Ars Technica",
+          "fecha": "Fri, 11 Sep 2026 20:32:59 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-12_0003",
+      "fecha": "2026-09-12",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "California establece las primeras regulaciones sobre inteligencia artificial",
+        "en": "California woman charged with murder after allegedly killing husband with flagpole"
+      },
+      "sintesis": {
+        "es": "En contraposición a los miles de millones de dólares invertidos en inteligencia artificial, a la burbuja especulativa que rodea a los gigantes del sector y a los discursos de Donald Trump a favor de una desregulación total para apoyar a las empresas estadounidenses, California promulgó, el miércoles dos textos que establecen medidas de control frente a los gigantes de la tecnología. Estos constituyen el primer marco regulatorio dirigido a los sistemas de inteligencia artificial en el país.",
+        "en": "SF Gate reports bond for Vicky Kyung Mi Kim, 65, set at $10m after man found dead at couple’s Palm Desert home A 65-year-old California woman has been arrested on suspicion of murder after allegedly fatally wounding her husband with a flagpole, according to SF Gate. On 4 September, Palm Desert sheriff’s deputies responded to an “unknown trouble call” in The Enclave, a luxury condominium community. Upon arrival, officers located an individual with “traumatic injuries” that appeared to be from a physical assault and pronounced them dead."
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "California",
+        "Woman"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 87,
+      "fuentes": [
+        "ev_5f41a3bcef",
+        "ev_b12add3a50",
+        "ev_ff402ca5ee",
+        "ev_690e34ad84",
+        "ev_47404fb02d",
+        "ev_469f45da45",
+        "ev_850934f59d",
+        "ev_25badb7e3c"
+      ],
+      "cluster_id": "cl_071",
+      "imagenes": [
+        "https://s.rfi.fr/media/display/343c3c0a-ad5d-11f1-978b-005056a90284/w:1024/p:16x9/2026-09-04T202729Z-261357402-RC2FCNAVEBYK-RTRMADP-3-USA-ELECTION-NEWSOM.jpg",
+        "https://i.guim.co.uk/img/media/f3725f60137868fa294de8cfc29f6db753de07f0/123_0_3653_2924/master/3653.jpg?width=140&quality=85&auto=format&fit=max&s=1f0e8a0d38ce34878eb692353ed39363",
+        "https://static.independent.co.uk/2026/09/12/1/17/Screenshot-2026-09-11-at-9-11-14-PM.jpg?width=1200&auto=webp&trim=0%2C4%2C0%2C3",
+        "https://e3.365dm.com/26/09/1920x1080/skynews-greece-baby-ivf_7348724.jpg?20260912050034"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5f41a3bcef",
+          "titulo": "California establece las primeras regulaciones sobre inteligencia artificial",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260911-california-establece-las-primeras-regulaciones-sobre-inteligencia-artificial",
+          "fuente": "RFI Espanol",
+          "fecha": "Fri, 11 Sep 2026 09:25:18 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_b12add3a50",
+          "titulo": "California woman charged with murder after allegedly killing husband with flagpole",
+          "url": "https://www.theguardian.com/us-news/2026/sep/11/california-woman-murder-charge-flagpole",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 12 Sep 2026 00:56:57 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ff402ca5ee",
+          "titulo": "Woman, 65, accused of beating husband to death with a flagpole in luxury gated community",
+          "url": "https://www.independent.co.uk/news/world/americas/crime/california-woman-murder-husband-flagpole-b3048976.html",
+          "fuente": "The Independent World",
+          "fecha": "Sat, 12 Sep 2026 01:49:40 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_690e34ad84",
+          "titulo": "Woman, 54, gives birth after using embryo frozen for 22 years",
+          "url": "https://news.sky.com/story/greek-woman-54-gives-birth-after-using-embryo-frozen-for-22-years-13584694",
+          "fuente": "Sky News World",
+          "fecha": "Sat, 12 Sep 2026 04:51:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_47404fb02d",
+          "titulo": "Woman, 54, gives birth to baby girl from embryo frozen for 22 years",
+          "url": "https://www.independent.co.uk/news/world/europe/greece-ivf-baby-frozen-embryo-b3048865.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 11 Sep 2026 18:27:43 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_469f45da45",
+          "titulo": "A California woman is accused of killing her two best friends miles apart. The motive remains a mystery",
+          "url": "https://www.independent.co.uk/news/world/americas/crime/california-woman-friend-murder-charge-b3048784.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 11 Sep 2026 19:40:13 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_850934f59d",
+          "titulo": "Woman whose case awakened long-dormant US court has been deported",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/nazira-haji-zada-alien-terrorist-removal-court-deported-b3048774.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 11 Sep 2026 15:52:23 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_25badb7e3c",
+          "titulo": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+          "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Fri, 11 Sep 2026 20:30:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-12_0004",
+      "fecha": "2026-09-12",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Sweden’s extremely close election could see far right enter government",
+        "en": "Sweden’s extremely close election could see far right enter government"
+      },
+      "sintesis": {
+        "es": "Latest poll shows 0.3-point gap between left and right blocs, with country’s reputation as global champion of human rights said to be at stake Sweden goes to the polls on Sunday in an extremely close election that could see the far right enter government for the first time if the country’s rightwing parties can form a majority. Opinion polls show the centre-left opposition alliance ahead, with Magdalena ⁠Andersson of the Social Democrats the favourite to become prime minister again after four years in opposition, but her bloc’s lead has narrowed considerably in the final days of the campaign. Continue reading...",
+        "en": "Latest poll shows 0.3-point gap between left and right blocs, with country’s reputation as global champion of human rights said to be at stake Sweden goes to the polls on Sunday in an extremely close election that could see the far right enter government for the first time if the country’s rightwing parties can form a majority. Opinion polls show the centre-left opposition alliance ahead, with Magdalena ⁠Andersson of the Social Democrats the favourite to become prime minister again after four years in opposition, but her bloc’s lead has narrowed considerably in the final days of the campaign. Continue reading..."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Sweden"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 58,
+      "fuentes": [
+        "ev_f457a48919",
+        "ev_be70fbac04",
+        "ev_20fcd0ea43",
+        "ev_a8c4eee325"
+      ],
+      "cluster_id": "cl_188",
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/298bc90caaeb6b36a43d571cfccee6292dcaa560/662_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=826cc5a9dd521ac03c0cdba4b5815f9b",
+        "https://static.independent.co.uk/2026/09/09/23/Ohio_Abused_Children_3167_.jpg?width=1200&auto=webp&crop=3%3A2",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255830341-1152x648.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_f457a48919",
+          "titulo": "Sweden’s extremely close election could see far right enter government",
+          "url": "https://www.theguardian.com/world/2026/sep/12/sweden-extremely-close-election-could-see-far-right-enter-government",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 12 Sep 2026 05:00:30 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_be70fbac04",
+          "titulo": "Sweden heads to the polls: What’s at stake in the knife-edge election?",
+          "url": "https://www.aljazeera.com/news/2026/9/12/sweden-heads-to-the-polls-whats-at-stake-in-the-knife-edge-election?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 12 Sep 2026 08:42:28 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_20fcd0ea43",
+          "titulo": "What happens now after man accused of locking 16 kids in a squalid room found unfit to stand trial",
+          "url": "https://www.independent.co.uk/news/world/americas/crime/gary-siders-sr-trial-ohio-arrest-b3048144.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 11 Sep 2026 22:32:16 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a8c4eee325",
+          "titulo": "What happens when quantum mechanics and relativity meet?",
+          "url": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
+          "fuente": "Ars Technica",
+          "fecha": "Fri, 11 Sep 2026 11:20:02 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-12_0005",
+      "fecha": "2026-09-12",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Nueva York conmemora el 25º aniversario del 11-S",
+        "en": "New York marks 25th anniversary of 9/11"
+      },
+      "sintesis": {
+        "es": "Estados Unidos conmemoró los 25 años de los ataques terroristas del 11 de septiembre de 2001, con un acto en Nueva York donde familiares leyeron los nombres de casi 3.000 víctimas y se guardó un minuto de silencio. Donald Trump no asistió al acto en Nueva York por segunda vez consecutiva, participando en su lugar en una ceremonia en el Pentágono, mientras expresidentes y otros políticos sí estuvieron presentes. Paralelamente, resurgieron documentos que sugieren que las autoridades ocultaron información sobre la calidad del aire tras los atentados, y se destacó la evolución de la comunidad musulmana en la ciudad, que hoy tiene su primer alcalde de esa fe.",
+        "en": "The United States commemorated the 25th anniversary of the September 11, 2001 terrorist attacks, with a ceremony in New York where relatives read the names of nearly 3,000 victims and a moment of silence was observed. Donald Trump did not attend the New York event for the second consecutive year, instead participating in a ceremony at the Pentagon, while former presidents and other officials were present. Meanwhile, documents resurfaced suggesting authorities concealed information about air quality after the attacks, and coverage highlighted the growth of the city's Muslim community, which now has its first Muslim mayor."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Donald Trump",
+        "J.D. Vance",
+        "George W. Bush",
+        "Bill Clinton",
+        "Barack Obama",
+        "Joe Biden",
+        "Zohran Mamdani",
+        "Gobierno de Estados Unidos",
+        "Familiares de víctimas del 11-S"
+      ],
+      "geo": {
+        "lat": 40.7115,
+        "lon": -74.0134,
+        "region": "Nueva York, Estados Unidos"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_7915788f39",
+        "ev_07ecd1f9f1",
+        "ev_83ee2f1fc2",
+        "ev_0e91b9f34a",
+        "ev_d6331dfd6f"
+      ],
+      "cluster_id": "cl_007",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb56/live/608dc6b0-ad27-11f1-b1d1-571ed4d7ff2c.jpg",
+        "https://s.france24.com/media/display/ad2f5a60-ae3f-11f1-acde-005056bf30b7/w:1024/p:16x9/ES-20260911-170205-170404-CS.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a1ac/live/df5e9fb0-aba5-11f1-8e72-a346833ed029.jpg",
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260911/1213468_195017_video_1800.mp4"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_7915788f39",
+          "titulo": "EN VIDEO: minuto a minuto de cómo fueron los ataques del 11-S",
+          "url": "https://www.bbc.com/mundo/articles/c1j4zp43x39o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Fri, 11 Sep 2026 13:55:51 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_07ecd1f9f1",
+          "titulo": "Nueva York conmemora los 25 años del 11-S con los nombres de las víctimas y un minuto de silencio",
+          "url": "https://www.france24.com/es/video/20260912-nueva-york-conmemora-los-25-a%C3%B1os-del-11-s-con-los-nombres-de-las-v%C3%ADctimas-y-un-minuto-de-silencio",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sat, 12 Sep 2026 01:25:24 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_83ee2f1fc2",
+          "titulo": "\"La gente enfermó porque les mintieron\": documentos muestran que las autoridades de Nueva York ocultaron información sobre la calidad del aire tras el 11-S",
+          "url": "https://www.bbc.com/mundo/articles/cwyzpl5d7zno?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Tue, 08 Sep 2026 15:41:53 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_0e91b9f34a",
+          "titulo": "La ausencia de Trump en Nueva York marca el 25º aniversario del 11-S, presidido por el recuerdo a las víctimas",
+          "url": "https://elpais.com/us/2026-09-11/la-ausencia-de-trump-marca-el-25-aniversario-del-11-s-en-nueva-york-presidido-por-el-recuerdo-a-las-victimas.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Sat, 12 Sep 2026 05:12:08 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d6331dfd6f",
+          "titulo": "Nueva York, de los recelos contra el islam tras el 11-S a elegir a su primer alcalde musulmán",
+          "url": "https://elpais.com/us/2026-09-11/nueva-york-de-los-recelos-contra-el-islam-tras-el-11-s-a-elegir-a-su-primer-alcalde-musulman.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Fri, 11 Sep 2026 04:00:00 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-09-12_0006",
+      "fecha": "2026-09-12",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-09-12_0011"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Aumenta a 35 los muertos por incendio de ferry en Filipinas, con decenas de desaparecidos",
+        "en": "Death toll from Philippines ferry fire rises to 35, with dozens still missing"
+      },
+      "sintesis": {
+        "es": "Un incendio a bordo del ferry M/V June Aster, que viajaba de Manila a Coron, Palawan, dejó al menos 35 muertos y decenas de desaparecidos tras propagarse rápidamente desde la bodega de carga. El buque encalló cerca de la zona turística de Coron y las autoridades advierten que la cifra de víctimas seguirá aumentando. El acceso a los restos calcinados se ha visto dificultado por humos tóxicos y calor persistente.",
+        "en": "A fire aboard the ferry M/V June Aster, sailing from Manila to Coron, Palawan, has killed at least 35 people with dozens still missing after the blaze spread rapidly from the cargo hold. The vessel ran aground near the tourist hotspot of Coron, and authorities warn the death toll will continue to rise. Access to the burnt-out ship has been hampered by toxic fumes and lingering heat."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "M/V June Aster",
+        "Philippine Coast Guard",
+        "Passengers and crew"
+      ],
+      "geo": {
+        "lat": 12.0,
+        "lon": 120.2,
+        "region": "Coron, Palawan, Philippines"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_e29662232d",
+        "ev_69eb51d4ab",
+        "ev_daf655b769",
+        "ev_2f863eb3ae"
+      ],
+      "cluster_id": "cl_157",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg",
+        "https://i.guim.co.uk/img/media/a27835cebb9f406a865b3b8e073a3bed081a1781/102_0_1498_1199/master/1498.jpg?width=140&quality=85&auto=format&fit=max&s=d3b83fef57dd82f01dc4ff5fb7dddbef",
+        "https://static01.nyt.com/images/2026/09/10/multimedia/10int-philippines-ferry-zfjg/10int-philippines-ferry-zfjg-mediumSquareAt3X.jpg",
+        "https://e3.365dm.com/26/09/1920x1080/skynews-june-aster-philippines_7348197.jpg?20260911155710"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_e29662232d",
+          "titulo": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+          "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sat, 12 Sep 2026 03:02:28 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_69eb51d4ab",
+          "titulo": "Death toll from Philippines ferry fire rises to 35, as officials warn toll will grow",
+          "url": "https://www.theguardian.com/world/2026/sep/12/death-toll-from-philippines-ferry-fire-rises-to-35-as-officials-warn-toll-will-grow",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 12 Sep 2026 04:53:10 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_daf655b769",
+          "titulo": "At Least 35 Dead, Dozens Missing After Ferry Fire in the Philippines",
+          "url": "https://www.nytimes.com/2026/09/09/world/asia/philippines-ferry-fire-palawan.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 11 Sep 2026 17:00:10 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2f863eb3ae",
+          "titulo": "Deaths in Philippines ferry fire rises to at least 35",
+          "url": "https://news.sky.com/story/deaths-in-philippines-ferry-fire-rises-to-at-least-35-with-54-still-missing-13584566",
+          "fuente": "Sky News World",
+          "fecha": "Fri, 11 Sep 2026 19:41:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-12_0007",
+      "fecha": "2026-09-12",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Inside the New York lab using genetic genealogy to identify 9/11 victims’ remains",
+        "en": "Inside the New York lab using genetic genealogy to identify 9/11 victims’ remains"
+      },
+      "sintesis": {
+        "es": "Forty per cent of the 2,753 people who died at Ground Zero on 9/11 have not had their remains identified, including approximately 10 of the 24 Canadian victims. Last month, the lab announced it made its first identification of previously unknown remains using a breakthrough technique.",
+        "en": "Forty per cent of the 2,753 people who died at Ground Zero on 9/11 have not had their remains identified, including approximately 10 of the 24 Canadian victims. Last month, the lab announced it made its first identification of previously unknown remains using a breakthrough technique."
+      },
+      "categoria": "innovacion",
+      "actores": [
+        "New York",
+        "Drone",
+        "Twin Towers",
+        "City"
+      ],
+      "geo": {
+        "lat": 32.4,
+        "lon": 53.7,
+        "region": "Oriente Medio"
+      },
+      "impacto": 51,
       "fuentes": [
         "ev_050a721ddb",
-        "ev_b7790e0719",
-        "ev_171833f092",
-        "ev_5eecd71394",
-        "ev_1615903d33",
-        "ev_ee4e322b98"
+        "ev_29a34ae5a5",
+        "ev_3f761f9dc4"
       ],
-      "cluster_id": "cl_169",
+      "cluster_id": "cl_170",
       "imagenes": [
         "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5786/live/ab35c5b0-ad21-11f1-a540-61c3f7fc4e6c.jpg",
-        "https://s.france24.com/media/display/ce2d3c00-a7ff-11f1-9a34-005056bfb2b6/w:1024/p:16x9/c735e013a856f06156c3a257dddd6255f324b2f8.jpg",
-        "https://s.france24.com/media/display/05bcffd2-11c1-11ec-9063-005056bf30b7/w:1024/p:16x9/000_9MG36Z.jpg",
-        "https://static.independent.co.uk/2026/09/10/18/25/89183b44d45973ad-cf4fb16f4800.jpeg?width=1200&auto=webp&trim=0%2C15%2C0%2C13"
+        "https://static.independent.co.uk/2026/09/11/21/Iran_War_American_Detainees_88542.jpg?width=1200&auto=webp&crop=3%3A2"
       ],
       "estado": "verificado",
       "referencias": [
@@ -459,327 +933,271 @@
           "idioma": "en"
         },
         {
-          "id": "ev_b7790e0719",
-          "titulo": "Trump absent as New York marks 25 years since 9/11 with first Muslim mayor",
-          "url": "https://www.france24.com/en/americas/20260911-trump-new-york-25-years-9-11-muslim-mayor",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 11 Sep 2026 01:47:42 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_171833f092",
-          "titulo": "As New York marks 25 years since 9/11, Muslims recall stigmatisation in aftermath of attacks",
-          "url": "https://www.france24.com/en/as-new-york-marks-25-years-since-9-11-muslims-recall-stigmatization-in-aftermath-of-attacks",
-          "fuente": "France 24 English",
-          "fecha": "Thu, 10 Sep 2026 19:32:33 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5eecd71394",
-          "titulo": "New Mexico leaders beg Apple and Google not to rename their state on apps like Trump wants",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-new-mexico-name-maps-b3048198.html",
+          "id": "ev_29a34ae5a5",
+          "titulo": "A New York jeweler has been released from prison in Iran but is banned from leaving war-torn country",
+          "url": "https://www.independent.co.uk/news/world/americas/iran-new-york-state-department-american-tehran-b3048902.html",
           "fuente": "The Independent World",
-          "fecha": "Thu, 10 Sep 2026 20:40:05 GMT",
+          "fecha": "Fri, 11 Sep 2026 20:14:03 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_1615903d33",
-          "titulo": "Man pictured fleeing Twin Towers on 9/11 with briefcase says ‘missing the elevator saved my life’",
-          "url": "https://www.independent.co.uk/news/world/americas/ed-fine-briefcase-twin-towers-911-attacks-b3047807.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 10 Sep 2026 09:55:10 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ee4e322b98",
-          "titulo": "The hunt for unknown life in New York City",
-          "url": "https://phys.org/news/2026-09-unknown-life-york-city.html",
-          "fuente": "Phys.org",
-          "fecha": "Thu, 10 Sep 2026 20:40:03 EDT",
+          "id": "ev_3f761f9dc4",
+          "titulo": "Inside the New York lab using genetic genealogy to identify 9/11 victims’ remains",
+          "url": "https://www.cbc.ca/news/world/lab-identifying-911-victim-remains-9.7338354?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 11 Sep 2026 04:00:00 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-11_0004",
-      "fecha": "2026-09-11",
+      "id": "nd_2026-09-12_0008",
+      "fecha": "2026-09-12",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Hitler, caballos y palomas: Maurizio Cattelan explora poder y oscuridad en Berlín",
+        "en": "Hitler, horses and pigeons: Maurizio Cattelan explores power and darkness in Berlin exhibition"
+      },
+      "sintesis": {
+        "es": "El artista italiano Maurizio Cattelan presenta en Berlín su primera gran exposición individual en Alemania, donde explora el poder, la violencia, la muerte, la fe y la incertidumbre.",
+        "en": "Italian artist Maurizio Cattelan has brought his provocative and often unsettling work to Berlin for his first major solo exhibition in Germany exploring power, violence, death, faith and uncertainty."
+      },
+      "categoria": "innovacion",
+      "actores": [
+        "Hitler",
+        "Maurizio Cattelan",
+        "Berlin"
+      ],
+      "geo": {
+        "lat": 51.2,
+        "lon": 10.4,
+        "region": "Europa"
+      },
+      "impacto": 46,
+      "fuentes": [
+        "ev_ac0a62628f",
+        "ev_7ca0782c22"
+      ],
+      "cluster_id": "cl_111",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_ac0a62628f",
+          "titulo": "Hitler, caballos y palomas: Maurizio Cattelan explora poder y oscuridad en Berlín",
+          "url": "https://es.euronews.com/cultura/2026/09/11/hitler-caballos-y-palomas-maurizio-cattelan-explora-poder-y-oscuridad-en-berlin",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 11 Sep 2026 15:28:18 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_7ca0782c22",
+          "titulo": "Hitler, horses and pigeons: Maurizio Cattelan explores power and darkness in Berlin exhibition",
+          "url": "https://www.euronews.com/culture/2026/09/11/hitler-horses-and-pigeons-maurizio-cattelan-explores-power-and-darkness-in-berlin-exhibiti",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 11 Sep 2026 13:14:40 +0200",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-12_0009",
+      "fecha": "2026-09-12",
       "kardashev": "K0",
       "relaciones": [
-        "nd_2026-09-11_0003",
-        "nd_2026-09-11_0009"
+        "nd_2026-09-12_0001",
+        "nd_2026-09-12_0010"
       ]
     },
     {
       "titulo": {
-        "es": "Nepal exige compensación climática mientras continúan los duelos por la riada devastadora",
-        "en": "Nepal demands climate compensation as mourning continues for devastating flood"
+        "es": "50 CEOs e inversores piden a Bruselas que no diluya la propuesta EU Inc.",
+        "en": "50 CEOs and investors urge Brussels not to dilute the EU Inc law"
       },
       "sintesis": {
-        "es": "Dos semanas después de la riada causada por el colapso parcial de un glaciar en el Tíbet controlado por China, que provocó deslizamientos e inundaciones en Nepal, continúan los rituales fúnebres en el templo de Pashupatinath por las más de 6.000 víctimas fallecidas o desaparecidas. El canciller nepalí Shisir Khanal exige 20 millones de dólares en compensación climática a los países más contaminantes, argumentando que Nepal apenas emite el 0.1% de los gases de efecto invernadero globales. Científicos señalan que la crisis climática influyó en el desastre.",
-        "en": "Two weeks after a flood caused by the partial collapse of a glacier in Chinese-controlled Tibet, which triggered landslides and flash flooding in Nepal, funeral rituals continue at the Pashupatinath temple for the more than 6,000 people dead or missing. Nepal's foreign minister Shisir Khanal is demanding $20 million in climate compensation from the world's biggest polluters, noting Nepal contributes less than 0.1% of global greenhouse gas emissions. Scientists believe the climate crisis played a role in the disaster."
+        "es": "Fundadores e inversores piden a los responsables políticos de la UE que no diluyan EU Inc., la propuesta legislativa que busca facilitar el crecimiento y la expansión de las empresas en Europa.",
+        "en": "Founders and investors call EU policymakers to not water down the EU Inc., the legislative proposal which aims to facilitate businesses in Europe to scale up."
       },
-      "categoria": "clima",
+      "categoria": "ciencia",
       "actores": [
-        "Nepal",
-        "Shisir Khanal",
-        "China/Tíbet",
-        "The Guardian"
+        "CEOs",
+        "Inc",
+        "Bruselas",
+        "Brussels"
       ],
       "geo": {
-        "lat": 27.7,
-        "lon": 85.3,
-        "region": "Nepal"
+        "lat": 50.8,
+        "lon": 4.4,
+        "region": "Europa"
       },
-      "impacto": 72,
+      "impacto": 46,
       "fuentes": [
-        "ev_f418a3e79e",
-        "ev_671cbf1eac"
+        "ev_cb26d47004",
+        "ev_38a44506b6"
       ],
-      "cluster_id": "cl_061",
-      "imagenes": [
-        "https://s.france24.com/media/display/0df41510-ad51-11f1-8391-005056bfb2b6/w:1024/p:16x9/Familias-se-despiden-de-vi%CC%81ctimas-de-la-riada-en-Pashupatinath.png",
-        "https://i.guim.co.uk/img/media/eaed8dd07123749fede2b9dfe1d9e9d22992d090/959_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=52c1d86387860121c2975a646c8b59ca"
-      ],
+      "cluster_id": "cl_119",
+      "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_f418a3e79e",
-          "titulo": "Nepal: familiares de las víctimas de la riada se despiden en Pashupatinath",
-          "url": "https://www.france24.com/es/video/20260910-nepal-familiares-de-las-vi%CC%81ctimas-de-la-riada-se-despiden-en-pashupatinath",
-          "fuente": "France 24 Espanol",
-          "fecha": "Thu, 10 Sep 2026 23:12:03 GMT",
+          "id": "ev_cb26d47004",
+          "titulo": "50 CEOs e inversores piden a Bruselas que no diluya la propuesta EU Inc.",
+          "url": "https://es.euronews.com/business/2026/09/11/50-ceos-e-inversores-piden-a-bruselas-no-diluir-la-ley-eu-inc",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 11 Sep 2026 14:18:37 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_671cbf1eac",
-          "titulo": "Nepal says big polluters must ‘wake up’ as it calls for climate compensation over flood disaster",
-          "url": "https://www.theguardian.com/world/2026/sep/08/nepal-floods-climate-compensation",
-          "fuente": "The Guardian World",
-          "fecha": "Tue, 08 Sep 2026 00:58:09 GMT",
+          "id": "ev_38a44506b6",
+          "titulo": "50 CEOs and investors urge Brussels not to dilute the EU Inc law",
+          "url": "https://www.euronews.com/business/2026/09/11/50-ceos-and-investors-urge-brussels-not-to-dilute-the-eu-inc-law",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 11 Sep 2026 15:00:17 +0200",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-11_0005",
-      "fecha": "2026-09-11",
-      "kardashev": "K1",
-      "relaciones": []
+      "id": "nd_2026-09-12_0010",
+      "fecha": "2026-09-12",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-09-12_0001",
+        "nd_2026-09-12_0009"
+      ]
     },
     {
       "titulo": {
-        "es": "Anthropic revela usos indebidos de su IA en ciberataques, armas biológicas y espionaje, y advierte de riesgos económicos y existenciales",
-        "en": "Anthropic reveals misuse of its AI for cyberattacks, bioweapons and espionage, while warning of economic and existential risks"
+        "es": "La Federación Francesa de Fútbol retira su apoyo a Infantino en medio de investigación sobre vínculos con Trump",
+        "en": "French Football Federation withdraws support for Infantino amid investigation into Trump links"
       },
       "sintesis": {
-        "es": "Anthropic publicó un informe de inteligencia de amenazas detallando casos de uso indebido de sus modelos Claude en ciberataques, propaganda, investigación biológica peligrosa, desarrollo de misiles en Yemen y espionaje, además de entrenamiento no autorizado por parte de laboratorios chinos como Alibaba y Moonshot AI. Estas revelaciones llegan tras la renuncia de una investigadora por preocupaciones de seguridad y declaraciones internas sobre riesgos existenciales de la IA. Paralelamente, la compañía difundió un modelo económico que proyecta escenarios de crecimiento del PIB estadounidense hasta un 15% anual junto con desempleo masivo en empleos de oficina para 2030.",
-        "en": "Anthropic published a threat intelligence report detailing misuse of its Claude models for cyberattacks, propaganda, dangerous biological research, missile development in Yemen and espionage, as well as unauthorized training by Chinese labs such as Alibaba and Moonshot AI. These disclosures follow a researcher's resignation over safety concerns and internal statements about existential AI risks. Simultaneously, the company released an economic model projecting scenarios of up to 15% annual US GDP growth alongside mass unemployment in office jobs by 2030."
+        "es": "La Federación Francesa de Fútbol (FFF) decidió retirar su respaldo a Gianni Infantino como candidato a la reelección presidencial de la FIFA en 2027, tras una reunión de su comité ejecutivo. Paralelamente, se reveló que Infantino ignoró una investigación estadounidense sobre una supuesta campaña de la FIFA para congraciarse con Donald Trump. Ambos hechos coinciden en generar presión sobre el liderazgo de Infantino al frente del organismo futbolístico mundial.",
+        "en": "The French Football Federation (FFF) decided to withdraw its support for Gianni Infantino's bid for re-election as FIFA president in 2027, following an executive committee meeting. Simultaneously, it was revealed that Infantino ignored a US investigation into an alleged FIFA campaign to curry favor with Donald Trump. Both developments coincide in mounting pressure on Infantino's leadership of the world football governing body."
       },
-      "categoria": "tecnologia",
+      "categoria": "sociedad",
       "actores": [
-        "Anthropic",
-        "Claude AI",
-        "Alibaba",
-        "Moonshot AI",
-        "Gobierno de Yemen",
-        "OpenAI/AI industry"
+        "Gianni Infantino",
+        "FIFA",
+        "Federación Francesa de Fútbol (FFF)",
+        "Donald Trump"
       ],
       "geo": {
-        "lat": 37.7749,
-        "lon": -122.4194,
-        "region": "San Francisco, EE.UU."
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "region": "Francia / Internacional (FIFA)"
       },
-      "impacto": 72,
+      "impacto": 45,
       "fuentes": [
-        "ev_adfaaa65ae",
-        "ev_3ca1b17f10",
-        "ev_040eb7344f",
-        "ev_81eb5c9040",
-        "ev_7f2a582fd7",
-        "ev_90f120a8f2",
-        "ev_bd60d02a38",
-        "ev_0e9d539757",
-        "ev_7b7928294d"
+        "ev_f877fac4cf",
+        "ev_78019309e5"
       ],
-      "cluster_id": "cl_095",
+      "cluster_id": "cl_075",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg"
+        "https://s.rfi.fr/media/display/05fcfe88-ad1c-11f1-8f53-005056a90284/w:1024/p:16x9/61a6941e6b3346c190c0e8c5a2b6416876ceb58a.jpg",
+        "https://static.independent.co.uk/2026/07/07/8/13/GettyImages-1024850174.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_adfaaa65ae",
-          "titulo": "Anthropic afirma haber frenado el uso indebido de la IA en ciberataques y armas biológicas",
-          "url": "https://es.euronews.com/next/2026/09/11/anthropic-dice-que-frena-el-uso-indebido-de-la-ia-para-ciberataques-propaganda-y-armas-bio",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 11 Sep 2026 08:57:24 +0200",
+          "id": "ev_f877fac4cf",
+          "titulo": "Presidencia de la FIFA: la Federación Francesa de Fútbol retira su apoyo a Gianni Infantino",
+          "url": "https://www.rfi.fr/es/deportes/20260910-presidencia-de-la-fifa-la-federaci%C3%B3n-francesa-de-f%C3%BAtbol-retira-su-apoyo-a-gianni-infantino",
+          "fuente": "RFI Espanol",
+          "fecha": "Thu, 10 Sep 2026 15:03:38 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_3ca1b17f10",
-          "titulo": "Anthropic afirma que la IA podría aportar un crecimiento del 15% y desempleo masivo en 2030",
-          "url": "https://es.euronews.com/business/2026/09/11/anthropic-afirma-que-la-ia-podria-aportar-un-crecimiento-del-15-y-desempleo-masivo-en-2030",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 11 Sep 2026 07:50:12 +0200",
+          "id": "ev_78019309e5",
+          "titulo": "Gianni Infantino snubs US investigation into Fifa’s Trump links",
+          "url": "https://www.independent.co.uk/sport/football/gianni-infantino-trump-fifa-investigation-jamie-raskin-b3048545.html",
+          "fuente": "The Independent World",
+          "fecha": "Fri, 11 Sep 2026 10:14:12 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-12_0011",
+      "fecha": "2026-09-12",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-09-12_0006"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "La presidenta del jurado del caso Lindsay Clancy: \"Estábamos listos para absolverla y uno de nosotros tuvo dudas\"",
+        "en": "Lindsay Clancy's lawyer asks judge to find her not guilty of murder following mistrial"
+      },
+      "sintesis": {
+        "es": "Tres miembros del jurado han relatado a una televisión la \"montaña rusa emocional\" que vivieron durante las deliberaciones, marcadas por \"llantos, discusiones y gritos\". El proceso fue declarado nulo después de más de 40 horas de deliberaciones Leer",
+        "en": "Lindsay Clancy's lawyer has asked the judge who oversaw the Massachusetts woman's murder trial to declare her not guilty by reason of insanity, saying ‌prosecutors had failed to prove that, despite being mentally ill, she knew killing her three young children would be wrong."
+      },
+      "categoria": "salud",
+      "actores": [
+        "Lindsay Clancy"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_b58f721be0",
+        "ev_260c951f70"
+      ],
+      "cluster_id": "cl_142",
+      "imagenes": [
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/10/17890246944570.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_b58f721be0",
+          "titulo": "La presidenta del jurado del caso Lindsay Clancy: \"Estábamos listos para absolverla y uno de nosotros tuvo dudas\"",
+          "url": "https://www.elmundo.es/internacional/2026/09/10/6aa25802e4d4d8a5128b4587.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Thu, 10 Sep 2026 09:42:33 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_040eb7344f",
-          "titulo": "Anthropic blocks possible attempt to use AI to make biological weapons",
-          "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 11 Sep 2026 08:15:25 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_81eb5c9040",
-          "titulo": "Anthropic warns of bids to use AI to build biological weapons",
-          "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-warns-of-bids-to-use-ai-to-build-biological-weapons?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 11 Sep 2026 08:08:43 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_7f2a582fd7",
-          "titulo": "Anthropic claims Claude AI used for missile projects, global espionage",
-          "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 11 Sep 2026 04:48:25 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_90f120a8f2",
-          "titulo": "Anthropic says it stopped AI misuse for cyberattacks, propaganda and bioweapons",
-          "url": "https://www.euronews.com/next/2026/09/11/anthropic-says-it-stopped-ai-misuse-for-cyberattacks-propaganda-and-bioweapons",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 11 Sep 2026 07:53:32 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_bd60d02a38",
-          "titulo": "Anthropic says AI could bring both 15% growth and mass unemployment by 2030",
-          "url": "https://www.euronews.com/business/2026/09/11/anthropic-says-ai-could-bring-both-15-growth-and-mass-unemployment-by-2030",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 11 Sep 2026 07:00:23 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_0e9d539757",
-          "titulo": "AI researchers 'earnestly believe' it could kill all humans within the next decade, Anthropic employee says",
-          "url": "https://www.cbc.ca/news/business/anthropic-researcher-resigned-9.7337789?cmp=rss",
+          "id": "ev_260c951f70",
+          "titulo": "Lindsay Clancy's lawyer asks judge to find her not guilty of murder following mistrial",
+          "url": "https://www.cbc.ca/news/world/lindsay-clancy-murder-mistrial-lawyer-asks-judge-not-guilty-9.7339253?cmp=rss",
           "fuente": "CBC World",
-          "fecha": "Wed, 09 Sep 2026 21:05:39 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_7b7928294d",
-          "titulo": "Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says",
-          "url": "https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Fri, 11 Sep 2026 00:59:45 GMT",
+          "fecha": "Thu, 10 Sep 2026 16:21:42 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-11_0006",
-      "fecha": "2026-09-11",
+      "id": "nd_2026-09-12_0012",
+      "fecha": "2026-09-12",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "OpenAI enfrenta controversia por afirmación matemática y pide regulación vinculante de IA tras lanzar GPT-6 Astra",
-        "en": "OpenAI faces controversy over math claim and calls for binding AI regulation after releasing GPT-6 Astra"
+        "es": "iPhone Duo: el costoso primer teléfono plegable de Apple, la apuesta del nuevo jefe del gigante tecnológico",
+        "en": "We unfolded the iPhone Duo"
       },
       "sintesis": {
-        "es": "OpenAI afirmó haber resuelto en 88 horas parte de las ecuaciones de Navier-Stokes, un problema matemático sin solución durante 90 años, lo que generó acusaciones de plagio y controversia. Días después, la compañía lanzó GPT-6 Astra, su modelo más avanzado hasta la fecha, tras retrasar su despliegue por preocupaciones de ciberseguridad. En un giro notable, OpenAI ahora reclama normas nacionales vinculantes de seguridad para la inteligencia artificial.",
-        "en": "OpenAI claimed to have solved part of the Navier-Stokes equations in 88 hours, a mathematical problem unsolved for 90 years, sparking plagiarism accusations and controversy. Days later, the company released GPT-6 Astra, its most capable model to date, after delaying its rollout over cybersecurity concerns. In a notable U-turn, OpenAI now calls for binding national AI safety regulations."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "OpenAI"
-      ],
-      "geo": {
-        "lat": 37.7749,
-        "lon": -122.4194,
-        "region": "San Francisco, Estados Unidos"
-      },
-      "impacto": 68,
-      "fuentes": [
-        "ev_82919a667c",
-        "ev_22caca8e4e",
-        "ev_96c14e198e"
-      ],
-      "cluster_id": "cl_024",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b5b7/live/6a591f20-ac76-11f1-80f0-9795d1a5edbc.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_82919a667c",
-          "titulo": "OpenAI asegura haber resuelto en 88 horas un problema matemático sin respuesta durante 90 años (y las acusaciones de plagio en su contra)",
-          "url": "https://www.bbc.com/mundo/articles/c39md3dd34lo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Wed, 09 Sep 2026 17:23:10 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_22caca8e4e",
-          "titulo": "OpenAI da marcha atrás y reclama normas nacionales vinculantes de seguridad en IA",
-          "url": "https://es.euronews.com/next/2026/09/11/openai-da-marcha-atras-y-reclama-normas-nacionales-vinculantes-de-seguridad-en-ia",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 11 Sep 2026 10:48:13 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_96c14e198e",
-          "titulo": "OpenAI makes U-turn and calls for binding national AI safety rules",
-          "url": "https://www.euronews.com/next/2026/09/11/openai-makes-u-turn-and-calls-for-binding-national-ai-safety-rules",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 11 Sep 2026 10:46:53 +0200",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-11_0007",
-      "fecha": "2026-09-11",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Apple presenta el iPhone Duo, su primer plegable, junto a nuevos iPhone 18 Pro y AirPods 5",
-        "en": "Apple unveils iPhone Duo, its first foldable, alongside new iPhone 18 Pro and AirPods 5"
-      },
-      "sintesis": {
-        "es": "Apple presentó en su evento anual de septiembre el iPhone Duo, su primer teléfono plegable, con un precio de entre 1.999 y 3.000 dólares, marcando el mayor cambio de diseño en casi 20 años. El anuncio, considerado la primera gran apuesta del nuevo jefe de la compañía, incluyó también los modelos iPhone 18 Pro, actualizaciones del Apple Watch y los nuevos AirPods 5. Operadoras como T-Mobile, AT&T y Verizon ya ofrecen promociones para reducir el costo del nuevo dispositivo.",
-        "en": "Apple unveiled the iPhone Duo, its first foldable phone, at its annual September event, priced between $1,999 and $3,000, marking the biggest design change in nearly 20 years. The announcement, seen as the new CEO's first major gamble, also included the iPhone 18 Pro models, Apple Watch updates, and the new AirPods 5. Carriers like T-Mobile, AT&T, and Verizon are already offering promotions to lower the cost of the new device."
+        "es": "La compañía tecnológica presentó el primer cambio de diseño importante del iPhone desde su lanzamiento hace casi 20 años.",
+        "en": "You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talking all about Apple's launch event: how John Ternus did in his first appearance as CEO, what we make of the […]"
       },
       "categoria": "innovacion",
       "actores": [
-        "Apple",
-        "T-Mobile",
-        "AT&T",
-        "Verizon"
+        "Duo",
+        "Apple"
       ],
       "geo": {
-        "lat": 37.3349,
-        "lon": -122.009,
-        "region": "California, Estados Unidos"
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
       },
-      "impacto": 62,
+      "impacto": 44,
       "fuentes": [
         "ev_8ce05babba",
-        "ev_df0b0cb285",
-        "ev_8eded1a498",
-        "ev_fead84e138",
-        "ev_72d0ad100a",
-        "ev_66f55bc5c3",
-        "ev_a2cbf12f67",
-        "ev_e31cf4bf99",
-        "ev_2d58a6190a"
+        "ev_dd0b428b50"
       ],
-      "cluster_id": "cl_023",
+      "cluster_id": "cl_022",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/569e/live/3eec7030-ac80-11f1-994b-c7df927931ed.png",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/025b/live/d70047b0-acf9-11f1-a540-61c3f7fc4e6c.jpg",
-        "https://e3.365dm.com/26/09/1920x1080/skynews-iphone-duo-apple_7346568.jpg?20260909221330",
-        "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-iPhone-Duo-display-sizes-260909-1152x648.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/569e/live/3eec7030-ac80-11f1-994b-c7df927931ed.png"
       ],
       "estado": "verificado",
       "referencias": [
@@ -792,470 +1210,16 @@
           "idioma": "es"
         },
         {
-          "id": "ev_df0b0cb285",
-          "titulo": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-          "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 10 Sep 2026 09:32:34 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8eded1a498",
-          "titulo": "Apple launches first foldable iPhone",
-          "url": "https://news.sky.com/story/apple-launches-first-foldable-iphone-its-most-expensive-to-date-13583745",
-          "fuente": "Sky News World",
-          "fecha": "Wed, 09 Sep 2026 21:08:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_fead84e138",
-          "titulo": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-          "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
-          "fuente": "Ars Technica",
-          "fecha": "Wed, 09 Sep 2026 19:42:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_72d0ad100a",
-          "titulo": "Everything Apple Announced: iPhone Duo, iPhone 18 Pro, Apple Watch, AirPods 5",
-          "url": "https://www.wired.com/story/everything-apple-announced-september-2026/",
-          "fuente": "WIRED",
-          "fecha": "Wed, 09 Sep 2026 19:21:18 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_66f55bc5c3",
-          "titulo": "Apple unveils iPhone Duo, its new folding phone that costs at least $3K",
-          "url": "https://www.cbc.ca/news/business/new-iphone-folding-9.7336996?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Wed, 09 Sep 2026 11:02:33 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a2cbf12f67",
-          "titulo": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-          "url": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
-          "fuente": "Ars Technica",
-          "fecha": "Wed, 09 Sep 2026 18:58:24 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e31cf4bf99",
-          "titulo": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
-          "url": "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
-          "fuente": "Ars Technica",
-          "fecha": "Wed, 09 Sep 2026 17:38:53 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2d58a6190a",
-          "titulo": "Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.",
-          "url": "https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Thu, 10 Sep 2026 22:25:00 GMT",
+          "id": "ev_dd0b428b50",
+          "titulo": "We unfolded the iPhone Duo",
+          "url": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
+          "fuente": "The Verge",
+          "fecha": "",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-11_0008",
-      "fecha": "2026-09-11",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "La batalla silenciosa por la salud mental en Uruguay, el país con la tasa de suicidios más alta de América Latina",
-        "en": "La batalla silenciosa por la salud mental en Uruguay, el país con la tasa de suicidios más alta de América Latina"
-      },
-      "sintesis": {
-        "es": "Aunque los especialistas advierten que se trata de una problemática compleja y multicausal, aquí destacamos cinco factores que pueden ayudar a entender qué ocurre en este país.",
-        "en": "Aunque los especialistas advierten que se trata de una problemática compleja y multicausal, aquí destacamos cinco factores que pueden ayudar a entender qué ocurre en este país."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Latina",
-        "Uruguay",
-        "Pruebas PISA",
-        "Meta"
-      ],
-      "geo": {
-        "lat": 38.9,
-        "lon": -77.0,
-        "region": "Norteamerica"
-      },
-      "impacto": 57,
-      "fuentes": [
-        "ev_ca2c3e5abb",
-        "ev_3f21166a16",
-        "ev_bfb9b477c3",
-        "ev_85323c9554"
-      ],
-      "cluster_id": "cl_004",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/289e/live/874869d0-ad1e-11f1-826f-933990eae6f0.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/29c9/live/a00dc470-ab56-11f1-b471-ff02eb3eac27.jpg",
-        "https://s.rfi.fr/media/display/edcab250-9016-11f1-a0d3-005056a90284/w:1024/p:16x9/Un-t%C3%A9l%C3%A9phone-avec-certaines-des-principales-applications-bas%C3%A9es-sur-l-intelligence-artificielle-%C3%A0-Saint-Mand%C3%A9-en-France-le-15-juillet-2026.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/09/17889392152174.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ca2c3e5abb",
-          "titulo": "La batalla silenciosa por la salud mental en Uruguay, el país con la tasa de suicidios más alta de América Latina",
-          "url": "https://www.bbc.com/mundo/articles/c980ndj537eo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 10 Sep 2026 10:15:43 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_3f21166a16",
-          "titulo": "Pruebas PISA: España obtiene los peores resultados educativos de su historia mientras la mayoría de los países de América Latina sufre retrocesos",
-          "url": "https://www.bbc.com/mundo/articles/c1kx8d94422o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Tue, 08 Sep 2026 11:03:29 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_bfb9b477c3",
-          "titulo": "Meta lanza las Notas de la Comunidad a 16 países de América Latina",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260909-meta-lanza-las-notas-de-la-comunidad-a-16-pa%C3%ADses-de-am%C3%A9rica-latina",
-          "fuente": "RFI Espanol",
-          "fecha": "Wed, 09 Sep 2026 15:30:26 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_85323c9554",
-          "titulo": "Gira por América Latina: Marco Rubio promete una relación \"más fuerte\" con Colombia tras la \"mala gestión\" de la izquierda",
-          "url": "https://www.elmundo.es/internacional/2026/09/09/6aa10ab1e9cf4a5b7a8b457d.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Wed, 09 Sep 2026 09:34:17 +0200",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-09-11_0009",
-      "fecha": "2026-09-11",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-09-11_0003",
-        "nd_2026-09-11_0004"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Incendio en ferry filipino deja al menos 5 muertos y más de 80 desaparecidos",
-        "en": "Fire on Philippine ferry leaves at least 5 dead, over 80 missing"
-      },
-      "sintesis": {
-        "es": "Un incendio se declaró a bordo del ferry June Aster, que navegaba de Manila a Coron, dejando al menos cinco muertos y más de 80 desaparecidos. Las operaciones de búsqueda y rescate frente a la costa occidental de Filipinas fueron suspendidas por la noche y se reanudarían al día siguiente.",
-        "en": "A fire broke out aboard the ferry June Aster, sailing from Manila to Coron, leaving at least five people dead and more than 80 missing. Search and rescue operations off the western coast of the Philippines were halted overnight and were expected to resume the next morning."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "June Aster ferry",
-        "autoridades filipinas de rescate"
-      ],
-      "geo": {
-        "lat": 11.9804,
-        "lon": 119.9186,
-        "region": "Coron, Palawan, Filipinas"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_9861fb1184",
-        "ev_41f3bbc26e",
-        "ev_8dc95009da"
-      ],
-      "cluster_id": "cl_254",
-      "imagenes": [
-        "https://static01.nyt.com/images/2026/09/10/multimedia/10int-philippines-ferry-zfjg/10int-philippines-ferry-zfjg-mediumSquareAt3X.jpg",
-        "https://e3.365dm.com/26/09/1920x1080/skynews-philippines-mv-june-aster_7346738.jpg?20260910065420"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_9861fb1184",
-          "titulo": "At Least 5 Dead, More Than 80 Missing After Ferry Fire in the Philippines",
-          "url": "https://www.nytimes.com/2026/09/09/world/asia/philippines-ferry-fire-palawan.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 10 Sep 2026 04:49:27 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_41f3bbc26e",
-          "titulo": "At least five dead and more than 80 missing after fire on Philippines ferry",
-          "url": "https://news.sky.com/story/at-least-five-dead-and-dozens-missing-after-fire-on-philippines-ferry-13583838",
-          "fuente": "Sky News World",
-          "fecha": "Thu, 10 Sep 2026 06:40:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8dc95009da",
-          "titulo": "Fire on passenger ferry in Philippines leaves at least 5 dead, dozens missing",
-          "url": "https://www.cbc.ca/news/world/ferry-fire-philippines-9.7338242?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Wed, 09 Sep 2026 22:57:16 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-11_0010",
-      "fecha": "2026-09-11",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
-        "en": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk"
-      },
-      "sintesis": {
-        "es": "In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths.",
-        "en": "In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Elon Musk",
-        "From DOGE",
-        "Alex Gibney",
-        "Katie Miller"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 53,
-      "fuentes": [
-        "ev_ff19c4b1b8",
-        "ev_e1c6d4fdda",
-        "ev_b73eb688ba"
-      ],
-      "cluster_id": "cl_229",
-      "imagenes": [
-        "https://static.independent.co.uk/2026/06/02/19/2203478806..?width=1200&auto=webp&trim=1%2C0%2C2%2C0"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ff19c4b1b8",
-          "titulo": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
-          "url": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
-          "fuente": "NPR News",
-          "fecha": "Fri, 11 Sep 2026 05:00:00 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e1c6d4fdda",
-          "titulo": "Katie Miller held a large stake in Elon Musk’s AI company as she bashed its rivals online: report",
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/katie-miller-stock-elon-musk-xai-b3048229.html",
-          "fuente": "The Independent World",
-          "fecha": "Thu, 10 Sep 2026 20:56:44 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b73eb688ba",
-          "titulo": "Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation",
-          "url": "https://www.cnbc.com/2026/09/10/elon-musk-boring-co-uae-valuation.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Thu, 10 Sep 2026 18:15:59 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-11_0011",
-      "fecha": "2026-09-11",
-      "kardashev": "K2",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "How sex with multiple mates can help save species from extinction",
-        "en": "How sex with multiple mates can help save species from extinction"
-      },
-      "sintesis": {
-        "es": "Allowing females to mate with multiple males, rather than just one, could help make species more resistant to extinction, University of East Anglia research shows. A new study reveals that when females have multiple males to mate with, their offspring inherit significantly fewer harmful genetic mutations. This, in turn, makes the entire population healthier and less likely to die out.",
-        "en": "Allowing females to mate with multiple males, rather than just one, could help make species more resistant to extinction, University of East Anglia research shows. A new study reveals that when females have multiple males to mate with, their offspring inherit significantly fewer harmful genetic mutations. This, in turn, makes the entire population healthier and less likely to die out."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "Spies"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 49,
-      "fuentes": [
-        "ev_aaa8dc91d2",
-        "ev_0ad5d126c7",
-        "ev_2d9d001256",
-        "ev_7130a2d2e4"
-      ],
-      "cluster_id": "cl_162",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0d3/live/fc065030-ada4-11f1-948d-2793442b7bf9.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2024/gardening.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/beetle.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_aaa8dc91d2",
-          "titulo": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
-          "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 11 Sep 2026 05:53:06 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_0ad5d126c7",
-          "titulo": "From hours at security to bulletproof cockpits: How 9/11 changed air travel",
-          "url": "https://www.aljazeera.com/news/2026/9/11/from-hours-at-security-to-bulletproof-cockpits-how-9-11-changed-air?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 11 Sep 2026 07:43:30 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2d9d001256",
-          "titulo": "How to help your garden recover from a heat wave",
-          "url": "https://phys.org/news/2026-09-garden-recover.html",
-          "fuente": "Phys.org",
-          "fecha": "Thu, 10 Sep 2026 18:00:06 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_7130a2d2e4",
-          "titulo": "How sex with multiple mates can help save species from extinction",
-          "url": "https://phys.org/news/2026-09-sex-multiple-species-extinction.html",
-          "fuente": "Phys.org",
-          "fecha": "Thu, 10 Sep 2026 16:40:07 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-11_0012",
-      "fecha": "2026-09-11",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Scientists reveal the hidden instructions that build the human brain",
-        "en": "Scientists reveal the hidden instructions that build the human brain"
-      },
-      "sintesis": {
-        "es": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.",
-        "en": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "Scientists",
-        "Einstein"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 48,
-      "fuentes": [
-        "ev_64eb8ba50a",
-        "ev_fd927c5760",
-        "ev_6cd002084b",
-        "ev_f138bf4afc",
-        "ev_5dad92189d",
-        "ev_e16ff24a56",
-        "ev_efb91a1336",
-        "ev_27fef9be7f",
-        "ev_ff27f5863f",
-        "ev_dbed19e9ee"
-      ],
-      "cluster_id": "cl_399",
-      "imagenes": [
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-directly-vi-1.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_64eb8ba50a",
-          "titulo": "Scientists find a bone-building switch that could fight osteoporosis",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Wed, 09 Sep 2026 09:52:53 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_fd927c5760",
-          "titulo": "Scientists discover a powerful new antivenom hidden in rattlesnake blood",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260907201605.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Tue, 08 Sep 2026 09:54:56 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6cd002084b",
-          "titulo": "Scientists observe Einstein’s gravity in the quantum world for the first time",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260907201552.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Tue, 08 Sep 2026 08:09:21 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f138bf4afc",
-          "titulo": "Scientists say love follows hidden mathematical rules",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260906170140.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Mon, 07 Sep 2026 04:58:31 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5dad92189d",
-          "titulo": "Scientists reveal the hidden instructions that build the human brain",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Fri, 04 Sep 2026 02:04:06 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e16ff24a56",
-          "titulo": "Scientists find a weak spot in one of the deadliest brain cancers",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Sun, 06 Sep 2026 02:58:29 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_efb91a1336",
-          "titulo": "Scientists overturn a theory about this shark’s strange head",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260902234508.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Fri, 04 Sep 2026 18:24:32 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_27fef9be7f",
-          "titulo": "Scientists discover why snake embryos twist into spirals",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901070516.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Tue, 01 Sep 2026 08:38:16 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ff27f5863f",
-          "titulo": "Scientists just overturned a century-old physics assumption",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901010659.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Thu, 03 Sep 2026 08:17:16 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_dbed19e9ee",
-          "titulo": "Scientists visualize proteins' hidden water architecture that may help define biological function",
-          "url": "https://phys.org/news/2026-09-scientists-visualize-proteins-hidden-architecture.html",
-          "fuente": "Phys.org",
-          "fecha": "Thu, 10 Sep 2026 20:00:01 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-11_0013",
-      "fecha": "2026-09-11",
+      "id": "nd_2026-09-12_0013",
+      "fecha": "2026-09-12",
       "kardashev": "K0",
       "relaciones": []
     }

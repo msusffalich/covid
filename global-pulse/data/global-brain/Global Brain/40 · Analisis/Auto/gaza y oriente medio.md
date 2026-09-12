@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-11
-nodos: 21
+actualizado: 2026-09-12
+nodos: 18
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-11. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-21 nodos registrados en el periodo. Lo mas reciente: Argelia rompe relaciones diplomáticas con Emiratos Árabes Unidos y le cierra su espacio aéreo.
+18 nodos registrados en el periodo. Lo mas reciente: Argelia rompe relaciones diplomáticas con Emiratos Árabes Unidos y le cierra su espacio aéreo.
 
 ## Trend summary (EN)
-21 nodes recorded in the period. Most recent: Norway’s Foreign Minister warns Netanyahu’s government driving Israel into a 'very dangerous place'.
+18 nodes recorded in the period. Most recent: Norway’s Foreign Minister warns Netanyahu’s government driving Israel into a 'very dangerous place'.
 
 > [!note] Estado actual
 > Argelia rompe relaciones diplomáticas con Emiratos Árabes Unidos y le cierra su espacio aéreo
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (18 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-11 | 95 | K2 | Argelia rompe relaciones diplomáticas con Emiratos Árabes Unidos |

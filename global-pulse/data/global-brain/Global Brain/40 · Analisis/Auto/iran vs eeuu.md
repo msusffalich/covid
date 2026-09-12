@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-09-11
-nodos: 32
+actualizado: 2026-09-12
+nodos: 33
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-11. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-32 nodos registrados en el periodo. Lo mas reciente: Putin llega a Nueva Delhi para una cumbre de los BRICS marcada por los conflictos globales.
+33 nodos registrados en el periodo. Lo mas reciente: A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?.
 
 ## Trend summary (EN)
-32 nodes recorded in the period. Most recent: Putin arrives in India for BRICS summit set to be dominated by Middle East, Ukraine wars.
+33 nodes recorded in the period. Most recent: BRICS leaders gather in India as wars and US tensions test unity.
 
 > [!note] Estado actual
-> Putin llega a Nueva Delhi para una cumbre de los BRICS marcada por los conflictos globales
+> A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?
 
-## Nodos recientes (32 en la ventana)
+## Nodos recientes (33 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-12 | 95 | K1 | A la sombra de las guerras y con la presencia de Rusia, China e  |
+| 2026-09-12 | 88 | K1 | Los hutíes toman la isla de Perim y consolidan el control del es |
 | 2026-09-11 | 95 | K1 | Putin llega a Nueva Delhi para una cumbre de los BRICS marcada p |
 | 2026-09-09 | 95 | K1 | Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados U |
 | 2026-09-09 | 95 | K1 | Arabia Saudí responde tras el mayor ataque de los hutíes a insta |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-03 | 88 | K2 | Escalada militar EEUU-Irán: ataque a boda causa múltiples muerto |
 | 2026-09-03 | 85 | K1 | En Egipto, Xi Jinping busca fortalecer la influencia china frent |
 | 2026-09-03 | 81 | K1 | Cómo una pequeña isla en Canadá apareció, desapareció y fue loca |
-| 2026-09-02 | 95 | K1 | Expertos denuncian 223 personas asesinadas en un año por ataques |
-| 2026-09-02 | 53 | K0 | Middle East live: Iran launches retaliatory strikes after fresh  |
 
 [[Global Brain — Inicio|← Inicio]]

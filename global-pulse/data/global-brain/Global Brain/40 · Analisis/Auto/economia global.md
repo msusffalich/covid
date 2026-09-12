@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-11
+actualizado: 2026-09-12
 nodos: 37
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-11. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-37 nodos registrados en el periodo. Lo mas reciente: Anthropic revela usos indebidos de su IA en ciberataques, armas biológicas y espionaje, y advierte de riesgos económicos y existenciales.
+37 nodos registrados en el periodo. Lo mas reciente: Los hutíes toman la isla de Perim y consolidan el control del estrecho de Bab el-Mandeb.
 
 ## Trend summary (EN)
-37 nodes recorded in the period. Most recent: Anthropic reveals misuse of its AI for cyberattacks, bioweapons and espionage, while warning of economic and existential risks.
+37 nodes recorded in the period. Most recent: Houthis capture Perim Island, consolidating control over the Bab el-Mandeb strait.
 
 > [!note] Estado actual
-> Anthropic revela usos indebidos de su IA en ciberataques, armas biológicas y espionaje, y advierte de riesgos económicos y existenciales
+> Los hutíes toman la isla de Perim y consolidan el control del estrecho de Bab el-Mandeb
 
 ## Nodos recientes (37 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-12 | 88 | K1 | Los hutíes toman la isla de Perim y consolidan el control del es |
 | 2026-09-11 | 72 | K1 | Anthropic revela usos indebidos de su IA en ciberataques, armas  |
 | 2026-09-10 | 95 | K2 | El impacto incierto de las sanciones contra los asentamientos is |
 | 2026-09-10 | 95 | K0 | Rubio anuncia que pedirá 45 millones de dólares al Congreso para |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-04 | 95 | K1 | Informe desde Washington: Trump pide al Supremo desbloquear su r |
 | 2026-09-04 | 87 | K2 | Una juez bloquea el último intento de Trump de limitar la ciudad |
 | 2026-09-04 | 72 | K1 | Volkswagen aprueba recorte de 50.000 empleos adicionales, hasta  |
-| 2026-09-03 | 62 | K1 | UK mortgage borrowers brace for rate jump amid global bond sell- |
 
 [[Global Brain — Inicio|← Inicio]]
