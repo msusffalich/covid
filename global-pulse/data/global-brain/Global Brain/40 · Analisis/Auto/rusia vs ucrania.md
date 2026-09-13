@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-09-12
-nodos: 20
+actualizado: 2026-09-13
+nodos: 19
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-12. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-13. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?.
+19 nodos registrados en el periodo. Lo mas reciente: A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: BRICS leaders gather in India as wars and US tensions test unity.
+19 nodes recorded in the period. Most recent: BRICS leaders gather in India as wars and US tensions test unity.
 
 > [!note] Estado actual
 > A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?
 
-## Nodos recientes (20 en la ventana)
+## Nodos recientes (19 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-12 | 95 | K1 | A la sombra de las guerras y con la presencia de Rusia, China e  |

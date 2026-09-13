@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-09-12
-nodos: 43
+actualizado: 2026-09-13
+nodos: 45
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-12. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-13. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-43 nodos registrados en el periodo. Lo mas reciente: Nepal exige compensación climática mientras continúan los duelos por la riada devastadora.
+45 nodos registrados en el periodo. Lo mas reciente: Buscan a más de 100 pasajeros de un buque de Indonesia que estaba reportado como desaparecido.
 
 ## Trend summary (EN)
-43 nodes recorded in the period. Most recent: Nepal demands climate compensation as mourning continues for devastating flood.
+45 nodes recorded in the period. Most recent: Indonesia’s most dangerous fires are burning underground.
 
 > [!note] Estado actual
-> Nepal exige compensación climática mientras continúan los duelos por la riada devastadora
+> Buscan a más de 100 pasajeros de un buque de Indonesia que estaba reportado como desaparecido
 
-## Nodos recientes (43 en la ventana)
+## Nodos recientes (45 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-13 | 48 | K2 | Buscan a más de 100 pasajeros de un buque de Indonesia que estab |
+| 2026-09-13 | 44 | K1 | Nepal cifra la reconstrucción por las inundaciones en el Himalay |
 | 2026-09-11 | 72 | K1 | Nepal exige compensación climática mientras continúan los duelos |
 | 2026-09-10 | 92 | K2 | Central Park se adapta al cambio climático mientras ayuda a mant |
 | 2026-09-08 | 87 | K1 | Vigilias, luto y protestas en el decimotercer día de operaciones |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-05 | 77 | K1 | Nepal: Rescatan vivos a dos trabajadores atrapados en un túnel d |
 | 2026-09-05 | 57 | K1 | Nepal flooding deaths surpass 900 as needs climb |
 | 2026-09-04 | 72 | K1 | Nepal enfrenta crisis humanitaria tras devastadoras inundaciones |
-| 2026-09-04 | 70 | K1 | La ONU advierte que El Niño 2026 podría ser el más intenso regis |
-| 2026-09-03 | 81 | K2 | En China, la energía solar supera al carbón en potencia instalad |
 
 [[Global Brain — Inicio|← Inicio]]

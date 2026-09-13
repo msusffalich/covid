@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-09-12T08:59:50.211307+00:00",
+    "generado": "2026-09-13T09:53:55.979962+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 33,
-      "ultima_fecha": "2026-09-12",
+      "n_nodos": 35,
+      "ultima_fecha": "2026-09-13",
       "resumen": {
-        "es": "33 nodos registrados en el periodo. Lo mas reciente: A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?.",
-        "en": "33 nodes recorded in the period. Most recent: BRICS leaders gather in India as wars and US tensions test unity."
+        "es": "35 nodos registrados en el periodo. Lo mas reciente: La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz.",
+        "en": "35 nodes recorded in the period. Most recent: WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities."
       },
       "estado": {
-        "es": "A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?",
-        "en": "BRICS leaders gather in India as wars and US tensions test unity"
+        "es": "La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz",
+        "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
       },
       "serie": [
-        {
-          "fecha": "2026-08-23",
-          "max": 95,
-          "n": 1
-        },
         {
           "fecha": "2026-08-24",
           "max": 95,
@@ -113,9 +108,50 @@
           "fecha": "2026-09-12",
           "max": 95,
           "n": 2
+        },
+        {
+          "fecha": "2026-09-13",
+          "max": 95,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-13",
+          "titulo": {
+            "es": "La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz",
+            "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
+          },
+          "impacto": 95,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-09-12/trump-rechaza-auxiliar-a-arabia-saudi-en-el-mar-rojo-pese-al-cierre-de-un-oleoducto-clave.html",
+          "fuente": "El Pais Internacional"
+        },
+        {
+          "fecha": "2026-09-13",
+          "titulo": {
+            "es": "¿Por qué Trump no se está involucrando en el conflicto en Yemen?",
+            "en": "Has Trump won over voters with his midterm convention?"
+          },
+          "impacto": 89,
+          "categoria": "geopolitica",
+          "kardashev": "K2",
+          "url": "https://www.bbc.co.uk/mundo/live/c9lyk68xrd4yt?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
+        {
+          "fecha": "2026-09-13",
+          "titulo": {
+            "es": "Arabia Saudita cierra oleoducto estratégico tras ataque con drones desde Iraq mientras hutíes avanzan en el mar Rojo",
+            "en": "Saudi Arabia shuts strategic pipeline after drone attack from Iraq as Houthis advance in the Red Sea"
+          },
+          "impacto": 85,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/c4gvpl2vxx0o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
         {
           "fecha": "2026-09-12",
           "titulo": {
@@ -223,42 +259,6 @@
           "kardashev": "K1",
           "url": "https://www.france24.com/es/video/20260904-informe-desde-washington-trump-pide-al-supremo-desbloquear-su-restricci%C3%B3n-al-voto-por-correo",
           "fuente": "France 24 Espanol"
-        },
-        {
-          "fecha": "2026-09-03",
-          "titulo": {
-            "es": "Escalada militar EEUU-Irán: ataque a boda causa múltiples muertos y desata represalias iraníes",
-            "en": "US-Iran military escalation: strike on wedding kills several, triggers Iranian reprisals"
-          },
-          "impacto": 88,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://elpais.com/internacional/2026-09-02/iran-responde-a-estados-unidos-con-nuevos-ataques-contra-bahrein-jordania-y-kuwait.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-09-03",
-          "titulo": {
-            "es": "En Egipto, Xi Jinping busca fortalecer la influencia china frente a Estados Unidos",
-            "en": "Trump and Xi are set to meet in DC. Why some China watchers have low expectations"
-          },
-          "impacto": 85,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/america/2026-09-03/los-acuerdos-petroleros-de-estados-unidos-y-venezuela-opacos-y-millonarios.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-09-03",
-          "titulo": {
-            "es": "Cómo una pequeña isla en Canadá apareció, desapareció y fue localizada de nuevo",
-            "en": "Trump doubles down on Canada trade war as talks remain stalled – as it happened"
-          },
-          "impacto": 81,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/ce304294njlo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -269,22 +269,17 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 20,
+      "n_nodos": 19,
       "ultima_fecha": "2026-09-12",
       "resumen": {
-        "es": "20 nodos registrados en el periodo. Lo mas reciente: A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?.",
-        "en": "20 nodes recorded in the period. Most recent: BRICS leaders gather in India as wars and US tensions test unity."
+        "es": "19 nodos registrados en el periodo. Lo mas reciente: A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?.",
+        "en": "19 nodes recorded in the period. Most recent: BRICS leaders gather in India as wars and US tensions test unity."
       },
       "estado": {
         "es": "A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?",
         "en": "BRICS leaders gather in India as wars and US tensions test unity"
       },
       "serie": [
-        {
-          "fecha": "2026-08-23",
-          "max": 83,
-          "n": 1
-        },
         {
           "fecha": "2026-08-25",
           "max": 66,
@@ -520,22 +515,17 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 18,
-      "ultima_fecha": "2026-09-11",
+      "n_nodos": 19,
+      "ultima_fecha": "2026-09-13",
       "resumen": {
-        "es": "18 nodos registrados en el periodo. Lo mas reciente: Argelia rompe relaciones diplomáticas con Emiratos Árabes Unidos y le cierra su espacio aéreo.",
-        "en": "18 nodes recorded in the period. Most recent: Norway’s Foreign Minister warns Netanyahu’s government driving Israel into a 'very dangerous place'."
+        "es": "19 nodos registrados en el periodo. Lo mas reciente: La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz.",
+        "en": "19 nodes recorded in the period. Most recent: WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities."
       },
       "estado": {
-        "es": "Argelia rompe relaciones diplomáticas con Emiratos Árabes Unidos y le cierra su espacio aéreo",
-        "en": "Norway’s Foreign Minister warns Netanyahu’s government driving Israel into a 'very dangerous place'"
+        "es": "La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz",
+        "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
       },
       "serie": [
-        {
-          "fecha": "2026-08-23",
-          "max": 95,
-          "n": 1
-        },
         {
           "fecha": "2026-08-24",
           "max": 83,
@@ -590,9 +580,38 @@
           "fecha": "2026-09-11",
           "max": 95,
           "n": 2
+        },
+        {
+          "fecha": "2026-09-13",
+          "max": 95,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-13",
+          "titulo": {
+            "es": "La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz",
+            "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
+          },
+          "impacto": 95,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-09-12/trump-rechaza-auxiliar-a-arabia-saudi-en-el-mar-rojo-pese-al-cierre-de-un-oleoducto-clave.html",
+          "fuente": "El Pais Internacional"
+        },
+        {
+          "fecha": "2026-09-13",
+          "titulo": {
+            "es": "Arabia Saudita cierra oleoducto estratégico tras ataque con drones desde Iraq mientras hutíes avanzan en el mar Rojo",
+            "en": "Saudi Arabia shuts strategic pipeline after drone attack from Iraq as Houthis advance in the Red Sea"
+          },
+          "impacto": 85,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/c4gvpl2vxx0o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
         {
           "fecha": "2026-09-11",
           "titulo": {
@@ -712,30 +731,6 @@
           "kardashev": "K1",
           "url": "https://www.france24.com/es/video/20260904-ben-gvir-propone-desocupar-gaza-de-su-poblaci%C3%B3n-palestina-antes-de-las-elecciones-en-israel",
           "fuente": "France 24 Espanol"
-        },
-        {
-          "fecha": "2026-09-02",
-          "titulo": {
-            "es": "Una operación israelí para capturar a un mando de Hamás en Gaza acaba con cuatro palestinos muertos",
-            "en": "Israeli Raid in Gaza Kills 4, Palestinian Officials Say"
-          },
-          "impacto": 77,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-09-01/una-operacion-israeli-para-capturar-a-un-mando-de-hamas-en-gaza-acaba-con-cuatro-palestinos-muertos.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-08-29",
-          "titulo": {
-            "es": "Análisis: el desgaste económico y bélico de Estados Unidos tras seis meses de guerra en Irán",
-            "en": "Iran war hits 6-month milestone with Trump's attention largely elsewhere"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cp3kwd28dl5o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -746,15 +741,15 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 15,
-      "ultima_fecha": "2026-09-12",
+      "n_nodos": 16,
+      "ultima_fecha": "2026-09-13",
       "resumen": {
-        "es": "15 nodos registrados en el periodo. Lo mas reciente: California establece las primeras regulaciones sobre inteligencia artificial.",
-        "en": "15 nodes recorded in the period. Most recent: California woman charged with murder after allegedly killing husband with flagpole."
+        "es": "16 nodos registrados en el periodo. Lo mas reciente: CEO de Anthropic pide ralentizar el desarrollo de la IA por riesgos de superinteligencia.",
+        "en": "16 nodes recorded in the period. Most recent: Anthropic CEO calls for slowing AI development over superintelligence risks."
       },
       "estado": {
-        "es": "California establece las primeras regulaciones sobre inteligencia artificial",
-        "en": "California woman charged with murder after allegedly killing husband with flagpole"
+        "es": "CEO de Anthropic pide ralentizar el desarrollo de la IA por riesgos de superinteligencia",
+        "en": "Anthropic CEO calls for slowing AI development over superintelligence risks"
       },
       "serie": [
         {
@@ -811,9 +806,26 @@
           "fecha": "2026-09-12",
           "max": 87,
           "n": 1
+        },
+        {
+          "fecha": "2026-09-13",
+          "max": 62,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-13",
+          "titulo": {
+            "es": "CEO de Anthropic pide ralentizar el desarrollo de la IA por riesgos de superinteligencia",
+            "en": "Anthropic CEO calls for slowing AI development over superintelligence risks"
+          },
+          "impacto": 62,
+          "categoria": "tecnologia",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/c86x7vnegvvo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
         {
           "fecha": "2026-09-12",
           "titulo": {
@@ -945,18 +957,6 @@
           "kardashev": "K2",
           "url": "https://www.rfi.fr/es/economia/20260901-john-ternus-nuevo-director-ejecutivo-de-apple-un-ingeniero-de-la-propia-empresa-al-mando",
           "fuente": "RFI Espanol"
-        },
-        {
-          "fecha": "2026-09-02",
-          "titulo": {
-            "es": "OpenAI retrasa el desarrollo de su modelo Astra tras un incidente de seguridad y advierte sobre capacidades ciberneticas 'criticas'",
-            "en": "OpenAI delays development of its Astra model after security incident and warns of 'critical' cyber capabilities"
-          },
-          "impacto": 62,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-          "fuente": "The Verge"
         }
       ]
     },
@@ -967,15 +967,15 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 43,
-      "ultima_fecha": "2026-09-11",
+      "n_nodos": 45,
+      "ultima_fecha": "2026-09-13",
       "resumen": {
-        "es": "43 nodos registrados en el periodo. Lo mas reciente: Nepal exige compensación climática mientras continúan los duelos por la riada devastadora.",
-        "en": "43 nodes recorded in the period. Most recent: Nepal demands climate compensation as mourning continues for devastating flood."
+        "es": "45 nodos registrados en el periodo. Lo mas reciente: Buscan a más de 100 pasajeros de un buque de Indonesia que estaba reportado como desaparecido.",
+        "en": "45 nodes recorded in the period. Most recent: Indonesia’s most dangerous fires are burning underground."
       },
       "estado": {
-        "es": "Nepal exige compensación climática mientras continúan los duelos por la riada devastadora",
-        "en": "Nepal demands climate compensation as mourning continues for devastating flood"
+        "es": "Buscan a más de 100 pasajeros de un buque de Indonesia que estaba reportado como desaparecido",
+        "en": "Indonesia’s most dangerous fires are burning underground"
       },
       "serie": [
         {
@@ -1062,9 +1062,38 @@
           "fecha": "2026-09-11",
           "max": 72,
           "n": 1
+        },
+        {
+          "fecha": "2026-09-13",
+          "max": 48,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-13",
+          "titulo": {
+            "es": "Buscan a más de 100 pasajeros de un buque de Indonesia que estaba reportado como desaparecido",
+            "en": "Indonesia’s most dangerous fires are burning underground"
+          },
+          "impacto": 48,
+          "categoria": "clima",
+          "kardashev": "K2",
+          "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260913-un-buque-de-indonesia-con-unos-240-pasajeros-a-bordo-es-reportado-como-desaparecido",
+          "fuente": "France 24 Espanol"
+        },
+        {
+          "fecha": "2026-09-13",
+          "titulo": {
+            "es": "Nepal cifra la reconstrucción por las inundaciones en el Himalaya en unos 4.780 millones de dólares",
+            "en": "Nepal says big polluters must ‘wake up’ as it calls for climate compensation over flood disaster"
+          },
+          "impacto": 44,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20260911-nepal-cifra-la-reconstrucci%C3%B3n-por-las-inundaciones-en-el-himalaya-en-unos-4-780-millones-de-d%C3%B3lares",
+          "fuente": "RFI Espanol"
+        },
         {
           "fecha": "2026-09-11",
           "titulo": {
@@ -1184,30 +1213,6 @@
           "kardashev": "K1",
           "url": "https://www.france24.com/es/video/20260903-despiden-a-v%C3%ADctimas-de-la-riada-en-nepal-en-funerales-simb%C3%B3licos",
           "fuente": "France 24 Espanol"
-        },
-        {
-          "fecha": "2026-09-04",
-          "titulo": {
-            "es": "La ONU advierte que El Niño 2026 podría ser el más intenso registrado, con graves impactos económicos y climáticos",
-            "en": "UN warns El Niño 2026 could be the most intense on record, with severe economic and climate impacts"
-          },
-          "impacto": 70,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cr4vnrrwrqqo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-09-03",
-          "titulo": {
-            "es": "En China, la energía solar supera al carbón en potencia instalada",
-            "en": "China Censors and Punishes to Shape Narrative on Floods in Tibet, a Contrast to Nepal"
-          },
-          "impacto": 81,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://www.bbc.com/mundo/articles/cqxv9xq7qy0o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -1218,22 +1223,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 37,
-      "ultima_fecha": "2026-09-12",
+      "n_nodos": 34,
+      "ultima_fecha": "2026-09-13",
       "resumen": {
-        "es": "37 nodos registrados en el periodo. Lo mas reciente: Los hutíes toman la isla de Perim y consolidan el control del estrecho de Bab el-Mandeb.",
-        "en": "37 nodes recorded in the period. Most recent: Houthis capture Perim Island, consolidating control over the Bab el-Mandeb strait."
+        "es": "34 nodos registrados en el periodo. Lo mas reciente: Arabia Saudita cierra oleoducto estratégico tras ataque con drones desde Iraq mientras hutíes avanzan en el mar Rojo.",
+        "en": "34 nodes recorded in the period. Most recent: Saudi Arabia shuts strategic pipeline after drone attack from Iraq as Houthis advance in the Red Sea."
       },
       "estado": {
-        "es": "Los hutíes toman la isla de Perim y consolidan el control del estrecho de Bab el-Mandeb",
-        "en": "Houthis capture Perim Island, consolidating control over the Bab el-Mandeb strait"
+        "es": "Arabia Saudita cierra oleoducto estratégico tras ataque con drones desde Iraq mientras hutíes avanzan en el mar Rojo",
+        "en": "Saudi Arabia shuts strategic pipeline after drone attack from Iraq as Houthis advance in the Red Sea"
       },
       "serie": [
-        {
-          "fecha": "2026-08-23",
-          "max": 95,
-          "n": 4
-        },
         {
           "fecha": "2026-08-24",
           "max": 95,
@@ -1318,9 +1318,26 @@
           "fecha": "2026-09-12",
           "max": 88,
           "n": 1
+        },
+        {
+          "fecha": "2026-09-13",
+          "max": 85,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-13",
+          "titulo": {
+            "es": "Arabia Saudita cierra oleoducto estratégico tras ataque con drones desde Iraq mientras hutíes avanzan en el mar Rojo",
+            "en": "Saudi Arabia shuts strategic pipeline after drone attack from Iraq as Houthis advance in the Red Sea"
+          },
+          "impacto": 85,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/c4gvpl2vxx0o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
         {
           "fecha": "2026-09-12",
           "titulo": {
@@ -1452,18 +1469,6 @@
           "kardashev": "K2",
           "url": "http://es.euronews.com/2026/09/04/trump-propone-retirar-exencion-fiscal-centros-educativos-con-programas-diversidad-raza",
           "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-09-04",
-          "titulo": {
-            "es": "Volkswagen aprueba recorte de 50.000 empleos adicionales, hasta 100.000 en total para 2030",
-            "en": "Volkswagen approves cut of 50,000 additional jobs, totaling 100,000 by 2030"
-          },
-          "impacto": 72,
-          "categoria": "economia",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
         }
       ]
     }

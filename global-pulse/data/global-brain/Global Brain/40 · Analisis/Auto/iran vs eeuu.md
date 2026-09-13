@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-09-12
-nodos: 33
+actualizado: 2026-09-13
+nodos: 35
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-12. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-13. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-33 nodos registrados en el periodo. Lo mas reciente: A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?.
+35 nodos registrados en el periodo. Lo mas reciente: La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz.
 
 ## Trend summary (EN)
-33 nodes recorded in the period. Most recent: BRICS leaders gather in India as wars and US tensions test unity.
+35 nodes recorded in the period. Most recent: WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities.
 
 > [!note] Estado actual
-> A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?
+> La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz
 
-## Nodos recientes (33 en la ventana)
+## Nodos recientes (35 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-13 | 95 | K1 | La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su úni |
+| 2026-09-13 | 89 | K2 | ¿Por qué Trump no se está involucrando en el conflicto en Yemen? |
+| 2026-09-13 | 85 | K1 | Arabia Saudita cierra oleoducto estratégico tras ataque con dron |
 | 2026-09-12 | 95 | K1 | A la sombra de las guerras y con la presencia de Rusia, China e  |
 | 2026-09-12 | 88 | K1 | Los hutíes toman la isla de Perim y consolidan el control del es |
 | 2026-09-11 | 95 | K1 | Putin llega a Nueva Delhi para una cumbre de los BRICS marcada p |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-09-05 | 95 | K1 | El partido Reform UK bajo investigación por donaciones extranjer |
 | 2026-09-05 | 91 | K1 | Trump califica el conflicto con Irán como "small potatoes" (algo |
 | 2026-09-04 | 95 | K1 | Informe desde Washington: Trump pide al Supremo desbloquear su r |
-| 2026-09-03 | 88 | K2 | Escalada militar EEUU-Irán: ataque a boda causa múltiples muerto |
-| 2026-09-03 | 85 | K1 | En Egipto, Xi Jinping busca fortalecer la influencia china frent |
-| 2026-09-03 | 81 | K1 | Cómo una pequeña isla en Canadá apareció, desapareció y fue loca |
 
 [[Global Brain — Inicio|← Inicio]]
