@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-09-13
-nodos: 35
+actualizado: 2026-09-14
+nodos: 37
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-13. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-14. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-35 nodos registrados en el periodo. Lo mas reciente: La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz.
+37 nodos registrados en el periodo. Lo mas reciente: El petróleo supera los 108 dólares por ataques en el Estrecho de Ormuz y cierre de oleoducto saudí.
 
 ## Trend summary (EN)
-35 nodes recorded in the period. Most recent: WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities.
+37 nodes recorded in the period. Most recent: Oil surges past $108 on Strait of Hormuz attacks and Saudi pipeline shutdown.
 
 > [!note] Estado actual
-> La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su único oleoducto alternativo a Ormuz
+> El petróleo supera los 108 dólares por ataques en el Estrecho de Ormuz y cierre de oleoducto saudí
 
-## Nodos recientes (35 en la ventana)
+## Nodos recientes (37 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-14 | 82 | K1 | El petróleo supera los 108 dólares por ataques en el Estrecho de |
+| 2026-09-14 | 79 | K0 | Iranian cargo vessel struck near Qeshm Island as Oman delays Teh |
+| 2026-09-14 | 78 | K1 | Escalada en Yemen y ataques a Arabia Saudita elevan riesgo para  |
 | 2026-09-13 | 95 | K1 | La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su úni |
 | 2026-09-13 | 89 | K2 | ¿Por qué Trump no se está involucrando en el conflicto en Yemen? |
 | 2026-09-13 | 85 | K1 | Arabia Saudita cierra oleoducto estratégico tras ataque con dron |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-09-09 | 95 | K1 | Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados U |
 | 2026-09-09 | 95 | K1 | Arabia Saudí responde tras el mayor ataque de los hutíes a insta |
 | 2026-09-07 | 83 | K0 | Middle East Live: Several killed in Israeli strikes in southern  |
-| 2026-09-05 | 95 | K1 | El partido Reform UK bajo investigación por donaciones extranjer |
-| 2026-09-05 | 91 | K1 | Trump califica el conflicto con Irán como "small potatoes" (algo |
-| 2026-09-04 | 95 | K1 | Informe desde Washington: Trump pide al Supremo desbloquear su r |
 
 [[Global Brain — Inicio|← Inicio]]
