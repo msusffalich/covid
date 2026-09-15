@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-09-14T10:15:15.112028+00:00",
+    "generado": "2026-09-15T09:45:38.027781+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 37,
-      "ultima_fecha": "2026-09-14",
+      "n_nodos": 35,
+      "ultima_fecha": "2026-09-15",
       "resumen": {
-        "es": "37 nodos registrados en el periodo. Lo mas reciente: El petróleo supera los 108 dólares por ataques en el Estrecho de Ormuz y cierre de oleoducto saudí.",
-        "en": "37 nodes recorded in the period. Most recent: Oil surges past $108 on Strait of Hormuz attacks and Saudi pipeline shutdown."
+        "es": "35 nodos registrados en el periodo. Lo mas reciente: Escalada entre Arabia Saudita y hutíes en Yemen agrava conflicto regional vinculado a Irán.",
+        "en": "35 nodes recorded in the period. Most recent: Saudi-Houthi escalation in Yemen deepens regional conflict linked to Iran."
       },
       "estado": {
-        "es": "El petróleo supera los 108 dólares por ataques en el Estrecho de Ormuz y cierre de oleoducto saudí",
-        "en": "Oil surges past $108 on Strait of Hormuz attacks and Saudi pipeline shutdown"
+        "es": "Escalada entre Arabia Saudita y hutíes en Yemen agrava conflicto regional vinculado a Irán",
+        "en": "Saudi-Houthi escalation in Yemen deepens regional conflict linked to Iran"
       },
       "serie": [
-        {
-          "fecha": "2026-08-25",
-          "max": 95,
-          "n": 3
-        },
         {
           "fecha": "2026-08-26",
           "max": 95,
@@ -113,9 +108,26 @@
           "fecha": "2026-09-14",
           "max": 82,
           "n": 3
+        },
+        {
+          "fecha": "2026-09-15",
+          "max": 78,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-15",
+          "titulo": {
+            "es": "Escalada entre Arabia Saudita y hutíes en Yemen agrava conflicto regional vinculado a Irán",
+            "en": "Saudi-Houthi escalation in Yemen deepens regional conflict linked to Iran"
+          },
+          "impacto": 78,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
         {
           "fecha": "2026-09-14",
           "titulo": {
@@ -247,18 +259,6 @@
           "kardashev": "K1",
           "url": "https://elpais.com/internacional/2026-09-08/los-huties-atacan-instalaciones-petroleras-de-arabia-saudi-y-hacen-que-precio-del-petroleo-se-dispare.html",
           "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-09-07",
-          "titulo": {
-            "es": "Middle East Live: Several killed in Israeli strikes in southern Lebanon",
-            "en": "Middle East Live: Several killed in Israeli strikes in southern Lebanon"
-          },
-          "impacto": 83,
-          "categoria": "economia",
-          "kardashev": "K0",
-          "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
         }
       ]
     },
@@ -270,21 +270,16 @@
       },
       "color": "#7C6FE4",
       "n_nodos": 19,
-      "ultima_fecha": "2026-09-12",
+      "ultima_fecha": "2026-09-15",
       "resumen": {
-        "es": "19 nodos registrados en el periodo. Lo mas reciente: A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?.",
-        "en": "19 nodes recorded in the period. Most recent: BRICS leaders gather in India as wars and US tensions test unity."
+        "es": "19 nodos registrados en el periodo. Lo mas reciente: Ucrania: ataque ruso «sistémico en curso»; Rusia no descarta la reanudación de negociaciones.",
+        "en": "19 nodes recorded in the period. Most recent: Amid Trump trade war, Canada's exports to China up 30% in first half of 2026."
       },
       "estado": {
-        "es": "A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?",
-        "en": "BRICS leaders gather in India as wars and US tensions test unity"
+        "es": "Ucrania: ataque ruso «sistémico en curso»; Rusia no descarta la reanudación de negociaciones",
+        "en": "Amid Trump trade war, Canada's exports to China up 30% in first half of 2026"
       },
       "serie": [
-        {
-          "fecha": "2026-08-25",
-          "max": 66,
-          "n": 3
-        },
         {
           "fecha": "2026-08-26",
           "max": 95,
@@ -359,9 +354,50 @@
           "fecha": "2026-09-12",
           "max": 95,
           "n": 1
+        },
+        {
+          "fecha": "2026-09-15",
+          "max": 95,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-15",
+          "titulo": {
+            "es": "Ucrania: ataque ruso «sistémico en curso»; Rusia no descarta la reanudación de negociaciones",
+            "en": "Amid Trump trade war, Canada's exports to China up 30% in first half of 2026"
+          },
+          "impacto": 95,
+          "categoria": "geopolitica",
+          "kardashev": "K2",
+          "url": "https://www.bbc.com/mundo/articles/cwyz1293enxo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
+        {
+          "fecha": "2026-09-15",
+          "titulo": {
+            "es": "\"Un querido amigo\": el oligarca ruso cercano a Putin que financió parte de la boda de un hijo de Trump",
+            "en": "Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms"
+          },
+          "impacto": 95,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-09-14/un-oligarca-ruso-cercano-a-putin-pago-los-festejos-tras-la-boda-del-hijo-mayor-de-donald-trump-en-las-bahamas.html",
+          "fuente": "El Pais Internacional"
+        },
+        {
+          "fecha": "2026-09-15",
+          "titulo": {
+            "es": "US Space Force confirms weapons deployed in space for first time",
+            "en": "US Space Force confirms weapons deployed in space for first time"
+          },
+          "impacto": 78,
+          "categoria": "geopolitica",
+          "kardashev": "K2",
+          "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
         {
           "fecha": "2026-09-12",
           "titulo": {
@@ -469,42 +505,6 @@
           "kardashev": "K0",
           "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
           "fuente": "The Guardian World"
-        },
-        {
-          "fecha": "2026-09-04",
-          "titulo": {
-            "es": "Europe Today: Rusia amenaza a Europa, la crisis de Ceuta se agrava y AfD lidera",
-            "en": "Europe Today: Russia targets Europe, Ceuta crisis deepens, and AfD leads polls in east Germany"
-          },
-          "impacto": 86,
-          "categoria": "geopolitica",
-          "kardashev": "K0",
-          "url": "http://es.euronews.com/my-europe/2026/09/04/europe-today-rusia-amenaza-a-europa-la-crisis-de-ceuta-se-agrava-y-afd-lidera",
-          "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-09-02",
-          "titulo": {
-            "es": "Alemania acusa formalmente a Rusia de ataque híbrido con drones en el aeropuerto de Leipzig",
-            "en": "Germany formally blames Russia for hybrid drone attack at Leipzig airport"
-          },
-          "impacto": 78,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/c9dwey5qv1po?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-09-01",
-          "titulo": {
-            "es": "Russia targets Kyiv and its region for sixth consecutive night of attacks",
-            "en": "Russia targets Kyiv and its region for sixth consecutive night of attacks"
-          },
-          "impacto": 83,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
         }
       ]
     },
@@ -515,22 +515,17 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 18,
-      "ultima_fecha": "2026-09-14",
+      "n_nodos": 19,
+      "ultima_fecha": "2026-09-15",
       "resumen": {
-        "es": "18 nodos registrados en el periodo. Lo mas reciente: Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA.",
-        "en": "18 nodes recorded in the period. Most recent: Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA."
+        "es": "19 nodos registrados en el periodo. Lo mas reciente: \"Un querido amigo\": el oligarca ruso cercano a Putin que financió parte de la boda de un hijo de Trump.",
+        "en": "19 nodes recorded in the period. Most recent: Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms."
       },
       "estado": {
-        "es": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
-        "en": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA"
+        "es": "\"Un querido amigo\": el oligarca ruso cercano a Putin que financió parte de la boda de un hijo de Trump",
+        "en": "Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms"
       },
       "serie": [
-        {
-          "fecha": "2026-08-25",
-          "max": 53,
-          "n": 1
-        },
         {
           "fecha": "2026-08-28",
           "max": 95,
@@ -585,20 +580,37 @@
           "fecha": "2026-09-14",
           "max": 57,
           "n": 1
+        },
+        {
+          "fecha": "2026-09-15",
+          "max": 95,
+          "n": 2
         }
       ],
       "nodos": [
         {
-          "fecha": "2026-09-14",
+          "fecha": "2026-09-15",
+          "titulo": {
+            "es": "\"Un querido amigo\": el oligarca ruso cercano a Putin que financió parte de la boda de un hijo de Trump",
+            "en": "Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms"
+          },
+          "impacto": 95,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-09-14/un-oligarca-ruso-cercano-a-putin-pago-los-festejos-tras-la-boda-del-hijo-mayor-de-donald-trump-en-las-bahamas.html",
+          "fuente": "El Pais Internacional"
+        },
+        {
+          "fecha": "2026-09-15",
           "titulo": {
             "es": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
             "en": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA"
           },
-          "impacto": 57,
+          "impacto": 77,
           "categoria": "salud",
           "kardashev": "K0",
-          "url": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
-          "fuente": "The Guardian World"
+          "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
         },
         {
           "fecha": "2026-09-13",
@@ -719,18 +731,6 @@
           "kardashev": "K0",
           "url": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-09-06",
-          "titulo": {
-            "es": "Israeli strikes kill four in Lebanon after alleged Hezbollah drone launch",
-            "en": "Israeli strikes kill four in Lebanon after alleged Hezbollah drone launch"
-          },
-          "impacto": 66,
-          "categoria": "innovacion",
-          "kardashev": "K0",
-          "url": "https://www.france24.com/en/middle-east/20260906-israeli-strikes-kill-four-in-lebanon-after-alleged-hezbollah-drone-launch",
-          "fuente": "France 24 English"
         }
       ]
     },
@@ -741,15 +741,15 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 20,
-      "ultima_fecha": "2026-09-14",
+      "n_nodos": 21,
+      "ultima_fecha": "2026-09-15",
       "resumen": {
-        "es": "20 nodos registrados en el periodo. Lo mas reciente: Trump cuestiona a las \"fuerzas negativas\" que piden desacelerar el desarrollo de la IA.",
-        "en": "20 nodes recorded in the period. Most recent: Donald Trump doubles down on support for united Ireland."
+        "es": "21 nodos registrados en el periodo. Lo mas reciente: Microsoft impone límites a la IA en las escuelas de EE UU ante el creciente rechazo.",
+        "en": "21 nodes recorded in the period. Most recent: Microsoft issues emergency Windows 11 update to fix its record-breaking patch."
       },
       "estado": {
-        "es": "Trump cuestiona a las \"fuerzas negativas\" que piden desacelerar el desarrollo de la IA",
-        "en": "Donald Trump doubles down on support for united Ireland"
+        "es": "Microsoft impone límites a la IA en las escuelas de EE UU ante el creciente rechazo",
+        "en": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch"
       },
       "serie": [
         {
@@ -816,9 +816,26 @@
           "fecha": "2026-09-14",
           "max": 95,
           "n": 4
+        },
+        {
+          "fecha": "2026-09-15",
+          "max": 70,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-15",
+          "titulo": {
+            "es": "Microsoft impone límites a la IA en las escuelas de EE UU ante el creciente rechazo",
+            "en": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch"
+          },
+          "impacto": 70,
+          "categoria": "tecnologia",
+          "kardashev": "K0",
+          "url": "https://es.euronews.com/next/2026/09/15/microsoft-impone-limites-a-la-ia-en-las-escuelas-de-ee-uu-ante-el-creciente-rechazo",
+          "fuente": "Euronews Espanol"
+        },
         {
           "fecha": "2026-09-14",
           "titulo": {
@@ -950,18 +967,6 @@
           "kardashev": "K0",
           "url": "https://www.cbc.ca/news/world/openai-hijacked-german-website-swarm-rogue-message-board-9.7332658?cmp=rss",
           "fuente": "CBC World"
-        },
-        {
-          "fecha": "2026-09-05",
-          "titulo": {
-            "es": "Inteligencia artificial: Nvidia comprará la plataforma de Hugging Face por USD 12.900 millones",
-            "en": "AI's 'warning shot': Tech companies, experts raise fears of more rogue swarms after alarming Hugging Face hack"
-          },
-          "impacto": 86,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://www.rfi.fr/es/sociedad/20260903-inteligencia-artificial-nvidia-comprar%C3%A1-la-plataforma-de-hugging-face-por-usd-12-900-millones",
-          "fuente": "RFI Espanol"
         }
       ]
     },
@@ -972,22 +977,17 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 45,
+      "n_nodos": 43,
       "ultima_fecha": "2026-09-14",
       "resumen": {
-        "es": "45 nodos registrados en el periodo. Lo mas reciente: Nepal exige compensación climática mientras crece el costo de la reconstrucción tras inundaciones glaciares.",
-        "en": "45 nodes recorded in the period. Most recent: Nepal demands climate compensation as reconstruction costs mount after glacial floods."
+        "es": "43 nodos registrados en el periodo. Lo mas reciente: Nepal exige compensación climática mientras crece el costo de la reconstrucción tras inundaciones glaciares.",
+        "en": "43 nodes recorded in the period. Most recent: Nepal demands climate compensation as reconstruction costs mount after glacial floods."
       },
       "estado": {
         "es": "Nepal exige compensación climática mientras crece el costo de la reconstrucción tras inundaciones glaciares",
         "en": "Nepal demands climate compensation as reconstruction costs mount after glacial floods"
       },
       "serie": [
-        {
-          "fecha": "2026-08-25",
-          "max": 58,
-          "n": 2
-        },
         {
           "fecha": "2026-08-27",
           "max": 78,
@@ -1228,22 +1228,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 36,
-      "ultima_fecha": "2026-09-14",
+      "n_nodos": 37,
+      "ultima_fecha": "2026-09-15",
       "resumen": {
-        "es": "36 nodos registrados en el periodo. Lo mas reciente: Trump cuestiona a las \"fuerzas negativas\" que piden desacelerar el desarrollo de la IA.",
-        "en": "36 nodes recorded in the period. Most recent: Donald Trump doubles down on support for united Ireland."
+        "es": "37 nodos registrados en el periodo. Lo mas reciente: Trump says he will consider releasing more 9/11 records after families’ request.",
+        "en": "37 nodes recorded in the period. Most recent: Trump says he will consider releasing more 9/11 records after families’ request."
       },
       "estado": {
-        "es": "Trump cuestiona a las \"fuerzas negativas\" que piden desacelerar el desarrollo de la IA",
-        "en": "Donald Trump doubles down on support for united Ireland"
+        "es": "Trump says he will consider releasing more 9/11 records after families’ request",
+        "en": "Trump says he will consider releasing more 9/11 records after families’ request"
       },
       "serie": [
-        {
-          "fecha": "2026-08-25",
-          "max": 95,
-          "n": 2
-        },
         {
           "fecha": "2026-08-26",
           "max": 86,
@@ -1328,9 +1323,50 @@
           "fecha": "2026-09-14",
           "max": 95,
           "n": 3
+        },
+        {
+          "fecha": "2026-09-15",
+          "max": 83,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-15",
+          "titulo": {
+            "es": "Trump says he will consider releasing more 9/11 records after families’ request",
+            "en": "Trump says he will consider releasing more 9/11 records after families’ request"
+          },
+          "impacto": 83,
+          "categoria": "tecnologia",
+          "kardashev": "K0",
+          "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
+        {
+          "fecha": "2026-09-15",
+          "titulo": {
+            "es": "Escalada entre Arabia Saudita y hutíes en Yemen agrava conflicto regional vinculado a Irán",
+            "en": "Saudi-Houthi escalation in Yemen deepens regional conflict linked to Iran"
+          },
+          "impacto": 78,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
+        {
+          "fecha": "2026-09-15",
+          "titulo": {
+            "es": "Microsoft impone límites a la IA en las escuelas de EE UU ante el creciente rechazo",
+            "en": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch"
+          },
+          "impacto": 70,
+          "categoria": "tecnologia",
+          "kardashev": "K0",
+          "url": "https://es.euronews.com/next/2026/09/15/microsoft-impone-limites-a-la-ia-en-las-escuelas-de-ee-uu-ante-el-creciente-rechazo",
+          "fuente": "Euronews Espanol"
+        },
         {
           "fecha": "2026-09-14",
           "titulo": {
@@ -1438,42 +1474,6 @@
           "kardashev": "K0",
           "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-09-09",
-          "titulo": {
-            "es": "Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados Unidos reaviva el conflicto de Yemen",
-            "en": "Canada’s retaliatory US tariffs take effect as trade dispute grows"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/clyk8dve3zko?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-09-09",
-          "titulo": {
-            "es": "Trump banning import of Canadian booze, motorcycles, other goods into U.S.",
-            "en": "Trump banning import of Canadian booze, motorcycles, other goods into U.S."
-          },
-          "impacto": 83,
-          "categoria": "economia",
-          "kardashev": "K0",
-          "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-09-05",
-          "titulo": {
-            "es": "Malvinas: Reino Unido reafirma que las islas “son británicas” tras el reclamo de soberanía de Milei",
-            "en": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cqxv9e0d0jeo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     }

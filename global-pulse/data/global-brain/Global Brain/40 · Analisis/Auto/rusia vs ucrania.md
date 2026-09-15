@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-09-14
+actualizado: 2026-09-15
 nodos: 19
 origen: global-pulse
 ---
@@ -10,20 +10,23 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-14. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-15. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-19 nodos registrados en el periodo. Lo mas reciente: A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?.
+19 nodos registrados en el periodo. Lo mas reciente: Ucrania: ataque ruso «sistémico en curso»; Rusia no descarta la reanudación de negociaciones.
 
 ## Trend summary (EN)
-19 nodes recorded in the period. Most recent: BRICS leaders gather in India as wars and US tensions test unity.
+19 nodes recorded in the period. Most recent: Amid Trump trade war, Canada's exports to China up 30% in first half of 2026.
 
 > [!note] Estado actual
-> A la sombra de las guerras y con la presencia de Rusia, China e Irán: ¿qué esperar de la cumbre de los BRICS?
+> Ucrania: ataque ruso «sistémico en curso»; Rusia no descarta la reanudación de negociaciones
 
 ## Nodos recientes (19 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-15 | 95 | K2 | Ucrania: ataque ruso «sistémico en curso»; Rusia no descarta la  |
+| 2026-09-15 | 95 | K1 | "Un querido amigo": el oligarca ruso cercano a Putin que financi |
+| 2026-09-15 | 78 | K2 | US Space Force confirms weapons deployed in space for first time |
 | 2026-09-12 | 95 | K1 | A la sombra de las guerras y con la presencia de Rusia, China e  |
 | 2026-09-11 | 95 | K1 | Putin llega a Nueva Delhi para una cumbre de los BRICS marcada p |
 | 2026-09-10 | 95 | K1 | El avión de Zelenski estuvo a punto de ser alcanzado por un dron |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-09-07 | 87 | K0 | Los emisarios de Trump 'aterrizan' en una guerra preparada para  |
 | 2026-09-06 | 95 | K1 | Putin y Zelenski ordenan detener los ataques hasta el lunes por  |
 | 2026-09-05 | 75 | K0 | Russian drone strike on Ukraine’s security services HQ is a ‘maj |
-| 2026-09-04 | 86 | K0 | Europe Today: Rusia amenaza a Europa, la crisis de Ceuta se agra |
-| 2026-09-02 | 78 | K1 | Alemania acusa formalmente a Rusia de ataque híbrido con drones  |
-| 2026-09-01 | 83 | K2 | Russia targets Kyiv and its region for sixth consecutive night o |
 
 [[Global Brain — Inicio|← Inicio]]

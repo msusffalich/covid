@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-14
-nodos: 20
+actualizado: 2026-09-15
+nodos: 21
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-14. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-15. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: Trump cuestiona a las "fuerzas negativas" que piden desacelerar el desarrollo de la IA.
+21 nodos registrados en el periodo. Lo mas reciente: Microsoft impone límites a la IA en las escuelas de EE UU ante el creciente rechazo.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: Donald Trump doubles down on support for united Ireland.
+21 nodes recorded in the period. Most recent: Microsoft issues emergency Windows 11 update to fix its record-breaking patch.
 
 > [!note] Estado actual
-> Trump cuestiona a las "fuerzas negativas" que piden desacelerar el desarrollo de la IA
+> Microsoft impone límites a la IA en las escuelas de EE UU ante el creciente rechazo
 
-## Nodos recientes (20 en la ventana)
+## Nodos recientes (21 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-15 | 70 | K0 | Microsoft impone límites a la IA en las escuelas de EE UU ante e |
 | 2026-09-14 | 95 | K2 | Trump cuestiona a las "fuerzas negativas" que piden desacelerar  |
 | 2026-09-14 | 57 | K2 | China, regulación o mercado: ¿qué hay detrás de las alertas sobr |
 | 2026-09-14 | 55 | K2 | Exinvestigador y directivo de Anthropic advierten sobre riesgos  |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-10 | 58 | K2 | OpenAI genera controversia tras afirmar que resolvió un problema |
 | 2026-09-07 | 53 | K2 | OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk |
 | 2026-09-06 | 57 | K0 | OpenAI admits to German wiki ‘incident’ |
-| 2026-09-05 | 86 | K1 | Inteligencia artificial: Nvidia comprará la plataforma de Huggin |
 
 [[Global Brain — Inicio|← Inicio]]

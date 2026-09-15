@@ -2,29 +2,30 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-14
-nodos: 18
+actualizado: 2026-09-15
+nodos: 19
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-14. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-15. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-18 nodos registrados en el periodo. Lo mas reciente: Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA.
+19 nodos registrados en el periodo. Lo mas reciente: "Un querido amigo": el oligarca ruso cercano a Putin que financió parte de la boda de un hijo de Trump.
 
 ## Trend summary (EN)
-18 nodes recorded in the period. Most recent: Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA.
+19 nodes recorded in the period. Most recent: Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms.
 
 > [!note] Estado actual
-> Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA
+> "Un querido amigo": el oligarca ruso cercano a Putin que financió parte de la boda de un hijo de Trump
 
-## Nodos recientes (18 en la ventana)
+## Nodos recientes (19 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
-| 2026-09-14 | 57 | K0 | Israeli minister threatens to strip Israeli film-makers of citiz |
+| 2026-09-15 | 95 | K1 | "Un querido amigo": el oligarca ruso cercano a Putin que financi |
+| 2026-09-15 | 77 | K0 | Israeli minister threatens to strip Israeli film-makers of citiz |
 | 2026-09-13 | 95 | K1 | La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su úni |
 | 2026-09-13 | 85 | K1 | Arabia Saudita cierra oleoducto estratégico tras ataque con dron |
 | 2026-09-11 | 95 | K2 | Argelia rompe relaciones diplomáticas con Emiratos Árabes Unidos |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-07 | 83 | K0 | Middle East Live: Several killed in Israeli strikes in southern  |
 | 2026-09-07 | 53 | K0 | U.S. ambassador visits Palestinian town amid rise in occupied We |
 | 2026-09-06 | 66 | K0 | US ambassador to Israel visits Palestinian town hit by West Bank |
-| 2026-09-06 | 66 | K0 | Israeli strikes kill four in Lebanon after alleged Hezbollah dro |
 
 [[Global Brain — Inicio|← Inicio]]
