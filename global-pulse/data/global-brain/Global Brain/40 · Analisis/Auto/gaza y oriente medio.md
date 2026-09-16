@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-15
-nodos: 19
+actualizado: 2026-09-16
+nodos: 21
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-15. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-16. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-19 nodos registrados en el periodo. Lo mas reciente: "Un querido amigo": el oligarca ruso cercano a Putin que financió parte de la boda de un hijo de Trump.
+21 nodos registrados en el periodo. Lo mas reciente: ¿Qué implica el rechazo del Supremo a los planes de Trump para restringir el voto por correo?.
 
 ## Trend summary (EN)
-19 nodes recorded in the period. Most recent: Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms.
+21 nodes recorded in the period. Most recent: Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel.
 
 > [!note] Estado actual
-> "Un querido amigo": el oligarca ruso cercano a Putin que financió parte de la boda de un hijo de Trump
+> ¿Qué implica el rechazo del Supremo a los planes de Trump para restringir el voto por correo?
 
-## Nodos recientes (19 en la ventana)
+## Nodos recientes (21 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-16 | 95 | K1 | ¿Qué implica el rechazo del Supremo a los planes de Trump para r |
+| 2026-09-16 | 87 | K1 | En Gaza, los hogares encabezados por mujeres solas enfrentan dec |
 | 2026-09-15 | 95 | K1 | "Un querido amigo": el oligarca ruso cercano a Putin que financi |
 | 2026-09-15 | 77 | K0 | Israeli minister threatens to strip Israeli film-makers of citiz |
 | 2026-09-13 | 95 | K1 | La escalada en el mar Rojo obliga a Arabia Saudí a cerrar su úni |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-09 | 95 | K1 | Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados U |
 | 2026-09-09 | 74 | K0 | Israel castiga a Reino Unido por liderar denuncia de colonizació |
 | 2026-09-07 | 83 | K0 | Middle East Live: Several killed in Israeli strikes in southern  |
-| 2026-09-07 | 53 | K0 | U.S. ambassador visits Palestinian town amid rise in occupied We |
-| 2026-09-06 | 66 | K0 | US ambassador to Israel visits Palestinian town hit by West Bank |
 
 [[Global Brain — Inicio|← Inicio]]

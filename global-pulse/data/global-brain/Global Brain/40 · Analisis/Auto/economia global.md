@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-15
-nodos: 37
+actualizado: 2026-09-16
+nodos: 36
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-15. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-16. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-37 nodos registrados en el periodo. Lo mas reciente: Trump says he will consider releasing more 9/11 records after families’ request.
+36 nodos registrados en el periodo. Lo mas reciente: La basura de la pesca de EE.UU. y Canadá acaba en las playas de las Azores.
 
 ## Trend summary (EN)
-37 nodes recorded in the period. Most recent: Trump says he will consider releasing more 9/11 records after families’ request.
+36 nodes recorded in the period. Most recent: 'Canada can offer a more reliable route for energy exports to the EU', expert says.
 
 > [!note] Estado actual
-> Trump says he will consider releasing more 9/11 records after families’ request
+> La basura de la pesca de EE.UU. y Canadá acaba en las playas de las Azores
 
-## Nodos recientes (37 en la ventana)
+## Nodos recientes (36 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-16 | 57 | K0 | La basura de la pesca de EE.UU. y Canadá acaba en las playas de  |
 | 2026-09-15 | 83 | K0 | Trump says he will consider releasing more 9/11 records after fa |
 | 2026-09-15 | 78 | K1 | Escalada entre Arabia Saudita y hutíes en Yemen agrava conflicto |
 | 2026-09-15 | 70 | K0 | Microsoft impone límites a la IA en las escuelas de EE UU ante e |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-11 | 72 | K1 | Anthropic revela usos indebidos de su IA en ciberataques, armas  |
 | 2026-09-10 | 95 | K2 | El impacto incierto de las sanciones contra los asentamientos is |
 | 2026-09-10 | 95 | K0 | Rubio anuncia que pedirá 45 millones de dólares al Congreso para |
-| 2026-09-10 | 79 | K0 | US bans Canadian dairy, alcohol and motorcycles as trade war esc |
 
 [[Global Brain — Inicio|← Inicio]]

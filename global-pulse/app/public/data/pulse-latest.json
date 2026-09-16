@@ -1,1198 +1,1175 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-09-15",
-    "generado": "2026-09-15T09:44:56.932741+00:00",
+    "fecha": "2026-09-16",
+    "generado": "2026-09-16T09:35:24.960308+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 803,
-      "clusters": 550,
-      "nodos": 550,
-      "verificados": 550,
-      "duracion_s": 331.0
+      "piezas_ingeridas": 798,
+      "clusters": 551,
+      "nodos": 551,
+      "verificados": 551,
+      "duracion_s": 111.1
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Ucrania: ataque ruso «sistémico en curso»; Rusia no descarta la reanudación de negociaciones",
-        "en": "Amid Trump trade war, Canada's exports to China up 30% in first half of 2026"
+        "es": "¿Qué implica el rechazo del Supremo a los planes de Trump para restringir el voto por correo?",
+        "en": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel"
       },
       "sintesis": {
-        "es": "Las negociaciones trilaterales sobre la resolución del conflicto en Ucrania podrían reanudarse en octubre de 2026, declaró el portavoz del Kremlin el domingo 13 de septiembre, según informaron las agencias rusas Ria Novosti y Tass. Sin embargo, los ataques rusos siguen afectando gravemente a Ucrania. «Se está llevando a cabo un ataque generalizado contra la red ferroviaria en todo el país», indicó la empresa Ukrzaliznytsia.",
-        "en": "The Canada-China Business Council and the University of Alberta's China Institute have crunched the trade data between Canada and China for the first half of 2026, and it shows Canadian exports to China rose by 30.1 per cent to $21.74 billion, while imports from China declined by 5.8 per cent to $44.86 billion."
+        "es": "El presidente de Estados Unidos, Donald Trump, sufrió un revés en su intento de modificar las reglas del voto por correo de cara a las elecciones de mitad de mandato de noviembre. La Corte Suprema rechaza, por ahora, la petición de su Gobierno para poner en marcha nuevas restricciones y permitió que los estados mantengan los procedimientos que utilizan actualmente para enviar, recibir y procesar las papeletas.",
+        "en": "Trump administration pushes $2.8bn bomb sale to Israel amid criticism over mass targeting of civilians in the region."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Rusia",
-        "Ucrania",
+        "Alex Saab",
+        "Maduro",
         "Trump",
-        "Europe Today"
-      ],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_15d60975ae",
-        "ev_0542f40a78",
-        "ev_27d5e64e5b",
-        "ev_07cb477cda",
-        "ev_c3bcb5adce",
-        "ev_1f50e1c0ab",
-        "ev_9e19db7a25",
-        "ev_def29927ad"
-      ],
-      "cluster_id": "cl_000",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f286/live/6552f360-b0aa-11f1-9c5d-0dd6cc52f198.jpg",
-        "https://s.france24.com/media/display/6f7737f8-7c98-11f0-a39d-005056a90284/w:1024/p:16x9/AA-3.jpg",
-        "https://s.rfi.fr/media/display/baf2205c-af65-11f1-964d-005056bf30b7/w:1024/p:16x9/000-C7YK7CQ.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_15d60975ae",
-          "titulo": "Qué se sabe de los Geran-3, los nuevos drones a reacción que Rusia está usando contra Ucrania y que han golpeado con dureza a Kyiv",
-          "url": "https://www.bbc.com/mundo/articles/cwyz1293enxo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Tue, 15 Sep 2026 02:09:05 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_0542f40a78",
-          "titulo": "Trump anuncia una tregua energética entre Rusia y Ucrania, pero Zelenski pone condiciones",
-          "url": "https://www.france24.com/es/europa/20260914-trump-anuncia-una-tregua-energ%C3%A9tica-entre-rusia-y-ucrania-pero-zelenski-pone-condiciones",
-          "fuente": "France 24 Espanol",
-          "fecha": "Mon, 14 Sep 2026 21:04:15 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_27d5e64e5b",
-          "titulo": "Ucrania: ataque ruso «sistémico en curso»; Rusia no descarta la reanudación de negociaciones",
-          "url": "https://www.rfi.fr/es/europa/20260913-ucrania-ataque-ruso-sist%C3%A9mico-en-curso-el-kremlin-no-descarta-la-reanudaci%C3%B3n-de-negociaciones",
-          "fuente": "RFI Espanol",
-          "fecha": "Sun, 13 Sep 2026 13:50:53 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_07cb477cda",
-          "titulo": "Europe Today: Trump habla de tregua energética entre Rusia y Ucrania, la IA en pausa sacude mercados",
-          "url": "https://es.euronews.com/my-europe/2026/09/15/trump-habla-de-tregua-energetica-entre-rusia-y-ucrania",
-          "fuente": "Euronews Espanol",
-          "fecha": "Tue, 15 Sep 2026 08:09:28 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c3bcb5adce",
-          "titulo": "Trump afirma que Rusia y Ucrania han frenado sus ataques mutuos a energéticas ante la escalada del combustible",
-          "url": "https://es.euronews.com/2026/09/15/trump-anuncia-una-tregua-energetica-entre-rusia-ucrania-ante-escalada-precio-diesel",
-          "fuente": "Euronews Espanol",
-          "fecha": "Tue, 15 Sep 2026 07:49:25 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_1f50e1c0ab",
-          "titulo": "Enter the hoax buster: Trump dismisses AI concerns as Europe and China fret",
-          "url": "https://www.euronews.com/next/2026/09/15/enter-the-hoax-buster-trump-dismisses-ai-concerns-as-europe-and-china-fret",
-          "fuente": "Euronews English",
-          "fecha": "Tue, 15 Sep 2026 10:31:38 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9e19db7a25",
-          "titulo": "Europe Today: Trump claims Russia-Ukraine energy truce as AI slowdown rattles markets",
-          "url": "https://www.euronews.com/my-europe/2026/09/15/europe-today-trump-claims-russia-ukraine-energy-truce-as-ai-slowdown-rattles-markets",
-          "fuente": "Euronews English",
-          "fecha": "Tue, 15 Sep 2026 08:24:27 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_def29927ad",
-          "titulo": "Amid Trump trade war, Canada's exports to China up 30% in first half of 2026",
-          "url": "https://www.cbc.ca/news/canada/canada-china-trade-export-up-2026-9.7340408?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Mon, 14 Sep 2026 04:00:00 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-15_0000",
-      "fecha": "2026-09-15",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-09-15_0001",
-        "nd_2026-09-15_0002"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "\"Un querido amigo\": el oligarca ruso cercano a Putin que financió parte de la boda de un hijo de Trump",
-        "en": "Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms"
-      },
-      "sintesis": {
-        "es": "El empresario Umar Kremlev pagó cientos de miles de dólares en gastos de las celebraciones de Donald Trump Jr. y Bettina Anderson en Bahamas, según una investigación de 'ProPublica'. La pareja confirmó el aporte, pero aseguró que se trató de un \"regalo de bodas\" de un \"querido amigo\" y rechazó cualquier motivación política.",
-        "en": "Donald Trump Jr.'s new wife, Bettina, is confirming that her May wedding weekend celebration was partially funded by a man with close ties to Russian President Vladimir Putin."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Trump",
-        "Putin",
-        "Donald Trump",
-        "Bahamas"
-      ],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_fc242f080e",
-        "ev_eaf55a15dd",
-        "ev_98084bed93",
-        "ev_f886662e73",
-        "ev_c2850613a6",
-        "ev_58ac46d89f",
-        "ev_07d1752aac",
-        "ev_8a99465c23",
-        "ev_00098901d3",
-        "ev_aecb2ee269",
-        "ev_39d55b495e"
-      ],
-      "cluster_id": "cl_031",
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/6GGT4QSISVHDPHTIFRICQZTY24.jpg?auth=b6dda534a914af53acef37ad0137ffd0a71d884232c1d32cf7f1b4b41031f59a",
-        "https://s.france24.com/media/display/be5dd2d2-b086-11f1-972f-005056a97e36/w:1024/p:16x9/AP22268740380759.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894549163682.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db8/live/b910afd0-b08a-11f1-8f9f-33e0914f3492.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_fc242f080e",
-          "titulo": "Un oligarca ruso del círculo de Putin pagó los festejos tras la boda del hijo mayor de Trump en Bahamas",
-          "url": "https://elpais.com/internacional/2026-09-14/un-oligarca-ruso-cercano-a-putin-pago-los-festejos-tras-la-boda-del-hijo-mayor-de-donald-trump-en-las-bahamas.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Mon, 14 Sep 2026 21:42:13 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_eaf55a15dd",
-          "titulo": "\"Un querido amigo\": el oligarca ruso cercano a Putin que financió parte de la boda de un hijo de Trump",
-          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260914-un-querido-amigo-un-oligarca-ruso-cercano-a-putin-financia-parte-de-la-boda-de-un-hijo-de-trump",
-          "fuente": "France 24 Espanol",
-          "fecha": "Mon, 14 Sep 2026 23:03:23 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_98084bed93",
-          "titulo": "Así financió en secreto un oligarca ruso la boda del hijo de Trump: isla alquilada en Bahamas y fuegos artificiales",
-          "url": "https://www.elmundo.es/internacional/2026/09/15/6aa8e95ee9cf4af41d8b4579.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Tue, 15 Sep 2026 08:51:08 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f886662e73",
-          "titulo": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift'",
-          "url": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 14 Sep 2026 22:56:44 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c2850613a6",
-          "titulo": "Putin ally paid for Trump Jr's wedding celebrations as 'extraordinarily generous gift'",
-          "url": "https://news.sky.com/story/donald-trump-jr-says-putin-ally-paid-for-two-nights-of-his-wedding-celebrations-as-generous-gift-13585900",
-          "fuente": "Sky News World",
-          "fecha": "Mon, 14 Sep 2026 17:42:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_58ac46d89f",
-          "titulo": "Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms",
-          "url": "https://www.cbc.ca/news/world/donald-trump-jr-wife-wedding-russian-oligarch-9.7343617?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Mon, 14 Sep 2026 17:52:03 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_07d1752aac",
-          "titulo": "Gold Coast mayor swears at journalist amid questions over Donald Trump dinner",
-          "url": "https://www.abc.net.au/news/2026-09-15/gold-coast-mayor-tom-tate-mar-a-lago-dinner-donald-trump/107155370",
-          "fuente": "ABC News Australia",
-          "fecha": "Tue, 15 Sep 2026 05:23:55 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8a99465c23",
-          "titulo": "Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal",
-          "url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Mon, 14 Sep 2026 22:18:56 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_00098901d3",
-          "titulo": "El Gobierno de Trump confirma el uso de jaulas para inmigrantes como castigo en Alligator Alcatraz",
-          "url": "https://elpais.com/us/migracion/2026-09-14/el-gobierno-de-trump-confirma-el-uso-de-jaulas-para-inmigrantes-como-castigo-en-alligator-alcatraz.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Mon, 14 Sep 2026 23:24:49 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_aecb2ee269",
-          "titulo": "¿Puede frenarse el desarrollo de la IA sin el apoyo del Gobierno de Donald Trump?",
-          "url": "https://www.france24.com/es/video/20260914-puede-frenarse-el-desarrollo-de-la-ia-sin-el-apoyo-del-gobierno-de-donald-trump",
-          "fuente": "France 24 Espanol",
-          "fecha": "Mon, 14 Sep 2026 21:22:35 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_39d55b495e",
-          "titulo": "Donald Trump desestima riesgos de la IA y acusa una conspiración contra su desarrollo",
-          "url": "https://www.france24.com/es/video/20260914-donald-trump-desestima-riesgos-de-la-ia-y-acusa-una-conspiraci%C3%B3n-contra-su-desarrollo",
-          "fuente": "France 24 Espanol",
-          "fecha": "Mon, 14 Sep 2026 21:13:32 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-09-15_0001",
-      "fecha": "2026-09-15",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-15_0000",
-        "nd_2026-09-15_0002"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Trump says he will consider releasing more 9/11 records after families’ request",
-        "en": "Trump says he will consider releasing more 9/11 records after families’ request"
-      },
-      "sintesis": {
-        "es": "Families have asked Trump to declassify records that could shed light on Saudi Arabia’s alleged role in the 2001 attacks Donald Trump said on Sunday that he will look into requests from families of 9/11 victims to release records that could shed light on Saudi Arabia’s alleged role in the attacks 25 years ago. Several families have long alleged that a group of extremist religious leaders in Saudi Arabia gained influence in the kingdom’s government and aided the hijackers. Fifteen of the 19 hijackers were Saudis, but the Saudi government has long denied any involvement in the attacks.",
-        "en": "Families have asked Trump to declassify records that could shed light on Saudi Arabia’s alleged role in the 2001 attacks Donald Trump said on Sunday that he will look into requests from families of 9/11 victims to release records that could shed light on Saudi Arabia’s alleged role in the attacks 25 years ago. Several families have long alleged that a group of extremist religious leaders in Saudi Arabia gained influence in the kingdom’s government and aided the hijackers. Fifteen of the 19 hijackers were Saudis, but the Saudi government has long denied any involvement in the attacks."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Trump",
-        "Irish",
-        "Trump Promises",
-        "Lift Tariffs"
+        "Estados Unidos"
       ],
       "geo": {
         "lat": 39.8,
         "lon": -98.6,
         "region": "Norteamerica"
       },
-      "impacto": 83,
+      "impacto": 95,
       "fuentes": [
-        "ev_3420e6f29b",
-        "ev_956c89abcb",
-        "ev_b21be5a908",
-        "ev_3286d4bc6e",
-        "ev_a18ac06394",
-        "ev_60171962fe",
-        "ev_4ce24886f9",
-        "ev_a01a657260"
+        "ev_7e448ae5fe",
+        "ev_1702778ac1",
+        "ev_929419453c",
+        "ev_0b44db56ed",
+        "ev_f92a8e7913",
+        "ev_3b212cf4a1",
+        "ev_dd7e714223",
+        "ev_52993faf07",
+        "ev_c512dc3976",
+        "ev_713ae16098",
+        "ev_b43b7aa285",
+        "ev_0d72ae95d6",
+        "ev_b54c0a7012",
+        "ev_84caf8a521"
       ],
-      "cluster_id": "cl_163",
+      "cluster_id": "cl_002",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49cc/live/4052f240-afe7-11f1-bdba-250c0ca3cf02.jpg",
-        "https://i.guim.co.uk/img/media/fc319ffa9fe7b106e4e0279116e6998ff42ab761/116_0_2218_1774/master/2218.jpg?width=140&quality=85&auto=format&fit=max&s=a8dd2d98f82d0cab0e51841fcf51c81c",
-        "https://s.france24.com/media/display/7b79f91a-b08a-11f1-ac1f-005056a90284/w:1024/p:16x9/2026-09-14T021020Z-1000114421-RC2MINA0CLDT-RTRMADP-3-USA-TRUMP-IRELAND.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/506b/live/71f851e0-b12d-11f1-b199-f1c9bc04a179.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/049c/live/8a2182a0-0205-11f1-b311-a93d45a0b96f.jpg",
+        "https://s.rfi.fr/media/display/845da30e-b1a9-11f1-98ac-cfc9bd8e913f/w:1024/p:16x9/000-34F796A.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894942692560.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_3420e6f29b",
-          "titulo": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-          "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Tue, 15 Sep 2026 08:49:31 GMT",
-          "idioma": "en"
+          "id": "ev_7e448ae5fe",
+          "titulo": "El empresario colombiano Alex Saab, aliado clave de Maduro, se declara culpable de lavado de dinero y entregará US$195 millones a EE.UU.",
+          "url": "https://www.bbc.com/mundo/articles/ckq63vy5647zo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Tue, 15 Sep 2026 18:17:43 GMT",
+          "idioma": "es"
         },
         {
-          "id": "ev_956c89abcb",
-          "titulo": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-          "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sun, 13 Sep 2026 19:34:36 GMT",
-          "idioma": "en"
+          "id": "ev_1702778ac1",
+          "titulo": "Quién es el empresario colombiano Alex Saab, aliado y supuesto testaferro de Nicolás Maduro que se declaró culpable de lavado de dinero en EE.UU.",
+          "url": "https://www.bbc.com/mundo/articles/c4gvnw3gv4vo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Tue, 15 Sep 2026 22:51:00 GMT",
+          "idioma": "es"
         },
         {
-          "id": "ev_b21be5a908",
-          "titulo": "Trump says he will consider releasing more 9/11 records after families’ request",
-          "url": "https://www.theguardian.com/us-news/2026/sep/14/trump-911-saudi-arabia-records",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 14 Sep 2026 15:45:18 GMT",
-          "idioma": "en"
+          "id": "ev_929419453c",
+          "titulo": "Estados Unidos: Alex Saab, exministro de Maduro, se declara culpable de lavado de dinero",
+          "url": "http://www.rfi.fr/es/am%C3%A9ricas/20260916-estados-unidos-alex-saab-exministro-de-maduro-se-declara-culpable-de-lavado-de-dinero",
+          "fuente": "RFI Espanol",
+          "fecha": "Wed, 16 Sep 2026 08:41:35 GMT",
+          "idioma": "es"
         },
         {
-          "id": "ev_3286d4bc6e",
-          "titulo": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘sick conspiracy’",
-          "url": "https://www.france24.com/en/technology/20260915-trump-calls-concerns-over-rogue-ai-a-hoax-promoted-by-a-sick-conspiracy",
-          "fuente": "France 24 English",
-          "fecha": "Tue, 15 Sep 2026 01:05:38 GMT",
-          "idioma": "en"
+          "id": "ev_0b44db56ed",
+          "titulo": "Alex Saab acuerda dar información a EE.UU. sobre altos funcionarios venezolanos",
+          "url": "https://es.euronews.com/2026/09/15/alex-saab-aliado-maduro-culpable-lavado-dinero-eeuu",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 15 Sep 2026 18:15:54 +0200",
+          "idioma": "es"
         },
         {
-          "id": "ev_a18ac06394",
-          "titulo": "Trump administration suffers double legal setback over immigration policy",
-          "url": "https://www.aljazeera.com/news/2026/9/15/trump-administration-suffers-double-legal-setback-over-immigration-rules?traffic_source=rss",
+          "id": "ev_f92a8e7913",
+          "titulo": "El ex ministro venezolano Alex Saab, principal testaferro de Maduro, se declara en EEUU culpable de lavado de dinero",
+          "url": "https://www.elmundo.es/internacional/2026/09/15/6aa97617e9cf4aac6d8b458c.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Tue, 15 Sep 2026 19:45:59 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_3b212cf4a1",
+          "titulo": "Estados Unidos prepara la venta a Israel de 40.000 bombas de casi una tonelada muy destructivas",
+          "url": "https://elpais.com/internacional/2026-09-16/estados-unidos-prepara-la-venta-a-israel-de-40000-bombas-de-casi-una-tonelada-muy-destructivas.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Wed, 16 Sep 2026 07:43:51 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_dd7e714223",
+          "titulo": "¿Qué implica el rechazo del Supremo a los planes de Trump para restringir el voto por correo?",
+          "url": "http://www.france24.com/es/ee-uu-y-canad%C3%A1/20260916-qu%C3%A9-implica-el-rechazo-del-supremo-a-los-planes-de-trump-para-restringir-el-voto-por-correo",
+          "fuente": "France 24 Espanol",
+          "fecha": "Wed, 16 Sep 2026 06:08:59 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_52993faf07",
+          "titulo": "Estados Unidos: Corte Suprema rechaza la solicitud de Trump de restringir el voto por correo",
+          "url": "http://www.rfi.fr/es/am%C3%A9ricas/20260915-estados-unidos-corte-suprema-rechaza-la-solicitud-de-trump-de-restringir-el-voto-por-correo",
+          "fuente": "RFI Espanol",
+          "fecha": "Tue, 15 Sep 2026 14:33:22 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_c512dc3976",
+          "titulo": "El Supremo de EEUU frena el intento de Trump de restringir el voto por correo",
+          "url": "https://www.elmundo.es/internacional/2026/09/15/6aa8d5a1fc6c8350318b4582.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Tue, 15 Sep 2026 07:37:40 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_713ae16098",
+          "titulo": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
+          "url": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Tue, 15 Sep 2026 02:31:18 +0000",
+          "fecha": "Wed, 16 Sep 2026 03:39:50 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_60171962fe",
-          "titulo": "Trump Promises to Lift Tariffs on Irish Whiskey After Appeals",
-          "url": "https://www.nytimes.com/2026/09/13/world/europe/trump-tariffs-irish-whiskey.html",
-          "fuente": "NYT World",
-          "fecha": "Sun, 13 Sep 2026 23:02:26 +0000",
-          "idioma": "en"
+          "id": "ev_b43b7aa285",
+          "titulo": "Directo a... Miami y la declaración de culpabilidad del exministro venezolano Alex Saab",
+          "url": "http://www.france24.com/es/video/20260915-directo-a-miami-y-la-declaraci%C3%B3n-de-culpabilidad-del-exministro-venezolano-alex-saab",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 15 Sep 2026 19:35:02 GMT",
+          "idioma": "es"
         },
         {
-          "id": "ev_4ce24886f9",
-          "titulo": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
-          "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-          "fuente": "NYT World",
-          "fecha": "Sat, 12 Sep 2026 22:46:12 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a01a657260",
-          "titulo": "Trump calls for Irish reunification - and claims 'it will happen eventually'",
-          "url": "https://news.sky.com/story/trump-would-love-to-see-irish-reunification-and-claims-it-will-happen-eventually-13584741",
-          "fuente": "Sky News World",
-          "fecha": "Sat, 12 Sep 2026 10:57:00 +0100",
+          "id": "ev_0d72ae95d6",
+          "titulo": "Maduro ally Alex Saab pleads guilty to money laundering, fraud",
+          "url": "https://www.aljazeera.com/news/2026/9/16/former-maduro-ally-pleads-guilty-to-money-laundering-and-fraud?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 16 Sep 2026 00:36:57 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-15_0002",
-      "fecha": "2026-09-15",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-09-15_0000",
-        "nd_2026-09-15_0001",
-        "nd_2026-09-15_0008"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "US Space Force confirms weapons deployed in space for first time",
-        "en": "US Space Force confirms weapons deployed in space for first time"
-      },
-      "sintesis": {
-        "es": "The US Space Force on Monday confirmed for the first time that Washington has weapons deployed in orbit, as the United States, China and Russia expand their military capabilities in space. The disclosure highlights a growing focus on controlling the space domain and protecting satellites vital to military communications, surveillance and navigation.",
-        "en": "The US Space Force on Monday confirmed for the first time that Washington has weapons deployed in orbit, as the United States, China and Russia expand their military capabilities in space. The disclosure highlights a growing focus on controlling the space domain and protecting satellites vital to military communications, surveillance and navigation."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "United States",
-        "Space Force"
-      ],
-      "geo": {
-        "lat": 61.5,
-        "lon": 105.3,
-        "region": "Rusia"
-      },
-      "impacto": 78,
-      "fuentes": [
-        "ev_1ac25679a6",
-        "ev_50e3e91761",
-        "ev_e9522beecf",
-        "ev_a3bc530f37",
-        "ev_2f45bbd4f4",
-        "ev_72f3e9cecb"
-      ],
-      "cluster_id": "cl_167",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea01/live/8817c3e0-b0a4-11f1-a49c-4d6441eda2b0.jpg",
-        "https://s.france24.com/media/display/54b1beee-a432-11f1-8b6d-005056bfb2b6/w:1024/p:16x9/2026-08-29T195602Z-94810877-RC2I8NAYVGKF-RTRMADP-3-SPACE-NASA-TELESCOPE.jpg",
-        "https://cdn.arstechnica.net/wp-content/uploads/2026/09/9718607-1152x648.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1ac25679a6",
-          "titulo": "US confirms for first time it has deployed space weapons",
-          "url": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Tue, 15 Sep 2026 08:48:28 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_50e3e91761",
-          "titulo": "US Space Force confirms weapons deployed in space for first time",
-          "url": "https://www.france24.com/en/americas/20260914-us-space-force-confirms-weapons-deployed-in-space-for-first-time",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 14 Sep 2026 21:56:25 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e9522beecf",
-          "titulo": "For the first time, the US military confirms it has deployed weapons in orbit",
-          "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
-          "fuente": "Ars Technica",
-          "fecha": "Tue, 15 Sep 2026 03:47:36 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a3bc530f37",
-          "titulo": "United States Space Force says US has weapons in orbit",
-          "url": "https://www.euronews.com/2026/09/14/united-states-space-force-says-us-has-weapons-in-orbit",
-          "fuente": "Euronews English",
-          "fecha": "Mon, 14 Sep 2026 23:46:16 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2f45bbd4f4",
-          "titulo": "WHO statement on notification of withdrawal of the United States",
-          "url": "https://www.who.int/news/item/24-01-2026-who-statement-on-notification-of-withdrawal-of-the-united-states",
-          "fuente": "WHO News",
-          "fecha": "Sat, 24 Jan 2026 20:09:49 Z",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_72f3e9cecb",
-          "titulo": "WHO comments on United States’ announcement of intent to withdraw",
-          "url": "https://www.who.int/news/item/21-01-2025-who-comments-on-united-states--announcement-of-intent-to-withdraw",
-          "fuente": "WHO News",
-          "fecha": "Tue, 21 Jan 2025 10:04:49 Z",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-15_0003",
-      "fecha": "2026-09-15",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-09-15_0004"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Escalada entre Arabia Saudita y hutíes en Yemen agrava conflicto regional vinculado a Irán",
-        "en": "Saudi-Houthi escalation in Yemen deepens regional conflict linked to Iran"
-      },
-      "sintesis": {
-        "es": "Los hutíes yemeníes y Arabia Saudita intercambian ataques aéreos, con la coalición saudí lanzando decenas de bombardeos en respuesta a ataques hutíes en zonas urbanas saudíes. La escalada coincide con ataques estadounidenses en Irán, la suspensión de conversaciones entre Irán y estados del Golfo, y advertencias de la ONU sobre víctimas civiles y desplazamientos masivos en Yemen. La crisis ha impulsado los precios del petróleo, con el Brent acercándose a los 108 dólares por temor a una disrupción del suministro global.",
-        "en": "Yemen's Houthis and Saudi Arabia are exchanging air strikes, with the Saudi-led coalition launching dozens of retaliatory bombings after Houthi attacks on Saudi urban areas. The escalation coincides with US strikes on Iran, postponed talks between Iran and Gulf states, and UN warnings over civilian casualties and mass displacement in Yemen. The crisis has pushed oil prices higher, with Brent nearing $108 amid fears of global supply disruption."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Houthis",
-        "Saudi Arabia",
-        "Iran",
-        "Yemen government",
-        "United States",
-        "United Nations",
-        "Gulf Arab states"
-      ],
-      "geo": {
-        "lat": 15.5527,
-        "lon": 48.5164,
-        "region": "Yemen / Saudi Arabia / Gulf region"
-      },
-      "impacto": 78,
-      "fuentes": [
-        "ev_9c11ed6c24",
-        "ev_8f4cb7e286",
-        "ev_5769103af1",
-        "ev_f85343d263",
-        "ev_28df7f1501"
-      ],
-      "cluster_id": "cl_237",
-      "imagenes": [
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/29-04-2026-IRCS-Iran-Tehran-02.jpg/image560x340cropped.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_9c11ed6c24",
-          "titulo": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
-          "url": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Tue, 15 Sep 2026 08:11:09 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8f4cb7e286",
-          "titulo": "Iran war live: 54 Saudi air strikes target Houthis as Yemen fighting rages",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/9/15/iran-war-live-centcom-refutes-iran-claim-supertanker-hit-hormuz-mines?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Tue, 15 Sep 2026 00:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5769103af1",
-          "titulo": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168328",
-          "fuente": "UN News",
-          "fecha": "Mon, 14 Sep 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f85343d263",
-          "titulo": "Houthis attack more Saudi targets as regional talks with Iran postponed",
-          "url": "https://www.cbc.ca/news/world/iran-war-yemen-houthis-saudi-arabia-9.7342898?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Mon, 14 Sep 2026 09:48:57 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_28df7f1501",
-          "titulo": "Oil extends gains, Brent crude nears $108 following Houthi strikes on Saudi Arabia",
-          "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Tue, 15 Sep 2026 07:22:29 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-15_0004",
-      "fecha": "2026-09-15",
+      "id": "nd_2026-09-16_0000",
+      "fecha": "2026-09-16",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-09-15_0003"
+        "nd_2026-09-16_0002",
+        "nd_2026-09-16_0011"
       ]
     },
     {
       "titulo": {
-        "es": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
-        "en": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA"
+        "es": "Un helicóptero se estrella contra un aparcamiento en Los Ángeles: 3 muertos",
+        "en": "NBC helicopter crash in LA kills at least three people with others injured"
       },
       "sintesis": {
-        "es": "Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’ ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence Israel’s culture minister has called for the Oscar-winning Israeli directors of NAZA , a documentary about the country’s mass killing of civilians in Gaza, to be stripped of their citizenship, accusing them of “treason against the state”. NAZA, which was produced by the Guardian, is named for an acronym used by Israel’s intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. Continue reading...",
-        "en": "Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’ ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence Israel’s culture minister has called for the Oscar-winning Israeli directors of NAZA , a documentary about the country’s mass killing of civilians in Gaza, to be stripped of their citizenship, accusing them of “treason against the state”. NAZA, which was produced by the Guardian, is named for an acronym used by Israel’s intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. Continue reading..."
+        "es": "Un helicóptero se estrelló contra un aparcamiento en Los Ángeles y causó la muerte de al menos tres personas. Una cuarta persona fue trasladada al hospital. El siniestro se produjo cerca del lugar de un accidente mortal de autobús, aunque se desconoce si hay relación entre ambos incidentes.",
+        "en": "Accident occurred as news crews in Los Angeles were covering a bus crash that had killed at least two people hours earlier A news helicopter crash in a Los Angeles neighborhood has killed at least three people, after it came to the ground and burst into flames near the site of a bus crash that occurred hours earlier. The helicopter crashed near a one-storey commercial building in the neighborhood of Chatsworth in the San Fernando Valley, as news crews were covering the bus crash that left at least two people dead and six others injured, according the Los Angeles Fire Department. Continue reading..."
       },
-      "categoria": "salud",
+      "categoria": "geopolitica",
       "actores": [
-        "Israeli",
+        "NBC",
+        "Los Angeles",
+        "Three"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 89,
+      "fuentes": [
+        "ev_40bab93fd5",
+        "ev_63ac76f994",
+        "ev_fde7664d63",
+        "ev_d800408c74",
+        "ev_ff0367a1ad",
+        "ev_33dedf2295",
+        "ev_68877934ea",
+        "ev_67c36c7f0f",
+        "ev_d849c19256",
+        "ev_e6aa7aeaa2",
+        "ev_c325445567",
+        "ev_07e34e9ddd"
+      ],
+      "cluster_id": "cl_048",
+      "imagenes": [
+        "https://s.france24.com/media/display/2d052580-b188-11f1-8b35-3ff9dda05487/w:1024/p:16x9/AP26259123487034.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895362157259.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2198/live/753c0bc0-b19c-11f1-bc1f-3f186ca4140c.jpg",
+        "https://i.guim.co.uk/img/media/c7cf9c1086b42c27fd309ae974845d44bbb33dfb/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=18f896b4a8b6ce8ecaa28dab446b70b8"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_40bab93fd5",
+          "titulo": "Al menos tres muertos: un helicóptero de 'NBC' se estrella en Los Ángeles",
+          "url": "http://www.france24.com/es/ee-uu-y-canad%C3%A1/20260916-al-menos-tres-muertos-un-helic%C3%B3ptero-de-nbc-se-estrella-en-los-%C3%A1ngeles",
+          "fuente": "France 24 Espanol",
+          "fecha": "Wed, 16 Sep 2026 06:56:50 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_63ac76f994",
+          "titulo": "Un helicóptero se estrella contra un aparcamiento en Los Ángeles: 3 muertos",
+          "url": "https://es.euronews.com/2026/09/16/un-helicoptero-se-estrella-contra-un-aparcamiento-en-los-angeles-3-muertos",
+          "fuente": "Euronews Espanol",
+          "fecha": "Wed, 16 Sep 2026 07:24:51 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_fde7664d63",
+          "titulo": "Al menos tres muertos tras estrellarse un helicóptero de noticias de la NBC en Los Ángeles",
+          "url": "https://www.elmundo.es/internacional/2026/09/16/6aaa26fee4d4d8db498b45a7.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Wed, 16 Sep 2026 09:52:32 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d800408c74",
+          "titulo": "Three killed after LA news helicopter crashes while covering deadly bus collision",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Wed, 16 Sep 2026 07:00:58 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ff0367a1ad",
+          "titulo": "NBC helicopter crash in LA kills at least three people with others injured",
+          "url": "https://www.theguardian.com/us-news/2026/sep/16/los-angeles-helicopter-crash",
+          "fuente": "The Guardian World",
+          "fecha": "Wed, 16 Sep 2026 04:32:48 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_33dedf2295",
+          "titulo": "Los Angeles: News helicopter crashes, killing three",
+          "url": "http://www.france24.com/en/video/20260916-los-angeles-news-helicopter-crashes-killing-three",
+          "fuente": "France 24 English",
+          "fecha": "Wed, 16 Sep 2026 08:42:30 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_68877934ea",
+          "titulo": "NBC news helicopter crashes in LA while covering bus collision, killing three",
+          "url": "http://www.france24.com/en/americas/20260916-media-helicopter-crashes-in-la-while-covering-bus-collision-killing-three",
+          "fuente": "France 24 English",
+          "fecha": "Wed, 16 Sep 2026 04:47:53 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_67c36c7f0f",
+          "titulo": "NBC helicopter crashes in LA, killing at least three",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/nbc-helicopter-crashes-in-la-killing-at-least-three?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 16 Sep 2026 09:05:23 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d849c19256",
+          "titulo": "News helicopter crash in Los Angeles kills three, injures one",
+          "url": "https://www.aljazeera.com/news/2026/9/16/news-helicopter-crash-in-los-angeles-kills-three-injures-one?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 16 Sep 2026 05:07:47 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e6aa7aeaa2",
+          "titulo": "3 people killed when news helicopter crashes while covering LA bus accident",
+          "url": "https://www.npr.org/2026/09/16/nx-s1-5970477/helicopter-crash-los-angeles",
+          "fuente": "NPR News",
+          "fecha": "Wed, 16 Sep 2026 00:06:00 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c325445567",
+          "titulo": "NBC news helicopter crash kills at least three in Los Angeles while reporters covered car accident",
+          "url": "https://www.euronews.com/2026/09/16/helicopter-crash-kills-at-least-3-people-in-los-angeles",
+          "fuente": "Euronews English",
+          "fecha": "Wed, 16 Sep 2026 06:22:29 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_07e34e9ddd",
+          "titulo": "3 people killed when NBC news helicopter crashes while covering Los Angeles bus accident",
+          "url": "https://www.cbc.ca/news/world/news-helicopter-crash-bus-9.7345805?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Wed, 16 Sep 2026 04:53:32 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-16_0001",
+      "fecha": "2026-09-16",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "El Kennedy Center cierra por reformas tras el veto judicial a inscribir el nombre de Trump",
+        "en": "Trump says renovation of Kennedy Center depends on whether his name is on it"
+      },
+      "sintesis": {
+        "es": "El presidente sostiene que los 257 millones de dólares (unos 222,72 millones de euros) aprobados por el Congreso para reparaciones solo se liberarán si se permite el cambio de nombre, pero la Justicia federal ha decidido dos veces que esa condición no puede cumplirse sin la aprobación del Congreso.",
+        "en": "The Kennedy Center board voted Tuesday to close most of the Washington performing arts complex for safety repairs, hours after a judge again blocked efforts to add President Donald Trump’s name to the building. Trump said the $257 million renovation plan depended on recognising his role in the project."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Trump",
+        "Kennedy Center",
+        "Kennedy Centre"
+      ],
+      "geo": {
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
+      },
+      "impacto": 89,
+      "fuentes": [
+        "ev_5f85af8101",
+        "ev_83d4e76773",
+        "ev_f2cc0af889",
+        "ev_a92967976b",
+        "ev_665f0c5549",
+        "ev_9926f5d047"
+      ],
+      "cluster_id": "cl_089",
+      "imagenes": [
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894976034409.jpg",
+        "https://s.france24.com/media/display/7e9f8c48-b14f-11f1-9746-53b7617a3a51/w:1024/p:16x9/AP26258780756063.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5f85af8101",
+          "titulo": "El Kennedy Center cierra por reformas tras el veto judicial a inscribir el nombre de Trump",
+          "url": "https://es.euronews.com/2026/09/16/el-kennedy-center-cierra-por-reformas-tras-el-veto-judicial-al-regreso-del-nombre-de-trump",
+          "fuente": "Euronews Espanol",
+          "fecha": "Wed, 16 Sep 2026 08:14:51 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_83d4e76773",
+          "titulo": "Un juez federal impide que el nombre de Trump vuelva a figurar en el exterior del Kennedy Center",
+          "url": "https://www.elmundo.es/internacional/2026/09/15/6aa98fd1e85ece19588b457d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Wed, 16 Sep 2026 07:14:36 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f2cc0af889",
+          "titulo": "Trump says renovation of Kennedy Center depends on whether his name is on it",
+          "url": "http://www.france24.com/en/americas/20260915-trump-threatens-to-not-reopen-kennedy-center-after-board-blocks-renaming",
+          "fuente": "France 24 English",
+          "fecha": "Tue, 15 Sep 2026 22:19:21 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a92967976b",
+          "titulo": "Kennedy Center board votes to close after judge again blocks efforts to add Trump name to it",
+          "url": "https://www.cbc.ca/news/world/kennedy-center-trump-name-ruling-9.7344949?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 15 Sep 2026 14:31:47 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_665f0c5549",
+          "titulo": "Trump says Kennedy Center will stay closed without renovation unless his name is added back",
+          "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Tue, 15 Sep 2026 21:46:22 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9926f5d047",
+          "titulo": "Trump threatens to keep Kennedy Centre closed over name change row",
+          "url": "https://www.euronews.com/2026/09/16/kennedy-center-to-close-for-renovations-after-judge-blocks-returning-trumps-name-to-landma",
+          "fuente": "Euronews English",
+          "fecha": "Wed, 16 Sep 2026 06:14:04 +0200",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-16_0002",
+      "fecha": "2026-09-16",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-09-16_0000",
+        "nd_2026-09-16_0011"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "En Gaza, los hogares encabezados por mujeres solas enfrentan decisiones imposibles para sobrevivir",
+        "en": "US set to deliver 2,000lb bombs to Israel as part of vast arms deal"
+      },
+      "sintesis": {
+        "es": "Según datos de la agencia especializada de la ONU, casi uno de cada cuatro hogares en Gaza está encabezado por una mujer sola. Además, un total de 246 mujeres y niñas palestinas han sido asesinadas desde el alto el fuego de octubre de 2025. Los hogares encabezados por mujeres tienen más probabilidades de carecer de refugio, alimentos y dinero en efectivo.",
+        "en": "Powerful bombs prompted such concern about mass deaths in Gaza that Biden officials paused delivery two years ago The Trump administration is planning to deliver powerful 2,000lb bombs to Israel as part of an upcoming arms deal, weapons that prompted such concerns about the possibility of mass casualties in Gaza that the Biden administration paused their delivery two years ago. The $2.8bn package includes 40,000 bombs, made up of 20,000 MK-84s and 20,000 BLU-117s, according to two US officials and a person familiar with the plan who spoke on Tuesday on condition of anonymity to discuss the package, which is not yet final. Continue reading..."
+      },
+      "categoria": "geopolitica",
+      "actores": [
         "Gaza",
-        "NAZA",
-        "Israeli Film"
+        "Israel"
       ],
       "geo": {
         "lat": 31.0,
         "lon": 34.9,
         "region": "Oriente Medio"
       },
-      "impacto": 77,
+      "impacto": 87,
       "fuentes": [
-        "ev_f11aaa9f84",
-        "ev_f91f7c3adf",
-        "ev_db724860f0",
-        "ev_328d687065",
-        "ev_881c823f48"
+        "ev_6b4336bfde",
+        "ev_41aed1aac2",
+        "ev_40ee57b57a",
+        "ev_3d485f220e",
+        "ev_7b70b35ac6",
+        "ev_962186273e",
+        "ev_94e037ac67"
       ],
-      "cluster_id": "cl_171",
+      "cluster_id": "cl_039",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba72/live/d553bf60-b04a-11f1-bc1f-3f186ca4140c.jpg",
-        "https://i.guim.co.uk/img/media/dd4ef69614c96f364a2b95dce1a30cad7253d175/349_0_4487_3592/master/4487.jpg?width=140&quality=85&auto=format&fit=max&s=00350c1797ef42c4743253d03b9f3a42",
-        "https://static01.nyt.com/images/2026/09/14/multimedia/14int-israel-NAAZ-01-hctj/14int-israel-NAAZ-01-hctj-mediumSquareAt3X.jpg"
+        "https://imagenes.elpais.com/resizer/v2/BMOGJD2HOFMFDGOR666JZ7W5QI.jpg?auth=768473c4c97d2f98630a80a88c530bad8e949d26fe5aae59715660676c8d5eec",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-02.jpg/image560x340cropped.jpg",
+        "https://i.guim.co.uk/img/media/0decf4c8c30eb7a60669a859ea336cf50a916f0e/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=f7d6481b814963e6e9778c362de2880a",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/06-05-2024_UNRWA_Gaza-02.jpg/image560x340cropped.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_f11aaa9f84",
-          "titulo": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-          "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 14 Sep 2026 18:26:20 GMT",
-          "idioma": "en"
+          "id": "ev_6b4336bfde",
+          "titulo": "Una docena de muertos, entre ellos cinco niños, por el derrumbe de un edificio en Gaza previamente bombardeado por Israel",
+          "url": "https://elpais.com/internacional/2026-09-16/varios-muertos-por-el-derrumbe-de-un-edificio-en-gaza-previamente-bombardeado-por-israel.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Wed, 16 Sep 2026 08:55:23 GMT",
+          "idioma": "es"
         },
         {
-          "id": "ev_f91f7c3adf",
-          "titulo": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
-          "url": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
+          "id": "ev_41aed1aac2",
+          "titulo": "Al menos 12 muertos y decenas de desaparecidos tras el derrumbe de un edificio en Gaza",
+          "url": "https://es.euronews.com/video/2026/09/16/al-menos-12-muertos-y-decenas-de-desaparecidos-tras-el-derrumbe-de-un-edificio-en-gaza",
+          "fuente": "Euronews Espanol",
+          "fecha": "Wed, 16 Sep 2026 11:10:48 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_40ee57b57a",
+          "titulo": "En Gaza, los hogares encabezados por mujeres solas enfrentan decisiones imposibles para sobrevivir",
+          "url": "https://news.un.org/feed/view/es/story/2026/09/1541879",
+          "fuente": "Noticias ONU",
+          "fecha": "Tue, 08 Sep 2026 12:00:00 +0000",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_3d485f220e",
+          "titulo": "US set to deliver 2,000lb bombs to Israel as part of vast arms deal",
+          "url": "https://www.theguardian.com/us-news/2026/sep/15/trump-administration-bomb-supply-israel-gaza",
           "fuente": "The Guardian World",
-          "fecha": "Mon, 14 Sep 2026 15:38:35 GMT",
+          "fecha": "Wed, 16 Sep 2026 01:13:01 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_db724860f0",
-          "titulo": "‘NAZA,’ Israeli Film About Killings in Gaza, Faces Backlash",
-          "url": "https://www.nytimes.com/2026/09/14/world/middleeast/israel-naza-documentary-backlash.html",
+          "id": "ev_7b70b35ac6",
+          "titulo": "US plans to send bombs to Israel in $2.8 billion weapons deal",
+          "url": "https://www.euronews.com/2026/09/16/us-plans-to-send-bombs-to-israel-in-28-billion-weapons-sale",
+          "fuente": "Euronews English",
+          "fecha": "Wed, 16 Sep 2026 08:20:49 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_962186273e",
+          "titulo": "Gaza remains recovery points to possible war crimes, says UN rights chief",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168335",
+          "fuente": "UN News",
+          "fecha": "Tue, 15 Sep 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_94e037ac67",
+          "titulo": "UN rights chief says uncovered remains in Gaza raise concerns of war crimes",
+          "url": "https://www.cbc.ca/news/world/united-nations-bodies-recovered-gaza-9.7344274?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Tue, 15 Sep 2026 08:01:26 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-16_0003",
+      "fecha": "2026-09-16",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-09-16_0012"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Russian drone attack on bus kills five in Ukraine's southeast",
+        "en": "Russian drone attack on bus kills five in Ukraine's southeast"
+      },
+      "sintesis": {
+        "es": "Five people were killed and at least seven more were injured in a Russian drone attack on a passenger bus near the frontline in Ukraine's southeast on Wednesday, the regional governor said.",
+        "en": "Five people were killed and at least seven more were injured in a Russian drone attack on a passenger bus near the frontline in Ukraine's southeast on Wednesday, the regional governor said."
+      },
+      "categoria": "innovacion",
+      "actores": [
+        "Ukraine",
+        "Russian",
+        "Five",
+        "Russian Strikes"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 83,
+      "fuentes": [
+        "ev_882aa863b6",
+        "ev_6b3d8174e3",
+        "ev_dd4c04ccd0",
+        "ev_c0f26cea9b",
+        "ev_e1fe176ed2",
+        "ev_f53d248592"
+      ],
+      "cluster_id": "cl_172",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42e8/live/a46209c0-b040-11f1-bb36-29bb24d8b9b8.jpg",
+        "https://s.france24.com/media/display/32a17336-b19c-11f1-8958-e59e88953996/w:1024/p:16x9/2026-09-16T064924Z-1003482524-RC24KNARF2CC-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+        "https://static01.nyt.com/images/2026/09/13/multimedia/13int-ukraine-strike-HFO-lkfq/13int-ukraine-strike-HFO-lkfq-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_882aa863b6",
+          "titulo": "Ukraine's postal workers deliver lifeline under Russian fire",
+          "url": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 15 Sep 2026 05:01:46 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6b3d8174e3",
+          "titulo": "Russian drone attack on bus kills five in Ukraine's southeast",
+          "url": "http://www.france24.com/en/europe/20260916-russian-drone-attack-on-bus-kills-five-in-ukraine-s-southeast",
+          "fuente": "France 24 English",
+          "fecha": "Wed, 16 Sep 2026 07:37:46 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_dd4c04ccd0",
+          "titulo": "Five killed in Russian drone strike on bus in southern Ukraine",
+          "url": "https://www.euronews.com/my-europe/2026/09/16/five-killed-in-russian-drone-strike-on-ukrainian-bus",
+          "fuente": "Euronews English",
+          "fecha": "Wed, 16 Sep 2026 10:17:49 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c0f26cea9b",
+          "titulo": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief",
+          "url": "https://www.nytimes.com/2026/09/13/world/europe/ukraine-petraeus-russian-strike.html",
           "fuente": "NYT World",
-          "fecha": "Mon, 14 Sep 2026 18:07:07 +0000",
+          "fecha": "Sun, 13 Sep 2026 23:48:50 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_328d687065",
-          "titulo": "Israeli attack targets Gaza displacement camp",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 14 Sep 2026 21:37:04 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_881c823f48",
-          "titulo": "At least two killed and tents destroyed in Israeli strikes on Gaza camps",
-          "url": "https://www.euronews.com/video/2026/09/15/at-least-two-killed-and-tents-destroyed-in-israeli-strikes-on-gaza-camps",
+          "id": "ev_e1fe176ed2",
+          "titulo": "At least five killed and more than a dozen injured in Russian attacks on Ukraine",
+          "url": "https://www.euronews.com/my-europe/2026/09/15/at-least-five-killed-and-more-than-a-dozen-injured-in-russian-attacks-on-ukraine",
           "fuente": "Euronews English",
-          "fecha": "Tue, 15 Sep 2026 08:11:26 +0200",
+          "fecha": "Tue, 15 Sep 2026 21:44:28 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f53d248592",
+          "titulo": "Ukraine's message to Asian nations: your chips are turning up in Russian missiles",
+          "url": "https://www.cnbc.com/2026/09/16/russia-ukraine-war-sanction-oil-missile-weapons-.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Wed, 16 Sep 2026 08:00:27 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-15_0005",
-      "fecha": "2026-09-15",
+      "id": "nd_2026-09-16_0004",
+      "fecha": "2026-09-16",
       "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-09-15_0006"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa",
-        "en": "African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa"
-      },
-      "sintesis": {
-        "es": "The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement reaffirms the joint commitment to advancing health security, universal health coverage, and sustainable development across the African continent at a time of unprecedented financial challenges in the global health landscape. It further underscores the African Union’s leadership in fostering collective action, inclusive partnerships, and regional resilience, and positions the Department of Health, Humanitarian Affairs, and Social Development of the AU Commission at the heart of the continent’s health policy implementation efforts.",
-        "en": "The World Health Organization (WHO) and the African Union (AU) Commission renewed their longstanding strategic partnership today with the signing of an updated Memorandum of Understanding (MoU) on the sidelines of the 78th World Health Assembly in Geneva. This renewed agreement reaffirms the joint commitment to advancing health security, universal health coverage, and sustainable development across the African continent at a time of unprecedented financial challenges in the global health landscape. It further underscores the African Union’s leadership in fostering collective action, inclusive partnerships, and regional resilience, and positions the Department of Health, Humanitarian Affairs, and Social Development of the AU Commission at the heart of the continent’s health policy implementation efforts."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Africa",
-        "IPO",
-        "Nigeria",
-        "Dangote"
-      ],
-      "geo": {
-        "lat": 23.9,
-        "lon": 45.1,
-        "region": "Oriente Medio"
-      },
-      "impacto": 74,
-      "fuentes": [
-        "ev_e1823ff69f",
-        "ev_614d67260d",
-        "ev_83e6fd72e5",
-        "ev_e4773df4f4",
-        "ev_54e403fc30",
-        "ev_e77617be22"
-      ],
-      "cluster_id": "cl_174",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a0/live/61038fb0-b058-11f1-9902-771b6dd8af6a.jpg",
-        "https://i.guim.co.uk/img/media/0dd7d54aa55fc6efb92d31ef2ef0090f02be60d8/1694_212_2444_1955/master/2444.jpg?width=140&quality=85&auto=format&fit=max&s=89a6adbb5e2ef4aacd95c39873426377",
-        "https://s.france24.com/media/display/17aad168-b05b-11f1-b58b-005056a90284/w:1024/p:16x9/732cb7dc19c595839564de7f85f58c87ed0476c1.jpg",
-        "https://s.france24.com/media/display/f137b4ca-b07c-11f1-9abb-005056bfb2b6/w:1024/p:16x9/capture-11066529056aa85c710aa835-00283286.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e1823ff69f",
-          "titulo": "Africa's richest man launches continent's biggest share sale",
-          "url": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 14 Sep 2026 16:23:42 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_614d67260d",
-          "titulo": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
-          "url": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 14 Sep 2026 12:38:51 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_83e6fd72e5",
-          "titulo": "Nigeria's Dangote refinery launches biggest African IPO",
-          "url": "https://www.france24.com/en/africa/20260915-nigeria-s-dangote-refinery-launches-biggest-african-ipo-for-retail-investors",
-          "fuente": "France 24 English",
-          "fecha": "Tue, 15 Sep 2026 00:05:32 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e4773df4f4",
-          "titulo": "Nigeria's Dangote refinery kicks off blockbuster IPO",
-          "url": "https://www.france24.com/en/tv-shows/business/20260914-nigeria-s-dangote-refinery-kicks-off-blockbuster-ipo",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 14 Sep 2026 20:46:19 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_54e403fc30",
-          "titulo": "WHO Director-General visits Jordan to recognize strong collaboration on health system delivery, emergency relief and advancing mental health",
-          "url": "https://www.who.int/news/item/25-02-2026-who-director-general-visits-jordan-to-recognize-strong-collaboration-on-health-system-delivery--emergency-relief-and-advancing-mental-health",
-          "fuente": "WHO News",
-          "fecha": "Wed, 25 Feb 2026 18:06:55 Z",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e77617be22",
-          "titulo": "African Union and World Health Organization renew strategic partnership to drive impact and strengthen health systems in Africa",
-          "url": "https://www.who.int/news/item/24-05-2025-world-health-organization-and-african-union-renew-strategic-partnership-to-drive-impact-and-strengthen-health-systems-in-africa",
-          "fuente": "WHO News",
-          "fecha": "Sat, 24 May 2025 17:47:21 Z",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-15_0006",
-      "fecha": "2026-09-15",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-15_0005"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "El rendimiento del bono del Tesoro a 10 años de EE.UU. supera el 5% en medio de una fuerte venta masiva de bonos",
-        "en": "US 10-year Treasury yield breaks above 5% amid deepening bond sell-off"
-      },
-      "sintesis": {
-        "es": "El rendimiento del bono del Tesoro estadounidense a 10 años alcanzó brevemente el 5.011%, su nivel más alto desde 2007, en medio de una venta masiva global de deuda soberana. Los inversores están descontando una posible subida de tipos de interés por parte de la Reserva Federal esta semana, lo que ha generado inquietud en los mercados bursátiles. Algunos economistas advierten que la Fed podría cometer un error al subir tasas si la economía es más vulnerable de lo que parece.",
-        "en": "The US 10-year Treasury yield briefly touched 5.011%, its highest level since 2007, amid a deepening global bond sell-off. Investors are increasingly pricing in a potential Federal Reserve rate hike this week, raising concerns across stock markets. Some economists warn the Fed could make a serious mistake by hiking rates if the economy is more fragile than it appears."
-      },
-      "categoria": "economia",
-      "actores": [
-        "Reserva Federal de EE.UU.",
-        "Inversores de bonos del Tesoro de EE.UU.",
-        "Economistas de mercado"
-      ],
-      "geo": {
-        "lat": 38.9072,
-        "lon": -77.0369,
-        "region": "Estados Unidos"
-      },
-      "impacto": 72,
-      "fuentes": [
-        "ev_696c08cc28",
-        "ev_9cdfa0d44b",
-        "ev_e52447a0b9",
-        "ev_dc9e662f80"
-      ],
-      "cluster_id": "cl_311",
-      "imagenes": [
-        "https://images.mktw.net/im-70960671"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_696c08cc28",
-          "titulo": "US 10-year Treasury yield breaches 5% as global bond sell-off deepens",
-          "url": "https://www.euronews.com/business/2026/09/15/us-10-year-treasury-yield-breaches-5-as-global-bond-sell-off-deepens",
-          "fuente": "Euronews English",
-          "fecha": "Tue, 15 Sep 2026 07:51:38 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9cdfa0d44b",
-          "titulo": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
-          "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Tue, 15 Sep 2026 08:09:38 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e52447a0b9",
-          "titulo": "The stock market could do something strange this week after the Fed decision",
-          "url": "https://www.cnbc.com/2026/09/14/the-stock-market-could-do-something-strange-this-week-after-the-fed-decision.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Mon, 14 Sep 2026 19:49:23 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_dc9e662f80",
-          "titulo": "The Fed may be on the verge of a serious mistake, prominent economists warn",
-          "url": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Tue, 15 Sep 2026 07:29:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-15_0007",
-      "fecha": "2026-09-15",
-      "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Microsoft impone límites a la IA en las escuelas de EE UU ante el creciente rechazo",
-        "en": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch"
+        "es": "Hong Kong adopta su primer plan quinquenal y refuerza su integración con China",
+        "en": "Hong Kong unveils first five-year plan to cement position as global financial hub"
       },
       "sintesis": {
-        "es": "OpenAI y Anthropic afirman que negocian acuerdos de seguridad y privacidad con el sindicato de docentes de EEUU, pero Google, principal proveedor de tecnología educativa, no ha dicho si ofrecerá protecciones similares.",
-        "en": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced some bugs that have affected businesses, developers, and gamers. The September patch Tuesday affected folder shares on Hyper-V-based […]"
+        "es": "La hoja de ruta para 2026-2030 refuerza la rendición de cuentas ante Pekín, pero el jefe el Ejecutivo regional, John Lee, garantiza que no implicará cambios en el modelo económico ni en el sistema de autonomía de la ciudad",
+        "en": "Hong ⁠Kong leader ​John Lee on Wednesday unveiled the city's first five-year plan to boost its global position as a financial hub. The plan serves as a social and economic roadmap detailing the city-state's strategic priorities, including an aim to expand technology ties with mainland China."
       },
-      "categoria": "tecnologia",
+      "categoria": "innovacion",
       "actores": [
-        "Microsoft",
-        "Windows"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 70,
-      "fuentes": [
-        "ev_ffe1846b91",
-        "ev_d752393dec",
-        "ev_c90361724e",
-        "ev_103e0fa440"
-      ],
-      "cluster_id": "cl_083",
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ffe1846b91",
-          "titulo": "Microsoft impone límites a la IA en las escuelas de EE UU ante el creciente rechazo",
-          "url": "https://es.euronews.com/next/2026/09/15/microsoft-impone-limites-a-la-ia-en-las-escuelas-de-ee-uu-ante-el-creciente-rechazo",
-          "fuente": "Euronews Espanol",
-          "fecha": "Tue, 15 Sep 2026 10:34:31 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_d752393dec",
-          "titulo": "Microsoft introduces AI guardrails for US schools amid growing backlash",
-          "url": "https://www.euronews.com/next/2026/09/15/microsoft-introduces-ai-guardrails-for-us-schools-amid-growing-backlash",
-          "fuente": "Euronews English",
-          "fecha": "Tue, 15 Sep 2026 10:32:57 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c90361724e",
-          "titulo": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
-          "url": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
-          "fuente": "The Verge",
-          "fecha": "",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_103e0fa440",
-          "titulo": "Microsoft sets limits for future AI models as industry throttles frontier development",
-          "url": "https://www.cnbc.com/2026/09/14/microsoft-ai-model-limits-anthropic-openai.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Mon, 14 Sep 2026 16:31:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-15_0008",
-      "fecha": "2026-09-15",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-09-15_0002"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "China rechaza la idea de que está en una \"competencia maliciosa\" con EE.UU. por el control de la IA",
-        "en": "China criticises idea it is in 'malicious competition' over AI"
-      },
-      "sintesis": {
-        "es": "Esto se produce tras los llamamientos del director ejecutivo de Anthropic para que se desacelere el desarrollo de la IA, pero de una manera que impida que China tome la delantera en la carrera.",
-        "en": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "China",
-        "Mao"
+        "Hong Kong",
+        "Rosewood Hong",
+        "Kong",
+        "China"
       ],
       "geo": {
         "lat": 35.9,
         "lon": 104.2,
         "region": "Asia Oriental"
       },
-      "impacto": 65,
+      "impacto": 75,
       "fuentes": [
-        "ev_cb76f4323a",
-        "ev_bf0f27dc6e",
-        "ev_9ff049dd3d",
-        "ev_e271d11910",
-        "ev_97086572a8"
+        "ev_58740492dc",
+        "ev_cfb687c1dd",
+        "ev_d52be40554",
+        "ev_f4ba59adeb"
       ],
-      "cluster_id": "cl_005",
+      "cluster_id": "cl_040",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1c3/live/6fe71140-ab9f-11f1-b109-879e35c24276.png",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21cc/live/4793d220-b09d-11f1-9e7d-cb2f675dfcb0.jpg"
+        "https://imagenes.elpais.com/resizer/v2/YYOZFFMOFVKA5HOACGNGJLZUPQ.jpg?auth=5c51ecebf9decfc68154e3467b169293ad8b08113c951b97646fe9550cb1cc01",
+        "https://s.france24.com/media/display/e4b2df04-b18f-11f1-b11e-53b7617a3a51/w:1024/p:16x9/AP26259169257573.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_cb76f4323a",
-          "titulo": "China rechaza la idea de que está en una \"competencia maliciosa\" con EE.UU. por el control de la IA",
-          "url": "https://www.bbc.com/mundo/articles/c95y4jd0ygddo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Mon, 14 Sep 2026 16:09:54 GMT",
+          "id": "ev_58740492dc",
+          "titulo": "Hong Kong adopta su primer plan quinquenal y refuerza su integración con China",
+          "url": "https://elpais.com/internacional/2026-09-16/hong-kong-adopta-su-primer-plan-quinquenal-y-refuerza-su-integracion-con-china.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Wed, 16 Sep 2026 08:18:18 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_bf0f27dc6e",
-          "titulo": "Por qué la figura de Mao sigue tan vigente en China 50 años después de su muerte",
-          "url": "https://www.bbc.com/mundo/articles/cn9w2jzq2w3o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Sun, 13 Sep 2026 03:18:09 GMT",
+          "id": "ev_cfb687c1dd",
+          "titulo": "Los 50 mejores hoteles de 2026, Rosewood Hong Kong es el nº 1 y hay 21 europeos en la lista",
+          "url": "https://es.euronews.com/viajes/2026/09/16/los-50-mejores-hoteles-de-2026-rosewood-hong-kong-es-el-n-1-y-hay-21-europeos-en-la-lista",
+          "fuente": "Euronews Espanol",
+          "fecha": "Wed, 16 Sep 2026 10:25:54 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_9ff049dd3d",
-          "titulo": "China criticises idea it is in 'malicious competition' over AI",
-          "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Mon, 14 Sep 2026 11:31:39 GMT",
+          "id": "ev_d52be40554",
+          "titulo": "Hong Kong unveils first five-year plan to cement position as global financial hub",
+          "url": "http://www.france24.com/en/asia-pacific/20260916-hong-kong-unveils-first-five-year-plan-to-cement-position-as-global-financial-hub",
+          "fuente": "France 24 English",
+          "fecha": "Wed, 16 Sep 2026 05:54:19 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_e271d11910",
-          "titulo": "China tightens travel restrictions for citizens",
-          "url": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Tue, 15 Sep 2026 06:43:09 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_97086572a8",
-          "titulo": "I spent $4,000 on a robot dog from China",
-          "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
-          "fuente": "Ars Technica",
-          "fecha": "Sat, 12 Sep 2026 11:00:53 +0000",
+          "id": "ev_f4ba59adeb",
+          "titulo": "The 50 Best Hotels 2026: Rosewood Hong Kong named No.1 as 21 European hotels included in ranking",
+          "url": "https://www.euronews.com/travel/2026/09/16/the-50-best-hotels-2026-rosewood-hong-kong-named-no1-as-21-european-hotels-included-in-ran",
+          "fuente": "Euronews English",
+          "fecha": "Wed, 16 Sep 2026 10:24:10 +0200",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-15_0009",
-      "fecha": "2026-09-15",
-      "kardashev": "K0",
-      "relaciones": []
+      "id": "nd_2026-09-16_0005",
+      "fecha": "2026-09-16",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-09-16_0006"
+      ]
     },
     {
       "titulo": {
-        "es": "Investigadores hallan condiciones inhumanas en centro de detención 'Alcatraz de los caimanes' en Florida",
-        "en": "Investigators find inhumane conditions at 'Alligator Alcatraz' detention center in Florida"
+        "es": "Por qué OpenAI y Anthropic quieren frenar la carrera por la inteligencia artificial",
+        "en": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate"
       },
       "sintesis": {
-        "es": "Inspectores del gobierno de EE.UU. descubrieron que el centro de detención de migrantes conocido como 'Alcatraz de los caimanes', en Florida, encerraba a personas en jaulas exteriores pequeñas. El informe señala violaciones a normas básicas de higiene, atención médica, alimentación y seguridad.",
-        "en": "US government inspectors found that the migrant detention center known as 'Alligator Alcatraz' in Florida held people in small outdoor cages. The report cites violations of basic standards for hygiene, medical care, food and safety."
+        "es": "Los directivos de las principales empresas de inteligencia artificial piden que se frene el desarrollo de los modelos más potentes. Más allá de las preocupaciones relacionadas con los riesgos de la IA, esta petición también responde a importantes retos económicos y estratégicos: inversiones colosales, regulación, competencia entre los gigantes tecnológicos y rivalidad con China.",
+        "en": "Meta CEO Mark Zuckerberg's view of artificial intelligence safety is akin to the perspective of Nvidia's Jensen Huang rather than Anthropic chief Dario Amodei."
       },
-      "categoria": "sociedad",
+      "categoria": "tecnologia",
       "actores": [
-        "DHS (Department of Homeland Security)",
-        "Gobierno de EE.UU.",
-        "Migrantes detenidos"
+        "OpenAI",
+        "Huang",
+        "Anthropic",
+        "Nvidia"
       ],
       "geo": {
-        "lat": 25.7617,
-        "lon": -80.1918,
-        "region": "Florida, Estados Unidos"
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
       },
-      "impacto": 55,
+      "impacto": 73,
       "fuentes": [
-        "ev_374bc9bb4e",
-        "ev_8a24da5500"
+        "ev_e890287433",
+        "ev_5ac00a9427",
+        "ev_497eb45537",
+        "ev_104f578569",
+        "ev_bf0752d9db"
       ],
-      "cluster_id": "cl_002",
+      "cluster_id": "cl_067",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ceb/live/379e3ff0-b056-11f1-9902-771b6dd8af6a.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ceb/live/379e3ff0-b056-11f1-9902-771b6dd8af6a.jpg"
+        "https://s.rfi.fr/media/display/34e87ecc-b053-11f1-b7b1-005056bf30b7/w:1024/p:16x9/2026-08-19T235146Z-1689112989-RC2TRLAFNMN0-RTRMADP-3-USA-ELECTION-CORPORATE-SPENDING.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_374bc9bb4e",
-          "titulo": "Las jaulas en las que eran encerrados los migrantes en el \"Alcatraz de los caimanes\" de Florida",
-          "url": "https://www.bbc.com/mundo/articles/ckrer3p31z8wo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Mon, 14 Sep 2026 21:19:06 GMT",
+          "id": "ev_e890287433",
+          "titulo": "Por qué OpenAI y Anthropic quieren frenar la carrera por la inteligencia artificial",
+          "url": "http://www.rfi.fr/es/economia/20260915-por-qu%C3%A9-openai-y-anthropic-quieren-frenar-la-carrera-por-la-inteligencia-artificial",
+          "fuente": "RFI Espanol",
+          "fecha": "Tue, 15 Sep 2026 14:31:50 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_8a24da5500",
-          "titulo": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
-          "url": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+          "id": "ev_5ac00a9427",
+          "titulo": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Mon, 14 Sep 2026 16:48:10 GMT",
+          "fecha": "Wed, 16 Sep 2026 09:16:13 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_497eb45537",
+          "titulo": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
+          "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Wed, 16 Sep 2026 04:21:39 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_104f578569",
+          "titulo": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
+          "url": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Wed, 16 Sep 2026 01:56:47 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_bf0752d9db",
+          "titulo": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
+          "url": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Tue, 15 Sep 2026 22:06:16 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-15_0010",
-      "fecha": "2026-09-15",
-      "kardashev": "K0",
-      "relaciones": []
+      "id": "nd_2026-09-16_0006",
+      "fecha": "2026-09-16",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-09-16_0005"
+      ]
     },
     {
       "titulo": {
-        "es": "Alemania exige garantías a UniCredit por la adquisición de Commerzbank",
-        "en": "Germany demands guarantees from UniCredit over Commerzbank acquisition"
+        "es": "La basura de la pesca de EE.UU. y Canadá acaba en las playas de las Azores",
+        "en": "'Canada can offer a more reliable route for energy exports to the EU', expert says"
       },
       "sintesis": {
-        "es": "El gobierno alemán solicita garantías al banco italiano UniCredit en el marco de su avance hacia el control de Commerzbank. Berlín ve reducida su influencia sobre la entidad alemana mientras la operación de toma de control progresa.",
-        "en": "The German government is requesting guarantees from Italian bank UniCredit as it advances toward taking control of Commerzbank. Berlin sees its leverage over the German lender diminishing as the takeover moves forward."
+        "es": "Los plásticos utilizados en la pesca del bogavante recorrieron más de 3.000 kilómetros por el Atlántico hasta llegar a las islas de Faial y Pico. El residuo más antiguo data de 1983.",
+        "en": "Speaking with FRANCE 24's Mark Owen, Dr. Walaa-Eldeen Bakry, Principal Lecturer in Project Management and Finance and Director of Executive Education at Westminster Business School, says that \"Carney is deliberately aiming to diversify the Canadian trade policy\", explaining that it \"can actually offer a more reliable route in terms of energy exports from Canada into the EU and we have seen last year a significant increase in oil exports to some European countries\"."
       },
       "categoria": "economia",
       "actores": [
-        "UniCredit",
-        "Commerzbank",
-        "Gobierno de Alemania"
+        "Canada",
+        "Azores"
       ],
       "geo": {
-        "lat": 52.52,
-        "lon": 13.405,
-        "region": "Alemania"
+        "lat": 46.6,
+        "lon": 2.2,
+        "region": "Europa"
       },
-      "impacto": 55,
+      "impacto": 57,
       "fuentes": [
-        "ev_e92c0f972b",
-        "ev_b483d6cdf5"
+        "ev_d8b3379df0",
+        "ev_b95f2ad2b1",
+        "ev_c1b1fcceff"
       ],
-      "cluster_id": "cl_101",
+      "cluster_id": "cl_092",
+      "imagenes": [
+        "https://s.france24.com/media/display/3209cae6-b13c-11f1-b26a-cfc9bd8e913f/w:1024/p:16x9/EN-20260915-210701-211432-CS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d8b3379df0",
+          "titulo": "La basura de la pesca de EE.UU. y Canadá acaba en las playas de las Azores",
+          "url": "https://es.euronews.com/2026/09/16/basura-de-la-pesca-de-estados-unidos-y-canada-llega-a-las-playas-de-azores",
+          "fuente": "Euronews Espanol",
+          "fecha": "Wed, 16 Sep 2026 08:01:46 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_b95f2ad2b1",
+          "titulo": "'Canada can offer a more reliable route for energy exports to the EU', expert says",
+          "url": "http://www.france24.com/en/canada-can-offer-a-more-reliable-route-for-energy-exports-to-the-eu-expert-says",
+          "fuente": "France 24 English",
+          "fecha": "Tue, 15 Sep 2026 19:42:08 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c1b1fcceff",
+          "titulo": "Canada to become first 'associate member' of the EU",
+          "url": "https://www.euronews.com/my-europe/2026/09/16/canada-to-become-first-associate-member-of-the-eu",
+          "fuente": "Euronews English",
+          "fecha": "Wed, 16 Sep 2026 11:18:47 +0200",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-16_0007",
+      "fecha": "2026-09-16",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-09-16_0008"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "España a la vanguardia de la computación cuántica: chips made in Spain, fabricados en Barcelona",
+        "en": "Spain at the forefront of quantum computing: chips made in Spain, built in Barcelona"
+      },
+      "sintesis": {
+        "es": "El nuevo espacio del IMB-CNM incorpora equipos de vanguardia para fabricar dispositivos a escala nanométrica y ha recibido una inversión de más de seis millones de euros.",
+        "en": "The new IMB-CNM facility features cutting-edge equipment to manufacture nanoscale devices and has benefited from an investment of over six million euros."
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "Spain",
+        "Barcelona"
+      ],
+      "geo": {
+        "lat": 40.5,
+        "lon": -3.7,
+        "region": "Europa"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_946edbab7f",
+        "ev_410e2599eb"
+      ],
+      "cluster_id": "cl_099",
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_e92c0f972b",
-          "titulo": "Alemania pide garantías a UniCredit por la compra de Commerzbank",
-          "url": "https://es.euronews.com/business/2026/09/15/alemania-pide-garantias-a-unicredit-por-la-compra-de-commerzbank",
+          "id": "ev_946edbab7f",
+          "titulo": "España a la vanguardia de la computación cuántica: chips made in Spain, fabricados en Barcelona",
+          "url": "https://es.euronews.com/next/2026/09/16/el-csic-inaugura-en-barcelona-la-infraestructura-mas-avanzada-de-espana-para-fabricar-chip",
           "fuente": "Euronews Espanol",
-          "fecha": "Tue, 15 Sep 2026 07:24:42 +0200",
+          "fecha": "Wed, 16 Sep 2026 05:55:38 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_b483d6cdf5",
-          "titulo": "Germany seeks guarantees from Italy's UniCredit over Commerzbank takeover",
-          "url": "https://www.euronews.com/business/2026/09/15/germany-seeks-guarantees-from-italys-unicredit-over-commerzbank-takeover",
+          "id": "ev_410e2599eb",
+          "titulo": "Spain at the forefront of quantum computing: chips made in Spain, built in Barcelona",
+          "url": "https://www.euronews.com/next/2026/09/16/spain-at-the-forefront-of-quantum-computing-chips-made-in-spain-built-in-barcelona",
           "fuente": "Euronews English",
-          "fecha": "Tue, 15 Sep 2026 06:37:06 +0200",
+          "fecha": "Wed, 16 Sep 2026 05:55:38 +0200",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-15_0011",
-      "fecha": "2026-09-15",
+      "id": "nd_2026-09-16_0008",
+      "fecha": "2026-09-16",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-09-16_0007"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "What would it take to make India’s cities better – and safer?",
+        "en": "What would it take to make India’s cities better – and safer?"
+      },
+      "sintesis": {
+        "es": "After a five-storey building collapsed in Delhi, focus is on how urban areas can adapt to growing populations. Plus, Ahmedabad’s ace newspaper delivery driver goes viral • Don’t get This is India delivered to your inbox? Sign up here Recently, I may have saved a woman’s life on the road.",
+        "en": "After a five-storey building collapsed in Delhi, focus is on how urban areas can adapt to growing populations. Plus, Ahmedabad’s ace newspaper delivery driver goes viral • Don’t get This is India delivered to your inbox? Sign up here Recently, I may have saved a woman’s life on the road."
+      },
+      "categoria": "salud",
+      "actores": [
+        "India"
+      ],
+      "geo": {
+        "lat": 20.6,
+        "lon": 79.0,
+        "region": "Asia Meridional"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_2b136f5120",
+        "ev_f18c7b2e33",
+        "ev_a23303f0aa"
+      ],
+      "cluster_id": "cl_170",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/501e/live/92c14ad0-b105-11f1-b1d1-571ed4d7ff2c.jpg",
+        "https://i.guim.co.uk/img/media/639e0ccb03edd39ef8f15bf7c7505316df5caf8e/195_0_2803_2243/master/2803.jpg?width=140&quality=85&auto=format&fit=max&s=4c3319d05a9ea94dd6e71b710e061ac6"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_2b136f5120",
+          "titulo": "What weapon could the US have put into space?",
+          "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 15 Sep 2026 14:23:14 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f18c7b2e33",
+          "titulo": "What would it take to make India’s cities better – and safer?",
+          "url": "https://www.theguardian.com/world/2026/sep/13/this-is-india-cities-failing-residents-delhi-building-collapse",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 15 Sep 2026 06:30:28 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a23303f0aa",
+          "titulo": "What if social media isn’t hurting kids?",
+          "url": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
+          "fuente": "The Verge",
+          "fecha": "",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-16_0009",
+      "fecha": "2026-09-16",
       "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Naufraga un ferry en Indonesia con al menos seis muertos y unos 130 desaparecidos",
-        "en": "Ferry capsizes in Indonesia leaving at least six dead and around 130 missing"
+        "es": "Indonesia localiza semihundido al barco naufragado que deja seis muertos y 129 desaparecidos",
+        "en": "Indonesia's new finance minister faces an uphill battle on fiscal credibility"
       },
       "sintesis": {
-        "es": "Un ferry que navegaba entre las islas de Java y Borneo con 243 personas a bordo volcó el domingo en el Mar de Java debido a mal tiempo. La agencia nacional de búsqueda y rescate de Indonesia (Basarnas) informó que al menos seis personas murieron, 107 fueron rescatadas y unas 130 continúan desaparecidas. Las labores de búsqueda y rescate siguen en curso.",
-        "en": "A ferry sailing between the islands of Java and Borneo with 243 people on board capsized on Sunday in the Java Sea due to bad weather. Indonesia's national search and rescue agency (Basarnas) reported at least six deaths, 107 people rescued, and around 130 still missing. Search and rescue operations remain ongoing."
+        "es": "Viajaban 243 personas (213 pasajeros y 30 tripulantes) y todos eran indonesios Leer",
+        "en": "Nazara, sworn in hours after Purbaya's dismissal, spent seven years as deputy finance minister and led the ministry's fiscal policy agency from 2015 to 2019."
       },
-      "categoria": "sociedad",
+      "categoria": "ciencia",
       "actores": [
-        "Basarnas (Agencia Nacional de Búsqueda y Rescate de Indonesia)",
-        "Virgo Transport 8"
+        "Indonesia"
       ],
       "geo": {
-        "lat": -5.5,
-        "lon": 112.5,
-        "region": "Mar de Java, Indonesia"
+        "lat": -0.8,
+        "lon": 113.9,
+        "region": "Sudeste Asiatico"
       },
-      "impacto": 55,
+      "impacto": 43,
       "fuentes": [
-        "ev_ace9d1e0de",
-        "ev_25324fffe4",
-        "ev_8696e54648"
+        "ev_455656d6ed",
+        "ev_63ac116e77"
       ],
-      "cluster_id": "cl_199",
+      "cluster_id": "cl_143",
       "imagenes": [
-        "https://i.guim.co.uk/img/media/edeadb7420f4029a91f616bab9f41557fb8f805e/58_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=c2e32807766d4378b61588e99432c0b3",
-        "https://static01.nyt.com/images/2026/09/14/multimedia/14xp-ferry-hwcg/14xp-ferry-hwcg-mediumSquareAt3X-v2.jpg"
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/14/17893830669980.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_ace9d1e0de",
-          "titulo": "At least six dead and 130 missing after Indonesian ferry capsizes, officials say",
-          "url": "https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather",
-          "fuente": "The Guardian World",
-          "fecha": "Sun, 13 Sep 2026 12:18:49 GMT",
-          "idioma": "en"
+          "id": "ev_455656d6ed",
+          "titulo": "Indonesia localiza semihundido al barco naufragado que deja seis muertos y 129 desaparecidos",
+          "url": "https://www.elmundo.es/internacional/2026/09/14/6aa7d26ee4d4d86f258b4579.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Mon, 14 Sep 2026 12:54:40 +0200",
+          "idioma": "es"
         },
         {
-          "id": "ev_25324fffe4",
-          "titulo": "More Than 120 Are Unaccounted For After Ferry Sinks in Indonesia",
-          "url": "https://www.nytimes.com/2026/09/14/world/asia/indonesia-ferry-rescue-borneo.html",
-          "fuente": "NYT World",
-          "fecha": "Mon, 14 Sep 2026 09:07:42 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8696e54648",
-          "titulo": "Search underway for about 130 people after Indonesian ferry overturns",
-          "url": "https://www.cbc.ca/news/world/indonesia-ferry-overturned-search-underway-9.7342154?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sun, 13 Sep 2026 08:36:28 EDT",
+          "id": "ev_63ac116e77",
+          "titulo": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
+          "url": "https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Wed, 16 Sep 2026 01:53:52 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-15_0012",
-      "fecha": "2026-09-15",
-      "kardashev": "K1",
+      "id": "nd_2026-09-16_0010",
+      "fecha": "2026-09-16",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Estudio revela que la población indígena de Australia antes de la colonización era mucho mayor de lo estimado",
-        "en": "Study reveals Australia's Indigenous population before colonisation was far larger than previously estimated"
+        "es": "New report reveals prevalence of physical and sexual violence in US",
+        "en": "New report reveals prevalence of physical and sexual violence in US"
       },
       "sintesis": {
-        "es": "Una nueva investigación mediante modelado demográfico estima que la población aborigen y de las islas del Estrecho de Torres en Australia antes de 1788 era de 2,2 millones de personas, hasta siete veces más que las estimaciones previas de 250.000. El estudio también revela que tras la llegada de la Primera Flota, la población indígena se redujo aproximadamente un 93% en menos de 80 años debido a enfermedades y masacres, evidenciando una catástrofe demográfica mucho mayor de lo reconocido anteriormente.",
-        "en": "New demographic modelling research estimates that Australia's Aboriginal and Torres Strait Islander population before 1788 was 2.2 million people, up to seven times higher than previous estimates of 250,000. The study also reveals that following the arrival of the First Fleet, the Indigenous population declined by approximately 93% in less than 80 years due to diseases and massacres, indicating a demographic catastrophe far greater than previously acknowledged."
+        "es": "Study finds more than half of US adults have experienced physical violence and nearly half sexual violence In their lifetime, more than half of US adults have experienced physical violence – and nearly half have experienced sexual violence, according to a startling new national study . The study, led by researchers from Tulane University’s Newcomb Institute and the University of California, San Diego, examined experiences of physical, sexual and intimate partner violence, along with how they intersect with behavioral health, economic hardship, neighborhood safety and substance use, among other factors. Continue reading...",
+        "en": "Study finds more than half of US adults have experienced physical violence and nearly half sexual violence In their lifetime, more than half of US adults have experienced physical violence – and nearly half have experienced sexual violence, according to a startling new national study . The study, led by researchers from Tulane University’s Newcomb Institute and the University of California, San Diego, examined experiences of physical, sexual and intimate partner violence, along with how they intersect with behavioral health, economic hardship, neighborhood safety and substance use, among other factors. Continue reading..."
       },
-      "categoria": "sociedad",
+      "categoria": "ciencia",
       "actores": [
-        "Investigadores australianos",
-        "Pueblos aborígenes e isleños del Estrecho de Torres",
-        "Gobierno colonial británico (histórico)"
+        "New",
+        "Study"
       ],
       "geo": {
-        "lat": -25.2744,
-        "lon": 133.7751,
-        "region": "Australia"
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
       },
-      "impacto": 55,
+      "impacto": 40,
       "fuentes": [
-        "ev_e2b38dbe39",
-        "ev_106d8a1010",
-        "ev_08b48cbfb9"
+        "ev_cee775a88c",
+        "ev_a9a3480f5a",
+        "ev_c13e884090",
+        "ev_b9912d1ca7"
       ],
-      "cluster_id": "cl_202",
+      "cluster_id": "cl_212",
       "imagenes": [
-        "https://i.guim.co.uk/img/media/e2009ea9527d314d1b8db783959fc226df5e54a3/1117_0_5586_4468/master/5586.jpg?width=140&quality=85&auto=format&fit=max&s=304828bc11b823b25d5db2f7e5763047",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/australian-indigenous.jpg"
+        "https://i.guim.co.uk/img/media/5cfbcc364499f1adf53ff934765bdceb68d0fb3e/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=87208470407ac80139e496c3580a5291",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/violence-1.jpg",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/when-jammed-matter-sta.jpg",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/new-species-of-240-mil.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_e2b38dbe39",
-          "titulo": "Australia’s Indigenous population estimated at 2.2m before ‘demographic catastrophe’ of colonisation",
-          "url": "https://www.theguardian.com/australia-news/2026/sep/15/australia-indigenous-population-before-colonisation-underestimated-ntwnfb",
+          "id": "ev_cee775a88c",
+          "titulo": "New report reveals prevalence of physical and sexual violence in US",
+          "url": "https://www.theguardian.com/us-news/2026/sep/16/physical-sexual-violence-study-us",
           "fuente": "The Guardian World",
-          "fecha": "Tue, 15 Sep 2026 09:00:31 GMT",
+          "fecha": "Wed, 16 Sep 2026 09:00:16 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_106d8a1010",
-          "titulo": "Impact of colonisation on First Nations people far greater than previous estimates, research finds",
-          "url": "https://www.abc.net.au/news/2026-09-15/extent-of-catastrophe-after-australias-colonisation-uncovered/107155538",
-          "fuente": "ABC News Australia",
-          "fecha": "Tue, 15 Sep 2026 09:05:33 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_08b48cbfb9",
-          "titulo": "Indigenous Australian population was much larger than previously thought and decimated after First Fleet's arrival",
-          "url": "https://phys.org/news/2026-09-indigenous-australian-population-larger-previously.html",
+          "id": "ev_a9a3480f5a",
+          "titulo": "Study finds violence affects millions across US with links to health, economic hardship",
+          "url": "https://phys.org/news/2026-09-violence-affects-millions-links-health.html",
           "fuente": "Phys.org",
-          "fecha": "Tue, 15 Sep 2026 05:00:02 EDT",
+          "fecha": "Wed, 16 Sep 2026 01:00:01 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c13e884090",
+          "titulo": "New simulations link unusual particle diffusion to yielding in soft jammed matter",
+          "url": "https://phys.org/news/2026-09-simulations-link-unusual-particle-diffusion.html",
+          "fuente": "Phys.org",
+          "fecha": "Wed, 16 Sep 2026 05:00:11 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b9912d1ca7",
+          "titulo": "New species of 240-million-year-old prehistoric animal could reshape dinosaur origins timeline",
+          "url": "https://phys.org/news/2026-09-species-million-year-prehistoric-animal.html",
+          "fuente": "Phys.org",
+          "fecha": "Tue, 15 Sep 2026 19:10:01 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-15_0013",
-      "fecha": "2026-09-15",
+      "id": "nd_2026-09-16_0011",
+      "fecha": "2026-09-16",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-09-16_0000",
+        "nd_2026-09-16_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities",
+        "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
+      },
+      "sintesis": {
+        "es": "The Riyadh International Humanitarian Forum 2025 was a significant event that underscored the continued partnership between WHO and KSrelief, as well as with other international partners to address critical humanitarian health crises. The agreements made during the forum are pivotal in combating diseases like malaria, cholera, and polio, and ensuring better healthcare for displaced populations. The forum also highlighted Saudi Arabia’s ongoing commitment to global humanitarian efforts, reaffirming its leadership role in tackling some of the world’s pressing health crises.",
+        "en": "The Riyadh International Humanitarian Forum 2025 was a significant event that underscored the continued partnership between WHO and KSrelief, as well as with other international partners to address critical humanitarian health crises. The agreements made during the forum are pivotal in combating diseases like malaria, cholera, and polio, and ensuring better healthcare for displaced populations. The forum also highlighted Saudi Arabia’s ongoing commitment to global humanitarian efforts, reaffirming its leadership role in tackling some of the world’s pressing health crises."
+      },
+      "categoria": "salud",
+      "actores": [
+        "Houthis Report",
+        "Deadly Saudi",
+        "Airstrikes",
+        "Kingdom Issues"
+      ],
+      "geo": {
+        "lat": 23.9,
+        "lon": 45.1,
+        "region": "Oriente Medio"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_60749c4ad4",
+        "ev_66ce54f503"
+      ],
+      "cluster_id": "cl_250",
+      "imagenes": [
+        "https://static01.nyt.com/images/2026/09/15/multimedia/15int-Saudi-Houthis-mfbg/15int-Saudi-Houthis-mfbg-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_60749c4ad4",
+          "titulo": "Houthis Report Deadly Saudi Airstrikes as Kingdom Issues Mass Alerts",
+          "url": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-saudi-arabia-houthis-attacks.html",
+          "fuente": "NYT World",
+          "fecha": "Tue, 15 Sep 2026 21:55:35 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_66ce54f503",
+          "titulo": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities",
+          "url": "https://www.who.int/news/item/24-02-2025-who-and-the-kingdom-of-saudi-arabia-sign-agreements-in-support-of-health-priorities",
+          "fuente": "WHO News",
+          "fecha": "Thu, 06 Mar 2025 12:48:53 Z",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-16_0012",
+      "fecha": "2026-09-16",
       "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-09-16_0003"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
+        "en": "New Crops, Health Research Proposals to Help NASA Advance Exploration"
+      },
+      "sintesis": {
+        "es": "NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while another six advance the understanding of how unique conditions associated with space exploration can impact the health and physiology of astronauts. The six food-focused investigations, supported by the agency’s Space […]",
+        "en": "NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while another six advance the understanding of how unique conditions associated with space exploration can impact the health and physiology of astronauts. The six food-focused investigations, supported by the agency’s Space […]"
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "New Crops",
+        "Health Research",
+        "Proposals",
+        "Help NASA"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_dc7a100ff4",
+        "ev_2e56b894e8"
+      ],
+      "cluster_id": "cl_452",
+      "imagenes": [
+        "https://media.wired.com/photos/6aa8633c181b95a3e876fad6/master/pass/New-Headset-to-Cure-Depression-Science-FLOW29472(2).jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_dc7a100ff4",
+          "titulo": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
+          "url": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/",
+          "fuente": "NASA News",
+          "fecha": "Mon, 14 Sep 2026 19:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2e56b894e8",
+          "titulo": "A New Headset to Help With Depression Is Now Available in the US",
+          "url": "https://www.wired.com/story/flow-neuroscience-headset-help-depression-available-in-us/",
+          "fuente": "WIRED",
+          "fecha": "Tue, 15 Sep 2026 09:30:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-16_0013",
+      "fecha": "2026-09-16",
+      "kardashev": "K2",
       "relaciones": []
     }
   ]

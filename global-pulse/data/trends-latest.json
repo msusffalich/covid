@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-09-15T09:45:38.027781+00:00",
+    "generado": "2026-09-16T09:36:04.370437+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -14,21 +14,16 @@
       },
       "color": "#E4634F",
       "n_nodos": 35,
-      "ultima_fecha": "2026-09-15",
+      "ultima_fecha": "2026-09-16",
       "resumen": {
-        "es": "35 nodos registrados en el periodo. Lo mas reciente: Escalada entre Arabia Saudita y hutíes en Yemen agrava conflicto regional vinculado a Irán.",
-        "en": "35 nodes recorded in the period. Most recent: Saudi-Houthi escalation in Yemen deepens regional conflict linked to Iran."
+        "es": "35 nodos registrados en el periodo. Lo mas reciente: WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities.",
+        "en": "35 nodes recorded in the period. Most recent: WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities."
       },
       "estado": {
-        "es": "Escalada entre Arabia Saudita y hutíes en Yemen agrava conflicto regional vinculado a Irán",
-        "en": "Saudi-Houthi escalation in Yemen deepens regional conflict linked to Iran"
+        "es": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities",
+        "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
       },
       "serie": [
-        {
-          "fecha": "2026-08-26",
-          "max": 95,
-          "n": 1
-        },
         {
           "fecha": "2026-08-27",
           "max": 87,
@@ -113,9 +108,26 @@
           "fecha": "2026-09-15",
           "max": 78,
           "n": 1
+        },
+        {
+          "fecha": "2026-09-16",
+          "max": 40,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-16",
+          "titulo": {
+            "es": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities",
+            "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
+          },
+          "impacto": 40,
+          "categoria": "salud",
+          "kardashev": "K1",
+          "url": "https://www.nytimes.com/2026/09/15/world/middleeast/yemen-saudi-arabia-houthis-attacks.html",
+          "fuente": "NYT World"
+        },
         {
           "fecha": "2026-09-15",
           "titulo": {
@@ -247,18 +259,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/clyk8dve3zko?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-09-09",
-          "titulo": {
-            "es": "Arabia Saudí responde tras el mayor ataque de los hutíes a instalaciones petroleras en años",
-            "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-09-08/los-huties-atacan-instalaciones-petroleras-de-arabia-saudi-y-hacen-que-precio-del-petroleo-se-dispare.html",
-          "fuente": "El Pais Internacional"
         }
       ]
     },
@@ -269,22 +269,17 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 19,
-      "ultima_fecha": "2026-09-15",
+      "n_nodos": 20,
+      "ultima_fecha": "2026-09-16",
       "resumen": {
-        "es": "19 nodos registrados en el periodo. Lo mas reciente: Ucrania: ataque ruso «sistémico en curso»; Rusia no descarta la reanudación de negociaciones.",
-        "en": "19 nodes recorded in the period. Most recent: Amid Trump trade war, Canada's exports to China up 30% in first half of 2026."
+        "es": "20 nodos registrados en el periodo. Lo mas reciente: Russian drone attack on bus kills five in Ukraine's southeast.",
+        "en": "20 nodes recorded in the period. Most recent: Russian drone attack on bus kills five in Ukraine's southeast."
       },
       "estado": {
-        "es": "Ucrania: ataque ruso «sistémico en curso»; Rusia no descarta la reanudación de negociaciones",
-        "en": "Amid Trump trade war, Canada's exports to China up 30% in first half of 2026"
+        "es": "Russian drone attack on bus kills five in Ukraine's southeast",
+        "en": "Russian drone attack on bus kills five in Ukraine's southeast"
       },
       "serie": [
-        {
-          "fecha": "2026-08-26",
-          "max": 95,
-          "n": 1
-        },
         {
           "fecha": "2026-08-27",
           "max": 82,
@@ -359,9 +354,38 @@
           "fecha": "2026-09-15",
           "max": 95,
           "n": 3
+        },
+        {
+          "fecha": "2026-09-16",
+          "max": 83,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-16",
+          "titulo": {
+            "es": "Russian drone attack on bus kills five in Ukraine's southeast",
+            "en": "Russian drone attack on bus kills five in Ukraine's southeast"
+          },
+          "impacto": 83,
+          "categoria": "innovacion",
+          "kardashev": "K0",
+          "url": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
+        {
+          "fecha": "2026-09-16",
+          "titulo": {
+            "es": "España a la vanguardia de la computación cuántica: chips made in Spain, fabricados en Barcelona",
+            "en": "Spain at the forefront of quantum computing: chips made in Spain, built in Barcelona"
+          },
+          "impacto": 45,
+          "categoria": "ciencia",
+          "kardashev": "K2",
+          "url": "https://es.euronews.com/next/2026/09/16/el-csic-inaugura-en-barcelona-la-infraestructura-mas-avanzada-de-espana-para-fabricar-chip",
+          "fuente": "Euronews Espanol"
+        },
         {
           "fecha": "2026-09-15",
           "titulo": {
@@ -481,30 +505,6 @@
           "kardashev": "K0",
           "url": "https://elpais.com/internacional/2026-09-06/donald-trump-el-mas-peligroso-proliferador-nuclear.html",
           "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-09-06",
-          "titulo": {
-            "es": "Putin y Zelenski ordenan detener los ataques hasta el lunes por la visita de los enviados de Trump",
-            "en": "Trump envoys and Putin discussed ‘next steps’ for ending Ukraine war, White House says"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-09-05/los-negociadores-de-trump-llegan-a-moscu-para-intentar-reimpulsar-las-negociaciones-de-paz.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-09-05",
-          "titulo": {
-            "es": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – as it happened",
-            "en": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – as it happened"
-          },
-          "impacto": 75,
-          "categoria": "innovacion",
-          "kardashev": "K0",
-          "url": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
-          "fuente": "The Guardian World"
         }
       ]
     },
@@ -515,15 +515,15 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 19,
-      "ultima_fecha": "2026-09-15",
+      "n_nodos": 21,
+      "ultima_fecha": "2026-09-16",
       "resumen": {
-        "es": "19 nodos registrados en el periodo. Lo mas reciente: \"Un querido amigo\": el oligarca ruso cercano a Putin que financió parte de la boda de un hijo de Trump.",
-        "en": "19 nodes recorded in the period. Most recent: Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms."
+        "es": "21 nodos registrados en el periodo. Lo mas reciente: ¿Qué implica el rechazo del Supremo a los planes de Trump para restringir el voto por correo?.",
+        "en": "21 nodes recorded in the period. Most recent: Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel."
       },
       "estado": {
-        "es": "\"Un querido amigo\": el oligarca ruso cercano a Putin que financió parte de la boda de un hijo de Trump",
-        "en": "Donald Trump Jr.'s wedding celebration partially funded by Russian oligarch, couple confirms"
+        "es": "¿Qué implica el rechazo del Supremo a los planes de Trump para restringir el voto por correo?",
+        "en": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel"
       },
       "serie": [
         {
@@ -585,9 +585,38 @@
           "fecha": "2026-09-15",
           "max": 95,
           "n": 2
+        },
+        {
+          "fecha": "2026-09-16",
+          "max": 95,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-16",
+          "titulo": {
+            "es": "¿Qué implica el rechazo del Supremo a los planes de Trump para restringir el voto por correo?",
+            "en": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel"
+          },
+          "impacto": 95,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/ckq63vy5647zo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
+        {
+          "fecha": "2026-09-16",
+          "titulo": {
+            "es": "En Gaza, los hogares encabezados por mujeres solas enfrentan decisiones imposibles para sobrevivir",
+            "en": "US set to deliver 2,000lb bombs to Israel as part of vast arms deal"
+          },
+          "impacto": 87,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-09-16/varios-muertos-por-el-derrumbe-de-un-edificio-en-gaza-previamente-bombardeado-por-israel.html",
+          "fuente": "El Pais Internacional"
+        },
         {
           "fecha": "2026-09-15",
           "titulo": {
@@ -707,30 +736,6 @@
           "kardashev": "K0",
           "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-09-07",
-          "titulo": {
-            "es": "U.S. ambassador visits Palestinian town amid rise in occupied West Bank settler violence",
-            "en": "U.S. ambassador visits Palestinian town amid rise in occupied West Bank settler violence"
-          },
-          "impacto": 53,
-          "categoria": "sociedad",
-          "kardashev": "K0",
-          "url": "https://www.aljazeera.com/news/2026/9/7/israeli-wounded-in-stabbing-in-occupied-west-bank?traffic_source=rss",
-          "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-09-06",
-          "titulo": {
-            "es": "US ambassador to Israel visits Palestinian town hit by West Bank settler violence",
-            "en": "US ambassador to Israel visits Palestinian town hit by West Bank settler violence"
-          },
-          "impacto": 66,
-          "categoria": "sociedad",
-          "kardashev": "K0",
-          "url": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
         }
       ]
     },
@@ -742,21 +747,16 @@
       },
       "color": "#3D9BE4",
       "n_nodos": 21,
-      "ultima_fecha": "2026-09-15",
+      "ultima_fecha": "2026-09-16",
       "resumen": {
-        "es": "21 nodos registrados en el periodo. Lo mas reciente: Microsoft impone límites a la IA en las escuelas de EE UU ante el creciente rechazo.",
-        "en": "21 nodes recorded in the period. Most recent: Microsoft issues emergency Windows 11 update to fix its record-breaking patch."
+        "es": "21 nodos registrados en el periodo. Lo mas reciente: Por qué OpenAI y Anthropic quieren frenar la carrera por la inteligencia artificial.",
+        "en": "21 nodes recorded in the period. Most recent: Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate."
       },
       "estado": {
-        "es": "Microsoft impone límites a la IA en las escuelas de EE UU ante el creciente rechazo",
-        "en": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch"
+        "es": "Por qué OpenAI y Anthropic quieren frenar la carrera por la inteligencia artificial",
+        "en": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate"
       },
       "serie": [
-        {
-          "fecha": "2026-08-26",
-          "max": 53,
-          "n": 1
-        },
         {
           "fecha": "2026-08-27",
           "max": 82,
@@ -821,9 +821,26 @@
           "fecha": "2026-09-15",
           "max": 70,
           "n": 1
+        },
+        {
+          "fecha": "2026-09-16",
+          "max": 73,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-16",
+          "titulo": {
+            "es": "Por qué OpenAI y Anthropic quieren frenar la carrera por la inteligencia artificial",
+            "en": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate"
+          },
+          "impacto": 73,
+          "categoria": "tecnologia",
+          "kardashev": "K1",
+          "url": "http://www.rfi.fr/es/economia/20260915-por-qu%C3%A9-openai-y-anthropic-quieren-frenar-la-carrera-por-la-inteligencia-artificial",
+          "fuente": "RFI Espanol"
+        },
         {
           "fecha": "2026-09-15",
           "titulo": {
@@ -955,18 +972,6 @@
           "kardashev": "K2",
           "url": "https://www.independent.co.uk/news/world/americas/us-politics/alex-gibney-elon-musk-documentary-b3045828.html",
           "fuente": "The Independent World"
-        },
-        {
-          "fecha": "2026-09-06",
-          "titulo": {
-            "es": "OpenAI admits to German wiki ‘incident’",
-            "en": "OpenAI admits to German wiki ‘incident’"
-          },
-          "impacto": 57,
-          "categoria": "tecnologia",
-          "kardashev": "K0",
-          "url": "https://www.cbc.ca/news/world/openai-hijacked-german-website-swarm-rogue-message-board-9.7332658?cmp=rss",
-          "fuente": "CBC World"
         }
       ]
     },
@@ -1228,22 +1233,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 37,
-      "ultima_fecha": "2026-09-15",
+      "n_nodos": 36,
+      "ultima_fecha": "2026-09-16",
       "resumen": {
-        "es": "37 nodos registrados en el periodo. Lo mas reciente: Trump says he will consider releasing more 9/11 records after families’ request.",
-        "en": "37 nodes recorded in the period. Most recent: Trump says he will consider releasing more 9/11 records after families’ request."
+        "es": "36 nodos registrados en el periodo. Lo mas reciente: La basura de la pesca de EE.UU. y Canadá acaba en las playas de las Azores.",
+        "en": "36 nodes recorded in the period. Most recent: 'Canada can offer a more reliable route for energy exports to the EU', expert says."
       },
       "estado": {
-        "es": "Trump says he will consider releasing more 9/11 records after families’ request",
-        "en": "Trump says he will consider releasing more 9/11 records after families’ request"
+        "es": "La basura de la pesca de EE.UU. y Canadá acaba en las playas de las Azores",
+        "en": "'Canada can offer a more reliable route for energy exports to the EU', expert says"
       },
       "serie": [
-        {
-          "fecha": "2026-08-26",
-          "max": 86,
-          "n": 2
-        },
         {
           "fecha": "2026-08-27",
           "max": 87,
@@ -1328,9 +1328,26 @@
           "fecha": "2026-09-15",
           "max": 83,
           "n": 3
+        },
+        {
+          "fecha": "2026-09-16",
+          "max": 57,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-09-16",
+          "titulo": {
+            "es": "La basura de la pesca de EE.UU. y Canadá acaba en las playas de las Azores",
+            "en": "'Canada can offer a more reliable route for energy exports to the EU', expert says"
+          },
+          "impacto": 57,
+          "categoria": "economia",
+          "kardashev": "K0",
+          "url": "https://es.euronews.com/2026/09/16/basura-de-la-pesca-de-estados-unidos-y-canada-llega-a-las-playas-de-azores",
+          "fuente": "Euronews Espanol"
+        },
         {
           "fecha": "2026-09-15",
           "titulo": {
@@ -1462,18 +1479,6 @@
           "kardashev": "K0",
           "url": "https://www.france24.com/es/video/20260910-marco-rubio-visita-ecuador-en-plena-cooperaci%C3%B3n-de-ee-uu-contra-el-narcotr%C3%A1fico",
           "fuente": "France 24 Espanol"
-        },
-        {
-          "fecha": "2026-09-10",
-          "titulo": {
-            "es": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
-            "en": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates"
-          },
-          "impacto": 79,
-          "categoria": "economia",
-          "kardashev": "K0",
-          "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
         }
       ]
     }

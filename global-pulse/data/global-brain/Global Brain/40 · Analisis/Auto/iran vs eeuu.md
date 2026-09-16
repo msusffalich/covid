@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-09-15
+actualizado: 2026-09-16
 nodos: 35
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-15. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-16. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-35 nodos registrados en el periodo. Lo mas reciente: Escalada entre Arabia Saudita y hutíes en Yemen agrava conflicto regional vinculado a Irán.
+35 nodos registrados en el periodo. Lo mas reciente: WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities.
 
 ## Trend summary (EN)
-35 nodes recorded in the period. Most recent: Saudi-Houthi escalation in Yemen deepens regional conflict linked to Iran.
+35 nodes recorded in the period. Most recent: WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities.
 
 > [!note] Estado actual
-> Escalada entre Arabia Saudita y hutíes en Yemen agrava conflicto regional vinculado a Irán
+> WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities
 
 ## Nodos recientes (35 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-16 | 40 | K1 | WHO and the Kingdom of Saudi Arabia sign agreements in support o |
 | 2026-09-15 | 78 | K1 | Escalada entre Arabia Saudita y hutíes en Yemen agrava conflicto |
 | 2026-09-14 | 82 | K1 | El petróleo supera los 108 dólares por ataques en el Estrecho de |
 | 2026-09-14 | 79 | K0 | Iranian cargo vessel struck near Qeshm Island as Oman delays Teh |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-12 | 88 | K1 | Los hutíes toman la isla de Perim y consolidan el control del es |
 | 2026-09-11 | 95 | K1 | Putin llega a Nueva Delhi para una cumbre de los BRICS marcada p |
 | 2026-09-09 | 95 | K1 | Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados U |
-| 2026-09-09 | 95 | K1 | Arabia Saudí responde tras el mayor ataque de los hutíes a insta |
 
 [[Global Brain — Inicio|← Inicio]]
