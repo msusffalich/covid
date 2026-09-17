@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-09-16
-nodos: 43
+actualizado: 2026-09-17
+nodos: 39
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-16. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-17. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-43 nodos registrados en el periodo. Lo mas reciente: Nepal exige compensación climática mientras crece el costo de la reconstrucción tras inundaciones glaciares.
+39 nodos registrados en el periodo. Lo mas reciente: Nepal exige compensación climática mientras crece el costo de la reconstrucción tras inundaciones glaciares.
 
 ## Trend summary (EN)
-43 nodes recorded in the period. Most recent: Nepal demands climate compensation as reconstruction costs mount after glacial floods.
+39 nodes recorded in the period. Most recent: Nepal demands climate compensation as reconstruction costs mount after glacial floods.
 
 > [!note] Estado actual
 > Nepal exige compensación climática mientras crece el costo de la reconstrucción tras inundaciones glaciares
 
-## Nodos recientes (43 en la ventana)
+## Nodos recientes (39 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-14 | 78 | K1 | Nepal exige compensación climática mientras crece el costo de la |

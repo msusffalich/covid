@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-09-16
-nodos: 20
+actualizado: 2026-09-17
+nodos: 19
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-16. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-17. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: Russian drone attack on bus kills five in Ukraine's southeast.
+19 nodos registrados en el periodo. Lo mas reciente: Russian drone attack on bus kills five in Ukraine's southeast.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: Russian drone attack on bus kills five in Ukraine's southeast.
+19 nodes recorded in the period. Most recent: Russian drone attack on bus kills five in Ukraine's southeast.
 
 > [!note] Estado actual
 > Russian drone attack on bus kills five in Ukraine's southeast
 
-## Nodos recientes (20 en la ventana)
+## Nodos recientes (19 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-16 | 83 | K0 | Russian drone attack on bus kills five in Ukraine's southeast |

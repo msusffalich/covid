@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-09-16
-nodos: 35
+actualizado: 2026-09-17
+nodos: 34
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-16. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-17. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-35 nodos registrados en el periodo. Lo mas reciente: WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities.
+34 nodos registrados en el periodo. Lo mas reciente: Irán: cada vez más mujeres conducen motocicletas en las ciudades.
 
 ## Trend summary (EN)
-35 nodes recorded in the period. Most recent: WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities.
+34 nodes recorded in the period. Most recent: Iran school bombing: grounds to believe US was behind atrocity, UN finds.
 
 > [!note] Estado actual
-> WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities
+> Irán: cada vez más mujeres conducen motocicletas en las ciudades
 
-## Nodos recientes (35 en la ventana)
+## Nodos recientes (34 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-17 | 85 | K1 | Irán: cada vez más mujeres conducen motocicletas en las ciudades |
+| 2026-09-17 | 83 | K1 | ¿A qué responde la persistencia de la alta inflación en Estados  |
+| 2026-09-17 | 78 | K1 | Arabia Saudita acusa a los hutíes de atacar cerca de La Meca en  |
 | 2026-09-16 | 40 | K1 | WHO and the Kingdom of Saudi Arabia sign agreements in support o |
 | 2026-09-15 | 78 | K1 | Escalada entre Arabia Saudita y hutíes en Yemen agrava conflicto |
 | 2026-09-14 | 82 | K1 | El petróleo supera los 108 dólares por ataques en el Estrecho de |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-09-13 | 89 | K2 | ¿Por qué Trump no se está involucrando en el conflicto en Yemen? |
 | 2026-09-13 | 85 | K1 | Arabia Saudita cierra oleoducto estratégico tras ataque con dron |
 | 2026-09-12 | 95 | K1 | A la sombra de las guerras y con la presencia de Rusia, China e  |
-| 2026-09-12 | 88 | K1 | Los hutíes toman la isla de Perim y consolidan el control del es |
-| 2026-09-11 | 95 | K1 | Putin llega a Nueva Delhi para una cumbre de los BRICS marcada p |
-| 2026-09-09 | 95 | K1 | Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados U |
 
 [[Global Brain — Inicio|← Inicio]]
