@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-09-17
-nodos: 19
+actualizado: 2026-09-18
+nodos: 21
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-17. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-18. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-19 nodos registrados en el periodo. Lo mas reciente: Russian drone attack on bus kills five in Ukraine's southeast.
+21 nodos registrados en el periodo. Lo mas reciente: ¿Qué se puede entender por integrante asociado de la UE y por qué Canadá?.
 
 ## Trend summary (EN)
-19 nodes recorded in the period. Most recent: Russian drone attack on bus kills five in Ukraine's southeast.
+21 nodes recorded in the period. Most recent: Canada wants into Britain's rapid-response defence club.
 
 > [!note] Estado actual
-> Russian drone attack on bus kills five in Ukraine's southeast
+> ¿Qué se puede entender por integrante asociado de la UE y por qué Canadá?
 
-## Nodos recientes (19 en la ventana)
+## Nodos recientes (21 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-18 | 83 | K1 | ¿Qué se puede entender por integrante asociado de la UE y por qu |
+| 2026-09-18 | 82 | K1 | Dan Wang: “China nunca superará a Estados Unidos” |
 | 2026-09-16 | 83 | K0 | Russian drone attack on bus kills five in Ukraine's southeast |
 | 2026-09-16 | 45 | K2 | España a la vanguardia de la computación cuántica: chips made in |
 | 2026-09-15 | 95 | K2 | Ucrania: ataque ruso «sistémico en curso»; Rusia no descarta la  |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-10 | 95 | K1 | El avión de Zelenski estuvo a punto de ser alcanzado por un dron |
 | 2026-09-10 | 83 | K0 | Russian drones kill at least nine in strikes targeting warehouse |
 | 2026-09-09 | 95 | K1 | Directo a... Washington y la "constructiva" llamada entre Trump  |
-| 2026-09-08 | 64 | K0 | Ucrania: "La visita de Witkoff y Kushner a Kiev tiene valor simb |
-| 2026-09-07 | 87 | K0 | Los emisarios de Trump 'aterrizan' en una guerra preparada para  |
 
 [[Global Brain — Inicio|← Inicio]]

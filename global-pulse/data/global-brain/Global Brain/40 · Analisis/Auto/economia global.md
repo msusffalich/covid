@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-17
+actualizado: 2026-09-18
 nodos: 39
 origen: global-pulse
 ---
@@ -10,20 +10,23 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-17. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-18. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-39 nodos registrados en el periodo. Lo mas reciente: ¿A qué responde la persistencia de la alta inflación en Estados Unidos?.
+39 nodos registrados en el periodo. Lo mas reciente: Canadá celebra cercanía con la UE mientras Trump amenaza con más aranceles y medidas económicas.
 
 ## Trend summary (EN)
-39 nodes recorded in the period. Most recent: ¿A qué responde la persistencia de la alta inflación en Estados Unidos?.
+39 nodes recorded in the period. Most recent: Taking on Trump: Canada and EU forge closer ties – The Latest.
 
 > [!note] Estado actual
-> ¿A qué responde la persistencia de la alta inflación en Estados Unidos?
+> Canadá celebra cercanía con la UE mientras Trump amenaza con más aranceles y medidas económicas
 
 ## Nodos recientes (39 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-18 | 95 | K1 | Canadá celebra cercanía con la UE mientras Trump amenaza con más |
+| 2026-09-18 | 82 | K1 | Dan Wang: “China nunca superará a Estados Unidos” |
+| 2026-09-18 | 58 | K1 | Japan raises interest rates to 31-year high to curb impact of ri |
 | 2026-09-17 | 83 | K1 | ¿A qué responde la persistencia de la alta inflación en Estados  |
 | 2026-09-17 | 78 | K1 | Arabia Saudita acusa a los hutíes de atacar cerca de La Meca en  |
 | 2026-09-17 | 72 | K1 | La Reserva Federal sube tasas de interés desafiando a Trump |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-09-15 | 83 | K0 | Trump says he will consider releasing more 9/11 records after fa |
 | 2026-09-15 | 78 | K1 | Escalada entre Arabia Saudita y hutíes en Yemen agrava conflicto |
 | 2026-09-15 | 70 | K0 | Microsoft impone límites a la IA en las escuelas de EE UU ante e |
-| 2026-09-14 | 95 | K2 | Trump cuestiona a las "fuerzas negativas" que piden desacelerar  |
-| 2026-09-14 | 82 | K1 | El petróleo supera los 108 dólares por ataques en el Estrecho de |
-| 2026-09-14 | 78 | K1 | Escalada en Yemen y ataques a Arabia Saudita elevan riesgo para  |
 
 [[Global Brain — Inicio|← Inicio]]

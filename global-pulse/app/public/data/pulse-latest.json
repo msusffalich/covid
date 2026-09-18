@@ -1,163 +1,60 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-09-17",
-    "generado": "2026-09-17T09:46:59.372295+00:00",
+    "fecha": "2026-09-18",
+    "generado": "2026-09-18T09:16:28.236933+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 798,
-      "clusters": 525,
-      "nodos": 525,
-      "verificados": 525,
-      "duracion_s": 306.7
+      "piezas_ingeridas": 770,
+      "clusters": 537,
+      "nodos": 537,
+      "verificados": 537,
+      "duracion_s": 49.5
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Dan Wang: “China nunca superará a Estados Unidos”",
-        "en": "Fed raises rates for the first time since 2023 in unanimous vote defying Trump"
+        "es": "\"Trump quiere acabar pronto la guerra con Irán\", asegura el asesor de Trump, Massad Boulos a 'Euronews'",
+        "en": "South Korea will not send military to support US war on Iran, defying Trump pressure"
       },
       "sintesis": {
-        "es": "El investigador canadiense nacido en China, Dan Wang, trabaja en la Hoover Institution de la Universidad de Stanford en Estados Unidos y es el autor del libro Breakneck: China's Quest to Engineer the Future. En esta entrevista con RFI explica que la clave para entender el enfrentamiento entre Pekín y Washington es que existe un “Estado ingeniero” chino frente a un “Estado legalista” estadounidense. ¿Cómo pueden las dos superpotencias evitar la confrontación?",
-        "en": "The Federal Reserve has raised its benchmark interest rate by a quarter point to a range of 3.75% to 4%, its first increase since July 2023, in a unanimous 12-0 vote that puts Chair Kevin Warsh directly at odds with the US president who appointed him."
-      },
-      "categoria": "economia",
-      "actores": [
-        "Estados Unidos",
-        "Trump",
-        "Fed",
-        "Calendario"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_93c13c469b",
-        "ev_e4ab19f4e8",
-        "ev_c83e35b851",
-        "ev_52993faf07",
-        "ev_a3a095f682",
-        "ev_493f220129",
-        "ev_3b083d25b3"
-      ],
-      "cluster_id": "cl_048",
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/R65CDADAHRKJDHEVQFJJVVFAJM.jpg?auth=4b010a66f51122fca2fd69d30011146fab75662e8c590da5afe97ea7d1b709d2",
-        "https://s.rfi.fr/media/display/16027672-b213-11f1-9edb-4daf57bffe27/w:1024/p:16x9/2026-09-04T175734Z-2125860088-RC2CELAJMQU1-RTRMADP-3-USA-FED-JOBS-RATES.jpg",
-        "https://s.rfi.fr/media/display/6dbabcb0-b0c1-11f1-8e4d-005056a97e36/w:1024/p:16x9/dan-wang-HD-horizontale.jpeg",
-        "https://s.rfi.fr/media/display/6ac88a16-1187-11f1-b135-005056a90284/w:1024/p:16x9/AP26052103019266.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_93c13c469b",
-          "titulo": "Calendario de las elecciones de medio mandato de 2026 en Estados Unidos",
-          "url": "https://elpais.com/us/2026-09-15/calendario-de-las-elecciones-de-medio-mandato-de-2026-en-estados-unidos.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Tue, 15 Sep 2026 17:28:37 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_e4ab19f4e8",
-          "titulo": "Estados Unidos: la Fed sube las tasas para frenar la inflación, en contra de las exigencias de Trump",
-          "url": "http://www.rfi.fr/es/am%C3%A9ricas/20260917-estados-unidos-la-fed-sube-las-tasas-para-frenar-la-inflaci%C3%B3n-en-contra-de-las-exigencias-de-trump",
-          "fuente": "RFI Espanol",
-          "fecha": "Thu, 17 Sep 2026 09:38:26 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c83e35b851",
-          "titulo": "Dan Wang: “China nunca superará a Estados Unidos”",
-          "url": "http://www.rfi.fr/es/economia/20260915-dan-wang-china-nunca-superar%C3%A1-a-estados-unidos",
-          "fuente": "RFI Espanol",
-          "fecha": "Tue, 15 Sep 2026 14:44:42 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_52993faf07",
-          "titulo": "Estados Unidos: Corte Suprema rechaza la solicitud de Trump de restringir el voto por correo",
-          "url": "http://www.rfi.fr/es/am%C3%A9ricas/20260915-estados-unidos-corte-suprema-rechaza-la-solicitud-de-trump-de-restringir-el-voto-por-correo",
-          "fuente": "RFI Espanol",
-          "fecha": "Tue, 15 Sep 2026 14:33:22 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_a3a095f682",
-          "titulo": "Por qué esta emergente empresa alemana de IA traslada su matriz de Estados Unidos a Alemania",
-          "url": "https://es.euronews.com/business/2026/09/16/por-que-esta-emergente-empresa-alemana-de-ia-traslada-su-matriz-de-estados-unidos-a-aleman",
-          "fuente": "Euronews Espanol",
-          "fecha": "Wed, 16 Sep 2026 16:39:00 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_493f220129",
-          "titulo": "Fed raises rates for the first time since 2023 in unanimous vote defying Trump",
-          "url": "https://www.euronews.com/business/2026/09/16/fed-raises-rates-for-the-first-time-since-2023-in-unanimous-vote-defying-trump",
-          "fuente": "Euronews English",
-          "fecha": "Wed, 16 Sep 2026 20:25:58 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3b083d25b3",
-          "titulo": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
-          "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Wed, 16 Sep 2026 23:45:02 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-17_0000",
-      "fecha": "2026-09-17",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-17_0001",
-        "nd_2026-09-17_0002",
-        "nd_2026-09-17_0003",
-        "nd_2026-09-17_0008",
-        "nd_2026-09-17_0011"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Irán: cada vez más mujeres conducen motocicletas en las ciudades",
-        "en": "Iran school bombing: grounds to believe US was behind atrocity, UN finds"
-      },
-      "sintesis": {
-        "es": "Teherán, así como otras ciudades iraníes, grandes y pequeñas, están cambiando de aspecto. Cada vez se ve a más mujeres conduciendo motocicletas, a menudo con el cabello al viento, en camiseta o incluso con pantalones cortos.",
-        "en": "Fact-finding mission says military strikes on school and sports facility in ⁠February constitute war ⁠crimes A UN fact-finding mission on Iran has said there are reasonable grounds to believe the US was behind two military strikes on a school and sports facility in Iran in ⁠February, and that these constituted war ⁠crimes. It also found Iranian ​authorities committed crimes against humanity during their deadly crackdown on anti-government protests. Continue reading..."
+        "es": "Massad Boulos, principal asesor del presidente de EE.UU. para asuntos árabes y de Oriente Medio, afirmó que Donald Trump trabaja para poner fin al conflicto en la región y aseguró que Trump \"cumple lo que promete\".",
+        "en": "Seoul resolves recent speculation over sending military to strait of Hormuz, saying ‘there won’t be deployment that would involve or enter war’ South Korea’s president, Lee Jae Myung, has said he will ⁠not deploy the military to the ⁠Middle East in a way ​that could draw the country into conflict, resisting calls from Donald Trump to support his war in Iran. “There won’t be deployment that would involve or enter war. I can tell you that very clearly,” Lee said at a ⁠news conference on Friday."
       },
       "categoria": "geopolitica",
       "actores": [
         "Trump",
+        "South Korea",
         "Iran",
-        "Saudi Arabia",
-        "Houthis"
+        "South Korean"
       ],
       "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
+        "lat": 35.9,
+        "lon": 127.8,
+        "region": "Asia Oriental"
       },
-      "impacto": 85,
+      "impacto": 95,
       "fuentes": [
         "ev_b1ad22dd1d",
         "ev_3f4c0d37c8",
-        "ev_7cce12b33c",
-        "ev_152b043d3c",
-        "ev_33885b37d4"
+        "ev_f8d83fca5e",
+        "ev_b696fdd8d2",
+        "ev_ce9f8e6246",
+        "ev_ad28ddea67",
+        "ev_63482c7013",
+        "ev_985df4c480",
+        "ev_adb41bf984",
+        "ev_0710f44919"
       ],
-      "cluster_id": "cl_001",
+      "cluster_id": "cl_013",
       "imagenes": [
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/506d/live/98661900-b1de-11f1-a430-4d16ee157c41.jpg",
         "https://imagenes.elpais.com/resizer/v2/FJ55JSCULFLF5AI6AXK3H5242M.jpg?auth=e531003e01334072ebbbbc9885b7638e7861fea038bb3d9c7e0a51b5c7c0c046",
-        "https://s.rfi.fr/media/display/c06ce3d8-b0d1-11f1-aa3a-005056a90284/w:1024/p:16x9/000-C2K869B.jpg",
-        "https://i.guim.co.uk/img/media/74ac2ef9d7e4902b853910136d3db05f4d35e2ae/402_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=072629804b444e31efd2f1c50b31408b"
+        "https://i.guim.co.uk/img/media/8d6e3c560c3b65c564e854088a72a2646843b9b7/1275_222_6202_4964/master/6202.jpg?width=140&quality=85&auto=format&fit=max&s=b29391e2fb8a629d0569b5709671a3cb",
+        "https://static01.nyt.com/images/2026/09/18/multimedia/18int-skorea-lee-hckp/18int-skorea-lee-hckp-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
@@ -178,727 +75,193 @@
           "idioma": "es"
         },
         {
-          "id": "ev_7cce12b33c",
-          "titulo": "Irán: cada vez más mujeres conducen motocicletas en las ciudades",
-          "url": "http://www.rfi.fr/es/asia-pacifico/20260915-ir%C3%A1n-cada-vez-m%C3%A1s-mujeres-conducen-motocicletas-en-las-ciudades",
-          "fuente": "RFI Espanol",
-          "fecha": "Tue, 15 Sep 2026 14:26:43 GMT",
+          "id": "ev_f8d83fca5e",
+          "titulo": "\"Trump quiere acabar pronto la guerra con Irán\", asegura el asesor de Trump, Massad Boulos a 'Euronews'",
+          "url": "https://es.euronews.com/2026/09/17/trump-quiere-acabar-pronto-guerra-iran-asegura-asesor-trump-massad-boulos-euronews",
+          "fuente": "Euronews Espanol",
+          "fecha": "Thu, 17 Sep 2026 22:15:40 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_152b043d3c",
-          "titulo": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
-          "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+          "id": "ev_b696fdd8d2",
+          "titulo": "South Korea will not send military to support US war on Iran, defying Trump pressure",
+          "url": "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
           "fuente": "The Guardian World",
-          "fecha": "Thu, 17 Sep 2026 09:05:31 GMT",
+          "fecha": "Fri, 18 Sep 2026 05:54:29 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_33885b37d4",
-          "titulo": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia-Houthis trade strikes",
-          "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+          "id": "ev_ce9f8e6246",
+          "titulo": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
+          "url": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Fri, 18 Sep 2026 05:23:10 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ad28ddea67",
+          "titulo": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
+          "url": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 18 Sep 2026 04:58:13 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_63482c7013",
+          "titulo": "South Korean president urges Trump dialogue with Pyongyang",
+          "url": "https://www.euronews.com/2026/09/18/south-korean-president-urges-trump-dialogue-with-pyongyang",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 18 Sep 2026 10:41:57 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_985df4c480",
+          "titulo": "Las bolsas asiáticas siguen la subida de Wall Street mientras cae el precio del petróleo",
+          "url": "https://es.euronews.com/business/2026/09/18/las-bolsas-asiaticas-siguen-la-subida-de-wall-street-mientras-cae-el-precio-del-petroleo",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 18 Sep 2026 07:55:42 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_adb41bf984",
+          "titulo": "A Chinese AI company just connected its model to Wall Street's leading data providers",
+          "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
           "fuente": "CNBC Top News",
-          "fecha": "Thu, 17 Sep 2026 07:56:49 GMT",
+          "fecha": "Fri, 18 Sep 2026 08:41:11 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0710f44919",
+          "titulo": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+          "url": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Thu, 17 Sep 2026 21:09:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-17_0001",
-      "fecha": "2026-09-17",
+      "id": "nd_2026-09-18_0000",
+      "fecha": "2026-09-18",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-09-17_0000",
-        "nd_2026-09-17_0003",
-        "nd_2026-09-17_0008",
-        "nd_2026-09-17_0011"
+        "nd_2026-09-18_0001",
+        "nd_2026-09-18_0003",
+        "nd_2026-09-18_0004",
+        "nd_2026-09-18_0006",
+        "nd_2026-09-18_0009",
+        "nd_2026-09-18_0011"
       ]
     },
     {
       "titulo": {
-        "es": "¿A qué responde la persistencia de la alta inflación en Estados Unidos?",
-        "en": "¿A qué responde la persistencia de la alta inflación en Estados Unidos?"
+        "es": "Canadá celebra cercanía con la UE mientras Trump amenaza con más aranceles y medidas económicas",
+        "en": "Taking on Trump: Canada and EU forge closer ties – The Latest"
       },
       "sintesis": {
-        "es": "La Reserva Federal de Estados Unidos subió las tasas de interés en un cuarto de punto, situándolas entre 3,75% y 4%, y anticipó más aumentos en los próximos meses. El presidente de la Fed, Kevin Warsh, se sumó a una decisión unánime tomada en medio de las presiones inflacionarias derivadas de los aranceles y el gasto por el conflicto con Irán. Lo analizamos con Antonio Ortiz-Mena, presidente ejecutivo de AOM Advisors y profesor adjunto en Georgetown.",
-        "en": "La Reserva Federal de Estados Unidos subió las tasas de interés en un cuarto de punto, situándolas entre 3,75% y 4%, y anticipó más aumentos en los próximos meses. El presidente de la Fed, Kevin Warsh, se sumó a una decisión unánime tomada en medio de las presiones inflacionarias derivadas de los aranceles y el gasto por el conflicto con Irán. Lo analizamos con Antonio Ortiz-Mena, presidente ejecutivo de AOM Advisors y profesor adjunto en Georgetown."
+        "es": "Canadá agradeció a la Unión Europea su invitación para convertirse en el primer país asociado del bloque y expuso las razones por las que ambos son más fuertes juntos. En medio de la tensión generada por el presidente de Estados Unidos, Donald Trump, con sus aranceles, el primer ministro canadiense, Mark Carney, y la presidenta de la Comisión Europea, Ursula von der Leyen, expresaron su intención de acercar ambas economías.",
+        "en": "Canadian prime minister, Mark Carney, has welcomed the EU’s proposal for Canada to become the bloc’s first ‘associate member’, despite threats from Donald Trump over the plan. The US president said Washington could impose ‘very serious tariffs’ or halt trade if the EU went ahead with the idea. But in a defiant speech to the European parliament, Carney called for ‘deep cooperation’ and said polling showed the overwhelming majority of Canadians supported closer ties with Europe."
       },
-      "categoria": "geopolitica",
+      "categoria": "economia",
       "actores": [
-        "Estados Unidos",
-        "Alex Saab",
-        "Maduro",
-        "Von"
+        "Trump",
+        "Carney",
+        "Canada",
+        "Europa"
       ],
       "geo": {
         "lat": 39.8,
         "lon": -98.6,
         "region": "Norteamerica"
       },
-      "impacto": 83,
+      "impacto": 95,
       "fuentes": [
-        "ev_1702778ac1",
-        "ev_7e448ae5fe",
-        "ev_929419453c",
-        "ev_f92a8e7913",
-        "ev_efb56d3e05",
-        "ev_3c18c316eb",
-        "ev_6f49aa6d4f",
-        "ev_d0b0b7764a",
-        "ev_0465c68d15",
-        "ev_007c0b3a77"
-      ],
-      "cluster_id": "cl_012",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/049c/live/8a2182a0-0205-11f1-b311-a93d45a0b96f.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/506b/live/71f851e0-b12d-11f1-b199-f1c9bc04a179.jpg",
-        "https://s.rfi.fr/media/display/845da30e-b1a9-11f1-98ac-cfc9bd8e913f/w:1024/p:16x9/000-34F796A.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894942692560.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1702778ac1",
-          "titulo": "Quién es el empresario colombiano Alex Saab, aliado y supuesto testaferro de Nicolás Maduro que se declaró culpable de lavado de dinero en EE.UU.",
-          "url": "https://www.bbc.com/mundo/articles/c4gvnw3gv4vo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Tue, 15 Sep 2026 22:51:00 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_7e448ae5fe",
-          "titulo": "El empresario colombiano Alex Saab, aliado clave de Maduro, se declara culpable de lavado de dinero y entregará US$195 millones a EE.UU.",
-          "url": "https://www.bbc.com/mundo/articles/ckq63vy5647zo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Tue, 15 Sep 2026 18:17:43 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_929419453c",
-          "titulo": "Estados Unidos: Alex Saab, exministro de Maduro, se declara culpable de lavado de dinero",
-          "url": "http://www.rfi.fr/es/am%C3%A9ricas/20260916-estados-unidos-alex-saab-exministro-de-maduro-se-declara-culpable-de-lavado-de-dinero",
-          "fuente": "RFI Espanol",
-          "fecha": "Wed, 16 Sep 2026 08:41:35 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f92a8e7913",
-          "titulo": "El ex ministro venezolano Alex Saab, principal testaferro de Maduro, se declara en EEUU culpable de lavado de dinero",
-          "url": "https://www.elmundo.es/internacional/2026/09/15/6aa97617e9cf4aac6d8b458c.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Tue, 15 Sep 2026 19:45:59 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_efb56d3e05",
-          "titulo": "Von der Leyen anuncia un plan de seguridad para Europa sin Estados Unidos",
-          "url": "https://elpais.com/internacional/2026-09-17/von-der-leyen-anuncia-un-plan-de-seguridad-para-europa-sin-estados-unidos.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Thu, 17 Sep 2026 03:30:01 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_3c18c316eb",
-          "titulo": "La ONU documenta que el aparato represivo en Venezuela sigue intacto pese al cambio político forzado por Estados Unidos",
-          "url": "https://elpais.com/america/2026-09-16/la-onu-documenta-que-el-aparato-represivo-en-venezuela-sigue-intacto-pese-al-cambio-politico-forzado-por-estados-unidos.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Wed, 16 Sep 2026 21:59:11 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_6f49aa6d4f",
-          "titulo": "¿A qué responde la persistencia de la alta inflación en Estados Unidos?",
-          "url": "http://www.france24.com/es/video/20260917-a-qu%C3%A9-responde-la-persistencia-de-la-alta-inflaci%C3%B3n-en-estados-unidos",
-          "fuente": "France 24 Espanol",
-          "fecha": "Thu, 17 Sep 2026 02:36:33 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_d0b0b7764a",
-          "titulo": "Las claves de la propuesta de Von der Leyen para una nueva arquitectura de seguridad de la UE",
-          "url": "https://es.euronews.com/my-europe/2026/09/17/las-claves-de-la-propuesta-de-von-der-leyen-para-una-nueva-arquitectura-de-seguridad-de-la",
-          "fuente": "Euronews Espanol",
-          "fecha": "Thu, 17 Sep 2026 09:03:46 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_0465c68d15",
-          "titulo": "Charles Michel critica a Von der Leyen por ser \"muy lenta\" y seguir \"a ciegas\" a Estados Unidos",
-          "url": "https://es.euronews.com/my-europe/2026/09/16/charles-michel-critica-von-der-leyen-por-ser-muy-lenta-seguir-ciegas-estados-unidos",
-          "fuente": "Euronews Espanol",
-          "fecha": "Wed, 16 Sep 2026 18:40:52 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_007c0b3a77",
-          "titulo": "Estados Unidos debe proteger a las presas de la violencia sexual, según una experta de la ONU",
-          "url": "https://news.un.org/feed/view/es/story/2026/09/1541898",
-          "fuente": "Noticias ONU",
-          "fecha": "Mon, 14 Sep 2026 12:00:00 +0000",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-09-17_0002",
-      "fecha": "2026-09-17",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-17_0000",
-        "nd_2026-09-17_0003",
-        "nd_2026-09-17_0008",
-        "nd_2026-09-17_0011"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Arabia Saudita acusa a los hutíes de atacar cerca de La Meca en medio de una escalada del conflicto",
-        "en": "Saudi Arabia accuses Houthis of attack near Mecca amid escalating conflict"
-      },
-      "sintesis": {
-        "es": "Arabia Saudita afirmó haber derribado un dron hutí al sur de La Meca y acusó al grupo respaldado por Irán de un ataque cerca de la ciudad santa, calificándola como una 'línea roja'. Los hutíes negaron haber apuntado a Mecca, mientras ambas partes intercambiaron acusaciones sobre ataques militares, incluido el derribo de un caza saudí reportado por los hutíes. La escalada se produce tras una ofensiva hutí más amplia que llevó al príncipe heredero Mohammed bin Salman a solicitar mayor apoyo militar de Estados Unidos, en un contexto que amenaza los mercados petroleros.",
-        "en": "Saudi Arabia said it shot down a Houthi drone south of Mecca and accused the Iran-backed group of an attack near the holy city, declaring it a 'red line'. The Houthis denied targeting Mecca, while both sides traded claims of military strikes, including a reported downing of a Saudi jet by the Houthis. The escalation follows a broader Houthi offensive that prompted Crown Prince Mohammed bin Salman to request increased US military support, in a context threatening oil markets."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Arabia Saudita",
-        "Houthis",
-        "Irán",
-        "Estados Unidos",
-        "Mohammed bin Salman"
-      ],
-      "geo": {
-        "lat": 21.4225,
-        "lon": 39.8262,
-        "region": "Mecca, Arabia Saudita"
-      },
-      "impacto": 78,
-      "fuentes": [
-        "ev_4fef13c242",
-        "ev_c10bfdb664",
-        "ev_38093f26fd",
-        "ev_2f3e730704",
-        "ev_590be10ca1",
-        "ev_5769103af1",
-        "ev_4f12b36118",
-        "ev_011c03e58d",
-        "ev_3cae0b229a",
-        "ev_bc0de73628",
-        "ev_47e39bab74"
-      ],
-      "cluster_id": "cl_164",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01a1/live/6450ab70-b1a3-11f1-a430-4d16ee157c41.jpg",
-        "https://s.france24.com/media/display/824ac65c-b206-11f1-83d2-757719c1152f/w:1024/p:16x9/000-C8H2794.jpg",
-        "https://static01.nyt.com/images/2026/09/16/multimedia/xp-mecca-vfbl/xp-mecca-vfbl-mediumSquareAt3X.jpg",
-        "https://static01.nyt.com/images/2026/09/14/multimedia/14yemen-houtis-qbvk/14yemen-houtis-qbvk-mediumSquareAt3X.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_4fef13c242",
-          "titulo": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-          "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Wed, 16 Sep 2026 08:36:17 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c10bfdb664",
-          "titulo": "Saudi Arabia accuses Houthis of targeting Mecca, calls it a 'red line'",
-          "url": "http://www.france24.com/en/middle-east/20260916-saudi-arabia-accuses-houthis-of-targeting-mecca-calling-it-a-red-line",
-          "fuente": "France 24 English",
-          "fecha": "Wed, 16 Sep 2026 20:08:24 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_38093f26fd",
-          "titulo": "Houthis and Saudis Trade Claims of Military Attacks as Conflict Escalates",
-          "url": "https://www.nytimes.com/2026/09/16/world/middleeast/saudi-arabia-houthi-fighter-jet-mecca-drone.html",
-          "fuente": "NYT World",
-          "fecha": "Wed, 16 Sep 2026 16:32:01 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2f3e730704",
-          "titulo": "Saudi Leader Meets U.S. Commander as Houthi Attacks Threaten Oil Markets",
-          "url": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html",
-          "fuente": "NYT World",
-          "fecha": "Mon, 14 Sep 2026 19:24:08 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_590be10ca1",
-          "titulo": "Quiénes son los hutíes, los rebeldes aliados de Irán en Yemen que tienen en vilo al mercado mundial de petróleo",
-          "url": "https://www.bbc.com/mundo/articles/cmy0z5egwg42o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 17 Sep 2026 02:43:00 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_5769103af1",
-          "titulo": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168328",
-          "fuente": "UN News",
-          "fecha": "Mon, 14 Sep 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4f12b36118",
-          "titulo": "Arabia Saudita acusa a hutíes de intentar atacar La Meca; grupo yemení lo niega",
-          "url": "http://www.france24.com/es/video/20260916-arabia-saudita-acusa-a-hut%C3%ADes-de-intentar-atacar-la-meca-grupo-yemen%C3%AD-lo-niega",
-          "fuente": "France 24 Espanol",
-          "fecha": "Wed, 16 Sep 2026 19:46:41 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_011c03e58d",
-          "titulo": "Arabia Saudita acusa a los hutíes de haber lanzado un dron hacia la Meca",
-          "url": "http://www.rfi.fr/es/oriente-medio/20260916-arabia-saudita-acusa-a-los-hut%C3%ADes-de-haber-lanzado-un-dron-hacia-la-meca",
-          "fuente": "RFI Espanol",
-          "fecha": "Wed, 16 Sep 2026 08:32:10 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_3cae0b229a",
-          "titulo": "Yemen: ¿por qué Arabia Saudita no logra frenar a los hutíes?",
-          "url": "http://www.france24.com/es/programas/expreso-de-oriente/20260916-yemen-por-qu%C3%A9-arabia-saudita-no-logra-frenar-a-los-hut%C3%ADes",
-          "fuente": "France 24 Espanol",
-          "fecha": "Wed, 16 Sep 2026 17:18:15 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_bc0de73628",
-          "titulo": "Arabia Saudí intercepta en La Meca un dron lanzado por rebeldes hutíes",
-          "url": "https://www.elmundo.es/internacional/2026/09/16/6aaa2cfffc6c837c398b45ca.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Wed, 16 Sep 2026 10:10:03 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_47e39bab74",
-          "titulo": "Arabia Saudí y Egipto piden una navegación libre y segura en el mar Rojo",
-          "url": "https://www.elmundo.es/internacional/2026/09/15/6aa9508421efa0fb1c8b45b7.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Tue, 15 Sep 2026 16:26:47 +0200",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-09-17_0003",
-      "fecha": "2026-09-17",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-17_0000",
-        "nd_2026-09-17_0001",
-        "nd_2026-09-17_0002"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
-        "en": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater"
-      },
-      "sintesis": {
-        "es": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up.",
-        "en": "It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "NASA",
-        "Roman Colosseum",
-        "Moon",
-        "Moon Orbiter"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 78,
-      "fuentes": [
-        "ev_e7889db236",
-        "ev_d519071bdb",
-        "ev_653ec88217",
-        "ev_11e17f634c",
-        "ev_a28fd7f6b5"
-      ],
-      "cluster_id": "cl_216",
-      "imagenes": [
-        "https://s.france24.com/media/display/b83ac824-b25c-11f1-ae5b-e5727ccb1647/w:1024/p:16x9/AP26259782617804.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-spacecraft-discov.jpg",
-        "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260821-PH-SPX01_0007large-1152x648.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e7889db236",
-          "titulo": "NASA finds a 'once in a century' lunar crater, bigger than the Roman Colosseum",
-          "url": "http://www.france24.com/en/earth/20260917-nasa-finds-a-once-in-a-century-lunar-crater-bigger-than-the-roman-colosseum",
-          "fuente": "France 24 English",
-          "fecha": "Thu, 17 Sep 2026 04:04:07 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d519071bdb",
-          "titulo": "NASA scientist's chance Moon discovery reveals once-in-a-lifetime crater",
-          "url": "https://www.abc.net.au/news/2026-09-17/nasa-mcgetchin-crater-discovery-explained/107165240",
-          "fuente": "ABC News Australia",
-          "fecha": "Thu, 17 Sep 2026 08:06:14 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_653ec88217",
-          "titulo": "NASA spacecraft discovers a huge new crater on the moon",
-          "url": "https://phys.org/news/2026-09-nasa-spacecraft-huge-crater-moon.html",
-          "fuente": "Phys.org",
-          "fecha": "Thu, 17 Sep 2026 04:12:32 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_11e17f634c",
-          "titulo": "NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater",
-          "url": "https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/",
-          "fuente": "NASA News",
-          "fecha": "Wed, 16 Sep 2026 18:06:35 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a28fd7f6b5",
-          "titulo": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
-          "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
-          "fuente": "Ars Technica",
-          "fecha": "Tue, 15 Sep 2026 22:26:32 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-17_0004",
-      "fecha": "2026-09-17",
-      "kardashev": "K2",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Reino Unido: Una investigación señala la responsabilidad de la monarquía británica en la esclavitud",
-        "en": "Reino Unido: Una investigación señala la responsabilidad de la monarquía británica en la esclavitud"
-      },
-      "sintesis": {
-        "es": "Reino Unido se enfrenta a una página particularmente oscura en su historia: la esclavitud. Una nueva investigación de The Guardian publicada este lunes revela el alcance de la implicación británica y de la monarquía en el comercio transatlántico de esclavos.",
-        "en": "Reino Unido se enfrenta a una página particularmente oscura en su historia: la esclavitud. Una nueva investigación de The Guardian publicada este lunes revela el alcance de la implicación británica y de la monarquía en el comercio transatlántico de esclavos."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Reino Unido",
-        "Piddington",
-        "Hallan",
-        "Noah Woods"
-      ],
-      "geo": {
-        "lat": 54.0,
-        "lon": -2.5,
-        "region": "Europa"
-      },
-      "impacto": 74,
-      "fuentes": [
-        "ev_c234b4afd1",
-        "ev_b7ef016250",
-        "ev_e72c9f6009",
-        "ev_4152e4d58f",
-        "ev_a1cede6ddd",
-        "ev_1b53f3dedc",
-        "ev_032a85b5d1",
-        "ev_26bc35fc6a"
-      ],
-      "cluster_id": "cl_022",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/570c/live/77456b90-ac52-11f1-9e64-05835b0b18f8.jpg",
-        "https://s.rfi.fr/media/display/fa2c9d7a-91b4-11f1-8084-005056bf30b7/w:1024/p:16x9/Slave-Market-Scene-on-the-Kambia-River-Coast-of-Africa.jpg",
-        "https://s.rfi.fr/media/display/b5ec567e-14ab-11ea-b184-005056a99247/w:1024/p:16x9/1280px-Brick_Lane_2005.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/17/17896330527970.png"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_c234b4afd1",
-          "titulo": "Las nuevas tácticas de intimidación de los grupos antiinmigrantes que preocupan a Reino Unido",
-          "url": "https://www.bbc.com/mundo/articles/c770z7v41d8o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Wed, 16 Sep 2026 10:01:59 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_b7ef016250",
-          "titulo": "Reino Unido: Una investigación señala la responsabilidad de la monarquía británica en la esclavitud",
-          "url": "http://www.rfi.fr/es/europa/20260915-reino-unido-una-investigaci%C3%B3n-se%C3%B1ala-la-responsabilidad-de-la-monarqu%C3%ADa-brit%C3%A1nica-en-la-esclavitud",
-          "fuente": "RFI Espanol",
-          "fecha": "Tue, 15 Sep 2026 15:16:03 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_e72c9f6009",
-          "titulo": "Reino Unido: Un barrio londinense, en pie de guerra contra un centro de datos",
-          "url": "http://www.rfi.fr/es/programas/enfoque-internacional/20260915-reino-unido-un-barrio-londinense-en-pie-de-guerra-contra-un-centro-de-datos",
-          "fuente": "RFI Espanol",
-          "fecha": "Tue, 15 Sep 2026 15:13:18 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_4152e4d58f",
-          "titulo": "El pueblo de Piddington vota \"separarse\" del Reino Unido tras la decisión de alojar un centro de asilo",
-          "url": "https://es.euronews.com/my-europe/2026/09/16/un-pueblo-de-piddington-vota-separarse-del-reino-unido-tras-la-decision-de-alojar-un-centr",
-          "fuente": "Euronews Espanol",
-          "fecha": "Wed, 16 Sep 2026 21:00:48 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_a1cede6ddd",
-          "titulo": "Hallan un cuerpo durante la búsqueda de Noah Woods, el niño de tres años desaparecido en Reino Unido",
-          "url": "https://www.elmundo.es/internacional/2026/09/17/6aaba2c0e9cf4a11308b457d.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 17 Sep 2026 10:20:22 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_1b53f3dedc",
-          "titulo": "Elon Musk despliega su máquina de caos político en el Reino Unido",
-          "url": "https://www.elmundo.es/internacional/2026/09/17/6aaa9cd8e9cf4aca1f8b459e.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 17 Sep 2026 01:04:40 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_032a85b5d1",
-          "titulo": "La conjura de los tres nacionalismos contra el Reino Unido: \"Andy Burnham será el último primer ministro británico\"",
-          "url": "https://www.elmundo.es/internacional/2026/09/15/6aa8230be4d4d817738b45ab.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Tue, 15 Sep 2026 01:35:10 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_26bc35fc6a",
-          "titulo": "Un hombre admite haber drogado y violado a su esposa durante más de 20 años en Reino Unido",
-          "url": "https://www.elmundo.es/internacional/2026/09/14/6aa84b7fe9cf4ac3678b4596.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Mon, 14 Sep 2026 21:31:14 +0200",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-09-17_0005",
-      "fecha": "2026-09-17",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "La Reserva Federal sube tasas de interés desafiando a Trump",
-        "en": "Federal Reserve raises interest rates defying Trump"
-      },
-      "sintesis": {
-        "es": "La Reserva Federal de EE.UU., bajo la presidencia de Kevin Warsh, subió su tasa de interés de referencia en 0,25 puntos por primera vez en tres años, en una decisión unánime destinada a controlar la inflación. La medida desafía abiertamente al presidente Donald Trump, quien había presionado públicamente por un recorte de tasas y calificó la decisión de 'hostil' y motivada políticamente. Warsh, nombrado por Trump con la expectativa de que bajara las tasas, justificó el alza señalando que la inflación sigue siendo demasiado alta.",
-        "en": "The US Federal Reserve, under Chair Kevin Warsh, raised its benchmark interest rate by 0.25 points for the first time in three years, in a unanimous decision aimed at curbing high inflation. The move directly defies President Donald Trump, who had publicly pushed for a rate cut and called the decision 'hostile' and politically motivated. Warsh, appointed by Trump with expectations he would lower rates, justified the hike citing persistently high inflation."
-      },
-      "categoria": "economia",
-      "actores": [
-        "Reserva Federal de EE.UU.",
-        "Kevin Warsh",
-        "Donald Trump"
-      ],
-      "geo": {
-        "lat": 38.9,
-        "lon": -77.0,
-        "region": "Estados Unidos"
-      },
-      "impacto": 72,
-      "fuentes": [
-        "ev_ea0508551a",
-        "ev_ec32163372",
-        "ev_f45cdc8b56",
-        "ev_ea68a40d33",
-        "ev_09e6543adc",
-        "ev_67032d7511"
-      ],
-      "cluster_id": "cl_005",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cffd/live/8f9082f0-b226-11f1-907e-a3d242a40b7a.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4317/live/97f51f30-b214-11f1-95f2-19e1a2e8eef2.jpg",
-        "https://s.france24.com/media/display/07e71054-b216-11f1-b89b-3df65e1cd14d/w:1024/p:16x9/capture-7987162426aab0ac757e7a4-95836125.jpg",
-        "https://i.guim.co.uk/img/media/65bd3eb6cf5562617132185226fdf539cafbb2b2/601_0_4473_3579/master/4473.jpg?width=140&quality=85&auto=format&fit=max&s=9ddb900beca749e60f41d46d6168e8d4"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ea0508551a",
-          "titulo": "La Reserva Federal de EE.UU. desafía a Trump y aumenta las tasas de interés por primera vez en 3 años: ¿qué consecuencias tendrá la medida?",
-          "url": "https://www.bbc.com/mundo/articles/cmy8zy8qvqz1o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Wed, 16 Sep 2026 23:35:11 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_ec32163372",
-          "titulo": "US interest rates raised for first time in three years",
-          "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 17 Sep 2026 00:40:17 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f45cdc8b56",
-          "titulo": "US Federal Reserve defies Trump with interest rate hike",
-          "url": "http://www.france24.com/en/us-federal-reserve-defies-trump-with-interest-rate-hike",
-          "fuente": "France 24 English",
-          "fecha": "Wed, 16 Sep 2026 21:38:45 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ea68a40d33",
-          "titulo": "Trump blasts interest rate uptick and claims ‘hostile’ Federal Reserve board made decision ‘only for political reasons’ – as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
-          "fuente": "The Guardian World",
-          "fecha": "Thu, 17 Sep 2026 01:59:38 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_09e6543adc",
-          "titulo": "US Federal Reserve hikes interest rates for the first time in three years",
-          "url": "http://www.france24.com/en/tv-shows/business/20260917-us-federal-reserve-hikes-interest-rates-for-the-first-time-in-three-years",
-          "fuente": "France 24 English",
-          "fecha": "Thu, 17 Sep 2026 09:08:23 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_67032d7511",
-          "titulo": "U.S. Federal Reserve raises interest rates for 1st time in 3 years",
-          "url": "https://www.cbc.ca/news/business/us-interest-rate-hike-sept-2026-9.7346557?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Wed, 16 Sep 2026 15:00:00 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-17_0006",
-      "fecha": "2026-09-17",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Líderes de la IA piden confianza y frenar la carrera armamentista tecnológica mientras Anthropic dispara su valoración",
-        "en": "AI leaders ask for trust and call to slow the tech race as Anthropic's valuation soars"
-      },
-      "sintesis": {
-        "es": "Directivos de OpenAI y Anthropic, entre ellos Sam Altman, reconocen que el mundo tiene razones para temer a la inteligencia artificial, pero piden confianza en las empresas del sector mientras abogan por frenar la carrera hacia modelos más potentes debido a riesgos económicos, regulatorios y geopolíticos, incluida la rivalidad con China. En paralelo, OpenAI reporta más incidentes de comportamiento engañoso en sus modelos e introduce un marco de reporte público, mientras Anthropic ve disparar su valoración por encima de los 2 billones de dólares antes de una posible salida a bolsa histórica.",
-        "en": "Executives from OpenAI and Anthropic, including Sam Altman, acknowledge the world has reason to fear artificial intelligence, yet ask for trust in AI companies while calling to slow the race toward more powerful models due to economic, regulatory and geopolitical risks, including rivalry with China. Meanwhile, OpenAI reports more incidents of deceptive model behavior and introduces a public reporting framework, as Anthropic's valuation surges past $2 trillion ahead of a potentially historic IPO."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "OpenAI",
-        "Sam Altman",
-        "Anthropic",
-        "China"
-      ],
-      "geo": {
-        "lat": 37.7749,
-        "lon": -122.4194,
-        "region": "Estados Unidos (Silicon Valley)"
-      },
-      "impacto": 72,
-      "fuentes": [
-        "ev_aafe47000e",
-        "ev_e890287433",
-        "ev_1a72410095",
-        "ev_5ac00a9427",
-        "ev_1152c7584c"
-      ],
-      "cluster_id": "cl_011",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3c7/live/03337f50-b1f0-11f1-bd8b-ed45be4f6895.jpg",
-        "https://s.rfi.fr/media/display/34e87ecc-b053-11f1-b7b1-005056bf30b7/w:1024/p:16x9/2026-08-19T235146Z-1689112989-RC2TRLAFNMN0-RTRMADP-3-USA-ELECTION-CORPORATE-SPENDING.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b490/live/dc850210-b1b4-11f1-b1d1-571ed4d7ff2c.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_aafe47000e",
-          "titulo": "Por qué el jefe de OpenAI pide que confiemos en la empresas de IA a pesar de que el mundo \"tiene razón en sentir miedo\"",
-          "url": "https://www.bbc.com/mundo/articles/c6gqdekd4zpwo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Wed, 16 Sep 2026 13:27:07 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_e890287433",
-          "titulo": "Por qué OpenAI y Anthropic quieren frenar la carrera por la inteligencia artificial",
-          "url": "http://www.rfi.fr/es/economia/20260915-por-qu%C3%A9-openai-y-anthropic-quieren-frenar-la-carrera-por-la-inteligencia-artificial",
-          "fuente": "RFI Espanol",
-          "fecha": "Tue, 15 Sep 2026 14:31:50 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_1a72410095",
-          "titulo": "Anthropic dispara su valoración por encima de los 2 billones de dólares antes de salir a bolsa",
-          "url": "https://es.euronews.com/business/2026/09/17/anthropic-supera-los-2-billones-de-dolares-mientras-los-mercados-aguardan-su-salida-a-bols",
-          "fuente": "Euronews Espanol",
-          "fecha": "Thu, 17 Sep 2026 07:00:11 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_5ac00a9427",
-          "titulo": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Wed, 16 Sep 2026 10:02:05 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1152c7584c",
-          "titulo": "OpenAI reports more incidents of models acting deceptively",
-          "url": "https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Thu, 17 Sep 2026 06:15:07 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-17_0007",
-      "fecha": "2026-09-17",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-17_0012"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Europe Today: Metsola en exclusiva y Carney en la UE ante la amenaza de aranceles de Trump",
-        "en": "Trump threatens to end trade with Mexico and Europe after rate hike"
-      },
-      "sintesis": {
-        "es": "La presidenta del Parlamento Europeo, Roberta Metsola, habla en exclusiva con 'Euronews' tras la propuesta de von der Leyen de hacer de Canadá el primer \"miembro asociado\" de la UE, plan que Trump ha amenazado con \"aranceles muy serios\", hoy Mark Carney se dirige a la Eurocámara en Estrasburgo.",
-        "en": "US President Donald Trump had tried to pressure the Fed to lower rates, but it voted unanimously to raise them instead."
-      },
-      "categoria": "economia",
-      "actores": [
-        "Trump",
-        "Carney",
-        "Europe Today",
-        "Metsola"
-      ],
-      "geo": {
-        "lat": 23.6,
-        "lon": -102.5,
-        "region": "Norteamerica"
-      },
-      "impacto": 61,
-      "fuentes": [
-        "ev_1b809a0758",
+        "ev_f93476e93b",
+        "ev_6b0d8f6aed",
+        "ev_a9f189258f",
+        "ev_ac0a8771ab",
+        "ev_ef510e4d2d",
+        "ev_8bacad2742",
+        "ev_4f740ae6a4",
+        "ev_9f0246ee10",
         "ev_bdfb343e58",
-        "ev_7022f64e53"
+        "ev_622568f51a",
+        "ev_9290c98ad8",
+        "ev_495bb9ff61",
+        "ev_6676ad7340",
+        "ev_4cf81aba96",
+        "ev_95dd6c9fb1",
+        "ev_f75591a642"
       ],
-      "cluster_id": "cl_090",
+      "cluster_id": "cl_038",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45cc/live/43719d00-b1cc-11f1-8493-1910d79d53eb.jpg"
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260917/1215287_121042_video_1800.mp4",
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260917/1215188_073602_video_1800.mp4",
+        "https://s.france24.com/media/display/cb5d5e8e-b2d5-11f1-ab5d-430f3874e448/w:1024/p:16x9/ES-20260917-123152-123336-CS.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895760415262.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_1b809a0758",
-          "titulo": "Europe Today: Metsola en exclusiva y Carney en la UE ante la amenaza de aranceles de Trump",
-          "url": "https://es.euronews.com/my-europe/2026/09/17/europe-today-metsola-en-exclusiva-carney-en-la-ue-por-amenaza-de-aranceles-de-trump",
+          "id": "ev_f93476e93b",
+          "titulo": "Carney, tras las nuevas amenazas arancelarias de Trump: “Europa y Canadá son más fuertes juntos”",
+          "url": "https://elpais.com/internacional/2026-09-17/mark-carney-tras-las-nuevas-amenazas-arancelarias-de-trump-europa-y-canada-son-mas-fuertes-juntos.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Thu, 17 Sep 2026 15:33:35 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_6b0d8f6aed",
+          "titulo": "Trump amenaza con “cortar el comercio” si la UE se asocia con Canadá",
+          "url": "https://elpais.com/internacional/2026-09-17/trump-amenaza-con-cortar-el-comercio-si-la-ue-se-asocia-con-canada.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Thu, 17 Sep 2026 00:32:00 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_a9f189258f",
+          "titulo": "Canadá celebra cercanía con la UE mientras Trump amenaza con más aranceles y medidas económicas",
+          "url": "https://www.france24.com/es/video/20260917-canad%C3%A1-celebra-cercan%C3%ADa-con-la-ue-mientras-trump-amenaza-con-m%C3%A1s-aranceles-y-medidas-econ%C3%B3micas",
+          "fuente": "France 24 Espanol",
+          "fecha": "Thu, 17 Sep 2026 20:52:13 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_ac0a8771ab",
+          "titulo": "Análisis: Las embestidas de Trump empujan a la UE y Canadá a refugiarse el uno en el otro",
+          "url": "https://es.euronews.com/my-europe/2026/09/18/analisis-las-embestidas-de-trump-empujan-a-la-ue-y-canada-a-refugiarse-el-uno-en-el-otro",
           "fuente": "Euronews Espanol",
-          "fecha": "Thu, 17 Sep 2026 08:02:12 +0200",
+          "fecha": "Fri, 18 Sep 2026 07:56:35 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_ef510e4d2d",
+          "titulo": "La UE busca con Canadá una nueva alianza económica y militar ante la ruptura del orden mundial decretada por Trump",
+          "url": "https://www.elmundo.es/internacional/2026/09/17/6aaa9953fdddff305a8b459d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Thu, 17 Sep 2026 01:04:39 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_8bacad2742",
+          "titulo": "Carney acepta la invitación de Von der Leyen para que Canadá se convierta en el primer miembro asociado de la UE: \"Sería un faro para otras democracias\"",
+          "url": "https://www.elmundo.es/internacional/2026/09/17/6aabbfbde85ece2a778b45a4.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Thu, 17 Sep 2026 16:36:46 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_4f740ae6a4",
+          "titulo": "Von der Leyen ofrece a Carney que \"Canadá se convierta en el primer miembro asociado de la UE\"",
+          "url": "https://www.elmundo.es/internacional/2026/09/16/6aaa5b84fc6c837f578b4585.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Wed, 16 Sep 2026 11:17:08 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_9f0246ee10",
+          "titulo": "Trump amenaza a Europa con grandes aranceles si Canadá se asocia a la Unión Europea",
+          "url": "https://www.elmundo.es/internacional/2026/09/17/6aab259afc6c835d248b459c.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Thu, 17 Sep 2026 01:26:21 +0200",
           "idioma": "es"
         },
         {
@@ -910,263 +273,308 @@
           "idioma": "en"
         },
         {
-          "id": "ev_7022f64e53",
-          "titulo": "Trump threatens to end trade with Mexico and Europe after rate hike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/trump-threatens-to-end-trade-with-mexico-and-europe-after-rate-hike?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Thu, 17 Sep 2026 04:43:01 +0000",
+          "id": "ev_622568f51a",
+          "titulo": "Taking on Trump: Canada and EU forge closer ties – The Latest",
+          "url": "https://www.theguardian.com/news/audio/2026/sep/17/taking-on-trump-canada-and-eu-forge-closer-ties-the-latest",
+          "fuente": "The Guardian World",
+          "fecha": "Thu, 17 Sep 2026 18:22:14 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9290c98ad8",
+          "titulo": "Trump threatens EU over 'hostile' Canada association plan",
+          "url": "https://www.france24.com/en/trump-threatens-eu-over-hostile-canada-association-plan",
+          "fuente": "France 24 English",
+          "fecha": "Thu, 17 Sep 2026 20:04:02 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_495bb9ff61",
+          "titulo": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
+          "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Thu, 17 Sep 2026 14:28:39 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-17_0008",
-      "fecha": "2026-09-17",
-      "kardashev": "K0",
+      "id": "nd_2026-09-18_0001",
+      "fecha": "2026-09-18",
+      "kardashev": "K1",
       "relaciones": [
-        "nd_2026-09-17_0000",
-        "nd_2026-09-17_0001",
-        "nd_2026-09-17_0002",
-        "nd_2026-09-17_0011"
+        "nd_2026-09-18_0000",
+        "nd_2026-09-18_0002",
+        "nd_2026-09-18_0003",
+        "nd_2026-09-18_0004",
+        "nd_2026-09-18_0005",
+        "nd_2026-09-18_0006",
+        "nd_2026-09-18_0009",
+        "nd_2026-09-18_0010"
       ]
     },
     {
       "titulo": {
-        "es": "US House holds billionaire Epstein associate Leon Black in contempt of Congress",
-        "en": "US House holds billionaire Epstein associate Leon Black in contempt of Congress"
+        "es": "Arabia Saudita acusa a los hutíes de haber lanzado un dron hacia la Meca",
+        "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
       },
       "sintesis": {
-        "es": "The US House of Representatives on Wednesday held billionaire investor Leon Black in contempt of Congress for defying two subpoenas in its investigation into sex offender Jeffrey Epstein. The measure passed by unanimous consent and will be referred to the Justice Department, which will decide whether to pursue criminal charges.",
-        "en": "The US House of Representatives on Wednesday held billionaire investor Leon Black in contempt of Congress for defying two subpoenas in its investigation into sex offender Jeffrey Epstein. The measure passed by unanimous consent and will be referred to the Justice Department, which will decide whether to pursue criminal charges."
+        "es": "Riad afirmó este miércoles que la defensa aérea saudita destruyó el martes \"un dron hostil lanzado por la milicia terrorista hutí antes de que ingresara al espacio aéreo restringido de la capital sagrada\" del islam. Los hutíes negaron haber atacado la Meca. \"Los hutíes están intentando explotar un momento de debilidad de Arabia Saudí\", dijo a RFI la investigadora Leyla Hamad Zahonero.",
+        "en": "The Riyadh International Humanitarian Forum 2025 was a significant event that underscored the continued partnership between WHO and KSrelief, as well as with other international partners to address critical humanitarian health crises. The agreements made during the forum are pivotal in combating diseases like malaria, cholera, and polio, and ensuring better healthcare for displaced populations. The forum also highlighted Saudi Arabia’s ongoing commitment to global humanitarian efforts, reaffirming its leadership role in tackling some of the world’s pressing health crises."
       },
-      "categoria": "innovacion",
+      "categoria": "salud",
       "actores": [
-        "House",
-        "Epstein",
-        "Leon Black",
-        "Congress"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 48,
-      "fuentes": [
-        "ev_e530cd76bf",
-        "ev_b774e1960c",
-        "ev_5e032c9262"
-      ],
-      "cluster_id": "cl_159",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a16/live/03313030-b202-11f1-a4a7-291ff3d1006b.jpg",
-        "https://s.france24.com/media/display/e46f3684-b21e-11f1-9edf-4daf57bffe27/w:1024/p:16x9/AP26246480870989.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e530cd76bf",
-          "titulo": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-          "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Wed, 16 Sep 2026 19:59:57 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b774e1960c",
-          "titulo": "US House holds billionaire Epstein associate Leon Black in contempt of Congress",
-          "url": "http://www.france24.com/en/americas/20260916-leon-black-epstein-contempt-congress",
-          "fuente": "France 24 English",
-          "fecha": "Wed, 16 Sep 2026 22:37:03 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5e032c9262",
-          "titulo": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
-          "url": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Wed, 16 Sep 2026 20:54:15 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-17_0009",
-      "fecha": "2026-09-17",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Scientists discover a major brain shift between ages 50 and 75",
-        "en": "Scientists discover a major brain shift between ages 50 and 75"
-      },
-      "sintesis": {
-        "es": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerative diseases. One of the biggest shifts occurred between about ages 50 and 75, when many of the brain’s original immune cells declined and were replaced by cells with more inflammatory characteristics. Researchers also found weakening of cells that help maintain the blood-brain barrier, along with widespread deterioration in the genome’s three-dimensional organization.",
-        "en": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerative diseases. One of the biggest shifts occurred between about ages 50 and 75, when many of the brain’s original immune cells declined and were replaced by cells with more inflammatory characteristics. Researchers also found weakening of cells that help maintain the blood-brain barrier, along with widespread deterioration in the genome’s three-dimensional organization."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "Scientists",
-        "Earth"
-      ],
-      "geo": {
-        "lat": -25.3,
-        "lon": 133.8,
-        "region": "Oceania"
-      },
-      "impacto": 48,
-      "fuentes": [
-        "ev_fa486f973c",
-        "ev_925ac54c50",
-        "ev_60c27ef5cc",
-        "ev_3078e1e188",
-        "ev_9c8f95fa5d",
-        "ev_e3324b1149",
-        "ev_9e0c62da5e",
-        "ev_23934be541",
-        "ev_dc546952d3",
-        "ev_f0ffbb09fb",
-        "ev_64eb8ba50a",
-        "ev_dc18e19725"
-      ],
-      "cluster_id": "cl_361",
-      "imagenes": [
-        "https://cdn.arstechnica.net/wp-content/uploads/2026/09/scrollTOP-1152x648-1789248616.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_fa486f973c",
-          "titulo": "Scientists “truly astonished” by discovery that challenges Earth’s origin story",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260915232132.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Wed, 16 Sep 2026 07:03:10 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_925ac54c50",
-          "titulo": "Scientists find an immune “false alarm” that may drive rapid aging",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Wed, 16 Sep 2026 10:05:35 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_60c27ef5cc",
-          "titulo": "Scientists turn seawater into fresh water without harmful brine",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260915100137.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Wed, 16 Sep 2026 10:44:50 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3078e1e188",
-          "titulo": "Scientists recreated what mice saw from brain activity alone",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Wed, 16 Sep 2026 08:33:18 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9c8f95fa5d",
-          "titulo": "Scientists discover a major brain shift between ages 50 and 75",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Tue, 15 Sep 2026 10:28:38 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e3324b1149",
-          "titulo": "Scientists discover a hidden switch that shuts down inflammation",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911214306.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Sat, 12 Sep 2026 21:44:05 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9e0c62da5e",
-          "titulo": "Scientists find water was fueling volcanoes 3 billion years ago",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911214305.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Sat, 12 Sep 2026 23:14:19 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_23934be541",
-          "titulo": "Scientists find how “zombie” cells fuel inflammation as we age",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911214301.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Sun, 13 Sep 2026 23:48:19 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_dc546952d3",
-          "titulo": "Scientists discover the human heart can regrow muscle after a heart attack",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909231754.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Thu, 10 Sep 2026 22:56:49 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f0ffbb09fb",
-          "titulo": "Scientists create brilliant white material without a drop of white pigment",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909231712.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Thu, 10 Sep 2026 08:22:11 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_64eb8ba50a",
-          "titulo": "Scientists find a bone-building switch that could fight osteoporosis",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260909005305.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Wed, 09 Sep 2026 09:52:53 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_dc18e19725",
-          "titulo": "Scientists develop new method for deciphering ancient scrolls",
-          "url": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
-          "fuente": "Ars Technica",
-          "fecha": "Wed, 16 Sep 2026 18:43:23 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-17_0010",
-      "fecha": "2026-09-17",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Trump saca a Venezuela del grupo de países que incumplen en la lucha contra el narcotráfico",
-        "en": "Trump saca a Venezuela del grupo de países que incumplen en la lucha contra el narcotráfico"
-      },
-      "sintesis": {
-        "es": "El mandatario estadounidense excluye a la nación latinoamericana de la lista negra del tráfico de narcóticos, aunque la mantiene en el registro de países de tránsito de drogas ilícitas Leer",
-        "en": "El mandatario estadounidense excluye a la nación latinoamericana de la lista negra del tráfico de narcóticos, aunque la mantiene en el registro de países de tránsito de drogas ilícitas Leer"
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Venezuela",
-        "Trump",
-        "Colombia"
+        "Saudi Arabia",
+        "Meca",
+        "Arabia Saudita",
+        "Arabia"
       ],
       "geo": {
         "lat": 39.8,
         "lon": -98.6,
         "region": "Norteamerica"
       },
-      "impacto": 46,
+      "impacto": 95,
       "fuentes": [
-        "ev_6d06f343a6",
-        "ev_303e0710e8",
-        "ev_1385f19d24"
+        "ev_011c03e58d",
+        "ev_bc0de73628",
+        "ev_6f027a6d00",
+        "ev_6af4d2dcfc",
+        "ev_66ce54f503",
+        "ev_d03482c65f",
+        "ev_03f239ef66"
       ],
-      "cluster_id": "cl_039",
+      "cluster_id": "cl_080",
       "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/VJB5VFL7SBDOPKQ6VRGCKQ3JBY.jpg?auth=cdbbffe4c597fafe2da109e6204693aecfd72d3d82edf3f3ba6b9ea22c73d7a7",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895800710233.jpg"
+        "https://s.rfi.fr/media/display/d06b382c-b192-11f1-8118-3ff9dda05487/w:1024/p:16x9/2026-09-15T091021Z-1931178679-RC22JNANRKLM-RTRMADP-3-SAUDI-MECCA-UMRAH.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895373394018.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ea/live/7d7d4cc0-b2e3-11f1-a845-59f886d45f54.jpg",
+        "https://s.france24.com/media/display/b5501408-b328-11f1-82fe-1d1125ed9143/w:1024/p:16x9/2026-09-09T121806Z-145721001-RC2OFNAVWHNC-RTRMADP-3-NORWAY-ROYALS-KING-HARALD-FUNERAL.jpg"
       ],
       "estado": "verificado",
       "referencias": [
+        {
+          "id": "ev_011c03e58d",
+          "titulo": "Arabia Saudita acusa a los hutíes de haber lanzado un dron hacia la Meca",
+          "url": "https://www.rfi.fr/es/oriente-medio/20260916-arabia-saudita-acusa-a-los-hut%C3%ADes-de-haber-lanzado-un-dron-hacia-la-meca",
+          "fuente": "RFI Espanol",
+          "fecha": "Wed, 16 Sep 2026 08:32:10 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_bc0de73628",
+          "titulo": "Arabia Saudí intercepta en La Meca un dron lanzado por rebeldes hutíes",
+          "url": "https://www.elmundo.es/internacional/2026/09/16/6aaa2cfffc6c837c398b45ca.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Wed, 16 Sep 2026 10:10:03 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_6f027a6d00",
+          "titulo": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
+          "url": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 18 Sep 2026 01:31:43 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6af4d2dcfc",
+          "titulo": "US approves $24.3 billion sale of 48 F-35 warplanes to Saudi Arabia",
+          "url": "https://www.france24.com/en/middle-east/20260918-us-approves-24-3-billion-sale-of-48-f-35-warplanes-to-saudi-arabia",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 18 Sep 2026 06:29:47 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_66ce54f503",
+          "titulo": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities",
+          "url": "https://www.who.int/news/item/24-02-2025-who-and-the-kingdom-of-saudi-arabia-sign-agreements-in-support-of-health-priorities",
+          "fuente": "WHO News",
+          "fecha": "Thu, 06 Mar 2025 12:48:53 Z",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d03482c65f",
+          "titulo": "Oil prices fall for third day on Saudi Arabia supply hopes; U.S. crude briefly dips below $100",
+          "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Fri, 18 Sep 2026 08:29:35 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_03f239ef66",
+          "titulo": "Saudi Arabia is now pushing to export more oil through the Strait of Hormuz",
+          "url": "https://www.marketwatch.com/story/saudi-arabia-is-now-pushing-to-export-more-oil-through-the-strait-of-hormuz-bcce044b?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Thu, 17 Sep 2026 19:52:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-18_0002",
+      "fecha": "2026-09-18",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-09-18_0001",
+        "nd_2026-09-18_0003",
+        "nd_2026-09-18_0004",
+        "nd_2026-09-18_0010"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Trump es fotografiado con un cartel sobre la demolición del Kennedy Center en EE. UU.",
+        "en": "AFP photo shows Trump examining image of apparent Kennedy Center razing"
+      },
+      "sintesis": {
+        "es": "Imágenes captadas por un fotógrafo de AFP muestran al presidente estadounidense, Donald Trump, a bordo del Air Force One, examinando una copia impresa sobre el Kennedy Center en la que parece leerse la palabra \"demolido\". La foto se tomó después de que el mandatario advirtiera que el centro de artes escénicas podría ser destruido. Horas más tarde, su Administración alegó ante un tribunal que el recinto debía cerrarse debido a un \"deterioro estructural\", el último giro en la disputa de Trump por vincular su nombre al edificio.",
+        "en": "An AFP photo of Donald Trump examining a depiction of Washington's Kennedy Center apparently being demolished sparked widespread attention Thursday after the president threatened to tear down the revered arts venue because he has been blocked from renaming it after himself. FRANCE 24's Fraser Jackson reports from Washington."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Kennedy Center",
+        "Trump",
+        "AFP",
+        "True"
+      ],
+      "geo": {
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
+      },
+      "impacto": 91,
+      "fuentes": [
+        "ev_12ae4a276e",
+        "ev_83d4e76773",
+        "ev_2ee847c3c9",
+        "ev_6db983e7e2",
+        "ev_a8413f96a9",
+        "ev_a6b7d86a6a"
+      ],
+      "cluster_id": "cl_050",
+      "imagenes": [
+        "https://s.france24.com/media/display/9c48e9ba-b307-11f1-87ac-7922de457103/w:1024/p:16x9/ES-20260917-191209-191406-CS.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894976034409.jpg",
+        "https://s.france24.com/media/display/6d25a13c-b2d5-11f1-be23-430f3874e448/w:1024/p:16x9/EN-20260917-220927-221244-CS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_12ae4a276e",
+          "titulo": "Trump es fotografiado con un cartel sobre la demolición del Kennedy Center en EE. UU.",
+          "url": "https://www.france24.com/es/video/20260918-trump-es-fotografiado-con-un-cartel-sobre-la-demolici%C3%B3n-del-kennedy-center-en-ee-uu",
+          "fuente": "France 24 Espanol",
+          "fecha": "Fri, 18 Sep 2026 02:43:36 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_83d4e76773",
+          "titulo": "Un juez federal impide que el nombre de Trump vuelva a figurar en el exterior del Kennedy Center",
+          "url": "https://www.elmundo.es/internacional/2026/09/15/6aa98fd1e85ece19588b457d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Wed, 16 Sep 2026 07:14:36 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_2ee847c3c9",
+          "titulo": "AFP photo shows Trump examining image of apparent Kennedy Center razing",
+          "url": "https://www.france24.com/en/afp-photo-shows-trump-examining-image-of-apparent-kennedy-center-razing",
+          "fuente": "France 24 English",
+          "fecha": "Thu, 17 Sep 2026 20:27:28 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6db983e7e2",
+          "titulo": "True or false: Trump's name is now on the Kennedy Center. The quiz has the answer",
+          "url": "https://www.npr.org/2026/09/18/g-s1-143768/celine-dion-trump-kennedy-center-emmys-news-quiz",
+          "fuente": "NPR News",
+          "fecha": "Fri, 18 Sep 2026 05:01:00 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a8413f96a9",
+          "titulo": "Judge orders Kennedy Center to give 30-day notice before any major changes — including demolition",
+          "url": "https://www.cbc.ca/news/world/kennedy-center-trump-renovation-demolition-judge-9.7348394?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Thu, 17 Sep 2026 14:54:41 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_a6b7d86a6a",
+          "titulo": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
+          "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Thu, 17 Sep 2026 20:22:20 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-18_0003",
+      "fecha": "2026-09-18",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-09-18_0000",
+        "nd_2026-09-18_0001",
+        "nd_2026-09-18_0002",
+        "nd_2026-09-18_0004",
+        "nd_2026-09-18_0006",
+        "nd_2026-09-18_0009",
+        "nd_2026-09-18_0010"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Aparato represivo y torturas permanecen con el chavismo trumpista de Delcy Rodríguez",
+        "en": "Trump determined to end Iran war soon, US president's senior adviser tells Euronews"
+      },
+      "sintesis": {
+        "es": "La ONU ratifica que, a pesar de los cambios limitados tras la caída de Nicolás Maduro, la opresión y crímenes de lesa humanidad continúan intactos en Venezuela bajo la cúpula de Diosdado Cabello Leer",
+        "en": "Massad Boulos, senior adviser to the US president on Arab and Middle Eastern affairs, said Donald Trump was working to end the months-long war, pointing out he was a \"person who delivers\"."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Trump",
+        "Delcy",
+        "Venezuela",
+        "ONU"
+      ],
+      "geo": {
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
+      },
+      "impacto": 86,
+      "fuentes": [
+        "ev_06d49cff85",
+        "ev_a62899ee08",
+        "ev_6d06f343a6",
+        "ev_e6bdbff5b7",
+        "ev_a533534e57",
+        "ev_61276e001d",
+        "ev_1385f19d24",
+        "ev_d47597edf6"
+      ],
+      "cluster_id": "cl_004",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/541f/live/5aca14a0-b28a-11f1-8096-b33a1297275a.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c48/live/b8ffc060-b1bd-11f1-bdcf-d393eb724fa3.jpg",
+        "https://imagenes.elpais.com/resizer/v2/VJB5VFL7SBDOPKQ6VRGCKQ3JBY.jpg?auth=cdbbffe4c597fafe2da109e6204693aecfd72d3d82edf3f3ba6b9ea22c73d7a7",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895753579759.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_06d49cff85",
+          "titulo": "El caso de los 3 estadounidenses que denunciaron torturas en Venezuela y por el que el gobierno de Trump pidió inmunidad para Delcy Rodríguez",
+          "url": "https://www.bbc.com/mundo/articles/crl6j975nz5o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Thu, 17 Sep 2026 11:26:32 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_a62899ee08",
+          "titulo": "Por qué las principales petroleras de EE.UU. no participan en el \"mayor acuerdo de la historia\" firmado por los gobiernos de Trump y Delcy Rodríguez",
+          "url": "https://www.bbc.com/mundo/articles/ck1l6rypgg80o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Tue, 15 Sep 2026 18:28:49 GMT",
+          "idioma": "es"
+        },
         {
           "id": "ev_6d06f343a6",
           "titulo": "Trump saca a Venezuela de la lista de países que no luchan contra el narcotráfico y mantiene a Colombia",
@@ -1176,11 +584,27 @@
           "idioma": "es"
         },
         {
-          "id": "ev_303e0710e8",
-          "titulo": "EE.UU. destaca la cooperación de Venezuela en la lucha contra el narcotráfico",
-          "url": "https://es.euronews.com/2026/09/16/eeuu-destaca-la-cooperacion-de-venezuela-en-la-lucha-contra-el-narcotrafico",
-          "fuente": "Euronews Espanol",
-          "fecha": "Wed, 16 Sep 2026 23:05:40 +0200",
+          "id": "ev_e6bdbff5b7",
+          "titulo": "Aparato represivo y torturas permanecen con el chavismo trumpista de Delcy Rodríguez",
+          "url": "https://www.elmundo.es/internacional/2026/09/16/6aaac080e85ece323e8b4571.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Wed, 16 Sep 2026 18:28:15 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_a533534e57",
+          "titulo": "Trump pretende reunirse con Delcy Rodríguez durante la Asamblea de la ONU",
+          "url": "https://www.elmundo.es/internacional/2026/09/18/6aac6a43fdddff331a8b4587.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 18 Sep 2026 08:09:58 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_61276e001d",
+          "titulo": "EEUU concede en plena guerra con Irán visados a este país para que asista a la Asamblea General de la ONU",
+          "url": "https://www.elmundo.es/internacional/2026/09/17/6aac3584fdddff2b1e8b457d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Thu, 17 Sep 2026 20:55:37 +0200",
           "idioma": "es"
         },
         {
@@ -1190,121 +614,715 @@
           "fuente": "El Mundo Internacional",
           "fecha": "Wed, 16 Sep 2026 19:37:54 +0200",
           "idioma": "es"
+        },
+        {
+          "id": "ev_d47597edf6",
+          "titulo": "Trump determined to end Iran war soon, US president's senior adviser tells Euronews",
+          "url": "https://www.euronews.com/2026/09/17/trump-determined-to-end-iran-war-soon-us-presidents-senior-adviser-tells-euronews",
+          "fuente": "Euronews English",
+          "fecha": "Thu, 17 Sep 2026 18:31:58 +0200",
+          "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-17_0011",
-      "fecha": "2026-09-17",
-      "kardashev": "K0",
+      "id": "nd_2026-09-18_0004",
+      "fecha": "2026-09-18",
+      "kardashev": "K2",
       "relaciones": [
-        "nd_2026-09-17_0000",
-        "nd_2026-09-17_0001",
-        "nd_2026-09-17_0002",
-        "nd_2026-09-17_0008"
+        "nd_2026-09-18_0000",
+        "nd_2026-09-18_0001",
+        "nd_2026-09-18_0002",
+        "nd_2026-09-18_0003",
+        "nd_2026-09-18_0006",
+        "nd_2026-09-18_0009",
+        "nd_2026-09-18_0010"
       ]
     },
     {
       "titulo": {
-        "es": "La farmacéutica danesa Novo usa Claude de Anthropic para impulsar la búsqueda de fármacos con IA",
-        "en": "Danish pharma giant Novo to use Anthropic’s Claude to advance AI drug discovery"
+        "es": "¿Qué se puede entender por integrante asociado de la UE y por qué Canadá?",
+        "en": "Canada wants into Britain's rapid-response defence club"
       },
       "sintesis": {
-        "es": "El acuerdo refleja el esfuerzo creciente de las farmacéuticas por incorporar la inteligencia artificial a la investigación y el desarrollo y así acelerar el descubrimiento de nuevos fármacos.",
-        "en": "The deal underscores a broader push by drugmakers to integrate AI across research and development to boost new drug discovery."
+        "es": "Durante la visita del primer ministro de Canadá, Mark Carney, a Estrasburgo, la presidenta de la Comisión Europea, Ursula von der Leyen, propuso a ese país convertirse en el primer miembro asociado de la Unión Europea. Para que la propuesta prospere, debe ser aprobada por cada uno de los miembros de la UE, pero la idea ya genera descontento en Estados Unidos. Para entender el tema, hablamos con Emiliano García Coso, profesor de Derecho de la Unión Europea y Derecho Internacional en la Universidad Pontificia Comillas, y analista político en el #InvitadoDelDíaF24.",
+        "en": "Canada has formally applied to join the United Kingdom's Joint Expeditionary Force, reversing a decision made more than a decade ago. Born from the Afghanistan war and reshaped by Russia's invasion of Ukraine, the coalition promises speed and flexibility — but raises an old question about what Canada is actually committing itself to."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Canada",
+        "Britain"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 83,
+      "fuentes": [
+        "ev_6484b04d5b",
+        "ev_c1eca3039f",
+        "ev_67dda4b952",
+        "ev_e77ce4c605",
+        "ev_5df3650ad8"
+      ],
+      "cluster_id": "cl_059",
+      "imagenes": [
+        "https://s.france24.com/media/display/67a825d0-b2ea-11f1-bb30-61f6f55d211c/w:1024/p:16x9/ES-20260917-131506-132505-CS.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c28/live/475f83b0-b2b6-11f1-a430-4d16ee157c41.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_6484b04d5b",
+          "titulo": "¿Qué se puede entender por integrante asociado de la UE y por qué Canadá?",
+          "url": "https://www.france24.com/es/video/20260917-qu%C3%A9-se-puede-entender-por-integrante-asociado-de-la-ue-y-por-qu%C3%A9-canad%C3%A1",
+          "fuente": "France 24 Espanol",
+          "fecha": "Thu, 17 Sep 2026 23:36:27 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_c1eca3039f",
+          "titulo": "La UE y Canadá se acercan como nunca, y el mundo observa atento",
+          "url": "https://es.euronews.com/my-europe/2026/09/18/la-ue-y-canada-se-acercan-como-nunca-y-el-mundo-observa-atento",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 18 Sep 2026 08:01:52 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_67dda4b952",
+          "titulo": "Canada welcomes EU proposal to become 'associate member'",
+          "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Thu, 17 Sep 2026 12:27:18 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e77ce4c605",
+          "titulo": "The EU and Canada are getting closer than ever. And the world is watching",
+          "url": "https://www.euronews.com/my-europe/2026/09/18/the-eu-and-canada-are-getting-closer-than-ever-and-the-world-is-watching",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 18 Sep 2026 07:00:15 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5df3650ad8",
+          "titulo": "Canada wants into Britain's rapid-response defence club",
+          "url": "https://www.cbc.ca/news/politics/canada-britain-military-expeditionary-force-nato-9.7347144?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Wed, 16 Sep 2026 18:39:25 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-18_0005",
+      "fecha": "2026-09-18",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-09-18_0001"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Dan Wang: “China nunca superará a Estados Unidos”",
+        "en": "Trump gains a tariff weapon against China and India. Will he use it?"
+      },
+      "sintesis": {
+        "es": "El investigador canadiense nacido en China, Dan Wang, trabaja en la Hoover Institution de la Universidad de Stanford en Estados Unidos y es el autor del libro Breakneck: China's Quest to Engineer the Future. En esta entrevista con RFI explica que la clave para entender el enfrentamiento entre Pekín y Washington es que existe un “Estado ingeniero” chino frente a un “Estado legalista” estadounidense. ¿Cómo pueden las dos superpotencias evitar la confrontación?",
+        "en": "House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China."
+      },
+      "categoria": "economia",
+      "actores": [
+        "Estados Unidos",
+        "Trump",
+        "China",
+        "Crece"
+      ],
+      "geo": {
+        "lat": 61.5,
+        "lon": 105.3,
+        "region": "Rusia"
+      },
+      "impacto": 82,
+      "fuentes": [
+        "ev_5ed5f26e3d",
+        "ev_e4ab19f4e8",
+        "ev_c83e35b851",
+        "ev_26871bc394",
+        "ev_55f34e904b"
+      ],
+      "cluster_id": "cl_048",
+      "imagenes": [
+        "https://s.france24.com/media/display/c57c0de2-b2ff-11f1-928f-1d1125ed9143/w:1024/p:16x9/ICE-3.jpg",
+        "https://s.rfi.fr/media/display/16027672-b213-11f1-9edb-4daf57bffe27/w:1024/p:16x9/2026-09-04T175734Z-2125860088-RC2CELAJMQU1-RTRMADP-3-USA-FED-JOBS-RATES.jpg",
+        "https://s.rfi.fr/media/display/6dbabcb0-b0c1-11f1-8e4d-005056a97e36/w:1024/p:16x9/dan-wang-HD-horizontale.jpeg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/436c/live/ce668a40-b2b4-11f1-819c-176371125270.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5ed5f26e3d",
+          "titulo": "Crece el número de exiliados nicaragüenses detenidos por ICE en Estados Unidos",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260918-crece-el-n%C3%BAmero-de-exiliados-nicarag%C3%BCenses-detenidos-por-ice-en-estados-unidos",
+          "fuente": "France 24 Espanol",
+          "fecha": "Fri, 18 Sep 2026 02:43:00 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_e4ab19f4e8",
+          "titulo": "Estados Unidos: la Fed sube las tasas para frenar la inflación, en contra de las exigencias de Trump",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260917-estados-unidos-la-fed-sube-las-tasas-para-frenar-la-inflaci%C3%B3n-en-contra-de-las-exigencias-de-trump",
+          "fuente": "RFI Espanol",
+          "fecha": "Thu, 17 Sep 2026 09:38:26 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_c83e35b851",
+          "titulo": "Dan Wang: “China nunca superará a Estados Unidos”",
+          "url": "https://www.rfi.fr/es/economia/20260915-dan-wang-china-nunca-superar%C3%A1-a-estados-unidos",
+          "fuente": "RFI Espanol",
+          "fecha": "Tue, 15 Sep 2026 14:44:42 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_26871bc394",
+          "titulo": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+          "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Thu, 17 Sep 2026 17:08:00 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_55f34e904b",
+          "titulo": "Trump gains a tariff weapon against China and India. Will he use it?",
+          "url": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Thu, 17 Sep 2026 08:46:04 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-18_0006",
+      "fecha": "2026-09-18",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-09-18_0000",
+        "nd_2026-09-18_0001",
+        "nd_2026-09-18_0003",
+        "nd_2026-09-18_0004",
+        "nd_2026-09-18_0009"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "OpenAI, Anthropic y Google trabajan en la creación de un organismo regulador de la IA",
+        "en": "Protesters target OpenAI and Anthropic in San Francisco over AI safety fears"
+      },
+      "sintesis": {
+        "es": "OpenAI, Anthropic y Google DeepMind están trabajando en la creación de un organismo de supervisión de los riesgos relacionados con la inteligencia artificial (IA), en respuesta a los llamados para controlar mejor los abusos de esta tecnología. El proyecto ya ha recibido críticas y corre el riesgo de quedar bloqueado por motivos políticos. Estos tres actores clave de la IA abogan, en particular, por la creación de un organismo de control y supervisión capaz de rechazar los proyectos más peligrosos.",
+        "en": "Protesters in San Francisco urged OpenAI and Anthropic to pause powerful AI, calling for global rules and an AI emergency amid safety and climate fears."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "OpenAI",
+        "Anthropic",
+        "San Francisco",
+        "Google"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 77,
+      "fuentes": [
+        "ev_8c6b731825",
+        "ev_372870cd04",
+        "ev_92cdad1ffa",
+        "ev_c5acfff377"
+      ],
+      "cluster_id": "cl_071",
+      "imagenes": [
+        "https://s.rfi.fr/media/display/edcab250-9016-11f1-a0d3-005056a90284/w:1024/p:16x9/Un-t%C3%A9l%C3%A9phone-avec-certaines-des-principales-applications-bas%C3%A9es-sur-l-intelligence-artificielle-%C3%A0-Saint-Mand%C3%A9-en-France-le-15-juillet-2026.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8c6b731825",
+          "titulo": "OpenAI, Anthropic y Google trabajan en la creación de un organismo regulador de la IA",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260916-openai-anthropic-y-google-trabajan-en-la-creaci%C3%B3n-de-un-organismo-regulador-de-la-ia",
+          "fuente": "RFI Espanol",
+          "fecha": "Wed, 16 Sep 2026 11:56:35 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_372870cd04",
+          "titulo": "Manifestantes protestan contra OpenAI y Anthropic en San Francisco por temor a la seguridad de la IA",
+          "url": "https://es.euronews.com/video/2026/09/18/manifestantes-protestan-contra-openai-y-anthropic-en-san-francisco-por-temor-a-la-segurida",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 18 Sep 2026 09:04:17 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_92cdad1ffa",
+          "titulo": "Protesters target OpenAI and Anthropic in San Francisco over AI safety fears",
+          "url": "https://www.euronews.com/video/2026/09/18/protesters-target-openai-and-anthropic-in-san-francisco-over-ai-safety-fears",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 18 Sep 2026 09:02:57 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c5acfff377",
+          "titulo": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
+          "url": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Thu, 17 Sep 2026 09:00:01 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-18_0007",
+      "fecha": "2026-09-18",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "New cat species identified for first time in more than a century in Bolivia",
+        "en": "New cat species identified for first time in more than a century in Bolivia"
+      },
+      "sintesis": {
+        "es": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking the first time a new living feline species has been formally named and described in more than a century. The cat, called tilcayo by local communities, is part of a group called tiger ⁠cats found across much of South ⁠America. It was found in Bolivia’s ​lush Yungas forest, a mountainous region where forests are often covered by clouds and surrounded by high humidity, according to researchers.",
+        "en": "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking the first time a new living feline species has been formally named and described in more than a century. The cat, called tilcayo by local communities, is part of a group called tiger ⁠cats found across much of South ⁠America. It was found in Bolivia’s ​lush Yungas forest, a mountainous region where forests are often covered by clouds and surrounded by high humidity, according to researchers."
       },
       "categoria": "ciencia",
       "actores": [
-        "Novo",
-        "Claude",
-        "Anthropic",
-        "Danish"
+        "New",
+        "Bolivia"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 46,
+      "impacto": 75,
       "fuentes": [
-        "ev_609ee66ec3",
-        "ev_a2eaedebd8"
+        "ev_331725a150",
+        "ev_b750b0e8ab",
+        "ev_af3492e285",
+        "ev_366e994d52",
+        "ev_e5d62c321c",
+        "ev_00456493b4"
       ],
-      "cluster_id": "cl_103",
-      "imagenes": [],
+      "cluster_id": "cl_174",
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/3434cb2b735cf3a888007c59b6864fb6b3284902/492_0_4917_3934/master/4917.jpg?width=140&quality=85&auto=format&fit=max&s=ad420e896e9ea2421da0e78b9b182d5f",
+        "https://e3.365dm.com/26/09/1920x1080/skynews-leopardus-tilcayo-cat_7355074.jpg?20260918071037",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/first-new-wildcat-disc-1.jpg",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/unlocking-the-cosmic-r.jpg"
+      ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_609ee66ec3",
-          "titulo": "La farmacéutica danesa Novo usa Claude de Anthropic para impulsar la búsqueda de fármacos con IA",
-          "url": "https://es.euronews.com/salud/2026/09/16/la-farmaceutica-danesa-novo-usa-claude-de-anthropic-para-impulsar-la-busqueda-de-farmacos",
-          "fuente": "Euronews Espanol",
-          "fecha": "Wed, 16 Sep 2026 17:27:39 +0200",
-          "idioma": "es"
+          "id": "ev_331725a150",
+          "titulo": "New cat species identified for first time in more than a century in Bolivia",
+          "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+          "fuente": "The Guardian World",
+          "fecha": "Thu, 17 Sep 2026 20:43:38 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_a2eaedebd8",
-          "titulo": "Danish pharma giant Novo to use Anthropic’s Claude to advance AI drug discovery",
-          "url": "https://www.euronews.com/health/2026/09/16/danish-pharma-giant-novo-to-use-anthropics-claude-to-advance-ai-drug-discovery",
-          "fuente": "Euronews English",
-          "fecha": "Wed, 16 Sep 2026 17:26:15 +0200",
+          "id": "ev_b750b0e8ab",
+          "titulo": "New tiger cat species identified in Bolivia, first in over a century",
+          "url": "https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Fri, 18 Sep 2026 04:16:28 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_af3492e285",
+          "titulo": "New species of wild cat identified in Bolivia - first for more than 100 years",
+          "url": "https://news.sky.com/story/new-species-of-wild-cat-identified-in-bolivia-first-for-more-than-100-years-13589190",
+          "fuente": "Sky News World",
+          "fecha": "Fri, 18 Sep 2026 08:00:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_366e994d52",
+          "titulo": "Bolivia's tilcayo tiger cat becomes first new wildcat species in 100 years",
+          "url": "https://phys.org/news/2026-09-bolivia-tilcayo-tiger-cat-wildcat.html",
+          "fuente": "Phys.org",
+          "fecha": "Fri, 18 Sep 2026 02:49:43 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e5d62c321c",
+          "titulo": "New mesothelioma drug turns cancer’s own defenses against it",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Thu, 17 Sep 2026 01:11:51 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_00456493b4",
+          "titulo": "New krypton-88 data narrow a key gap in stellar strontium models",
+          "url": "https://phys.org/news/2026-09-krypton-narrow-key-gap-stellar.html",
+          "fuente": "Phys.org",
+          "fecha": "Thu, 17 Sep 2026 18:40:06 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-17_0012",
-      "fecha": "2026-09-17",
-      "kardashev": "K2",
+      "id": "nd_2026-09-18_0008",
+      "fecha": "2026-09-18",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "El Supremo rechaza las restricciones de Trump al voto por correo para las legislativas",
+        "en": "Is Trump’s AI obsession walking the world into disaster? – podcast"
+      },
+      "sintesis": {
+        "es": "La reforma del republicano ponía en riesgo el sufragio de millones de personas por no haber tiempo suficiente para que los Estados implementaran las nuevas normas",
+        "en": "Tech bosses have called for a slowdown in artificial intelligence and the creation of formal guardrails from the US government. But why is President Trump unmoved by the doomsday predictions, dismissing them as a ‘hoax’? What lies behind his embrace of the AI industry?"
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Trump",
+        "Supremo"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 74,
+      "fuentes": [
+        "ev_fe6f394953",
+        "ev_d16a4564d1",
+        "ev_1890945b5b",
+        "ev_8d3ffb495c",
+        "ev_3bfad2bdae"
+      ],
+      "cluster_id": "cl_045",
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/FYBFVU7BOFANJA35F45PENPPZ4.jpg?auth=563f2ea83b467451c01cf5c993fc1c1d621ef395b340dec165c978c04005dc19",
+        "https://imagenes.elpais.com/resizer/v2/7UVZKDIE55NNTMWQWDDB6UOTIU.jpg?auth=14f7543fd40626cb030905358ae7fdd8b9c7b96b0d7e82e6615190ce0acbfb43",
+        "https://i.guim.co.uk/img/media/f61f03adb43dbaa65520c5df9a732a8ef4c60824/43_0_4379_3504/master/4379.jpg?width=140&quality=85&auto=format&fit=max&s=706e10364c9b94f76db198166a6f4c99",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/north-atlantic-right-w.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_fe6f394953",
+          "titulo": "Trump carga contra sus jueces en el Supremo tras su fallo sobre el voto por correo: “Estas no fueron las personas que entrevisté”",
+          "url": "https://elpais.com/us/2026-09-15/trump-carga-contra-sus-jueces-en-el-supremo-tras-su-fallo-sobre-el-voto-por-correo-esta-no-es-la-gente-que-entreviste.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Tue, 15 Sep 2026 15:46:29 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d16a4564d1",
+          "titulo": "El Supremo rechaza las restricciones de Trump al voto por correo para las legislativas",
+          "url": "https://elpais.com/us/2026-09-15/el-tribunal-suprema-rechaza-por-ahora-las-restricciones-de-trump-al-voto-por-correo-antes-de-las-elecciones-legislativas.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Tue, 15 Sep 2026 00:28:40 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_1890945b5b",
+          "titulo": "Is Trump’s AI obsession walking the world into disaster? – podcast",
+          "url": "https://www.theguardian.com/politics/audio/2026/sep/18/is-trumps-ai-obsession-walking-the-world-into-disaster-podcast",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 18 Sep 2026 04:00:08 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8d3ffb495c",
+          "titulo": "Trump administration moves to cut protections for endangered species",
+          "url": "https://www.euronews.com/2026/09/18/trump-administration-moves-to-cut-protections-for-endangered-species",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 18 Sep 2026 09:30:51 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3bfad2bdae",
+          "titulo": "Trump administration makes major cuts to endangered species protections",
+          "url": "https://phys.org/news/2026-09-trump-administration-overhauls-key-endangered.html",
+          "fuente": "Phys.org",
+          "fecha": "Thu, 17 Sep 2026 17:40:04 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-18_0009",
+      "fecha": "2026-09-18",
+      "kardashev": "K1",
       "relaciones": [
-        "nd_2026-09-17_0007"
+        "nd_2026-09-18_0000",
+        "nd_2026-09-18_0001",
+        "nd_2026-09-18_0003",
+        "nd_2026-09-18_0004",
+        "nd_2026-09-18_0006"
       ]
     },
     {
       "titulo": {
-        "es": "Muere a los 77 años la dramaturga y novelista Bonnie Greer",
-        "en": "Celebrated playwright and novelist Bonnie Greer dies aged 77"
+        "es": "RFK Jr promises anti-vaxxers a ‘friend at the White House’ amid deadly measles outbreak",
+        "en": "RFK Jr promises anti-vaxxers a ‘friend at the White House’ amid deadly measles outbreak"
       },
       "sintesis": {
-        "es": "Greer era conocida por sus incisivas apariciones en televisión y radio y por sus novelas, obras de teatro y ensayos, que exploraban la política, la cultura y la identidad.",
-        "en": "Greer was known for incisive TV and radio appearances and for her novels, plays and essays which delved into politics, culture and identity."
+        "es": "The US health secretary added that he would’ve made sweeping changes ‘on day one’ but he had to follow the law As the death toll from the worst measles outbreak in decades rises, Robert F Kennedy Jr headlined the Washington DC conference of the anti-vaccine organization Children’s Health Defense, which he led for nearly a decade. “Let me be clear. You have a strong and steadfast friend at the White House,” Kennedy, now serving as secretary of the US Department of Health and Human Services (HHS), told anti-vaccine activists at the conference in a nearly hour-and-a-half-long speech.",
+        "en": "The US health secretary added that he would’ve made sweeping changes ‘on day one’ but he had to follow the law As the death toll from the worst measles outbreak in decades rises, Robert F Kennedy Jr headlined the Washington DC conference of the anti-vaccine organization Children’s Health Defense, which he led for nearly a decade. “Let me be clear. You have a strong and steadfast friend at the White House,” Kennedy, now serving as secretary of the US Department of Health and Human Services (HHS), told anti-vaccine activists at the conference in a nearly hour-and-a-half-long speech."
       },
-      "categoria": "sociedad",
+      "categoria": "salud",
       "actores": [
-        "Bonnie Greer",
-        "Muere",
-        "Celebrated"
+        "White House",
+        "Lance Schroyer",
+        "ICE",
+        "Zara Larsson"
+      ],
+      "geo": {
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
+      },
+      "impacto": 66,
+      "fuentes": [
+        "ev_c69e3125d4",
+        "ev_6b9159e183",
+        "ev_fa6b77208e",
+        "ev_9b91bd9b98"
+      ],
+      "cluster_id": "cl_152",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b13/live/b52dd380-b2ff-11f1-8876-8f16a6fa8729.jpg",
+        "https://i.guim.co.uk/img/media/fa84483c3a1db400a8d6294df25cc82112475156/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=cbfb9dc24ff6e6f53bd3821efbe97ae4"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c69e3125d4",
+          "titulo": "Zara Larsson criticises White House for using her song in deportation video",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7d3l0y2zpo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 18 Sep 2026 01:20:33 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6b9159e183",
+          "titulo": "RFK Jr promises anti-vaxxers a ‘friend at the White House’ amid deadly measles outbreak",
+          "url": "https://www.theguardian.com/us-news/2026/sep/17/rfk-jr-measles-anti-vaccine-organization",
+          "fuente": "The Guardian World",
+          "fecha": "Thu, 17 Sep 2026 19:59:55 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_fa6b77208e",
+          "titulo": "White House withdraws Lance Schroyer’s nomination to lead ICE",
+          "url": "https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Fri, 18 Sep 2026 01:23:44 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9b91bd9b98",
+          "titulo": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
+          "url": "https://www.npr.org/2026/09/17/nx-s1-5973271/trump-withdraws-lance-schroyer-a-former-oklahoma-state-trooper-as-his-nominee-to-lead-ice",
+          "fuente": "NPR News",
+          "fecha": "Thu, 17 Sep 2026 17:17:39 -0400",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-18_0010",
+      "fecha": "2026-09-18",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-09-18_0001",
+        "nd_2026-09-18_0002",
+        "nd_2026-09-18_0003",
+        "nd_2026-09-18_0004"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Japan raises interest rates to 31-year high to curb impact of rising prices",
+        "en": "Japan raises interest rates to 31-year high to curb impact of rising prices"
+      },
+      "sintesis": {
+        "es": "Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy Business live – latest updates Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat high global inflation linked to the war in Iran. The Bank of Japan voted to raise its target interest rate from 1% to 1.25%, the highest level since 1995. Continue reading...",
+        "en": "Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy Business live – latest updates Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat high global inflation linked to the war in Iran. The Bank of Japan voted to raise its target interest rate from 1% to 1.25%, the highest level since 1995. Continue reading..."
+      },
+      "categoria": "economia",
+      "actores": [
+        "Japan",
+        "Bank"
+      ],
+      "geo": {
+        "lat": 36.2,
+        "lon": 138.3,
+        "region": "Asia Oriental"
+      },
+      "impacto": 58,
+      "fuentes": [
+        "ev_adf883481e",
+        "ev_81e02afb46",
+        "ev_f2ac427670",
+        "ev_3b7086a4b9"
+      ],
+      "cluster_id": "cl_179",
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/3aeb82702262ebf90109ebf3770da9384ab4c501/344_0_4087_3271/master/4087.jpg?width=140&quality=85&auto=format&fit=max&s=3f01664f377b8254c438db8845f46897"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_adf883481e",
+          "titulo": "Japan raises interest rates to 31-year high to curb impact of rising prices",
+          "url": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 18 Sep 2026 07:14:13 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_81e02afb46",
+          "titulo": "Bank of Japan raises rates to 31-year high of 1.25% as inflation rises",
+          "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Fri, 18 Sep 2026 03:20:20 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f2ac427670",
+          "titulo": "Bank of Japan hikes rates to 31-year high to battle inflation",
+          "url": "https://www.euronews.com/business/2026/09/18/japans-central-bank-raises-benchmark-interest-rate-to-125",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 18 Sep 2026 07:14:48 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3b7086a4b9",
+          "titulo": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+          "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Fri, 18 Sep 2026 03:31:45 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-18_0011",
+      "fecha": "2026-09-18",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-09-18_0000"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Microsoft advierte que la IA sin control podría dar lugar a una \"especie no humana\" que compita con las personas",
+        "en": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft"
+      },
+      "sintesis": {
+        "es": "El responsable de IA de Microsoft, Mustafa Suleyman, considera que la empresa rival Anthropic está enseñando a su bot Claude que \"puede ser consciente\".",
+        "en": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\"."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Microsoft",
+        "Uncontrolled"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 46,
+      "impacto": 57,
       "fuentes": [
-        "ev_234fadcf0c",
-        "ev_bee30092a8"
+        "ev_b7cd9ae304",
+        "ev_9455a6d36a",
+        "ev_b5d11775e0"
       ],
-      "cluster_id": "cl_107",
+      "cluster_id": "cl_009",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-907415308-1152x648.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_b7cd9ae304",
+          "titulo": "Microsoft advierte que la IA sin control podría dar lugar a una \"especie no humana\" que compita con las personas",
+          "url": "https://www.bbc.com/mundo/articles/ck5ylr62r9r6o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Thu, 17 Sep 2026 16:19:20 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_9455a6d36a",
+          "titulo": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+          "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Thu, 17 Sep 2026 08:22:12 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b5d11775e0",
+          "titulo": "Microsoft exec called AI scraping the “largest theft of labor in human history”",
+          "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+          "fuente": "Ars Technica",
+          "fecha": "Thu, 17 Sep 2026 20:10:41 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-18_0012",
+      "fecha": "2026-09-18",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Chaparrón en Florencia, llueve dentro de los Uffizi y del histórico Palacio Pitti",
+        "en": "Cloudburst in Florence: rain pours into the Uffizi and historic Palazzo Pitti"
+      },
+      "sintesis": {
+        "es": "En la Galería de los Uffizi se ha registrado una filtración de agua bajo el lucernario de la sala con siete cuadros del siglo XVII, entre ellos el 'Baco' de Caravaggio. La lluvia ha entrado también en el Palacio Pitti, donde se han cerrado algunas salas de la Galería de Arte Moderno.",
+        "en": "At the Uffizi Gallery, water leaked under the skylight of a room holding seven 17th-century paintings including Caravaggio's Bacchus. Rain entered Palazzo Pitti, closing rooms in the Modern Art Gallery."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Uffizi",
+        "Florencia",
+        "Palacio Pitti",
+        "Cloudburst"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_4371bab1c0",
+        "ev_6a231ff954"
+      ],
+      "cluster_id": "cl_108",
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_234fadcf0c",
-          "titulo": "Muere a los 77 años la dramaturga y novelista Bonnie Greer",
-          "url": "https://es.euronews.com/cultura/2026/09/16/muere-a-los-77-anos-la-dramaturga-y-novelista-bonnie-greer",
+          "id": "ev_4371bab1c0",
+          "titulo": "Chaparrón en Florencia, llueve dentro de los Uffizi y del histórico Palacio Pitti",
+          "url": "https://es.euronews.com/cultura/2026/09/17/chaparron-en-florencia-llueve-dentro-de-los-uffizi-y-del-historico-palacio-pitti",
           "fuente": "Euronews Espanol",
-          "fecha": "Wed, 16 Sep 2026 16:40:47 +0200",
+          "fecha": "Thu, 17 Sep 2026 19:10:46 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_bee30092a8",
-          "titulo": "Celebrated playwright and novelist Bonnie Greer dies aged 77",
-          "url": "https://www.euronews.com/culture/2026/09/16/celebrated-playwright-and-novelist-bonnie-greer-dies-aged-77",
+          "id": "ev_6a231ff954",
+          "titulo": "Cloudburst in Florence: rain pours into the Uffizi and historic Palazzo Pitti",
+          "url": "https://www.euronews.com/culture/2026/09/17/cloudburst-in-florence-rain-pours-into-the-uffizi-and-historic-palazzo-pitti",
           "fuente": "Euronews English",
-          "fecha": "Wed, 16 Sep 2026 16:39:35 +0200",
+          "fecha": "Thu, 17 Sep 2026 19:10:54 +0200",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-17_0013",
-      "fecha": "2026-09-17",
-      "kardashev": "K0",
+      "id": "nd_2026-09-18_0013",
+      "fecha": "2026-09-18",
+      "kardashev": "K1",
       "relaciones": []
     }
   ]

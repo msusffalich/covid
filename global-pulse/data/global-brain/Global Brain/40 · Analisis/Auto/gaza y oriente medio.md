@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-17
-nodos: 21
+actualizado: 2026-09-18
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-17. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-18. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-21 nodos registrados en el periodo. Lo mas reciente: ¿Qué implica el rechazo del Supremo a los planes de Trump para restringir el voto por correo?.
+20 nodos registrados en el periodo. Lo mas reciente: ¿Qué implica el rechazo del Supremo a los planes de Trump para restringir el voto por correo?.
 
 ## Trend summary (EN)
-21 nodes recorded in the period. Most recent: Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel.
+20 nodes recorded in the period. Most recent: Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel.
 
 > [!note] Estado actual
 > ¿Qué implica el rechazo del Supremo a los planes de Trump para restringir el voto por correo?
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-16 | 95 | K1 | ¿Qué implica el rechazo del Supremo a los planes de Trump para r |
