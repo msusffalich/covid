@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-09-18
-nodos: 21
+actualizado: 2026-09-19
+nodos: 22
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-18. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-19. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-21 nodos registrados en el periodo. Lo mas reciente: ¿Qué se puede entender por integrante asociado de la UE y por qué Canadá?.
+22 nodos registrados en el periodo. Lo mas reciente: Russia seizes control over assets of Nestle, French firms.
 
 ## Trend summary (EN)
-21 nodes recorded in the period. Most recent: Canada wants into Britain's rapid-response defence club.
+22 nodes recorded in the period. Most recent: Russia seizes control over assets of Nestle, French firms.
 
 > [!note] Estado actual
-> ¿Qué se puede entender por integrante asociado de la UE y por qué Canadá?
+> Russia seizes control over assets of Nestle, French firms
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (22 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-19 | 56 | K0 | Russia seizes control over assets of Nestle, French firms |
+| 2026-09-19 | 45 | K0 | La primera central de fusión láser del mundo se construye en Ale |
 | 2026-09-18 | 83 | K1 | ¿Qué se puede entender por integrante asociado de la UE y por qu |
 | 2026-09-18 | 82 | K1 | Dan Wang: “China nunca superará a Estados Unidos” |
 | 2026-09-16 | 83 | K0 | Russian drone attack on bus kills five in Ukraine's southeast |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-12 | 95 | K1 | A la sombra de las guerras y con la presencia de Rusia, China e  |
 | 2026-09-11 | 95 | K1 | Putin llega a Nueva Delhi para una cumbre de los BRICS marcada p |
 | 2026-09-10 | 95 | K1 | El avión de Zelenski estuvo a punto de ser alcanzado por un dron |
-| 2026-09-10 | 83 | K0 | Russian drones kill at least nine in strikes targeting warehouse |
-| 2026-09-09 | 95 | K1 | Directo a... Washington y la "constructiva" llamada entre Trump  |
 
 [[Global Brain — Inicio|← Inicio]]

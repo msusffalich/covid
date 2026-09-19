@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-18
-nodos: 20
+actualizado: 2026-09-19
+nodos: 21
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-18. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-19. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: ¿Qué implica el rechazo del Supremo a los planes de Trump para restringir el voto por correo?.
+21 nodos registrados en el periodo. Lo mas reciente: ¿En qué consiste el acuerdo entre Trump y Arabia Saudita para la venta de 48 aviones F-35?.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel.
+21 nodes recorded in the period. Most recent: U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis.
 
 > [!note] Estado actual
-> ¿Qué implica el rechazo del Supremo a los planes de Trump para restringir el voto por correo?
+> ¿En qué consiste el acuerdo entre Trump y Arabia Saudita para la venta de 48 aviones F-35?
 
-## Nodos recientes (20 en la ventana)
+## Nodos recientes (21 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-19 | 95 | K1 | ¿En qué consiste el acuerdo entre Trump y Arabia Saudita para la |
+| 2026-09-19 | 91 | K0 | Israel: El documental “Naza” desata la ira de las autoridades y  |
+| 2026-09-19 | 75 | K0 | Google says its Gemini AI model hacked three other companies |
 | 2026-09-16 | 95 | K1 | ¿Qué implica el rechazo del Supremo a los planes de Trump para r |
 | 2026-09-16 | 87 | K1 | En Gaza, los hogares encabezados por mujeres solas enfrentan dec |
 | 2026-09-15 | 95 | K1 | "Un querido amigo": el oligarca ruso cercano a Putin que financi |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-09-11 | 95 | K2 | Argelia rompe relaciones diplomáticas con Emiratos Árabes Unidos |
 | 2026-09-11 | 95 | K1 | Israel mata a cuatro integrantes de una familia en un bombardeo  |
 | 2026-09-10 | 95 | K2 | El impacto incierto de las sanciones contra los asentamientos is |
-| 2026-09-09 | 95 | K1 | Hutíes vs. Arabia Saudita: cómo la guerra entre Irán y Estados U |
-| 2026-09-09 | 74 | K0 | Israel castiga a Reino Unido por liderar denuncia de colonizació |
-| 2026-09-07 | 83 | K0 | Middle East Live: Several killed in Israeli strikes in southern  |
 
 [[Global Brain — Inicio|← Inicio]]
