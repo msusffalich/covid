@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-09-19
-nodos: 22
+actualizado: 2026-09-20
+nodos: 23
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-19. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-20. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-22 nodos registrados en el periodo. Lo mas reciente: Russia seizes control over assets of Nestle, French firms.
+23 nodos registrados en el periodo. Lo mas reciente: Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election.
 
 ## Trend summary (EN)
-22 nodes recorded in the period. Most recent: Russia seizes control over assets of Nestle, French firms.
+23 nodes recorded in the period. Most recent: Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election.
 
 > [!note] Estado actual
-> Russia seizes control over assets of Nestle, French firms
+> Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election
 
-## Nodos recientes (22 en la ventana)
+## Nodos recientes (23 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-20 | 83 | K0 | Hundreds of drones target Moscow on last day of voting in Russia |
 | 2026-09-19 | 56 | K0 | Russia seizes control over assets of Nestle, French firms |
 | 2026-09-19 | 45 | K0 | La primera central de fusión láser del mundo se construye en Ale |
 | 2026-09-18 | 83 | K1 | ¿Qué se puede entender por integrante asociado de la UE y por qu |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-15 | 78 | K2 | US Space Force confirms weapons deployed in space for first time |
 | 2026-09-12 | 95 | K1 | A la sombra de las guerras y con la presencia de Rusia, China e  |
 | 2026-09-11 | 95 | K1 | Putin llega a Nueva Delhi para una cumbre de los BRICS marcada p |
-| 2026-09-10 | 95 | K1 | El avión de Zelenski estuvo a punto de ser alcanzado por un dron |
 
 [[Global Brain — Inicio|← Inicio]]
