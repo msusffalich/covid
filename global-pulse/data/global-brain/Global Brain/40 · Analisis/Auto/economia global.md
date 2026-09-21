@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-20
-nodos: 38
+actualizado: 2026-09-21
+nodos: 37
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-38 nodos registrados en el periodo. Lo mas reciente: Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election.
+37 nodos registrados en el periodo. Lo mas reciente: Trump amenaza con “cortar el comercio” si la UE se asocia con Canadá.
 
 ## Trend summary (EN)
-38 nodes recorded in the period. Most recent: Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election.
+37 nodes recorded in the period. Most recent: Trump reportedly to form health funding board that could veto ‘woke’ initiatives.
 
 > [!note] Estado actual
-> Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election
+> Trump amenaza con “cortar el comercio” si la UE se asocia con Canadá
 
-## Nodos recientes (38 en la ventana)
+## Nodos recientes (37 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-21 | 57 | K0 | Trump amenaza con “cortar el comercio” si la UE se asocia con Ca |
+| 2026-09-21 | 45 | K0 | Volkswagen queda fuera del Euro Stoxx 50 por la caída de su valo |
 | 2026-09-20 | 83 | K0 | Hundreds of drones target Moscow on last day of voting in Russia |
 | 2026-09-20 | 74 | K1 | Trump anuncia que creará una "Fuerza de la IA" que tendrá "un za |
 | 2026-09-20 | 55 | K1 | Bolivia elimina el subsidio al diésel tras aprobar crédito con e |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-17 | 78 | K1 | Arabia Saudita acusa a los hutíes de atacar cerca de La Meca en  |
 | 2026-09-17 | 72 | K1 | La Reserva Federal sube tasas de interés desafiando a Trump |
 | 2026-09-17 | 72 | K1 | Líderes de la IA piden confianza y frenar la carrera armamentist |
-| 2026-09-17 | 61 | K0 | Europe Today: Metsola en exclusiva y Carney en la UE ante la ame |
-| 2026-09-16 | 57 | K0 | La basura de la pesca de EE.UU. y Canadá acaba en las playas de  |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-09-20
+actualizado: 2026-09-21
 nodos: 23
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-23 nodos registrados en el periodo. Lo mas reciente: Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election.
+23 nodos registrados en el periodo. Lo mas reciente: Europe Today: Merz vuelve a estar bajo presión y el mayor ataque ucraniano alcanza Moscú.
 
 ## Trend summary (EN)
-23 nodes recorded in the period. Most recent: Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election.
+23 nodes recorded in the period. Most recent: Merz insists he will stay as German chancellor despite heavy losses in state elections – Europe live.
 
 > [!note] Estado actual
-> Hundreds of drones target Moscow on last day of voting in Russia’s parliamentary election
+> Europe Today: Merz vuelve a estar bajo presión y el mayor ataque ucraniano alcanza Moscú
 
 ## Nodos recientes (23 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-21 | 95 | K0 | Europe Today: Merz vuelve a estar bajo presión y el mayor ataque |
 | 2026-09-20 | 83 | K0 | Hundreds of drones target Moscow on last day of voting in Russia |
 | 2026-09-19 | 56 | K0 | Russia seizes control over assets of Nestle, French firms |
 | 2026-09-19 | 45 | K0 | La primera central de fusión láser del mundo se construye en Ale |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-15 | 95 | K1 | "Un querido amigo": el oligarca ruso cercano a Putin que financi |
 | 2026-09-15 | 78 | K2 | US Space Force confirms weapons deployed in space for first time |
 | 2026-09-12 | 95 | K1 | A la sombra de las guerras y con la presencia de Rusia, China e  |
-| 2026-09-11 | 95 | K1 | Putin llega a Nueva Delhi para una cumbre de los BRICS marcada p |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-09-20
-nodos: 28
+actualizado: 2026-09-21
+nodos: 27
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-28 nodos registrados en el periodo. Lo mas reciente: Nepal exige compensación climática mientras crece el costo de la reconstrucción tras inundaciones glaciares.
+27 nodos registrados en el periodo. Lo mas reciente: Estudio revela que los niños nacidos en Europa hoy sufrirán casi el doble de clima extremo de incendios que sus abuelos.
 
 ## Trend summary (EN)
-28 nodes recorded in the period. Most recent: Nepal demands climate compensation as reconstruction costs mount after glacial floods.
+27 nodes recorded in the period. Most recent: Study finds children born in Europe today will face nearly twice as much extreme fire weather as their grandparents.
 
 > [!note] Estado actual
-> Nepal exige compensación climática mientras crece el costo de la reconstrucción tras inundaciones glaciares
+> Estudio revela que los niños nacidos en Europa hoy sufrirán casi el doble de clima extremo de incendios que sus abuelos
 
-## Nodos recientes (28 en la ventana)
+## Nodos recientes (27 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-21 | 55 | K1 | Estudio revela que los niños nacidos en Europa hoy sufrirán casi |
+| 2026-09-21 | 44 | K1 | En Nepal, los niños están traumatizados tras las mortíferas inun |
 | 2026-09-14 | 78 | K1 | Nepal exige compensación climática mientras crece el costo de la |
 | 2026-09-13 | 48 | K2 | Buscan a más de 100 pasajeros de un buque de Indonesia que estab |
 | 2026-09-13 | 44 | K1 | Nepal cifra la reconstrucción por las inundaciones en el Himalay |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-07 | 74 | K2 | Suspensión masiva de vuelos en el principal aeropuerto de Indone |
 | 2026-09-06 | 58 | K1 | Nuevos rescates con vida diez días después de la catastrófica ri |
 | 2026-09-05 | 78 | K1 | Inundaciones devastadoras en la frontera entre Nepal y China dej |
-| 2026-09-05 | 77 | K1 | Nepal: Rescatan vivos a dos trabajadores atrapados en un túnel d |
-| 2026-09-05 | 57 | K1 | Nepal flooding deaths surpass 900 as needs climb |
 
 [[Global Brain — Inicio|← Inicio]]

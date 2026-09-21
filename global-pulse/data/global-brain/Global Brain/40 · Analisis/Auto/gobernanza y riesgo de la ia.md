@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-20
+actualizado: 2026-09-21
 nodos: 26
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 26 nodos registrados en el periodo. Lo mas reciente: Gemini went rogue, hacked three companies, and Google hid it.
