@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-21
-nodos: 37
+actualizado: 2026-09-22
+nodos: 38
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-21. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-22. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-37 nodos registrados en el periodo. Lo mas reciente: Trump amenaza con “cortar el comercio” si la UE se asocia con Canadá.
+38 nodos registrados en el periodo. Lo mas reciente: Inmigrantes deportados a África: así es la maquinaria de la administración de Trump.
 
 ## Trend summary (EN)
-37 nodes recorded in the period. Most recent: Trump reportedly to form health funding board that could veto ‘woke’ initiatives.
+38 nodes recorded in the period. Most recent: Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war.
 
 > [!note] Estado actual
-> Trump amenaza con “cortar el comercio” si la UE se asocia con Canadá
+> Inmigrantes deportados a África: así es la maquinaria de la administración de Trump
 
-## Nodos recientes (37 en la ventana)
+## Nodos recientes (38 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-22 | 95 | K1 | Inmigrantes deportados a África: así es la maquinaria de la admi |
+| 2026-09-22 | 62 | K2 | Columbia Británica demanda a OpenAI por tiroteo escolar en Tumbl |
 | 2026-09-21 | 57 | K0 | Trump amenaza con “cortar el comercio” si la UE se asocia con Ca |
 | 2026-09-21 | 45 | K0 | Volkswagen queda fuera del Euro Stoxx 50 por la caída de su valo |
 | 2026-09-20 | 83 | K0 | Hundreds of drones target Moscow on last day of voting in Russia |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-18 | 82 | K1 | Dan Wang: “China nunca superará a Estados Unidos” |
 | 2026-09-17 | 83 | K1 | ¿A qué responde la persistencia de la alta inflación en Estados  |
 | 2026-09-17 | 78 | K1 | Arabia Saudita acusa a los hutíes de atacar cerca de La Meca en  |
-| 2026-09-17 | 72 | K1 | La Reserva Federal sube tasas de interés desafiando a Trump |
-| 2026-09-17 | 72 | K1 | Líderes de la IA piden confianza y frenar la carrera armamentist |
 
 [[Global Brain — Inicio|← Inicio]]

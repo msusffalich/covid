@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-21
-nodos: 21
+actualizado: 2026-09-22
+nodos: 22
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-21. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-22. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-21 nodos registrados en el periodo. Lo mas reciente: ¿En qué consiste el acuerdo entre Trump y Arabia Saudita para la venta de 48 aviones F-35?.
+22 nodos registrados en el periodo. Lo mas reciente: Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute.
 
 ## Trend summary (EN)
-21 nodes recorded in the period. Most recent: U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis.
+22 nodes recorded in the period. Most recent: Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute.
 
 > [!note] Estado actual
-> ¿En qué consiste el acuerdo entre Trump y Arabia Saudita para la venta de 48 aviones F-35?
+> Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (22 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-22 | 83 | K0 | Houthis move to seize strategic terrain after Trump calls off ai |
 | 2026-09-19 | 95 | K1 | ¿En qué consiste el acuerdo entre Trump y Arabia Saudita para la |
 | 2026-09-19 | 91 | K0 | Israel: El documental “Naza” desata la ira de las autoridades y  |
 | 2026-09-19 | 75 | K0 | Google says its Gemini AI model hacked three other companies |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-13 | 85 | K1 | Arabia Saudita cierra oleoducto estratégico tras ataque con dron |
 | 2026-09-11 | 95 | K2 | Argelia rompe relaciones diplomáticas con Emiratos Árabes Unidos |
 | 2026-09-11 | 95 | K1 | Israel mata a cuatro integrantes de una familia en un bombardeo  |
-| 2026-09-10 | 95 | K2 | El impacto incierto de las sanciones contra los asentamientos is |
 
 [[Global Brain — Inicio|← Inicio]]

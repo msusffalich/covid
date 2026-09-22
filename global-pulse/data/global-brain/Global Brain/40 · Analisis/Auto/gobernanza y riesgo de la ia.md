@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-21
-nodos: 26
+actualizado: 2026-09-22
+nodos: 28
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-21. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-22. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-26 nodos registrados en el periodo. Lo mas reciente: Gemini went rogue, hacked three companies, and Google hid it.
+28 nodos registrados en el periodo. Lo mas reciente: En directo: la Asamblea General de la ONU comenzará este martes marcada por las guerras en Irán y Ucrania.
 
 ## Trend summary (EN)
-26 nodes recorded in the period. Most recent: Gemini went rogue, hacked three companies, and Google hid it.
+28 nodes recorded in the period. Most recent: British PM Andy Burnham to meet Trump for the first time at the UN in New York.
 
 > [!note] Estado actual
-> Gemini went rogue, hacked three companies, and Google hid it
+> En directo: la Asamblea General de la ONU comenzará este martes marcada por las guerras en Irán y Ucrania
 
-## Nodos recientes (26 en la ventana)
+## Nodos recientes (28 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-22 | 95 | K2 | En directo: la Asamblea General de la ONU comenzará este martes  |
+| 2026-09-22 | 62 | K2 | Columbia Británica demanda a OpenAI por tiroteo escolar en Tumbl |
 | 2026-09-20 | 71 | K1 | Gemini went rogue, hacked three companies, and Google hid it |
 | 2026-09-19 | 75 | K0 | Google says its Gemini AI model hacked three other companies |
 | 2026-09-19 | 45 | K1 | OpenAI, Anthropic y Google trabajan en la creación de un organis |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-15 | 70 | K0 | Microsoft impone límites a la IA en las escuelas de EE UU ante e |
 | 2026-09-14 | 95 | K2 | Trump cuestiona a las "fuerzas negativas" que piden desacelerar  |
 | 2026-09-14 | 57 | K2 | China, regulación o mercado: ¿qué hay detrás de las alertas sobr |
-| 2026-09-14 | 55 | K2 | Exinvestigador y directivo de Anthropic advierten sobre riesgos  |
-| 2026-09-14 | 45 | K1 | Los gigantes de Silicon Valley que ignoran las advertencias sobr |
 
 [[Global Brain — Inicio|← Inicio]]

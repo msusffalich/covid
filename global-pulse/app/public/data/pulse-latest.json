@@ -1,35 +1,35 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-09-21",
-    "generado": "2026-09-21T10:20:46.146170+00:00",
+    "fecha": "2026-09-22",
+    "generado": "2026-09-22T09:36:27.826222+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 771,
-      "clusters": 513,
-      "nodos": 513,
-      "verificados": 513,
-      "duracion_s": 328.2
+      "piezas_ingeridas": 783,
+      "clusters": 526,
+      "nodos": 526,
+      "verificados": 526,
+      "duracion_s": 327.4
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Trump acorta su fin de semana en Camp David y vuelve antes de lo previsto a la Casa Blanca en pleno recrudecimiento del conflicto en Oriente Medio",
-        "en": "CNN, MS NOW, Politico say journalists denied access to White House after Trump ban"
+        "es": "Irán: civiles atrapados entre la represión estatal y los ataques de Estados Unidos",
+        "en": "ICE agent shoots man in Texas after traffic stop, city officials say"
       },
       "sintesis": {
-        "es": "La Casa Blanca no ha dado motivos para explicar la vuelta anticipada pero esta se produce justo después de que los hutíes de Yemen atacaran la capital de Arabia Saudí Leer",
-        "en": "Reporters from three major news organizations — CNN, MS NOW and Politico — were denied access to the White House on Saturday, a day after U.S. President Donald Trump said he was barring them because of reporting he found to be \"fake news.\""
+        "es": "La Misión de la ONU sobre Irán concluye que los civiles están atrapados entre la represión de su propio Gobierno, con al menos 221 niños muertos y 29 ejecutados tras las protestas, y los crímenes de guerra de Estados Unidos, que mató a más de 178 civiles en dos ataques aéreos, incluida una escuela en Minab donde murieron 120 niñas y niños. \"Muchas de estas violaciones constituyen crímenes de lesa humanidad\", advierte el informe.",
+        "en": "A US Immigration and Customs Enforcement (ICE) officer has reportedly shot a man in Texas after a traffic stop - leading to an anti-ICE protest at the scene."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Trump",
-        "CNN",
-        "Politico",
-        "Casa Blanca"
+        "Estados Unidos",
+        "Texas",
+        "ICE",
+        "Groenlandia"
       ],
       "geo": {
         "lat": 39.8,
@@ -38,160 +38,33 @@
       },
       "impacto": 95,
       "fuentes": [
-        "ev_ee286d0974",
-        "ev_e912c5d948",
-        "ev_599e889a53",
-        "ev_20394312bd",
-        "ev_4464b8f8f0",
-        "ev_85b5a13cb8",
-        "ev_a1310bb57d",
-        "ev_c053df918f"
-      ],
-      "cluster_id": "cl_023",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6cc1/live/5c0643d0-b3ab-11f1-a7fa-c95bcf5935e4.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/19/17898338590038.jpg",
-        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260919/1215952_051908_video_1800.mp4",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/20/17898974590135.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ee286d0974",
-          "titulo": "Trump prohíbe el acceso a la Casa Blanca a los periodistas de CNN, MS NOW y Politico",
-          "url": "https://www.bbc.com/mundo/articles/c32l8wn2egvlo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Sat, 19 Sep 2026 14:55:31 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_e912c5d948",
-          "titulo": "La Casa Blanca hace efectivo el veto de Trump e impide acceso a periodistas de CNN, MS NOW y Politico",
-          "url": "https://www.elmundo.es/internacional/2026/09/19/6aaeafdefdddffec7f8b458a.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sat, 19 Sep 2026 18:06:30 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_599e889a53",
-          "titulo": "Trump anuncia el veto al acceso a la Casa Blanca de CNN, MSNBC y Politico",
-          "url": "https://elpais.com/internacional/2026-09-18/trump-veta-el-acceso-a-la-casa-blanca-de-cnn-msnbc-y-politico.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Fri, 18 Sep 2026 19:24:10 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_20394312bd",
-          "titulo": "Trump acorta su fin de semana en Camp David y vuelve antes de lo previsto a la Casa Blanca en pleno recrudecimiento del conflicto en Oriente Medio",
-          "url": "https://www.elmundo.es/internacional/2026/09/20/6aafab06fc6c83f16e8b457d.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sun, 20 Sep 2026 11:44:40 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_4464b8f8f0",
-          "titulo": "Trump veta de la Casa Blanca a los medios CNN, MSNOW y Politico, a los que acusa de mentir",
-          "url": "https://www.elmundo.es/internacional/2026/09/18/6aad9123e85ece29758b45a1.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sat, 19 Sep 2026 07:28:48 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_85b5a13cb8",
-          "titulo": "CNN, MS NOW, Politico say journalists denied access to White House after Trump ban",
-          "url": "https://www.cbc.ca/news/world/cnn-journalists-banned-white-house-trump-9.7350912?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sat, 19 Sep 2026 10:51:03 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a1310bb57d",
-          "titulo": "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
-          "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Mon, 21 Sep 2026 10:14:06 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c053df918f",
-          "titulo": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
-          "url": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Sat, 19 Sep 2026 18:12:15 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-21_0000",
-      "fecha": "2026-09-21",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-21_0003",
-        "nd_2026-09-21_0004",
-        "nd_2026-09-21_0011"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Asesinato del presidente haitiano: 18 sospechosos extraditados a Estados Unidos",
-        "en": "Venezuelan man shot and injured by ICE agent in Texas, officials say"
-      },
-      "sintesis": {
-        "es": "Nuevo giro en el caso del expresidente haitiano Jovenel Moïse, asesinado en la noche del 6 al 7 de julio de 2021 en su residencia privada en Puerto Príncipe. Dieciocho personas acusadas en el marco de la investigación sobre su asesinato fueron extraditadas este domingo 20 de septiembre a Estados Unidos, donde deberán comparecer ante la justicia federal en Florida.",
-        "en": "The Mayor of Austin, Kirk Watson, has called for an independent probe involving local police, saying ICE should not investigate the incident by itself."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Estados Unidos",
-        "Texas",
-        "ICE",
-        "Ahora"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_71053dabcc",
-        "ev_93c13c469b",
+        "ev_9c8a70c8b9",
         "ev_9c9f597ca3",
         "ev_d3b1ad1d60",
         "ev_402a46f893",
-        "ev_772a25849e",
-        "ev_fd5619d045",
-        "ev_960023f06d",
+        "ev_5c0a4da5c6",
+        "ev_007c0b3a77",
+        "ev_2aa93d52b2",
         "ev_f04782e924",
-        "ev_b82b60ec89",
-        "ev_53ae26abeb",
-        "ev_be911fa80e",
-        "ev_908a24a156",
-        "ev_712fa05807",
-        "ev_824fe540a3"
+        "ev_9579fea3a6",
+        "ev_af6e35e2f5",
+        "ev_b2bce0f40e"
       ],
-      "cluster_id": "cl_040",
+      "cluster_id": "cl_005",
       "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/3OQDDDUXT5JMTIH2Z5HTVXCHU4.jpg?auth=f802c66aabab64c80f4ebb10dbd558290e2384f0e91ae9fcc43a8645c795f42d",
-        "https://imagenes.elpais.com/resizer/v2/R65CDADAHRKJDHEVQFJJVVFAJM.jpg?auth=4b010a66f51122fca2fd69d30011146fab75662e8c590da5afe97ea7d1b709d2",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/97eb/live/8e6f0380-b5ee-11f1-aff1-eb6baa3fda4f.png",
         "https://s.rfi.fr/media/display/cf0a61e2-260f-11f1-8d5c-005056a90284/w:1024/p:16x9/AP25235758047756.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/21/17899687353974.jpg"
+        "https://s.rfi.fr/media/display/5c031764-1cf5-11ee-804b-005056bf30b7/w:1024/p:16x9/000_339A4MK.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/29-04-2026-IRCS-Iran-Tehran-02.jpg/image560x340cropped.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_71053dabcc",
-          "titulo": "Los venezolanos se autocensuran ante el poder de Estados Unidos: “Ahora no sé si debo temer a la CIA”",
-          "url": "https://elpais.com/america/2026-09-21/los-venezolanos-se-autocensuran-ante-el-poder-de-estados-unidos-ahora-no-se-si-debo-temer-a-la-cia.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Mon, 21 Sep 2026 03:30:01 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_93c13c469b",
-          "titulo": "Calendario de las elecciones de medio mandato de 2026 en Estados Unidos",
-          "url": "https://elpais.com/us/2026-09-15/calendario-de-las-elecciones-de-medio-mandato-de-2026-en-estados-unidos.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Tue, 15 Sep 2026 17:28:37 GMT",
+          "id": "ev_9c8a70c8b9",
+          "titulo": "\"Sigo con la bala dentro\": Wilber Garcés, el repartidor venezolano de comida que recibió un disparo de un agente de ICE en Texas",
+          "url": "https://www.bbc.com/mundo/articles/cq986rke4ny6o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Mon, 21 Sep 2026 22:21:52 GMT",
           "idioma": "es"
         },
         {
@@ -219,27 +92,27 @@
           "idioma": "es"
         },
         {
-          "id": "ev_772a25849e",
-          "titulo": "Estados Unidos detiene a 18 sospechosos por el asesinato de Jovenel Moïse, expresidente haitiano hace 5 años",
-          "url": "https://es.euronews.com/2026/09/21/estados-unidos-detiene-a-18-sospechosos-por-el-asesinato-del-expresidente-haitiano",
-          "fuente": "Euronews Espanol",
-          "fecha": "Mon, 21 Sep 2026 07:40:21 +0200",
+          "id": "ev_5c0a4da5c6",
+          "titulo": "Irán: civiles atrapados entre la represión estatal y los ataques de Estados Unidos",
+          "url": "https://news.un.org/feed/view/es/story/2026/09/1541922",
+          "fuente": "Noticias ONU",
+          "fecha": "Thu, 17 Sep 2026 12:00:00 +0000",
           "idioma": "es"
         },
         {
-          "id": "ev_fd5619d045",
-          "titulo": "Un agente del ICE hiere a un venezolano en Texas de un disparo",
-          "url": "https://es.euronews.com/2026/09/21/un-agente-del-ice-hiere-a-un-venezolano-en-texas-con-un-arma-de-fuego",
-          "fuente": "Euronews Espanol",
-          "fecha": "Mon, 21 Sep 2026 09:15:01 +0200",
+          "id": "ev_007c0b3a77",
+          "titulo": "Estados Unidos debe proteger a las presas de la violencia sexual, según una experta de la ONU",
+          "url": "https://news.un.org/feed/view/es/story/2026/09/1541898",
+          "fuente": "Noticias ONU",
+          "fecha": "Mon, 14 Sep 2026 12:00:00 +0000",
           "idioma": "es"
         },
         {
-          "id": "ev_960023f06d",
-          "titulo": "Estados Unidos y China negocian abrir un canal de diálogo sobre inteligencia artificial",
-          "url": "https://es.euronews.com/2026/09/21/estados-unidos-y-china-negocian-abrir-un-canal-de-dialogo-sobre-inteligencia-artificial",
-          "fuente": "Euronews Espanol",
-          "fecha": "Mon, 21 Sep 2026 07:14:53 +0200",
+          "id": "ev_2aa93d52b2",
+          "titulo": "Acusan a Trump de exagerar las concesiones a Estados Unidos del acuerdo sobre Groenlandia",
+          "url": "https://www.elmundo.es/internacional/2026/09/21/6ab1365de85ece73438b45a3.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Mon, 21 Sep 2026 16:40:23 +0200",
           "idioma": "es"
         },
         {
@@ -251,174 +124,13 @@
           "idioma": "es"
         },
         {
-          "id": "ev_b82b60ec89",
-          "titulo": "Venezuelan man shot and injured by ICE agent in Texas, officials say",
-          "url": "https://www.euronews.com/2026/09/21/venezuelan-man-shot-and-injured-by-ice-agent-in-texas-officials-say",
-          "fuente": "Euronews English",
-          "fecha": "Mon, 21 Sep 2026 08:39:22 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_53ae26abeb",
-          "titulo": "More than a dozen arrested in connection with 2021 assassination of Haitian president",
-          "url": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
-          "fuente": "The Guardian World",
-          "fecha": "Sun, 20 Sep 2026 20:17:44 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_be911fa80e",
-          "titulo": "18 suspects accused in the 2021 killing of Haiti's president being extradited to U.S.",
-          "url": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
-          "fuente": "NPR News",
-          "fecha": "Mon, 21 Sep 2026 04:41:50 -0400",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-21_0001",
-      "fecha": "2026-09-21",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Europe Today: Merz vuelve a estar bajo presión y el mayor ataque ucraniano alcanza Moscú",
-        "en": "Merz insists he will stay as German chancellor despite heavy losses in state elections – Europe live"
-      },
-      "sintesis": {
-        "es": "El canciller alemán Friedrich Merz vuelve a estar bajo presión tras el desastroso resultado de la CDU en las elecciones regionales. Además analizamos el mayor ataque con drones de Ucrania contra Moscú. También tratamos la tensión entre Irán y EE.UU.",
-        "en": "CDU suffered heavy losses in two regional elections, including in home state of former leader Angela Merkel, where it polled just 4.9% EU senior diplomats will resume talks later today on maintaining sanctions against nearly 3,000 Russian individuals and companies, with the issue deadlocked over the status of tycoon Alisher Usmanov . The EU last week agreed a one-week extension to stop the sanctions expiring, after France joined Slovakia in pushing for Usmanov to be removed from the list. Yet another technical fault with Nats means some of our customers are likely to experience disruption to their travel plans today."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Merz",
-        "Ukraine",
-        "Moscow",
-        "Europe Today"
-      ],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 95,
-      "fuentes": [
-        "ev_1fe144556e",
-        "ev_520547ba2d",
-        "ev_a4577eddd7",
-        "ev_7035148ffc",
-        "ev_23f020dc5b",
-        "ev_56651bfb46",
-        "ev_a64d04e7d2"
-      ],
-      "cluster_id": "cl_096",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/37c80a589e967e0c5ac277e039a110f895c2bed8/272_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=3a295a0a5fe9cd605aecffc19786175e",
-        "https://e3.365dm.com/26/09/1920x1080/skynews-merz-friedrich-merz_7357273.jpg?20260920174842"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1fe144556e",
-          "titulo": "Europe Today: Merz vuelve a estar bajo presión y el mayor ataque ucraniano alcanza Moscú",
-          "url": "https://es.euronews.com/my-europe/2026/09/21/europe-today-merz-vuelve-a-estar-bajo-presion-el-mayor-ataque-ucraniano-alcanza-moscu",
-          "fuente": "Euronews Espanol",
-          "fecha": "Mon, 21 Sep 2026 08:02:48 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_520547ba2d",
-          "titulo": "Merz insists he will stay as German chancellor despite heavy losses in state elections – Europe live",
-          "url": "https://www.theguardian.com/world/live/2026/sep/21/merz-german-chancellor-state-elections-russia-ukraine-europe-live-latest-news",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 21 Sep 2026 09:59:19 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a4577eddd7",
-          "titulo": "Europe Today: Merz under pressure again, Ukraine's biggest strike hits Moscow",
-          "url": "https://www.euronews.com/my-europe/2026/09/21/europe-today-merz-under-pressure-again-ukraines-biggest-strike-hits-moscow",
-          "fuente": "Euronews English",
-          "fecha": "Mon, 21 Sep 2026 08:01:25 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_7035148ffc",
-          "titulo": "Under-pressure German leader says state election result a 'disaster'",
-          "url": "https://news.sky.com/story/german-chancellor-friedrich-merz-says-state-election-result-a-disaster-but-vows-to-stay-in-office-13590184",
+          "id": "ev_9579fea3a6",
+          "titulo": "ICE agent shoots man in Texas after traffic stop, city officials say",
+          "url": "https://news.sky.com/story/ice-agent-shoots-man-in-texas-after-traffic-stop-city-officials-say-13590300",
           "fuente": "Sky News World",
-          "fecha": "Sun, 20 Sep 2026 17:26:00 +0100",
+          "fecha": "Mon, 21 Sep 2026 01:12:00 +0100",
           "idioma": "en"
         },
-        {
-          "id": "ev_23f020dc5b",
-          "titulo": "Putin's ruling party on track to comfortably win wartime Russian election",
-          "url": "https://www.cbc.ca/news/world/russia-election-putin-9.7351526?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sun, 20 Sep 2026 17:47:41 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_56651bfb46",
-          "titulo": "Russia’s pro-Putin party set to win election as Ukraine exposes war’s growing reach into Moscow",
-          "url": "https://www.cnbc.com/2026/09/21/russia-election-putin-moscow-attack-ukraine.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Mon, 21 Sep 2026 09:36:23 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a64d04e7d2",
-          "titulo": "Ukraine fires more than 1,000 drones at Russia, including hundreds launched at Moscow",
-          "url": "https://www.cbc.ca/news/world/ukraine-fires-over-1000-drones-at-russia-9.7351243?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sun, 20 Sep 2026 05:02:59 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-21_0002",
-      "fecha": "2026-09-21",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Drones y francotiradores: Trump anuncia un \"complejo militar\" en el arco del triunfo de Washington",
-        "en": "Drones y francotiradores: Trump anuncia un \"complejo militar\" en el arco del triunfo de Washington"
-      },
-      "sintesis": {
-        "es": "El presidente estadounidense, Donald Trump, reveló que el arco del triunfo que planea construir en Washington D.C. servirá como un \"complejo militar de primera categoría\", con capacidad para albergar drones y francotiradores, así como para almacenar municiones. La transformación del monumento se decidió \"a petición expresa de las Fuerzas Armadas\" y por motivos de seguridad nacional, agregó el republicano, que persigue una controvertida reforma del paisaje urbano de la capital estadounidense.",
-        "en": "El presidente estadounidense, Donald Trump, reveló que el arco del triunfo que planea construir en Washington D.C. servirá como un \"complejo militar de primera categoría\", con capacidad para albergar drones y francotiradores, así como para almacenar municiones. La transformación del monumento se decidió \"a petición expresa de las Fuerzas Armadas\" y por motivos de seguridad nacional, agregó el republicano, que persigue una controvertida reforma del paisaje urbano de la capital estadounidense."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Trump",
-        "Washington",
-        "Groenlandia",
-        "Dinamarca"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 79,
-      "fuentes": [
-        "ev_af6e35e2f5",
-        "ev_5ce22d60eb",
-        "ev_15ce902ca0",
-        "ev_18fd5b2f16",
-        "ev_59cc38a4ad",
-        "ev_1d4d74fc65"
-      ],
-      "cluster_id": "cl_021",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a341/live/5dfb1cb0-b3b0-11f1-b1d1-571ed4d7ff2c.jpg",
-        "https://s.rfi.fr/media/display/9e68768c-b3ea-11f1-8959-ed3d9e22a40f/w:1024/p:16x9/rp-inter-19-09.jpg",
-        "https://imagenes.elpais.com/resizer/v2/TQVIDJIHQRPORF4TWG226R4SAA.jpg?auth=4803dbc465386b309629834b7c28ab4577f3b350bb72ccd7c5eecaa050a01652",
-        "https://s.france24.com/media/display/3a428c52-b50b-11f1-b6c7-6f779f079bc8/w:1024/p:16x9/AP26240737448587.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
         {
           "id": "ev_af6e35e2f5",
           "titulo": "EE.UU. y Dinamarca anuncian un acuerdo por el que Washington asumirá el \"control permanente de la seguridad\" de Groenlandia",
@@ -428,29 +140,517 @@
           "idioma": "es"
         },
         {
-          "id": "ev_5ce22d60eb",
-          "titulo": "Groenlandia: Trump concluye un acuerdo con Dinamarca por el que tendrá \"control permanente\" en la isla",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260919-groenlandia-trump-concluye-un-acuerdo-con-dinamarca-por-el-que-tendr%C3%A1-control-permanente-en-la-isla",
-          "fuente": "RFI Espanol",
-          "fecha": "Sat, 19 Sep 2026 10:32:58 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_15ce902ca0",
-          "titulo": "Trump anuncia que el gigantesco arco del triunfo de Washington será un complejo militar con drones y francotiradores",
-          "url": "https://elpais.com/us/actualidad/2026-09-20/trump-anuncia-que-el-gigantesco-arco-del-triunfo-de-washington-sera-un-complejo-militar-con-drones-y-francotiradores.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sun, 20 Sep 2026 15:20:55 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_18fd5b2f16",
-          "titulo": "Drones y francotiradores: Trump anuncia un \"complejo militar\" en el arco del triunfo de Washington",
-          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260920-drones-y-francotiradores-trump-anuncia-un-complejo-militar-en-el-arco-del-triunfo-de-washington",
+          "id": "ev_b2bce0f40e",
+          "titulo": "Groenlandia, Dinamarca y Estados Unidos firmarán el martes el acuerdo sobre el territorio ártico",
+          "url": "https://www.france24.com/es/europa/20260922-groenlandia-dinamarca-y-estados-unidos-firmar%C3%A1n-el-martes-el-acuerdo-sobre-el-territorio-%C3%A1rtico",
           "fuente": "France 24 Espanol",
-          "fecha": "Sun, 20 Sep 2026 17:55:40 GMT",
+          "fecha": "Tue, 22 Sep 2026 07:00:43 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-09-22_0000",
+      "fecha": "2026-09-22",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-09-22_0002",
+        "nd_2026-09-22_0005"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "En directo: la Asamblea General de la ONU comenzará este martes marcada por las guerras en Irán y Ucrania",
+        "en": "British PM Andy Burnham to meet Trump for the first time at the UN in New York"
+      },
+      "sintesis": {
+        "es": "Los líderes mundiales inician este martes sus discursos ante la 81ª Asamblea General de la ONU, en un contexto internacional atravesado por las guerras en Medio Oriente y Ucrania. La Asamblea reúne en Nueva York a 71 jefes de Estado y 45 jefes de Gobierno, quienes también abordarán la crisis climática, el encarecimiento de la energía y los riesgos derivados del rápido avance de la inteligencia artificial.",
+        "en": "Previously, as the mayor of Greater Manchester, Andy Burnham had said Trump was not welcome in the city and that he would refuse to meet him."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Nueva York",
+        "ONU",
+        "Trump",
+        "Asamblea General"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_952a8e26e0",
+        "ev_806be34096",
+        "ev_e6c3065491",
+        "ev_7b955423a3",
+        "ev_65e6d3f56f",
+        "ev_9b9a7533e5",
+        "ev_3d1bee5ebb",
+        "ev_f9d251161e",
+        "ev_7497a194e1",
+        "ev_4270bd5ccd",
+        "ev_d9b2943626",
+        "ev_6aecefece1",
+        "ev_6cf9d74529"
+      ],
+      "cluster_id": "cl_017",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c573/live/3371e180-b4ce-11f1-b55d-81b847f392df.jpg",
+        "https://imagenes.elpais.com/resizer/v2/QC7LKLY6K5CY5F7HROG5ZSWHOQ.jpg?auth=a3672107b7cc9e848d454d45323ed2783921ceee5be53ccfd060300e7cbed3f3",
+        "https://s.france24.com/media/display/6c6ee34c-b47f-11f1-91a2-6f779f079bc8/w:1024/p:16x9/AP25270585972788.jpg",
+        "https://s.france24.com/media/display/32d9f492-b613-11f1-a127-1d61c7110e09/w:1024/p:16x9/2026-09-21T162031Z-426986057-RC2SNNA8ST2N-RTRMADP-3-UN-ASSEMBLY-SECURITY.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_952a8e26e0",
+          "titulo": "Las razones por las que Michelle Bachelet se retira de la carrera por la Secretaría General de la ONU",
+          "url": "https://www.bbc.com/mundo/articles/c52e0v8xxlk3o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sun, 20 Sep 2026 08:20:15 GMT",
           "idioma": "es"
         },
+        {
+          "id": "ev_806be34096",
+          "titulo": "El presidente de Irán viajará a la Asamblea General de la ONU en Nueva York",
+          "url": "https://elpais.com/internacional/2026-09-21/el-presidente-de-iran-viajara-a-la-asamblea-general-de-la-onu-en-nueva-york.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Mon, 21 Sep 2026 10:03:35 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_e6c3065491",
+          "titulo": "En directo: la Asamblea General de la ONU comenzará este martes marcada por las guerras en Irán y Ucrania",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260922-en-directo-la-asamblea-general-de-la-onu-comenzar%C3%A1-este-martes-marcada-por-las-guerras-en-ir%C3%A1n-y-ucrania",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 22 Sep 2026 08:27:45 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_7b955423a3",
+          "titulo": "Clima, energía e inteligencia artificial se abren paso en una Asamblea de la ONU marcada por las guerras",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260921-clima-energ%C3%ADa-e-inteligencia-artificial-se-abren-paso-en-una-asamblea-de-la-onu-marcada-por-las-guerras",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 21 Sep 2026 23:22:27 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_65e6d3f56f",
+          "titulo": "Trump y Macron conversan en Nueva York sobre el alza del petróleo y la guerra en Ucrania",
+          "url": "https://es.euronews.com/2026/09/22/trump-macron-nueva-york-alza-petroleo-guerra-ucrania",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 22 Sep 2026 11:14:24 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_9b9a7533e5",
+          "titulo": "Macron recorre las concurridas calles de Nueva York hacia la Torre Trump",
+          "url": "https://es.euronews.com/video/2026/09/22/macron-recorre-las-concurridas-calles-de-nueva-york-hacia-la-torre-trump",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 22 Sep 2026 09:41:59 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_3d1bee5ebb",
+          "titulo": "Andy Burnham se reúne por primera vez con Trump en la ONU en Nueva York",
+          "url": "https://es.euronews.com/2026/09/22/andy-burnham-se-reune-por-primera-vez-con-trump-en-la-onu-en-nueva-york",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 22 Sep 2026 07:56:59 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f9d251161e",
+          "titulo": "El mundo viene a Nueva York: qué está en juego durante la próxima Asamblea General",
+          "url": "https://news.un.org/feed/view/es/story/2026/09/1541924",
+          "fuente": "Noticias ONU",
+          "fecha": "Sat, 19 Sep 2026 12:00:00 +0000",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_7497a194e1",
+          "titulo": "Trump y Mamdani mantienen el pragmatismo cordial en un inusual encuentro en Nueva York",
+          "url": "https://www.elmundo.es/internacional/2026/09/22/6ab1ab62e4d4d83b538b457e.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Tue, 22 Sep 2026 07:34:17 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_4270bd5ccd",
+          "titulo": "Machado se asoma de nuevo a Venezuela mientras Delcy se cita con Trump en Nueva York",
+          "url": "https://www.elmundo.es/internacional/2026/09/19/6aaeb187e85ece617c8b456d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sat, 19 Sep 2026 18:16:40 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d9b2943626",
+          "titulo": "British PM Andy Burnham to meet Trump for the first time at the UN in New York",
+          "url": "https://www.euronews.com/2026/09/22/british-pm-andy-burnham-to-meet-trump-for-the-first-time-at-the-un-in-new-york",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 22 Sep 2026 07:17:32 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6aecefece1",
+          "titulo": "Trump lleva sus batallas a la Asamblea General de Naciones Unidas",
+          "url": "https://elpais.com/internacional/2026-09-22/trump-lleva-sus-batallas-a-la-asamblea-general-de-naciones-unidas.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Tue, 22 Sep 2026 03:30:01 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-09-22_0001",
+      "fecha": "2026-09-22",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-09-22_0002",
+        "nd_2026-09-22_0005"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Inmigrantes deportados a África: así es la maquinaria de la administración de Trump",
+        "en": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war"
+      },
+      "sintesis": {
+        "es": "Desde el regreso de Donald Trump, más de 25.000 personas han sido deportadas de Estados Unidos a terceros países con los que, a menudo, no tienen ningún vínculo, a veces incluso a un continente distinto al suyo. Entre ellas, cientos han sido enviadas a África. Al menos 12 países africanos acogen hoy a estos deportados: vietnamitas en Eswatini, colombianos en la República Democrática del Congo, guineanos en Ghana.",
+        "en": "President Donald Trump said Russia has “lost control” of its diesel oil industry due to the Ukraine war, as he presses Kyiv to agree to an energy truce."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Trump",
+        "ICE",
+        "France",
+        "Ukraine"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_9503cc8e4b",
+        "ev_d666f048fd",
+        "ev_7520c5003e",
+        "ev_86ebfe161c",
+        "ev_15589605dd",
+        "ev_cfa6aa3965"
+      ],
+      "cluster_id": "cl_062",
+      "imagenes": [
+        "https://s.france24.com/media/display/7f95abba-b5f4-11f1-b748-d5a6f2570fbe/w:1024/p:16x9/ES-20260921-134532-135947-CS.jpg",
+        "https://s.france24.com/media/display/eddf76c4-b5da-11f1-9038-4d220c210a04/w:1024/p:16x9/REPORTEROS-4.jpeg",
+        "https://s.rfi.fr/media/display/37f2fe8e-b5b3-11f1-b7b9-0730212ba17f/w:1024/p:16x9/01-LOGO.jpg",
+        "https://s.france24.com/media/display/75238390-b5f5-11f1-a29c-1d61c7110e09/w:1024/p:16x9/capture-11265319756ab18a1dd3fcd9-84125178.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_9503cc8e4b",
+          "titulo": "ICE, Trump y África: ¿Cómo se desarrolló la exclusiva investigación de France 24?",
+          "url": "https://www.france24.com/es/video/20260921-ice-trump-y-%C3%A1frica-c%C3%B3mo-se-desarroll%C3%B3-la-exclusiva-investigaci%C3%B3n-de-france-24",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 21 Sep 2026 19:50:35 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d666f048fd",
+          "titulo": "ICE, Trump y África: acuerdos secretos, vidas destrozadas",
+          "url": "https://www.france24.com/es/programas/reporteros/20260921-ice-trump-y-%C3%A1frica-acuerdos-secretos-vidas-destrozadas",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 21 Sep 2026 19:27:45 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_7520c5003e",
+          "titulo": "Inmigrantes deportados a África: así es la maquinaria de la administración de Trump",
+          "url": "https://www.rfi.fr/es/africa/20260921-inmigrantes-deportados-a-%C3%A1frica-as%C3%AD-es-la-maquinaria-de-la-administraci%C3%B3n-de-trump",
+          "fuente": "RFI Espanol",
+          "fecha": "Mon, 21 Sep 2026 12:40:05 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_86ebfe161c",
+          "titulo": "Forbidden Stories on Trump deportation system: FRANCE 24's 'Ice, Trump and Africa'",
+          "url": "https://www.france24.com/en/video/20260921-forbidden-stories-on-trump-deportation-system-france24-s-ice-trump-and-africa",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 21 Sep 2026 19:52:07 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_15589605dd",
+          "titulo": "France's president says talks with Trump on Red Sea and Ukraine were 'constructive'",
+          "url": "https://www.euronews.com/my-europe/2026/09/22/frances-president-says-talks-with-trump-on-red-sea-and-ukraine-were-constructive",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 22 Sep 2026 10:42:26 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cfa6aa3965",
+          "titulo": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war",
+          "url": "https://www.cnbc.com/2026/09/22/trump-zelenskyy-ukraine-russia-putin-diesel-oil.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Tue, 22 Sep 2026 08:57:24 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-22_0002",
+      "fecha": "2026-09-22",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-09-22_0000",
+        "nd_2026-09-22_0001",
+        "nd_2026-09-22_0005"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute",
+        "en": "Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute"
+      },
+      "sintesis": {
+        "es": "US president reportedly changed his mind over Saudi Arabia’s pleas for assistance as bombs were being loaded Houthi fighters are moving to seize strategic heights in Yemen that would cut the Red Sea coast off from areas held ​by Saudi-backed forces after Donald Trump called off US strikes on the group at the last minute, reportedly as bombs were being loaded on to aircraft. Amid increasingly heavy fighting in Yemen , which has displaced tens of thousands of people in recent weeks, the New York Times reported on Monday that the US president had flip-flopped wildly in recent days after a call from Saudi Arabia for US strikes on the Houthis. Continue reading...",
+        "en": "US president reportedly changed his mind over Saudi Arabia’s pleas for assistance as bombs were being loaded Houthi fighters are moving to seize strategic heights in Yemen that would cut the Red Sea coast off from areas held ​by Saudi-backed forces after Donald Trump called off US strikes on the group at the last minute, reportedly as bombs were being loaded on to aircraft. Amid increasingly heavy fighting in Yemen , which has displaced tens of thousands of people in recent weeks, the New York Times reported on Monday that the US president had flip-flopped wildly in recent days after a call from Saudi Arabia for US strikes on the Houthis. Continue reading..."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "General Assembly",
+        "Iran",
+        "Houthis",
+        "Yemen"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 83,
+      "fuentes": [
+        "ev_ac3ae84064",
+        "ev_891546be54",
+        "ev_fafbf5ae9b",
+        "ev_60368d90da",
+        "ev_2e96f00eaf",
+        "ev_2201198d2a",
+        "ev_3425a90eb4",
+        "ev_fa8daa948a",
+        "ev_466dc5da58"
+      ],
+      "cluster_id": "cl_166",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de9/live/2f1c8fd0-b63c-11f1-b5fe-031254885cd0.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21f5/live/4ca589e0-b61d-11f1-bc1f-3f186ca4140c.jpg",
+        "https://i.guim.co.uk/img/media/6600ab64adbc6f85468306778c7e00fdbdc87d82/92_0_4393_3513/master/4393.jpg?width=140&quality=85&auto=format&fit=max&s=6bc2aae753240b4954a58263b088c876",
+        "https://static01.nyt.com/images/2019/09/27/world/un-explainer1/un-explainer1-moth.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_ac3ae84064",
+          "titulo": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+          "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 22 Sep 2026 07:14:12 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_891546be54",
+          "titulo": "Watch: What to expect from the UN General Assembly",
+          "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 22 Sep 2026 04:05:58 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_fafbf5ae9b",
+          "titulo": "Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute",
+          "url": "https://www.theguardian.com/world/2026/sep/21/houthis-seize-strategic-terrain-yemen-trump-calls-off-airstrikes-last-minute",
+          "fuente": "The Guardian World",
+          "fecha": "Mon, 21 Sep 2026 16:14:38 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_60368d90da",
+          "titulo": "Houthis battle for strategic heights in Yemen as thousands more flee homes",
+          "url": "https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 22 Sep 2026 04:48:29 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2e96f00eaf",
+          "titulo": "UN General Assembly 2026: When is it, who is speaking and when?",
+          "url": "https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 22 Sep 2026 05:15:59 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2201198d2a",
+          "titulo": "What Are the United Nations and the General Assembly?",
+          "url": "https://www.nytimes.com/2026/09/22/world/what-is-united-nations-general-assembly.html",
+          "fuente": "NYT World",
+          "fecha": "Tue, 22 Sep 2026 09:09:56 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3425a90eb4",
+          "titulo": "U.N. General Assembly Traffic and Street Closures: What New Yorkers Need to Know",
+          "url": "https://www.nytimes.com/2026/09/20/nyregion/nyc-traffic-street-closures-unga.html",
+          "fuente": "NYT World",
+          "fecha": "Mon, 21 Sep 2026 19:47:23 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_fa8daa948a",
+          "titulo": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+          "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 21 Sep 2026 22:25:33 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_466dc5da58",
+          "titulo": "Oil prices reverse gains as United Nations General Assembly meeting lifts hopes for Iran war diplomacy",
+          "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Tue, 22 Sep 2026 09:30:24 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-22_0003",
+      "fecha": "2026-09-22",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "World Cup viewers exposed to junk food, alcohol and gambling branding every 7 seconds, study finds",
+        "en": "World Cup viewers exposed to junk food, alcohol and gambling branding every 7 seconds, study finds"
+      },
+      "sintesis": {
+        "es": "More than 93,000 visible appearances of brands promoting unhealthy food and drink, alcohol, gambling and speculative products were recorded during coverage of the largest FIFA World Cup in history, new research has found. Unhealthy food and drink brands accounted for more than seven in 10, with 65,722 appearances.",
+        "en": "More than 93,000 visible appearances of brands promoting unhealthy food and drink, alcohol, gambling and speculative products were recorded during coverage of the largest FIFA World Cup in history, new research has found. Unhealthy food and drink brands accounted for more than seven in 10, with 65,722 appearances."
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "Infantino",
+        "FIFA",
+        "World Cup",
+        "Fifa"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 78,
+      "fuentes": [
+        "ev_ff8421c03a",
+        "ev_1717bfad63",
+        "ev_f752352f91",
+        "ev_5b45859cb8",
+        "ev_66dcd6c548",
+        "ev_ffc3d22796"
+      ],
+      "cluster_id": "cl_172",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76a/live/7932d8f0-b5f0-11f1-8f79-396899948b9b.jpg",
+        "https://s.france24.com/media/display/72aa93a2-b5ef-11f1-b82d-557acd7c815c/w:1024/p:16x9/AP26248477250960.jpg",
+        "https://e3.365dm.com/26/09/1920x1080/skynews-infantino-fifa_7340206.jpg?20260903184707",
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/soccer-on-tv.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_ff8421c03a",
+          "titulo": "Infantino says he is open to talks over Fifa reform",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Mon, 21 Sep 2026 19:50:57 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1717bfad63",
+          "titulo": "Infantino says open to FIFA reform talks after World Cup controversy",
+          "url": "https://www.france24.com/en/sport/20260921-infantino-says-open-to-fifa-reform-talks-after-world-cup-controversy",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 21 Sep 2026 19:47:28 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f752352f91",
+          "titulo": "Infantino says he's 'open' to talks about FIFA reform in letter to football chiefs",
+          "url": "https://news.sky.com/story/gianni-infantino-says-hes-open-to-talks-about-fifa-reform-in-letter-to-football-chiefs-13590536",
+          "fuente": "Sky News World",
+          "fecha": "Mon, 21 Sep 2026 21:12:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5b45859cb8",
+          "titulo": "FIFA president Gianni Infantino says he is open to talks over organizational reform",
+          "url": "https://www.cbc.ca/sports/soccer/gianni-infantino-open-to-speaking-fifa-reform-9.7352676?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Mon, 21 Sep 2026 16:25:29 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_66dcd6c548",
+          "titulo": "World Cup fans were exposed to junk food, alcohol and gambling ads every seven seconds",
+          "url": "https://www.euronews.com/health/2026/09/22/world-cup-fans-were-exposed-to-junk-food-alcohol-and-gambling-ads-every-seven-seconds",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 22 Sep 2026 07:10:00 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ffc3d22796",
+          "titulo": "World Cup viewers exposed to junk food, alcohol and gambling branding every 7 seconds, study finds",
+          "url": "https://phys.org/news/2026-09-world-cup-viewers-exposed-junk.html",
+          "fuente": "Phys.org",
+          "fecha": "Mon, 21 Sep 2026 19:00:04 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-22_0004",
+      "fecha": "2026-09-22",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Trump redobla su persecución a las instituciones culturales de Washington",
+        "en": "Trump’s bizarre social media blitz leaves world guessing ahead of UN address"
+      },
+      "sintesis": {
+        "es": "Tras forzar el cierre sin reapertura a la vista del Kennedy Center, la Casa Blanca pone en el punto de mira al Museo Smithsonian de Historia de Estados Unidos",
+        "en": "President has been posting on Washington arch, AI and his ‘25 top achievements’ – the chances of an uplifting speech appear slim The annual gathering of the United Nations general assembly has historically been a platform for US presidents to display their most serious face and a positive vision to the world. From Harry Truman and Dwight Eisenhower to John F Kennedy and Barack Obama, over eight decades US leaders have used the setting to expound on grand themes before a global audience at pivotal moments in international affairs. Continue reading..."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Trump",
+        "Washington"
+      ],
+      "geo": {
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_59cc38a4ad",
+        "ev_3c8bf6a2ad",
+        "ev_f1ca69ddb7",
+        "ev_6bcd3f6d27"
+      ],
+      "cluster_id": "cl_046",
+      "imagenes": [
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260916/1215087_215525_video_1800.mp4",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/19/17898368251646.jpg",
+        "https://i.guim.co.uk/img/media/2cc920ad3c10ae1281dcda215083179814a48120/858_0_4356_3487/master/4356.jpg?width=140&quality=85&auto=format&fit=max&s=525953ff7b681c45bcca18b4c5a0f376"
+      ],
+      "estado": "verificado",
+      "referencias": [
         {
           "id": "ev_59cc38a4ad",
           "titulo": "Trump redobla su persecución a las instituciones culturales de Washington",
@@ -460,604 +660,730 @@
           "idioma": "es"
         },
         {
-          "id": "ev_1d4d74fc65",
-          "titulo": "El embajador de Trump en Bélgica presume del acuerdo con Groenlandia",
-          "url": "https://es.euronews.com/my-europe/2026/09/21/el-embajador-de-trump-en-belgica-presume-del-acuerdo-con-groenlandia",
-          "fuente": "Euronews Espanol",
-          "fecha": "Mon, 21 Sep 2026 11:19:41 +0200",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-09-21_0003",
-      "fecha": "2026-09-21",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-09-21_0000",
-        "nd_2026-09-21_0004",
-        "nd_2026-09-21_0011"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Trump amenaza con “cortar el comercio” si la UE se asocia con Canadá",
-        "en": "Trump reportedly to form health funding board that could veto ‘woke’ initiatives"
-      },
-      "sintesis": {
-        "es": "El presidente de Estados Unidos se reserva la imposición de “elevados aranceles” si prospera el plan de alianza transatlántica entre su vecino del Norte y Europa",
-        "en": "President’s latest order expected to bring NIH funding under control of Trump administration to align with agenda Donald Trump ’s latest executive order is expected to establish a board responsible for approving National Institutes of Health grant funding, marking another attempt by the Trump administration to censor topics that do not align with the president’s agenda. The executive order, reported by outlets including the Washington Post and Politico , was discussed in a meeting on Friday where senior administration officials accused the NIH of funding “woke” initiatives that went against Trump’s political priorities. Continue reading..."
-      },
-      "categoria": "economia",
-      "actores": [
-        "Trump"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 57,
-      "fuentes": [
-        "ev_6b0d8f6aed",
-        "ev_2756c4a68a",
-        "ev_5901f57ce8"
-      ],
-      "cluster_id": "cl_044",
-      "imagenes": [
-        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260917/1215188_073602_video_1800.mp4",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c72/live/446b36e0-b44b-11f1-a430-4d16ee157c41.jpg",
-        "https://i.guim.co.uk/img/media/cadb19e84270847aebafcfa816fd473c25370088/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=e93cc6e413a1ca36c7fee51211b20c31"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_6b0d8f6aed",
-          "titulo": "Trump amenaza con “cortar el comercio” si la UE se asocia con Canadá",
-          "url": "https://elpais.com/internacional/2026-09-17/trump-amenaza-con-cortar-el-comercio-si-la-ue-se-asocia-con-canada.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Thu, 17 Sep 2026 00:32:00 GMT",
+          "id": "ev_3c8bf6a2ad",
+          "titulo": "Trump lanza una encuesta para cambiar el nombre de la IA",
+          "url": "https://www.elmundo.es/internacional/2026/09/19/6aaebda5e85ecea1588b4576.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sun, 20 Sep 2026 07:29:09 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_2756c4a68a",
-          "titulo": "Trump escalates media fight after week of setbacks",
-          "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sat, 19 Sep 2026 17:23:37 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5901f57ce8",
-          "titulo": "Trump reportedly to form health funding board that could veto ‘woke’ initiatives",
-          "url": "https://www.theguardian.com/us-news/2026/sep/20/trump-order-nih-health-research-funding-board",
+          "id": "ev_f1ca69ddb7",
+          "titulo": "Trump’s bizarre social media blitz leaves world guessing ahead of UN address",
+          "url": "https://www.theguardian.com/world/2026/sep/22/trump-united-nations-address",
           "fuente": "The Guardian World",
-          "fecha": "Sun, 20 Sep 2026 21:53:00 GMT",
+          "fecha": "Tue, 22 Sep 2026 06:00:36 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6bcd3f6d27",
+          "titulo": "Trump heads to U.N. looking for wins after a rough week",
+          "url": "https://www.npr.org/2026/09/22/nx-s1-5976843/trump-heads-to-u-n-looking-for-wins-after-a-rough-week",
+          "fuente": "NPR News",
+          "fecha": "Tue, 22 Sep 2026 05:00:00 -0400",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-21_0004",
-      "fecha": "2026-09-21",
-      "kardashev": "K0",
+      "id": "nd_2026-09-22_0005",
+      "fecha": "2026-09-22",
+      "kardashev": "K1",
       "relaciones": [
-        "nd_2026-09-21_0000",
-        "nd_2026-09-21_0003",
-        "nd_2026-09-21_0011"
+        "nd_2026-09-22_0000",
+        "nd_2026-09-22_0001",
+        "nd_2026-09-22_0002"
       ]
     },
     {
       "titulo": {
-        "es": "Estudio revela que los niños nacidos en Europa hoy sufrirán casi el doble de clima extremo de incendios que sus abuelos",
-        "en": "Study finds children born in Europe today will face nearly twice as much extreme fire weather as their grandparents"
+        "es": "Trump veta a CNN, MSNBC y Politico en la Casa Blanca; medios demandan y otras cadenas suspenden cobertura en solidaridad",
+        "en": "Trump bans CNN, MSNBC and Politico from White House; outlets sue and other networks suspend coverage in solidarity"
       },
       "sintesis": {
-        "es": "Un estudio publicado en Environmental Research Letters concluye que un niño nacido en Europa en 2025 vivirá más de tres años adicionales de condiciones climáticas propicias para incendios extremos en comparación con alguien nacido en 1950, si continúan las políticas climáticas actuales. Esto representa un aumento del 84%, del cual el 86% se atribuye al cambio climático y no a una mayor longevidad. Los investigadores advierten que la aceleración de la acción climática es necesaria para evitar este incremento.",
-        "en": "A study published in Environmental Research Letters finds that a child born in Europe in 2025 will experience more than three additional years of extreme fire-conducive weather over their lifetime compared to someone born in 1950, under current climate policies. This represents an 84% increase, 86% of which is attributed to climate change rather than increased longevity. Researchers warn that accelerated climate action is needed to prevent this rise."
-      },
-      "categoria": "clima",
-      "actores": [
-        "Investigadores de Environmental Research Letters",
-        "Niños europeos nacidos en 2025",
-        "Gobiernos europeos"
-      ],
-      "geo": {
-        "lat": 50.0,
-        "lon": 10.0,
-        "region": "Europa"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_b9d890a30f",
-        "ev_6bb37b5861",
-        "ev_8b70a99828"
-      ],
-      "cluster_id": "cl_186",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/c515f826a610824b25ff72af1032506b41ea058d/655_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=bf462337272c6f2f9d8d04b8e0768712",
-        "https://scx1.b-cdn.net/csz/news/tmb/2018/wildfire.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_b9d890a30f",
-          "titulo": "Babies ‘will face almost twice as much’ extreme fire weather in Europe than great-grandparents",
-          "url": "https://www.theguardian.com/world/2026/sep/21/babies-extreme-fire-weather-europe-great-grandparents",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 21 Sep 2026 09:00:19 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6bb37b5861",
-          "titulo": "Born into a burning Europe: How extreme fire weather will worsen for children and how to stop it",
-          "url": "https://www.euronews.com/2026/09/21/born-into-a-burning-europe-how-extreme-fire-weather-will-worsen-for-children-and-how-to-st",
-          "fuente": "Euronews English",
-          "fecha": "Mon, 21 Sep 2026 11:00:50 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8b70a99828",
-          "titulo": "Children born today in Europe will live through almost twice as much extreme fire weather as their grandparents",
-          "url": "https://phys.org/news/2026-09-children-born-today-europe-extreme.html",
-          "fuente": "Phys.org",
-          "fecha": "Mon, 21 Sep 2026 05:00:03 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-21_0005",
-      "fecha": "2026-09-21",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-21_0006",
-        "nd_2026-09-21_0013"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Meloni announces ban on burqa and niqab in Italian schools, cap on foreign students",
-        "en": "Meloni announces ban on burqa and niqab in Italian schools, cap on foreign students"
-      },
-      "sintesis": {
-        "es": "Italy’s government is preparing new school measures, including a ban on niqabs. Meloni is facing competition from retired general Roberto Vannacci, who has called for tougher measures on migration.",
-        "en": "Italy’s government is preparing new school measures, including a ban on niqabs. Meloni is facing competition from retired general Roberto Vannacci, who has called for tougher measures on migration."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Meloni",
-        "Italian",
-        "Italy",
-        "Little Italy"
-      ],
-      "geo": {
-        "lat": 41.9,
-        "lon": 12.6,
-        "region": "Europa"
-      },
-      "impacto": 51,
-      "fuentes": [
-        "ev_b55515b14b",
-        "ev_eba6ba1369",
-        "ev_a492e9bf3e"
-      ],
-      "cluster_id": "cl_220",
-      "imagenes": [
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/little-italy.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_b55515b14b",
-          "titulo": "Meloni promises to ban burqas, niqabs in Italy’s schools",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/meloni-promises-to-ban-burqas-niqabs-in-italys-schools-2?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 21 Sep 2026 05:56:27 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_eba6ba1369",
-          "titulo": "Meloni announces ban on burqa and niqab in Italian schools, cap on foreign students",
-          "url": "https://www.euronews.com/my-europe/2026/09/20/meloni-announces-ban-on-burqa-and-niqab-in-italian-schools-and-cap-on-foreign-students",
-          "fuente": "Euronews English",
-          "fecha": "Sun, 20 Sep 2026 18:08:34 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a492e9bf3e",
-          "titulo": "The story of Little Italy's Feast of San Gennaro is the story of how Italian immigrants became American",
-          "url": "https://phys.org/news/2026-09-story-italy-feast-san-gennaro.html",
-          "fuente": "Phys.org",
-          "fecha": "Sun, 20 Sep 2026 12:00:01 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-21_0006",
-      "fecha": "2026-09-21",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-09-21_0005",
-        "nd_2026-09-21_0013"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "‘It’s unrecognisable’: How being a tax haven has changed Jersey",
-        "en": "‘It’s unrecognisable’: How being a tax haven has changed Jersey"
-      },
-      "sintesis": {
-        "es": "While global billionaires and multinational companies have been lured to its shores, many islanders feel left behind and priced out, with food bank use increasing On a late Friday afternoon on the Channel Island of Jersey, tourists and locals are flocking to St Helier’s waterfront where the town’s sprawling beach has emerged at low tide. In one direction, they face the calm waters of St Aubin’s Bay, ringed by a seaside promenade and punctuated with a tidal island hosting the 16th century Elizabeth Castle. Continue reading...",
-        "en": "While global billionaires and multinational companies have been lured to its shores, many islanders feel left behind and priced out, with food bank use increasing On a late Friday afternoon on the Channel Island of Jersey, tourists and locals are flocking to St Helier’s waterfront where the town’s sprawling beach has emerged at low tide. In one direction, they face the calm waters of St Aubin’s Bay, ringed by a seaside promenade and punctuated with a tidal island hosting the 16th century Elizabeth Castle. Continue reading..."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "Jersey"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 49,
-      "fuentes": [
-        "ev_1ceee77d1e",
-        "ev_468b393bd1",
-        "ev_14f937c950",
-        "ev_2ff5a251d1"
-      ],
-      "cluster_id": "cl_187",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/95ae190ebcb2641f2a04e40401d06b02b6ffa4fc/570_371_4111_3289/master/4111.jpg?width=140&quality=85&auto=format&fit=max&s=60b556cb1b3194c56f261a38c4f2acbd",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/firelight.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/mosquitoes.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1ceee77d1e",
-          "titulo": "‘It’s unrecognisable’: How being a tax haven has changed Jersey",
-          "url": "https://www.theguardian.com/uk-news/2026/sep/21/its-unrecognisable-how-being-a-tax-haven-has-changed-jersey",
-          "fuente": "The Guardian World",
-          "fecha": "Mon, 21 Sep 2026 04:00:35 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_468b393bd1",
-          "titulo": "How firelight may have shaped the origins of spoken language",
-          "url": "https://phys.org/news/2026-09-firelight-spoken-language.html",
-          "fuente": "Phys.org",
-          "fecha": "Sun, 20 Sep 2026 15:00:01 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_14f937c950",
-          "titulo": "How the malaria parasite boosts its transmission potential under stress conditions",
-          "url": "https://phys.org/news/2026-09-malaria-parasite-boosts-transmission-potential.html",
-          "fuente": "Phys.org",
-          "fecha": "Sat, 19 Sep 2026 17:00:05 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2ff5a251d1",
-          "titulo": "How much could investing $10,000 in a CD right now earn you in one year?",
-          "url": "https://www.cnbc.com/select/investing-10000-in-a-cd-earn-in-one-year/",
-          "fuente": "CNBC Top News",
-          "fecha": "Sun, 20 Sep 2026 18:35:24 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-21_0007",
-      "fecha": "2026-09-21",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Volkswagen queda fuera del Euro Stoxx 50 por la caída de su valor en bolsa",
-        "en": "Volkswagen exits Euro Stoxx 50 as index removal adds to pressure on troubled firm"
-      },
-      "sintesis": {
-        "es": "Volkswagen ha sido excluida del Euro Stoxx 50, el índice de referencia de la eurozona, decisión efectiva desde la apertura del mercado el lunes, pocos días después de que el mayor fabricante de coches europeo advirtiera que cargos extraordinarios eliminarán casi todo su beneficio anual.",
-        "en": "Volkswagen has been removed from the Euro Stoxx 50, the eurozone's benchmark index of its largest listed companies, taking effect as markets opened on Monday just days after Europe's biggest carmaker warned that one-off charges would wipe out most of its profit this year."
-      },
-      "categoria": "economia",
-      "actores": [
-        "Volkswagen",
-        "Euro Stoxx"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_df941a13e9",
-        "ev_5d791f0eaa"
-      ],
-      "cluster_id": "cl_080",
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_df941a13e9",
-          "titulo": "Volkswagen queda fuera del Euro Stoxx 50 por la caída de su valor en bolsa",
-          "url": "https://es.euronews.com/business/2026/09/21/volkswagen-sale-del-euro-stoxx-50-la-salida-del-indice-aumenta-la-presion-sobre-el-grupo",
-          "fuente": "Euronews Espanol",
-          "fecha": "Mon, 21 Sep 2026 11:47:47 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_5d791f0eaa",
-          "titulo": "Volkswagen exits Euro Stoxx 50 as index removal adds to pressure on troubled firm",
-          "url": "https://www.euronews.com/business/2026/09/21/volkswagen-exits-euro-stoxx-50-as-index-removal-adds-to-pressure-on-troubled-firm",
-          "fuente": "Euronews English",
-          "fecha": "Mon, 21 Sep 2026 11:46:47 +0200",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-21_0008",
-      "fecha": "2026-09-21",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "The Big Question: ¿Puede una sensación viral convertirse en una marca global?",
-        "en": "The Big Question: Can a viral sensation become a global brand?"
-      },
-      "sintesis": {
-        "es": "\"No vemos a nadie como competidor\": Conozca la marca viral que cuenta con Ashton Kutcher y PepsiCo entre sus inversores y que pretende revolucionar el sector.",
-        "en": "‘We don't see anyone as competitors’: Meet the viral brand who count Ashton Kutcher and PepsiCo among their investors"
-      },
-      "categoria": "salud",
-      "actores": [
-        "The Big",
-        "Question",
-        "Puede"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_bd6400166d",
-        "ev_90c2657277"
-      ],
-      "cluster_id": "cl_101",
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_bd6400166d",
-          "titulo": "The Big Question: ¿Puede una sensación viral convertirse en una marca global?",
-          "url": "https://es.euronews.com/business/2026/09/21/la-gran-pregunta-puede-una-sensacion-viral-convertirse-en-una-marca-global",
-          "fuente": "Euronews Espanol",
-          "fecha": "Mon, 21 Sep 2026 06:15:50 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_90c2657277",
-          "titulo": "The Big Question: Can a viral sensation become a global brand?",
-          "url": "https://www.euronews.com/business/2026/09/21/the-big-question-can-a-viral-sensation-become-a-global-brand",
-          "fuente": "Euronews English",
-          "fecha": "Mon, 21 Sep 2026 06:15:50 +0200",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-21_0009",
-      "fecha": "2026-09-21",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "En Nepal, los niños están traumatizados tras las mortíferas inundaciones de agosto",
-        "en": "UNICEF says thousands of children require mental health support after Nepal floods"
-      },
-      "sintesis": {
-        "es": "En Nepal, tres semanas después de las devastadoras inundaciones que dejaron más de 1.403 muertos y más de 6.100 desaparecidos, las necesidades siguen siendo numerosas. Varios miles de sobrevivientes lo han perdido todo: a sus seres queridos, pero también sus hogares, sus tierras, sus trabajos y sus ahorros. El gobierno nepalí ha anunciado un programa de becas para garantizar la educación de los niños huérfanos o desplazados a causa de la catástrofe.",
-        "en": "Three weeks after the devastating flash floods in Nepal, about 17,000 children require urgent mental health and psychosocial support in the country, the UN Children’s Fund (UNICEF) said on Tuesday."
-      },
-      "categoria": "clima",
-      "actores": [
-        "Nepal",
-        "UNICEF"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 44,
-      "fuentes": [
-        "ev_1b1eb4c1ce",
-        "ev_a31991ba87"
-      ],
-      "cluster_id": "cl_073",
-      "imagenes": [
-        "https://s.rfi.fr/media/display/3c0e7286-b2d0-11f1-833d-5570cf9529c5/w:1024/p:16x9/2026-09-10T172455Z-1682902496-RC2CGNA0UER6-RTRMADP-3-NEPAL-FLOODS.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/15-09-2026_UNICEF_Nepal.jpg/image560x340cropped.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1b1eb4c1ce",
-          "titulo": "En Nepal, los niños están traumatizados tras las mortíferas inundaciones de agosto",
-          "url": "https://www.rfi.fr/es/asia-pacifico/20260918-en-nepal-los-ni%C3%B1os-est%C3%A1n-traumatizados-tras-las-mort%C3%ADferas-inundaciones-de-agosto",
-          "fuente": "RFI Espanol",
-          "fecha": "Fri, 18 Sep 2026 13:44:03 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_a31991ba87",
-          "titulo": "UNICEF says thousands of children require mental health support after Nepal floods",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168340",
-          "fuente": "UN News",
-          "fecha": "Tue, 15 Sep 2026 12:00:00 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-21_0010",
-      "fecha": "2026-09-21",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Venezuela desbloquea los portales web de algunos medios de comunicación",
-        "en": "Repression continues in Venezuela in the face of ‘appalling’ human rights violations"
-      },
-      "sintesis": {
-        "es": "El Gobierno de Venezuela desbloquea varios portales web de medios de comunicación que llevaban años censurados. El regulador de las telecomunicaciones del país dio la noticia, horas antes del inicio de la segunda ronda del diálogo entre el Gobierno interino y la oposición de cara a una transición política. La libertad de expresión es uno de los temas principales de esta mesa de diálogo presidida por Estados Unidos.",
-        "en": "In Venezuela’s El Rodeo maximum security prison, some of those detained for political reasons are subject to forced intubation – and prolonged confinement in a sealed underground cistern."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "Venezuela",
-        "Repression"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 44,
-      "fuentes": [
-        "ev_466f03e614",
-        "ev_aa48641308"
-      ],
-      "cluster_id": "cl_076",
-      "imagenes": [
-        "https://s.rfi.fr/media/display/3480efb2-b36b-11f1-86e4-fb8321752947/w:1024/p:16x9/000-C8LV7ZB.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/16-09-2026_Adobe_Caracas.jpg/image560x340cropped.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_466f03e614",
-          "titulo": "Venezuela desbloquea los portales web de algunos medios de comunicación",
-          "url": "https://www.rfi.fr/es/programas/noticias-de-am%C3%A9rica/20260918-venezuela-desbloquea-los-portales-web-de-algunos-medios-de-comunicaci%C3%B3n",
-          "fuente": "RFI Espanol",
-          "fecha": "Fri, 18 Sep 2026 14:16:30 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_aa48641308",
-          "titulo": "Repression continues in Venezuela in the face of ‘appalling’ human rights violations",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168351",
-          "fuente": "UN News",
-          "fecha": "Wed, 16 Sep 2026 12:00:00 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-21_0011",
-      "fecha": "2026-09-21",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-09-21_0000",
-        "nd_2026-09-21_0003",
-        "nd_2026-09-21_0004"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "La actriz virtual Tilly Norwood sufre un fallo bochornoso en una entrevista viral",
-        "en": "AI 'actress' Tilly Norwood suffers embarrassing glitch during now-viral interview"
-      },
-      "sintesis": {
-        "es": "En el ya viral intercambio, la “actriz” generada por IA Tilly Norwood cambió de idioma de forma abrupta durante una entrevista para promocionar “su” debut en un largometraje.",
-        "en": "The now-viral exchange saw AI-generated \"actress\" Tilly Norwood abruptly switching languages during an interview to promote \"her\" feature film debut."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Tilly Norwood"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 44,
-      "fuentes": [
-        "ev_a557161682",
-        "ev_257c419264"
-      ],
-      "cluster_id": "cl_087",
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_a557161682",
-          "titulo": "La actriz virtual Tilly Norwood sufre un fallo bochornoso en una entrevista viral",
-          "url": "https://es.euronews.com/cultura/2026/09/21/la-actriz-virtual-tilly-norwood-sufre-un-fallo-bochornoso-en-una-entrevista-viral",
-          "fuente": "Euronews Espanol",
-          "fecha": "Mon, 21 Sep 2026 10:24:25 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_257c419264",
-          "titulo": "AI 'actress' Tilly Norwood suffers embarrassing glitch during now-viral interview",
-          "url": "https://www.euronews.com/culture/2026/09/21/ai-actress-tilly-norwood-suffers-embarrassing-glitch-during-now-viral-interview",
-          "fuente": "Euronews English",
-          "fecha": "Mon, 21 Sep 2026 10:22:49 +0200",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-09-21_0012",
-      "fecha": "2026-09-21",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Arranca la Oktoberfest con cerveza, brindis y el tradicional primer barril",
-        "en": "Oktoberfest kicks off with beer, cheers and a traditional first tap"
-      },
-      "sintesis": {
-        "es": "La Oktoberfest 2026 se inauguró en Múnich, Alemania, cuando el alcalde abrió el primer barril. Las multitudes cantaron y bebieron cerveza mientras la Policía reforzaba los controles de seguridad.",
-        "en": "Oktoberfest 2026 opened in Munich, Germany, when the mayor tapped the first keg. Crowds sang and drank beer while police stepped up security checks."
+        "es": "El presidente Donald Trump ordenó vetar el acceso a la Casa Blanca de los periodistas de CNN, MS NOW (antes MSNBC) y Politico, acusándolos de difundir noticias falsas, y el Servicio Secreto confiscó sus acreditaciones. Los tres medios presentaron una demanda judicial alegando violación de la Primera Enmienda, mientras que las principales cadenas de EE.UU. (CBS, ABC, NBC, Fox) suspendieron la cobertura conjunta ('pool') de eventos presidenciales en solidaridad. El episodio se enmarca en una escalada de tensiones entre la Administración Trump y la prensa estadounidense.",
+        "en": "President Donald Trump ordered a ban on White House access for journalists from CNN, MS NOW (formerly MSNBC) and Politico, accusing them of spreading fake news, and the Secret Service confiscated their credentials. The three outlets filed a lawsuit alleging a violation of the First Amendment, while major US networks (CBS, ABC, NBC, Fox) suspended joint 'pool' coverage of presidential events in solidarity. The episode marks an escalation in tensions between the Trump administration and the US press."
       },
       "categoria": "sociedad",
       "actores": [
-        "Oktoberfest",
-        "Arranca"
+        "Donald Trump",
+        "CNN",
+        "MS NOW (MSNBC)",
+        "Politico",
+        "Casa Blanca",
+        "Servicio Secreto de EE.UU.",
+        "CBS",
+        "ABC",
+        "NBC",
+        "Fox"
       ],
       "geo": {
-        "lat": 51.2,
-        "lon": 10.4,
+        "lat": 38.8977,
+        "lon": -77.0365,
+        "region": "Washington D.C., Estados Unidos"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_599e889a53",
+        "ev_be95d5e6b8",
+        "ev_33d4ed1d04",
+        "ev_8fff9d60fc",
+        "ev_1e0426a197",
+        "ev_e912c5d948",
+        "ev_fd6c052a55",
+        "ev_f95654b34f",
+        "ev_f13cb950a2",
+        "ev_680b871d44",
+        "ev_d569268472",
+        "ev_f308fc2518",
+        "ev_02f533e6fe",
+        "ev_ae0cab4ea2",
+        "ev_2ac6568c37"
+      ],
+      "cluster_id": "cl_045",
+      "imagenes": [
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260919/1215952_051908_video_1800.mp4",
+        "https://s.france24.com/media/display/035c349e-b615-11f1-b817-e554abee39f5/w:1024/p:16x9/ES-20260921-180145-180305-CS.jpg",
+        "https://s.rfi.fr/media/display/ef32bedc-b5b2-11f1-acb5-0730212ba17f/w:1024/p:16x9/AP26262740145332.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/21/17899901512707.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_599e889a53",
+          "titulo": "Trump anuncia el veto al acceso a la Casa Blanca de CNN, MSNBC y Politico",
+          "url": "https://elpais.com/internacional/2026-09-18/trump-veta-el-acceso-a-la-casa-blanca-de-cnn-msnbc-y-politico.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Fri, 18 Sep 2026 19:24:10 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_be95d5e6b8",
+          "titulo": "Medios de EE.UU. demandan al Gobierno Trump por veto a periodistas en la Casa Blanca",
+          "url": "https://www.france24.com/es/video/20260921-medios-de-ee-uu-demandan-a-trump-por-veto-a-periodistas-en-la-casa-blanca",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 21 Sep 2026 23:59:44 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_33d4ed1d04",
+          "titulo": "EEUU: Los medios de comunicación estadounidenses organizan su respuesta ante la ofensiva de Trump",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20260922-eeuu-los-medios-de-comunicaci%C3%B3n-estadounidenses-organizan-su-respuesta-ante-la-ofensiva-de-trump",
+          "fuente": "RFI Espanol",
+          "fecha": "Tue, 22 Sep 2026 09:23:52 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_8fff9d60fc",
+          "titulo": "Las grandes cadenas de EE.UU. suspenden la cobertura de Trump en respuesta a su veto de varios medios",
+          "url": "https://es.euronews.com/2026/09/22/las-grandes-cadenas-de-eeuu-suspenden-la-cobertura-de-trump-en-respuesta-a-su-veto-de-vari",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 22 Sep 2026 07:17:39 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_1e0426a197",
+          "titulo": "Las principales cadenas de televisión de EE.UU. suspenden la cobertura conjunta de Trump tras el veto de la Casa Blanca a tres medios",
+          "url": "https://www.elmundo.es/internacional/2026/09/21/6ab11520e85ece543f8b458b.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Mon, 21 Sep 2026 17:44:12 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_e912c5d948",
+          "titulo": "La Casa Blanca hace efectivo el veto de Trump e impide acceso a periodistas de CNN, MS NOW y Politico",
+          "url": "https://www.elmundo.es/internacional/2026/09/19/6aaeafdefdddffec7f8b458a.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sat, 19 Sep 2026 18:06:30 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_fd6c052a55",
+          "titulo": "Major US outlets boycott shared Trump coverage in protest at media ban",
+          "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 22 Sep 2026 08:17:15 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f95654b34f",
+          "titulo": "Trump says he’ll probably lose lawsuit brought by news outlets he banned from White House, blaming judge appointed by ‘TRUMP’ – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 22 Sep 2026 02:02:18 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f13cb950a2",
+          "titulo": "US TV networks suspend White House pool coverage over Trump media ban",
+          "url": "https://www.theguardian.com/us-news/2026/sep/21/trump-tv-networks-white-house-pool-coverage",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 22 Sep 2026 01:37:29 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_680b871d44",
+          "titulo": "‘National security threat’: Trump’s latest attack on US media",
+          "url": "https://www.france24.com/en/video/20260921-national-security-threat-trump-s-latest-attack-on-us-media",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 21 Sep 2026 16:35:08 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d569268472",
+          "titulo": "All major US networks suspend Trump coverage in revolt over White House ban",
+          "url": "https://www.euronews.com/2026/09/22/all-major-us-networks-suspend-trump-coverage-in-revolt-over-white-house-ban",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 22 Sep 2026 05:42:27 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f308fc2518",
+          "titulo": "MS NOW, CNN and Politico sue Trump administration over White House ban",
+          "url": "https://www.cbc.ca/news/world/trump-white-house-news-ban-9.7351884?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Mon, 21 Sep 2026 09:36:06 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-22_0006",
+      "fecha": "2026-09-22",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-09-22_0007"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Paramount llega a un acuerdo con estados de EE.UU. que despeja el camino para fusionarse con Warner Bros. Discovery",
+        "en": "Paramount reaches settlement with US states clearing path to merge with Warner Bros. Discovery"
+      },
+      "sintesis": {
+        "es": "Paramount Skydance alcanzó un acuerdo con California y otros 11 estados de EE.UU. que pone fin a una demanda antimonopolio y despeja el camino para su adquisición de Warner Bros. Discovery, valorada en unos 80.000-110.000 millones de dólares según las fuentes. El pacto incluye compromisos como estrenar 30 películas al año, invertir en Hollywood, crear un fondo laboral y garantizar salvaguardas editoriales para CNN y CBS News. La fusión crearía un gigante mediático con estudios, cadenas de televisión, noticias y plataformas de streaming como HBO Max y Paramount+, aunque críticos y exfuncionarios como Lina Khan advierten que podría fomentar un monopolio.",
+        "en": "Paramount Skydance reached a settlement with California and 11 other US states that ends an antitrust lawsuit and clears the way for its acquisition of Warner Bros. Discovery, valued between roughly $80 billion and $110 billion depending on the source. The deal includes commitments such as releasing 30 films annually, investing in Hollywood, creating a labor fund, and guaranteeing editorial safeguards for CNN and CBS News. The merger would create a media giant spanning studios, television networks, news, and streaming platforms like HBO Max and Paramount+, though critics and former officials like Lina Khan warn it could foster a monopoly."
+      },
+      "categoria": "economia",
+      "actores": [
+        "Paramount Skydance",
+        "Warner Bros. Discovery",
+        "California Attorney General",
+        "Estados de EE.UU.",
+        "CNN",
+        "CBS News",
+        "Writers Guild of America",
+        "Lina Khan"
+      ],
+      "geo": {
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "region": "California, Estados Unidos"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_dcecc97d66",
+        "ev_f71352df3b",
+        "ev_42e01fd116",
+        "ev_3d658b5220",
+        "ev_217e674b1c",
+        "ev_379e91b6b1",
+        "ev_3845eb01d6",
+        "ev_293ef24192",
+        "ev_66d0c3dafc"
+      ],
+      "cluster_id": "cl_053",
+      "imagenes": [
+        "https://s.france24.com/media/display/60a43b90-b621-11f1-9803-4d220c210a04/w:1024/p:16x9/IVS-ECO-21SEP-PARAMOUNT-Y-GUARNER-FONDO-00000.png",
+        "https://s.france24.com/media/display/0f407148-b616-11f1-b8cf-4d220c210a04/w:1024/p:16x9/ES-20260921-180331-180508-CS.jpg",
+        "https://s.france24.com/media/display/7d117c5e-b610-11f1-90c1-d382746d948a/w:1024/p:16x9/capture-10965374426ab1b77789cdb1-95808430.jpg",
+        "https://s.france24.com/media/display/ca174cbc-1391-11f1-9093-005056a90284/w:1024/p:16x9/AP26058003516764.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_dcecc97d66",
+          "titulo": "Paramount despeja el camino para adquirir a Warner por alrededor de 100.000 millones de dólares",
+          "url": "https://www.france24.com/es/programas/econom%C3%ADa/20260922-paramount-despeja-el-camino-para-adquirir-a-warner-por-alrededor-de-100-000-millones-de-d%C3%B3lares",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 22 Sep 2026 02:14:28 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f71352df3b",
+          "titulo": "Paramount desbloquea fusión con Warner Bros., pero debe cumplir ciertas condiciones",
+          "url": "https://www.france24.com/es/video/20260922-paramount-desbloquea-fusi%C3%B3n-con-warner-bros-pero-debe-cumplir-ciertas-condiciones",
+          "fuente": "France 24 Espanol",
+          "fecha": "Tue, 22 Sep 2026 00:07:28 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_42e01fd116",
+          "titulo": "Paramount settles with US states to clear Warner Bros. mega-merger",
+          "url": "https://www.france24.com/en/video/20260921-paramount-settles-with-us-states-to-clear-warner-bros-mega-merger",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 21 Sep 2026 23:07:14 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3d658b5220",
+          "titulo": "Paramount settles with US states, clearing path for Warner Bros. merger",
+          "url": "https://www.france24.com/en/americas/20260921-paramount-settles-with-us-states-clearing-path-for-warner-bros-merger",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 21 Sep 2026 22:48:23 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_217e674b1c",
+          "titulo": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
+          "url": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
+          "fuente": "The Verge",
+          "fecha": "",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_379e91b6b1",
+          "titulo": "Paramount, US states settle antitrust lawsuit over Warner Bros. acquisition",
+          "url": "https://www.france24.com/en/tv-shows/business/20260921-paramount-us-states-settle-antitrust-lawsuit-over-warner-bros-acquisition",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 21 Sep 2026 21:13:22 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3845eb01d6",
+          "titulo": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
+          "url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 21 Sep 2026 20:13:15 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_293ef24192",
+          "titulo": "Paramount settles with U.S. states over Warner Bros. merger, clearing way for $81B US deal",
+          "url": "https://www.cbc.ca/news/entertainment/paramount-settles-california-other-us-states-warner-bros-merger-9.7352512?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Mon, 21 Sep 2026 14:55:00 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_66d0c3dafc",
+          "titulo": "California settles lawsuit against Paramount/Warner merger, angering advocates",
+          "url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
+          "fuente": "Ars Technica",
+          "fecha": "Mon, 21 Sep 2026 16:15:26 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-22_0007",
+      "fecha": "2026-09-22",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-09-22_0006"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Columbia Británica demanda a OpenAI por tiroteo escolar en Tumbler Ridge",
+        "en": "British Columbia sues OpenAI over Tumbler Ridge school shooting"
+      },
+      "sintesis": {
+        "es": "La provincia canadiense de Columbia Británica presentó una demanda contra OpenAI y su CEO Sam Altman en un tribunal federal de San Francisco. La provincia alega que el tiroteo mortal ocurrido en febrero en una escuela de Tumbler Ridge pudo haberse evitado si la empresa hubiera alertado a las autoridades sobre las inquietantes interacciones del atacante con ChatGPT usadas para planificar el ataque. La demanda busca daños para financiar la recuperación de la provincia y exige cambios en cómo la empresa maneja conversaciones que podrían derivar en violencia.",
+        "en": "The Canadian province of British Columbia has filed a lawsuit against OpenAI and its CEO Sam Altman in a San Francisco federal court. The province alleges that the deadly February shooting at a school in Tumbler Ridge could have been prevented if the company had alerted law enforcement to the shooter's troubling interactions with ChatGPT used to plan the attack. The lawsuit seeks damages to fund recovery efforts and demands changes to how the company handles conversations that could lead to violence."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "British Columbia government",
+        "OpenAI",
+        "Sam Altman",
+        "ChatGPT"
+      ],
+      "geo": {
+        "lat": 55.1367,
+        "lon": -120.9944,
+        "region": "Tumbler Ridge, British Columbia, Canada"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_9c9ac9cdee",
+        "ev_fd4e012c11",
+        "ev_de77b1c2cf",
+        "ev_88dc0b1a03"
+      ],
+      "cluster_id": "cl_171",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be84/live/b73dbac0-b5ff-11f1-bc1f-3f186ca4140c.jpg",
+        "https://i.guim.co.uk/img/media/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/master/4590.jpg?width=140&quality=85&auto=format&fit=max&s=dd084ea8eff0a89d37edf644c6807fce",
+        "https://static01.nyt.com/images/2026/09/21/multimedia/21int-canada-openai-lawsuit-1-vwlq/21int-canada-openai-lawsuit-1-vwlq-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_9c9ac9cdee",
+          "titulo": "Canadian province sues OpenAI over Tumbler Ridge school shooting",
+          "url": "https://www.bbc.co.uk/news/articles/c3wyz2rkgrx0o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 22 Sep 2026 01:44:17 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_fd4e012c11",
+          "titulo": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
+          "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 22 Sep 2026 04:29:22 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_de77b1c2cf",
+          "titulo": "Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
+          "url": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 22 Sep 2026 02:44:51 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_88dc0b1a03",
+          "titulo": "British Columbia Sues OpenAI Over Tumbler Ridge Shooting",
+          "url": "https://www.nytimes.com/2026/09/21/world/canada/open-ai-tumbler-ridge-shooting-british-columbia.html",
+          "fuente": "NYT World",
+          "fecha": "Mon, 21 Sep 2026 21:58:02 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-22_0008",
+      "fecha": "2026-09-22",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Multitudinaria protesta contra el centro de datos de Google en un pequeño pueblo austríaco",
+        "en": "EU fines Google €403 million for improperly using location data"
+      },
+      "sintesis": {
+        "es": "Los vecinos muestran su preocupación por la falta de transparencia del proyecto y por las dudas sobre la refrigeración, el uso de agua y su impacto en el río Enns.",
+        "en": "Ireland, on behalf of the European Union, said Monday it had fined Google €403 million for improperly using users' location data between May 2018 and February 2020. However, the eight-year delay drew some criticism, as the European Consumer Organisation said that \"can be as harmful as no enforcement at all\"."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Google",
+        "Multitudinaria"
+      ],
+      "geo": {
+        "lat": 50.8,
+        "lon": 4.4,
         "region": "Europa"
       },
-      "impacto": 44,
+      "impacto": 57,
       "fuentes": [
-        "ev_ccef04d6d3",
-        "ev_65bd696673"
+        "ev_65d57928aa",
+        "ev_d3ce6767c6",
+        "ev_d157edf23d"
       ],
-      "cluster_id": "cl_088",
+      "cluster_id": "cl_082",
+      "imagenes": [
+        "https://s.france24.com/media/display/9b61a184-b5ca-11f1-9736-1d61c7110e09/w:1024/p:16x9/AP26264428506639.jpg",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_65d57928aa",
+          "titulo": "Multitudinaria protesta contra el centro de datos de Google en un pequeño pueblo austríaco",
+          "url": "https://es.euronews.com/2026/09/22/cientos-protestan-contra-el-centro-de-datos-de-google-en-un-pequeno-pueblo-austriaco",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 22 Sep 2026 10:54:42 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d3ce6767c6",
+          "titulo": "EU fines Google €403 million for improperly using location data",
+          "url": "https://www.france24.com/en/europe/20260921-eu-fines-google-%E2%82%AC403-million-for-improperly-using-location-data",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 21 Sep 2026 15:05:05 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d157edf23d",
+          "titulo": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+          "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+          "fuente": "Ars Technica",
+          "fecha": "Sun, 20 Sep 2026 11:07:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-22_0009",
+      "fecha": "2026-09-22",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-09-22_0011"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "El tifón Dujuan deja al menos cinco muertos y decenas de heridos en Japón",
+        "en": "Typhoon Dujuan leaves at least five dead and dozens injured in Japan"
+      },
+      "sintesis": {
+        "es": "El tifón Dujuan azotó Japón con vientos de hasta 144 km/h y lluvias récord, causando al menos cinco muertos y 22 heridos, principalmente en la región de Tokio. Las autoridades ordenaron la evacuación de cerca de dos millones de personas en seis prefecturas ante el riesgo de deslizamientos e inundaciones. Decenas de miles de hogares quedaron sin electricidad y se reportó caos en los transportes antes de que la tormenta se alejara del país.",
+        "en": "Typhoon Dujuan struck Japan with winds up to 144 km/h and record rainfall, killing at least five people and injuring 22, mainly in the Tokyo region. Authorities ordered evacuations for nearly two million people across six prefectures due to landslide and flood risks. Tens of thousands of homes lost power and travel chaos was reported before the storm moved away from the country."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Gobierno de Japón",
+        "Agencia Meteorológica de Japón",
+        "Residentes de la región de Tokio"
+      ],
+      "geo": {
+        "lat": 35.6762,
+        "lon": 139.6503,
+        "region": "Japón (Tokio y prefecturas circundantes)"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_0f9985c7a7",
+        "ev_8b2bbbde2b",
+        "ev_36bac936d4",
+        "ev_435f9fd442"
+      ],
+      "cluster_id": "cl_170",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f73/live/802ac5d0-b5de-11f1-88a2-d7d3c19446bf.jpg",
+        "https://i.guim.co.uk/img/media/2677ceb1cc927a808c0dc8d48d9d324e226ec454/332_0_3305_2645/master/3305.jpg?width=140&quality=85&auto=format&fit=max&s=8ae47c0edb12dd9e01cbfb0416367ae1",
+        "https://s.france24.com/media/display/dec59e40-b5ce-11f1-895f-e554abee39f5/w:1024/p:16x9/Typhoon-Japan-thumbnail.jpg",
+        "https://static01.nyt.com/images/2026/09/22/multimedia/22xp-japan-mgpk/22xp-japan-mgpk-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0f9985c7a7",
+          "titulo": "Four dead after powerful Typhoon Dujuan lashes Japan",
+          "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Tue, 22 Sep 2026 05:58:35 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8b2bbbde2b",
+          "titulo": "At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides",
+          "url": "https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo",
+          "fuente": "The Guardian World",
+          "fecha": "Tue, 22 Sep 2026 04:48:59 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_36bac936d4",
+          "titulo": "Typhoon Dujuan: Japan urges two million to evacuate",
+          "url": "https://www.france24.com/en/video/20260921-typhoon-dujuan-japan-urges-two-million-to-evacuate",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 21 Sep 2026 16:12:03 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_435f9fd442",
+          "titulo": "Typhoon Dujuan Brings Record Rain to Japan, Killing 5 People",
+          "url": "https://www.nytimes.com/2026/09/22/world/asia/japan-typhoon-dujuan-tokyo.html",
+          "fuente": "NYT World",
+          "fecha": "Tue, 22 Sep 2026 07:51:32 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-22_0010",
+      "fecha": "2026-09-22",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "New mesothelioma drug turns cancer’s own defenses against it",
+        "en": "New mesothelioma drug turns cancer’s own defenses against it"
+      },
+      "sintesis": {
+        "es": "Scientists are testing a counterintuitive way to fight mesothelioma, an aggressive asbestos-linked cancer with few effective treatments. A new experimental mesothelioma drug kills cancer cells by disabling PRX3, an antioxidant defense that tumors use to survive intense oxidative stress. In an early clinical trial, it controlled disease progression in 67% of patients and produced encouraging survival results, raising hopes that the strategy could eventually be used against other cancers.",
+        "en": "Scientists are testing a counterintuitive way to fight mesothelioma, an aggressive asbestos-linked cancer with few effective treatments. A new experimental mesothelioma drug kills cancer cells by disabling PRX3, an antioxidant defense that tumors use to survive intense oxidative stress. In an early clinical trial, it controlled disease progression in 67% of patients and produced encouraging survival results, raising hopes that the strategy could eventually be used against other cancers."
+      },
+      "categoria": "salud",
+      "actores": [
+        "New",
+        "Spain"
+      ],
+      "geo": {
+        "lat": 40.5,
+        "lon": -3.7,
+        "region": "Europa"
+      },
+      "impacto": 53,
+      "fuentes": [
+        "ev_130236d1d4",
+        "ev_02954aa23b",
+        "ev_3d1d56b3a1",
+        "ev_e5d62c321c",
+        "ev_ccb37abe76"
+      ],
+      "cluster_id": "cl_315",
+      "imagenes": [
+        "https://scx1.b-cdn.net/csz/news/tmb/2019/bison.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_130236d1d4",
+          "titulo": "New investment funds in Spain involved in biggest property deals in 2026",
+          "url": "https://www.euronews.com/business/2026/09/22/new-investment-funds-in-spain-emerge-among-2026s-biggest-property-deals",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 22 Sep 2026 06:00:09 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_02954aa23b",
+          "titulo": "New nanoparticles make hidden chemical differences light up",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260919031030.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Sun, 20 Sep 2026 07:35:28 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3d1d56b3a1",
+          "titulo": "New chemical wipes out 95% of termites without harming humans",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260919025248.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Sat, 19 Sep 2026 08:29:12 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e5d62c321c",
+          "titulo": "New mesothelioma drug turns cancer’s own defenses against it",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Thu, 17 Sep 2026 01:11:51 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ccb37abe76",
+          "titulo": "New study reveals gaps in bison parasite management",
+          "url": "https://phys.org/news/2026-09-reveals-gaps-bison-parasite.html",
+          "fuente": "Phys.org",
+          "fecha": "Mon, 21 Sep 2026 17:40:06 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-22_0011",
+      "fecha": "2026-09-22",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-09-22_0009"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "El asistente de IA Muse de Meta gana popularidad pero enfrenta críticas por seguridad y privacidad",
+        "en": "Meta's Muse AI assistant gains popularity but faces security and privacy criticism"
+      },
+      "sintesis": {
+        "es": "Meta lanzó Muse, un asistente de IA con permisos extendidos, que registró entre 730.000 y 2.5 millones de descargas en sus primeras dos semanas. Sin embargo, investigadores de seguridad descubrieron una vulnerabilidad crítica de día cero explotable mediante ataques ClickFix, mientras que analistas señalan que la app recopila datos sensibles como información bancaria y de pasaporte para entrenamiento de IA.",
+        "en": "Meta launched Muse, an AI assistant with extensive permissions, which recorded between 730,000 and 2.5 million downloads in its first two weeks. However, security researchers discovered a critical zero-day vulnerability exploitable through ClickFix attacks, while analysts note the app collects sensitive data like bank and passport information for AI training."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Meta",
+        "Ars Technica",
+        "WIRED",
+        "CNBC"
+      ],
+      "geo": {
+        "lat": 37.4848,
+        "lon": -122.1484,
+        "region": "Estados Unidos (sede Meta)"
+      },
+      "impacto": 52,
+      "fuentes": [
+        "ev_7af2e34646",
+        "ev_2516daaac0",
+        "ev_c4dc35e4c7"
+      ],
+      "cluster_id": "cl_441",
+      "imagenes": [
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
+        "https://media.wired.com/photos/6aaa7e94f251bfe9554bf013/master/pass/091626-Meta%20Muse.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_7af2e34646",
+          "titulo": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+          "fuente": "Ars Technica",
+          "fecha": "Mon, 21 Sep 2026 22:24:38 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2516daaac0",
+          "titulo": "Meta's Muse Is Better at Surveilling Than Helping Me",
+          "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+          "fuente": "WIRED",
+          "fecha": "Sun, 20 Sep 2026 10:30:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c4dc35e4c7",
+          "titulo": "Meta's Muse AI agent downloads are surging. Here's how it compares to ChatGPT, Grok and Claude",
+          "url": "https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 21 Sep 2026 23:03:57 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-09-22_0012",
+      "fecha": "2026-09-22",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Muere el cantante y compositor Jorge Palma a los 76 años de edad",
+        "en": "Jorge Palma, Portuguese singer-songwriter, dies aged 76"
+      },
+      "sintesis": {
+        "es": "El cantante de 'Deixa-me Rir' o 'A Gente Vai Continuar' ha muerto a los 76 años, por una parada cardiorrespiratoria, tras más de 50 años de carrera dedicada a la música portuguesa.",
+        "en": "The singer behind \"Deixa-me Rir\" and \"A Gente Vai Continuar\" has died aged 76 from cardiorespiratory arrest, after more than 50 years devoted to Portuguese music."
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "Jorge Palma",
+        "Muere",
+        "Portuguese"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 46,
+      "fuentes": [
+        "ev_02ac4c88a3",
+        "ev_2a0c80e120"
+      ],
+      "cluster_id": "cl_095",
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_ccef04d6d3",
-          "titulo": "Arranca la Oktoberfest con cerveza, brindis y el tradicional primer barril",
-          "url": "https://es.euronews.com/video/2026/09/21/arranca-la-oktoberfest-con-cerveza-brindis-y-el-tradicional-primer-barril",
+          "id": "ev_02ac4c88a3",
+          "titulo": "Muere el cantante y compositor Jorge Palma a los 76 años de edad",
+          "url": "https://es.euronews.com/2026/09/22/muere-jorge-palma-cantante-y-compositor-a-los-76-anos",
           "fuente": "Euronews Espanol",
-          "fecha": "Mon, 21 Sep 2026 10:11:50 +0200",
+          "fecha": "Tue, 22 Sep 2026 07:37:26 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_65bd696673",
-          "titulo": "Oktoberfest kicks off with beer, cheers and a traditional first tap",
-          "url": "https://www.euronews.com/video/2026/09/21/oktoberfest-kicks-off-with-beer-cheers-and-a-traditional-first-tap",
+          "id": "ev_2a0c80e120",
+          "titulo": "Jorge Palma, Portuguese singer-songwriter, dies aged 76",
+          "url": "https://www.euronews.com/culture/2026/09/22/jorge-palma-portuguese-singer-songwriter-dies-aged-76",
           "fuente": "Euronews English",
-          "fecha": "Mon, 21 Sep 2026 10:10:47 +0200",
+          "fecha": "Tue, 22 Sep 2026 07:37:37 +0200",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-09-21_0013",
-      "fecha": "2026-09-21",
+      "id": "nd_2026-09-22_0013",
+      "fecha": "2026-09-22",
       "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-09-21_0005",
-        "nd_2026-09-21_0006"
-      ]
+      "relaciones": []
     }
   ]
 }
