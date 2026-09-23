@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-22
-nodos: 22
+actualizado: 2026-09-23
+nodos: 21
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-22. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-23. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-22 nodos registrados en el periodo. Lo mas reciente: Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute.
+21 nodos registrados en el periodo. Lo mas reciente: Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute.
 
 ## Trend summary (EN)
-22 nodes recorded in the period. Most recent: Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute.
+21 nodes recorded in the period. Most recent: Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute.
 
 > [!note] Estado actual
 > Houthis move to seize strategic terrain after Trump calls off airstrikes at last minute
 
-## Nodos recientes (22 en la ventana)
+## Nodos recientes (21 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-22 | 83 | K0 | Houthis move to seize strategic terrain after Trump calls off ai |

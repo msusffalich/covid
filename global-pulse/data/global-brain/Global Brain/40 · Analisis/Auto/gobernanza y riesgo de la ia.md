@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-22
-nodos: 28
+actualizado: 2026-09-23
+nodos: 27
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-22. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-23. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-28 nodos registrados en el periodo. Lo mas reciente: En directo: la Asamblea General de la ONU comenzará este martes marcada por las guerras en Irán y Ucrania.
+27 nodos registrados en el periodo. Lo mas reciente: AI takes centre stage at UN General Assembly.
 
 ## Trend summary (EN)
-28 nodes recorded in the period. Most recent: British PM Andy Burnham to meet Trump for the first time at the UN in New York.
+27 nodes recorded in the period. Most recent: AI takes centre stage at UN General Assembly.
 
 > [!note] Estado actual
-> En directo: la Asamblea General de la ONU comenzará este martes marcada por las guerras en Irán y Ucrania
+> AI takes centre stage at UN General Assembly
 
-## Nodos recientes (28 en la ventana)
+## Nodos recientes (27 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-23 | 83 | K1 | AI takes centre stage at UN General Assembly |
 | 2026-09-22 | 95 | K2 | En directo: la Asamblea General de la ONU comenzará este martes  |
 | 2026-09-22 | 62 | K2 | Columbia Británica demanda a OpenAI por tiroteo escolar en Tumbl |
 | 2026-09-20 | 71 | K1 | Gemini went rogue, hacked three companies, and Google hid it |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-16 | 73 | K1 | Por qué OpenAI y Anthropic quieren frenar la carrera por la inte |
 | 2026-09-15 | 70 | K0 | Microsoft impone límites a la IA en las escuelas de EE UU ante e |
 | 2026-09-14 | 95 | K2 | Trump cuestiona a las "fuerzas negativas" que piden desacelerar  |
-| 2026-09-14 | 57 | K2 | China, regulación o mercado: ¿qué hay detrás de las alertas sobr |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-09-22
-nodos: 24
+actualizado: 2026-09-23
+nodos: 23
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-22. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-23. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-24 nodos registrados en el periodo. Lo mas reciente: En directo: la Asamblea General de la ONU comenzará este martes marcada por las guerras en Irán y Ucrania.
+23 nodos registrados en el periodo. Lo mas reciente: En directo: la Asamblea General de la ONU comenzará este martes marcada por las guerras en Irán y Ucrania.
 
 ## Trend summary (EN)
-24 nodes recorded in the period. Most recent: British PM Andy Burnham to meet Trump for the first time at the UN in New York.
+23 nodes recorded in the period. Most recent: British PM Andy Burnham to meet Trump for the first time at the UN in New York.
 
 > [!note] Estado actual
 > En directo: la Asamblea General de la ONU comenzará este martes marcada por las guerras en Irán y Ucrania
 
-## Nodos recientes (24 en la ventana)
+## Nodos recientes (23 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-22 | 95 | K2 | En directo: la Asamblea General de la ONU comenzará este martes  |

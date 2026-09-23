@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-22
-nodos: 38
+actualizado: 2026-09-23
+nodos: 37
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-22. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-23. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-38 nodos registrados en el periodo. Lo mas reciente: Inmigrantes deportados a África: así es la maquinaria de la administración de Trump.
+37 nodos registrados en el periodo. Lo mas reciente: Inmigrantes deportados a África: así es la maquinaria de la administración de Trump.
 
 ## Trend summary (EN)
-38 nodes recorded in the period. Most recent: Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war.
+37 nodes recorded in the period. Most recent: Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war.
 
 > [!note] Estado actual
 > Inmigrantes deportados a África: así es la maquinaria de la administración de Trump
 
-## Nodos recientes (38 en la ventana)
+## Nodos recientes (37 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-22 | 95 | K1 | Inmigrantes deportados a África: así es la maquinaria de la admi |
