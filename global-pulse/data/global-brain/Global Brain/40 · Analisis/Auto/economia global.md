@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-23
+actualizado: 2026-09-24
 nodos: 37
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-23. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-24. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-37 nodos registrados en el periodo. Lo mas reciente: Inmigrantes deportados a África: así es la maquinaria de la administración de Trump.
+37 nodos registrados en el periodo. Lo mas reciente: Australia denuncia hackeo de un agente de IA de OpenAI a portal sanitario Medicare.
 
 ## Trend summary (EN)
-37 nodes recorded in the period. Most recent: Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war.
+37 nodes recorded in the period. Most recent: Australia reports AI agent hack by OpenAI on Medicare health portal.
 
 > [!note] Estado actual
-> Inmigrantes deportados a África: así es la maquinaria de la administración de Trump
+> Australia denuncia hackeo de un agente de IA de OpenAI a portal sanitario Medicare
 
 ## Nodos recientes (37 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-24 | 72 | K1 | Australia denuncia hackeo de un agente de IA de OpenAI a portal  |
 | 2026-09-22 | 95 | K1 | Inmigrantes deportados a África: así es la maquinaria de la admi |
 | 2026-09-22 | 62 | K2 | Columbia Británica demanda a OpenAI por tiroteo escolar en Tumbl |
 | 2026-09-21 | 57 | K0 | Trump amenaza con “cortar el comercio” si la UE se asocia con Ca |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-18 | 95 | K1 | Canadá celebra cercanía con la UE mientras Trump amenaza con más |
 | 2026-09-18 | 82 | K1 | Dan Wang: “China nunca superará a Estados Unidos” |
 | 2026-09-17 | 83 | K1 | ¿A qué responde la persistencia de la alta inflación en Estados  |
-| 2026-09-17 | 78 | K1 | Arabia Saudita acusa a los hutíes de atacar cerca de La Meca en  |
 
 [[Global Brain — Inicio|← Inicio]]

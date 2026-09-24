@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-09-23
-nodos: 21
+actualizado: 2026-09-24
+nodos: 19
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-23. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-24. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-21 nodos registrados en el periodo. Lo mas reciente: El huracán Polo alcanza categoría 5 y amenaza la costa del Pacífico mexicano.
+19 nodos registrados en el periodo. Lo mas reciente: El huracán Polo alcanza categoría 5 y amenaza la costa del Pacífico mexicano.
 
 ## Trend summary (EN)
-21 nodes recorded in the period. Most recent: Hurricane Polo reaches Category 5 and threatens Mexico's Pacific coast.
+19 nodes recorded in the period. Most recent: Hurricane Polo reaches Category 5 and threatens Mexico's Pacific coast.
 
 > [!note] Estado actual
 > El huracán Polo alcanza categoría 5 y amenaza la costa del Pacífico mexicano
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (19 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-23 | 55 | K1 | El huracán Polo alcanza categoría 5 y amenaza la costa del Pacíf |
