@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-24
-nodos: 22
+actualizado: 2026-09-25
+nodos: 21
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-24. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-25. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-22 nodos registrados en el periodo. Lo mas reciente: Directo a... Nueva York y los discursos de Pezeshkian y Milei ante la Asamblea de la ONU.
+21 nodos registrados en el periodo. Lo mas reciente: Directo a... Nueva York y los discursos de Pezeshkian y Milei ante la Asamblea de la ONU.
 
 ## Trend summary (EN)
-22 nodes recorded in the period. Most recent: Directo a... Nueva York y los discursos de Pezeshkian y Milei ante la Asamblea de la ONU.
+21 nodes recorded in the period. Most recent: Directo a... Nueva York y los discursos de Pezeshkian y Milei ante la Asamblea de la ONU.
 
 > [!note] Estado actual
 > Directo a... Nueva York y los discursos de Pezeshkian y Milei ante la Asamblea de la ONU
 
-## Nodos recientes (22 en la ventana)
+## Nodos recientes (21 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-24 | 83 | K1 | Directo a... Nueva York y los discursos de Pezeshkian y Milei an |

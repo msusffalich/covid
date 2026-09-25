@@ -2,28 +2,32 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-24
-nodos: 30
+actualizado: 2026-09-25
+nodos: 32
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-24. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-25. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-30 nodos registrados en el periodo. Lo mas reciente: Trump despliega la alfombra roja a Xi Jinping, en un contexto de tregua en la guerra comercial.
+32 nodos registrados en el periodo. Lo mas reciente: Estados Unidos: Donald Trump abre las puertas a los autos chinos.
 
 ## Trend summary (EN)
-30 nodes recorded in the period. Most recent: US President Trump offers grand welcome to his Chinese counterpart Xi Jinping.
+32 nodes recorded in the period. Most recent: Iran awaiting response from Trump on proposal to open strait of Hormuz in six days.
 
 > [!note] Estado actual
-> Trump despliega la alfombra roja a Xi Jinping, en un contexto de tregua en la guerra comercial
+> Estados Unidos: Donald Trump abre las puertas a los autos chinos
 
-## Nodos recientes (30 en la ventana)
+## Nodos recientes (32 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-25 | 95 | K1 | Estados Unidos: Donald Trump abre las puertas a los autos chinos |
+| 2026-09-25 | 78 | K2 | Cómo la IA y los robots acompañan a las personas con Alzhéimer |
+| 2026-09-25 | 68 | K2 | Herramienta de IA de OpenAI accedió sin autorización a sistemas  |
+| 2026-09-25 | 45 | K1 | El Papa León XIV inicia visita histórica de cuatro días a Franci |
 | 2026-09-24 | 95 | K1 | Trump despliega la alfombra roja a Xi Jinping, en un contexto de |
 | 2026-09-24 | 72 | K1 | Australia denuncia hackeo de un agente de IA de OpenAI a portal  |
 | 2026-09-24 | 59 | K0 | OpenAI AI agent breached Australian government website, PM says |
@@ -32,9 +36,5 @@ origen: global-pulse
 | 2026-09-22 | 95 | K2 | En directo: la Asamblea General de la ONU comenzará este martes  |
 | 2026-09-22 | 62 | K2 | Columbia Británica demanda a OpenAI por tiroteo escolar en Tumbl |
 | 2026-09-20 | 71 | K1 | Gemini went rogue, hacked three companies, and Google hid it |
-| 2026-09-19 | 75 | K0 | Google says its Gemini AI model hacked three other companies |
-| 2026-09-19 | 45 | K1 | OpenAI, Anthropic y Google trabajan en la creación de un organis |
-| 2026-09-18 | 74 | K1 | El Supremo rechaza las restricciones de Trump al voto por correo |
-| 2026-09-17 | 72 | K1 | Líderes de la IA piden confianza y frenar la carrera armamentist |
 
 [[Global Brain — Inicio|← Inicio]]
