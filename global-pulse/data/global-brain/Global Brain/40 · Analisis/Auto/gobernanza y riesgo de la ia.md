@@ -2,28 +2,32 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-25
-nodos: 32
+actualizado: 2026-09-26
+nodos: 35
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-25. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-26. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-32 nodos registrados en el periodo. Lo mas reciente: Estados Unidos: Donald Trump abre las puertas a los autos chinos.
+35 nodos registrados en el periodo. Lo mas reciente: "La trampa de Tucídides puede ser evitada": Trump recibe a Xi Jinping con pompa y circunstancia para tapar las tensiones entre las dos superpotencias.
 
 ## Trend summary (EN)
-32 nodes recorded in the period. Most recent: Iran awaiting response from Trump on proposal to open strait of Hormuz in six days.
+35 nodes recorded in the period. Most recent: At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict.
 
 > [!note] Estado actual
-> Estados Unidos: Donald Trump abre las puertas a los autos chinos
+> "La trampa de Tucídides puede ser evitada": Trump recibe a Xi Jinping con pompa y circunstancia para tapar las tensiones entre las dos superpotencias
 
-## Nodos recientes (32 en la ventana)
+## Nodos recientes (35 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-26 | 95 | K1 | "La trampa de Tucídides puede ser evitada": Trump recibe a Xi Ji |
+| 2026-09-26 | 83 | K1 | Pope Leo warns of AI threat to humanity at start of three-day Fr |
+| 2026-09-26 | 62 | K1 | Australia lidera llamado global contra el poder de las grandes t |
+| 2026-09-26 | 55 | K1 | El papa León XIV realiza histórica visita de cuatro días a Franc |
 | 2026-09-25 | 95 | K1 | Estados Unidos: Donald Trump abre las puertas a los autos chinos |
 | 2026-09-25 | 78 | K2 | Cómo la IA y los robots acompañan a las personas con Alzhéimer |
 | 2026-09-25 | 68 | K2 | Herramienta de IA de OpenAI accedió sin autorización a sistemas  |
@@ -32,9 +36,5 @@ origen: global-pulse
 | 2026-09-24 | 72 | K1 | Australia denuncia hackeo de un agente de IA de OpenAI a portal  |
 | 2026-09-24 | 59 | K0 | OpenAI AI agent breached Australian government website, PM says |
 | 2026-09-24 | 58 | K1 | Directivos de OpenAI, Anthropic y Hugging Face piden cooperación |
-| 2026-09-23 | 83 | K1 | AI takes centre stage at UN General Assembly |
-| 2026-09-22 | 95 | K2 | En directo: la Asamblea General de la ONU comenzará este martes  |
-| 2026-09-22 | 62 | K2 | Columbia Británica demanda a OpenAI por tiroteo escolar en Tumbl |
-| 2026-09-20 | 71 | K1 | Gemini went rogue, hacked three companies, and Google hid it |
 
 [[Global Brain — Inicio|← Inicio]]

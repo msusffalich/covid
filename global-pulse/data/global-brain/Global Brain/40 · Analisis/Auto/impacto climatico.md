@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-09-25
-nodos: 19
+actualizado: 2026-09-26
+nodos: 18
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-25. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-26. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-19 nodos registrados en el periodo. Lo mas reciente: El huracán Polo alcanza categoría mayor y amenaza el Pacífico mexicano mientras Nolo se fortalece cerca de Hawái.
+18 nodos registrados en el periodo. Lo mas reciente: Australia lidera llamado global contra el poder de las grandes tecnológicas tras ciberataque de un agente de IA.
 
 ## Trend summary (EN)
-19 nodes recorded in the period. Most recent: Hurricane Polo reaches major category threatening Mexico's Pacific coast as Nolo strengthens near Hawaii.
+18 nodes recorded in the period. Most recent: Australia leads global push against Big Tech after AI agent cyberattack.
 
 > [!note] Estado actual
-> El huracán Polo alcanza categoría mayor y amenaza el Pacífico mexicano mientras Nolo se fortalece cerca de Hawái
+> Australia lidera llamado global contra el poder de las grandes tecnológicas tras ciberataque de un agente de IA
 
-## Nodos recientes (19 en la ventana)
+## Nodos recientes (18 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-26 | 62 | K1 | Australia lidera llamado global contra el poder de las grandes t |
+| 2026-09-26 | 59 | K1 | Bangkok declares flood disaster after massive 48-hour downpour |
 | 2026-09-25 | 45 | K1 | El huracán Polo alcanza categoría mayor y amenaza el Pacífico me |
 | 2026-09-25 | 45 | K1 | El Niño-driven heat could cause half a million extra deaths, rep |
 | 2026-09-23 | 55 | K1 | El huracán Polo alcanza categoría 5 y amenaza la costa del Pacíf |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-13 | 48 | K2 | Buscan a más de 100 pasajeros de un buque de Indonesia que estab |
 | 2026-09-13 | 44 | K1 | Nepal cifra la reconstrucción por las inundaciones en el Himalay |
 | 2026-09-11 | 72 | K1 | Nepal exige compensación climática mientras continúan los duelos |
-| 2026-09-10 | 92 | K2 | Central Park se adapta al cambio climático mientras ayuda a mant |
-| 2026-09-08 | 87 | K1 | Vigilias, luto y protestas en el decimotercer día de operaciones |
 
 [[Global Brain — Inicio|← Inicio]]

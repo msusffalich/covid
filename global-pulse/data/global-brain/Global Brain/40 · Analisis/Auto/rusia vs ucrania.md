@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-09-25
+actualizado: 2026-09-26
 nodos: 24
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-25. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-26. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-24 nodos registrados en el periodo. Lo mas reciente: Directo a... Nueva York y los discursos de Pezeshkian y Milei ante la Asamblea de la ONU.
+24 nodos registrados en el periodo. Lo mas reciente: EU releases €6.6 billion for members arming Ukraine as seven killed in Kyiv.
 
 ## Trend summary (EN)
-24 nodes recorded in the period. Most recent: Directo a... Nueva York y los discursos de Pezeshkian y Milei ante la Asamblea de la ONU.
+24 nodes recorded in the period. Most recent: EU releases €6.6 billion for members arming Ukraine as seven killed in Kyiv.
 
 > [!note] Estado actual
-> Directo a... Nueva York y los discursos de Pezeshkian y Milei ante la Asamblea de la ONU
+> EU releases €6.6 billion for members arming Ukraine as seven killed in Kyiv
 
 ## Nodos recientes (24 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-26 | 66 | K0 | EU releases €6.6 billion for members arming Ukraine as seven kil |
 | 2026-09-24 | 83 | K1 | Directo a... Nueva York y los discursos de Pezeshkian y Milei an |
 | 2026-09-24 | 57 | K0 | Los 'hackers' de ShinyHunters aseguran haber robado datos de mil |
 | 2026-09-22 | 95 | K2 | En directo: la Asamblea General de la ONU comenzará este martes  |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-18 | 83 | K1 | ¿Qué se puede entender por integrante asociado de la UE y por qu |
 | 2026-09-18 | 82 | K1 | Dan Wang: “China nunca superará a Estados Unidos” |
 | 2026-09-16 | 83 | K0 | Russian drone attack on bus kills five in Ukraine's southeast |
-| 2026-09-16 | 45 | K2 | España a la vanguardia de la computación cuántica: chips made in |
 
 [[Global Brain — Inicio|← Inicio]]

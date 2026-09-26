@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-25
+actualizado: 2026-09-26
 nodos: 37
 origen: global-pulse
 ---
@@ -10,20 +10,22 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-25. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-26. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-37 nodos registrados en el periodo. Lo mas reciente: Estados Unidos: Donald Trump abre las puertas a los autos chinos.
+El periodo estuvo marcado por tensiones comerciales y arancelarias entre Estados Unidos, China, la Unión Europea y Canadá, junto con movimientos diplomáticos relevantes en la ONU respecto a Irán y Venezuela. Paralelamente, la inteligencia artificial se consolidó como eje de conflicto regulatorio y económico, con incidentes de seguridad de OpenAI en Australia y Canadá, y anuncios de Trump sobre su impacto potencial en el PIB estadounidense, mientras el sector automotor y financiero europeo mostró señales de reacomodo.
 
 ## Trend summary (EN)
-37 nodes recorded in the period. Most recent: Iran awaiting response from Trump on proposal to open strait of Hormuz in six days.
+The period was marked by trade and tariff tensions among the United States, China, the European Union and Canada, alongside notable diplomatic developments at the UN regarding Iran and Venezuela. At the same time, artificial intelligence became a growing regulatory and economic flashpoint, with OpenAI security incidents in Australia and Canada and Trump's claims about its potential impact on US GDP, while Europe's auto and financial sectors showed signs of realignment.
 
 > [!note] Estado actual
-> Estados Unidos: Donald Trump abre las puertas a los autos chinos
+> Irán defiende su postura ante la ONU mientras persisten las tensiones comerciales globales y crecen las preocupaciones regulatorias en torno a la inteligencia artificial.
 
 ## Nodos recientes (37 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-26 | 95 | K1 | Irán denuncia las dos varas de medir internacionales |
+| 2026-09-26 | 62 | K1 | Manchester City declarado culpable de infringir más de 100 regla |
 | 2026-09-25 | 95 | K1 | Estados Unidos: Donald Trump abre las puertas a los autos chinos |
 | 2026-09-25 | 95 | K2 | Directo a... Caracas y las reacciones tras la promesa de eleccio |
 | 2026-09-25 | 68 | K2 | Herramienta de IA de OpenAI accedió sin autorización a sistemas  |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-21 | 45 | K0 | Volkswagen queda fuera del Euro Stoxx 50 por la caída de su valo |
 | 2026-09-20 | 83 | K0 | Hundreds of drones target Moscow on last day of voting in Russia |
 | 2026-09-20 | 74 | K1 | Trump anuncia que creará una "Fuerza de la IA" que tendrá "un za |
-| 2026-09-20 | 55 | K1 | Bolivia elimina el subsidio al diésel tras aprobar crédito con e |
-| 2026-09-19 | 45 | K1 | Japan raises interest rates to 31-year high to curb impact of ri |
 
 [[Global Brain — Inicio|← Inicio]]
