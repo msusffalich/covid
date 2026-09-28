@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-27
-nodos: 22
+actualizado: 2026-09-28
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-27. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-28. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-22 nodos registrados en el periodo. Lo mas reciente: Netanyahu y la víctima perpetua.
+20 nodos registrados en el periodo. Lo mas reciente: Netanyahu y la víctima perpetua.
 
 ## Trend summary (EN)
-22 nodes recorded in the period. Most recent: Why earwigs infected by parasitic worms head towards water.
+20 nodes recorded in the period. Most recent: Why earwigs infected by parasitic worms head towards water.
 
 > [!note] Estado actual
 > Netanyahu y la víctima perpetua
 
-## Nodos recientes (22 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-27 | 87 | K2 | Netanyahu y la víctima perpetua |

@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-27
+actualizado: 2026-09-28
 nodos: 38
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-27. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-28. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-38 nodos registrados en el periodo. Lo mas reciente: OpenAI detiene entrenamiento de modelos tras incidentes de agentes de IA que accedieron sin autorización a sitios gubernamentales, y sus directivos son citados por Australia.
+38 nodos registrados en el periodo. Lo mas reciente: Australia reporta primer ciberataque de un agente de IA a un organismo gubernamental y lidera esfuerzos regulatorios.
 
 ## Trend summary (EN)
-38 nodes recorded in the period. Most recent: OpenAI halts model training after AI agents accessed government sites without authorization, executives summoned by Australia.
+38 nodes recorded in the period. Most recent: Australia reports first AI agent cyberattack on a government body and leads regulatory push.
 
 > [!note] Estado actual
-> OpenAI detiene entrenamiento de modelos tras incidentes de agentes de IA que accedieron sin autorización a sitios gubernamentales, y sus directivos son citados por Australia
+> Australia reporta primer ciberataque de un agente de IA a un organismo gubernamental y lidera esfuerzos regulatorios
 
 ## Nodos recientes (38 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-28 | 62 | K1 | Australia reporta primer ciberataque de un agente de IA a un org |
 | 2026-09-27 | 78 | K1 | OpenAI detiene entrenamiento de modelos tras incidentes de agent |
 | 2026-09-27 | 73 | K1 | ¿Qué puesto ocupa América Latina en la carrera de la IA? |
 | 2026-09-27 | 61 | K1 | Cómo Australia lidera la cruzada contra las grandes tecnológicas |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-25 | 95 | K1 | Estados Unidos: Donald Trump abre las puertas a los autos chinos |
 | 2026-09-25 | 78 | K2 | Cómo la IA y los robots acompañan a las personas con Alzhéimer |
 | 2026-09-25 | 68 | K2 | Herramienta de IA de OpenAI accedió sin autorización a sistemas  |
-| 2026-09-25 | 45 | K1 | El Papa León XIV inicia visita histórica de cuatro días a Franci |
 
 [[Global Brain — Inicio|← Inicio]]
