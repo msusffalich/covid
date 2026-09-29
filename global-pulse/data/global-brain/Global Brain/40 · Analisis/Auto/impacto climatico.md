@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-09-28
-nodos: 21
+actualizado: 2026-09-29
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-28. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-29. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-21 nodos registrados en el periodo. Lo mas reciente: Transición energética en China: a pesar de los avances significativos, la promesa de Xi Jinping sigue sin cumplirse.
+20 nodos registrados en el periodo. Lo mas reciente: El huracán Polo toca tierra en Baja California Sur, México, mientras Nolo amenaza Hawái.
 
 ## Trend summary (EN)
-21 nodes recorded in the period. Most recent: Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says.
+20 nodes recorded in the period. Most recent: Hurricane Polo makes landfall in Baja California Sur, Mexico, as Nolo threatens Hawaii.
 
 > [!note] Estado actual
-> Transición energética en China: a pesar de los avances significativos, la promesa de Xi Jinping sigue sin cumplirse
+> El huracán Polo toca tierra en Baja California Sur, México, mientras Nolo amenaza Hawái
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-29 | 55 | K1 | El huracán Polo toca tierra en Baja California Sur, México, mien |
 | 2026-09-28 | 95 | K2 | Transición energética en China: a pesar de los avances significa |
 | 2026-09-28 | 58 | K1 | Inundaciones por lluvias torrenciales dejan al menos 62 muertos  |
 | 2026-09-28 | 55 | K1 | Bangkok declarada zona de desastre tras inundaciones históricas  |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-25 | 45 | K1 | El huracán Polo alcanza categoría mayor y amenaza el Pacífico me |
 | 2026-09-25 | 45 | K1 | El Niño-driven heat could cause half a million extra deaths, rep |
 | 2026-09-23 | 55 | K1 | El huracán Polo alcanza categoría 5 y amenaza la costa del Pacíf |
-| 2026-09-22 | 55 | K1 | El tifón Dujuan deja al menos cinco muertos y decenas de heridos |
 
 [[Global Brain — Inicio|← Inicio]]

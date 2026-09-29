@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-09-28
-nodos: 40
+actualizado: 2026-09-29
+nodos: 42
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-28. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-29. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-40 nodos registrados en el periodo. Lo mas reciente: El precio del petróleo sube tras el rechazo de Trump a la tregua iraní.
+42 nodos registrados en el periodo. Lo mas reciente: Reino Unido: Investigan el papel de Irán en un plan de atentado a base militar.
 
 ## Trend summary (EN)
-40 nodes recorded in the period. Most recent: As the US midterms approach, Trump’s boasts on the economy fall flat with voters.
+42 nodes recorded in the period. Most recent: Reino Unido: Investigan el papel de Irán en un plan de atentado a base militar.
 
 > [!note] Estado actual
-> El precio del petróleo sube tras el rechazo de Trump a la tregua iraní
+> Reino Unido: Investigan el papel de Irán en un plan de atentado a base militar
 
-## Nodos recientes (40 en la ventana)
+## Nodos recientes (42 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-29 | 74 | K1 | Reino Unido: Investigan el papel de Irán en un plan de atentado  |
+| 2026-09-29 | 63 | K1 | Arabia Saudí vuelve a exportar petróleo por el único oleoducto q |
 | 2026-09-28 | 87 | K1 | El precio del petróleo sube tras el rechazo de Trump a la tregua |
 | 2026-09-28 | 83 | K1 | EE.UU. y China abrirán un "canal de comunicación" para incidente |
 | 2026-09-27 | 82 | K0 | Trump rechaza propuesta iraní para reabrir el estrecho de Ormuz  |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-24 | 95 | K2 | Trump afirma que funcionarios estadounidenses e iraníes se reuni |
 | 2026-09-24 | 83 | K1 | Directo a... Nueva York y los discursos de Pezeshkian y Milei an |
 | 2026-09-23 | 95 | K1 | EE. UU., Dinamarca y Groenlandia firman acuerdo de seguridad |
-| 2026-09-22 | 95 | K2 | Irán: civiles atrapados entre la represión estatal y los ataques |
-| 2026-09-22 | 95 | K2 | En directo: la Asamblea General de la ONU comenzará este martes  |
 
 [[Global Brain — Inicio|← Inicio]]
