@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-09-29
-nodos: 42
+actualizado: 2026-09-30
+nodos: 40
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-29. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-30. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-42 nodos registrados en el periodo. Lo mas reciente: La Argentina de Milei: una economía a dos velocidades.
+40 nodos registrados en el periodo. Lo mas reciente: La Argentina de Milei: una economía a dos velocidades.
 
 ## Trend summary (EN)
-42 nodes recorded in the period. Most recent: Argentina’s Milei threatens to sue UK over Falkland Islands oil project.
+40 nodes recorded in the period. Most recent: Argentina’s Milei threatens to sue UK over Falkland Islands oil project.
 
 > [!note] Estado actual
 > La Argentina de Milei: una economía a dos velocidades
 
-## Nodos recientes (42 en la ventana)
+## Nodos recientes (40 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-29 | 95 | K1 | La Argentina de Milei: una economía a dos velocidades |

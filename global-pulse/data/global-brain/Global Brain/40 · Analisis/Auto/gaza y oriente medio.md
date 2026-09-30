@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-09-29
-nodos: 20
+actualizado: 2026-09-30
+nodos: 19
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-29. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-30. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: Netanyahu y la víctima perpetua.
+19 nodos registrados en el periodo. Lo mas reciente: Un avión de Flydubai con destino Israel aterriza de emergencia en Arabia Saudita por un "incidente".
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: Why earwigs infected by parasitic worms head towards water.
+19 nodes recorded in the period. Most recent: Israel-bound passenger plane makes emergency landing in Saudi Arabia after reported fight between pilots.
 
 > [!note] Estado actual
-> Netanyahu y la víctima perpetua
+> Un avión de Flydubai con destino Israel aterriza de emergencia en Arabia Saudita por un "incidente"
 
-## Nodos recientes (20 en la ventana)
+## Nodos recientes (19 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-30 | 95 | K1 | Un avión de Flydubai con destino Israel aterriza de emergencia e |
 | 2026-09-27 | 87 | K2 | Netanyahu y la víctima perpetua |
 | 2026-09-27 | 82 | K0 | Trump rechaza propuesta iraní para reabrir el estrecho de Ormuz  |
 | 2026-09-26 | 95 | K1 | Irán denuncia las dos varas de medir internacionales |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-16 | 95 | K1 | ¿Qué implica el rechazo del Supremo a los planes de Trump para r |
 | 2026-09-16 | 87 | K1 | En Gaza, los hogares encabezados por mujeres solas enfrentan dec |
 | 2026-09-15 | 95 | K1 | "Un querido amigo": el oligarca ruso cercano a Putin que financi |
-| 2026-09-15 | 77 | K0 | Israeli minister threatens to strip Israeli film-makers of citiz |
 
 [[Global Brain — Inicio|← Inicio]]

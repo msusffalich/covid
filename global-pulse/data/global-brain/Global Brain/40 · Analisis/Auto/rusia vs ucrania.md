@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-09-29
-nodos: 26
+actualizado: 2026-09-30
+nodos: 27
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-29. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-30. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-26 nodos registrados en el periodo. Lo mas reciente: La redefinición de la IA por Trump provoca una avalancha inesperada de dominios eslovenos .si.
+27 nodos registrados en el periodo. Lo mas reciente: ¿Está amparada por el derecho internacional la deportación a terceros países promovida por Trump?.
 
 ## Trend summary (EN)
-26 nodes recorded in the period. Most recent: Trump finalizes rule to make cars less fuel efficient.
+27 nodes recorded in the period. Most recent: AI companies sign voluntary accord on safety with Trump.
 
 > [!note] Estado actual
-> La redefinición de la IA por Trump provoca una avalancha inesperada de dominios eslovenos .si
+> ¿Está amparada por el derecho internacional la deportación a terceros países promovida por Trump?
 
-## Nodos recientes (26 en la ventana)
+## Nodos recientes (27 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-09-30 | 87 | K1 | ¿Está amparada por el derecho internacional la deportación a ter |
+| 2026-09-30 | 51 | K0 | Ukraine pushes for 'bold action' on Russian assets to plug $78 b |
 | 2026-09-29 | 87 | K1 | La redefinición de la IA por Trump provoca una avalancha inesper |
 | 2026-09-29 | 79 | K0 | ‘This is terrorism’: daytime Russian strike hits science academy |
 | 2026-09-29 | 55 | K0 | Europe Today: Ucrania busca financiación urgente en Bruselas mie |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-24 | 57 | K0 | Los 'hackers' de ShinyHunters aseguran haber robado datos de mil |
 | 2026-09-22 | 95 | K2 | En directo: la Asamblea General de la ONU comenzará este martes  |
 | 2026-09-22 | 95 | K1 | Inmigrantes deportados a África: así es la maquinaria de la admi |
-| 2026-09-21 | 95 | K0 | Europe Today: Merz vuelve a estar bajo presión y el mayor ataque |
-| 2026-09-20 | 83 | K0 | Hundreds of drones target Moscow on last day of voting in Russia |
 
 [[Global Brain — Inicio|← Inicio]]

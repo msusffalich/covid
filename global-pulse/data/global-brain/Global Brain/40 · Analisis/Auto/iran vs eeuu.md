@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-09-29
-nodos: 42
+actualizado: 2026-09-30
+nodos: 40
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-29. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-09-30. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-42 nodos registrados en el periodo. Lo mas reciente: Reino Unido: Investigan el papel de Irán en un plan de atentado a base militar.
+40 nodos registrados en el periodo. Lo mas reciente: Reino Unido: Investigan el papel de Irán en un plan de atentado a base militar.
 
 ## Trend summary (EN)
-42 nodes recorded in the period. Most recent: Reino Unido: Investigan el papel de Irán en un plan de atentado a base militar.
+40 nodes recorded in the period. Most recent: Reino Unido: Investigan el papel de Irán en un plan de atentado a base militar.
 
 > [!note] Estado actual
 > Reino Unido: Investigan el papel de Irán en un plan de atentado a base militar
 
-## Nodos recientes (42 en la ventana)
+## Nodos recientes (40 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-09-29 | 74 | K1 | Reino Unido: Investigan el papel de Irán en un plan de atentado  |
