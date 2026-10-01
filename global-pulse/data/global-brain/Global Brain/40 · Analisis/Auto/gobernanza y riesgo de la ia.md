@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-09-30
-nodos: 43
+actualizado: 2026-10-01
+nodos: 44
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-09-30. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-01. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-43 nodos registrados en el periodo. Lo mas reciente: OpenAI launches Dots, its Muse competitor.
+44 nodos registrados en el periodo. Lo mas reciente: China levanta una nueva muralla hacia dentro para retener a funcionarios, activistas y cerebros de la IA.
 
 ## Trend summary (EN)
-43 nodes recorded in the period. Most recent: OpenAI launches Dots, its Muse competitor.
+44 nodes recorded in the period. Most recent: China has cracked down on AI relationships. Is it ahead of the game?.
 
 > [!note] Estado actual
-> OpenAI launches Dots, its Muse competitor
+> China levanta una nueva muralla hacia dentro para retener a funcionarios, activistas y cerebros de la IA
 
-## Nodos recientes (43 en la ventana)
+## Nodos recientes (44 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-01 | 70 | K0 | China levanta una nueva muralla hacia dentro para retener a func |
+| 2026-10-01 | 53 | K0 | OpenAI Gets Sued Over the Hugging Face Hack |
 | 2026-09-30 | 57 | K0 | OpenAI launches Dots, its Muse competitor |
 | 2026-09-30 | 55 | K2 | La economía argentina bajo Milei muestra fuertes contrastes: cie |
 | 2026-09-30 | 53 | K0 | OpenAI is sued over rogue AI Hugging Face cyberattack |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-27 | 73 | K1 | ¿Qué puesto ocupa América Latina en la carrera de la IA? |
 | 2026-09-27 | 61 | K1 | Cómo Australia lidera la cruzada contra las grandes tecnológicas |
 | 2026-09-27 | 58 | K1 | El papa León XIV concluye su histórica visita a Francia con misa |
-| 2026-09-26 | 95 | K1 | "La trampa de Tucídides puede ser evitada": Trump recibe a Xi Ji |
-| 2026-09-26 | 83 | K1 | Pope Leo warns of AI threat to humanity at start of three-day Fr |
 
 [[Global Brain — Inicio|← Inicio]]
