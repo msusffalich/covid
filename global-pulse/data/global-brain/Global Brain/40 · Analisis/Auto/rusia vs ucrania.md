@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-01
-nodos: 26
+actualizado: 2026-10-02
+nodos: 25
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-01. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-02. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-26 nodos registrados en el periodo. Lo mas reciente: Rusia amenaza a la OTAN con armas nucleares por Kaliningrado y Rutte pide calma.
+25 nodos registrados en el periodo. Lo mas reciente: Rusia amenaza a la OTAN con armas nucleares por Kaliningrado y Rutte pide calma.
 
 ## Trend summary (EN)
-26 nodes recorded in the period. Most recent: Russia threatens NATO with nuclear weapons over Kaliningrad, Rutte calls for calm.
+25 nodes recorded in the period. Most recent: Russia threatens NATO with nuclear weapons over Kaliningrad, Rutte calls for calm.
 
 > [!note] Estado actual
 > Rusia amenaza a la OTAN con armas nucleares por Kaliningrado y Rutte pide calma
 
-## Nodos recientes (26 en la ventana)
+## Nodos recientes (25 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-01 | 78 | K0 | Rusia amenaza a la OTAN con armas nucleares por Kaliningrado y R |

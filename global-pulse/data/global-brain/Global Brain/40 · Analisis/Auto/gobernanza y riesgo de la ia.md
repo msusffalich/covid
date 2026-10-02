@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-10-01
-nodos: 44
+actualizado: 2026-10-02
+nodos: 43
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-01. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-02. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-44 nodos registrados en el periodo. Lo mas reciente: China levanta una nueva muralla hacia dentro para retener a funcionarios, activistas y cerebros de la IA.
+43 nodos registrados en el periodo. Lo mas reciente: Las nuevas normas del ICE suavizan las actuaciones del cuerpo parapolicial.
 
 ## Trend summary (EN)
-44 nodes recorded in the period. Most recent: China has cracked down on AI relationships. Is it ahead of the game?.
+43 nodes recorded in the period. Most recent: New method generates nearly indistinguishable photons for quantum communication.
 
 > [!note] Estado actual
-> China levanta una nueva muralla hacia dentro para retener a funcionarios, activistas y cerebros de la IA
+> Las nuevas normas del ICE suavizan las actuaciones del cuerpo parapolicial
 
-## Nodos recientes (44 en la ventana)
+## Nodos recientes (43 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-02 | 74 | K0 | Las nuevas normas del ICE suavizan las actuaciones del cuerpo pa |
 | 2026-10-01 | 70 | K0 | China levanta una nueva muralla hacia dentro para retener a func |
 | 2026-10-01 | 53 | K0 | OpenAI Gets Sued Over the Hugging Face Hack |
 | 2026-09-30 | 57 | K0 | OpenAI launches Dots, its Muse competitor |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-27 | 78 | K1 | OpenAI detiene entrenamiento de modelos tras incidentes de agent |
 | 2026-09-27 | 73 | K1 | ¿Qué puesto ocupa América Latina en la carrera de la IA? |
 | 2026-09-27 | 61 | K1 | Cómo Australia lidera la cruzada contra las grandes tecnológicas |
-| 2026-09-27 | 58 | K1 | El papa León XIV concluye su histórica visita a Francia con misa |
 
 [[Global Brain — Inicio|← Inicio]]

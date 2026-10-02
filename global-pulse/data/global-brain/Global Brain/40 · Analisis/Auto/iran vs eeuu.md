@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-01
+actualizado: 2026-10-02
 nodos: 41
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-01. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-02. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-41 nodos registrados en el periodo. Lo mas reciente: Estados Unidos completa la retirada total de sus tropas de Irak tras 20 años.
+41 nodos registrados en el periodo. Lo mas reciente: EE.UU. e Israel señalan a Irán por incidente en vuelo de Flydubai, aunque sin pruebas.
 
 ## Trend summary (EN)
-41 nodes recorded in the period. Most recent: United States completes full troop withdrawal from Iraq after 20 years.
+41 nodes recorded in the period. Most recent: Passengers foil bid to crash Dubai-Tel Aviv flight after co-pilot stabbed pilot, Israel says.
 
 > [!note] Estado actual
-> Estados Unidos completa la retirada total de sus tropas de Irak tras 20 años
+> EE.UU. e Israel señalan a Irán por incidente en vuelo de Flydubai, aunque sin pruebas
 
 ## Nodos recientes (41 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-02 | 95 | K1 | EE.UU. e Israel señalan a Irán por incidente en vuelo de Flyduba |
 | 2026-10-01 | 72 | K1 | Estados Unidos completa la retirada total de sus tropas de Irak  |
 | 2026-09-29 | 74 | K1 | Reino Unido: Investigan el papel de Irán en un plan de atentado  |
 | 2026-09-29 | 63 | K1 | Arabia Saudí vuelve a exportar petróleo por el único oleoducto q |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-26 | 87 | K1 | Logros y descalabros geopolíticos de Trump: un balance |
 | 2026-09-25 | 95 | K1 | Estados Unidos: Donald Trump abre las puertas a los autos chinos |
 | 2026-09-24 | 95 | K2 | Trump afirma que funcionarios estadounidenses e iraníes se reuni |
-| 2026-09-24 | 83 | K1 | Directo a... Nueva York y los discursos de Pezeshkian y Milei an |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-10-01
+actualizado: 2026-10-02
 nodos: 38
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-01. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-02. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-38 nodos registrados en el periodo. Lo mas reciente: Francia: la deuda pública bate récords y reaviva temores de una crisis financiera.
+38 nodos registrados en el periodo. Lo mas reciente: EE.UU. e Israel señalan a Irán por incidente en vuelo de Flydubai, aunque sin pruebas.
 
 ## Trend summary (EN)
-38 nodes recorded in the period. Most recent: Francia: la deuda pública bate récords y reaviva temores de una crisis financiera.
+38 nodes recorded in the period. Most recent: Passengers foil bid to crash Dubai-Tel Aviv flight after co-pilot stabbed pilot, Israel says.
 
 > [!note] Estado actual
-> Francia: la deuda pública bate récords y reaviva temores de una crisis financiera
+> EE.UU. e Israel señalan a Irán por incidente en vuelo de Flydubai, aunque sin pruebas
 
 ## Nodos recientes (38 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-02 | 95 | K1 | EE.UU. e Israel señalan a Irán por incidente en vuelo de Flyduba |
 | 2026-10-01 | 49 | K2 | Francia: la deuda pública bate récords y reaviva temores de una  |
 | 2026-09-29 | 95 | K1 | La Argentina de Milei: una economía a dos velocidades |
 | 2026-09-29 | 63 | K1 | Arabia Saudí vuelve a exportar petróleo por el único oleoducto q |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-25 | 95 | K1 | Estados Unidos: Donald Trump abre las puertas a los autos chinos |
 | 2026-09-25 | 95 | K2 | Directo a... Caracas y las reacciones tras la promesa de eleccio |
 | 2026-09-25 | 68 | K2 | Herramienta de IA de OpenAI accedió sin autorización a sistemas  |
-| 2026-09-24 | 72 | K1 | Australia denuncia hackeo de un agente de IA de OpenAI a portal  |
 
 [[Global Brain — Inicio|← Inicio]]

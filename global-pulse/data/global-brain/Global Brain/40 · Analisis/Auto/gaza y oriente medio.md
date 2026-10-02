@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-10-01
-nodos: 19
+actualizado: 2026-10-02
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-01. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-02. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-19 nodos registrados en el periodo. Lo mas reciente: Estados Unidos completa la retirada total de sus tropas de Irak tras 20 años.
+20 nodos registrados en el periodo. Lo mas reciente: EE.UU. e Israel señalan a Irán por incidente en vuelo de Flydubai, aunque sin pruebas.
 
 ## Trend summary (EN)
-19 nodes recorded in the period. Most recent: United States completes full troop withdrawal from Iraq after 20 years.
+20 nodes recorded in the period. Most recent: Passengers foil bid to crash Dubai-Tel Aviv flight after co-pilot stabbed pilot, Israel says.
 
 > [!note] Estado actual
-> Estados Unidos completa la retirada total de sus tropas de Irak tras 20 años
+> EE.UU. e Israel señalan a Irán por incidente en vuelo de Flydubai, aunque sin pruebas
 
-## Nodos recientes (19 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-02 | 95 | K1 | EE.UU. e Israel señalan a Irán por incidente en vuelo de Flyduba |
+| 2026-10-02 | 61 | K1 | El aterrizaje del avión en Arabia Saudí muestra los límites de s |
+| 2026-10-02 | 55 | K1 | Un año después del alto el fuego, Gaza enfrenta crisis humanitar |
 | 2026-10-01 | 72 | K1 | Estados Unidos completa la retirada total de sus tropas de Irak  |
 | 2026-09-30 | 95 | K1 | Un avión de Flydubai con destino Israel aterriza de emergencia e |
 | 2026-09-27 | 87 | K2 | Netanyahu y la víctima perpetua |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-09-22 | 83 | K0 | Houthis move to seize strategic terrain after Trump calls off ai |
 | 2026-09-19 | 95 | K1 | ¿En qué consiste el acuerdo entre Trump y Arabia Saudita para la |
 | 2026-09-19 | 91 | K0 | Israel: El documental “Naza” desata la ira de las autoridades y  |
-| 2026-09-19 | 75 | K0 | Google says its Gemini AI model hacked three other companies |
-| 2026-09-16 | 95 | K1 | ¿Qué implica el rechazo del Supremo a los planes de Trump para r |
-| 2026-09-16 | 87 | K1 | En Gaza, los hogares encabezados por mujeres solas enfrentan dec |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-01
-nodos: 20
+actualizado: 2026-10-02
+nodos: 19
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-01. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-02. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years.
+19 nodos registrados en el periodo. Lo mas reciente: ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years.
+19 nodes recorded in the period. Most recent: ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years.
 
 > [!note] Estado actual
 > ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years
 
-## Nodos recientes (20 en la ventana)
+## Nodos recientes (19 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-01 | 74 | K0 | ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five ye |
