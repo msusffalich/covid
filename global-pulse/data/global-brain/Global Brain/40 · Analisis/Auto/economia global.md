@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-10-02
-nodos: 38
+actualizado: 2026-10-03
+nodos: 39
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-02. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-03. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-38 nodos registrados en el periodo. Lo mas reciente: EE.UU. e Israel señalan a Irán por incidente en vuelo de Flydubai, aunque sin pruebas.
+39 nodos registrados en el periodo. Lo mas reciente: Abusos sexuales, satanismo y trastorno bipolar... ¿se habría condenado hoy a Christa Pike a muerte?.
 
 ## Trend summary (EN)
-38 nodes recorded in the period. Most recent: Passengers foil bid to crash Dubai-Tel Aviv flight after co-pilot stabbed pilot, Israel says.
+39 nodes recorded in the period. Most recent: Tennessee governor orders outside review after death row inmate Christa Pike survives execution attempt.
 
 > [!note] Estado actual
-> EE.UU. e Israel señalan a Irán por incidente en vuelo de Flydubai, aunque sin pruebas
+> Abusos sexuales, satanismo y trastorno bipolar... ¿se habría condenado hoy a Christa Pike a muerte?
 
-## Nodos recientes (38 en la ventana)
+## Nodos recientes (39 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-03 | 81 | K0 | Abusos sexuales, satanismo y trastorno bipolar... ¿se habría con |
+| 2026-10-03 | 62 | K1 | G7 to release up to 100m barrels of emergency oil and diesel res |
 | 2026-10-02 | 95 | K1 | EE.UU. e Israel señalan a Irán por incidente en vuelo de Flyduba |
 | 2026-10-01 | 49 | K2 | Francia: la deuda pública bate récords y reaviva temores de una  |
 | 2026-09-29 | 95 | K1 | La Argentina de Milei: una economía a dos velocidades |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-26 | 95 | K1 | Irán denuncia las dos varas de medir internacionales |
 | 2026-09-26 | 62 | K1 | Manchester City declarado culpable de infringir más de 100 regla |
 | 2026-09-25 | 95 | K1 | Estados Unidos: Donald Trump abre las puertas a los autos chinos |
-| 2026-09-25 | 95 | K2 | Directo a... Caracas y las reacciones tras la promesa de eleccio |
-| 2026-09-25 | 68 | K2 | Herramienta de IA de OpenAI accedió sin autorización a sistemas  |
 
 [[Global Brain — Inicio|← Inicio]]

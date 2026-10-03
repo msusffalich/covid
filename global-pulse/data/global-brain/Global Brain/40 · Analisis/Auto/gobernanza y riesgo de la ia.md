@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-10-02
-nodos: 43
+actualizado: 2026-10-03
+nodos: 42
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-02. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-03. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-43 nodos registrados en el periodo. Lo mas reciente: Las nuevas normas del ICE suavizan las actuaciones del cuerpo parapolicial.
+42 nodos registrados en el periodo. Lo mas reciente: Las nuevas normas del ICE suavizan las actuaciones del cuerpo parapolicial.
 
 ## Trend summary (EN)
-43 nodes recorded in the period. Most recent: New method generates nearly indistinguishable photons for quantum communication.
+42 nodes recorded in the period. Most recent: New method generates nearly indistinguishable photons for quantum communication.
 
 > [!note] Estado actual
 > Las nuevas normas del ICE suavizan las actuaciones del cuerpo parapolicial
 
-## Nodos recientes (43 en la ventana)
+## Nodos recientes (42 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-02 | 74 | K0 | Las nuevas normas del ICE suavizan las actuaciones del cuerpo pa |

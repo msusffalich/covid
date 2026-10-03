@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-02
+actualizado: 2026-10-03
 nodos: 19
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-02. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-03. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 19 nodos registrados en el periodo. Lo mas reciente: ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years.

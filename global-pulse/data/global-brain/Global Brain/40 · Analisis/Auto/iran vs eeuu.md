@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-02
-nodos: 41
+actualizado: 2026-10-03
+nodos: 39
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-02. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-03. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-41 nodos registrados en el periodo. Lo mas reciente: EE.UU. e Israel señalan a Irán por incidente en vuelo de Flydubai, aunque sin pruebas.
+39 nodos registrados en el periodo. Lo mas reciente: EE.UU. e Israel señalan a Irán por incidente en vuelo de Flydubai, aunque sin pruebas.
 
 ## Trend summary (EN)
-41 nodes recorded in the period. Most recent: Passengers foil bid to crash Dubai-Tel Aviv flight after co-pilot stabbed pilot, Israel says.
+39 nodes recorded in the period. Most recent: Passengers foil bid to crash Dubai-Tel Aviv flight after co-pilot stabbed pilot, Israel says.
 
 > [!note] Estado actual
 > EE.UU. e Israel señalan a Irán por incidente en vuelo de Flydubai, aunque sin pruebas
 
-## Nodos recientes (41 en la ventana)
+## Nodos recientes (39 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-02 | 95 | K1 | EE.UU. e Israel señalan a Irán por incidente en vuelo de Flyduba |
