@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-10-03
-nodos: 39
+actualizado: 2026-10-04
+nodos: 40
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-03. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-04. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-39 nodos registrados en el periodo. Lo mas reciente: Abusos sexuales, satanismo y trastorno bipolar... ¿se habría condenado hoy a Christa Pike a muerte?.
+40 nodos registrados en el periodo. Lo mas reciente: Arabia Saudí bombardea Yemen en la nueva andada de choques contra los hutíes.
 
 ## Trend summary (EN)
-39 nodes recorded in the period. Most recent: Tennessee governor orders outside review after death row inmate Christa Pike survives execution attempt.
+40 nodes recorded in the period. Most recent: Yemen’s Houthis claim attacks on Aramco facilities in Riyadh.
 
 > [!note] Estado actual
-> Abusos sexuales, satanismo y trastorno bipolar... ¿se habría condenado hoy a Christa Pike a muerte?
+> Arabia Saudí bombardea Yemen en la nueva andada de choques contra los hutíes
 
-## Nodos recientes (39 en la ventana)
+## Nodos recientes (40 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-04 | 95 | K1 | Arabia Saudí bombardea Yemen en la nueva andada de choques contr |
+| 2026-10-04 | 53 | K1 | G7 nations agree to release 100 million barrels of oil, includin |
 | 2026-10-03 | 81 | K0 | Abusos sexuales, satanismo y trastorno bipolar... ¿se habría con |
 | 2026-10-03 | 62 | K1 | G7 to release up to 100m barrels of emergency oil and diesel res |
 | 2026-10-02 | 95 | K1 | EE.UU. e Israel señalan a Irán por incidente en vuelo de Flyduba |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-28 | 87 | K1 | El precio del petróleo sube tras el rechazo de Trump a la tregua |
 | 2026-09-27 | 82 | K0 | Trump rechaza propuesta iraní para reabrir el estrecho de Ormuz  |
 | 2026-09-26 | 95 | K1 | Irán denuncia las dos varas de medir internacionales |
-| 2026-09-26 | 62 | K1 | Manchester City declarado culpable de infringir más de 100 regla |
-| 2026-09-25 | 95 | K1 | Estados Unidos: Donald Trump abre las puertas a los autos chinos |
 
 [[Global Brain — Inicio|← Inicio]]
