@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-10-04T10:49:21.487475+00:00",
+    "generado": "2026-10-05T11:58:14.256027+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 37,
-      "ultima_fecha": "2026-10-04",
+      "n_nodos": 35,
+      "ultima_fecha": "2026-10-05",
       "resumen": {
-        "es": "37 nodos registrados en el periodo. Lo mas reciente: Arabia Saudí bombardea Yemen en la nueva andada de choques contra los hutíes.",
-        "en": "37 nodes recorded in the period. Most recent: Yemen’s Houthis claim attacks on Aramco facilities in Riyadh."
+        "es": "35 nodos registrados en el periodo. Lo mas reciente: Middle East oil exports return to pre-war levels, excluding Iran.",
+        "en": "35 nodes recorded in the period. Most recent: Middle East oil exports return to pre-war levels, excluding Iran."
       },
       "estado": {
-        "es": "Arabia Saudí bombardea Yemen en la nueva andada de choques contra los hutíes",
-        "en": "Yemen’s Houthis claim attacks on Aramco facilities in Riyadh"
+        "es": "Middle East oil exports return to pre-war levels, excluding Iran",
+        "en": "Middle East oil exports return to pre-war levels, excluding Iran"
       },
       "serie": [
-        {
-          "fecha": "2026-09-14",
-          "max": 82,
-          "n": 3
-        },
         {
           "fecha": "2026-09-15",
           "max": 78,
@@ -118,9 +113,26 @@
           "fecha": "2026-10-04",
           "max": 95,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-05",
+          "max": 74,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-05",
+          "titulo": {
+            "es": "Middle East oil exports return to pre-war levels, excluding Iran",
+            "en": "Middle East oil exports return to pre-war levels, excluding Iran"
+          },
+          "impacto": 74,
+          "categoria": "geopolitica",
+          "kardashev": "K0",
+          "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
         {
           "fecha": "2026-10-04",
           "titulo": {
@@ -252,18 +264,6 @@
           "kardashev": "K1",
           "url": "https://elpais.com/internacional/2026-09-24/logros-y-descalabros-geopoliticos-de-trump-un-balance.html",
           "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-09-25",
-          "titulo": {
-            "es": "Estados Unidos: Donald Trump abre las puertas a los autos chinos",
-            "en": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cme8xkx8k60po?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -521,21 +521,16 @@
       },
       "color": "#C75FA8",
       "n_nodos": 22,
-      "ultima_fecha": "2026-10-04",
+      "ultima_fecha": "2026-10-05",
       "resumen": {
-        "es": "22 nodos registrados en el periodo. Lo mas reciente: Continúan los ataques israelíes en Gaza pese al alto el fuego, elevando a 1.400 los muertos palestinos.",
-        "en": "22 nodes recorded in the period. Most recent: Israeli attacks persist in Gaza despite ceasefire, Palestinian death toll reaches 1,400."
+        "es": "22 nodos registrados en el periodo. Lo mas reciente: Los palestinos de Gaza quieren recuperar una \"vida normal\".",
+        "en": "22 nodes recorded in the period. Most recent: WHO’s strategic engagement with philanthropies: advancing global health and resilient health systems."
       },
       "estado": {
-        "es": "Continúan los ataques israelíes en Gaza pese al alto el fuego, elevando a 1.400 los muertos palestinos",
-        "en": "Israeli attacks persist in Gaza despite ceasefire, Palestinian death toll reaches 1,400"
+        "es": "Los palestinos de Gaza quieren recuperar una \"vida normal\"",
+        "en": "WHO’s strategic engagement with philanthropies: advancing global health and resilient health systems"
       },
       "serie": [
-        {
-          "fecha": "2026-09-14",
-          "max": 57,
-          "n": 1
-        },
         {
           "fecha": "2026-09-15",
           "max": 95,
@@ -595,9 +590,26 @@
           "fecha": "2026-10-04",
           "max": 78,
           "n": 2
+        },
+        {
+          "fecha": "2026-10-05",
+          "max": 87,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-05",
+          "titulo": {
+            "es": "Los palestinos de Gaza quieren recuperar una \"vida normal\"",
+            "en": "WHO’s strategic engagement with philanthropies: advancing global health and resilient health systems"
+          },
+          "impacto": 87,
+          "categoria": "salud",
+          "kardashev": "K1",
+          "url": "https://news.un.org/feed/view/es/story/2026/10/1542002",
+          "fuente": "Noticias ONU"
+        },
         {
           "fecha": "2026-10-04",
           "titulo": {
@@ -729,18 +741,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/c9vgyv56exp3o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-09-24",
-          "titulo": {
-            "es": "Directo a... Nueva York y los discursos de Pezeshkian y Milei ante la Asamblea de la ONU",
-            "en": "Directo a... Nueva York y los discursos de Pezeshkian y Milei ante la Asamblea de la ONU"
-          },
-          "impacto": 83,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cme8xkx8k60po?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -751,22 +751,17 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 41,
+      "n_nodos": 37,
       "ultima_fecha": "2026-10-02",
       "resumen": {
-        "es": "41 nodos registrados en el periodo. Lo mas reciente: Las nuevas normas del ICE suavizan las actuaciones del cuerpo parapolicial.",
-        "en": "41 nodes recorded in the period. Most recent: New method generates nearly indistinguishable photons for quantum communication."
+        "es": "37 nodos registrados en el periodo. Lo mas reciente: Las nuevas normas del ICE suavizan las actuaciones del cuerpo parapolicial.",
+        "en": "37 nodes recorded in the period. Most recent: New method generates nearly indistinguishable photons for quantum communication."
       },
       "estado": {
         "es": "Las nuevas normas del ICE suavizan las actuaciones del cuerpo parapolicial",
         "en": "New method generates nearly indistinguishable photons for quantum communication"
       },
       "serie": [
-        {
-          "fecha": "2026-09-14",
-          "max": 95,
-          "n": 4
-        },
         {
           "fecha": "2026-09-15",
           "max": 70,
@@ -1008,21 +1003,16 @@
       },
       "color": "#3FA65C",
       "n_nodos": 17,
-      "ultima_fecha": "2026-10-01",
+      "ultima_fecha": "2026-10-05",
       "resumen": {
-        "es": "17 nodos registrados en el periodo. Lo mas reciente: ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years.",
-        "en": "17 nodes recorded in the period. Most recent: ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years."
+        "es": "17 nodos registrados en el periodo. Lo mas reciente: WHO and the Netherlands renew their partnership on climate change and health.",
+        "en": "17 nodes recorded in the period. Most recent: WHO and the Netherlands renew their partnership on climate change and health."
       },
       "estado": {
-        "es": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years",
-        "en": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years"
+        "es": "WHO and the Netherlands renew their partnership on climate change and health",
+        "en": "WHO and the Netherlands renew their partnership on climate change and health"
       },
       "serie": [
-        {
-          "fecha": "2026-09-14",
-          "max": 78,
-          "n": 1
-        },
         {
           "fecha": "2026-09-21",
           "max": 55,
@@ -1067,9 +1057,26 @@
           "fecha": "2026-10-01",
           "max": 74,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-05",
+          "max": 48,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-05",
+          "titulo": {
+            "es": "WHO and the Netherlands renew their partnership on climate change and health",
+            "en": "WHO and the Netherlands renew their partnership on climate change and health"
+          },
+          "impacto": 48,
+          "categoria": "salud",
+          "kardashev": "K1",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168515",
+          "fuente": "UN News"
+        },
         {
           "fecha": "2026-10-01",
           "titulo": {
@@ -1201,18 +1208,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/c3n07v5wr0rqo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-09-25",
-          "titulo": {
-            "es": "El Niño-driven heat could cause half a million extra deaths, report says. Here's where",
-            "en": "El Niño-driven heat could cause half a million extra deaths, report says. Here's where"
-          },
-          "impacto": 45,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.nytimes.com/live/2026/09/24/world/un-general-assembly-news/israel-palestinians-venezuela-xi",
-          "fuente": "NYT World"
         }
       ]
     },
@@ -1223,22 +1218,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 40,
-      "ultima_fecha": "2026-10-04",
+      "n_nodos": 39,
+      "ultima_fecha": "2026-10-05",
       "resumen": {
-        "es": "40 nodos registrados en el periodo. Lo mas reciente: Arabia Saudí bombardea Yemen en la nueva andada de choques contra los hutíes.",
-        "en": "40 nodes recorded in the period. Most recent: Yemen’s Houthis claim attacks on Aramco facilities in Riyadh."
+        "es": "39 nodos registrados en el periodo. Lo mas reciente: Middle East oil exports return to pre-war levels, excluding Iran.",
+        "en": "39 nodes recorded in the period. Most recent: Middle East oil exports return to pre-war levels, excluding Iran."
       },
       "estado": {
-        "es": "Arabia Saudí bombardea Yemen en la nueva andada de choques contra los hutíes",
-        "en": "Yemen’s Houthis claim attacks on Aramco facilities in Riyadh"
+        "es": "Middle East oil exports return to pre-war levels, excluding Iran",
+        "en": "Middle East oil exports return to pre-war levels, excluding Iran"
       },
       "serie": [
-        {
-          "fecha": "2026-09-14",
-          "max": 95,
-          "n": 3
-        },
         {
           "fecha": "2026-09-15",
           "max": 83,
@@ -1328,9 +1318,38 @@
           "fecha": "2026-10-04",
           "max": 95,
           "n": 2
+        },
+        {
+          "fecha": "2026-10-05",
+          "max": 74,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-05",
+          "titulo": {
+            "es": "Middle East oil exports return to pre-war levels, excluding Iran",
+            "en": "Middle East oil exports return to pre-war levels, excluding Iran"
+          },
+          "impacto": 74,
+          "categoria": "geopolitica",
+          "kardashev": "K0",
+          "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
+        {
+          "fecha": "2026-10-05",
+          "titulo": {
+            "es": "El euro cae a un mínimo de 17 meses frente al dólar por temores sobre la deuda francesa y elecciones anticipadas en España",
+            "en": "Euro falls to 17-month low against dollar amid French debt fears and Spain's snap election"
+          },
+          "impacto": 62,
+          "categoria": "economia",
+          "kardashev": "K2",
+          "url": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
+          "fuente": "The Guardian World"
+        },
         {
           "fecha": "2026-10-04",
           "titulo": {
@@ -1450,30 +1469,6 @@
           "kardashev": "K1",
           "url": "https://elpais.com/opinion/2026-09-27/trump-es-un-loser-un-perdedor.html",
           "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-09-27",
-          "titulo": {
-            "es": "Trump rechaza propuesta iraní para reabrir el estrecho de Ormuz y advierte sobre nuevos bombardeos",
-            "en": "Trump rejects Iranian proposal to reopen Strait of Hormuz, hints at renewed strikes"
-          },
-          "impacto": 82,
-          "categoria": "geopolitica",
-          "kardashev": "K0",
-          "url": "https://www.bbc.com/mundo/articles/crx2zzgjledno?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-09-26",
-          "titulo": {
-            "es": "Irán denuncia las dos varas de medir internacionales",
-            "en": "Trump faces tough choices as Iran dangles deal to reopen Hormuz before US midterms"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/c9vgyv56exp3o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     }

@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-04
+actualizado: 2026-10-05
 nodos: 17
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-04. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-05. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-17 nodos registrados en el periodo. Lo mas reciente: ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years.
+17 nodos registrados en el periodo. Lo mas reciente: WHO and the Netherlands renew their partnership on climate change and health.
 
 ## Trend summary (EN)
-17 nodes recorded in the period. Most recent: ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years.
+17 nodes recorded in the period. Most recent: WHO and the Netherlands renew their partnership on climate change and health.
 
 > [!note] Estado actual
-> ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years
+> WHO and the Netherlands renew their partnership on climate change and health
 
 ## Nodos recientes (17 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-05 | 48 | K1 | WHO and the Netherlands renew their partnership on climate chang |
 | 2026-10-01 | 74 | K0 | ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five ye |
 | 2026-09-29 | 55 | K1 | El huracán Polo toca tierra en Baja California Sur, México, mien |
 | 2026-09-28 | 95 | K2 | Transición energética en China: a pesar de los avances significa |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-26 | 62 | K1 | Australia lidera llamado global contra el poder de las grandes t |
 | 2026-09-26 | 59 | K1 | Bangkok declares flood disaster after massive 48-hour downpour |
 | 2026-09-25 | 45 | K1 | El huracán Polo alcanza categoría mayor y amenaza el Pacífico me |
-| 2026-09-25 | 45 | K1 | El Niño-driven heat could cause half a million extra deaths, rep |
 
 [[Global Brain — Inicio|← Inicio]]

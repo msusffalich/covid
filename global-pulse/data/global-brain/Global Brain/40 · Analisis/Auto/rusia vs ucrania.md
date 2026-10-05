@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-04
+actualizado: 2026-10-05
 nodos: 26
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-04. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-05. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 26 nodos registrados en el periodo. Lo mas reciente: Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live.

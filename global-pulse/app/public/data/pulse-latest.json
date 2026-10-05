@@ -1,388 +1,58 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-10-04",
-    "generado": "2026-10-04T10:48:50.831407+00:00",
+    "fecha": "2026-10-05",
+    "generado": "2026-10-05T11:57:44.346727+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 782,
-      "clusters": 519,
-      "nodos": 519,
-      "verificados": 519,
-      "duracion_s": 102.2
+      "piezas_ingeridas": 795,
+      "clusters": 518,
+      "nodos": 518,
+      "verificados": 518,
+      "duracion_s": 267.6
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Arabia Saudí bombardea Yemen en la nueva andada de choques contra los hutíes",
-        "en": "Yemen’s Houthis claim attacks on Aramco facilities in Riyadh"
+        "es": "Trump pierde apoyos entre los votantes latinos a un mes de las elecciones legislativas",
+        "en": "Trump administration diverts human rights funds to push far-right agenda abroad"
       },
       "sintesis": {
-        "es": "Los enfrentamientos entre fuerzas gubernamentales yemeníes y los hutíes han dejado más de 800 muertos y 200.000 desplazados desde julio, según la OMS y las agencias de Naciones Unidas Leer",
-        "en": "Yemen’s Houthi rebels have claimed responsibility for attacks in Riyadh, including on facilities belonging to Aramco, the world’s largest oil company. This follows reports from residents of flames and smoke rising from an oil facility on the outskirts of the Saudi capital. Meanwhile, the Houthis have accused Saudi Arabia of launching dozens of strikes on Sanaa, warning that they will continue to respond to any escalation with further escalation."
+        "es": "Un 78% de votantes latinos desaprueba la gestión de Trump en lo relativo al costo de vida, un 74% en el tema económico, el 68% en materia de política exterior y un 69% respecto a las políticas de inmigración Leer",
+        "en": "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a huge $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in South Africa, a campaign against Brazil’s supreme court and programs that would reward ideological allies in Europe who protect “western civilizational norms”. On Wednesday, the state department obligated the funds to the grantees hours before the deadline despite congressional concerns and requests not to do so, according to a source familiar with the negotiations. The state department declined to comment on questions from the Guardian specifically on whether it had obligated the funds and had “blown” holds from Congress due to concerns about the money’s use."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Yemen",
-        "Houthis",
-        "Aramco",
-        "Riyadh"
+        "Trump",
+        "Lula"
       ],
       "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
+        "lat": -14.2,
+        "lon": -51.9,
+        "region": "Sudamerica"
       },
-      "impacto": 95,
+      "impacto": 87,
       "fuentes": [
-        "ev_5f579aaed4",
-        "ev_f0d104d446",
-        "ev_26433e310d",
-        "ev_f4096e9ed0",
-        "ev_a8770c5716",
-        "ev_1bb7990f7a",
-        "ev_f7551eb68f",
-        "ev_c95ce69cea"
-      ],
-      "cluster_id": "cl_135",
-      "imagenes": [
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909471417481.jpg",
-        "https://s.france24.com/media/display/f23d5188-bfca-11f1-bb16-1ff0321dbbd3/w:1024/p:16x9/EN-20261004-090624-090759-CS.jpg",
-        "https://s.france24.com/media/display/84e4ed72-bf65-11f1-8c8d-13420ab900a2/w:1024/p:16x9/000-D26B6KC.jpg",
-        "https://static01.nyt.com/images/2026/10/04/multimedia/04int-yemen-saudi-01-zkgt/04int-yemen-saudi-01-zkgt-mediumSquareAt3X.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_5f579aaed4",
-          "titulo": "Arabia Saudí bombardea Yemen en la nueva andada de choques contra los hutíes",
-          "url": "https://www.elmundo.es/internacional/2026/10/02/6abfadf821efa0996a8b45bd.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 02 Oct 2026 15:26:38 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f0d104d446",
-          "titulo": "Yemen’s Houthis claim attacks on Aramco facilities in Riyadh",
-          "url": "https://www.france24.com/en/yemen-s-houthis-claim-attacks-on-aramco-facilities-in-riyadh",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 04 Oct 2026 08:21:37 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_26433e310d",
-          "titulo": "Houthis claim strike on oil facilty near Riyadh, accuse Saudi forces of pounding Yemen's capital",
-          "url": "https://www.france24.com/en/middle-east/20261003-houthis-blame-saudi-air-strikes-loud-blasts-rock-yemen-capital-sanaa",
-          "fuente": "France 24 English",
-          "fecha": "Sat, 03 Oct 2026 14:31:30 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f4096e9ed0",
-          "titulo": "Houthis target Saudi oil facility as hostilities escalate in Yemen",
-          "url": "https://www.abc.net.au/news/2026-10-04/houthi-saudi-yemen-iraq-middle-east-hostilities/107226524",
-          "fuente": "ABC News Australia",
-          "fecha": "Sat, 03 Oct 2026 22:40:11 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a8770c5716",
-          "titulo": "Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack",
-          "url": "https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 04 Oct 2026 07:39:04 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1bb7990f7a",
-          "titulo": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
-          "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 04 Oct 2026 03:33:49 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f7551eb68f",
-          "titulo": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 04 Oct 2026 05:00:40 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c95ce69cea",
-          "titulo": "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
-          "url": "https://www.nytimes.com/2026/10/04/world/middleeast/houthis-oil-attack-saudi-arabia-yemen.html",
-          "fuente": "NYT World",
-          "fecha": "Sun, 04 Oct 2026 10:45:50 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-04_0000",
-      "fecha": "2026-10-04",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-04_0009"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Dimite el jefe de prisiones de Tennessee tras la ejecución fallida de Christa Pike",
-        "en": "Tennessee’s top prison official resigning after botched execution of Christa Pike"
-      },
-      "sintesis": {
-        "es": "Pike está ingresada en un hospital en estado crítico y con respiración asistida, mientras ha comenzado una investigación independiente sobre cómo se llevó a cabo el proceso de ejecución Leer",
-        "en": "Frank Strada leaving position as state launches independent investigation into what went wrong Tennessee’s top prison official is stepping down in the aftermath of the failed execution of death row prisoner Christa Pike , the state’s governor Bill Lee announced Saturday. Frank Strada, the department of correction commissioner, will leave his position later in October as the state launches an independent investigation into what went wrong during Wednesday’s botched execution of Pike, according to Lee. Continue reading..."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "Christa Pike",
-        "Tennessee",
-        "Dimite",
-        "Trump"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 90,
-      "fuentes": [
-        "ev_86d9ff8687",
-        "ev_6c56f3f15b",
-        "ev_09fe33fa28",
-        "ev_0954b644a6",
-        "ev_a3a9519093",
-        "ev_0057fda7a3",
-        "ev_5e45def2ab",
-        "ev_1870b3423f",
-        "ev_286f8dc511",
-        "ev_2c6850cf86",
-        "ev_5e1bcef9dc",
-        "ev_61ea5f7c5d",
-        "ev_99003327c4",
-        "ev_c0c5ccc695",
-        "ev_e3ce558dc9",
-        "ev_e35bba5ea5",
-        "ev_08a7968ffe",
-        "ev_adacfec89d",
-        "ev_5e6f6df1d7",
-        "ev_e08d6e6e40",
-        "ev_effcc7e58f",
-        "ev_ceba3b20a0"
-      ],
-      "cluster_id": "cl_126",
-      "imagenes": [
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/03/17910462929082.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909301451674.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908830844452.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_86d9ff8687",
-          "titulo": "Dimite el jefe de prisiones de Tennessee tras la ejecución fallida de Christa Pike",
-          "url": "https://www.elmundo.es/internacional/2026/10/03/6ac132ab21efa066048b457f.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sat, 03 Oct 2026 18:52:33 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_6c56f3f15b",
-          "titulo": "Trump, sorprendido por la ejecución fallida de Christa Pike: \"No debería ser tan difícil\"",
-          "url": "https://www.elmundo.es/internacional/2026/10/02/6abf6a1c21efa001308b459d.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sat, 03 Oct 2026 07:22:18 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_09fe33fa28",
-          "titulo": "Christa Pike, \"en estado crítico\" un día después del fallido intento de Tennessee de ejecutarla",
-          "url": "https://www.elmundo.es/internacional/2026/10/01/6abeb66ffdddffa13e8b459b.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 01 Oct 2026 21:37:23 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_0954b644a6",
-          "titulo": "Tennessee prison chief to resign after Christa Pike's failed execution",
-          "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sat, 03 Oct 2026 17:48:42 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a3a9519093",
-          "titulo": "Tennessee prison chief who oversaw botched Christa Pike execution resigns",
-          "url": "https://www.france24.com/en/americas/20261003-tennessee-prison-chief-who-oversaw-botched-christa-pike-execution-resigns",
-          "fuente": "France 24 English",
-          "fecha": "Sat, 03 Oct 2026 17:24:14 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_0057fda7a3",
-          "titulo": "Tennessee prisons chief resigns after failed execution of Christa Pike",
-          "url": "https://news.sky.com/story/prisons-chief-resigns-after-failed-execution-of-christa-pike-in-tennessee-13594688",
-          "fuente": "Sky News World",
-          "fecha": "Sat, 03 Oct 2026 14:37:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5e45def2ab",
-          "titulo": "Tennessee prisons chief to resign after failed execution of Christa Pike, governor says",
-          "url": "https://www.cbc.ca/news/world/tennessee-prison-chief-resigns-christa-pike-9.7368222?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sat, 03 Oct 2026 12:20:59 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1870b3423f",
-          "titulo": "Christa Pike on ventilator after surviving Tennessee execution attempt, lawyer says",
-          "url": "https://www.cbc.ca/news/world/christa-pike-ventilator-tennessee-execution-9.7367500?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 02 Oct 2026 16:49:23 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_286f8dc511",
-          "titulo": "Tennessee’s top prison official resigning after botched execution of Christa Pike",
-          "url": "https://www.theguardian.com/us-news/2026/oct/03/tennessee-christa-pike-frank-strada",
-          "fuente": "The Guardian World",
-          "fecha": "Sat, 03 Oct 2026 17:09:05 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2c6850cf86",
-          "titulo": "No more execution attempts on Christa Pike: UN rights chief",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168504",
-          "fuente": "UN News",
-          "fecha": "Thu, 01 Oct 2026 12:00:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5e1bcef9dc",
-          "titulo": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en EE.UU.",
-          "url": "https://www.bbc.com/mundo/articles/c3x2z2rq1759o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Sat, 03 Oct 2026 12:22:44 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_61ea5f7c5d",
-          "titulo": "Estados Unidos: la ejecución fallida de Christa Pike reaviva el debate sobre la pena capital",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20261002-estados-unidos-la-ejecuci%C3%B3n-fallida-de-christa-pike-reaviva-el-debate-sobre-la-pena-capital",
-          "fuente": "RFI Espanol",
-          "fecha": "Fri, 02 Oct 2026 11:48:02 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-10-04_0001",
-      "fecha": "2026-10-04",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Brasil celebra elecciones presidenciales entre Lula da Silva y Flávio Bolsonaro en una contienda polarizada",
-        "en": "Brazil holds presidential election between Lula da Silva and Flávio Bolsonaro in a polarized contest"
-      },
-      "sintesis": {
-        "es": "Brasil acude a las urnas el 4 de octubre en unas elecciones muy reñidas entre el presidente Luiz Inácio Lula da Silva, que busca un cuarto mandato, y Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro, representando a la derecha. La campaña estuvo marcada por la polarización religiosa e ideológica, escándalos, la cancelación de un debate televisivo y la presión e injerencia percibida de la administración de Donald Trump en apoyo a sectores conservadores de la región. El resultado se considera clave para el futuro político de Brasil y el equilibrio geopolítico de América Latina.",
-        "en": "Brazil went to the polls on October 4 in a tightly contested election between President Luiz Inácio Lula da Silva, seeking a fourth term, and Flávio Bolsonaro, son of former president Jair Bolsonaro, representing the right. The campaign was marked by religious and ideological polarization, scandals, the cancellation of a televised debate, and perceived pressure from the Trump administration favoring conservative forces in the region. The outcome is seen as pivotal for Brazil's political future and Latin America's geopolitical balance."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Luiz Inácio Lula da Silva",
-        "Flávio Bolsonaro",
-        "Jair Bolsonaro",
-        "Donald Trump",
-        "Brasil",
-        "Estados Unidos"
-      ],
-      "geo": {
-        "lat": -14.235,
-        "lon": -51.9253,
-        "region": "Brasil"
-      },
-      "impacto": 78,
-      "fuentes": [
-        "ev_c87d7d4440",
-        "ev_0dcb20ea37",
-        "ev_7a0934484f",
         "ev_d4772ee01a",
-        "ev_484208c5fe",
-        "ev_4b7145a083",
-        "ev_3c6bb1d4ca",
-        "ev_c95c5a2e24",
-        "ev_4cbc9f3b7f",
-        "ev_8019bff71f",
-        "ev_7acbbcf2cf",
-        "ev_d2f1d72859",
-        "ev_1445ed8a78",
-        "ev_d28137df52",
-        "ev_bdeb3cdffb",
-        "ev_128e679d9b",
-        "ev_3e150f482a",
-        "ev_4cc346886e",
-        "ev_63b0a35a13",
-        "ev_4fc81e53a4",
-        "ev_0fc366f746",
-        "ev_cfda16856d",
-        "ev_e02a58fcbc",
-        "ev_47d8c36574",
-        "ev_6f42611281",
-        "ev_0e737fe7e6",
-        "ev_95e9c7053f",
-        "ev_46feac163c",
-        "ev_66b2915bc9",
-        "ev_76b429bd7c",
-        "ev_74cb0232a0",
-        "ev_67243b0e7d",
-        "ev_c526891eeb",
-        "ev_eb0722189d",
-        "ev_4d9cc25a8f",
-        "ev_0df39b236d",
-        "ev_b5c93aa6c3",
-        "ev_061ff61795",
-        "ev_5f9adcf75d"
+        "ev_72c4765bfe",
+        "ev_687de0d704",
+        "ev_06e65664a3",
+        "ev_d7bc505f78",
+        "ev_58f2fa2f64",
+        "ev_19738c1145"
       ],
-      "cluster_id": "cl_008",
+      "cluster_id": "cl_027",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d8b/live/a6e4b2e0-be6b-11f1-b36c-81ad410b221e.jpg",
-        "https://imagenes.elpais.com/resizer/v2/SAXKQBS5B5DWLMKZY2JOJC4TDI.jpg?auth=ce2f554b9ee0db890257a1f4f9c3f9b986bc8cfebedd610ea45d28fda242e0ec",
-        "https://imagenes.elpais.com/resizer/v2/JZJRHJW7UBPXBMIMVMFYPPFOII.jpg?auth=a0f4c7dc05b762b79cc8001c9ab3f8609a2ee489c6840c4afe433393a8aa5875",
-        "https://imagenes.elpais.com/resizer/v2/73Z6R7AMFFK6BP75TPS7S4NEDQ.jpg?auth=91027a77f7d9aa4f13d4248c54a752fad58fb5b8b4d287ed291da360195b817e"
+        "https://imagenes.elpais.com/resizer/v2/73Z6R7AMFFK6BP75TPS7S4NEDQ.jpg?auth=91027a77f7d9aa4f13d4248c54a752fad58fb5b8b4d287ed291da360195b817e",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/04/17911125519058.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/05/17911787990246.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/03/17910476931602.jpg"
       ],
       "estado": "verificado",
       "referencias": [
-        {
-          "id": "ev_c87d7d4440",
-          "titulo": "Por qué los católicos votan más a Lula, los evangélicos a Bolsonaro y cómo una polémica por una virgen influye en las elecciones de Brasil",
-          "url": "https://www.bbc.com/mundo/articles/cqr7d7xe1y9lo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Fri, 02 Oct 2026 12:48:31 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_0dcb20ea37",
-          "titulo": "Brasil decide su futuro entre Lula y Bolsonaro, un estadista desgastado y el hijo de un ultra",
-          "url": "https://elpais.com/america/2026-10-04/brasil-decide-su-futuro-entre-lula-y-bolsonaro-un-estadista-desgastado-y-un-hijo-de-papa-ultra.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sun, 04 Oct 2026 03:30:00 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_7a0934484f",
-          "titulo": "Ni Bolsonaro, ni Lula: Trump se reserva (de momento) su apoyo en las elecciones de Brasil",
-          "url": "https://elpais.com/america/2026-10-04/ni-bolsonaro-ni-lula-trump-se-reserva-de-momento-su-apoyo-en-las-elecciones-de-brasil.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sun, 04 Oct 2026 03:30:01 GMT",
-          "idioma": "es"
-        },
         {
           "id": "ev_d4772ee01a",
           "titulo": "La disputa entre Lula y Trump marca las elecciones brasileñas",
@@ -392,119 +62,98 @@
           "idioma": "es"
         },
         {
-          "id": "ev_484208c5fe",
-          "titulo": "Brasil elige presidente bajo la sombra de Trump y su ofensiva para impulsar gobiernos conservadores",
-          "url": "https://elpais.com/argentina/2026-10-03/brasil-elige-presidente-bajo-la-sombra-de-trump-y-su-ofensiva-para-impulsar-gobiernos-conservadores.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sat, 03 Oct 2026 09:30:00 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_4b7145a083",
-          "titulo": "Brasil llega a las urnas tras el cierre de las campañas de Lula y Bolsonaro",
-          "url": "https://www.france24.com/es/video/20261004-brasil-llega-a-las-urnas-tras-el-cierre-de-las-campa%C3%B1as-de-lula-y-bolsonaro",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sun, 04 Oct 2026 02:09:11 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_3c6bb1d4ca",
-          "titulo": "Cierre de campañas de Lula y Bolsonaro de cara a las elecciones generales",
-          "url": "https://www.france24.com/es/video/20261004-cierre-de-campa%C3%B1as-de-lula-y-bolsonaro-de-cara-a-las-elecciones-generales",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sun, 04 Oct 2026 02:07:35 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_c95c5a2e24",
-          "titulo": "Brasil, Trump y el futuro geopolítico de América: ¿qué está en juego?",
-          "url": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20261003-brasil-trump-y-el-futuro-geopol%C3%ADtico-de-am%C3%A9rica-qu%C3%A9-est%C3%A1-en-juego",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sat, 03 Oct 2026 13:54:04 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_4cbc9f3b7f",
-          "titulo": "Lula y Flávio Bolsonaro cierran sus campañas en la víspera de unas elecciones muy igualadas",
-          "url": "https://es.euronews.com/2026/10/03/lula-y-flavio-bolsonaro-cierran-sus-campanas-en-la-vispera-de-unas-elecciones-muy-igualada",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sat, 03 Oct 2026 18:53:56 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_8019bff71f",
-          "titulo": "Caos en Brasil a dos días de las elecciones: debate cancelado, acusaciones contra Lula y denuncia de fiestas sexuales",
-          "url": "https://www.elmundo.es/internacional/2026/10/02/6abefc0321efa08d658b4571.html",
+          "id": "ev_72c4765bfe",
+          "titulo": "Lula, el político que sólo admite ser eterno: \"Yo tengo una causa\"",
+          "url": "https://www.elmundo.es/internacional/2026/10/04/6ac2355a21efa00d608b45b0.html",
           "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 02 Oct 2026 02:41:04 +0200",
+          "fecha": "Sun, 04 Oct 2026 23:37:03 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_7acbbcf2cf",
-          "titulo": "El Brasil que dejó de apoyar a Lula: \"No le voto más, es un bandido\"",
-          "url": "https://www.elmundo.es/internacional/2026/10/02/6abe676a21efa0db518b45cd.html",
+          "id": "ev_687de0d704",
+          "titulo": "Trump pierde apoyos entre los votantes latinos a un mes de las elecciones legislativas",
+          "url": "https://www.elmundo.es/internacional/2026/10/05/6ac33857e85ecefc568b4575.html",
           "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 02 Oct 2026 00:57:32 +0200",
+          "fecha": "Mon, 05 Oct 2026 07:40:43 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_d2f1d72859",
-          "titulo": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
-          "url": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
+          "id": "ev_06e65664a3",
+          "titulo": "Trump publica el número de móvil de un senador de su partido que no apoya una ley para eliminar el cambio de hora",
+          "url": "https://www.elmundo.es/internacional/2026/10/03/6ac13735e85ece34348b4582.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sun, 04 Oct 2026 07:59:41 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_d7bc505f78",
+          "titulo": "Trump chooses top spy boss to run new AI taskforce",
+          "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Mon, 05 Oct 2026 10:03:38 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_58f2fa2f64",
+          "titulo": "Trump administration diverts human rights funds to push far-right agenda abroad",
+          "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
           "fuente": "The Guardian World",
-          "fecha": "Fri, 02 Oct 2026 21:12:29 GMT",
+          "fecha": "Wed, 30 Sep 2026 19:51:24 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_19738c1145",
+          "titulo": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
+          "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Sun, 04 Oct 2026 20:28:47 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-04_0002",
-      "fecha": "2026-10-04",
+      "id": "nd_2026-10-05_0000",
+      "fecha": "2026-10-05",
       "kardashev": "K1",
-      "relaciones": []
+      "relaciones": [
+        "nd_2026-10-05_0006"
+      ]
     },
     {
       "titulo": {
-        "es": "Continúan los ataques israelíes en Gaza pese al alto el fuego, elevando a 1.400 los muertos palestinos",
-        "en": "Israeli attacks persist in Gaza despite ceasefire, Palestinian death toll reaches 1,400"
+        "es": "Los palestinos de Gaza quieren recuperar una \"vida normal\"",
+        "en": "WHO’s strategic engagement with philanthropies: advancing global health and resilient health systems"
       },
       "sintesis": {
-        "es": "Un año después del alto el fuego de octubre de 2025, los ataques israelíes continúan en Gaza, incluyendo uno reciente que mató a al menos cinco personas y otro que acabó con la vida del director de una organización humanitaria. Las autoridades sanitarias de Gaza cifran en 1.400 los palestinos muertos desde la entrada en vigor de la tregua. La población civil sigue sufriendo falta de agua potable, vivienda destruida y bloqueo a la reconstrucción, mientras organismos de la ONU reclaman retomar la solución de dos Estados.",
-        "en": "One year after the October 2025 ceasefire, Israeli strikes continue in Gaza, including a recent attack that killed at least five people and another that killed the director of a humanitarian organization. Gaza health authorities report 1,400 Palestinian deaths since the truce took effect. Civilians continue to face lack of clean water, destroyed housing, and blocked reconstruction, while UN bodies call for reviving the two-state solution."
+        "es": "Un año después del alto el fuego, los gazatíes \"están agotados\" y no quieren \"pasar otro invierno bajo tiendas\", pero siguen sin acceso a agua potable suficiente y los materiales de reconstrucción no entran. \"Quieren recuperar una vida normal, trabajar y que sus hijos vuelvan a la escuela\", dice Alakbarov, que reclama reactivar la solución de dos Estados.",
+        "en": "Philanthropic support plays a vital role in enabling countries to build stronger health systems and advance towards health equity. From vaccine equity and pandemic preparedness to primary health care, the contributions of philanthropic partners help drive progress across WHO’s key priorities. The importance of philanthropic support was underscored by Dr Tedros Adhanom Ghebreyesus, WHO Director-General, in his recent remarks to the Philanthropy Asia Summit, held in Singapore on 5–7 May 2025."
       },
-      "categoria": "geopolitica",
+      "categoria": "salud",
       "actores": [
-        "Israel",
-        "Gobierno de Gaza/Ministerio de Sanidad gazatí",
-        "ONU",
-        "Organizaciones humanitarias"
+        "Gaza"
       ],
       "geo": {
-        "lat": 31.5017,
-        "lon": 34.4668,
-        "region": "Ciudad de Gaza, Franja de Gaza"
+        "lat": 31.0,
+        "lon": 34.9,
+        "region": "Oriente Medio"
       },
-      "impacto": 78,
+      "impacto": 87,
       "fuentes": [
-        "ev_13fc530de7",
         "ev_19b95df3cc",
         "ev_a1073ae786",
-        "ev_4a03b07ec7"
+        "ev_150d99779f",
+        "ev_079a25c5d0",
+        "ev_2c720c2d56",
+        "ev_6a280107dc",
+        "ev_d05b929e7f"
       ],
-      "cluster_id": "cl_039",
+      "cluster_id": "cl_106",
       "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/W5VJRATM5BCVVP2KUMDA7BGJTU.jpg?auth=ef427823875e185e865454874c620c4e59f1fe33ac9f1755adf77939850ee163",
         "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/07-09-2026_Gaza_yellow_line_3.jpg/image560x340cropped.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/04/17911051493519.jpg"
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/04/17911051493519.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/13-07-2026_UNNews_Gaza_Daily_Life_05.jpg/image560x340cropped.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/21-08-2026-UNICEF-Sudan-01.jpg/image560x340cropped.jpg"
       ],
       "estado": "verificado",
       "referencias": [
-        {
-          "id": "ev_13fc530de7",
-          "titulo": "Al menos cinco muertos por un ataque israelí en Ciudad de Gaza",
-          "url": "https://elpais.com/internacional/2026-10-03/varios-muertos-por-un-ataque-israeli-en-ciudad-de-gaza.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sat, 03 Oct 2026 19:36:51 GMT",
-          "idioma": "es"
-        },
         {
           "id": "ev_19b95df3cc",
           "titulo": "Los palestinos de Gaza quieren recuperar una \"vida normal\"",
@@ -522,128 +171,241 @@
           "idioma": "es"
         },
         {
-          "id": "ev_4a03b07ec7",
-          "titulo": "The story of a book in Gaza: A treasured possession given new lease of life",
-          "url": "https://www.aljazeera.com/features/2026/10/4/the-story-of-a-book-in-gaza-a-treasured-possession-given-new-lease-of-life?traffic_source=rss",
+          "id": "ev_150d99779f",
+          "titulo": "Gaza mothers seek breastfeeding support amid hunger and siege",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/gaza-mothers-seek-breastfeeding-support-amid-hunger-and-siege?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Sun, 04 Oct 2026 09:46:48 +0000",
+          "fecha": "Mon, 05 Oct 2026 10:42:08 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_079a25c5d0",
+          "titulo": "Gaza: WHO appeals for massive aid influx ahead of winter",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168508",
+          "fuente": "UN News",
+          "fecha": "Fri, 02 Oct 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2c720c2d56",
+          "titulo": "Who gets to shape AI? UN debate centres on power, trust and inclusion",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168498",
+          "fuente": "UN News",
+          "fecha": "Wed, 30 Sep 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6a280107dc",
+          "titulo": "WHO’s strategic engagement with philanthropies: advancing global health and resilient health systems",
+          "url": "https://www.who.int/news/item/19-05-2025-who-s-strategic-engagement-with-philanthropies-advancing-global-health-and-resilient-health-systems",
+          "fuente": "WHO News",
+          "fecha": "Mon, 19 May 2025 11:53:23 Z",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d05b929e7f",
+          "titulo": "WHO launches unique training course to enable parliamentarians in global health security",
+          "url": "https://www.who.int/news/item/12-07-2024-who-launches-unique-training-course-to-enable-parliamentarians-in-global-health-security",
+          "fuente": "WHO News",
+          "fecha": "Fri, 12 Jul 2024 15:17:48 Z",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-04_0003",
-      "fecha": "2026-10-04",
+      "id": "nd_2026-10-05_0001",
+      "fecha": "2026-10-05",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "‘This can’t go on’: tens of thousands protest against housing crisis in Spain",
-        "en": "‘This can’t go on’: tens of thousands protest against housing crisis in Spain"
+        "es": "Flávio Bolsonaro supera a Lula en primera vuelta y Brasil se encamina a un balotaje polarizado",
+        "en": "Flávio Bolsonaro edges out Lula in first round as Brazil heads to a polarized runoff"
       },
       "sintesis": {
-        "es": "Demonstrators take to the streets of Madrid ⁠and other Spanish cities ⁠after ​new legislation fails to pass Tens of thousands of people have taken to the streets of Madrid ⁠and other Spanish cities as they step up demands for action to tackle ⁠a mounting housing crisis ⁠after ​government measures were struck down by the opposition. Demonstrators on Saturday waved posters calling for a general strike ⁠after the measures drawn up to address mass anger over the eviction of an 87-year-old woman in ⁠Madrid, and other housing issues, were rejected in parliament on ​Friday. Continue reading...",
-        "en": "Demonstrators take to the streets of Madrid ⁠and other Spanish cities ⁠after ​new legislation fails to pass Tens of thousands of people have taken to the streets of Madrid ⁠and other Spanish cities as they step up demands for action to tackle ⁠a mounting housing crisis ⁠after ​government measures were struck down by the opposition. Demonstrators on Saturday waved posters calling for a general strike ⁠after the measures drawn up to address mass anger over the eviction of an 87-year-old woman in ⁠Madrid, and other housing issues, were rejected in parliament on ​Friday. Continue reading..."
+        "es": "En las elecciones presidenciales de Brasil, el senador Flávio Bolsonaro (PL), hijo del expresidente Jair Bolsonaro, superó por un estrecho margen a Lula da Silva en la primera vuelta (47% frente a 45%), lo que llevará a ambos a una segunda vuelta el 25 de octubre. El Partido Liberal también logró mayoría en el Senado y la Cámara de Diputados, consolidando su influencia institucional, mientras una abstención récord de 33,4 millones de votantes se perfila como factor decisivo para el balotaje.",
+        "en": "In Brazil's presidential election, Senator Flávio Bolsonaro (PL), son of former president Jair Bolsonaro, narrowly beat Lula da Silva in the first round (47% to 45%), sending both candidates to a runoff on October 25. The Liberal Party also secured majorities in the Senate and Chamber of Deputies, cementing its institutional influence, while record abstention of 33.4 million voters is seen as a potentially decisive factor in the runoff."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Spain",
-        "Tens",
-        "Madrid",
-        "Anger"
+        "Flávio Bolsonaro",
+        "Luiz Inácio Lula da Silva",
+        "Partido Liberal (PL)",
+        "Partido de los Trabajadores (PT)",
+        "Jair Bolsonaro"
       ],
       "geo": {
-        "lat": 40.5,
-        "lon": -3.7,
-        "region": "Europa"
+        "lat": -15.7939,
+        "lon": -47.8828,
+        "region": "Brasil"
       },
       "impacto": 78,
       "fuentes": [
-        "ev_4d0fe16f70",
-        "ev_f597182e5f",
-        "ev_cc1f9226fb",
-        "ev_378b209e0c",
-        "ev_a08e44806a",
-        "ev_5c1d7cc719"
+        "ev_68320adac7",
+        "ev_17fa809d7f",
+        "ev_267aed1428",
+        "ev_1325c5432a",
+        "ev_e8b72419da",
+        "ev_fa92f54835",
+        "ev_f0f5c39eb1",
+        "ev_e6fc7fdf85",
+        "ev_82a1420866",
+        "ev_e491d995f6",
+        "ev_aac90f502f",
+        "ev_6fa05ecd67",
+        "ev_99402b9527",
+        "ev_20ff7a5c8d",
+        "ev_a849d12675",
+        "ev_448533e6f8",
+        "ev_5a99d21a96",
+        "ev_46f32d6be7",
+        "ev_11322504d1",
+        "ev_69558dc55a",
+        "ev_ae8c331399",
+        "ev_dd1ba10af1",
+        "ev_eed09e631e",
+        "ev_c7f6aad748",
+        "ev_3e3b8d7c9f",
+        "ev_0363f5f606",
+        "ev_de7cabdf18",
+        "ev_cdab0437eb",
+        "ev_173b1881c6",
+        "ev_c87d7d4440",
+        "ev_575a3c51aa",
+        "ev_2a29b85a48",
+        "ev_0dcb20ea37",
+        "ev_7a0934484f",
+        "ev_8eb46bedc6",
+        "ev_cb43f1b010",
+        "ev_7bd0bfc023",
+        "ev_038b0fce49",
+        "ev_21e0190a75"
       ],
-      "cluster_id": "cl_151",
+      "cluster_id": "cl_025",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg",
-        "https://i.guim.co.uk/img/media/bd1a7b4fb4cc0b20a055adad1fdd404b09967b9e/1647_529_4253_3404/master/4253.jpg?width=140&quality=85&auto=format&fit=max&s=e02f7188ddba940e8488679410bed3dc",
-        "https://e3.365dm.com/26/10/1920x1080/skynews-spain-housing-protest_7367262.jpg?20261003145210"
+        "https://imagenes.elpais.com/resizer/v2/EYX7YHRT5NAJ7JZXPTLG6ORM7U.jpg?auth=4ff1c5ba21488ab2e40a0a611dc9d45ee41a80e46fa882927e6597e345ab3407",
+        "https://s.rfi.fr/media/display/1cac51c6-c098-11f1-9ca9-1ff0321dbbd3/w:1024/p:16x9/2026-10-05T011437Z-1494348956-RC2OWNAYY1DJ-RTRMADP-3-BRAZIL-ELECTION.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909530453727.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/05/17911799173329.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_4d0fe16f70",
-          "titulo": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sun, 04 Oct 2026 03:42:15 GMT",
-          "idioma": "en"
+          "id": "ev_68320adac7",
+          "titulo": "El apellido Bolsonaro gana desde la cárcel",
+          "url": "https://elpais.com/america/2026-10-05/el-apellido-bolsonaro-gana-desde-la-carcel.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Mon, 05 Oct 2026 02:28:15 GMT",
+          "idioma": "es"
         },
         {
-          "id": "ev_f597182e5f",
-          "titulo": "‘This can’t go on’: tens of thousands protest against housing crisis in Spain",
-          "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
-          "fuente": "The Guardian World",
-          "fecha": "Sat, 03 Oct 2026 14:19:46 GMT",
-          "idioma": "en"
+          "id": "ev_17fa809d7f",
+          "titulo": "Bolsonaro parte como favorito a un balotaje en el que Lula deberá movilizar a los abstencionistas",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20261005-bolsonaro-parte-como-favorito-a-un-balotaje-en-el-que-lula-deber%C3%A1-movilizar-a-los-abstencionistas",
+          "fuente": "RFI Espanol",
+          "fecha": "Mon, 05 Oct 2026 08:58:49 GMT",
+          "idioma": "es"
         },
         {
-          "id": "ev_cc1f9226fb",
-          "titulo": "Tens of thousands take to Madrid streets demanding housing action",
-          "url": "https://www.euronews.com/video/2026/10/03/tens-of-thousands-take-to-madrid-streets-demanding-housing-action",
-          "fuente": "Euronews English",
-          "fecha": "Sat, 03 Oct 2026 21:11:03 +0200",
-          "idioma": "en"
+          "id": "ev_267aed1428",
+          "titulo": "Quiénes son Flávio Bolsonaro y Lula: la herencia familiar frente al liderazgo histórico de la izquierda",
+          "url": "https://es.euronews.com/2026/10/05/quienes-son-flavio-bolsonaro-lula-herencia-familiar-frente-liderazgo-historico-izquierda",
+          "fuente": "Euronews Espanol",
+          "fecha": "Mon, 05 Oct 2026 10:30:26 +0200",
+          "idioma": "es"
         },
         {
-          "id": "ev_378b209e0c",
-          "titulo": "Nearly 500,000 people protest in Madrid over Spain's housing crisis",
-          "url": "https://www.euronews.com/2026/10/03/nearly-500000-people-protest-in-madrid-over-spains-housing-crisis",
-          "fuente": "Euronews English",
-          "fecha": "Sat, 03 Oct 2026 17:16:05 +0200",
-          "idioma": "en"
+          "id": "ev_1325c5432a",
+          "titulo": "Elecciones presidenciales en Brasil: Lula da Silva se impone en Lisboa y Oporto, Bolsonaro en Faro",
+          "url": "https://es.euronews.com/2026/10/05/elecciones-presidenciales-brasil-lula-da-silva-impone-lisboa-oporto-bolsonaro-faro",
+          "fuente": "Euronews Espanol",
+          "fecha": "Mon, 05 Oct 2026 10:17:39 +0200",
+          "idioma": "es"
         },
         {
-          "id": "ev_a08e44806a",
-          "titulo": "Tens of thousands protest against Spain's housing crisis",
-          "url": "https://news.sky.com/story/tens-of-thousands-protest-against-spains-housing-crisis-following-eviction-of-87-year-old-woman-13594689",
-          "fuente": "Sky News World",
-          "fecha": "Sat, 03 Oct 2026 14:42:00 +0100",
-          "idioma": "en"
+          "id": "ev_e8b72419da",
+          "titulo": "Brasil se encamina a una segunda vuelta: Flávio Bolsonaro supera a Lula y se jugarán la presidencia",
+          "url": "https://es.euronews.com/2026/10/05/bolsonaro-lula-iran-segunda-vuelta-tras-unas-renidas-elecciones-presidenciales-brasil",
+          "fuente": "Euronews Espanol",
+          "fecha": "Mon, 05 Oct 2026 07:12:06 +0200",
+          "idioma": "es"
         },
         {
-          "id": "ev_5c1d7cc719",
-          "titulo": "Tens of thousands protest across Spain over housing crisis",
-          "url": "https://www.cnbc.com/2026/10/04/tens-of-thousands-protest-across-spain-over-housing-crisis.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Sun, 04 Oct 2026 06:27:28 GMT",
-          "idioma": "en"
+          "id": "ev_fa92f54835",
+          "titulo": "Flávio Bolsonaro, el turno de '01' en una familia que quiere ser una dinastía política: \"Papá, te honraré\"",
+          "url": "https://www.elmundo.es/internacional/2026/10/04/6abfc2a0e85ece4c618b4585.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Mon, 05 Oct 2026 07:34:45 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f0f5c39eb1",
+          "titulo": "Brasil se prepara para el regreso de los Bolsonaro, que tendrán más poder que nunca: \"Vamos camino a una monarquía bolsonarista\"",
+          "url": "https://www.elmundo.es/internacional/2026/10/05/6ac33b01fdddffad1b8b4596.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Mon, 05 Oct 2026 07:59:53 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_e6fc7fdf85",
+          "titulo": "Flávio Bolsonaro desborda las encuestas y se acerca a la Presidencia de Brasil frente a Lula",
+          "url": "https://www.elmundo.es/internacional/2026/10/04/6ac2b9b0fdddfff8458b458e.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Mon, 05 Oct 2026 07:21:05 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_82a1420866",
+          "titulo": "Lula y Bolsonaro se enfrentan en el balotaje en Brasil: ¿qué se puede concluir de la primera vuelta?",
+          "url": "https://www.france24.com/es/video/20261005-lula-y-bolsonaro-se-enfrentan-en-el-balotaje-en-brasil-qu%C3%A9-se-puede-concluir-de-la-primera-vuelta",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 05 Oct 2026 03:11:09 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_e491d995f6",
+          "titulo": "Juan Agulló: \"A diferencia de otros países de Latinoamérica, Brasil es un competidor directo\"",
+          "url": "https://www.france24.com/es/video/20261005-juan-agull%C3%B3-a-diferencia-de-otros-pa%C3%ADses-de-latinoam%C3%A9rica-brasil-es-un-competidor-directo",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 05 Oct 2026 02:47:01 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_aac90f502f",
+          "titulo": "Lula y Bolsonaro van al balotaje: ¿Es posible disminuir el Estado brasileño?",
+          "url": "https://www.france24.com/es/video/20261005-lula-y-bolsonaro-van-al-balotaje-es-posible-disminuir-el-estado-brasile%C3%B1o",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 05 Oct 2026 02:49:22 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_6fa05ecd67",
+          "titulo": "Flávio Bolsonaro y Lula da Silva se enfrentarán en el balotaje en Brasil",
+          "url": "https://www.france24.com/es/video/20261005-fl%C3%A1vio-bolsonaro-y-lula-da-silva-se-enfrentar%C3%A1n-en-el-balotaje-en-brasil",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 05 Oct 2026 00:32:48 GMT",
+          "idioma": "es"
         }
       ],
-      "id": "nd_2026-10-04_0004",
-      "fecha": "2026-10-04",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-10-04_0012"
-      ]
+      "id": "nd_2026-10-05_0002",
+      "fecha": "2026-10-05",
+      "kardashev": "K1",
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live",
-        "en": "Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live"
+        "es": "Middle East oil exports return to pre-war levels, excluding Iran",
+        "en": "Middle East oil exports return to pre-war levels, excluding Iran"
       },
       "sintesis": {
-        "es": "German chancellor tours city with president Zelenskyy after Moscow strikes city’s North Bridge this morning amid his arrival Germany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.8 billion) since the war began, along with equipment and weapons. Zelenskyy thanked Merz for visiting the Ukrainian capital describing him as “A leader of a country that consistently demonstrates leadership in protecting the lives of Ukrainians from Russian strikes. We are grateful for all the support, and today we are preparing decisions to give us in Ukraine, and all of Europe, greater capabilities to defend ourselves.",
-        "en": "German chancellor tours city with president Zelenskyy after Moscow strikes city’s North Bridge this morning amid his arrival Germany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.8 billion) since the war began, along with equipment and weapons. Zelenskyy thanked Merz for visiting the Ukrainian capital describing him as “A leader of a country that consistently demonstrates leadership in protecting the lives of Ukrainians from Russian strikes. We are grateful for all the support, and today we are preparing decisions to give us in Ukraine, and all of Europe, greater capabilities to defend ourselves."
+        "es": "Oil exports from the Middle East, excluding Iran, exceeded their pre-war average last week, Kpler data showed, as pipelines helped bypass the Strait of Hormuz despite continued attacks on shipping.",
+        "en": "Oil exports from the Middle East, excluding Iran, exceeded their pre-war average last week, Kpler data showed, as pipelines helped bypass the Strait of Hormuz despite continued attacks on shipping."
       },
-      "categoria": "innovacion",
+      "categoria": "geopolitica",
       "actores": [
-        "Kyiv",
-        "Russia",
-        "Russian",
-        "Germany"
+        "Middle East",
+        "World News",
+        "Brief",
+        "West Bank"
       ],
       "geo": {
         "lat": 48.4,
@@ -652,431 +414,802 @@
       },
       "impacto": 74,
       "fuentes": [
-        "ev_0b9b8fe63d",
-        "ev_3277d2cf36",
-        "ev_2d791b81e4",
-        "ev_e4f706397c",
-        "ev_d3caa359f7",
-        "ev_9fe78cba53"
+        "ev_30de579c17",
+        "ev_3ad59d0c96",
+        "ev_6cf0ae0e9d",
+        "ev_02e611ca09",
+        "ev_bb79b1a24c",
+        "ev_def2d48619"
       ],
-      "cluster_id": "cl_148",
+      "cluster_id": "cl_218",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1e6/live/c07550e0-bfd1-11f1-a000-7b944ef8fdad.jpg",
-        "https://i.guim.co.uk/img/media/c35620d2be2fd773dd7b35bec2afb6eb575e856c/0_1210_3066_2452/master/3066.jpg?width=140&quality=85&auto=format&fit=max&s=d1168a29cbff77cd0227a7fc4797535d",
-        "https://s.france24.com/media/display/e390ed6c-bfd8-11f1-82ff-dd51fcab6130/w:1024/p:16x9/EN-20261004-110613-111023-CS.jpg",
-        "https://s.france24.com/media/display/92b6692c-bfc8-11f1-bdda-13e372f41e70/w:1024/p:16x9/EN-20261004-093117-093546-CS.jpg"
+        "https://static01.nyt.com/images/2026/10/05/multimedia/05int-theworld-hormuz-lwqh-promo/05int-theworld-hormuz-lwqh-promo-mediumSquareAt3X.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/15-06-2026-BINUH-Haiti-02.jpg/image560x340cropped.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/06-03-2024-Bikini-Atoll-nuclear-test.jpg/image560x340cropped.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/06-05-20-UNHCR-Rohingya-boat-people-bay-of-bengal-andaman-sea.jpg/image560x340cropped.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_0b9b8fe63d",
-          "titulo": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-          "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sun, 04 Oct 2026 10:11:32 GMT",
+          "id": "ev_30de579c17",
+          "titulo": "Middle East oil exports surpass pre-war levels despite tensions, data shows",
+          "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 05 Oct 2026 05:20:57 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_3277d2cf36",
-          "titulo": "Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live",
-          "url": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
-          "fuente": "The Guardian World",
-          "fecha": "Sun, 04 Oct 2026 10:41:05 GMT",
+          "id": "ev_3ad59d0c96",
+          "titulo": "The Return of Middle East Oil",
+          "url": "https://www.nytimes.com/2026/10/04/world/strait-hormuz-oil-yemen-brazil.html",
+          "fuente": "NYT World",
+          "fecha": "Mon, 05 Oct 2026 05:16:11 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_2d791b81e4",
-          "titulo": "Russian strike hits Kyiv amid Chancellor Merz visit",
-          "url": "https://www.france24.com/en/russian-strike-hits-kyiv-amid-chancellor-merz-visit",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 04 Oct 2026 09:52:14 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e4f706397c",
-          "titulo": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
-          "url": "https://www.france24.com/en/germany-s-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 04 Oct 2026 07:58:36 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d3caa359f7",
-          "titulo": "Live: New Russian strikes hit Kyiv bridge as Germany's Merz visits",
-          "url": "https://www.france24.com/en/europe/20261004-live-germany-s-merz-in-kyiv-for-talks-with-zelensky",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 04 Oct 2026 07:28:07 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9fe78cba53",
-          "titulo": "Russia 'tearing Kyiv apart', mayor says, as strikes paralyse traffic",
-          "url": "https://www.euronews.com/2026/10/02/russia-tearing-kyiv-apart-mayor-says-as-strikes-paralyse-traffic",
+          "id": "ev_6cf0ae0e9d",
+          "titulo": "Middle East oil exports return to pre-war levels, excluding Iran",
+          "url": "https://www.euronews.com/2026/10/05/middle-east-oil-exports-return-to-pre-war-levels-excluding-iran",
           "fuente": "Euronews English",
-          "fecha": "Fri, 02 Oct 2026 21:30:32 +0200",
+          "fecha": "Mon, 05 Oct 2026 11:53:32 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_02e611ca09",
+          "titulo": "World News in Brief: Cycle of violence continues in Haiti, seafarer deaths off Somalia, food insecurity in the Middle East",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168511",
+          "fuente": "UN News",
+          "fecha": "Fri, 02 Oct 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_bb79b1a24c",
+          "titulo": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168503",
+          "fuente": "UN News",
+          "fecha": "Thu, 01 Oct 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_def2d48619",
+          "titulo": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168488",
+          "fuente": "UN News",
+          "fecha": "Tue, 29 Sep 2026 12:00:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-04_0005",
-      "fecha": "2026-10-04",
+      "id": "nd_2026-10-05_0003",
+      "fecha": "2026-10-05",
       "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
-        "en": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack"
+        "es": "Pedro Sánchez convoca elecciones generales anticipadas en España para el 29 de noviembre",
+        "en": "Pedro Sánchez calls early general elections in Spain for November 29"
       },
       "sintesis": {
-        "es": "Smit Machchhar says in video call with Indian PM that he realised if he did not get up ‘passengers would lose their lives’ The Indian pilot who helped thwart an apparent attempt to crash a flydubai flight to Tel Aviv said his faith and his desire to save his passengers allowed him to make a “last push” to open the cockpit door as he fought for his life. Capt Smit Machchhar, who was recovering in an Abu Dhabi hospital, described to India’s prime minister, Narendra Modi, how he helped save the plane and its more than 170 passengers. Continue reading...",
-        "en": "Smit Machchhar says in video call with Indian PM that he realised if he did not get up ‘passengers would lose their lives’ The Indian pilot who helped thwart an apparent attempt to crash a flydubai flight to Tel Aviv said his faith and his desire to save his passengers allowed him to make a “last push” to open the cockpit door as he fought for his life. Capt Smit Machchhar, who was recovering in an Abu Dhabi hospital, described to India’s prime minister, Narendra Modi, how he helped save the plane and its more than 170 passengers. Continue reading..."
+        "es": "El presidente del Gobierno español, Pedro Sánchez, anunció la disolución de las Cortes y el adelanto de las elecciones generales al 29 de noviembre, tras el rechazo en el Congreso de dos decretos sobre vivienda. La decisión llega en medio de protestas masivas por la crisis habitacional, desatadas por el desahucio de una anciana, y en un contexto de creciente fragilidad de la mayoría parlamentaria del Gobierno de coalición. Las encuestas anticipan ventaja para el Partido Popular y una posible coalición con la ultraderecha.",
+        "en": "Spanish Prime Minister Pedro Sánchez announced the dissolution of parliament and moved up general elections to November 29, after Congress rejected two government housing decrees. The decision comes amid mass protests over the housing crisis, triggered by the eviction of an elderly woman, and growing fragility of the coalition government's parliamentary majority. Polls anticipate an advantage for the conservative Popular Party and a possible coalition with the far right."
       },
-      "categoria": "salud",
+      "categoria": "geopolitica",
       "actores": [
-        "FlyDubai Flight",
-        "Indian",
-        "Indian Pilot",
-        "Stabbed"
+        "Pedro Sánchez",
+        "Congreso de los Diputados de España",
+        "Partido Popular",
+        "Gobierno de coalición de España"
       ],
       "geo": {
-        "lat": 20.6,
-        "lon": 79.0,
-        "region": "Asia Meridional"
+        "lat": 40.4168,
+        "lon": -3.7038,
+        "region": "España"
       },
-      "impacto": 65,
+      "impacto": 72,
       "fuentes": [
-        "ev_72e9a13e4f",
-        "ev_3866928d0b",
-        "ev_90951d0dd8",
-        "ev_f839734b72",
-        "ev_b4eaa6343d",
-        "ev_672cb55d41"
+        "ev_acd366e49f",
+        "ev_8f5d0555af",
+        "ev_c9e30139ab",
+        "ev_80a9361e45",
+        "ev_564c628fda",
+        "ev_20eec98db0",
+        "ev_0eb2c732d8",
+        "ev_84989dd51f",
+        "ev_6df9748e98",
+        "ev_16859632f8",
+        "ev_7412e0e995",
+        "ev_41f19ea826",
+        "ev_66819e3e9c",
+        "ev_e93bd79f17",
+        "ev_c62507205e",
+        "ev_054ab6589f",
+        "ev_6b34adf874",
+        "ev_774e63b2f0",
+        "ev_04d1effb3f",
+        "ev_1b417da7fb"
       ],
-      "cluster_id": "cl_184",
+      "cluster_id": "cl_000",
       "imagenes": [
-        "https://i.guim.co.uk/img/media/a7c16e03b529e84f8889588bf438839554d4d3b2/0_0_5906_4724/master/5906.jpg?width=140&quality=85&auto=format&fit=max&s=c96b86fe6a830cd2a9713d2c94d71c8c",
-        "https://static01.nyt.com/images/2026/10/02/multimedia/02int-india-pilot-modi-cghb/02int-india-pilot-modi-cghb-mediumSquareAt3X.jpg",
-        "https://static01.nyt.com/images/2026/10/04/multimedia/04int-flydubai-pilots-wtk-glzh/04int-flydubai-pilots-wtk-glzh-mediumSquareAt3X.jpg",
-        "https://static01.nyt.com/images/2026/10/02/multimedia/02int-israel-flydubai-ticktock-01-ftcq/02int-israel-flydubai-ticktock-01-ftcq-mediumSquareAt3X.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e07/live/7077a210-c093-11f1-a4af-19dbf5352a59.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e16/live/4c5f2900-be97-11f1-9f15-2f9dbc671f7d.jpg",
+        "https://imagenes.elpais.com/resizer/v2/3QP4N7RDNFHBHHT7L2AEP64DCU.jpg?auth=3f9bd09933de7988976a582b50a7cfa7139889c1c8b63a5dd8c194f7a603d031",
+        "https://s.france24.com/media/display/b5e09d68-c0aa-11f1-9e27-69fad0a7cb9f/w:1024/p:16x9/ES-20261005-053245-053630-CS.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_72e9a13e4f",
-          "titulo": "‘I was fighting for my life’: Indian pilot hailed as hero recalls flydubai cockpit attack",
-          "url": "https://www.theguardian.com/world/2026/oct/02/indian-pilot-smit-machchhar-recalls-flydubai-cockpit-attack",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 02 Oct 2026 08:39:40 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3866928d0b",
-          "titulo": "Indian Pilot Stabbed on FlyDubai Flight Recalls Sudden Attack",
-          "url": "https://www.nytimes.com/2026/10/02/world/asia/flydubai-attack-pilot-israel-india-smit-machchhar.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 02 Oct 2026 12:16:54 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_90951d0dd8",
-          "titulo": "'I was fighting for my life': Indian pilot hailed as hero recalls FlyDubai cockpit attack",
-          "url": "https://www.cbc.ca/news/world/flydubai-pilot-interview-hospital-9.7366522?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 02 Oct 2026 05:36:47 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f839734b72",
-          "titulo": "Who Were the Pilots on the FlyDubai Flight?",
-          "url": "https://www.nytimes.com/2026/10/04/world/middleeast/flydubai-flight-who-were-pilots.html",
-          "fuente": "NYT World",
-          "fecha": "Sun, 04 Oct 2026 09:33:18 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b4eaa6343d",
-          "titulo": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
-          "url": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html",
-          "fuente": "NYT World",
-          "fecha": "Sat, 03 Oct 2026 14:59:12 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_672cb55d41",
-          "titulo": "Why Were 4 Pilots Aboard FlyDubai Flight 1073?",
-          "url": "https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-flight-cockpit-stabbing-extra-pilots.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 02 Oct 2026 16:53:30 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-04_0006",
-      "fecha": "2026-10-04",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Cornell University to take ‘serious look’ at fraternities after rape allegations",
-        "en": "Cornell University to take ‘serious look’ at fraternities after rape allegations"
-      },
-      "sintesis": {
-        "es": "Ivy League school’s president promises action after woman alleged she was drugged ⁠and raped by fraternity members Cornell University will examine the role of fraternities and sororities on campus after an outcry over the school’s handling ⁠of a student’s rape allegations, the Ivy League school’s president has said. A civil lawsuit filed last month by the woman , who ⁠alleges she was drugged ⁠and raped in ​2024 by several members of the Chi Phi fraternity, has prompted outrage and soul-searching at Cornell over its campus culture at the ⁠school in Ithaca, New York. Continue reading...",
-        "en": "Ivy League school’s president promises action after woman alleged she was drugged ⁠and raped by fraternity members Cornell University will examine the role of fraternities and sororities on campus after an outcry over the school’s handling ⁠of a student’s rape allegations, the Ivy League school’s president has said. A civil lawsuit filed last month by the woman , who ⁠alleges she was drugged ⁠and raped in ​2024 by several members of the Chi Phi fraternity, has prompted outrage and soul-searching at Cornell over its campus culture at the ⁠school in Ithaca, New York. Continue reading..."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Cornell",
-        "Cornell University"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 58,
-      "fuentes": [
-        "ev_3f9876e84b",
-        "ev_f1e99b0b25",
-        "ev_5256c99d80",
-        "ev_cc57d34f11"
-      ],
-      "cluster_id": "cl_150",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1acd/live/708a4390-bf7e-11f1-9b0d-03ed169a0cab.jpg",
-        "https://i.guim.co.uk/img/media/39b573f72da01cf7d753c80a2bb8b4ddda9116e6/269_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=021cc14b2a9d17c6f750212e48c1f838"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_3f9876e84b",
-          "titulo": "Cornell president says university 'must do better' after frat house rape allegations",
-          "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sun, 04 Oct 2026 00:11:25 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f1e99b0b25",
-          "titulo": "Cornell University to take ‘serious look’ at fraternities after rape allegations",
-          "url": "https://www.theguardian.com/us-news/2026/oct/04/cornell-president-vows-serious-look-at-fraternities-in-wake-of-allegations",
-          "fuente": "The Guardian World",
-          "fecha": "Sun, 04 Oct 2026 09:43:26 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5256c99d80",
-          "titulo": "Cornell president says university ‘must do better’ after rape allegations",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/cornell-president-says-university-must-do-better-after-rape-allegations?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 04 Oct 2026 08:33:54 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_cc57d34f11",
-          "titulo": "Cornell president vows 'serious look' at fraternities in wake of gang rape allegations",
-          "url": "https://www.abc.net.au/news/2026-10-04/cornell-president-vows-serious-look-at-fraternities-sororities/107227132",
-          "fuente": "ABC News Australia",
-          "fecha": "Sun, 04 Oct 2026 05:53:13 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-04_0007",
-      "fecha": "2026-10-04",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-04_0010",
-        "nd_2026-10-04_0013"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Why tenants choose to move out in connection with renovation",
-        "en": "Why tenants choose to move out in connection with renovation"
-      },
-      "sintesis": {
-        "es": "One in three tenants who moved out of a municipal rental apartment in Gothenburg in connection with renovation said the renovation was a main reason for their decision, and many of them moved out even before construction began. A new study from Chalmers University of Technology shows that concerns about disruption, uncertainty and unclear information can be just as important as rent increases.",
-        "en": "One in three tenants who moved out of a municipal rental apartment in Gothenburg in connection with renovation said the renovation was a main reason for their decision, and many of them moved out even before construction began. A new study from Chalmers University of Technology shows that concerns about disruption, uncertainty and unclear information can be just as important as rent increases."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Why Canada"
-      ],
-      "geo": {
-        "lat": 56.1,
-        "lon": -106.3,
-        "region": "Norteamerica"
-      },
-      "impacto": 58,
-      "fuentes": [
-        "ev_e3a475e910",
-        "ev_2cb927c9eb",
-        "ev_c509e54655",
-        "ev_b8c620fdb8"
-      ],
-      "cluster_id": "cl_157",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c81/live/804a5860-bd08-11f1-8a64-4f07fd1a6b57.jpg",
-        "https://scx1.b-cdn.net/csz/news/tmb/2026/renovation-1.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e3a475e910",
-          "titulo": "Why Canada is preparing for a (long shot) US invasion",
-          "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sat, 03 Oct 2026 23:30:06 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2cb927c9eb",
-          "titulo": "‘It’s given my mental health a massive boost’: Why everyone should hone their bushcraft skills",
-          "url": "https://www.euronews.com/2026/10/03/its-given-my-mental-health-a-massive-boost-why-everyone-should-hone-their-bushcraft-skills",
-          "fuente": "Euronews English",
-          "fecha": "Sat, 03 Oct 2026 07:02:26 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c509e54655",
-          "titulo": "Why rheumatoid arthritis pain may persist even when inflammation is under control",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260925093208.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Sun, 27 Sep 2026 06:49:13 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b8c620fdb8",
-          "titulo": "Why tenants choose to move out in connection with renovation",
-          "url": "https://phys.org/news/2026-10-tenants-renovation.html",
-          "fuente": "Phys.org",
-          "fecha": "Fri, 02 Oct 2026 21:40:01 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-04_0008",
-      "fecha": "2026-10-04",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Flydubai co-pilot used crash axe to attack captain, says UAE",
-        "en": "Flydubai co-pilot used crash axe to attack captain, says UAE"
-      },
-      "sintesis": {
-        "es": "Attorney general says ‘terrorist attack’ was attempted by suspect who is said to have been barred from flying by Oman because of extremist views The co-pilot of flydubai flight FZ1073 used an axe to attempt to carry out a “terrorist attack” during the Israel-bound flight, the United ⁠Arab Emirates prosecutor general has said. Disaster was narrowly averted on Wednesday when passengers and crew intervened to stop the co-pilot’s attempt to take control of the plane, which had 182 people onboard and plunged 16,625ft in just over 30 seconds. The descent was so extreme that part of the rudder was ripped off.",
-        "en": "Attorney general says ‘terrorist attack’ was attempted by suspect who is said to have been barred from flying by Oman because of extremist views The co-pilot of flydubai flight FZ1073 used an axe to attempt to carry out a “terrorist attack” during the Israel-bound flight, the United ⁠Arab Emirates prosecutor general has said. Disaster was narrowly averted on Wednesday when passengers and crew intervened to stop the co-pilot’s attempt to take control of the plane, which had 182 people onboard and plunged 16,625ft in just over 30 seconds. The descent was so extreme that part of the rudder was ripped off."
-      },
-      "categoria": "salud",
-      "actores": [
-        "UAE",
-        "FlyDubai",
-        "Flydubai"
-      ],
-      "geo": {
-        "lat": 31.0,
-        "lon": 34.9,
-        "region": "Oriente Medio"
-      },
-      "impacto": 58,
-      "fuentes": [
-        "ev_02f2ffc85d",
-        "ev_debbf39576",
-        "ev_259caf9db6",
-        "ev_da5b929ee6"
-      ],
-      "cluster_id": "cl_182",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/c4c21545c40a5e97d346e5c87667ec791987a30b/0_110_3200_2559/master/3200.jpg?width=140&quality=85&auto=format&fit=max&s=a8b6ac3b9338871b83cba2f142537ba5"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_02f2ffc85d",
-          "titulo": "Flydubai co-pilot used crash axe to attack captain, says UAE",
-          "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-          "fuente": "The Guardian World",
-          "fecha": "Sat, 03 Oct 2026 11:56:46 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_debbf39576",
-          "titulo": "UAE says FlyDubai co-pilot attacked captain with axe in 'terrorist' act",
-          "url": "https://www.euronews.com/2026/10/03/uae-says-flydubai-co-pilot-attacked-captain-with-axe-in-terrorist-act",
-          "fuente": "Euronews English",
-          "fecha": "Sat, 03 Oct 2026 11:27:47 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_259caf9db6",
-          "titulo": "U.A.E. says co-pilot on FlyDubai plane that nearly crashed attacked captain with cockpit's crash axe",
-          "url": "https://www.cbc.ca/news/world/flydubai-captain-attacked-cockpit-crash-axe-9.7368120?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 02 Oct 2026 09:21:24 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_da5b929ee6",
-          "titulo": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
-          "url": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Sat, 03 Oct 2026 12:34:59 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-04_0009",
-      "fecha": "2026-10-04",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-04_0000"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Nervios y paranoia en la universidad: \"Se está colgando a los hombres de Cornell la etiqueta de que crearon siete seres humanos terribles\"",
-        "en": "Cornell president calls alleged gang rape 'deeply disturbing,' pledges greater transparency"
-      },
-      "sintesis": {
-        "es": "La reapertura de la investigación sobre la presunta agresión sexual a una estudiante ha desatado indignación en el campus y preocupación entre los alumnos por el daño a la imagen de su centro Leer",
-        "en": "Scrutiny has mounted in recent days over Cornell's response to allegations that the woman was sexually assaulted by multiple fraternity members in 2024. The woman, identified in court documents as Jane Doe, has sued the university and seven former students."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "Cornell",
-        "Nervios"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 57,
-      "fuentes": [
-        "ev_2686759d10",
-        "ev_be7c63520a",
-        "ev_d75076e26a"
-      ],
-      "cluster_id": "cl_125",
-      "imagenes": [
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/03/17910492421485.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_2686759d10",
-          "titulo": "Nervios y paranoia en la universidad: \"Se está colgando a los hombres de Cornell la etiqueta de que crearon siete seres humanos terribles\"",
-          "url": "https://www.elmundo.es/internacional/2026/10/04/6ac13d7be85ecec96c8b457f.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sun, 04 Oct 2026 01:49:58 +0200",
+          "id": "ev_acd366e49f",
+          "titulo": "Pedro Sánchez convoca elecciones anticipadas tras el fracaso en el Congreso de sus decretos para enfrentar la crisis de la vivienda en España",
+          "url": "https://www.bbc.com/mundo/articles/crgj9408el84o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Mon, 05 Oct 2026 09:50:44 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_be7c63520a",
-          "titulo": "Can the Cornell lawsuit force changes that make students safer?",
-          "url": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
+          "id": "ev_8f5d0555af",
+          "titulo": "El Parlamento de España vota en contra de dos decretos sobre vivienda del gobierno de Pedro Sánchez tras la crisis por el desahucio de la anciana Maricarmen",
+          "url": "https://www.bbc.com/mundo/articles/cqj9klj2zy29o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Fri, 02 Oct 2026 15:30:15 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_c9e30139ab",
+          "titulo": "Pedro Sánchez, único líder socialdemócrata en una UE derechizada, activa el súper año electoral en Europa",
+          "url": "https://elpais.com/internacional/2026-10-05/pedro-sanchez-unico-lider-socialdemocrata-en-una-ue-derechizada-activa-el-super-ano-electoral-en-europa.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Mon, 05 Oct 2026 11:36:47 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_80a9361e45",
+          "titulo": "Informe desde Barcelona: Pedro Sánchez convoca elecciones anticipadas en España",
+          "url": "https://www.france24.com/es/video/20261005-informe-desde-barcelona-pedro-s%C3%A1nchez-convoca-elecciones-anticipadas-en-espa%C3%B1a",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 05 Oct 2026 10:54:56 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_564c628fda",
+          "titulo": "Pedro Sánchez adelanta las elecciones generales al 29N en España tras la derrota de sus decretos de vivienda",
+          "url": "https://es.euronews.com/2026/10/05/pedro-sanchez-adelanta-las-elecciones-generales-en-espana-tras-la-derrota-de-sus-decretos-",
+          "fuente": "Euronews Espanol",
+          "fecha": "Mon, 05 Oct 2026 09:09:18 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_20eec98db0",
+          "titulo": "“Necesitamos una mayoría más amplia”: España adelanta las elecciones al 29 de noviembre",
+          "url": "https://www.france24.com/es/europa/20261005-el-gobierno-de-espa%C3%B1a-adelanta-las-elecciones-al-29-de-noviembre-necesitamos-una-mayor%C3%ADa-m%C3%A1s-amplia",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 05 Oct 2026 10:50:54 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_0eb2c732d8",
+          "titulo": "Pedro Sánchez adelanta las elecciones en España al 29 de noviembre tras el revés parlamentario por la vivienda",
+          "url": "https://www.france24.com/es/europa/20261005-pedro-s%C3%A1nchez-adelanta-las-elecciones-en-espa%C3%B1a-al-29-de-noviembre-tras-el-rev%C3%A9s-parlamentario-por-la-vivienda",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 05 Oct 2026 10:09:21 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_84989dd51f",
+          "titulo": "Pedro Sánchez anuncia elecciones anticipadas en España para el 29 de noviembre",
+          "url": "https://www.france24.com/es/europa/20261005-pedro-s%C3%A1nchez-anuncia-elecciones-anticipadas-en-espa%C3%B1a-para-el-29-de-noviembre",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 05 Oct 2026 08:54:26 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_6df9748e98",
+          "titulo": "España: Sánchez adelanta las elecciones apostando por la crisis de la vivienda",
+          "url": "https://www.rfi.fr/es/europa/20261005-espa%C3%B1a-s%C3%A1nchez-adelanta-las-elecciones-apostando-por-la-crisis-de-la-vivienda",
+          "fuente": "RFI Espanol",
+          "fecha": "Mon, 05 Oct 2026 10:32:58 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_16859632f8",
+          "titulo": "Pedro Sánchez convoca elecciones generales anticipadas en España: última hora y reacciones",
+          "url": "https://es.euronews.com/2026/10/05/declaracion-institucional-de-pedro-sanchez-para-desvelar-si-adelanta-las-elecciones",
+          "fuente": "Euronews Espanol",
+          "fecha": "Mon, 05 Oct 2026 08:57:21 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_7412e0e995",
+          "titulo": "Sánchez negocia con sus socios de Gobierno en la jornada de reflexión: ¿Convocará elecciones en España?",
+          "url": "https://es.euronews.com/2026/10/04/sanchez-estudia-convocar-elecciones-generales-el-proximo-29-de-noviembre",
+          "fuente": "Euronews Espanol",
+          "fecha": "Sun, 04 Oct 2026 16:23:19 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_41f19ea826",
+          "titulo": "Spain’s Sánchez calls snap election amid national housing crisis – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
+          "fuente": "The Guardian World",
+          "fecha": "Mon, 05 Oct 2026 11:11:13 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-05_0004",
+      "fecha": "2026-10-05",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "El euro cae a un mínimo de 17 meses frente al dólar por temores sobre la deuda francesa y elecciones anticipadas en España",
+        "en": "Euro falls to 17-month low against dollar amid French debt fears and Spain's snap election"
+      },
+      "sintesis": {
+        "es": "El euro se desplomó a su nivel más bajo frente al dólar desde mayo de 2025, cayendo por debajo de 1,12 dólares, en medio de la preocupación por la posición fiscal de Francia y su posible amenaza para la estabilidad de la zona euro. La convocatoria de elecciones anticipadas en España añadió incertidumbre política, alimentando temores de una nueva crisis en el bloque y de contagio en los mercados de bonos.",
+        "en": "The euro slumped to its lowest level against the dollar since May 2025, falling below $1.12, amid growing concern over France's debt position and its potential threat to eurozone stability. Spain's call for a snap election added political uncertainty, fueling fears of a fresh crisis and contagion across the bloc's bond markets."
+      },
+      "categoria": "economia",
+      "actores": [
+        "Francia",
+        "España",
+        "Banco Central Europeo",
+        "mercados de bonos de la eurozona"
+      ],
+      "geo": {
+        "lat": 46.2276,
+        "lon": 2.2137,
+        "region": "Francia / España / Eurozona"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_da7ab81c6c",
+        "ev_b1857c5f9b",
+        "ev_82caabada7"
+      ],
+      "cluster_id": "cl_184",
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/4f8cfc2283ce9b8b686cbd47a16f80f2e2b91e4b/21_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c5f2e09cda0ffe702157bf1066136722"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_da7ab81c6c",
+          "titulo": "Euro falls to 17-month low against dollar amid French debt fears",
+          "url": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
+          "fuente": "The Guardian World",
+          "fecha": "Mon, 05 Oct 2026 11:18:20 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b1857c5f9b",
+          "titulo": "Euro hits 17-month low as French debt fears mount and Spain heads for snap election",
+          "url": "https://www.euronews.com/2026/10/05/euro-hits-17-month-low-as-french-debt-fears-mount-and-spain-heads-for-snap-election",
+          "fuente": "Euronews English",
+          "fecha": "Mon, 05 Oct 2026 11:01:38 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_82caabada7",
+          "titulo": "Euro hits 17-month low as political uncertainty in Spain and France rattles markets",
+          "url": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 05 Oct 2026 08:04:35 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-05_0005",
+      "fecha": "2026-10-05",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "White House defends new press aide who posed with rifle in ‘Fuck Joe Biden’ shirt",
+        "en": "White House defends new press aide who posed with rifle in ‘Fuck Joe Biden’ shirt"
+      },
+      "sintesis": {
+        "es": "Beni Rae Harmony, 24, has been ‘a trusted voice for the MAGA movement as a White House correspondent’, White House says The White House has defended a newly hired press aide who posed for a holiday photograph in 2021 wearing a “Fuck Joe Biden” T-shirt and holding a rifle. Beni Rae Harmony, the new assistant White House press secretary, revealed on Friday that she was going to work for Donald Trump just days after covering him as a correspondent for Real America’s Voice, a partisan rightwing outlet originally created as a video podcast platform for the president’s former adviser Steve Bannon. Continue reading...",
+        "en": "Beni Rae Harmony, 24, has been ‘a trusted voice for the MAGA movement as a White House correspondent’, White House says The White House has defended a newly hired press aide who posed for a holiday photograph in 2021 wearing a “Fuck Joe Biden” T-shirt and holding a rifle. Beni Rae Harmony, the new assistant White House press secretary, revealed on Friday that she was going to work for Donald Trump just days after covering him as a correspondent for Real America’s Voice, a partisan rightwing outlet originally created as a video podcast platform for the president’s former adviser Steve Bannon. Continue reading..."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Trump",
+        "Jay Clayton",
+        "White House",
+        "Fuck Joe"
+      ],
+      "geo": {
+        "lat": 46.6,
+        "lon": 2.2,
+        "region": "Europa"
+      },
+      "impacto": 57,
+      "fuentes": [
+        "ev_9ea2c32b14",
+        "ev_35f097dc81",
+        "ev_2e02479dfa",
+        "ev_43a4d1c867"
+      ],
+      "cluster_id": "cl_198",
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/de6016ba76152a3508ed1fae7d7721aa52f2b212/416_259_4239_3392/master/4239.jpg?width=140&quality=85&auto=format&fit=max&s=cdcf208d9276a4ae7204b8624f529845",
+        "https://i.guim.co.uk/img/media/144d386f8c00039748c3a55ec9b55f147d589d98/2296_881_2186_1748/master/2186.jpg?width=140&quality=85&auto=format&fit=max&s=c78eef28a6408c2241944a8febff928e",
+        "https://s.france24.com/media/display/5a312aa4-c097-11f1-bc9f-578a4b968fd6/w:1024/p:16x9/BUSINESS-DAILY-051026.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_9ea2c32b14",
+          "titulo": "White House defends new press aide who posed with rifle in ‘Fuck Joe Biden’ shirt",
+          "url": "https://www.theguardian.com/us-news/2026/oct/04/white-house-press-aide-beni-rae-harmony",
+          "fuente": "The Guardian World",
+          "fecha": "Sun, 04 Oct 2026 23:38:31 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_35f097dc81",
+          "titulo": "Trump names intelligence chief Jay Clayton as new White House AI czar",
+          "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+          "fuente": "The Guardian World",
+          "fecha": "Sun, 04 Oct 2026 17:45:28 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2e02479dfa",
+          "titulo": "Trump names Jay Clayton as AI czar to lead 'Super Intelligence Force'",
+          "url": "https://www.france24.com/en/tv-shows/business/20261005-trump-names-jay-clayton-as-ai-czar-to-lead-super-intelligence-force",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 05 Oct 2026 10:09:38 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_43a4d1c867",
+          "titulo": "Trump names U.S. intelligence chief Jay Clayton as new AI czar",
+          "url": "https://www.cbc.ca/news/world/jay-clayton-trump-ai-czar-9.7369075?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Sun, 04 Oct 2026 21:40:31 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-05_0006",
+      "fecha": "2026-10-05",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-05_0000"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Karl Deisseroth, Peter Hegemann y Georg Nagel ganan el Nobel de Medicina 2026 por la optogenética",
+        "en": "Karl Deisseroth, Peter Hegemann and Georg Nagel win 2026 Nobel Prize in Medicine for optogenetics"
+      },
+      "sintesis": {
+        "es": "El Nobel de Medicina o Fisiología 2026 fue otorgado al estadounidense Karl Deisseroth y a los alemanes Peter Hegemann y Georg Nagel por sus descubrimientos sobre canales iónicos activados por luz y el desarrollo de la optogenética. Esta técnica permite controlar neuronas específicas con luz, revolucionando el estudio del cerebro y comportamientos como el aprendizaje, el miedo y la adicción. El premio, de 12 millones de coronas suecas, fue anunciado el lunes por la Asamblea Nobel en Estocolmo.",
+        "en": "The 2026 Nobel Prize in Physiology or Medicine was awarded to American scientist Karl Deisseroth and German researchers Peter Hegemann and Georg Nagel for their discoveries on light-gated ion channels and the development of optogenetics. The technique allows precise control of specific neurons using light, revolutionizing brain research into behaviors such as learning, fear and addiction. The prize, worth 12 million Swedish kronor, was announced Monday by the Nobel Assembly in Stockholm."
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "Karl Deisseroth",
+        "Peter Hegemann",
+        "Georg Nagel",
+        "Asamblea Nobel",
+        "Stanford University",
+        "Humboldt University of Berlin",
+        "University of Würzburg"
+      ],
+      "geo": {
+        "lat": 59.3293,
+        "lon": 18.0686,
+        "region": "Estocolmo, Suecia"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_da22c4a5b4",
+        "ev_5672dc2ffd",
+        "ev_5643bdb53a",
+        "ev_75790a51cf",
+        "ev_ae00b1a4fb",
+        "ev_430eafd2cb",
+        "ev_bed9a41e25",
+        "ev_634115f72f",
+        "ev_774ee2d711",
+        "ev_f97f34e2c9"
+      ],
+      "cluster_id": "cl_002",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ecd0/live/5dbb31a0-c0a2-11f1-b72b-c3e328aa18ed.jpg",
+        "https://s.rfi.fr/media/display/4a873946-c0a5-11f1-bd93-578a4b968fd6/w:1024/p:16x9/AP26278347405250.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceaa/live/22381b10-c0b2-11f1-bc2e-018d645d8d21.jpg",
+        "https://i.guim.co.uk/img/media/0523aa8cb2a2e3c1308400950b7a9d669143d373/486_391_6120_4896/master/6120.jpg?width=140&quality=85&auto=format&fit=max&s=fa5affbcbcf0ff09101c7decb2162d36"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_da22c4a5b4",
+          "titulo": "Un estadounidense y dos alemanes ganan el Nobel de Medicina por su \"interruptor de luz\" que permite controlar neuronas y revolucionó el estudio del cerebro",
+          "url": "https://www.bbc.com/mundo/articles/cx7vp6974q15o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Mon, 05 Oct 2026 10:11:12 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_5672dc2ffd",
+          "titulo": "Dos alemanes y un estadounidense se llevan el Nobel de Medicina por avances en optogenética",
+          "url": "https://www.rfi.fr/es/ciencia/20261005-dos-alemanes-y-un-estadounidense-se-llevan-el-nobel-de-medicina-por-avances-en-optogen%C3%A9tica",
+          "fuente": "RFI Espanol",
+          "fecha": "Mon, 05 Oct 2026 10:34:27 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_5643bdb53a",
+          "titulo": "Nobel de Medicina 2026: Deisseroth, Hegemann y Nagel ganan el premio por revolucionar la neurociencia",
+          "url": "https://es.euronews.com/2026/10/05/nobel-de-medicina-2026-premia-a-los-creadores-optogenetica-por-revolucionar-neurociencia",
+          "fuente": "Euronews Espanol",
+          "fecha": "Mon, 05 Oct 2026 10:02:14 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_75790a51cf",
+          "titulo": "Nobel Prize awarded for showing inner workings of the brain",
+          "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Mon, 05 Oct 2026 11:04:37 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ae00b1a4fb",
+          "titulo": "Nobel prize in medicine 2026 awarded for research into mysteries of brain",
+          "url": "https://www.theguardian.com/science/2026/oct/05/nobel-prize-medicine-2026-winner",
+          "fuente": "The Guardian World",
+          "fecha": "Mon, 05 Oct 2026 09:52:07 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_430eafd2cb",
+          "titulo": "🔴 Nobel Prize in Medicine jointly awarded to ​Karl Deisseroth, Peter Hegemann ​and Georg Nagel",
+          "url": "https://www.france24.com/en/science/20261005-nobel-prize-in-medicine-jointly-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 05 Oct 2026 09:47:22 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_bed9a41e25",
+          "titulo": "Nobel Prize in Medicine jointly awarded to ​Karl Deisseroth, Peter Hegemann ​and Georg Nagel",
+          "url": "https://www.france24.com/en/science/20261005-nobel-prize-in-medicine-jointly-awarded-to-karl-deisseroth-peter-hegemann-and-georg-nagel",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 05 Oct 2026 09:44:01 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_634115f72f",
+          "titulo": "German and US scientists win 2026 Nobel Prize in medicine for method to 'reveal the brain's mysteries'",
+          "url": "https://www.euronews.com/2026/10/05/nobel-prize-2026-kicks-off-who-will-win-the-medicine-award",
+          "fuente": "Euronews English",
+          "fecha": "Mon, 05 Oct 2026 10:00:45 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_774ee2d711",
+          "titulo": "Nobel Prize in Medicine awarded to scientists who pioneered work in optogenetics",
+          "url": "https://www.cbc.ca/news/world/nobel-prize-sweden-medicine-physiology-9.7366536?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Mon, 05 Oct 2026 06:05:47 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f97f34e2c9",
+          "titulo": "US-German trio wins medicine Nobel for work on optogenetics",
+          "url": "https://phys.org/news/2026-10-german-trio-medicine-nobel-optogenetics.html",
+          "fuente": "Phys.org",
+          "fecha": "Mon, 05 Oct 2026 06:32:02 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-05_0007",
+      "fecha": "2026-10-05",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-10-05_0009"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Ejecución fallida de Christa Pike en Tennessee desata crisis y debate sobre la pena de muerte en EE.UU.",
+        "en": "Failed execution of Christa Pike in Tennessee sparks crisis and renewed debate on US death penalty"
+      },
+      "sintesis": {
+        "es": "Christa Pike, condenada a muerte en Tennessee, sobrevivió a dos inyecciones de pentobarbital durante su ejecución y permanece en estado crítico con respiración asistida. El episodio provocó la renuncia del jefe de prisiones del estado, una investigación independiente y un llamado de la ONU a no intentar ejecutarla de nuevo. El caso ha reavivado el debate sobre la aplicación de la pena de muerte en Estados Unidos, incluyendo comentarios del presidente Trump.",
+        "en": "Christa Pike, on death row in Tennessee, survived two doses of pentobarbital during her execution attempt and remains in critical condition on a ventilator. The incident led to the resignation of the state's prison chief, an independent investigation, and a UN call to halt further execution attempts. The case has reignited debate over the death penalty's application in the US, including remarks from President Trump."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Christa Pike",
+        "Tennessee Department of Correction",
+        "Donald Trump",
+        "UN Human Rights Office",
+        "Michael Graczyk"
+      ],
+      "geo": {
+        "lat": 35.5175,
+        "lon": -86.5804,
+        "region": "Tennessee, Estados Unidos"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_1789ebe8b5",
+        "ev_5e1bcef9dc",
+        "ev_e35bba5ea5",
+        "ev_99003327c4",
+        "ev_86d9ff8687",
+        "ev_08a7968ffe",
+        "ev_adacfec89d",
+        "ev_5e6f6df1d7",
+        "ev_6c56f3f15b",
+        "ev_e61feb1979",
+        "ev_c3b944fd5c",
+        "ev_2c6850cf86"
+      ],
+      "cluster_id": "cl_004",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c580/live/83a120e0-bfef-11f1-8c3e-3b2eab095459.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a334/live/d6d28490-bd9a-11f1-bc2e-018d645d8d21.png",
+        "https://s.rfi.fr/media/display/9a952250-bd75-11f1-ad05-19125f84d728/w:1024/p:16x9/2026-09-30T141409Z-107633138-RC2PTNAKFL8L-RTRMADP-3-TENNESSEE-EXECUTION.jpg",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_1789ebe8b5",
+          "titulo": "Entrevisté a Christa Pike hace 20 años y no puedo dejar de pensar en ella",
+          "url": "https://www.bbc.com/mundo/articles/c62e9kx0424do?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sun, 04 Oct 2026 13:18:21 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_5e1bcef9dc",
+          "titulo": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en EE.UU.",
+          "url": "https://www.bbc.com/mundo/articles/c3x2z2rq1759o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sat, 03 Oct 2026 12:22:44 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_e35bba5ea5",
+          "titulo": "Condenada a muerte en EEUU inconsciente y con respirador tras la ejecución fallida",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20261003-una-condenada-a-muerte-en-eeuu-est%C3%A1-inconsciente-y-con-respirador-tras-fallida-ejecuci%C3%B3n",
+          "fuente": "RFI Espanol",
+          "fecha": "Sat, 03 Oct 2026 04:46:54 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_99003327c4",
+          "titulo": "Renuncia el jefe de las prisiones de Tennessee tras el fallido intento de ejecutar a Christa Pike",
+          "url": "https://www.bbc.com/mundo/articles/c6073eyg5rzdo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sat, 03 Oct 2026 18:44:01 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_86d9ff8687",
+          "titulo": "Dimite el jefe de prisiones de Tennessee tras la ejecución fallida de Christa Pike",
+          "url": "https://www.elmundo.es/internacional/2026/10/03/6ac132ab21efa066048b457f.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sat, 03 Oct 2026 18:52:33 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_08a7968ffe",
+          "titulo": "\"He presenciado casi 500 ejecuciones, pero ninguna como la de Christa Pike\"",
+          "url": "https://www.bbc.com/mundo/articles/cr74pjlz9045o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Fri, 02 Oct 2026 17:39:18 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_adacfec89d",
+          "titulo": "Qué sucedió en la ejecución fallida de Christa Pike y cuán común es que la inyección letal no funcione en EE.UU.",
+          "url": "https://www.bbc.com/mundo/articles/c50m3mxlx9ndo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Thu, 01 Oct 2026 22:53:28 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_5e6f6df1d7",
+          "titulo": "Quién es y qué crimen cometió Christa Pike, la mujer en \"estado crítico\" tras recibir dos dosis de inyección letal durante su ejecución en Tennessee",
+          "url": "https://www.bbc.com/mundo/articles/c8wyz94xepz4o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Thu, 01 Oct 2026 19:44:27 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_6c56f3f15b",
+          "titulo": "Trump, sorprendido por la ejecución fallida de Christa Pike: \"No debería ser tan difícil\"",
+          "url": "https://www.elmundo.es/internacional/2026/10/02/6abf6a1c21efa001308b459d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sat, 03 Oct 2026 07:22:18 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_e61feb1979",
+          "titulo": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+          "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sun, 04 Oct 2026 16:24:48 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c3b944fd5c",
+          "titulo": "How widely used is the death penalty in the US?",
+          "url": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 02 Oct 2026 19:56:28 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2c6850cf86",
+          "titulo": "No more execution attempts on Christa Pike: UN rights chief",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168504",
+          "fuente": "UN News",
+          "fecha": "Thu, 01 Oct 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-05_0008",
+      "fecha": "2026-10-05",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "El Premio Nobel de Medicina 2026 reconoce investigación sobre la actividad cerebral",
+        "en": "2026 Nobel Prize in Medicine recognizes research on brain activity"
+      },
+      "sintesis": {
+        "es": "El Premio Nobel de Fisiología o Medicina 2026 fue otorgado a tres científicos por su investigación sobre los mecanismos que utiliza el cerebro para activar o desactivar la actividad de células nerviosas individuales. El anuncio se dio a conocer el lunes, marcando el inicio de la temporada de premios Nobel, en la que también se especulaba sobre un posible reconocimiento a la investigación de hormonas reguladoras del apetito vinculadas a fármacos para la pérdida de peso.",
+        "en": "The 2026 Nobel Prize in Physiology or Medicine was awarded to three scientists for their research into the mechanisms the brain uses to switch the activity of individual nerve cells on or off. The announcement was made Monday, opening the Nobel season, amid speculation that research into appetite-regulating hormones linked to weight-loss drugs might also be recognized."
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "Comité del Nobel",
+        "Tres científicos galardonados (no identificados por nombre en las fuentes)"
+      ],
+      "geo": {
+        "lat": 59.3293,
+        "lon": 18.0686,
+        "region": "Estocolmo, Suecia"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_0b349b46c6",
+        "ev_8f6be421f6",
+        "ev_58dd594d82"
+      ],
+      "cluster_id": "cl_224",
+      "imagenes": [
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/weight-loss-drugs-have.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0b349b46c6",
+          "titulo": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+          "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
           "fuente": "NPR News",
-          "fecha": "Sat, 03 Oct 2026 17:57:34 -0400",
+          "fecha": "Mon, 05 Oct 2026 06:11:33 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8f6be421f6",
+          "titulo": "Nobel medicine prize awarded to scientists for brain activity research",
+          "url": "https://www.abc.net.au/news/2026-10-05/nobel-medicine-prize-2026-brain-activity-research/107231100",
+          "fuente": "ABC News Australia",
+          "fecha": "Mon, 05 Oct 2026 10:34:39 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_58dd594d82",
+          "titulo": "Research into weight-loss drugs tipped for Nobel as award week opens",
+          "url": "https://phys.org/news/2026-10-weight-loss-drugs-nobel-award.html",
+          "fuente": "Phys.org",
+          "fecha": "Mon, 05 Oct 2026 02:50:01 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-05_0009",
+      "fecha": "2026-10-05",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-05_0007"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Universidad de Cornell enfrenta críticas por su gestión de denuncia de violación grupal de 2024",
+        "en": "Cornell University faces criticism over handling of 2024 alleged gang rape case"
+      },
+      "sintesis": {
+        "es": "Una estudiante, identificada como 'Jane Doe', denunció haber sido drogada y violada por siete miembros de la fraternidad Chi Phi en octubre de 2024, caso que no derivó entonces en detenciones ni cargos. Tras reabrirse la investigación fiscal y presentarse una demanda civil contra la universidad y los implicados, el presidente de Cornell, Michael Kotlikoff, calificó las acusaciones de 'profundamente inquietantes' y respaldó una investigación externa independiente. La denunciante ha sido objeto de amenazas según su abogado, mientras en redes sociales surgió una ola de solidaridad bajo el lema 'Yo soy Jane Doe'.",
+        "en": "A student identified as 'Jane Doe' alleged she was drugged and gang-raped by seven members of the Chi Phi fraternity at Cornell University in October 2024, a case that at the time resulted in no arrests or charges. After the prosecutor's investigation reopened and a civil lawsuit was filed against the university and the accused, Cornell President Michael Kotlikoff called the allegations 'deeply disturbing' and endorsed an independent external investigation. According to her lawyer, the accuser has since received threats, while social media saw a wave of solidarity under the phrase 'I am Jane Doe'."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Michael Kotlikoff",
+        "Universidad de Cornell",
+        "Jane Doe",
+        "Fraternidad Chi Phi",
+        "Fiscalía del estado de Nueva York"
+      ],
+      "geo": {
+        "lat": 42.4534,
+        "lon": -76.4735,
+        "region": "Ithaca, Nueva York, Estados Unidos"
+      },
+      "impacto": 48,
+      "fuentes": [
+        "ev_0f1d49ea80",
+        "ev_1f0a4d3157",
+        "ev_3a655be38b",
+        "ev_43cd1b384d",
+        "ev_c5d7ba9cb1",
+        "ev_9b6b1d65e1",
+        "ev_d75076e26a"
+      ],
+      "cluster_id": "cl_010",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8424/live/2b4ffa10-bf95-11f1-b539-5b539ea7c8b5.jpg",
+        "https://s.france24.com/media/display/20795b0e-c067-11f1-b6ae-dd51fcab6130/w:1024/p:16x9/ES-20261004-210504-210643-CS.jpg",
+        "https://s.rfi.fr/media/display/cf72e4dc-bd6e-11f1-99d6-098db7fa8bc7/w:1024/p:16x9/2026-09-29T213056Z-155672443-RC24TNAE38ES-RTRMADP-3-USA-CRIME-CORNELL.jpg",
+        "https://s.france24.com/media/display/daa775ba-c00d-11f1-86df-578a4b968fd6/w:1024/p:16x9/2026-10-02T154814Z-1310255220-RC24TNATK0SJ-RTRMADP-3-USA-CRIME-CORNELL.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0f1d49ea80",
+          "titulo": "El presidente de Cornell dice que la universidad \"debe hacer más\" tras la denuncia de violación en grupo en una fraternidad",
+          "url": "https://www.bbc.com/mundo/articles/c3x2w89p72r4o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sun, 04 Oct 2026 02:17:14 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_1f0a4d3157",
+          "titulo": "Universidad de Cornell respalda investigación independiente por caso de violación grupal",
+          "url": "https://www.france24.com/es/video/20261005-universidad-de-cornell-respalda-investigaci%C3%B3n-independiente-por-caso-de-violaci%C3%B3n-grupal",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 05 Oct 2026 02:52:06 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_3a655be38b",
+          "titulo": "Universidad de Cornell revisará su gestión de una denuncia de violación grupal en 2024",
+          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20261004-universidad-de-cornell-revisar%C3%A1-su-gesti%C3%B3n-de-una-denuncia-de-violaci%C3%B3n-grupal-en-2024",
+          "fuente": "RFI Espanol",
+          "fecha": "Sun, 04 Oct 2026 10:45:23 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_43cd1b384d",
+          "titulo": "La mujer que denunció haber sido víctima de una violación grupal en Cornell fue amenazada, según su abogado",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261004-la-mujer-que-denunci%C3%B3-haber-sido-v%C3%ADctima-de-una-violaci%C3%B3n-grupal-en-cornell-fue-amenazada-seg%C3%BAn-su-abogado",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sun, 04 Oct 2026 20:16:13 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_c5d7ba9cb1",
+          "titulo": "Una oleada de mensajes de solidaridad con \"Jane Doe\" inundan las redes tras la demanda por violación en la Universidad de Cornell",
+          "url": "https://www.elmundo.es/internacional/2026/10/04/6ac23e04e4d4d8402f8b458c.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Sun, 04 Oct 2026 13:55:26 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_9b6b1d65e1",
+          "titulo": "Jane Doe at centre of Cornell rape case targeted with threats, her lawyer says",
+          "url": "https://www.cbc.ca/news/world/cornell-rape-allegation-jane-doe-woman-threats-9.7369094?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Sun, 04 Oct 2026 22:02:41 EDT",
           "idioma": "en"
         },
         {
@@ -1088,229 +1221,304 @@
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-04_0010",
-      "fecha": "2026-10-04",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-10-04_0007",
-        "nd_2026-10-04_0013"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Violentas protestas estudiantiles sacuden Francia por crisis educativa",
-        "en": "Violent student protests shake France over education crisis"
-      },
-      "sintesis": {
-        "es": "Francia enfrenta una ola de protestas estudiantiles que se extiende desde institutos a universidades, motivada por la falta de profesores, recursos insuficientes y desigualdad entre centros educativos. Las movilizaciones han derivado en incendios, enfrentamientos con la policía y cierres de más de 1.000 escuelas, con cientos de detenidos y decenas de heridos, incluidos directores de institutos. El ministro de Educación ha accedido a reunirse con los sectores implicados mientras la tensión política crece, involucrando también a partidos como Francia Insumisa.",
-        "en": "France is facing a wave of student protests spreading from high schools to universities, driven by teacher shortages, insufficient resources, and inequality between schools. The demonstrations have led to fires, clashes with police, and the closure of over 1,000 schools, with hundreds arrested and dozens injured, including school principals. The Education Minister has agreed to meet with involved parties as political tension rises, also involving parties like France Insoumise."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Estudiantes franceses",
-        "Ministerio de Educación de Francia",
-        "Policía francesa",
-        "Francia Insumisa",
-        "Profesores y padres de familia"
-      ],
-      "geo": {
-        "lat": 46.6034,
-        "lon": 1.8883,
-        "region": "Francia"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_028087ba7f",
-        "ev_4c285bfec3",
-        "ev_5616371f39",
-        "ev_a7c407d2f1",
-        "ev_b51c1de873"
-      ],
-      "cluster_id": "cl_011",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9a0e/live/a4935cf0-be78-11f1-8a45-cd59664d243b.jpg",
-        "https://s.rfi.fr/media/display/a4cd9d54-bd6d-11f1-93b9-098db7fa8bc7/w:1024/p:16x9/AP26274267127562.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909637281178.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909390373283.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_028087ba7f",
-          "titulo": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
-          "url": "https://www.bbc.com/mundo/articles/cm62y33ynlqpo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Fri, 02 Oct 2026 16:05:10 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_4c285bfec3",
-          "titulo": "Francia: profesores y padres, afectados también por las protestas estudiantiles",
-          "url": "https://www.rfi.fr/es/francia/20261002-francia-profesores-y-padres-afectados-tambi%C3%A9n-por-las-protestas-estudiantiles",
-          "fuente": "RFI Espanol",
-          "fecha": "Fri, 02 Oct 2026 13:55:45 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_5616371f39",
-          "titulo": "En el epicentro de las protestas estudiantiles en Francia: \"Los ánimos están que arden\"",
-          "url": "https://www.elmundo.es/internacional/2026/10/02/6abfed98e9cf4a321e8b4585.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sat, 03 Oct 2026 09:45:31 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_a7c407d2f1",
-          "titulo": "¿Por qué la crisis de la educación en Francia desata la violencia en las calles?",
-          "url": "https://www.elmundo.es/internacional/2026/10/02/6abf8cdcfc6c83ba1b8b459d.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 02 Oct 2026 20:11:14 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_b51c1de873",
-          "titulo": "Francia, desbordada por la explosión estudiantil: \"Los padres pagarán las facturas\"",
-          "url": "https://www.elmundo.es/internacional/2026/10/02/6abf7821fc6c8360178b458f.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 02 Oct 2026 11:38:19 +0200",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-10-04_0011",
-      "fecha": "2026-10-04",
-      "kardashev": "K0",
+      "id": "nd_2026-10-05_0010",
+      "fecha": "2026-10-05",
+      "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "G7 nations agree to release 100 million barrels of oil, including diesel, amid energy crunch",
-        "en": "G7 nations agree to release 100 million barrels of oil, including diesel, amid energy crunch"
+        "es": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.",
+        "en": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank."
       },
       "sintesis": {
-        "es": "The release would begin immediately and take four months, starting with a \"substantial\" diesel release within the first 20 days. Diesel prices have soared globally due to the oil supply crunch brought on by fighting in the Middle East between the U.S.",
-        "en": "The release would begin immediately and take four months, starting with a \"substantial\" diesel release within the first 20 days. Diesel prices have soared globally due to the oil supply crunch brought on by fighting in the Middle East between the U.S."
+        "es": "The chief investment office at Standard Chartered said bond and money markets have been overly hawkish on the Federal Reserve.",
+        "en": "The chief investment office at Standard Chartered said bond and money markets have been overly hawkish on the Federal Reserve."
       },
-      "categoria": "sociedad",
+      "categoria": "economia",
       "actores": [
-        "Allies Agree",
-        "Release Diesel",
-        "Reserves",
-        "Prices Soar"
-      ],
-      "geo": {
-        "lat": 46.6,
-        "lon": 2.2,
-        "region": "Europa"
-      },
-      "impacto": 53,
-      "fuentes": [
-        "ev_9921c1f01d",
-        "ev_8eccdd9d83",
-        "ev_359b8762d7"
-      ],
-      "cluster_id": "cl_255",
-      "imagenes": [
-        "https://static01.nyt.com/images/2026/10/02/multimedia/02Biz-Diesel-03-kthc/02Biz-Diesel-03-kthc-mediumSquareAt3X.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_9921c1f01d",
-          "titulo": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
-          "url": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 02 Oct 2026 18:28:16 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8eccdd9d83",
-          "titulo": "G7 nations agree to release 100 million barrels of oil, including diesel, amid energy crunch",
-          "url": "https://www.cbc.ca/news/business/g7-trump-diesel-reserve-release-9.7366871?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 02 Oct 2026 11:21:30 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_359b8762d7",
-          "titulo": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
-          "url": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Fri, 02 Oct 2026 20:04:42 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-04_0012",
-      "fecha": "2026-10-04",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-04_0004"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "La fiscal de Nueva York confirma que la presunta violación grupal en Cornell es ya \"una investigación criminal\"",
-        "en": "New York's governor removes district attorney from Cornell rape allegations case, appoints special prosecutor"
-      },
-      "sintesis": {
-        "es": "La gobernadora Kathy Hochul cuestiona que la declaración de la joven no llegara al fiscal que archivó inicialmente la investigación Leer",
-        "en": "Kathy Hochul appointed a special prosecutor Thursday to oversee an investigation into a woman's allegations that she was gang raped at a Cornell University fraternity house, with the governor saying she had lost faith in the local district attorney's ability to handle the case."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "Cornell",
-        "Nueva York",
-        "Governor",
-        "New York"
+        "Here"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 51,
+      "impacto": 48,
       "fuentes": [
-        "ev_b0c3783805",
-        "ev_8b028b349d",
-        "ev_e34aeb3e00"
+        "ev_717e50485e",
+        "ev_e165d6c12e",
+        "ev_1ab504a449",
+        "ev_f44894554c"
       ],
-      "cluster_id": "cl_133",
+      "cluster_id": "cl_241",
       "imagenes": [
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909636846242.jpg"
+        "https://images.mktw.net/im-97632137",
+        "https://images.mktw.net/im-78599104"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_b0c3783805",
-          "titulo": "La fiscal de Nueva York confirma que la presunta violación grupal en Cornell es ya \"una investigación criminal\"",
-          "url": "https://www.elmundo.es/internacional/2026/10/02/6abfef9e21efa09a318b45b7.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Fri, 02 Oct 2026 20:03:21 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_8b028b349d",
-          "titulo": "Cornell 7: Governor vows to change N.Y. rape law that makes reporting hard when intoxication present",
-          "url": "https://www.cbc.ca/news/world/cornell-investigation-special-prosecutor-9.7366592?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 02 Oct 2026 08:20:56 EDT",
+          "id": "ev_717e50485e",
+          "titulo": "Here’s the latest.",
+          "url": "https://www.nytimes.com/live/2026/10/05/world/spain-elections-sanchez/spain-snap-elections-sanchez",
+          "fuente": "NYT World",
+          "fecha": "Mon, 05 Oct 2026 11:42:49 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_e34aeb3e00",
-          "titulo": "New York's governor removes district attorney from Cornell rape allegations case, appoints special prosecutor",
-          "url": "https://www.cbc.ca/news/world/ny-special-prosecutor-cornell-investigation-9.7366424?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Thu, 01 Oct 2026 22:10:00 EDT",
+          "id": "ev_e165d6c12e",
+          "titulo": "It's time for us to put cash to work in this ugly market. Here's where we will do our buying",
+          "url": "https://www.cnbc.com/investingclub/2026/10/04/its-time-for-us-to-put-cash-to-work-in-this-ugly-market-heres-where-we-will-do-our-buying.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Sun, 04 Oct 2026 20:32:16 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1ab504a449",
+          "titulo": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
+          "url": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Mon, 05 Oct 2026 11:19:00 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f44894554c",
+          "titulo": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.",
+          "url": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Mon, 05 Oct 2026 10:33:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-04_0013",
-      "fecha": "2026-10-04",
+      "id": "nd_2026-10-05_0011",
+      "fecha": "2026-10-05",
       "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-10-04_0007",
-        "nd_2026-10-04_0010"
-      ]
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "WHO and the Netherlands renew their partnership on climate change and health",
+        "en": "WHO and the Netherlands renew their partnership on climate change and health"
+      },
+      "sintesis": {
+        "es": "The World Health Organization (WHO) and the Kingdom of the Netherlands have renewed their strategic partnership in addressing the growing impacts of climate change on global health. The Netherlands is providing a new allocation of €500 000 for 2024 to WHO, reinforcing its commitment to climate resilience and sustainable healthcare systems worldwide. This allocation supports WHO’s ongoing efforts to strengthen the Alliance for Transformative Action on Climate and Health Secretariat and advance climate change and health programmes globally.",
+        "en": "The World Health Organization (WHO) and the Kingdom of the Netherlands have renewed their strategic partnership in addressing the growing impacts of climate change on global health. The Netherlands is providing a new allocation of €500 000 for 2024 to WHO, reinforcing its commitment to climate resilience and sustainable healthcare systems worldwide. This allocation supports WHO’s ongoing efforts to strengthen the Alliance for Transformative Action on Climate and Health Secretariat and advance climate change and health programmes globally."
+      },
+      "categoria": "salud",
+      "actores": [
+        "Netherlands",
+        "Global",
+        "Enhancing Global",
+        "Health"
+      ],
+      "geo": {
+        "lat": 20.6,
+        "lon": 79.0,
+        "region": "Asia Meridional"
+      },
+      "impacto": 48,
+      "fuentes": [
+        "ev_01264dce4f",
+        "ev_d268c03794",
+        "ev_feeaed1497",
+        "ev_ef8116fe9f"
+      ],
+      "cluster_id": "cl_296",
+      "imagenes": [
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-09-2022_ADB_India.jpg/image560x340cropped.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_01264dce4f",
+          "titulo": "Global life expectancy bounces back to near pre-pandemic levels, WHO says",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168515",
+          "fuente": "UN News",
+          "fecha": "Fri, 02 Oct 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d268c03794",
+          "titulo": "WHO and the Netherlands renew their partnership on climate change and health",
+          "url": "https://www.who.int/news/item/10-10-2024-who-and-the-netherlands-renew-their-partnership-on-climate-change-and-health",
+          "fuente": "WHO News",
+          "fecha": "Thu, 10 Oct 2024 07:47:50 Z",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_feeaed1497",
+          "titulo": "Enhancing Global Health and Well-Being: WHO and the Netherlands strengthen their Partnership",
+          "url": "https://www.who.int/news/item/12-04-2024-enhancing-global-health-and-well-being--who-and-the-netherlands-strengthen-their-partnership",
+          "fuente": "WHO News",
+          "fecha": "Fri, 12 Apr 2024 13:57:53 Z",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ef8116fe9f",
+          "titulo": "India commits US$ 85 million to WHO Global Traditional Medicine Centre",
+          "url": "https://www.who.int/news/item/31-07-2024-india-commits-usd-85-million-to-who-global-traditional-medicine-centre",
+          "fuente": "WHO News",
+          "fecha": "Wed, 31 Jul 2024 05:00:27 Z",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-05_0012",
+      "fecha": "2026-10-05",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Google Workspace Promo Codes: 14% Off for October 2026",
+        "en": "Google Workspace Promo Codes: 14% Off for October 2026"
+      },
+      "sintesis": {
+        "es": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+        "en": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "October",
+        "Codes",
+        "Off",
+        "Promo Code"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 47,
+      "fuentes": [
+        "ev_6f6187069a",
+        "ev_51002110d2",
+        "ev_6210cb9aa2",
+        "ev_5c875dd27f",
+        "ev_0fda9a224e",
+        "ev_fd4c3f8b0c",
+        "ev_5d4898772a",
+        "ev_776e271170",
+        "ev_45fbd2ff02",
+        "ev_23ced8e886",
+        "ev_0e7c1ebe7b",
+        "ev_705c08e960",
+        "ev_2ea7dfa7ee",
+        "ev_409d07cfa4",
+        "ev_0f76df7680",
+        "ev_7041adb226",
+        "ev_852489e9ad"
+      ],
+      "cluster_id": "cl_476",
+      "imagenes": [
+        "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg",
+        "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+        "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
+        "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_6f6187069a",
+          "titulo": "50% Off DoorDash Promo Code | October 2026",
+          "url": "https://www.wired.com/story/doordash-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Sat, 03 Oct 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_51002110d2",
+          "titulo": "Chewy Promo Codes: $20 Off October 2026",
+          "url": "https://www.wired.com/story/chewy-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Sat, 03 Oct 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6210cb9aa2",
+          "titulo": "Surfshark Promo Codes: 87% Off | October 2026",
+          "url": "https://www.wired.com/story/surfshark-coupon/",
+          "fuente": "WIRED",
+          "fecha": "Sat, 03 Oct 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5c875dd27f",
+          "titulo": "Klook Promo Code: 25% Off October 2026",
+          "url": "https://www.wired.com/story/klook-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Sat, 03 Oct 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0fda9a224e",
+          "titulo": "20% Off Brooks Promo Code | October 2026",
+          "url": "https://www.wired.com/story/brooks-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Sat, 03 Oct 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_fd4c3f8b0c",
+          "titulo": "Hoka Coupon Codes: 30% Off in October 2026",
+          "url": "https://www.wired.com/story/hoka-coupon-code/",
+          "fuente": "WIRED",
+          "fecha": "Sat, 03 Oct 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5d4898772a",
+          "titulo": "Design Within Reach Promo Codes: 30% Off | October 2026",
+          "url": "https://www.wired.com/story/design-within-reach-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 02 Oct 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_776e271170",
+          "titulo": "Peacock Promo Codes: 40% Off October 2026",
+          "url": "https://www.wired.com/story/peacock-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 02 Oct 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_45fbd2ff02",
+          "titulo": "Nike Promo Codes and Discounts: 30% for October 2026",
+          "url": "https://www.wired.com/story/nike-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 02 Oct 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_23ced8e886",
+          "titulo": "Google Workspace Promo Codes: 14% Off for October 2026",
+          "url": "https://www.wired.com/story/google-workspace-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 02 Oct 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0e7c1ebe7b",
+          "titulo": "Motley Fool Promo Code: $200 Off on Stock Advisor October 2026",
+          "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 02 Oct 2026 05:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_705c08e960",
+          "titulo": "Uber Eats Promo Codes: $15 Off│October 2026",
+          "url": "https://www.wired.com/story/uber-eats-promo-code/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 02 Oct 2026 05:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-05_0013",
+      "fecha": "2026-10-05",
+      "kardashev": "K2",
+      "relaciones": []
     }
   ]
 }
