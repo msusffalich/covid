@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-05
-nodos: 26
+actualizado: 2026-10-06
+nodos: 23
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-05. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-06. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-26 nodos registrados en el periodo. Lo mas reciente: Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live.
+23 nodos registrados en el periodo. Lo mas reciente: Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live.
 
 ## Trend summary (EN)
-26 nodes recorded in the period. Most recent: Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live.
+23 nodes recorded in the period. Most recent: Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live.
 
 > [!note] Estado actual
 > Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
 
-## Nodos recientes (26 en la ventana)
+## Nodos recientes (23 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-04 | 74 | K0 | Friedrich Merz begins unannounced Kyiv visit as Russia continues |
