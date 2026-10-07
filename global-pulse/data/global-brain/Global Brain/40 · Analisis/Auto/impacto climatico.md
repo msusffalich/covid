@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-06
+actualizado: 2026-10-07
 nodos: 17
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-06. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-07. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 17 nodos registrados en el periodo. Lo mas reciente: WHO and the Netherlands renew their partnership on climate change and health.

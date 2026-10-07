@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-10-06
+actualizado: 2026-10-07
 nodos: 37
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-06. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-07. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-37 nodos registrados en el periodo. Lo mas reciente: Los gigantes chinos de la IA Moonshot y DeepSeek preparan su salida a Bolsa tras disparar su valoración.
+37 nodos registrados en el periodo. Lo mas reciente: Las "cucarachas" vuelven a las calles de India por los cambios en el censo electoral.
 
 ## Trend summary (EN)
-37 nodes recorded in the period. Most recent: Moonshot AI eyes Hong Kong IPO after $50 billion valuation as DeepSeek raises capital.
+37 nodes recorded in the period. Most recent: India hikes interest rates for first time in over three years as Iran war fuels inflation.
 
 > [!note] Estado actual
-> Los gigantes chinos de la IA Moonshot y DeepSeek preparan su salida a Bolsa tras disparar su valoración
+> Las "cucarachas" vuelven a las calles de India por los cambios en el censo electoral
 
 ## Nodos recientes (37 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-07 | 83 | K1 | Las "cucarachas" vuelven a las calles de India por los cambios e |
 | 2026-10-06 | 69 | K0 | Los gigantes chinos de la IA Moonshot y DeepSeek preparan su sal |
 | 2026-10-05 | 74 | K0 | Middle East oil exports return to pre-war levels, excluding Iran |
 | 2026-10-05 | 62 | K2 | El euro cae a un mínimo de 17 meses frente al dólar por temores  |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-01 | 49 | K2 | Francia: la deuda pública bate récords y reaviva temores de una  |
 | 2026-09-29 | 95 | K1 | La Argentina de Milei: una economía a dos velocidades |
 | 2026-09-29 | 63 | K1 | Arabia Saudí vuelve a exportar petróleo por el único oleoducto q |
-| 2026-09-29 | 51 | K1 | Danger zone: why war in the Middle East has landed the RBA’s inf |
 
 [[Global Brain — Inicio|← Inicio]]

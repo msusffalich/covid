@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-06
+actualizado: 2026-10-07
 nodos: 35
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-06. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-07. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-35 nodos registrados en el periodo. Lo mas reciente: Arabia Saudita, Turquía y Pakistán activan su alianza militar: ¿qué implica ante la amenaza hutí?.
+35 nodos registrados en el periodo. Lo mas reciente: Las "cucarachas" vuelven a las calles de India por los cambios en el censo electoral.
 
 ## Trend summary (EN)
-35 nodes recorded in the period. Most recent: Saudi-backed forces recapture key areas around strait from Houthis in Yemen.
+35 nodes recorded in the period. Most recent: India hikes interest rates for first time in over three years as Iran war fuels inflation.
 
 > [!note] Estado actual
-> Arabia Saudita, Turquía y Pakistán activan su alianza militar: ¿qué implica ante la amenaza hutí?
+> Las "cucarachas" vuelven a las calles de India por los cambios en el censo electoral
 
 ## Nodos recientes (35 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-07 | 83 | K1 | Las "cucarachas" vuelven a las calles de India por los cambios e |
 | 2026-10-06 | 95 | K1 | Arabia Saudita, Turquía y Pakistán activan su alianza militar: ¿ |
 | 2026-10-05 | 74 | K0 | Middle East oil exports return to pre-war levels, excluding Iran |
 | 2026-10-04 | 95 | K1 | Arabia Saudí bombardea Yemen en la nueva andada de choques contr |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-28 | 83 | K1 | EE.UU. y China abrirán un "canal de comunicación" para incidente |
 | 2026-09-27 | 82 | K0 | Trump rechaza propuesta iraní para reabrir el estrecho de Ormuz  |
 | 2026-09-27 | 63 | K1 | La coalición saudí afirma que intercepta drones y misiles hutíes |
-| 2026-09-26 | 95 | K1 | Irán denuncia las dos varas de medir internacionales |
 
 [[Global Brain — Inicio|← Inicio]]

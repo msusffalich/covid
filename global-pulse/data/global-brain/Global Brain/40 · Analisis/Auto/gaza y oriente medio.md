@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-10-06
-nodos: 21
+actualizado: 2026-10-07
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-06. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-07. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-21 nodos registrados en el periodo. Lo mas reciente: Los palestinos de Gaza quieren recuperar una "vida normal".
+20 nodos registrados en el periodo. Lo mas reciente: Israel conmemora el tercer aniversario del ataque de Hamás del 7 de octubre en plena campaña electoral.
 
 ## Trend summary (EN)
-21 nodes recorded in the period. Most recent: Gaza woman rescues books from rubble to keep education alive.
+20 nodes recorded in the period. Most recent: Israel marks third anniversary of Hamas's October 7 attack amid election campaign.
 
 > [!note] Estado actual
-> Los palestinos de Gaza quieren recuperar una "vida normal"
+> Israel conmemora el tercer aniversario del ataque de Hamás del 7 de octubre en plena campaña electoral
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-07 | 78 | K1 | Israel conmemora el tercer aniversario del ataque de Hamás del 7 |
 | 2026-10-06 | 70 | K1 | Los palestinos de Gaza quieren recuperar una "vida normal" |
 | 2026-10-04 | 78 | K1 | Continúan los ataques israelíes en Gaza pese al alto el fuego, e |
 | 2026-10-04 | 58 | K1 | Flydubai co-pilot used crash axe to attack captain, says UAE |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-30 | 95 | K1 | Un avión de Flydubai con destino Israel aterriza de emergencia e |
 | 2026-09-27 | 87 | K2 | Netanyahu y la víctima perpetua |
 | 2026-09-27 | 82 | K0 | Trump rechaza propuesta iraní para reabrir el estrecho de Ormuz  |
-| 2026-09-26 | 95 | K1 | Irán denuncia las dos varas de medir internacionales |
 
 [[Global Brain — Inicio|← Inicio]]
