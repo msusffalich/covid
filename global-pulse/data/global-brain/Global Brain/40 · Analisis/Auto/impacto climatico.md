@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-07
-nodos: 17
+actualizado: 2026-10-08
+nodos: 19
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-07. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-08. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-17 nodos registrados en el periodo. Lo mas reciente: WHO and the Netherlands renew their partnership on climate change and health.
+19 nodos registrados en el periodo. Lo mas reciente: Detenida la esposa del poderoso expresidente de Sri Lanka por el presunto uso indebido de donaciones.
 
 ## Trend summary (EN)
-17 nodes recorded in the period. Most recent: WHO and the Netherlands renew their partnership on climate change and health.
+19 nodes recorded in the period. Most recent: Dry wells and shrinking water holes as drought grips Sri Lanka.
 
 > [!note] Estado actual
-> WHO and the Netherlands renew their partnership on climate change and health
+> Detenida la esposa del poderoso expresidente de Sri Lanka por el presunto uso indebido de donaciones
 
-## Nodos recientes (17 en la ventana)
+## Nodos recientes (19 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-08 | 65 | K1 | Detenida la esposa del poderoso expresidente de Sri Lanka por el |
+| 2026-10-08 | 61 | K1 | El Niño gana fuerza en América Latina: sequía, hambre y riesgo d |
 | 2026-10-05 | 48 | K1 | WHO and the Netherlands renew their partnership on climate chang |
 | 2026-10-01 | 74 | K0 | ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five ye |
 | 2026-09-29 | 55 | K1 | El huracán Polo toca tierra en Baja California Sur, México, mien |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-27 | 64 | K0 | Powerful nor'easter causes coastal flooding and knocks out power |
 | 2026-09-27 | 55 | K2 | Bangkok declara zona de desastre tras inundaciones históricas |
 | 2026-09-26 | 62 | K1 | Australia lidera llamado global contra el poder de las grandes t |
-| 2026-09-26 | 59 | K1 | Bangkok declares flood disaster after massive 48-hour downpour |
-| 2026-09-25 | 45 | K1 | El huracán Polo alcanza categoría mayor y amenaza el Pacífico me |
 
 [[Global Brain — Inicio|← Inicio]]

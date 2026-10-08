@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-10-07
-nodos: 20
+actualizado: 2026-10-08
+nodos: 21
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-07. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-08. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: Israel conmemora el tercer aniversario del ataque de Hamás del 7 de octubre en plena campaña electoral.
+21 nodos registrados en el periodo. Lo mas reciente: British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: Israel marks third anniversary of Hamas's October 7 attack amid election campaign.
+21 nodes recorded in the period. Most recent: British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband.
 
 > [!note] Estado actual
-> Israel conmemora el tercer aniversario del ataque de Hamás del 7 de octubre en plena campaña electoral
+> British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband
 
-## Nodos recientes (20 en la ventana)
+## Nodos recientes (21 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-08 | 83 | K1 | British consulate in East Jerusalem will stay open as UK mission |
 | 2026-10-07 | 78 | K1 | Israel conmemora el tercer aniversario del ataque de Hamás del 7 |
 | 2026-10-06 | 70 | K1 | Los palestinos de Gaza quieren recuperar una "vida normal" |
 | 2026-10-04 | 78 | K1 | Continúan los ataques israelíes en Gaza pese al alto el fuego, e |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-01 | 72 | K1 | Estados Unidos completa la retirada total de sus tropas de Irak  |
 | 2026-09-30 | 95 | K1 | Un avión de Flydubai con destino Israel aterriza de emergencia e |
 | 2026-09-27 | 87 | K2 | Netanyahu y la víctima perpetua |
-| 2026-09-27 | 82 | K0 | Trump rechaza propuesta iraní para reabrir el estrecho de Ormuz  |
 
 [[Global Brain — Inicio|← Inicio]]

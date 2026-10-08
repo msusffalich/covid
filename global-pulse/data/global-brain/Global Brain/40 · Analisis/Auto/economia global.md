@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-10-07
-nodos: 37
+actualizado: 2026-10-08
+nodos: 32
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-07. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-08. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-37 nodos registrados en el periodo. Lo mas reciente: Las "cucarachas" vuelven a las calles de India por los cambios en el censo electoral.
+32 nodos registrados en el periodo. Lo mas reciente: Las "cucarachas" vuelven a las calles de India por los cambios en el censo electoral.
 
 ## Trend summary (EN)
-37 nodes recorded in the period. Most recent: India hikes interest rates for first time in over three years as Iran war fuels inflation.
+32 nodes recorded in the period. Most recent: India hikes interest rates for first time in over three years as Iran war fuels inflation.
 
 > [!note] Estado actual
 > Las "cucarachas" vuelven a las calles de India por los cambios en el censo electoral
 
-## Nodos recientes (37 en la ventana)
+## Nodos recientes (32 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-07 | 83 | K1 | Las "cucarachas" vuelven a las calles de India por los cambios e |
