@@ -2,30 +2,30 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-08
-nodos: 19
+actualizado: 2026-10-09
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-08. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-09. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-19 nodos registrados en el periodo. Lo mas reciente: Detenida la esposa del poderoso expresidente de Sri Lanka por el presunto uso indebido de donaciones.
+20 nodos registrados en el periodo. Lo mas reciente: El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses.
 
 ## Trend summary (EN)
-19 nodes recorded in the period. Most recent: Dry wells and shrinking water holes as drought grips Sri Lanka.
+20 nodes recorded in the period. Most recent: El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses.
 
 > [!note] Estado actual
-> Detenida la esposa del poderoso expresidente de Sri Lanka por el presunto uso indebido de donaciones
+> El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses
 
-## Nodos recientes (19 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-09 | 83 | K0 | El Niño gana fuerza en América Latina: sequía, hambre y riesgo d |
 | 2026-10-08 | 65 | K1 | Detenida la esposa del poderoso expresidente de Sri Lanka por el |
-| 2026-10-08 | 61 | K1 | El Niño gana fuerza en América Latina: sequía, hambre y riesgo d |
 | 2026-10-05 | 48 | K1 | WHO and the Netherlands renew their partnership on climate chang |
 | 2026-10-01 | 74 | K0 | ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five ye |
 | 2026-09-29 | 55 | K1 | El huracán Polo toca tierra en Baja California Sur, México, mien |

@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-10-08
-nodos: 34
+actualizado: 2026-10-09
+nodos: 33
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-08. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-09. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-34 nodos registrados en el periodo. Lo mas reciente: Samsung y TSMC marcan beneficios e ingresos récord impulsados por la fuerte demanda de chips para IA.
+33 nodos registrados en el periodo. Lo mas reciente: OpenAI despide a tres investigadores de seguridad en medio de dudas sobre sus ingresos.
 
 ## Trend summary (EN)
-34 nodes recorded in the period. Most recent: Samsung flags 783% profit jump to record $80bn as AI chip boom also lifts TSMC sales.
+33 nodes recorded in the period. Most recent: OpenAI fires three safety researchers amid questions over revenue.
 
 > [!note] Estado actual
-> Samsung y TSMC marcan beneficios e ingresos récord impulsados por la fuerte demanda de chips para IA
+> OpenAI despide a tres investigadores de seguridad en medio de dudas sobre sus ingresos
 
-## Nodos recientes (34 en la ventana)
+## Nodos recientes (33 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-09 | 55 | K0 | OpenAI despide a tres investigadores de seguridad en medio de du |
 | 2026-10-08 | 70 | K1 | Samsung y TSMC marcan beneficios e ingresos récord impulsados po |
 | 2026-10-02 | 74 | K0 | Las nuevas normas del ICE suavizan las actuaciones del cuerpo pa |
 | 2026-10-01 | 70 | K0 | China levanta una nueva muralla hacia dentro para retener a func |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-29 | 87 | K1 | Fallas de seguridad paralizan el lanzamiento de la nueva IA de O |
 | 2026-09-28 | 62 | K1 | Australia reporta primer ciberataque de un agente de IA a un org |
 | 2026-09-27 | 78 | K1 | OpenAI detiene entrenamiento de modelos tras incidentes de agent |
-| 2026-09-27 | 73 | K1 | ¿Qué puesto ocupa América Latina en la carrera de la IA? |
 
 [[Global Brain — Inicio|← Inicio]]

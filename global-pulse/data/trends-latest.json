@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-10-08T11:41:19.427825+00:00",
+    "generado": "2026-10-09T11:37:55.336246+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 35,
-      "ultima_fecha": "2026-10-08",
+      "n_nodos": 34,
+      "ultima_fecha": "2026-10-09",
       "resumen": {
-        "es": "35 nodos registrados en el periodo. Lo mas reciente: Los hutíes dicen haber atacado con un misil el aeropuerto de Riad tras varias explosiones en Arabia Saudí.",
-        "en": "35 nodes recorded in the period. Most recent: WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities."
+        "es": "34 nodos registrados en el periodo. Lo mas reciente: El costo electoral por los comentarios de Trump sobre que Irán puede “destruir” Los Ángeles o San Diego.",
+        "en": "34 nodes recorded in the period. Most recent: Families reunited as USS Lincoln returns from troubled 10-month deployment."
       },
       "estado": {
-        "es": "Los hutíes dicen haber atacado con un misil el aeropuerto de Riad tras varias explosiones en Arabia Saudí",
-        "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
+        "es": "El costo electoral por los comentarios de Trump sobre que Irán puede “destruir” Los Ángeles o San Diego",
+        "en": "Families reunited as USS Lincoln returns from troubled 10-month deployment"
       },
       "serie": [
-        {
-          "fecha": "2026-09-18",
-          "max": 95,
-          "n": 4
-        },
         {
           "fecha": "2026-09-19",
           "max": 45,
@@ -118,9 +113,50 @@
           "fecha": "2026-10-08",
           "max": 77,
           "n": 3
+        },
+        {
+          "fecha": "2026-10-09",
+          "max": 94,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-09",
+          "titulo": {
+            "es": "El costo electoral por los comentarios de Trump sobre que Irán puede “destruir” Los Ángeles o San Diego",
+            "en": "Families reunited as USS Lincoln returns from troubled 10-month deployment"
+          },
+          "impacto": 94,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/us/2026-10-07/el-costo-electoral-por-los-comentarios-de-trump-sobre-que-iran-puede-destruir-los-angeles-o-san-diego.html",
+          "fuente": "El Pais Internacional"
+        },
+        {
+          "fecha": "2026-10-09",
+          "titulo": {
+            "es": "El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses",
+            "en": "El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses"
+          },
+          "impacto": 83,
+          "categoria": "geopolitica",
+          "kardashev": "K0",
+          "url": "https://www.bbc.com/mundo/articles/cvglw9930wx3o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
+        {
+          "fecha": "2026-10-09",
+          "titulo": {
+            "es": "Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y escalan la guerra en Yemen",
+            "en": "Houthi attacks on Riyadh airport kill three as Yemen war escalates"
+          },
+          "impacto": 78,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
         {
           "fecha": "2026-10-08",
           "titulo": {
@@ -144,18 +180,6 @@
           "kardashev": "K1",
           "url": "https://es.euronews.com/video/2026/10/08/pozos-secos-y-charcas-menguantes-mientras-la-sequia-asfixia-sri-lanka",
           "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-08",
-          "titulo": {
-            "es": "El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses",
-            "en": "El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses"
-          },
-          "impacto": 61,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cvglw9930wx3o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         },
         {
           "fecha": "2026-10-07",
@@ -240,30 +264,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/ck1l63714eddo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-09-29",
-          "titulo": {
-            "es": "Arabia Saudí vuelve a exportar petróleo por el único oleoducto que le permite esquivar Ormuz",
-            "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
-          },
-          "impacto": 63,
-          "categoria": "salud",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-09-28/arabia-saudi-vuelve-a-exportar-petroleo-por-el-unico-oleoducto-que-le-permite-esquivar-ormuz.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-09-28",
-          "titulo": {
-            "es": "El precio del petróleo sube tras el rechazo de Trump a la tregua iraní",
-            "en": "As the US midterms approach, Trump’s boasts on the economy fall flat with voters"
-          },
-          "impacto": 87,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/opinion/2026-09-27/trump-es-un-loser-un-perdedor.html",
-          "fuente": "El Pais Internacional"
         }
       ]
     },
@@ -274,22 +274,17 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 25,
-      "ultima_fecha": "2026-10-08",
+      "n_nodos": 24,
+      "ultima_fecha": "2026-10-09",
       "resumen": {
-        "es": "25 nodos registrados en el periodo. Lo mas reciente: Russian attack on bus kills at least 30 people near Ukraine frontline.",
-        "en": "25 nodes recorded in the period. Most recent: Russian attack on bus kills at least 30 people near Ukraine frontline."
+        "es": "24 nodos registrados en el periodo. Lo mas reciente: Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia.",
+        "en": "24 nodes recorded in the period. Most recent: Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia."
       },
       "estado": {
-        "es": "Russian attack on bus kills at least 30 people near Ukraine frontline",
-        "en": "Russian attack on bus kills at least 30 people near Ukraine frontline"
+        "es": "Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia",
+        "en": "Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia"
       },
       "serie": [
-        {
-          "fecha": "2026-09-18",
-          "max": 83,
-          "n": 2
-        },
         {
           "fecha": "2026-09-19",
           "max": 56,
@@ -364,9 +359,26 @@
           "fecha": "2026-10-08",
           "max": 83,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-09",
+          "max": 56,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-09",
+          "titulo": {
+            "es": "Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia",
+            "en": "Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia"
+          },
+          "impacto": 56,
+          "categoria": "salud",
+          "kardashev": "K1",
+          "url": "https://www.rfi.fr/es/europa/20261008-rusia-niega-cualquier-riesgo-epid%C3%A9mico-en-medio-de-llamados-a-la-transparencia",
+          "fuente": "RFI Espanol"
+        },
         {
           "fecha": "2026-10-08",
           "titulo": {
@@ -498,18 +510,6 @@
           "kardashev": "K0",
           "url": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-09-29",
-          "titulo": {
-            "es": "Europe Today: Ucrania busca financiación urgente en Bruselas mientras los drones rusos no dan tregua en Kiev",
-            "en": "Europe Today: Ukraine seeks urgent funding in Brussels as Russia's drones pound Kyiv"
-          },
-          "impacto": 55,
-          "categoria": "innovacion",
-          "kardashev": "K0",
-          "url": "https://es.euronews.com/2026/09/29/europe-today-ucrania-busca-financiacion-urgente-en-bruselas-mientras-los-drones-rusos-mach",
-          "fuente": "Euronews Espanol"
         }
       ]
     },
@@ -756,22 +756,17 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 34,
-      "ultima_fecha": "2026-10-08",
+      "n_nodos": 33,
+      "ultima_fecha": "2026-10-09",
       "resumen": {
-        "es": "34 nodos registrados en el periodo. Lo mas reciente: Samsung y TSMC marcan beneficios e ingresos récord impulsados por la fuerte demanda de chips para IA.",
-        "en": "34 nodes recorded in the period. Most recent: Samsung flags 783% profit jump to record $80bn as AI chip boom also lifts TSMC sales."
+        "es": "33 nodos registrados en el periodo. Lo mas reciente: OpenAI despide a tres investigadores de seguridad en medio de dudas sobre sus ingresos.",
+        "en": "33 nodes recorded in the period. Most recent: OpenAI fires three safety researchers amid questions over revenue."
       },
       "estado": {
-        "es": "Samsung y TSMC marcan beneficios e ingresos récord impulsados por la fuerte demanda de chips para IA",
-        "en": "Samsung flags 783% profit jump to record $80bn as AI chip boom also lifts TSMC sales"
+        "es": "OpenAI despide a tres investigadores de seguridad en medio de dudas sobre sus ingresos",
+        "en": "OpenAI fires three safety researchers amid questions over revenue"
       },
       "serie": [
-        {
-          "fecha": "2026-09-18",
-          "max": 77,
-          "n": 2
-        },
         {
           "fecha": "2026-09-19",
           "max": 75,
@@ -841,9 +836,26 @@
           "fecha": "2026-10-08",
           "max": 70,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-09",
+          "max": 55,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-09",
+          "titulo": {
+            "es": "OpenAI despide a tres investigadores de seguridad en medio de dudas sobre sus ingresos",
+            "en": "OpenAI fires three safety researchers amid questions over revenue"
+          },
+          "impacto": 55,
+          "categoria": "tecnologia",
+          "kardashev": "K0",
+          "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
         {
           "fecha": "2026-10-08",
           "titulo": {
@@ -975,18 +987,6 @@
           "kardashev": "K1",
           "url": "https://www.elmundo.es/internacional/2026/09/27/6ab8a53c21efa01e5f8b4583.html",
           "fuente": "El Mundo Internacional"
-        },
-        {
-          "fecha": "2026-09-27",
-          "titulo": {
-            "es": "¿Qué puesto ocupa América Latina en la carrera de la IA?",
-            "en": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia"
-          },
-          "impacto": 73,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/ckp84717p3lyo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -997,15 +997,15 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 19,
-      "ultima_fecha": "2026-10-08",
+      "n_nodos": 20,
+      "ultima_fecha": "2026-10-09",
       "resumen": {
-        "es": "19 nodos registrados en el periodo. Lo mas reciente: Detenida la esposa del poderoso expresidente de Sri Lanka por el presunto uso indebido de donaciones.",
-        "en": "19 nodes recorded in the period. Most recent: Dry wells and shrinking water holes as drought grips Sri Lanka."
+        "es": "20 nodos registrados en el periodo. Lo mas reciente: El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses.",
+        "en": "20 nodes recorded in the period. Most recent: El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses."
       },
       "estado": {
-        "es": "Detenida la esposa del poderoso expresidente de Sri Lanka por el presunto uso indebido de donaciones",
-        "en": "Dry wells and shrinking water holes as drought grips Sri Lanka"
+        "es": "El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses",
+        "en": "El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses"
       },
       "serie": [
         {
@@ -1062,9 +1062,26 @@
           "fecha": "2026-10-08",
           "max": 65,
           "n": 2
+        },
+        {
+          "fecha": "2026-10-09",
+          "max": 83,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-09",
+          "titulo": {
+            "es": "El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses",
+            "en": "El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses"
+          },
+          "impacto": 83,
+          "categoria": "geopolitica",
+          "kardashev": "K0",
+          "url": "https://www.bbc.com/mundo/articles/cvglw9930wx3o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
         {
           "fecha": "2026-10-08",
           "titulo": {
@@ -1076,18 +1093,6 @@
           "kardashev": "K1",
           "url": "https://es.euronews.com/video/2026/10/08/pozos-secos-y-charcas-menguantes-mientras-la-sequia-asfixia-sri-lanka",
           "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-08",
-          "titulo": {
-            "es": "El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses",
-            "en": "El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses"
-          },
-          "impacto": 61,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cvglw9930wx3o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         },
         {
           "fecha": "2026-10-05",
@@ -1218,22 +1223,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 32,
-      "ultima_fecha": "2026-10-07",
+      "n_nodos": 31,
+      "ultima_fecha": "2026-10-09",
       "resumen": {
-        "es": "32 nodos registrados en el periodo. Lo mas reciente: Las \"cucarachas\" vuelven a las calles de India por los cambios en el censo electoral.",
-        "en": "32 nodes recorded in the period. Most recent: India hikes interest rates for first time in over three years as Iran war fuels inflation."
+        "es": "31 nodos registrados en el periodo. Lo mas reciente: Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y escalan la guerra en Yemen.",
+        "en": "31 nodes recorded in the period. Most recent: Houthi attacks on Riyadh airport kill three as Yemen war escalates."
       },
       "estado": {
-        "es": "Las \"cucarachas\" vuelven a las calles de India por los cambios en el censo electoral",
-        "en": "India hikes interest rates for first time in over three years as Iran war fuels inflation"
+        "es": "Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y escalan la guerra en Yemen",
+        "en": "Houthi attacks on Riyadh airport kill three as Yemen war escalates"
       },
       "serie": [
-        {
-          "fecha": "2026-09-18",
-          "max": 95,
-          "n": 3
-        },
         {
           "fecha": "2026-09-19",
           "max": 45,
@@ -1318,9 +1318,38 @@
           "fecha": "2026-10-07",
           "max": 83,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-09",
+          "max": 78,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-09",
+          "titulo": {
+            "es": "Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y escalan la guerra en Yemen",
+            "en": "Houthi attacks on Riyadh airport kill three as Yemen war escalates"
+          },
+          "impacto": 78,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
+        {
+          "fecha": "2026-10-09",
+          "titulo": {
+            "es": "Anne Carson gana el Premio Nobel de Literatura 2026",
+            "en": "Anne Carson wins the 2026 Nobel Prize in Literature"
+          },
+          "impacto": 55,
+          "categoria": "sociedad",
+          "kardashev": "K0",
+          "url": "https://www.bbc.com/mundo/articles/ckm23l8gpvr2o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
         {
           "fecha": "2026-10-07",
           "titulo": {
@@ -1440,30 +1469,6 @@
           "kardashev": "K2",
           "url": "https://www.france24.com/es/video/20261001-francia-siguen-las-manifestaciones-estudiantiles-previo-a-la-presentaci%C3%B3n-del-presupuesto",
           "fuente": "France 24 Espanol"
-        },
-        {
-          "fecha": "2026-09-29",
-          "titulo": {
-            "es": "La Argentina de Milei: una economía a dos velocidades",
-            "en": "Argentina’s Milei threatens to sue UK over Falkland Islands oil project"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/c6z7zzel0lx5o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-09-29",
-          "titulo": {
-            "es": "Arabia Saudí vuelve a exportar petróleo por el único oleoducto que le permite esquivar Ormuz",
-            "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
-          },
-          "impacto": 63,
-          "categoria": "salud",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-09-28/arabia-saudi-vuelve-a-exportar-petroleo-por-el-unico-oleoducto-que-le-permite-esquivar-ormuz.html",
-          "fuente": "El Pais Internacional"
         }
       ]
     }
