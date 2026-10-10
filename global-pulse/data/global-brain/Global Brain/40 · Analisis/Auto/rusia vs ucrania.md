@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-09
-nodos: 24
+actualizado: 2026-10-10
+nodos: 22
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-09. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-10. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-24 nodos registrados en el periodo. Lo mas reciente: Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia.
+22 nodos registrados en el periodo. Lo mas reciente: Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia.
 
 ## Trend summary (EN)
-24 nodes recorded in the period. Most recent: Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia.
+22 nodes recorded in the period. Most recent: Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia.
 
 > [!note] Estado actual
 > Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia
 
-## Nodos recientes (24 en la ventana)
+## Nodos recientes (22 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-09 | 56 | K1 | Rusia niega cualquier riesgo epidémico en medio de llamados a la |

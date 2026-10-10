@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-09
+actualizado: 2026-10-10
 nodos: 34
 origen: global-pulse
 ---
@@ -10,22 +10,22 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-09. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-10. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-34 nodos registrados en el periodo. Lo mas reciente: El costo electoral por los comentarios de Trump sobre que Irán puede “destruir” Los Ángeles o San Diego.
+34 nodos registrados en el periodo. Lo mas reciente: El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses.
 
 ## Trend summary (EN)
-34 nodes recorded in the period. Most recent: Families reunited as USS Lincoln returns from troubled 10-month deployment.
+34 nodes recorded in the period. Most recent: El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses.
 
 > [!note] Estado actual
-> El costo electoral por los comentarios de Trump sobre que Irán puede “destruir” Los Ángeles o San Diego
+> El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses
 
 ## Nodos recientes (34 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-10 | 68 | K1 | El Niño gana fuerza en América Latina: sequía, hambre y riesgo d |
 | 2026-10-09 | 94 | K1 | El costo electoral por los comentarios de Trump sobre que Irán p |
-| 2026-10-09 | 83 | K0 | El Niño gana fuerza en América Latina: sequía, hambre y riesgo d |
 | 2026-10-09 | 78 | K1 | Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y |
 | 2026-10-08 | 77 | K1 | Los hutíes dicen haber atacado con un misil el aeropuerto de Ria |
 | 2026-10-08 | 65 | K1 | Detenida la esposa del poderoso expresidente de Sri Lanka por el |

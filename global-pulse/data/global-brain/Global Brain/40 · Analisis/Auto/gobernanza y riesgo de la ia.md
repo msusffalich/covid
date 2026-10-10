@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-10-09
-nodos: 33
+actualizado: 2026-10-10
+nodos: 31
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-09. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-10. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-33 nodos registrados en el periodo. Lo mas reciente: OpenAI despide a tres investigadores de seguridad en medio de dudas sobre sus ingresos.
+31 nodos registrados en el periodo. Lo mas reciente: OpenAI despide a tres investigadores de seguridad en medio de dudas sobre sus ingresos.
 
 ## Trend summary (EN)
-33 nodes recorded in the period. Most recent: OpenAI fires three safety researchers amid questions over revenue.
+31 nodes recorded in the period. Most recent: OpenAI fires three safety researchers amid questions over revenue.
 
 > [!note] Estado actual
 > OpenAI despide a tres investigadores de seguridad en medio de dudas sobre sus ingresos
 
-## Nodos recientes (33 en la ventana)
+## Nodos recientes (31 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-09 | 55 | K0 | OpenAI despide a tres investigadores de seguridad en medio de du |

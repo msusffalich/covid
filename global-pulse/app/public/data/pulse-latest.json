@@ -1,16 +1,16 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-10-09",
-    "generado": "2026-10-09T11:37:20.745437+00:00",
+    "fecha": "2026-10-10",
+    "generado": "2026-10-10T10:52:37.331582+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 802,
-      "clusters": 534,
-      "nodos": 534,
-      "verificados": 534,
-      "duracion_s": 281.2
+      "piezas_ingeridas": 766,
+      "clusters": 482,
+      "nodos": 482,
+      "verificados": 482,
+      "duracion_s": 109.7
     },
     "descargo": ""
   },
@@ -18,13 +18,13 @@
     {
       "titulo": {
         "es": "Presentan nuevos cargos en Nueva York contra Maduro y su esposa por presuntas torturas a ciudadanos de EE.UU.",
-        "en": "New York City man shot in car with child present by ICE agents, mayor says"
+        "en": "U.S. ICE agents shoot and wound man during arrest in New York City, sparking protests"
       },
       "sintesis": {
         "es": "El expresidente de Venezuela y su esposa fueron acusados por el Departamento de Justicia de EE.UU. de haber participado en la tortura de estadounidenses detenidos en Caracas.",
-        "en": "US immigration agents shot and wounded a man on Thursday in ​his car with a child present in the Marble Hill neighborhood of New York City, according to the mayor, city police and eyewitnesses. Federal immigration agents have shot at least 21 people since Republican President Donald Trump returned to office, 7 fatally, sparking protests across ​the US."
+        "en": "federal immigration agents shot and wounded a Dominican man while arresting him in New York City on Thursday, in what the Department of Homeland Security (DHS) called a \"targeted enforcement operation.\""
       },
-      "categoria": "sociedad",
+      "categoria": "geopolitica",
       "actores": [
         "ICE",
         "Nueva York",
@@ -38,28 +38,34 @@
       },
       "impacto": 95,
       "fuentes": [
+        "ev_fe79124fa7",
         "ev_56475b74df",
-        "ev_89ed1e934f",
+        "ev_aae5685483",
         "ev_e7e04a1004",
         "ev_c1fc9ed56d",
         "ev_d52f3bc646",
-        "ev_322dc4bccb",
-        "ev_e6a5714436",
-        "ev_71ec0d8b93",
-        "ev_148320f6ad",
-        "ev_9c0949f7c9",
+        "ev_c18ae0e781",
+        "ev_bc8ae769f9",
         "ev_d9dc9d73ec",
-        "ev_8e397d3b42"
+        "ev_6f565ab696"
       ],
-      "cluster_id": "cl_012",
+      "cluster_id": "cl_009",
       "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cd37/live/f6e255d0-c3f8-11f1-97a9-2d4b5e26e282.jpg",
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d7c5/live/012749e0-c32e-11f1-9981-cf94ea240e40.jpg",
         "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261009/1223522_055550_video_1800.mp4",
-        "https://imagenes.elpais.com/resizer/v2/WG52A4LROJMIZNT77ZTRBO5R2E.jpg?auth=306daead88f0421b0581aa7177c5d5f2b306325f69800071eac9e1bd052db875",
-        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261009/1223546_071658_video_1800.mp4"
+        "https://imagenes.elpais.com/resizer/v2/WG52A4LROJMIZNT77ZTRBO5R2E.jpg?auth=306daead88f0421b0581aa7177c5d5f2b306325f69800071eac9e1bd052db875"
       ],
       "estado": "verificado",
       "referencias": [
+        {
+          "id": "ev_fe79124fa7",
+          "titulo": "La indignación en Nueva York por el caso del dominicano que recibió un disparo de ICE en su auto con su hijo de 5 años en el asiento trasero",
+          "url": "https://www.bbc.com/mundo/articles/c3dxwnn9w5rqo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Fri, 09 Oct 2026 17:31:30 GMT",
+          "idioma": "es"
+        },
         {
           "id": "ev_56475b74df",
           "titulo": "Presentan nuevos cargos en Nueva York contra Maduro y su esposa por presuntas torturas a ciudadanos de EE.UU.",
@@ -69,11 +75,11 @@
           "idioma": "es"
         },
         {
-          "id": "ev_89ed1e934f",
-          "titulo": "Mamdani exige a Trump el fin del ICE en Nueva York: “No me quedaré de brazos cruzados”",
+          "id": "ev_aae5685483",
+          "titulo": "El tiroteo del ICE en Nueva York pone a prueba a Mamdani y a su resistencia proinmigrante",
           "url": "https://elpais.com/us/migracion/2026-10-09/mamdani-exige-a-trump-el-fin-del-ice-en-nueva-york-no-me-quedare-de-brazos-cruzados.html",
           "fuente": "El Pais Internacional",
-          "fecha": "Fri, 09 Oct 2026 01:26:00 GMT",
+          "fecha": "Fri, 09 Oct 2026 13:50:06 GMT",
           "idioma": "es"
         },
         {
@@ -101,43 +107,19 @@
           "idioma": "es"
         },
         {
-          "id": "ev_322dc4bccb",
-          "titulo": "Un agente de ICE hiere a tiros a un hombre durante un operativo migratorio en Nueva York",
-          "url": "https://es.euronews.com/2026/10/09/un-agente-de-ice-hiere-a-tiros-a-un-hombre-durante-un-operativo-migratorio-en-nueva-york",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 09 Oct 2026 07:50:20 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_e6a5714436",
-          "titulo": "ICE agent shoots man in New York City",
-          "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+          "id": "ev_c18ae0e781",
+          "titulo": "BBC breaks down video of the aftermath of New York City ICE shooting",
+          "url": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Fri, 09 Oct 2026 04:26:19 GMT",
+          "fecha": "Fri, 09 Oct 2026 20:20:09 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_71ec0d8b93",
-          "titulo": "New York City man shot in car with child present by ICE agents, mayor says",
-          "url": "https://www.france24.com/en/video/20261009-new-york-city-man-shot-in-car-with-child-present-by-ice-agents-mayor-says",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 09 Oct 2026 10:42:15 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_148320f6ad",
-          "titulo": "New York mayor to ask Trump for ICE withdrawal after agents shoot man in car with child",
-          "url": "https://www.france24.com/en/americas/20261009-new-york-mayor-calls-for-ice-removal-after-man-shot-with-5-year-old-nearby",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 09 Oct 2026 05:21:02 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9c0949f7c9",
-          "titulo": "Uproar in NY after ICE shoots man with child in the car",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uproar-in-ny-after-ice-shoots-man-with-child-in-the-car?traffic_source=rss",
+          "id": "ev_bc8ae769f9",
+          "titulo": "CCTV footage shows ICE shooting in New York",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-ice-shooting-update-sv?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Fri, 09 Oct 2026 04:26:50 +0000",
+          "fecha": "Sat, 10 Oct 2026 03:38:05 +0000",
           "idioma": "en"
         },
         {
@@ -149,137 +131,540 @@
           "idioma": "en"
         },
         {
-          "id": "ev_8e397d3b42",
-          "titulo": "New York police push politician to ground during anti-ICE protest",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 09 Oct 2026 08:59:49 +0000",
+          "id": "ev_6f565ab696",
+          "titulo": "Amex announces 2 new Centurion Lounges near New York City and in London, plus updates to two locations. These credit cards can get you in",
+          "url": "https://www.cnbc.com/select/amex-centurion-lounge-expansion-2026/",
+          "fuente": "CNBC Top News",
+          "fecha": "Fri, 09 Oct 2026 16:36:02 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-09_0000",
-      "fecha": "2026-10-09",
+      "id": "nd_2026-10-10_0000",
+      "fecha": "2026-10-10",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "El costo electoral por los comentarios de Trump sobre que Irán puede “destruir” Los Ángeles o San Diego",
-        "en": "Families reunited as USS Lincoln returns from troubled 10-month deployment"
+        "es": "EAU asegura que ataque en vuelo de Flydubai tenía como objetivo estrellar avión contra Ben Gurion",
+        "en": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say"
       },
       "sintesis": {
-        "es": "El presidente sigue lastrando a los candidatos republicanos que buscan la gubernatura de California y la fiscalía general estatal, así como otros cargos relevantes y curules de la Cámara de Representantes",
-        "en": "The USS Lincoln docked in California on Thursday ending a record deployment of 265 days of uninterrupted time at sea marked by reports of deteriorating conditions onboard. Crew members were reunited with family they had not seen in nearly a year after their mission was prolonged by the war in Iran."
+        "es": "El copiloto omaní de un avión de Flydubai que viajaba de Dubái a Tel Aviv intentó hacerse con el control de la aeronave para estrellarla contra una terminal del aeropuerto israelí Ben Gurion, según los resultados de la investigación difundidos por la Fiscalía General de Emiratos Árabes Unidos. El sospechoso atacó al comandante con un hacha de emergencia en pleno vuelo, pero la intervención de pasajeros y miembros de la tripulación impidió que concretara el plan.",
+        "en": "Hammam al-Hammami is believed to have been targeting the passenger terminal at Ben Gurion airport near Tel Aviv The co-pilot who tried to seize control of a passenger jet flying from Dubai to Tel Aviv last week was planning to launch a suicide attack targeting the passenger terminal at Israel’s international airport, prosecutors in the United Arab Emirates said on Friday. Hammam al-Hammami attacked the plane’s Indian pilot with an emergency axe, but failed to prevent his badly injured colleague from opening the cockpit’s security door to allow passengers to overpower his assailant. Continue reading..."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Trump",
-        "San Diego",
-        "Iran",
-        "USS Abraham"
+        "Flydubai",
+        "Tel Aviv",
+        "UAE",
+        "FlyDubai"
       ],
       "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
+        "lat": 20.6,
+        "lon": 79.0,
+        "region": "Asia Meridional"
       },
-      "impacto": 94,
+      "impacto": 95,
       "fuentes": [
-        "ev_8bb164c061",
-        "ev_2d279bc29d",
-        "ev_fbe83a2a5c",
-        "ev_be0d249a88",
-        "ev_8dc40c838a",
-        "ev_1b609356dd",
-        "ev_6ee1528a93",
-        "ev_f62a31f108",
-        "ev_1888983516"
+        "ev_d2341da627",
+        "ev_abc9b4d89c",
+        "ev_383d2ec549",
+        "ev_e6580ac334",
+        "ev_cc12c0b8b1",
+        "ev_6250441069",
+        "ev_d4bf0f788f",
+        "ev_7516fa0e6e",
+        "ev_e8d36f56ac",
+        "ev_b39f76e761"
       ],
-      "cluster_id": "cl_045",
+      "cluster_id": "cl_040",
       "imagenes": [
-        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261006/1222401_150829_video_1800.mp4",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44b9/live/ed8b84e0-c35b-11f1-bc2e-018d645d8d21.png",
-        "https://s.france24.com/media/display/30b2d092-c376-11f1-8741-c55799ef8309/w:1024/p:16x9/83806fbfa36c219e1ed7fd3dcd0e1268c8cb6b3e.jpg"
+        "https://s.france24.com/media/display/bfa8704e-c453-11f1-a1bc-77317c09f325/w:1024/p:16x9/ES-20261009-191606-191757-CS.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/09/17915652917072.jpg",
+        "https://i.guim.co.uk/img/media/2a3d9c552bda55ade07a8cda78b34dc1ebbc1f15/66_0_2203_1763/master/2203.jpg?width=140&quality=85&auto=format&fit=max&s=1fc7bbfbc77b08608b923754b765d55f",
+        "https://s.france24.com/media/display/277fa400-c402-11f1-a1d2-e362370cce2e/w:1024/p:16x9/AP26273581638886-1.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_8bb164c061",
-          "titulo": "El costo electoral por los comentarios de Trump sobre que Irán puede “destruir” Los Ángeles o San Diego",
-          "url": "https://elpais.com/us/2026-10-07/el-costo-electoral-por-los-comentarios-de-trump-sobre-que-iran-puede-destruir-los-angeles-o-san-diego.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Wed, 07 Oct 2026 16:14:56 GMT",
+          "id": "ev_d2341da627",
+          "titulo": "EAU asegura que ataque en vuelo de Flydubai tenía como objetivo estrellar avión contra Ben Gurion",
+          "url": "https://www.france24.com/es/video/20261010-eau-asegura-que-ataque-en-vuelo-de-flydubai-ten%C3%ADa-como-objetivo-estrellar-avi%C3%B3n-contra-ben-gurion",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sat, 10 Oct 2026 04:18:46 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_2d279bc29d",
-          "titulo": "El USS Abraham Lincoln vuelve a San Diego tras 265 días en el mar entre informes de tensión en la tripulación",
-          "url": "https://es.euronews.com/2026/10/09/uss-abraham-lincoln-vuelve-san-diego-tras-265-dias-mar-entre-informes-de-tension-tripulaci",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 09 Oct 2026 08:05:30 +0200",
+          "id": "ev_abc9b4d89c",
+          "titulo": "La Fiscalía de Emiratos Árabes Unidos asegura que el copiloto del vuelo de Flydubai planeaba estrellarlo contra una terminal del aeropuerto de Tel Aviv",
+          "url": "https://www.elmundo.es/internacional/2026/10/09/6ac91ccce4d4d89f188b4570.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 09 Oct 2026 19:39:40 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_fbe83a2a5c",
-          "titulo": "​​USS Lincoln finally docks in San Diego after 10-month mission",
-          "url": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 08 Oct 2026 22:26:10 GMT",
+          "id": "ev_383d2ec549",
+          "titulo": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
+          "url": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 09 Oct 2026 20:38:11 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_be0d249a88",
-          "titulo": "US aircraft carrier Abraham Lincoln returns to San Diego after record deployment",
-          "url": "https://www.euronews.com/2026/10/08/us-aircraft-carrier-abraham-lincoln-returns-to-san-diego-after-record-deployment",
-          "fuente": "Euronews English",
-          "fecha": "Thu, 08 Oct 2026 22:32:03 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8dc40c838a",
-          "titulo": "Families reunited as USS Lincoln returns from troubled 10-month deployment",
-          "url": "https://www.france24.com/en/americas/20261009-families-reunited-as-uss-lincoln-comes-home-after-troubled-gulf-deployment",
+          "id": "ev_e6580ac334",
+          "titulo": "🔴 FlyDubai co-pilot planned suicide attack on Tel Aviv airport, inspired by 9/11, UAE prosecutor says",
+          "url": "https://www.france24.com/en/middle-east/20261009-flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-inspired-by-9-11",
           "fuente": "France 24 English",
-          "fecha": "Fri, 09 Oct 2026 00:13:02 GMT",
+          "fecha": "Fri, 09 Oct 2026 17:09:59 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_1b609356dd",
-          "titulo": "US sailors reunite with families as USS Abraham Lincoln returns home",
-          "url": "https://www.euronews.com/video/2026/10/09/us-sailors-reunite-with-families-as-uss-abraham-lincoln-returns-home",
+          "id": "ev_cc12c0b8b1",
+          "titulo": "FlyDubai co-pilot planned suicide attack on Tel Aviv airport inspired by 9/11, prosecutor says",
+          "url": "https://www.france24.com/en/middle-east/20261009-flydubai-co-pilot-planned-suicide-attack-on-tel-aviv-airport-inspired-by-9-11",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 09 Oct 2026 17:04:15 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6250441069",
+          "titulo": "Flydubai co-pilot planned suicide attack in Tel Aviv airport inspired by 9/11",
+          "url": "https://www.euronews.com/2026/10/09/flydubai-co-pilot-planned-suicide-attack-in-tel-aviv-airport-inspired-by-911",
           "fuente": "Euronews English",
-          "fecha": "Fri, 09 Oct 2026 08:21:16 +0200",
+          "fecha": "Fri, 09 Oct 2026 20:29:39 +0200",
           "idioma": "en"
         },
         {
-          "id": "ev_6ee1528a93",
-          "titulo": "Is Trump signalling a return to war with Iran after the midterms?",
-          "url": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 09 Oct 2026 10:40:36 +0000",
+          "id": "ev_d4bf0f788f",
+          "titulo": "FlyDubai co-pilot sought to crash plane into Tel Aviv's main airport: UAE",
+          "url": "https://www.cbc.ca/news/world/flydubai-copilot-attack-plan-tel-aviv-9.7376218?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 09 Oct 2026 15:10:21 EDT",
           "idioma": "en"
         },
         {
-          "id": "ev_f62a31f108",
-          "titulo": "Trump says US will not strike Iran before midterm elections",
-          "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 09 Oct 2026 06:22:07 +0000",
+          "id": "ev_7516fa0e6e",
+          "titulo": "Flydubai hijacker planned to crash aircraft in 9/11-inspired attack, UAE says",
+          "url": "https://news.sky.com/story/flydubai-co-pilot-planned-to-crash-aircraft-into-ben-gurion-airport-uae-says-13597009",
+          "fuente": "Sky News World",
+          "fecha": "Fri, 09 Oct 2026 17:30:00 +0100",
           "idioma": "en"
         },
         {
-          "id": "ev_1888983516",
-          "titulo": "Trump says U.S. will not attack Iran before midterm election",
-          "url": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Thu, 08 Oct 2026 17:41:20 GMT",
+          "id": "ev_e8d36f56ac",
+          "titulo": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sat, 10 Oct 2026 04:34:55 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b39f76e761",
+          "titulo": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
+          "url": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
+          "fuente": "NYT World",
+          "fecha": "Sat, 10 Oct 2026 00:10:22 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-09_0001",
-      "fecha": "2026-10-09",
+      "id": "nd_2026-10-10_0001",
+      "fecha": "2026-10-10",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-10_0002",
+        "nd_2026-10-10_0007"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "India: Nueva Delhi se blinda ante una protesta que desafía la reforma electoral de Modi",
+        "en": "India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest"
+      },
+      "sintesis": {
+        "es": "Las autoridades han desplegado en Nueva Delhi más de 20.000 policías y militares, instalado barricadas, cerrado decenas de estaciones de metro y cancelado conexiones ferroviarias antes de la manifestación convocada para este sábado contra el presidente de la Comisión Electoral de India (CEI), Gyanesh Kumar. Informe de nuestro corresponsal en Nueva Delhi, Varoon Anand.",
+        "en": "Thousands expected to march in Delhi on Saturday, as anger mounts over controversial changes to voter lists in world’s largest democracy India’s Cockroach Janta Party (CJP), which began as a satirical movement but is now emerging as a political force among gen Z’s, says authorities have begun detaining its members en masse days before a major anti-government protest in Delhi. Opposition parties, their student units, and the “Cockroach” youth movement have been holding almost daily demonstrations seeking the resignation of chief election commissioner Gyanesh Kumar over a controversial revision of ⁠voter lists . Continue reading..."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "India",
+        "Cockroach",
+        "Modi",
+        "New Delhi"
+      ],
+      "geo": {
+        "lat": 20.6,
+        "lon": 79.0,
+        "region": "Asia Meridional"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_4044dc4017",
+        "ev_4ff32e4100",
+        "ev_f71df4c697",
+        "ev_8c26fe00a3",
+        "ev_9051f1a006",
+        "ev_49b8366f37",
+        "ev_243a8d737b",
+        "ev_f548eb9cf6",
+        "ev_320832a6d7",
+        "ev_ff24dd3d51",
+        "ev_82ff17208a",
+        "ev_4249076788"
+      ],
+      "cluster_id": "cl_057",
+      "imagenes": [
+        "https://s.rfi.fr/media/display/7cf98ed4-b960-11f1-ba58-555a0aff87a4/w:1024/p:16x9/AP26268358653889.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b3/live/d4f32e10-c2fc-11f1-b8c6-6d610e41a5d9.jpg",
+        "https://i.guim.co.uk/img/media/3d7bad139a4a7c2f49abcea8f814924e48463eca/879_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=00d095d210b6c109f2162a27b3280fe0",
+        "https://i.guim.co.uk/img/media/a9cdad812c46c9f9fb10b69225ba538602220d32/1095_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=afc0d79e38f5812f63acf8777b3bfd41"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_4044dc4017",
+          "titulo": "India: Nueva Delhi se blinda ante una protesta que desafía la reforma electoral de Modi",
+          "url": "https://www.rfi.fr/es/asia-pacifico/20261009-india-nueva-delhi-se-blinda-ante-una-protesta-que-desaf%C3%ADa-la-reforma-electoral-de-modi",
+          "fuente": "RFI Espanol",
+          "fecha": "Fri, 09 Oct 2026 12:24:58 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_4ff32e4100",
+          "titulo": "Meet India's feisty Gen Z protester who is taking on Modi",
+          "url": "https://www.bbc.co.uk/news/articles/c5n49xln3lz0o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 09 Oct 2026 07:19:24 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f71df4c697",
+          "titulo": "India’s ‘Cockroach’ party accuses government of mass detention of members ahead of weekend protest",
+          "url": "https://www.theguardian.com/world/2026/oct/09/india-dehli-cockroach-party-weekend-demonstration-mass-detention",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 09 Oct 2026 01:55:34 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_8c26fe00a3",
+          "titulo": "India’s Cockroach movement launches new protests over changes to voter roll",
+          "url": "https://www.theguardian.com/world/2026/oct/02/india-cockroach-movement-protests-mumbai-changes-voter-roll",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 02 Oct 2026 14:42:16 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9051f1a006",
+          "titulo": "India deploys police and restricts transport ahead of mass protest in Delhi",
+          "url": "https://www.aljazeera.com/news/2026/10/10/india-deploys-police-and-restricts-transport-ahead-of-mass-protest-in-delhi?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 10 Oct 2026 04:07:30 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_49b8366f37",
+          "titulo": "India's 'cockroach' movement: \"This is unprecedented\"",
+          "url": "https://www.france24.com/en/video/20261010-india-s-cockroach-movement-this-is-unprecedented",
+          "fuente": "France 24 English",
+          "fecha": "Sat, 10 Oct 2026 09:20:21 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_243a8d737b",
+          "titulo": "India detains 'cockroach' leaders ahead of election protest",
+          "url": "https://www.france24.com/en/video/20261010-india-detains-cockroach-leaders-ahead-of-election-protest",
+          "fuente": "France 24 English",
+          "fecha": "Sat, 10 Oct 2026 09:18:11 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f548eb9cf6",
+          "titulo": "India’s Cockroach Party founder, top leaders detained ahead of protest",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/indias-cockroach-party-founder-top-leaders-detained-ahead-of-protest?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 10 Oct 2026 07:13:48 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_320832a6d7",
+          "titulo": "India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 10 Oct 2026 05:54:36 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ff24dd3d51",
+          "titulo": "Founder of India's 'Cockroach' movement among scores detained ahead of mass protest",
+          "url": "https://news.sky.com/story/indias-cockroach-movement-founder-detained-along-with-scores-of-protesters-13597121",
+          "fuente": "Sky News World",
+          "fecha": "Sat, 10 Oct 2026 07:57:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_82ff17208a",
+          "titulo": "India cracks down on youth protests as anger grows against Modi and election chief",
+          "url": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
+          "fuente": "NPR News",
+          "fecha": "Sat, 10 Oct 2026 04:31:28 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4249076788",
+          "titulo": "New Delhi’s Crackdown on Protesters",
+          "url": "https://www.nytimes.com/video/world/asia/100000011193986/india-protest-delhi-crackdown.html",
+          "fuente": "NYT World",
+          "fecha": "Fri, 09 Oct 2026 09:24:43 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-10_0002",
+      "fecha": "2026-10-10",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-10_0001",
+        "nd_2026-10-10_0007"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "España guarda un minuto de silencio por Maricarmen mientras continúan las protestas por la vivienda",
+        "en": "Spanish pensioner Maricarmen, symbol of country's housing crisis, dead at 87"
+      },
+      "sintesis": {
+        "es": "Instituciones y sindicatos de todo el país han rendido homenaje a la mujer de 87 años fallecida en Madrid después de haber sido desahuciada. Barcelona acoge este viernes una nueva manifestación y los colectivos de inquilinos preparan una huelga general para el 11 de noviembre.",
+        "en": "María del Carmen Abascal, a Spanish pensioner known widely as Maricarmen, died suddenly on Wednesday, two weeks after she was evicted from her apartment. Her death is set to reinvigorate the protest movement and further polarize Spain ahead of a national election next month, in which housing will be a central issue."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Maricarmen Abascal",
+        "Maricarmen",
+        "Madrid",
+        "Spain"
+      ],
+      "geo": {
+        "lat": 40.5,
+        "lon": -3.7,
+        "region": "Europa"
+      },
+      "impacto": 95,
+      "fuentes": [
+        "ev_d1bcc7e2b9",
+        "ev_eddca4de53",
+        "ev_2e1870d83a",
+        "ev_206b3554c6",
+        "ev_cd16773c61",
+        "ev_1875b7c5de"
+      ],
+      "cluster_id": "cl_073",
+      "imagenes": [
+        "https://s.rfi.fr/media/display/b06cbb32-c2ee-11f1-9b10-4b195755b8ed/w:1024/p:16x9/000-D2JW84G.jpg",
+        "https://static01.nyt.com/images/2026/10/08/multimedia/08Int-SPAIN-PROTEST-jhlq/08Int-SPAIN-PROTEST-jhlq-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d1bcc7e2b9",
+          "titulo": "Emoción en España tras la muerte de Maricarmen Abascal, símbolo de la crisis de la vivienda",
+          "url": "https://www.rfi.fr/es/europa/20261008-emoci%C3%B3n-en-espa%C3%B1a-tras-la-muerte-de-maricarmen-abascal-s%C3%ADmbolo-de-la-crisis-de-la-vivienda",
+          "fuente": "RFI Espanol",
+          "fecha": "Thu, 08 Oct 2026 10:22:19 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_eddca4de53",
+          "titulo": "España: Manifestantes en Madrid lloran a la jubilada desahuciada Maricarmen Abascal",
+          "url": "https://es.euronews.com/video/2026/10/09/espana-manifestantes-en-madrid-lloran-a-la-jubilada-desahuciada-maricarmen-abascal",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 09 Oct 2026 14:34:10 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_2e1870d83a",
+          "titulo": "España guarda un minuto de silencio por Maricarmen mientras continúan las protestas por la vivienda",
+          "url": "https://es.euronews.com/2026/10/09/espana-guarda-un-minuto-de-silencio-por-maricarmen-mientras-continuan-las-protestas-por-la",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 09 Oct 2026 17:31:58 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_206b3554c6",
+          "titulo": "Spain’s Protesters See ‘Madness’ of Rising Rent and a ‘Martyr’ in Maricarmen",
+          "url": "https://www.nytimes.com/2026/10/08/world/europe/spain-protests-maricarmen-housing.html",
+          "fuente": "NYT World",
+          "fecha": "Thu, 08 Oct 2026 21:27:06 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cd16773c61",
+          "titulo": "Spain: Madrid protesters mourn evicted pensioner Maricarmen Abascal",
+          "url": "https://www.euronews.com/video/2026/10/09/spain-madrid-protesters-mourn-evicted-pensioner-maricarmen-abascal",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 09 Oct 2026 14:32:25 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1875b7c5de",
+          "titulo": "Spanish pensioner Maricarmen, symbol of country's housing crisis, dead at 87",
+          "url": "https://www.cbc.ca/news/world/spain-maricarmen-death-housing-crisis-9.7373813?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Thu, 08 Oct 2026 10:04:12 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-10_0003",
+      "fecha": "2026-10-10",
       "kardashev": "K1",
       "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "La Casa Blanca acusa a Microsoft de hacer fraude con las visas H1B para contratar profesionales extranjeros",
+        "en": "Trump Media advisor Katie Zacharia offered White House press secretary role"
+      },
+      "sintesis": {
+        "es": "El programa de visados H1B ha permitido durante años a las empresas tecnológicas estadounidenses contratar a trabajadores altamente cualificados del extranjero.",
+        "en": "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC."
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "Casa Blanca",
+        "Katie Zacharia",
+        "White House",
+        "Microsoft"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 78,
+      "fuentes": [
+        "ev_db9fc60367",
+        "ev_7394a7b2f7",
+        "ev_a7c85c41b1",
+        "ev_bf0bbe9f08"
+      ],
+      "cluster_id": "cl_020",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a93e/live/8a6809a0-c375-11f1-9af3-77b208f4c57e.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/09/17915726612652.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b258/live/476d9530-c414-11f1-9a39-31b474234113.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_db9fc60367",
+          "titulo": "La Casa Blanca acusa a Microsoft de hacer fraude con las visas H1B para contratar profesionales extranjeros",
+          "url": "https://www.bbc.com/mundo/articles/cmx2q7jx3jn8o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Fri, 09 Oct 2026 00:19:28 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_7394a7b2f7",
+          "titulo": "La comentarista conservadora Katie Zacharia será la nueva portavoz de la Casa Blanca",
+          "url": "https://www.elmundo.es/internacional/2026/10/09/6ac93ae8e9cf4a560c8b457c.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 09 Oct 2026 21:08:13 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_a7c85c41b1",
+          "titulo": "Commentator Katie Zacharia picked as new White House press secretary",
+          "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 09 Oct 2026 22:41:21 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_bf0bbe9f08",
+          "titulo": "Trump Media advisor Katie Zacharia offered White House press secretary role",
+          "url": "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Fri, 09 Oct 2026 19:25:28 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-10_0004",
+      "fecha": "2026-10-10",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "La tormenta tropical Simon pasa a ser un huracán de categoría 4 y apunta hacia México",
+        "en": "Hurricane Simon forecast to get much stronger as it heads to Mexico's Pacific Coast"
+      },
+      "sintesis": {
+        "es": "La tormenta tropical Simon pasa a ser un huracán de categoría 4. Golpeará la costa oeste de México, especialmente en las regiones noroeste y suroeste de Jalisco y en Colima.",
+        "en": "Hurricane Simon was headed toward part of Mexico's Pacific Coast on Friday and forecast to get much stronger, leading to hurricane-force winds and torrential rains that could cause flooding and mudslides."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Simon",
+        "Mexico",
+        "Hurricane Simon",
+        "Pacific Coast"
+      ],
+      "geo": {
+        "lat": 23.6,
+        "lon": -102.5,
+        "region": "Norteamerica"
+      },
+      "impacto": 76,
+      "fuentes": [
+        "ev_be3b4ddb16",
+        "ev_f71b3ca385",
+        "ev_4cecf73d71",
+        "ev_70c65c812c"
+      ],
+      "cluster_id": "cl_008",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1623/live/9bd98470-c41f-11f1-9462-0fb8e72a616b.png"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_be3b4ddb16",
+          "titulo": "Simon se fortalece en el Pacífico y se prevé que toque tierra en las costas de México como potente huracán durante el fin de semana",
+          "url": "https://www.bbc.com/mundo/articles/c6vg0ep71pxmo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Fri, 09 Oct 2026 21:17:25 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f71b3ca385",
+          "titulo": "La tormenta tropical Simon pasa a ser un huracán de categoría 4 y apunta hacia México",
+          "url": "https://es.euronews.com/2026/10/10/la-tormenta-tropical-simon-pasa-a-ser-un-huracan-de-categoria-4-y-apunta-hacia-mexico",
+          "fuente": "Euronews Espanol",
+          "fecha": "Sat, 10 Oct 2026 10:09:39 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_4cecf73d71",
+          "titulo": "Hurricane Simon forecast to get much stronger as it heads to Mexico's Pacific Coast",
+          "url": "https://www.cbc.ca/news/science/hurricane-simon-oct-9-9.7375303?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 09 Oct 2026 07:36:57 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_70c65c812c",
+          "titulo": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
+          "url": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Fri, 09 Oct 2026 17:12:17 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-10_0005",
+      "fecha": "2026-10-10",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-10_0006",
+        "nd_2026-10-10_0012"
+      ]
     },
     {
       "titulo": {
@@ -290,7 +675,7 @@
         "es": "El fenómeno de El Niño de 2026-2027 podría convertirse en uno de los más intensos de los que se tiene constancia. En América Latina y el Caribe, unos 41 millones de niños y niñas vivirán entre octubre y diciembre en zonas donde se esperan lluvias muy por encima o por debajo de lo habitual. En partes de Centroamérica, el Caribe y el norte de Sudamérica, sus efectos empiezan a superponerse a una situación ya marcada por pérdidas de cosechas, escasez de agua e inseguridad alimentaria.",
         "en": "El fenómeno de El Niño de 2026-2027 podría convertirse en uno de los más intensos de los que se tiene constancia. En América Latina y el Caribe, unos 41 millones de niños y niñas vivirán entre octubre y diciembre en zonas donde se esperan lluvias muy por encima o por debajo de lo habitual. En partes de Centroamérica, el Caribe y el norte de Sudamérica, sus efectos empiezan a superponerse a una situación ya marcada por pérdidas de cosechas, escasez de agua e inseguridad alimentaria."
       },
-      "categoria": "geopolitica",
+      "categoria": "clima",
       "actores": [
         "Latina",
         "Piero",
@@ -302,22 +687,20 @@
         "lon": -77.0,
         "region": "Norteamerica"
       },
-      "impacto": 83,
+      "impacto": 68,
       "fuentes": [
         "ev_a10bc13698",
         "ev_d59780fd54",
-        "ev_c3271d0b1e",
         "ev_25ae3651f8",
-        "ev_cfe2011488",
         "ev_5baacb5b23",
         "ev_9247a039ff"
       ],
-      "cluster_id": "cl_017",
+      "cluster_id": "cl_025",
       "imagenes": [
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/27aa/live/0b47f2a0-c29b-11f1-9d38-a3415863776d.jpg",
         "https://s.rfi.fr/media/display/87c06d94-c309-11f1-9df6-4b195755b8ed/w:1024/p:16x9/Piero-por-la-paz.jpg",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f268/live/b2e0c3a0-bdde-11f1-88d5-b903d805bdb1.jpg",
-        "https://imagenes.elpais.com/resizer/v2/FA4PNHYCZRDW5BFMU7A4ZUXY6A.jpg?auth=4e1afa33bb1c49e616329fc46d33bc5dd10923d57912791410fbaf63aa27ae70"
+        "https://imagenes.elpais.com/resizer/v2/FA4PNHYCZRDW5BFMU7A4ZUXY6A.jpg?auth=4e1afa33bb1c49e616329fc46d33bc5dd10923d57912791410fbaf63aa27ae70",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/09-06-2022_UNSPLASH_Arturo_Rivera_Guatemala.jpg/image560x340cropped.jpg"
       ],
       "estado": "verificado",
       "referencias": [
@@ -338,27 +721,11 @@
           "idioma": "es"
         },
         {
-          "id": "ev_c3271d0b1e",
-          "titulo": "Qué tiene Chapinero Alto en Bogotá para que lo hayan elegido como el barrio más cool de América Latina",
-          "url": "https://www.bbc.com/mundo/articles/c60qxqeyx8xjo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Tue, 06 Oct 2026 11:18:25 GMT",
-          "idioma": "es"
-        },
-        {
           "id": "ev_25ae3651f8",
           "titulo": "La ola conservadora de América Latina llega a Brasil",
           "url": "https://elpais.com/america/2026-10-05/la-ola-conservadora-de-america-latina-llega-a-brasil.html",
           "fuente": "El Pais Internacional",
           "fecha": "Mon, 05 Oct 2026 19:41:48 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_cfe2011488",
-          "titulo": "¿Por qué la guerra en Medio Oriente sigue disparando la inflación en países de América Latina?",
-          "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261008-por-qu%C3%A9-la-guerra-en-medio-oriente-sigue-disparando-la-inflaci%C3%B3n-en-pa%C3%ADses-de-am%C3%A9rica-latina",
-          "fuente": "France 24 Espanol",
-          "fecha": "Thu, 08 Oct 2026 20:07:34 GMT",
           "idioma": "es"
         },
         {
@@ -378,795 +745,158 @@
           "idioma": "es"
         }
       ],
-      "id": "nd_2026-10-09_0002",
-      "fecha": "2026-10-09",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "California vota por un impuesto a las grandes fortunas: ¿fuga de millonarios?",
-        "en": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high"
-      },
-      "sintesis": {
-        "es": "En nuestra sección 'En Contexto' revisamos cómo los californianos se encaminan a votar un impuesto a las grandes fortunas el próximo 3 de noviembre. Se trata de la Proposición 40, que plantea un impuesto único del 5% sobre el patrimonio de los multimillonarios del estado. La propuesta busca hacer frente a los recortes de presupuesto del republicano Donald Trump.",
-        "en": "Researchers say stress on Southern California’s San Andreas and San Jacinto faults has reached some of the highest levels seen in a 1,000-year simulation. Because both faults are highly stressed at the same time, the Cajon Pass junction may be increasingly primed for a rupture that could cross both systems, although the study does not predict when an earthquake will happen."
-      },
-      "categoria": "ciencia",
-      "actores": [
-        "California",
-        "Scientists"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 78,
-      "fuentes": [
-        "ev_8b9a2e053c",
-        "ev_7a540c3680",
-        "ev_400c03236f",
-        "ev_8c806c31f7",
-        "ev_c82e6e83e0",
-        "ev_f2139edcde"
-      ],
-      "cluster_id": "cl_016",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4102/live/be6f94a0-c228-11f1-b7d8-6f930589c871.jpg",
-        "https://s.france24.com/media/display/e569e536-c35b-11f1-b89a-4b195755b8ed/w:1024/p:16x9/2026-10-08T194237Z-902823934-RC27ZNAEHPW8-RTRMADP-3-USA-TRUMP.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_8b9a2e053c",
-          "titulo": "La \"casa del horror\": la pareja acusada en California de abusar en su mansión a al menos 14 niños nacidos mediante gestación subrogada",
-          "url": "https://www.bbc.com/mundo/articles/c84g1xexzkxdo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Wed, 07 Oct 2026 16:38:07 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_7a540c3680",
-          "titulo": "California vota por un impuesto a las grandes fortunas: ¿fuga de millonarios?",
-          "url": "https://www.france24.com/es/programas/en-contexto/20261008-california-vota-por-un-impuesto-a-las-grandes-fortunas-fuga-de-millonarios",
-          "fuente": "France 24 Espanol",
-          "fecha": "Thu, 08 Oct 2026 21:06:46 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_400c03236f",
-          "titulo": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Fri, 02 Oct 2026 00:58:10 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_8c806c31f7",
-          "titulo": "Scientists just made a superconductor stronger using “empty space”",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Sat, 03 Oct 2026 08:03:23 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c82e6e83e0",
-          "titulo": "Scientists just pushed superconductors beyond their usual current limit",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260930225452.htm",
-          "fuente": "ScienceDaily",
-          "fecha": "Fri, 02 Oct 2026 07:08:12 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f2139edcde",
-          "titulo": "California is trying to shut down robot vs. human cage matches",
-          "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-          "fuente": "The Verge",
-          "fecha": "",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-09_0003",
-      "fecha": "2026-10-09",
+      "id": "nd_2026-10-10_0006",
+      "fecha": "2026-10-10",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-10-09_0012"
+        "nd_2026-10-10_0005",
+        "nd_2026-10-10_0012"
       ]
     },
     {
       "titulo": {
-        "es": "Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y escalan la guerra en Yemen",
-        "en": "Houthi attacks on Riyadh airport kill three as Yemen war escalates"
+        "es": "What's behind the recovery rally in tech stocks — plus, Elon Musk's very good week",
+        "en": "What's behind the recovery rally in tech stocks — plus, Elon Musk's very good week"
       },
       "sintesis": {
-        "es": "Los hutíes, respaldados por Irán, atacaron con misiles el aeropuerto internacional King Khalid de Riad y otros aeropuertos saudíes, matando a tres personas e hiriendo a varias más, en el ataque más letal en Arabia Saudí desde que el reino lanzó una ofensiva militar contra el grupo yemení. Los ataques dañaron un avión de Saudia, provocaron la cancelación masiva de vuelos y ocurren días antes de una importante cumbre petrolera en la capital saudí. La coalición liderada por Arabia Saudí prometió una respuesta firme ante la creciente sofisticación de los ataques hutíes, en medio de una escalada vinculada al conflicto entre EE.UU. e Irán.",
-        "en": "Iran-backed Houthi forces launched missile attacks on Riyadh's King Khalid International Airport and other Saudi airports, killing three people and wounding several others, marking the deadliest attack in Saudi Arabia since the kingdom launched a military offensive against the Yemeni group. The strikes damaged a Saudia aircraft, triggered mass flight cancellations, and occurred days before a major oil summit in the Saudi capital. The Saudi-led coalition vowed a firm response amid escalating, increasingly sophisticated Houthi strikes linked to the broader US-Iran conflict."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Hutíes",
-        "Arabia Saudí",
-        "Irán",
-        "Yemen",
-        "Estados Unidos"
-      ],
-      "geo": {
-        "lat": 24.9578,
-        "lon": 46.6989,
-        "region": "Riad, Arabia Saudí"
-      },
-      "impacto": 78,
-      "fuentes": [
-        "ev_8a9bb42729",
-        "ev_ba2b12de0c",
-        "ev_704aedbd89",
-        "ev_287ba93afb",
-        "ev_50613dff44",
-        "ev_199ad5bf55",
-        "ev_fc2369c7b4"
-      ],
-      "cluster_id": "cl_167",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f053/live/449a1890-c3c1-11f1-9a39-31b474234113.jpg",
-        "https://i.guim.co.uk/img/media/2cbce45dc97ef52eb8b8297b6c20899aeadce0a5/0_478_794_634/master/794.jpg?width=140&quality=85&auto=format&fit=max&s=f4e785003c5d3f74bf4134bc0255eb6a",
-        "https://s.france24.com/media/display/6f388126-c3cc-11f1-b5d7-f50f6d982dc3/w:1024/p:16x9/EN-20261009-101050-101225-CS.jpg",
-        "https://static01.nyt.com/images/2026/10/09/multimedia/09int-saudi-yemen-02-gzmw/09int-saudi-yemen-02-gzmw-mediumSquareAt3X-v2.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_8a9bb42729",
-          "titulo": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-          "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 09 Oct 2026 10:07:04 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ba2b12de0c",
-          "titulo": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
-          "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 09 Oct 2026 09:47:10 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_704aedbd89",
-          "titulo": "Houthi strikes on Riyadh airport killed three Saudis as war escalates",
-          "url": "https://www.france24.com/en/video/20261009-houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 09 Oct 2026 10:37:37 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_287ba93afb",
-          "titulo": "Houthi Attacks on Riyadh Airport Leave 3 Dead, Saudi Arabia Says",
-          "url": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 09 Oct 2026 10:56:59 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_50613dff44",
-          "titulo": "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
-          "url": "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Fri, 09 Oct 2026 10:37:42 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_199ad5bf55",
-          "titulo": "Houthi Attacks on Saudi Airports Prompt Mass Cancellations",
-          "url": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 08 Oct 2026 18:17:07 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_fc2369c7b4",
-          "titulo": "3 Killed and Dozens Injured in Attacks on Saudi Airports, as Houthis Claim Strikes",
-          "url": "https://www.nytimes.com/2026/10/07/world/middleeast/saudi-arabia-airports-houthis.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 08 Oct 2026 08:33:45 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-09_0004",
-      "fecha": "2026-10-09",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-09_0005"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Maduro y su esposa enfrentan nuevos cargos de tortura en EE.UU. mientras se deteriora la relación Venezuela-Cuba",
-        "en": "Maduro and wife face new US torture charges as Venezuela-Cuba relations deteriorate"
-      },
-      "sintesis": {
-        "es": "Nueve meses después de su captura en una operación militar estadounidense, el expresidente venezolano Nicolás Maduro y su esposa Cilia Flores, detenidos en Nueva York, fueron acusados formalmente de conspiración para cometer tortura contra ciudadanos estadounidenses detenidos en Venezuela, incluyendo waterboarding, violación y golpizas. Estos cargos se suman a los previos de narcotráfico y tenencia de armas, mientras la solicitud de libertad condicional de Flores fue rechazada por un juez federal. Paralelamente, se observa un debilitamiento de la histórica alianza estratégica entre los gobiernos de Venezuela y Cuba tras la caída de Maduro.",
-        "en": "Nine months after his capture in a US military operation, former Venezuelan president Nicolás Maduro and his wife Cilia Flores, held in New York, have been formally charged with conspiracy to commit torture against US citizens detained in Venezuela, including waterboarding, rape and beatings. These charges add to prior drug trafficking and firearms accusations, while Flores' request for pretrial release was denied by a federal judge. Meanwhile, the decades-long strategic alliance between Venezuela and Cuba shows signs of weakening following Maduro's downfall."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Nicolás Maduro",
-        "Cilia Flores",
-        "Estados Unidos",
-        "Venezuela",
-        "Cuba",
-        "Juez Alvin Hellerstein"
-      ],
-      "geo": {
-        "lat": 40.7128,
-        "lon": -74.006,
-        "region": "Nueva York, Estados Unidos / Venezuela"
-      },
-      "impacto": 72,
-      "fuentes": [
-        "ev_3f1b9926b3",
-        "ev_ba92df2776",
-        "ev_f10abab773",
-        "ev_ead168ce36",
-        "ev_c962b0bbab",
-        "ev_4ef35f7652",
-        "ev_ab0be14867",
-        "ev_59ca683e2e",
-        "ev_2e87b736d6",
-        "ev_eeb0ac2676"
-      ],
-      "cluster_id": "cl_020",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9cee/live/3197e9f0-c1ca-11f1-b8a9-47f21beea0a3.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcd9/live/df938ae0-c329-11f1-9981-cf94ea240e40.jpg",
-        "https://i.guim.co.uk/img/media/70b1767069c0df5b2fa1c5751b7b2cb91f75fe37/139_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=8b41a2a9c969f2b18a24f0ef722086d5",
-        "https://s.france24.com/media/display/98c20c5a-c337-11f1-a0bd-f50f6d982dc3/w:1024/p:16x9/2be2ec58aeeef8ac14d762080f9c1624a8e8fcec.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_3f1b9926b3",
-          "titulo": "Cómo se ha degradado la \"relación estratégica\" que mantienen Venezuela y Cuba desde hace años tras la captura de Maduro",
-          "url": "https://www.bbc.com/mundo/articles/c5dj4j739013o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Wed, 07 Oct 2026 11:40:15 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_ba92df2776",
-          "titulo": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-          "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 08 Oct 2026 17:38:59 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f10abab773",
-          "titulo": "Nicolás Maduro and his wife indicted for alleged torture of US citizens",
-          "url": "https://www.theguardian.com/world/2026/oct/08/cilia-flores-nicolas-maduro-new-york-court",
-          "fuente": "The Guardian World",
-          "fecha": "Thu, 08 Oct 2026 18:04:16 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ead168ce36",
-          "titulo": "US files new torture charges against Venezuela's Nicolas Maduro and wife Cilia Flores",
-          "url": "https://www.france24.com/en/americas/20261008-us-files-new-torture-charges-venezuela-nicolas-maduro-cilia-flores",
-          "fuente": "France 24 English",
-          "fecha": "Thu, 08 Oct 2026 23:56:36 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c962b0bbab",
-          "titulo": "Venezuela's Nicolas Maduro and wife face new charges",
-          "url": "https://news.sky.com/story/venezuelas-nicolas-maduro-and-wife-facing-torture-charges-13596583",
-          "fuente": "Sky News World",
-          "fecha": "Thu, 08 Oct 2026 16:29:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_4ef35f7652",
-          "titulo": "Ousted Venezuelan president Nicolás Maduro, wife Celia Flores charged with torture in new indictment",
-          "url": "https://www.cbc.ca/news/world/livestory/maduro-flores-charges-venezuela-us-9.7373745?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Thu, 08 Oct 2026 10:04:14 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ab0be14867",
-          "titulo": "Nicolás Maduro y Cilia Flores, acusados en EE UU de nuevos cargos de tortura y represión",
-          "url": "https://elpais.com/us/2026-10-08/nicolas-maduro-y-cilia-flores-son-acusados-en-ee-uu-de-nuevos-cargos-de-tortura-y-represion.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Thu, 08 Oct 2026 15:20:51 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_59ca683e2e",
-          "titulo": "Maduro y Flores son acusados por EE. UU. de conspiración para cometer torturas",
-          "url": "https://www.france24.com/es/video/20261009-maduro-y-flores-son-acusados-por-ee-uu-de-conspiraci%C3%B3n-para-cometer-torturas",
-          "fuente": "France 24 Espanol",
-          "fecha": "Fri, 09 Oct 2026 03:57:34 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_2e87b736d6",
-          "titulo": "Maduro y Cilia Flores, acusados en EE. UU. de conspirar para torturar a opositores",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20261009-maduro-y-cilia-flores-acusados-en-ee-uu-de-conspirar-para-torturar-a-opositores",
-          "fuente": "RFI Espanol",
-          "fecha": "Fri, 09 Oct 2026 08:52:53 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_eeb0ac2676",
-          "titulo": "Maduro y Cilia Flores serán acusados de presuntas torturas a estadounidenses, según la CNN",
-          "url": "https://www.elmundo.es/internacional/2026/10/08/6ac731e8e9cf4a19438b457b.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 08 Oct 2026 08:19:41 +0200",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-10-09_0005",
-      "fecha": "2026-10-09",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-09_0004"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Miles marchan en Madrid tras la muerte de la pensionista desahuciada Maricarmen",
-        "en": "Thousands march in Madrid after death of evicted pensioner Maricarmen"
-      },
-      "sintesis": {
-        "es": "Decenas de miles de personas marcharon en Madrid en memoria de María del Carmen Abascal, una pensionista de 87 años cuyo desahucio por parte de una firma de inversión que buscaba subirle el alquiler un 230% se convirtió en símbolo de la crisis de vivienda en España. Abascal murió en el hospital poco después de su desalojo, lo que intensificó las protestas y llevó al gobierno a convocar elecciones anticipadas.",
-        "en": "Tens of thousands marched in Madrid in memory of María del Carmen Abascal, an 87-year-old pensioner whose eviction by an investment firm seeking to raise her rent by 230% became a symbol of Spain's housing crisis. Abascal died in hospital shortly after her eviction, intensifying protests and prompting the government to call early elections."
+        "es": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+        "en": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading."
       },
       "categoria": "sociedad",
       "actores": [
-        "María del Carmen Abascal",
-        "Gobierno de España",
-        "Manifestantes de Madrid",
-        "Firma de inversión inmobiliaria"
+        "Elon Musk",
+        "Starlink",
+        "Musk",
+        "Indian"
       ],
       "geo": {
-        "lat": 40.4168,
-        "lon": -3.7038,
-        "region": "Madrid, España"
+        "lat": 20.6,
+        "lon": 79.0,
+        "region": "Asia Meridional"
       },
-      "impacto": 62,
+      "impacto": 66,
       "fuentes": [
-        "ev_675c49bd45",
-        "ev_dd4a8eb324",
-        "ev_206b3554c6"
+        "ev_7f67de7657",
+        "ev_c817f33436",
+        "ev_f263eb08d5",
+        "ev_d06e3b59d8"
       ],
-      "cluster_id": "cl_203",
+      "cluster_id": "cl_215",
       "imagenes": [
-        "https://i.guim.co.uk/img/media/29a5ba465ff36d69d63dc2586714066d52555c18/653_459_2343_1874/master/2343.jpg?width=140&quality=85&auto=format&fit=max&s=563528ad9af0e3bfab24c44c55a9f956",
-        "https://s.france24.com/media/display/56551082-c3ab-11f1-902b-f50f6d982dc3/w:1024/p:16x9/2026-10-08T183913Z-944686721-RC26ZNABD0G8-RTRMADP-3-SPAIN-HOUSING-MARICARMEN-PROTEST.jpg",
-        "https://static01.nyt.com/images/2026/10/08/multimedia/08Int-SPAIN-PROTEST-jhlq/08Int-SPAIN-PROTEST-jhlq-mediumSquareAt3X.jpg"
+        "https://cdn.arstechnica.net/wp-content/uploads/2025/10/starlink-dominance-1152x648.jpg",
+        "https://media.wired.com/clips/6ac66f9536a7c6731ae53916/master/pass/Spend-Elon-Musks-money-site.mp4"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_675c49bd45",
-          "titulo": "Thousands march in Madrid after death of evicted pensioner Maricarmen",
-          "url": "https://www.theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen",
-          "fuente": "The Guardian World",
-          "fecha": "Thu, 08 Oct 2026 20:11:34 GMT",
+          "id": "ev_7f67de7657",
+          "titulo": "Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 10 Oct 2026 02:35:28 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_dd4a8eb324",
-          "titulo": "Tens of thousands march in Madrid to mourn pensioner whose eviction sparked housing protests",
-          "url": "https://www.france24.com/en/europe/20261009-tens-of-thousands-march-in-madrid-to-mourn-pensioner-whose-eviction-sparked-housing-protests",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 09 Oct 2026 06:45:35 GMT",
+          "id": "ev_c817f33436",
+          "titulo": "Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon",
+          "url": "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
+          "fuente": "Ars Technica",
+          "fecha": "Fri, 09 Oct 2026 18:24:39 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_206b3554c6",
-          "titulo": "Spain’s Protesters See ‘Madness’ of Rising Rent and a ‘Martyr’ in Maricarmen",
-          "url": "https://www.nytimes.com/2026/10/08/world/europe/spain-protests-maricarmen-housing.html",
-          "fuente": "NYT World",
-          "fecha": "Thu, 08 Oct 2026 21:27:06 +0000",
+          "id": "ev_f263eb08d5",
+          "titulo": "Spend Elon Musk’s Money",
+          "url": "https://www.wired.com/story/spend-elon-musk-money/",
+          "fuente": "WIRED",
+          "fecha": "Thu, 08 Oct 2026 11:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d06e3b59d8",
+          "titulo": "What's behind the recovery rally in tech stocks — plus, Elon Musk's very good week",
+          "url": "https://www.cnbc.com/investingclub/2026/10/09/whats-behind-the-recovery-rally-in-tech-stocks-plus-musks-good-week.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Fri, 09 Oct 2026 19:02:29 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-09_0006",
-      "fecha": "2026-10-09",
-      "kardashev": "K1",
-      "relaciones": []
+      "id": "nd_2026-10-10_0007",
+      "fecha": "2026-10-10",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-10-10_0001",
+        "nd_2026-10-10_0002"
+      ]
     },
     {
       "titulo": {
-        "es": "SpaceX announces plan to become a ‘major mobile carrier’",
-        "en": "SpaceX announces plan to become a ‘major mobile carrier’"
+        "es": "The U.S. plans to livestream an execution. Here's how that compares to global practice",
+        "en": "The U.S. plans to livestream an execution. Here's how that compares to global practice"
       },
       "sintesis": {
-        "es": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mobile constellation with a […]",
-        "en": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mobile constellation with a […]"
+        "es": "For about nine decades, executions in the U.S. have been private affairs, often shrouded in secrecy. If carried out as planned, death penalty experts said it would mark the first known broadcast or livestream of a lawful execution.",
+        "en": "For about nine decades, executions in the U.S. have been private affairs, often shrouded in secrecy. If carried out as planned, death penalty experts said it would mark the first known broadcast or livestream of a lawful execution."
       },
       "categoria": "economia",
       "actores": [
-        "SpaceX",
-        "Verizon",
-        "Starlink",
-        "Mobile"
+        "Here",
+        "Apple"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 61,
-      "fuentes": [
-        "ev_ce31b991b2",
-        "ev_37ea608a28",
-        "ev_02fed92d1b",
-        "ev_d28b6e7f74"
-      ],
-      "cluster_id": "cl_460",
-      "imagenes": [
-        "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starshipflight14_deploy-1152x648-1791410362.jpg",
-        "https://images.mktw.net/im-62600133"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ce31b991b2",
-          "titulo": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
-          "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
-          "fuente": "Ars Technica",
-          "fecha": "Thu, 08 Oct 2026 21:37:32 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_37ea608a28",
-          "titulo": "SpaceX announces plan to become a ‘major mobile carrier’",
-          "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
-          "fuente": "The Verge",
-          "fecha": "",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_02fed92d1b",
-          "titulo": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
-          "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Thu, 08 Oct 2026 22:55:46 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d28b6e7f74",
-          "titulo": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
-          "url": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Fri, 09 Oct 2026 00:52:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-09_0007",
-      "fecha": "2026-10-09",
-      "kardashev": "K2",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "How the card surcharge ban could change our relationship with cash",
-        "en": "How the card surcharge ban could change our relationship with cash"
-      },
-      "sintesis": {
-        "es": "Some businesses are offering customer discounts for the use of cash after the Reserve Bank of Australia banned card surcharges. But it's unlikely to return cash to the preferred type of payment.",
-        "en": "Some businesses are offering customer discounts for the use of cash after the Reserve Bank of Australia banned card surcharges. But it's unlikely to return cash to the preferred type of payment."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Singapore"
-      ],
-      "geo": {
-        "lat": -25.3,
-        "lon": 133.8,
-        "region": "Oceania"
-      },
       "impacto": 58,
       "fuentes": [
-        "ev_9cab326f0d",
-        "ev_c30cb8c0f3",
-        "ev_dee230ff50",
-        "ev_38fcd20805"
+        "ev_717e50485e",
+        "ev_75eb26c852",
+        "ev_2cf51b482c",
+        "ev_25fac887d7"
       ],
-      "cluster_id": "cl_187",
+      "cluster_id": "cl_231",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9997/live/310516d0-c22d-11f1-bc2e-018d645d8d21.jpg",
-        "https://images.mktw.net/im-77743573"
+        "https://images.mktw.net/im-34379825"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_9cab326f0d",
-          "titulo": "How toxic haze is causing Singapore’s landmarks to disappear",
-          "url": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Wed, 07 Oct 2026 22:10:20 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c30cb8c0f3",
-          "titulo": "From barbershops to nature courses: How community-driven campaigns are rethinking men’s mental health",
-          "url": "https://www.euronews.com/2026/10/09/from-barbershops-to-nature-courses-how-community-driven-campaigns-are-rethinking-mens-ment",
-          "fuente": "Euronews English",
-          "fecha": "Fri, 09 Oct 2026 06:53:43 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_dee230ff50",
-          "titulo": "How the card surcharge ban could change our relationship with cash",
-          "url": "https://www.abc.net.au/news/2026-10-09/card-surcharge-ban-cash-use-australia/107239200",
-          "fuente": "ABC News Australia",
-          "fecha": "Fri, 09 Oct 2026 05:01:57 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_38fcd20805",
-          "titulo": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
-          "url": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Fri, 09 Oct 2026 00:03:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-09_0008",
-      "fecha": "2026-10-09",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia",
-        "en": "Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia"
-      },
-      "sintesis": {
-        "es": "Las autoridades rusas afirmaron este miércoles 7 de octubre que no existe \"ningún riesgo epidémico\" en Siberia tras la muerte de una técnica de laboratorio de un instituto que trabaja con la peste. El Kremlin denuncia \"informaciones falsas\", mientras se multiplican los llamados a una mayor transparencia, especialmente por parte de la OMS, la Unión Europea y Estados Unidos.",
-        "en": "Las autoridades rusas afirmaron este miércoles 7 de octubre que no existe \"ningún riesgo epidémico\" en Siberia tras la muerte de una técnica de laboratorio de un instituto que trabaja con la peste. El Kremlin denuncia \"informaciones falsas\", mientras se multiplican los llamados a una mayor transparencia, especialmente por parte de la OMS, la Unión Europea y Estados Unidos."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Rusia",
-        "Anna Victoria",
-        "Politkovskaya",
-        "Mis"
-      ],
-      "geo": {
-        "lat": 61.5,
-        "lon": 105.3,
-        "region": "Rusia"
-      },
-      "impacto": 56,
-      "fuentes": [
-        "ev_28d91f3605",
-        "ev_05948231ad",
-        "ev_86bef9c34e",
-        "ev_12fe051560",
-        "ev_a648d0bd5e"
-      ],
-      "cluster_id": "cl_074",
-      "imagenes": [
-        "https://s.rfi.fr/media/display/bab8e4c8-c26f-11f1-a1ac-f50f6d982dc3/w:1024/p:16x9/AP26280460606066.jpg",
-        "https://s.rfi.fr/media/display/2d4923a8-c230-11f1-b299-13e372f41e70/w:1024/p:16x9/AP24047638501232.jpg",
-        "https://s.rfi.fr/media/display/b5658b6e-c0cd-11f1-986b-dd51fcab6130/w:1024/p:16x9/AP26278465371553.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/06/17913043761926.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_28d91f3605",
-          "titulo": "Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia",
-          "url": "https://www.rfi.fr/es/europa/20261008-rusia-niega-cualquier-riesgo-epid%C3%A9mico-en-medio-de-llamados-a-la-transparencia",
-          "fuente": "RFI Espanol",
-          "fecha": "Thu, 08 Oct 2026 09:55:41 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_05948231ad",
-          "titulo": "Rusia: solo la caída del régimen permitiría investigar el asesinato de Politkóvskaya, dice su hijo",
-          "url": "https://www.rfi.fr/es/europa/20261007-rusia-solo-la-ca%C3%ADda-del-r%C3%A9gimen-permitir%C3%ADa-investigar-el-asesinato-de-politk%C3%B3vskaya-dice-su-hijo",
-          "fuente": "RFI Espanol",
-          "fecha": "Wed, 07 Oct 2026 12:55:19 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_86bef9c34e",
-          "titulo": "EE. UU analiza \"seriamente\" el posible caso de peste en Rusia",
-          "url": "https://www.rfi.fr/es/ciencia/20261007-ee-uu-analiza-seriamente-el-posible-caso-de-peste-en-rusia",
-          "fuente": "RFI Espanol",
-          "fecha": "Wed, 07 Oct 2026 13:42:00 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_12fe051560",
-          "titulo": "El cáncer, a la cola del presupuesto ruso: recortes drásticos a la oncología en Rusia",
-          "url": "https://es.euronews.com/2026/10/09/el-cancer-a-la-cola-del-presupuesto-ruso-recortes-drasticos-a-la-oncologia-en-rusia",
-          "fuente": "Euronews Espanol",
-          "fecha": "Fri, 09 Oct 2026 10:49:54 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_a648d0bd5e",
-          "titulo": "Anna Victoria Politkovskaya: \"Mis compañeros me dijeron que acabaría como mi abuela si no me iba de Rusia\"",
-          "url": "https://www.elmundo.es/internacional/2026/10/07/6ac51bafe4d4d8ba278b4583.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Wed, 07 Oct 2026 20:23:16 +0200",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-10-09_0009",
-      "fecha": "2026-10-09",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Anne Carson gana el Premio Nobel de Literatura 2026",
-        "en": "Anne Carson wins the 2026 Nobel Prize in Literature"
-      },
-      "sintesis": {
-        "es": "La Academia Sueca otorgó el Premio Nobel de Literatura 2026 a la poeta, ensayista y traductora canadiense Anne Carson, de 76 años, reconociendo su obra 'audaz e inventiva' que dialoga con la tradición clásica para crear nuevas formas literarias contemporáneas. Su trabajo, que cruza fronteras entre poesía, ficción y erudición académica, incluye obras como 'Autobiography of Red'. El anuncio generó reacciones de celebración entre escritores como Margaret Atwood.",
-        "en": "The Swedish Academy awarded the 2026 Nobel Prize in Literature to Canadian poet, essayist and translator Anne Carson, 76, recognizing her 'bold and inventive' work that engages in playful dialogue with classical tradition to create new literary forms. Her genre-crossing body of work, blending poetry, fiction and scholarship, includes titles such as 'Autobiography of Red'. The announcement drew celebratory reactions from writers including Margaret Atwood."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Anne Carson",
-        "Academia Sueca",
-        "Margaret Atwood"
-      ],
-      "geo": {
-        "lat": 59.3293,
-        "lon": 18.0686,
-        "region": "Estocolmo, Suecia"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_eeb6bbc9e2",
-        "ev_75951196bc",
-        "ev_3098a29208",
-        "ev_5357a8d87a",
-        "ev_9bcfa214d0",
-        "ev_ce491d48be"
-      ],
-      "cluster_id": "cl_010",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/994e/live/76bd9150-c324-11f1-bd97-fbe5a3482cde.jpg",
-        "https://s.rfi.fr/media/display/5bba7896-c30b-11f1-b9ac-c55799ef8309/w:1024/p:16x9/2026-10-08T111404Z-1988595644-RC2ZYNAXDP4J-RTRMADP-3-NOBEL-PRIZE-LITERATURE.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1051/live/460511f0-c30b-11f1-babe-4199b0e7ccea.jpg",
-        "https://i.guim.co.uk/img/media/28919243198de2c3b218a2e12c6383ad4ac09ddb/971_354_3933_3146/master/3933.jpg?width=140&quality=85&auto=format&fit=max&s=296efae37396af1312949a08e5a3c9a7"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_eeb6bbc9e2",
-          "titulo": "Quién es Anne Carson, la poeta canadiense que obtuvo el Nobel de Literatura 2026 \"por su obra audaz e inventiva\"",
-          "url": "https://www.bbc.com/mundo/articles/ckm23l8gpvr2o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 08 Oct 2026 11:09:26 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_75951196bc",
-          "titulo": "La escritora canadiense Anne Carson gana el premio Nobel de Literatura",
-          "url": "https://www.rfi.fr/es/cultura/20261008-la-escritora-canadiense-anne-carson-gana-el-premio-nobel-de-literatura",
-          "fuente": "RFI Espanol",
-          "fecha": "Thu, 08 Oct 2026 11:29:00 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_3098a29208",
-          "titulo": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-          "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Thu, 08 Oct 2026 14:33:23 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5357a8d87a",
-          "titulo": "Anne Carson wins Nobel prize in literature 2026",
-          "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
-          "fuente": "The Guardian World",
-          "fecha": "Thu, 08 Oct 2026 14:03:29 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_9bcfa214d0",
-          "titulo": "Canadian poet and author Anne Carson wins Nobel Prize in Literature",
-          "url": "https://www.france24.com/en/tv-shows/arts24/20261009-canadian-poet-and-author-anne-carson-wins-nobel-prize-in-literature",
-          "fuente": "France 24 English",
-          "fecha": "Fri, 09 Oct 2026 08:30:00 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ce491d48be",
-          "titulo": "Nobel Prize Winners Don’t Get a Heads-Up",
-          "url": "https://www.nytimes.com/2026/10/09/world/europe/nobel-prize-winners-phone-call-know.html",
+          "id": "ev_717e50485e",
+          "titulo": "Here’s the latest.",
+          "url": "https://www.nytimes.com/live/2026/10/09/world/india-cjp-cockroach-protest/heres-the-latest",
           "fuente": "NYT World",
-          "fecha": "Fri, 09 Oct 2026 11:12:20 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-09_0010",
-      "fecha": "2026-10-09",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "OpenAI despide a tres investigadores de seguridad en medio de dudas sobre sus ingresos",
-        "en": "OpenAI fires three safety researchers amid questions over revenue"
-      },
-      "sintesis": {
-        "es": "OpenAI despidió a los investigadores Jasmine Wang, Tomek Korbak y Mikita Balesni, alegando una 'violación significativa de confianza' por mal manejo de información sensible, mientras los afectados sostienen que fueron cesados por priorizar la seguridad de la IA. La compañía defendió públicamente su decisión, negando que se tratara de represalias por denunciar preocupaciones de seguridad. Paralelamente, OpenAI reveló que sus proyecciones de ingresos para este año caen a 50.000 millones de dólares, 20.000 millones menos de lo indicado previamente a inversores, lo que genera dudas sobre el ritmo de crecimiento de la demanda de IA.",
-        "en": "OpenAI fired researchers Jasmine Wang, Tomek Korbak and Mikita Balesni, claiming a 'significant breach of trust' over mishandling sensitive information, while the researchers say they were dismissed for prioritizing AI safety. The company publicly defended its decision, denying retaliation for raising safety concerns. Separately, OpenAI revealed its revenue projections for this year have dropped to $50 billion, $20 billion less than previously signaled to investors, raising questions about the pace of AI demand growth."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "OpenAI",
-        "Jasmine Wang",
-        "Tomek Korbak",
-        "Mikita Balesni"
-      ],
-      "geo": {
-        "lat": 37.7749,
-        "lon": -122.4194,
-        "region": "San Francisco, Estados Unidos"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_ccf26dcfb0",
-        "ev_779ce9a561",
-        "ev_d9263fe6e5",
-        "ev_1c3096adb5"
-      ],
-      "cluster_id": "cl_170",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0e/live/a2f6be20-c3c1-11f1-9798-abffda1e61e7.jpg",
-        "https://i.guim.co.uk/img/media/3433ad629edc6fc8336d5bdd159016ad273ae9f8/1094_240_6444_5155/master/6444.jpg?width=140&quality=85&auto=format&fit=max&s=57ceccabd3c84211b27b3fcd5ef6656f"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ccf26dcfb0",
-          "titulo": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-          "url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 09 Oct 2026 09:30:49 GMT",
+          "fecha": "Sat, 10 Oct 2026 09:43:37 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_779ce9a561",
-          "titulo": "OpenAI projected to bring in $20bn less in revenue than expected",
-          "url": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 09 Oct 2026 08:06:09 GMT",
+          "id": "ev_75eb26c852",
+          "titulo": "The U.S. plans to livestream an execution. Here's how that compares to global practice",
+          "url": "https://www.cbc.ca/news/world/us-execution-firing-squad-fort-hood-9.7375621?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 09 Oct 2026 11:35:48 EDT",
           "idioma": "en"
         },
         {
-          "id": "ev_d9263fe6e5",
-          "titulo": "OpenAI doubles down on decision to fire three AI safety researchers",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-          "fuente": "The Verge",
-          "fecha": "",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1c3096adb5",
-          "titulo": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
-          "url": "https://www.cnbc.com/2026/10/09/openai-fired-researchers-ai-concerns.html",
+          "id": "ev_2cf51b482c",
+          "titulo": "The used car market is stagnant. Here's how to profit anyway",
+          "url": "https://www.cnbc.com/2026/10/09/the-used-car-market-is-stagnant-heres-how-to-profit-anyway.html",
           "fuente": "CNBC Top News",
-          "fecha": "Fri, 09 Oct 2026 10:12:53 GMT",
+          "fecha": "Fri, 09 Oct 2026 17:37:31 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_25fac887d7",
+          "titulo": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+          "url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Fri, 09 Oct 2026 21:30:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-09_0011",
-      "fecha": "2026-10-09",
-      "kardashev": "K0",
+      "id": "nd_2026-10-10_0008",
+      "fecha": "2026-10-10",
+      "kardashev": "K1",
       "relaciones": []
     },
     {
@@ -1188,20 +918,24 @@
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 48,
+      "impacto": 57,
       "fuentes": [
         "ev_af66882eca",
+        "ev_c09da9f479",
         "ev_19f1bc245b",
         "ev_a09af3ab8c",
         "ev_3210339b37",
         "ev_c8f6d6788f",
         "ev_179d2e9e83",
         "ev_1bb5aa82c3",
-        "ev_b186d54656"
+        "ev_b186d54656",
+        "ev_8c806c31f7",
+        "ev_c82e6e83e0"
       ],
-      "cluster_id": "cl_191",
+      "cluster_id": "cl_169",
       "imagenes": [
-        "https://i.guim.co.uk/img/media/44734eef89578d79f13141440454c9abeccc49c1/398_0_2263_1812/master/2263.jpg?width=140&quality=85&auto=format&fit=max&s=005c85225cce3ac8004bb44fa50e7820"
+        "https://i.guim.co.uk/img/media/44734eef89578d79f13141440454c9abeccc49c1/398_0_2263_1812/master/2263.jpg?width=140&quality=85&auto=format&fit=max&s=005c85225cce3ac8004bb44fa50e7820",
+        "https://s.france24.com/media/display/cdd5d364-c3e0-11f1-8680-3774aeac812a/w:1024/p:16x9/AP25132558305552.jpg"
       ],
       "estado": "verificado",
       "referencias": [
@@ -1211,6 +945,14 @@
           "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
           "fuente": "The Guardian World",
           "fecha": "Thu, 08 Oct 2026 20:20:31 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c09da9f479",
+          "titulo": "‘So safe you could drink it’: Scientists and pesticide victims fear an EU rollback",
+          "url": "https://www.france24.com/en/europe/20261010-so-safe-you-could-drink-it-scientists-and-pesticide-victims-fear-an-eu-rollback",
+          "fuente": "France 24 English",
+          "fecha": "Sat, 10 Oct 2026 07:10:25 GMT",
           "idioma": "en"
         },
         {
@@ -1268,55 +1010,394 @@
           "fuente": "ScienceDaily",
           "fecha": "Sun, 04 Oct 2026 07:11:24 EDT",
           "idioma": "en"
+        },
+        {
+          "id": "ev_8c806c31f7",
+          "titulo": "Scientists just made a superconductor stronger using “empty space”",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Sat, 03 Oct 2026 08:03:23 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c82e6e83e0",
+          "titulo": "Scientists just pushed superconductors beyond their usual current limit",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930225452.htm",
+          "fuente": "ScienceDaily",
+          "fecha": "Fri, 02 Oct 2026 07:08:12 EDT",
+          "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-09_0012",
-      "fecha": "2026-10-09",
+      "id": "nd_2026-10-10_0009",
+      "fecha": "2026-10-10",
       "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-10-09_0003"
-      ]
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "La OMS publica las primeras directrices globales sobre obesidad infantil ante el aumento de casos",
-        "en": "WHO releases first global guidelines on child obesity as cases surge"
+        "es": "El huracán Isaías toca tierra en Florida como categoría 2 dejando cientos de miles sin electricidad",
+        "en": "Hurricane Isaias makes landfall in Florida as Category 2 storm, leaving hundreds of thousands without power"
       },
       "sintesis": {
-        "es": "La Organización Mundial de la Salud presentó sus primeras directrices globales para abordar la obesidad infantil y adolescente, cuya prevalencia se ha cuadruplicado desde 1990, pasando del 2% al 8% en el grupo de edad de 5 a 19 años. La medida busca orientar a los países en la prevención y tratamiento de esta condición en aumento.",
-        "en": "The World Health Organization released its first global guidelines to address child and adolescent obesity, whose prevalence has quadrupled since 1990, rising from 2% to around 8% among those aged 5 to 19. The initiative aims to guide countries in preventing and treating this growing health issue."
+        "es": "El huracán Isaías, el primero de la temporada atlántica 2026, tocó tierra cerca de Destin, Florida, como ciclón de categoría 2 con vientos de hasta 169 km/h tras haber alcanzado brevemente la categoría 3. Florida, Alabama y Georgia declararon estado de emergencia y ordenaron evacuaciones que afectaron a más de 20 millones de personas ante el riesgo de marejadas ciclónicas mortales, inundaciones y fuertes vientos. Más de 700.000 clientes quedaron sin electricidad en Florida y Alabama, y el sistema se debilitó posteriormente a ciclón post-tropical.",
+        "en": "Hurricane Isaias, the first of the 2026 Atlantic season, made landfall near Destin, Florida, as a Category 2 storm with winds up to 169 km/h after briefly reaching Category 3 strength. Florida, Alabama and Georgia declared states of emergency and ordered evacuations affecting more than 20 million people due to the risk of deadly storm surge, flooding and strong winds. More than 700,000 customers lost power in Florida and Alabama, and the storm later weakened to a post-tropical cyclone."
       },
-      "categoria": "salud",
+      "categoria": "clima",
       "actores": [
-        "Organización Mundial de la Salud (OMS)"
+        "National Hurricane Center (NHC)",
+        "NOAA",
+        "Gobierno de Florida",
+        "Gobierno de Alabama",
+        "Gobierno de Georgia",
+        "FEMA",
+        "PowerOutage.us"
       ],
       "geo": {
-        "lat": 46.2244,
-        "lon": 6.1432,
-        "region": "Global / Ginebra, Suiza (sede OMS)"
+        "lat": 30.3935,
+        "lon": -86.4958,
+        "region": "Destin, Florida, Estados Unidos (Costa del Golfo)"
       },
-      "impacto": 48,
+      "impacto": 55,
       "fuentes": [
-        "ev_76c9bbc33e"
+        "ev_8a998feb43",
+        "ev_3265b5b0d3",
+        "ev_162f027352",
+        "ev_f50ef8dbad",
+        "ev_51a20cb835",
+        "ev_dda161de8a",
+        "ev_03087d20dd",
+        "ev_354b12d1db",
+        "ev_98b198a5ae",
+        "ev_4339dc3280",
+        "ev_e2f15860dd",
+        "ev_2b3f9561fe"
       ],
-      "cluster_id": "cl_320",
+      "cluster_id": "cl_003",
       "imagenes": [
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/06-10-2026-Adobe-Stock-obesity.jpg/image560x340cropped.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8663/live/88322030-c35c-11f1-8787-a95282cfe51d.jpg",
+        "https://s.france24.com/media/display/3aae18c2-c3fd-11f1-ac71-53993c5f1f18/w:1024/p:16x9/b275a3082d89b47bbf3b21698218cfa53e5bb9f4.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d0/live/ee00aa70-c443-11f1-8e13-7de7b0658be0.jpg",
+        "https://i.guim.co.uk/img/media/8a68346734b6125aa8be112f9a09965d7b197558/58_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=99048aa4fce3b6c2bdf7562778d83ccd"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_76c9bbc33e",
-          "titulo": "WHO releases first global guidelines on child obesity as cases surge",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168536",
-          "fuente": "UN News",
-          "fecha": "Wed, 07 Oct 2026 12:00:00 +0000",
+          "id": "ev_8a998feb43",
+          "titulo": "Isaías toca tierra en las costas de Florida como huracán de categoría 2 con ráfagas extremadamente peligrosas",
+          "url": "https://www.bbc.com/mundo/articles/c3x2wy1zw515o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sat, 10 Oct 2026 01:42:29 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_3265b5b0d3",
+          "titulo": "Isaías toca tierra en Florida como huracán de categoría 2 y se teme una marejada \"potencialmente mortal\"",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261009-isa%C3%ADas-avanza-como-hurac%C3%A1n-de-categor%C3%ADa-3-hacia-la-costa-sur-de-ee-uu-que-se-mantiene-en-alerta",
+          "fuente": "France 24 Espanol",
+          "fecha": "Fri, 09 Oct 2026 22:22:40 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_162f027352",
+          "titulo": "El huracán Isaias, potencialmente mortal, toca tierra en Florida con fuertes vientos y lluvias",
+          "url": "https://es.euronews.com/2026/10/10/el-huracan-isaias-potencialmente-mortal-toca-tierra-en-florida-con-fuertes-vientos-y-lluvi",
+          "fuente": "Euronews Espanol",
+          "fecha": "Sat, 10 Oct 2026 09:41:44 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f50ef8dbad",
+          "titulo": "El huracán Isaías alcanza la categoría 3 y pone en riesgo a más de 20 millones de personas en EE.UU.",
+          "url": "https://es.euronews.com/2026/10/09/el-huracan-isaias-alcanza-la-categoria-3-y-pone-en-riesgo-a-mas-de-20-millones-de-personas",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 09 Oct 2026 16:33:59 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_51a20cb835",
+          "titulo": "Hurricane Isaias downgraded after making landfall in Florida",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Sat, 10 Oct 2026 08:29:59 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_dda161de8a",
+          "titulo": "Isaias weakens after making landfall in US Gulf Coast as hurricane",
+          "url": "https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 10 Oct 2026 08:33:44 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_03087d20dd",
+          "titulo": "Isaias weakens to post-tropical cyclone after Florida landfall, NHC says",
+          "url": "https://www.cnbc.com/2026/10/10/isaias-weakens-to-category-1-hurricane-after-florida-landfall.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Sat, 10 Oct 2026 10:35:50 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_354b12d1db",
+          "titulo": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+          "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+          "fuente": "The Guardian World",
+          "fecha": "Fri, 09 Oct 2026 09:59:06 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_98b198a5ae",
+          "titulo": "Hurricane Isaias live updates: hundreds of thousands without power as storm batters US Gulf Coast",
+          "url": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 10 Oct 2026 10:24:55 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4339dc3280",
+          "titulo": "Hurricane Isaias makes landfall in Florida and hammers Gulf coast",
+          "url": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 10 Oct 2026 03:56:50 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e2f15860dd",
+          "titulo": "Key things to know about Hurricane Isaias as millions under evacuation orders",
+          "url": "https://www.theguardian.com/global/2026/oct/09/hurricane-isaias-where-path-landfall-preparation",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 10 Oct 2026 01:50:32 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2b3f9561fe",
+          "titulo": "Hurricane Isaias makes landfall on U.S. Gulf Coast as Category 2 storm",
+          "url": "https://www.cbc.ca/news/world/hurricane-isaias-us-gulf-coast-landfall-9.7376981?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 09 Oct 2026 22:39:26 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-09_0013",
-      "fecha": "2026-10-09",
+      "id": "nd_2026-10-10_0010",
+      "fecha": "2026-10-10",
       "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Christa Pike sobrevive a un intento fallido de ejecución en Tennessee y queda hospitalizada en estado grave",
+        "en": "Christa Pike survives failed execution attempt in Tennessee, left hospitalized in critical condition"
+      },
+      "sintesis": {
+        "es": "Christa Pike, condenada a muerte en Tennessee, sobrevivió a dos inyecciones letales y permanece hospitalizada con neumonía, un coágulo sanguíneo, pérdida de movilidad en brazos y trauma psicológico. Sus abogados han solicitado una audiencia urgente para determinar los próximos pasos legales. El caso ha generado amplia cobertura mediática y, posteriormente, Texas ejecutó a Jamal Howard, el primer reo ejecutado en EE.UU. tras el incidente.",
+        "en": "Christa Pike, on death row in Tennessee, survived two lethal injections and remains hospitalized with pneumonia, a blood clot, arm mobility loss, and psychological trauma. Her lawyers requested an urgent hearing to determine next legal steps. The case has drawn significant media attention, and Texas subsequently executed Jamal Howard, the first US execution following the incident."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Christa Pike",
+        "Jamal Howard",
+        "Estado de Tennessee",
+        "Estado de Texas",
+        "Sistema judicial de EE.UU."
+      ],
+      "geo": {
+        "lat": 35.5175,
+        "lon": -86.5804,
+        "region": "Tennessee, Estados Unidos"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_853ab0a8f3",
+        "ev_1789ebe8b5",
+        "ev_87dd396bfa",
+        "ev_4294a9e618",
+        "ev_f04d8d94c3"
+      ],
+      "cluster_id": "cl_011",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ee78/live/0dedea50-c264-11f1-a64c-550be9e3c66b.png",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c580/live/83a120e0-bfef-11f1-8c3e-3b2eab095459.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/09/17915466537183.jpg",
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914451546082.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_853ab0a8f3",
+          "titulo": "\"Está enojada y confundida\": por qué Christa Pike sobrevivió a su ejecución, según su defensa (y qué ocurrirá ahora)",
+          "url": "https://www.bbc.com/mundo/articles/cmrlynleyze7o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Thu, 08 Oct 2026 15:17:18 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_1789ebe8b5",
+          "titulo": "Entrevisté a Christa Pike hace 20 años y no puedo dejar de pensar en ella",
+          "url": "https://www.bbc.com/mundo/articles/c62e9kx0424do?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sun, 04 Oct 2026 13:18:21 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_87dd396bfa",
+          "titulo": "Christa Pike desarrolla neumonía y un grave trauma psicológico tras sobrevivir a dos inyecciones letales en Tennessee",
+          "url": "https://www.elmundo.es/internacional/2026/10/09/6ac8d5c421efa04f078b45c5.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Fri, 09 Oct 2026 13:53:42 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_4294a9e618",
+          "titulo": "Texas ejecuta al primer reo en EEUU desde el fallido intento de ejecución de Christa Pike",
+          "url": "https://www.elmundo.es/internacional/2026/10/08/6ac748befc6c8360078b4593.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Thu, 08 Oct 2026 09:39:44 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_f04d8d94c3",
+          "titulo": "\"¿Dónde estoy?\": las primeras palabras de Christa Pike al despertar cuando estaba a punto de ser desconectada en el hospital tras sobrevivir a su ejecución",
+          "url": "https://www.elmundo.es/internacional/2026/10/08/6ac72a76fdddff51408b45ac.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Thu, 08 Oct 2026 07:30:33 +0200",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-10-10_0011",
+      "fecha": "2026-10-10",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
+        "en": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico"
+      },
+      "sintesis": {
+        "es": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email , free app or daily news podcast The parents of Australian surfing brothers murdered in Mexico have said “no outcome can ever undo this tragedy” after three men were convicted of the 2024 killings. Australian brothers Jake and Callum Robinson, aged 30 and 33 respectively, and their friend Carter Rhoad, 30, were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state in a suspected robbery. Continue reading...",
+        "en": "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024 Get our breaking news email , free app or daily news podcast The parents of Australian surfing brothers murdered in Mexico have said “no outcome can ever undo this tragedy” after three men were convicted of the 2024 killings. Australian brothers Jake and Callum Robinson, aged 30 and 33 respectively, and their friend Carter Rhoad, 30, were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state in a suspected robbery. Continue reading..."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Australian",
+        "Three",
+        "Mexico",
+        "Men"
+      ],
+      "geo": {
+        "lat": 23.6,
+        "lon": -102.5,
+        "region": "Norteamerica"
+      },
+      "impacto": 52,
+      "fuentes": [
+        "ev_bef179cbd2",
+        "ev_3f084c4b10",
+        "ev_6f58dc441b",
+        "ev_cfce325858"
+      ],
+      "cluster_id": "cl_146",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab9/live/138578c0-c453-11f1-bc2e-018d645d8d21.jpg",
+        "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/246_0_2463_1970/master/2463.jpg?width=140&quality=85&auto=format&fit=max&s=3af8f82f816ebd3d11dcdcccd67070d8",
+        "https://e3.365dm.com/26/10/1920x1080/skynews-jake-callum-robinson_7372589.jpg?20261010002747"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_bef179cbd2",
+          "titulo": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 09 Oct 2026 21:55:51 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_3f084c4b10",
+          "titulo": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
+          "url": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
+          "fuente": "The Guardian World",
+          "fecha": "Sat, 10 Oct 2026 00:50:52 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6f58dc441b",
+          "titulo": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
+          "url": "https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb",
+          "fuente": "The Guardian World",
+          "fecha": "Thu, 08 Oct 2026 20:40:55 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cfce325858",
+          "titulo": "Three men found guilty of killing Australian brothers and their American friend",
+          "url": "https://news.sky.com/story/three-found-guilty-of-killing-australian-brothers-and-american-friend-on-mexico-surf-trip-13597092",
+          "fuente": "Sky News World",
+          "fecha": "Fri, 09 Oct 2026 23:20:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-10_0012",
+      "fecha": "2026-10-10",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-10-10_0005",
+        "nd_2026-10-10_0006"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Muere Margaret Hamilton, la científica que desarrolló el software que fue clave para que la misión Apolo 11 llegara a la Luna",
+        "en": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing"
+      },
+      "sintesis": {
+        "es": "Hamilton lideró el desarrollo del software para la primera misión de alunizaje exitosa de la NASA y fue galardonada con la Medalla Presidencial de la Libertad.",
+        "en": "Hamilton also coined the term \"software engineering\" and founded two successful software companies."
+      },
+      "categoria": "ciencia",
+      "actores": [
+        "Hamilton",
+        "Muere Margaret",
+        "Apolo",
+        "Luna"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_95ffa7e447",
+        "ev_5b8808628e"
+      ],
+      "cluster_id": "cl_019",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edc3/live/6ef2dd00-c2e7-11f1-a64c-550be9e3c66b.jpg",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hamilton2-1152x648-1791480892.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_95ffa7e447",
+          "titulo": "Muere Margaret Hamilton, la científica que desarrolló el software que fue clave para que la misión Apolo 11 llegara a la Luna",
+          "url": "https://www.bbc.com/mundo/articles/ckj0lrd9dn19o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Thu, 08 Oct 2026 17:05:49 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_5b8808628e",
+          "titulo": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+          "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+          "fuente": "Ars Technica",
+          "fecha": "Thu, 08 Oct 2026 20:15:53 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-10_0013",
+      "fecha": "2026-10-10",
+      "kardashev": "K2",
       "relaciones": []
     }
   ]

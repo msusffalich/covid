@@ -2,29 +2,31 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-09
-nodos: 20
+actualizado: 2026-10-10
+nodos: 23
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-09. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-10. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses.
+23 nodos registrados en el periodo. Lo mas reciente: La tormenta tropical Simon pasa a ser un huracán de categoría 4 y apunta hacia México.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses.
+23 nodes recorded in the period. Most recent: Hurricane Simon forecast to get much stronger as it heads to Mexico's Pacific Coast.
 
 > [!note] Estado actual
-> El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses
+> La tormenta tropical Simon pasa a ser un huracán de categoría 4 y apunta hacia México
 
-## Nodos recientes (20 en la ventana)
+## Nodos recientes (23 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
-| 2026-10-09 | 83 | K0 | El Niño gana fuerza en América Latina: sequía, hambre y riesgo d |
+| 2026-10-10 | 76 | K1 | La tormenta tropical Simon pasa a ser un huracán de categoría 4  |
+| 2026-10-10 | 68 | K1 | El Niño gana fuerza en América Latina: sequía, hambre y riesgo d |
+| 2026-10-10 | 55 | K1 | El huracán Isaías toca tierra en Florida como categoría 2 dejand |
 | 2026-10-08 | 65 | K1 | Detenida la esposa del poderoso expresidente de Sri Lanka por el |
 | 2026-10-05 | 48 | K1 | WHO and the Netherlands renew their partnership on climate chang |
 | 2026-10-01 | 74 | K0 | ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five ye |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-09-28 | 55 | K1 | Bangkok declarada zona de desastre tras inundaciones históricas  |
 | 2026-09-28 | 48 | K1 | El huracán Polo amenaza Baja California Sur mientras Nolo se ale |
 | 2026-09-27 | 64 | K0 | Powerful nor'easter causes coastal flooding and knocks out power |
-| 2026-09-27 | 55 | K2 | Bangkok declara zona de desastre tras inundaciones históricas |
-| 2026-09-26 | 62 | K1 | Australia lidera llamado global contra el poder de las grandes t |
 
 [[Global Brain — Inicio|← Inicio]]
