@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-10
-nodos: 34
+actualizado: 2026-10-11
+nodos: 32
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-10. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-11. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-34 nodos registrados en el periodo. Lo mas reciente: El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses.
+32 nodos registrados en el periodo. Lo mas reciente: Ataque hutí con misil deja al menos 12 muertos y más de 300 heridos en el aeropuerto de Riad.
 
 ## Trend summary (EN)
-34 nodes recorded in the period. Most recent: El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses.
+32 nodes recorded in the period. Most recent: Houthi missile attack kills at least 12 and wounds over 300 at Riyadh airport.
 
 > [!note] Estado actual
-> El Niño gana fuerza en América Latina: sequía, hambre y riesgo de inundaciones marcan los próximos meses
+> Ataque hutí con misil deja al menos 12 muertos y más de 300 heridos en el aeropuerto de Riad
 
-## Nodos recientes (34 en la ventana)
+## Nodos recientes (32 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-11 | 82 | K2 | Ataque hutí con misil deja al menos 12 muertos y más de 300 heri |
 | 2026-10-10 | 68 | K1 | El Niño gana fuerza en América Latina: sequía, hambre y riesgo d |
 | 2026-10-09 | 94 | K1 | El costo electoral por los comentarios de Trump sobre que Irán p |
 | 2026-10-09 | 78 | K1 | Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-04 | 95 | K1 | Arabia Saudí bombardea Yemen en la nueva andada de choques contr |
 | 2026-10-02 | 95 | K1 | EE.UU. e Israel señalan a Irán por incidente en vuelo de Flyduba |
 | 2026-10-01 | 72 | K1 | Estados Unidos completa la retirada total de sus tropas de Irak  |
-| 2026-09-29 | 74 | K1 | Reino Unido: Investigan el papel de Irán en un plan de atentado  |
 
 [[Global Brain — Inicio|← Inicio]]

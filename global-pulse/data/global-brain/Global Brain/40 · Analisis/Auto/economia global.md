@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-10-10
-nodos: 30
+actualizado: 2026-10-11
+nodos: 27
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-10. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-11. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-30 nodos registrados en el periodo. Lo mas reciente: Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y escalan la guerra en Yemen.
+27 nodos registrados en el periodo. Lo mas reciente: Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y escalan la guerra en Yemen.
 
 ## Trend summary (EN)
-30 nodes recorded in the period. Most recent: Houthi attacks on Riyadh airport kill three as Yemen war escalates.
+27 nodes recorded in the period. Most recent: Houthi attacks on Riyadh airport kill three as Yemen war escalates.
 
 > [!note] Estado actual
 > Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y escalan la guerra en Yemen
 
-## Nodos recientes (30 en la ventana)
+## Nodos recientes (27 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-09 | 78 | K1 | Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y |

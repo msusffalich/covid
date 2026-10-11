@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-10
+actualizado: 2026-10-11
 nodos: 22
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-10. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-11. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-22 nodos registrados en el periodo. Lo mas reciente: Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia.
+22 nodos registrados en el periodo. Lo mas reciente: EEUU-Rusia: Trump anuncia un acuerdo con Putin para suministrar diésel al "mercado estadounidense y mundial".
 
 ## Trend summary (EN)
-22 nodes recorded in the period. Most recent: Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia.
+22 nodes recorded in the period. Most recent: Zelenskyy furious as Trump announces deal to buy Russian diesel.
 
 > [!note] Estado actual
-> Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia
+> EEUU-Rusia: Trump anuncia un acuerdo con Putin para suministrar diésel al "mercado estadounidense y mundial"
 
 ## Nodos recientes (22 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-11 | 95 | K1 | EEUU-Rusia: Trump anuncia un acuerdo con Putin para suministrar  |
 | 2026-10-09 | 56 | K1 | Rusia niega cualquier riesgo epidémico en medio de llamados a la |
 | 2026-10-08 | 83 | K0 | Russian attack on bus kills at least 30 people near Ukraine fron |
 | 2026-10-07 | 95 | K1 | Trump abordará con Putin el brote de peste neumónica en Rusia mi |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-09-30 | 87 | K1 | ¿Está amparada por el derecho internacional la deportación a ter |
 | 2026-09-30 | 51 | K0 | Ukraine pushes for 'bold action' on Russian assets to plug $78 b |
 | 2026-09-29 | 87 | K1 | La redefinición de la IA por Trump provoca una avalancha inesper |
-| 2026-09-29 | 79 | K0 | ‘This is terrorism’: daytime Russian strike hits science academy |
 
 [[Global Brain — Inicio|← Inicio]]
