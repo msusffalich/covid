@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-10-11
+actualizado: 2026-10-12
 nodos: 19
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-11. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 19 nodos registrados en el periodo. Lo mas reciente: EAU asegura que ataque en vuelo de Flydubai tenía como objetivo estrellar avión contra Ben Gurion.

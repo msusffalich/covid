@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-11
-nodos: 22
+actualizado: 2026-10-12
+nodos: 23
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-11. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-22 nodos registrados en el periodo. Lo mas reciente: EEUU-Rusia: Trump anuncia un acuerdo con Putin para suministrar diésel al "mercado estadounidense y mundial".
+23 nodos registrados en el periodo. Lo mas reciente: Guterres condena el ataque de los hutíes contra el aeropuerto de Riad, Arabia Saudita.
 
 ## Trend summary (EN)
-22 nodes recorded in the period. Most recent: Zelenskyy furious as Trump announces deal to buy Russian diesel.
+23 nodes recorded in the period. Most recent: Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy.
 
 > [!note] Estado actual
-> EEUU-Rusia: Trump anuncia un acuerdo con Putin para suministrar diésel al "mercado estadounidense y mundial"
+> Guterres condena el ataque de los hutíes contra el aeropuerto de Riad, Arabia Saudita
 
-## Nodos recientes (22 en la ventana)
+## Nodos recientes (23 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-12 | 95 | K1 | Guterres condena el ataque de los hutíes contra el aeropuerto de |
+| 2026-10-12 | 83 | K0 | Zelenskyy blindsided after Trump announces ‘energy ceasefire’ in |
 | 2026-10-11 | 95 | K1 | EEUU-Rusia: Trump anuncia un acuerdo con Putin para suministrar  |
 | 2026-10-09 | 56 | K1 | Rusia niega cualquier riesgo epidémico en medio de llamados a la |
 | 2026-10-08 | 83 | K0 | Russian attack on bus kills at least 30 people near Ukraine fron |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-10-03 | 64 | K0 | ‘The enemy is tearing our city apart’: terror in Kyiv as Russia  |
 | 2026-10-01 | 78 | K0 | Rusia amenaza a la OTAN con armas nucleares por Kaliningrado y R |
 | 2026-09-30 | 87 | K1 | ¿Está amparada por el derecho internacional la deportación a ter |
-| 2026-09-30 | 51 | K0 | Ukraine pushes for 'bold action' on Russian assets to plug $78 b |
-| 2026-09-29 | 87 | K1 | La redefinición de la IA por Trump provoca una avalancha inesper |
 
 [[Global Brain — Inicio|← Inicio]]
