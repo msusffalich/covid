@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-12
+actualizado: 2026-10-13
 nodos: 23
 origen: global-pulse
 ---
@@ -10,20 +10,22 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-12. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-13. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-23 nodos registrados en el periodo. Lo mas reciente: Guterres condena el ataque de los hutíes contra el aeropuerto de Riad, Arabia Saudita.
+23 nodos registrados en el periodo. Lo mas reciente: Trump acuerda con Putin la compra de diésel ruso y presiona a Ucrania para frenar ataques a refinerías.
 
 ## Trend summary (EN)
-23 nodes recorded in the period. Most recent: Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy.
+23 nodes recorded in the period. Most recent: Trump strikes diesel deal with Putin and pressures Ukraine to halt refinery strikes.
 
 > [!note] Estado actual
-> Guterres condena el ataque de los hutíes contra el aeropuerto de Riad, Arabia Saudita
+> Trump acuerda con Putin la compra de diésel ruso y presiona a Ucrania para frenar ataques a refinerías
 
 ## Nodos recientes (23 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-13 | 78 | K1 | Trump acuerda con Putin la compra de diésel ruso y presiona a Uc |
+| 2026-10-13 | 68 | K1 | El FMI advierte que la economía global pone a prueba sus límites |
 | 2026-10-12 | 95 | K1 | Guterres condena el ataque de los hutíes contra el aeropuerto de |
 | 2026-10-12 | 83 | K0 | Zelenskyy blindsided after Trump announces ‘energy ceasefire’ in |
 | 2026-10-11 | 95 | K1 | EEUU-Rusia: Trump anuncia un acuerdo con Putin para suministrar  |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-10-07 | 55 | K1 | Muerte de trabajadora en laboratorio de peste en Siberia genera  |
 | 2026-10-04 | 74 | K0 | Friedrich Merz begins unannounced Kyiv visit as Russia continues |
 | 2026-10-03 | 64 | K0 | ‘The enemy is tearing our city apart’: terror in Kyiv as Russia  |
-| 2026-10-01 | 78 | K0 | Rusia amenaza a la OTAN con armas nucleares por Kaliningrado y R |
-| 2026-09-30 | 87 | K1 | ¿Está amparada por el derecho internacional la deportación a ter |
 
 [[Global Brain — Inicio|← Inicio]]

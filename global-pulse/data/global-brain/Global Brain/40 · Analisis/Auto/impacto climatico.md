@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-12
-nodos: 25
+actualizado: 2026-10-13
+nodos: 26
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-12. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-13. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-25 nodos registrados en el periodo. Lo mas reciente: El huracán Simon azota la costa del Pacífico de México con categoría 4.
+26 nodos registrados en el periodo. Lo mas reciente: El huracán Simón y la tormenta tropical Rachel dejan muertos y desaparecidos en la costa del Pacífico de México.
 
 ## Trend summary (EN)
-25 nodes recorded in the period. Most recent: Hurricane Simon pounds Mexico's Pacific coast as Category 4 storm.
+26 nodes recorded in the period. Most recent: Hurricane Simon and Tropical Storm Rachel leave dead and missing on Mexico's Pacific coast.
 
 > [!note] Estado actual
-> El huracán Simon azota la costa del Pacífico de México con categoría 4
+> El huracán Simón y la tormenta tropical Rachel dejan muertos y desaparecidos en la costa del Pacífico de México
 
-## Nodos recientes (25 en la ventana)
+## Nodos recientes (26 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-13 | 55 | K1 | El huracán Simón y la tormenta tropical Rachel dejan muertos y d |
+| 2026-10-13 | 51 | K1 | How NRL's Super League bid could revive a fallen giant |
 | 2026-10-12 | 55 | K1 | El huracán Simon azota la costa del Pacífico de México con categ |
 | 2026-10-12 | 54 | K1 | El Niño gana fuerza en América Latina: sequía, hambre y riesgo d |
 | 2026-10-11 | 95 | K1 | El huracán Isaías se degrada a ciclón postropical tras tocar tie |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-10-01 | 74 | K0 | ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five ye |
 | 2026-09-29 | 55 | K1 | El huracán Polo toca tierra en Baja California Sur, México, mien |
 | 2026-09-28 | 95 | K2 | Transición energética en China: a pesar de los avances significa |
-| 2026-09-28 | 58 | K1 | Inundaciones por lluvias torrenciales dejan al menos 62 muertos  |
-| 2026-09-28 | 55 | K1 | Bangkok declarada zona de desastre tras inundaciones históricas  |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-10-12
+actualizado: 2026-10-13
 nodos: 19
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-12. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-13. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-19 nodos registrados en el periodo. Lo mas reciente: EAU asegura que ataque en vuelo de Flydubai tenía como objetivo estrellar avión contra Ben Gurion.
+19 nodos registrados en el periodo. Lo mas reciente: Los hutíes intensifican ataques con misiles contra el aeropuerto de Riad en Arabia Saudita.
 
 ## Trend summary (EN)
-19 nodes recorded in the period. Most recent: Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say.
+19 nodes recorded in the period. Most recent: Houthis escalate missile attacks on Riyadh airport in Saudi Arabia.
 
 > [!note] Estado actual
-> EAU asegura que ataque en vuelo de Flydubai tenía como objetivo estrellar avión contra Ben Gurion
+> Los hutíes intensifican ataques con misiles contra el aeropuerto de Riad en Arabia Saudita
 
 ## Nodos recientes (19 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-13 | 78 | K1 | Los hutíes intensifican ataques con misiles contra el aeropuerto |
 | 2026-10-10 | 95 | K1 | EAU asegura que ataque en vuelo de Flydubai tenía como objetivo  |
 | 2026-10-08 | 83 | K1 | British consulate in East Jerusalem will stay open as UK mission |
 | 2026-10-07 | 78 | K1 | Israel conmemora el tercer aniversario del ataque de Hamás del 7 |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-02 | 61 | K1 | El aterrizaje del avión en Arabia Saudí muestra los límites de s |
 | 2026-10-02 | 55 | K1 | Un año después del alto el fuego, Gaza enfrenta crisis humanitar |
 | 2026-10-01 | 72 | K1 | Estados Unidos completa la retirada total de sus tropas de Irak  |
-| 2026-09-30 | 95 | K1 | Un avión de Flydubai con destino Israel aterriza de emergencia e |
 
 [[Global Brain — Inicio|← Inicio]]
