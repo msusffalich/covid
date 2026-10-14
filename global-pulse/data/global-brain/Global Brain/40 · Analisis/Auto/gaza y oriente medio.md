@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-10-13
-nodos: 19
+actualizado: 2026-10-14
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-13. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-14. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-19 nodos registrados en el periodo. Lo mas reciente: Los hutíes intensifican ataques con misiles contra el aeropuerto de Riad en Arabia Saudita.
+20 nodos registrados en el periodo. Lo mas reciente: La Nobel de Paz Navi Pillay, criticada por su presunto "militantismo antiisraelí".
 
 ## Trend summary (EN)
-19 nodes recorded in the period. Most recent: Houthis escalate missile attacks on Riyadh airport in Saudi Arabia.
+20 nodes recorded in the period. Most recent: ICJ judge Navi Pillay wins Nobel peace prize for promoting international law.
 
 > [!note] Estado actual
-> Los hutíes intensifican ataques con misiles contra el aeropuerto de Riad en Arabia Saudita
+> La Nobel de Paz Navi Pillay, criticada por su presunto "militantismo antiisraelí"
 
-## Nodos recientes (19 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-14 | 86 | K1 | La Nobel de Paz Navi Pillay, criticada por su presunto "militant |
 | 2026-10-13 | 78 | K1 | Los hutíes intensifican ataques con misiles contra el aeropuerto |
 | 2026-10-10 | 95 | K1 | EAU asegura que ataque en vuelo de Flydubai tenía como objetivo  |
 | 2026-10-08 | 83 | K1 | British consulate in East Jerusalem will stay open as UK mission |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-02 | 95 | K1 | EE.UU. e Israel señalan a Irán por incidente en vuelo de Flyduba |
 | 2026-10-02 | 61 | K1 | El aterrizaje del avión en Arabia Saudí muestra los límites de s |
 | 2026-10-02 | 55 | K1 | Un año después del alto el fuego, Gaza enfrenta crisis humanitar |
-| 2026-10-01 | 72 | K1 | Estados Unidos completa la retirada total de sus tropas de Irak  |
 
 [[Global Brain — Inicio|← Inicio]]

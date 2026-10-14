@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-10-13T12:20:12.398297+00:00",
+    "generado": "2026-10-14T09:53:21.485237+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -14,21 +14,16 @@
       },
       "color": "#E4634F",
       "n_nodos": 31,
-      "ultima_fecha": "2026-10-13",
+      "ultima_fecha": "2026-10-14",
       "resumen": {
-        "es": "31 nodos registrados en el periodo. Lo mas reciente: Los hutíes intensifican ataques con misiles contra el aeropuerto de Riad en Arabia Saudita.",
-        "en": "31 nodes recorded in the period. Most recent: Houthis escalate missile attacks on Riyadh airport in Saudi Arabia."
+        "es": "31 nodos registrados en el periodo. Lo mas reciente: Bank of America es multado con 1.200 millones de dólares por fallos contra el blanqueo de capitales.",
+        "en": "31 nodes recorded in the period. Most recent: Bank of America fined $1.2 billion over money-laundering failures."
       },
       "estado": {
-        "es": "Los hutíes intensifican ataques con misiles contra el aeropuerto de Riad en Arabia Saudita",
-        "en": "Houthis escalate missile attacks on Riyadh airport in Saudi Arabia"
+        "es": "Bank of America es multado con 1.200 millones de dólares por fallos contra el blanqueo de capitales",
+        "en": "Bank of America fined $1.2 billion over money-laundering failures"
       },
       "serie": [
-        {
-          "fecha": "2026-09-23",
-          "max": 95,
-          "n": 1
-        },
         {
           "fecha": "2026-09-24",
           "max": 95,
@@ -118,9 +113,26 @@
           "fecha": "2026-10-13",
           "max": 78,
           "n": 3
+        },
+        {
+          "fecha": "2026-10-14",
+          "max": 55,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-14",
+          "titulo": {
+            "es": "Bank of America es multado con 1.200 millones de dólares por fallos contra el blanqueo de capitales",
+            "en": "Bank of America fined $1.2 billion over money-laundering failures"
+          },
+          "impacto": 55,
+          "categoria": "economia",
+          "kardashev": "K0",
+          "url": "https://es.euronews.com/2026/10/14/fallos-contra-el-blanqueo-de-capitales-cuestan-a-bank-of-america-1200-millones-de-dolares",
+          "fuente": "Euronews Espanol"
+        },
         {
           "fecha": "2026-10-13",
           "titulo": {
@@ -252,18 +264,6 @@
           "kardashev": "K1",
           "url": "https://es.euronews.com/2026/10/07/india-sube-los-tipos-por-1-vez-en-3-anos-mientras-la-guerra-en-iran-alimenta-la-inflacion",
           "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-06",
-          "titulo": {
-            "es": "Arabia Saudita, Turquía y Pakistán activan su alianza militar: ¿qué implica ante la amenaza hutí?",
-            "en": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-10-05/el-gobierno-yemeni-asegura-haber-arrebatado-el-control-del-estrecho-de-bab-el-manded-a-los-huties.html",
-          "fuente": "El Pais Internacional"
         }
       ]
     },
@@ -274,15 +274,15 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 23,
-      "ultima_fecha": "2026-10-13",
+      "n_nodos": 26,
+      "ultima_fecha": "2026-10-14",
       "resumen": {
-        "es": "23 nodos registrados en el periodo. Lo mas reciente: Trump acuerda con Putin la compra de diésel ruso y presiona a Ucrania para frenar ataques a refinerías.",
-        "en": "23 nodes recorded in the period. Most recent: Trump strikes diesel deal with Putin and pressures Ukraine to halt refinery strikes."
+        "es": "26 nodos registrados en el periodo. Lo mas reciente: Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU..",
+        "en": "26 nodes recorded in the period. Most recent: Trump faces backlash after posting 'sick' video of UK man killed by tiger."
       },
       "estado": {
-        "es": "Trump acuerda con Putin la compra de diésel ruso y presiona a Ucrania para frenar ataques a refinerías",
-        "en": "Trump strikes diesel deal with Putin and pressures Ukraine to halt refinery strikes"
+        "es": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
+        "en": "Trump faces backlash after posting 'sick' video of UK man killed by tiger"
       },
       "serie": [
         {
@@ -359,9 +359,50 @@
           "fecha": "2026-10-13",
           "max": 78,
           "n": 2
+        },
+        {
+          "fecha": "2026-10-14",
+          "max": 87,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-14",
+          "titulo": {
+            "es": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
+            "en": "Trump faces backlash after posting 'sick' video of UK man killed by tiger"
+          },
+          "impacto": 87,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/cm20r9337vn8o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
+        {
+          "fecha": "2026-10-14",
+          "titulo": {
+            "es": "12 U.S. senators, including 6 Republicans, tell Trump to drop diesel deal with Russia",
+            "en": "12 U.S. senators, including 6 Republicans, tell Trump to drop diesel deal with Russia"
+          },
+          "impacto": 83,
+          "categoria": "geopolitica",
+          "kardashev": "K0",
+          "url": "https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland",
+          "fuente": "France 24 English"
+        },
+        {
+          "fecha": "2026-10-14",
+          "titulo": {
+            "es": "Bank of America es multado con 1.200 millones de dólares por fallos contra el blanqueo de capitales",
+            "en": "Bank of America fined $1.2 billion over money-laundering failures"
+          },
+          "impacto": 55,
+          "categoria": "economia",
+          "kardashev": "K0",
+          "url": "https://es.euronews.com/2026/10/14/fallos-contra-el-blanqueo-de-capitales-cuestan-a-bank-of-america-1200-millones-de-dolares",
+          "fuente": "Euronews Espanol"
+        },
         {
           "fecha": "2026-10-13",
           "titulo": {
@@ -469,42 +510,6 @@
           "kardashev": "K0",
           "url": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
           "fuente": "The Guardian World"
-        },
-        {
-          "fecha": "2026-10-07",
-          "titulo": {
-            "es": "Muerte de trabajadora en laboratorio de peste en Siberia genera preocupación internacional",
-            "en": "Death of worker at Siberian plague laboratory sparks international concern"
-          },
-          "impacto": 55,
-          "categoria": "salud",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cqp8g7ydzx3do?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-10-04",
-          "titulo": {
-            "es": "Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live",
-            "en": "Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live"
-          },
-          "impacto": 74,
-          "categoria": "innovacion",
-          "kardashev": "K0",
-          "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-10-03",
-          "titulo": {
-            "es": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
-            "en": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks"
-          },
-          "impacto": 64,
-          "categoria": "innovacion",
-          "kardashev": "K0",
-          "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
         }
       ]
     },
@@ -515,15 +520,15 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 19,
-      "ultima_fecha": "2026-10-13",
+      "n_nodos": 20,
+      "ultima_fecha": "2026-10-14",
       "resumen": {
-        "es": "19 nodos registrados en el periodo. Lo mas reciente: Los hutíes intensifican ataques con misiles contra el aeropuerto de Riad en Arabia Saudita.",
-        "en": "19 nodes recorded in the period. Most recent: Houthis escalate missile attacks on Riyadh airport in Saudi Arabia."
+        "es": "20 nodos registrados en el periodo. Lo mas reciente: La Nobel de Paz Navi Pillay, criticada por su presunto \"militantismo antiisraelí\".",
+        "en": "20 nodes recorded in the period. Most recent: ICJ judge Navi Pillay wins Nobel peace prize for promoting international law."
       },
       "estado": {
-        "es": "Los hutíes intensifican ataques con misiles contra el aeropuerto de Riad en Arabia Saudita",
-        "en": "Houthis escalate missile attacks on Riyadh airport in Saudi Arabia"
+        "es": "La Nobel de Paz Navi Pillay, criticada por su presunto \"militantismo antiisraelí\"",
+        "en": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law"
       },
       "serie": [
         {
@@ -595,9 +600,26 @@
           "fecha": "2026-10-13",
           "max": 78,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-14",
+          "max": 86,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-14",
+          "titulo": {
+            "es": "La Nobel de Paz Navi Pillay, criticada por su presunto \"militantismo antiisraelí\"",
+            "en": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law"
+          },
+          "impacto": 86,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.rfi.fr/es/sociedad/20261014-navi-pillay-premio-nobel-de-la-paz-la-comunidad-internacional-debe-hacer-m%C3%A1s-para-prevenir-los-genocidio",
+          "fuente": "RFI Espanol"
+        },
         {
           "fecha": "2026-10-13",
           "titulo": {
@@ -729,18 +751,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/cq14dd5ge5v1o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-10-01",
-          "titulo": {
-            "es": "Estados Unidos completa la retirada total de sus tropas de Irak tras 20 años",
-            "en": "United States completes full troop withdrawal from Iraq after 20 years"
-          },
-          "impacto": 72,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cmjw5j22nnz3o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -752,21 +762,16 @@
       },
       "color": "#3D9BE4",
       "n_nodos": 29,
-      "ultima_fecha": "2026-10-13",
+      "ultima_fecha": "2026-10-14",
       "resumen": {
-        "es": "29 nodos registrados en el periodo. Lo mas reciente: Meta lanza Muse Wonder, su nueva IA para competir con ChatGPT y Claude.",
-        "en": "29 nodes recorded in the period. Most recent: Meta launches Muse Wonder, its new AI to compete with ChatGPT and Claude."
+        "es": "29 nodos registrados en el periodo. Lo mas reciente: ASML reporta ventas récord y advierte que la demanda de IA superará su capacidad de producción.",
+        "en": "29 nodes recorded in the period. Most recent: ASML posts record sales and warns AI demand will outpace its production capacity."
       },
       "estado": {
-        "es": "Meta lanza Muse Wonder, su nueva IA para competir con ChatGPT y Claude",
-        "en": "Meta launches Muse Wonder, its new AI to compete with ChatGPT and Claude"
+        "es": "ASML reporta ventas récord y advierte que la demanda de IA superará su capacidad de producción",
+        "en": "ASML posts record sales and warns AI demand will outpace its production capacity"
       },
       "serie": [
-        {
-          "fecha": "2026-09-23",
-          "max": 83,
-          "n": 1
-        },
         {
           "fecha": "2026-09-24",
           "max": 95,
@@ -826,9 +831,26 @@
           "fecha": "2026-10-13",
           "max": 62,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-14",
+          "max": 68,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-14",
+          "titulo": {
+            "es": "ASML reporta ventas récord y advierte que la demanda de IA superará su capacidad de producción",
+            "en": "ASML posts record sales and warns AI demand will outpace its production capacity"
+          },
+          "impacto": 68,
+          "categoria": "economia",
+          "kardashev": "K1",
+          "url": "https://es.euronews.com/2026/10/14/asml-logra-ventas-record-de-117-mil-millones-pero-advierte-que-no-puede-cubrir-la-demanda",
+          "fuente": "Euronews Espanol"
+        },
         {
           "fecha": "2026-10-13",
           "titulo": {
@@ -960,18 +982,6 @@
           "kardashev": "K1",
           "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260929-fallas-de-seguridad-paralizan-el-lanzamiento-de-la-nueva-ia-de-openai",
           "fuente": "France 24 Espanol"
-        },
-        {
-          "fecha": "2026-09-28",
-          "titulo": {
-            "es": "Australia reporta primer ciberataque de un agente de IA a un organismo gubernamental y lidera esfuerzos regulatorios",
-            "en": "Australia reports first AI agent cyberattack on a government body and leads regulatory push"
-          },
-          "impacto": 62,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cme30qx3q9geo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -983,21 +993,16 @@
       },
       "color": "#3FA65C",
       "n_nodos": 26,
-      "ultima_fecha": "2026-10-13",
+      "ultima_fecha": "2026-10-14",
       "resumen": {
-        "es": "26 nodos registrados en el periodo. Lo mas reciente: El huracán Simón y la tormenta tropical Rachel dejan muertos y desaparecidos en la costa del Pacífico de México.",
-        "en": "26 nodes recorded in the period. Most recent: Hurricane Simon and Tropical Storm Rachel leave dead and missing on Mexico's Pacific coast."
+        "es": "26 nodos registrados en el periodo. Lo mas reciente: Tormenta inusual de lluvia y granizo desborda Santiago de Chile.",
+        "en": "26 nodes recorded in the period. Most recent: Unusual hail and rain storm overwhelms Santiago, Chile."
       },
       "estado": {
-        "es": "El huracán Simón y la tormenta tropical Rachel dejan muertos y desaparecidos en la costa del Pacífico de México",
-        "en": "Hurricane Simon and Tropical Storm Rachel leave dead and missing on Mexico's Pacific coast"
+        "es": "Tormenta inusual de lluvia y granizo desborda Santiago de Chile",
+        "en": "Unusual hail and rain storm overwhelms Santiago, Chile"
       },
       "serie": [
-        {
-          "fecha": "2026-09-23",
-          "max": 55,
-          "n": 1
-        },
         {
           "fecha": "2026-09-25",
           "max": 45,
@@ -1062,9 +1067,26 @@
           "fecha": "2026-10-13",
           "max": 55,
           "n": 2
+        },
+        {
+          "fecha": "2026-10-14",
+          "max": 45,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-14",
+          "titulo": {
+            "es": "Tormenta inusual de lluvia y granizo desborda Santiago de Chile",
+            "en": "Unusual hail and rain storm overwhelms Santiago, Chile"
+          },
+          "impacto": 45,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://elpais.com/chile/2026-10-13/alerta-roja-una-fuerte-tormenta-electrica-con-granizos-afecta-santiago-cinco-dias-despues-del-aluvion.html",
+          "fuente": "El Pais Internacional"
+        },
         {
           "fecha": "2026-10-13",
           "titulo": {
@@ -1196,18 +1218,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/cw5yln0l9rqmo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-09-28",
-          "titulo": {
-            "es": "Transición energética en China: a pesar de los avances significativos, la promesa de Xi Jinping sigue sin cumplirse",
-            "en": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://elpais.com/internacional/2026-09-28/china-confirma-la-ampliacion-de-la-tregua-comercial-con-estados-unidos.html",
-          "fuente": "El Pais Internacional"
         }
       ]
     },
@@ -1218,15 +1228,15 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 29,
-      "ultima_fecha": "2026-10-13",
+      "n_nodos": 33,
+      "ultima_fecha": "2026-10-14",
       "resumen": {
-        "es": "29 nodos registrados en el periodo. Lo mas reciente: Los Nobel Hall y Woodford sentaron las bases del nuevo paradigma de la política de estabilización económica.",
-        "en": "29 nodes recorded in the period. Most recent: US economists win Nobel for research helping policymakers navigate crises."
+        "es": "33 nodos registrados en el periodo. Lo mas reciente: Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU..",
+        "en": "33 nodes recorded in the period. Most recent: Trump faces backlash after posting 'sick' video of UK man killed by tiger."
       },
       "estado": {
-        "es": "Los Nobel Hall y Woodford sentaron las bases del nuevo paradigma de la política de estabilización económica",
-        "en": "US economists win Nobel for research helping policymakers navigate crises"
+        "es": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
+        "en": "Trump faces backlash after posting 'sick' video of UK man killed by tiger"
       },
       "serie": [
         {
@@ -1308,9 +1318,62 @@
           "fecha": "2026-10-13",
           "max": 95,
           "n": 3
+        },
+        {
+          "fecha": "2026-10-14",
+          "max": 87,
+          "n": 4
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-14",
+          "titulo": {
+            "es": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
+            "en": "Trump faces backlash after posting 'sick' video of UK man killed by tiger"
+          },
+          "impacto": 87,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/cm20r9337vn8o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
+        {
+          "fecha": "2026-10-14",
+          "titulo": {
+            "es": "12 U.S. senators, including 6 Republicans, tell Trump to drop diesel deal with Russia",
+            "en": "12 U.S. senators, including 6 Republicans, tell Trump to drop diesel deal with Russia"
+          },
+          "impacto": 83,
+          "categoria": "geopolitica",
+          "kardashev": "K0",
+          "url": "https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland",
+          "fuente": "France 24 English"
+        },
+        {
+          "fecha": "2026-10-14",
+          "titulo": {
+            "es": "ASML reporta ventas récord y advierte que la demanda de IA superará su capacidad de producción",
+            "en": "ASML posts record sales and warns AI demand will outpace its production capacity"
+          },
+          "impacto": 68,
+          "categoria": "economia",
+          "kardashev": "K1",
+          "url": "https://es.euronews.com/2026/10/14/asml-logra-ventas-record-de-117-mil-millones-pero-advierte-que-no-puede-cubrir-la-demanda",
+          "fuente": "Euronews Espanol"
+        },
+        {
+          "fecha": "2026-10-14",
+          "titulo": {
+            "es": "Apple lanza HomeView, su primera pantalla inteligente, y relanza su estrategia de hogar inteligente",
+            "en": "Apple launches HomeView, its first smart display, relaunching its smart home strategy"
+          },
+          "impacto": 55,
+          "categoria": "innovacion",
+          "kardashev": "K2",
+          "url": "https://es.euronews.com/2026/10/13/apple-se-instala-en-tu-casa-inteligente-del-homeview-a-las-cerraduras-inteligentes",
+          "fuente": "Euronews Espanol"
+        },
         {
           "fecha": "2026-10-13",
           "titulo": {
@@ -1406,54 +1469,6 @@
           "kardashev": "K0",
           "url": "https://www.bbc.com/mundo/articles/ckm23l8gpvr2o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-10-07",
-          "titulo": {
-            "es": "Las \"cucarachas\" vuelven a las calles de India por los cambios en el censo electoral",
-            "en": "India hikes interest rates for first time in over three years as Iran war fuels inflation"
-          },
-          "impacto": 83,
-          "categoria": "economia",
-          "kardashev": "K1",
-          "url": "https://es.euronews.com/2026/10/07/india-sube-los-tipos-por-1-vez-en-3-anos-mientras-la-guerra-en-iran-alimenta-la-inflacion",
-          "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-06",
-          "titulo": {
-            "es": "Los gigantes chinos de la IA Moonshot y DeepSeek preparan su salida a Bolsa tras disparar su valoración",
-            "en": "Moonshot AI eyes Hong Kong IPO after $50 billion valuation as DeepSeek raises capital"
-          },
-          "impacto": 69,
-          "categoria": "economia",
-          "kardashev": "K0",
-          "url": "https://es.euronews.com/2026/10/06/moonshot-ai-prepara-opv-en-hong-kong-tras-valoracion-de-50000-millones-y-deepseek-capta-fo",
-          "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-05",
-          "titulo": {
-            "es": "Middle East oil exports return to pre-war levels, excluding Iran",
-            "en": "Middle East oil exports return to pre-war levels, excluding Iran"
-          },
-          "impacto": 74,
-          "categoria": "geopolitica",
-          "kardashev": "K0",
-          "url": "https://www.aljazeera.com/news/2026/10/5/middle-east-oil-exports-surpass-pre-war-levels-despite-tensions-data-shows?traffic_source=rss",
-          "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-10-05",
-          "titulo": {
-            "es": "El euro cae a un mínimo de 17 meses frente al dólar por temores sobre la deuda francesa y elecciones anticipadas en España",
-            "en": "Euro falls to 17-month low against dollar amid French debt fears and Spain's snap election"
-          },
-          "impacto": 62,
-          "categoria": "economia",
-          "kardashev": "K2",
-          "url": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
-          "fuente": "The Guardian World"
         }
       ]
     }

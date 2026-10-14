@@ -2,28 +2,32 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-10-13
-nodos: 29
+actualizado: 2026-10-14
+nodos: 33
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-13. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-14. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-29 nodos registrados en el periodo. Lo mas reciente: Los Nobel Hall y Woodford sentaron las bases del nuevo paradigma de la política de estabilización económica.
+33 nodos registrados en el periodo. Lo mas reciente: Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU..
 
 ## Trend summary (EN)
-29 nodes recorded in the period. Most recent: US economists win Nobel for research helping policymakers navigate crises.
+33 nodes recorded in the period. Most recent: Trump faces backlash after posting 'sick' video of UK man killed by tiger.
 
 > [!note] Estado actual
-> Los Nobel Hall y Woodford sentaron las bases del nuevo paradigma de la política de estabilización económica
+> Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.
 
-## Nodos recientes (29 en la ventana)
+## Nodos recientes (33 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-14 | 87 | K1 | Cómo los conflictos globales se han convertido en un dolor de ca |
+| 2026-10-14 | 83 | K0 | 12 U.S. senators, including 6 Republicans, tell Trump to drop di |
+| 2026-10-14 | 68 | K1 | ASML reporta ventas récord y advierte que la demanda de IA super |
+| 2026-10-14 | 55 | K2 | Apple lanza HomeView, su primera pantalla inteligente, y relanza |
 | 2026-10-13 | 95 | K1 | Los Nobel Hall y Woodford sentaron las bases del nuevo paradigma |
 | 2026-10-13 | 78 | K0 | Tras el desencanto de los empresarios latinos de Texas con Trump |
 | 2026-10-13 | 68 | K1 | El FMI advierte que la economía global pone a prueba sus límites |
@@ -32,9 +36,5 @@ origen: global-pulse
 | 2026-10-12 | 50 | K0 | ‘It was a terrible thing’: Panama declares state of emergency as |
 | 2026-10-09 | 78 | K1 | Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y |
 | 2026-10-09 | 55 | K0 | Anne Carson gana el Premio Nobel de Literatura 2026 |
-| 2026-10-07 | 83 | K1 | Las "cucarachas" vuelven a las calles de India por los cambios e |
-| 2026-10-06 | 69 | K0 | Los gigantes chinos de la IA Moonshot y DeepSeek preparan su sal |
-| 2026-10-05 | 74 | K0 | Middle East oil exports return to pre-war levels, excluding Iran |
-| 2026-10-05 | 62 | K2 | El euro cae a un mínimo de 17 meses frente al dólar por temores  |
 
 [[Global Brain — Inicio|← Inicio]]

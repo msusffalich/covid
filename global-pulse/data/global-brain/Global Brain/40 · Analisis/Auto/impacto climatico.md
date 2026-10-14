@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-13
+actualizado: 2026-10-14
 nodos: 26
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-13. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-14. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-26 nodos registrados en el periodo. Lo mas reciente: El huracán Simón y la tormenta tropical Rachel dejan muertos y desaparecidos en la costa del Pacífico de México.
+26 nodos registrados en el periodo. Lo mas reciente: Tormenta inusual de lluvia y granizo desborda Santiago de Chile.
 
 ## Trend summary (EN)
-26 nodes recorded in the period. Most recent: Hurricane Simon and Tropical Storm Rachel leave dead and missing on Mexico's Pacific coast.
+26 nodes recorded in the period. Most recent: Unusual hail and rain storm overwhelms Santiago, Chile.
 
 > [!note] Estado actual
-> El huracán Simón y la tormenta tropical Rachel dejan muertos y desaparecidos en la costa del Pacífico de México
+> Tormenta inusual de lluvia y granizo desborda Santiago de Chile
 
 ## Nodos recientes (26 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-14 | 45 | K1 | Tormenta inusual de lluvia y granizo desborda Santiago de Chile |
 | 2026-10-13 | 55 | K1 | El huracán Simón y la tormenta tropical Rachel dejan muertos y d |
 | 2026-10-13 | 51 | K1 | How NRL's Super League bid could revive a fallen giant |
 | 2026-10-12 | 55 | K1 | El huracán Simon azota la costa del Pacífico de México con categ |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-05 | 48 | K1 | WHO and the Netherlands renew their partnership on climate chang |
 | 2026-10-01 | 74 | K0 | ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five ye |
 | 2026-09-29 | 55 | K1 | El huracán Polo toca tierra en Baja California Sur, México, mien |
-| 2026-09-28 | 95 | K2 | Transición energética en China: a pesar de los avances significa |
 
 [[Global Brain — Inicio|← Inicio]]
