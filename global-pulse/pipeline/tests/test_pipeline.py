@@ -58,8 +58,8 @@ def test_history_recovery_and_demo_exclusion():
         source = Path(tmp) / 'source'; public = Path(tmp) / 'public'
         source.mkdir()
         live = {'meta': {'fecha': '2026-10-14', 'modo': 'live'}, 'nodos': []}
-        blob = json.dumps(live).encode()
-        (source / 'pulse-20261014.json').write_bytes(blob)
+        blob = json.dumps(live, indent=2).encode() + b'\n'
+        (source / 'pulse-20261014.json').write_bytes(blob.replace(b'\n', b'\r\n'))
         (source / 'pulse-20261013.json').write_text(json.dumps({'meta': {'fecha': '2026-10-13', 'modo': 'fixture'}}))
         (source / 'trends-20261014.json').write_text('{}')
         entries = publish.archive_history(source, public)

@@ -95,7 +95,9 @@ def archive_history(data_dir=None, app_data_dir=None):
     app_data_dir.mkdir(parents=True, exist_ok=True)
     entries = []
     for path in sorted(data_dir.glob('pulse-20*.json')):
-        blob = path.read_bytes()
+        # Git may normalize CRLF on Windows checkouts. Publish/hash LF bytes
+        # consistently so the manifest remains valid after deployment.
+        blob = path.read_bytes().replace(b'\r\n', b'\n')
         pulse = json.loads(blob)
         if pulse.get('meta', {}).get('modo') != 'live':
             continue
@@ -107,7 +109,7 @@ def archive_history(data_dir=None, app_data_dir=None):
                  'sha256': hashlib.sha256(blob).hexdigest()}
         trend = data_dir / ('trends-' + date.replace('-', '') + '.json')
         if trend.exists():
-            trend_blob = trend.read_bytes()
+            trend_blob = trend.read_bytes().replace(b'\r\n', b'\n')
             (app_data_dir / trend.name).write_bytes(trend_blob)
             entry.update({'tendencias': trend.name,
                           'tendencias_sha256': hashlib.sha256(trend_blob).hexdigest()})
