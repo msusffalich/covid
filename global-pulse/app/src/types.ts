@@ -76,4 +76,5 @@ export const CATEGORY_COLORS: Record<string, string> = {
   innovacion: '#1CB0C8',
   salud: '#EE6C9B',
   sociedad: '#C75FA8',
+  deportes: '#E99B36',
 }

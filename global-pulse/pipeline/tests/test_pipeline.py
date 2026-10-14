@@ -4,6 +4,7 @@ Ejecutar:  python -m tests.test_pipeline   (desde global-pulse/pipeline)
 """
 import json
 import sys
+import tempfile
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
@@ -13,6 +14,24 @@ from gp import collect, normalize, cluster, synthesize, validate, config  # noqa
 
 def log_silent(_msg):
     pass
+
+
+def test_category_word_boundaries_and_sports():
+    assert synthesize._categoria("show rooms and awards") == "sociedad"
+    assert synthesize._categoria("arsenal scored goals in the champions league") == "deportes"
+    assert synthesize._categoria("hospital cancer clinical trial") == "salud"
+
+
+def test_distinct_events_do_not_merge_by_actors():
+    from gp import publish
+    a = {"actores": ["Trump", "China"], "titulo": {"es": "Trump y China discuten un soborno y corrupción", "en": "Trump China bribery corruption"}}
+    b = {"actores": ["Trump", "China"], "titulo": {"es": "Trump y China compiten por chips de inteligencia artificial", "en": "Trump China AI chips"}}
+    assert not publish._same_event(a, b)
+    pieces = normalize.normalize([
+        {"titulo": "Trump China: embajadora dimite por corrupción", "cuerpo": "Embajadora acusada de corrupción y soborno", "idioma": "es", "fuente_id": "one"},
+        {"titulo": "Trump China: Nvidia expands AI chip investment", "cuerpo": "Nvidia builds semiconductors and artificial intelligence chips", "idioma": "en", "fuente_id": "two"},
+    ], log_silent)
+    assert len(cluster.run(pieces, log_silent)) == 2
 
 
 def test_normalize_dedup():
@@ -30,6 +49,25 @@ def test_normalize_dedup():
     assert len(dd) == 1, "duplicados por hash deben fusionarse"
     assert "mas texto" in dd[0]["cuerpo"], "debe conservar la version con mas cuerpo"
     assert dd[0]["id"].startswith("ev_")
+
+
+def test_history_recovery_and_demo_exclusion():
+    from gp import publish
+    import hashlib
+    with tempfile.TemporaryDirectory() as tmp:
+        source = Path(tmp) / 'source'; public = Path(tmp) / 'public'
+        source.mkdir()
+        live = {'meta': {'fecha': '2026-10-14', 'modo': 'live'}, 'nodos': []}
+        blob = json.dumps(live).encode()
+        (source / 'pulse-20261014.json').write_bytes(blob)
+        (source / 'pulse-20261013.json').write_text(json.dumps({'meta': {'fecha': '2026-10-13', 'modo': 'fixture'}}))
+        (source / 'trends-20261014.json').write_text('{}')
+        entries = publish.archive_history(source, public)
+        assert len(entries) == 1
+        assert entries[0]['sha256'] == hashlib.sha256(blob).hexdigest()
+        assert (public / 'pulse-20261014.json').read_bytes() == blob
+        assert not (public / 'pulse-20261013.json').exists()
+        assert entries[0]['tendencias'] == 'trends-20261014.json'
 
 
 def test_full_cycle_fixture():
@@ -51,7 +89,13 @@ def test_full_cycle_fixture():
         assert synthesize.validate_node_shape(n)
         assert n["sintesis"]["es"] and n["sintesis"]["en"]
 
-    nodes = validate.run(nodes, pieces, log_silent)
+    previous_evidence_dir = config.EVIDENCE_DIR
+    try:
+        with tempfile.TemporaryDirectory() as tmp:
+            config.EVIDENCE_DIR = Path(tmp) / "evidence"
+            nodes = validate.run(nodes, pieces, log_silent)
+    finally:
+        config.EVIDENCE_DIR = previous_evidence_dir
     for n in nodes:
         if n["estado"] == "verificado":
             assert n["fuentes"], "regla de oro: verificado exige fuentes"

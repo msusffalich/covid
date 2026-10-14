@@ -5,6 +5,7 @@ from collections import Counter
 
 from .config import (STOPWORDS, CLUSTER_SIM_THRESHOLD, ENTITY_MERGE_JACCARD,
                      MAX_CLUSTER_PIECES)
+from .topics import compatible_events
 
 
 def _tokens(text: str) -> list[str]:
@@ -60,6 +61,8 @@ def _cluster_lang(pieces: list[dict]) -> list[list[int]]:
         for ci, cl in enumerate(clusters):
             if len(cl) >= MAX_CLUSTER_PIECES:
                 continue
+            if not all(compatible_events(pieces[i]["texto_norm"], pieces[j]["texto_norm"]) for j in cl):
+                continue
             sim = sum(_cos(vecs[i], vecs[j]) for j in cl) / len(cl)
             if sim >= best_sim:
                 best, best_sim = ci, sim
@@ -98,11 +101,16 @@ def run(pieces: list[dict], log=print) -> list[dict]:
     for c in proto:
         target = None
         for m in merged:
+            # This pass is cross-language, not a second same-language merge.
+            if {p["idioma"] for p in c["piezas"]} & {p["idioma"] for p in m["piezas"]}:
+                continue
             if len(m["piezas"]) + len(c["piezas"]) > MAX_CLUSTER_PIECES:
+                continue
+            if not all(compatible_events(a["texto_norm"], b["texto_norm"]) for a in c["piezas"] for b in m["piezas"]):
                 continue
             inter = c["entidades"] & m["entidades"]
             jac = _jaccard(c["entidades"], m["entidades"])
-            if (len(inter) >= 2 and jac >= 0.15) or jac >= ENTITY_MERGE_JACCARD:
+            if len(inter) >= 2 and jac >= ENTITY_MERGE_JACCARD:
                 target = m
                 break
         if target:

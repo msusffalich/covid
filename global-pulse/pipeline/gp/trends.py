@@ -208,6 +208,11 @@ def run(mode: str, log=print) -> dict:
     config.APP_DATA_DIR.mkdir(parents=True, exist_ok=True)
     (config.APP_DATA_DIR / "trends-latest.json").write_text(
         json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+    if mode == 'live':
+        dated = config.DATA_DIR / ('trends-' + out['meta']['generado'][:10].replace('-', '') + '.json')
+        dated.write_bytes(daily.read_bytes())
+        from .publish import archive_history
+        archive_history()
     _write_vault(out, log)
     log(f"  Tendencias publicadas: {len(temas_out)} temas (motor {engine})")
     return out

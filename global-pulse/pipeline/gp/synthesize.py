@@ -11,6 +11,7 @@ import urllib.request
 
 from . import config
 from .config import CATEGORY_KEYWORDS, GAZETTEER
+from .topics import keyword_present
 
 MASTER_PROMPT = """Eres un analista de inteligencia neutral (Sintetizador de nodos de impacto v4).
 Recibes un cluster de piezas informativas (titulo, cuerpo, fuente, idioma, fecha).
@@ -45,7 +46,7 @@ def _pick_summary(piezas: list[dict], lang: str) -> tuple[str, str]:
 def _categoria(text: str) -> str:
     scores = {}
     for cat, kws in CATEGORY_KEYWORDS.items():
-        scores[cat] = sum(1 for kw in kws if kw in text)
+        scores[cat] = sum(1 for kw in kws if keyword_present(text, kw))
     best = max(scores, key=scores.get)
     return best if scores[best] > 0 else "sociedad"
 
@@ -189,6 +190,11 @@ def run(clusters: list[dict], mode: str = "auto", log=print) -> list[dict]:
                 node = None
         if node is None or not validate_node_shape(node):
             node = synth_heuristic(cl)
+        text = " ".join(p["texto_norm"] for p in cl["piezas"])
+        sports = any(keyword_present(text, kw) for kw in CATEGORY_KEYWORDS["deportes"])
+        medical = any(keyword_present(text, kw) for kw in ("hospital", "cancer", "disease", "enfermedad", "clinical trial", "ensayo clinico", "concussion", "conmocion", "injury", "lesion"))
+        if sports and not medical:
+            node["categoria"] = "deportes"
         node["cluster_id"] = cl["cluster_id"]
         nodes.append(node)
     log(f"  Nodos sintetizados: {len(nodes)}")

@@ -6,6 +6,7 @@ import unicodedata
 from datetime import datetime, timezone
 
 from . import config
+from .topics import compatible_events
 
 MAX_PER_CATEGORY = 4   # cuota de diversidad en el pulso publicado
 
@@ -20,12 +21,13 @@ def _same_event(a: dict, b: dict) -> bool:
     """Dos nodos son el mismo macro-evento si comparten actores o titulos."""
     act_a = {x.lower() for x in a.get("actores", [])}
     act_b = {x.lower() for x in b.get("actores", [])}
-    if len(act_a & act_b) >= 2:
-        return True
     ta, tb = _fold_tokens(a["titulo"]["es"]), _fold_tokens(b["titulo"]["es"])
     if not ta or not tb:
         return False
-    return len(ta & tb) / len(ta | tb) >= 0.45
+    if not compatible_events(a["titulo"]["es"] + " " + a["titulo"]["en"], b["titulo"]["es"] + " " + b["titulo"]["en"]):
+        return False
+    similarity = len(ta & tb) / len(ta | tb)
+    return similarity >= 0.45 or (len(act_a & act_b) >= 2 and similarity >= 0.20)
 
 
 def _dedupe(nodes: list[dict], log) -> list[dict]:
@@ -85,6 +87,37 @@ def _relaciones(nodes: list[dict]) -> None:
                 b["relaciones"].append(a["id"])
 
 
+def archive_history(data_dir=None, app_data_dir=None):
+    """Expose dated live reports so consumers can recover missed days."""
+    import hashlib
+    data_dir = data_dir or config.DATA_DIR
+    app_data_dir = app_data_dir or config.APP_DATA_DIR
+    app_data_dir.mkdir(parents=True, exist_ok=True)
+    entries = []
+    for path in sorted(data_dir.glob('pulse-20*.json')):
+        blob = path.read_bytes()
+        pulse = json.loads(blob)
+        if pulse.get('meta', {}).get('modo') != 'live':
+            continue
+        date = pulse['meta']['fecha']
+        if path.name != 'pulse-' + date.replace('-', '') + '.json':
+            raise ValueError('Historical pulse filename/date mismatch')
+        (app_data_dir / path.name).write_bytes(blob)
+        entry = {'fecha': date, 'archivo': path.name,
+                 'sha256': hashlib.sha256(blob).hexdigest()}
+        trend = data_dir / ('trends-' + date.replace('-', '') + '.json')
+        if trend.exists():
+            trend_blob = trend.read_bytes()
+            (app_data_dir / trend.name).write_bytes(trend_blob)
+            entry.update({'tendencias': trend.name,
+                          'tendencias_sha256': hashlib.sha256(trend_blob).hexdigest()})
+        entries.append(entry)
+    (app_data_dir / 'history.json').write_text(
+        json.dumps({'schema': 1, 'reportes': entries}, ensure_ascii=False, indent=2),
+        encoding='utf-8')
+    return entries
+
+
 def run(nodes: list[dict], mode: str, engine: str, metrics: dict,
         log=print) -> dict:
     log("[7/8] Publicacion")
@@ -129,6 +162,8 @@ def run(nodes: list[dict], mode: str, engine: str, metrics: dict,
     # Copia para la PWA
     config.APP_DATA_DIR.mkdir(parents=True, exist_ok=True)
     shutil.copyfile(daily, config.APP_DATA_DIR / "pulse-latest.json")
+    if mode == 'live':
+        archive_history()
 
     log(f"  Publicados {len(publicables)} nodos -> {daily.name} (+ latest, + app)")
     return pulse

@@ -113,12 +113,13 @@ MAX_REFS_PER_NODE = 12        # referencias maximas mostradas por nodo
 MAX_API_CLUSTERS = 40         # solo los N clusters con mas potencial van al LLM
 
 CATEGORIES = ["geopolitica", "economia", "ciencia", "clima", "tecnologia",
-              "innovacion", "salud", "sociedad"]
+              "innovacion", "salud", "sociedad", "deportes"]
 
 # Definiciones estrictas de cada categoria. Se inyectan en el prompt maestro
 # para que el LLM no interprete los nombres libremente (p. ej. 'clima' NO es
 # meteorologia ni clima politico/social: es impacto del cambio climatico).
 CATEGORY_DEFS = {
+    "deportes": "competiciones, resultados, equipos y acontecimientos deportivos; no confundir resultados de partidos con salud",
     "geopolitica": "relaciones entre estados, conflictos, diplomacia, "
                    "elecciones, defensa y seguridad internacional",
     "economia":    "macroeconomia, mercados, comercio, banca central, "
@@ -144,6 +145,7 @@ CATEGORY_DEFS = {
 
 # Palabras clave por categoria (es + en, minusculas)
 CATEGORY_KEYWORDS = {
+    "deportes": ["football", "futbol", "champions league", "premier league", "basketball", "baloncesto", "tennis", "tenis", "olympics", "juegos olimpicos"],
     "geopolitica": ["guerra", "war", "tratado", "treaty", "cumbre", "summit",
                     "sancion", "sanction", "eleccion", "election", "otan", "nato",
                     "onu", "un ", "frontera", "border", "conflicto", "conflict",
@@ -186,7 +188,7 @@ CATEGORY_KEYWORDS = {
     "salud":       ["salud", "health", "vacuna", "vaccine", "hospital",
                     "enfermedad", "disease", "epidemia", "epidemic", "pandemia",
                     "pandemic", "cancer", "farmaco", "drug", "ensayo clinico",
-                    "clinical trial", "oms", "who ", "salud mental",
+                    "clinical trial", "oms", "world health organization", "salud mental",
                     "mental health", "bienestar", "wellness", "nutricion",
                     "nutrition", "obesidad", "obesity", "ejercicio", "fitness",
                     "longevidad", "longevity", "terapia", "therapy"],
