@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-14
-nodos: 26
+actualizado: 2026-10-15
+nodos: 25
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-14. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-15. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-26 nodos registrados en el periodo. Lo mas reciente: Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU..
+25 nodos registrados en el periodo. Lo mas reciente: El Tesoro estadounidense multa a Bank of America con 1.200 millones de dólares.
 
 ## Trend summary (EN)
-26 nodes recorded in the period. Most recent: Trump faces backlash after posting 'sick' video of UK man killed by tiger.
+25 nodes recorded in the period. Most recent: Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos.
 
 > [!note] Estado actual
-> Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.
+> El Tesoro estadounidense multa a Bank of America con 1.200 millones de dólares
 
-## Nodos recientes (26 en la ventana)
+## Nodos recientes (25 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-15 | 47 | K0 | El Tesoro estadounidense multa a Bank of America con 1.200 millo |
 | 2026-10-14 | 87 | K1 | Cómo los conflictos globales se han convertido en un dolor de ca |
 | 2026-10-14 | 83 | K0 | 12 U.S. senators, including 6 Republicans, tell Trump to drop di |
 | 2026-10-14 | 55 | K0 | Bank of America es multado con 1.200 millones de dólares por fal |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-09 | 56 | K1 | Rusia niega cualquier riesgo epidémico en medio de llamados a la |
 | 2026-10-08 | 83 | K0 | Russian attack on bus kills at least 30 people near Ukraine fron |
 | 2026-10-07 | 95 | K1 | Trump abordará con Putin el brote de peste neumónica en Rusia mi |
-| 2026-10-07 | 66 | K0 | Fuel from South Korea being shipped to Russia as Ukraine war gri |
 
 [[Global Brain — Inicio|← Inicio]]

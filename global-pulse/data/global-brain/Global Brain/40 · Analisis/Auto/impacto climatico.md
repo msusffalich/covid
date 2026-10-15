@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-14
+actualizado: 2026-10-15
 nodos: 26
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-14. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-15. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 26 nodos registrados en el periodo. Lo mas reciente: Tormenta inusual de lluvia y granizo desborda Santiago de Chile.

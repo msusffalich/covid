@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-10-14T09:53:21.485237+00:00",
+    "generado": "2026-10-15T10:01:17.233109+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 31,
-      "ultima_fecha": "2026-10-14",
+      "n_nodos": 34,
+      "ultima_fecha": "2026-10-15",
       "resumen": {
-        "es": "31 nodos registrados en el periodo. Lo mas reciente: Bank of America es multado con 1.200 millones de dólares por fallos contra el blanqueo de capitales.",
-        "en": "31 nodes recorded in the period. Most recent: Bank of America fined $1.2 billion over money-laundering failures."
+        "es": "34 nodos registrados en el periodo. Lo mas reciente: Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes.",
+        "en": "34 nodes recorded in the period. Most recent: Container ships sink near Strait of Hormuz amid surge in Iranian attacks."
       },
       "estado": {
-        "es": "Bank of America es multado con 1.200 millones de dólares por fallos contra el blanqueo de capitales",
-        "en": "Bank of America fined $1.2 billion over money-laundering failures"
+        "es": "Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes",
+        "en": "Container ships sink near Strait of Hormuz amid surge in Iranian attacks"
       },
       "serie": [
-        {
-          "fecha": "2026-09-24",
-          "max": 95,
-          "n": 2
-        },
         {
           "fecha": "2026-09-25",
           "max": 95,
@@ -118,9 +113,74 @@
           "fecha": "2026-10-14",
           "max": 55,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-15",
+          "max": 82,
+          "n": 5
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes",
+            "en": "Container ships sink near Strait of Hormuz amid surge in Iranian attacks"
+          },
+          "impacto": 82,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+          "fuente": "The Guardian World"
+        },
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "Hutíes atacan instalaciones de Aramco y objetivos en Riad en medio de escalada del conflicto en Yemen",
+            "en": "Houthis attack Aramco facilities and Riyadh targets amid escalating Yemen conflict"
+          },
+          "impacto": 72,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.france24.com/es/video/20261014-hut%C3%ADes-atacan-sede-de-aramco-en-riad-pma-advierte-riesgo-de-inseguridad-alimentaria",
+          "fuente": "France 24 Espanol"
+        },
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "Escalada entre Arabia Saudita y los hutíes: ataques a depósitos petroleros y sede de Aramco",
+            "en": "Escalation between Saudi Arabia and Houthis: strikes on oil depots and Aramco headquarters"
+          },
+          "impacto": 72,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+          "fuente": "The Guardian World"
+        },
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "Protestas estudiantiles violentas en Albania por costos educativos y corrupción",
+            "en": "Violent student protests in Albania over education costs and corruption"
+          },
+          "impacto": 55,
+          "categoria": "sociedad",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+          "fuente": "The Guardian World"
+        },
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "El Tesoro estadounidense multa a Bank of America con 1.200 millones de dólares",
+            "en": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos"
+          },
+          "impacto": 47,
+          "categoria": "tecnologia",
+          "kardashev": "K0",
+          "url": "https://www.elmundo.es/internacional/2026/10/13/6ace9a48fc6c831f2e8b459f.html",
+          "fuente": "El Mundo Internacional"
+        },
         {
           "fecha": "2026-10-14",
           "titulo": {
@@ -204,66 +264,6 @@
           "kardashev": "K2",
           "url": "https://www.bbc.com/mundo/articles/c94g13g4zz8do?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-10-09",
-          "titulo": {
-            "es": "El costo electoral por los comentarios de Trump sobre que Irán puede “destruir” Los Ángeles o San Diego",
-            "en": "Families reunited as USS Lincoln returns from troubled 10-month deployment"
-          },
-          "impacto": 94,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/us/2026-10-07/el-costo-electoral-por-los-comentarios-de-trump-sobre-que-iran-puede-destruir-los-angeles-o-san-diego.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-10-09",
-          "titulo": {
-            "es": "Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y escalan la guerra en Yemen",
-            "en": "Houthi attacks on Riyadh airport kill three as Yemen war escalates"
-          },
-          "impacto": 78,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-10-08",
-          "titulo": {
-            "es": "Los hutíes dicen haber atacado con un misil el aeropuerto de Riad tras varias explosiones en Arabia Saudí",
-            "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
-          },
-          "impacto": 77,
-          "categoria": "salud",
-          "kardashev": "K1",
-          "url": "https://es.euronews.com/2026/10/08/huties-ataque-misil-aeropuerto-riad-explosiones-arabia-saudi",
-          "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-08",
-          "titulo": {
-            "es": "Detenida la esposa del poderoso expresidente de Sri Lanka por el presunto uso indebido de donaciones",
-            "en": "Dry wells and shrinking water holes as drought grips Sri Lanka"
-          },
-          "impacto": 65,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://es.euronews.com/video/2026/10/08/pozos-secos-y-charcas-menguantes-mientras-la-sequia-asfixia-sri-lanka",
-          "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-07",
-          "titulo": {
-            "es": "Las \"cucarachas\" vuelven a las calles de India por los cambios en el censo electoral",
-            "en": "India hikes interest rates for first time in over three years as Iran war fuels inflation"
-          },
-          "impacto": 83,
-          "categoria": "economia",
-          "kardashev": "K1",
-          "url": "https://es.euronews.com/2026/10/07/india-sube-los-tipos-por-1-vez-en-3-anos-mientras-la-guerra-en-iran-alimenta-la-inflacion",
-          "fuente": "Euronews Espanol"
         }
       ]
     },
@@ -274,22 +274,17 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 26,
-      "ultima_fecha": "2026-10-14",
+      "n_nodos": 25,
+      "ultima_fecha": "2026-10-15",
       "resumen": {
-        "es": "26 nodos registrados en el periodo. Lo mas reciente: Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU..",
-        "en": "26 nodes recorded in the period. Most recent: Trump faces backlash after posting 'sick' video of UK man killed by tiger."
+        "es": "25 nodos registrados en el periodo. Lo mas reciente: El Tesoro estadounidense multa a Bank of America con 1.200 millones de dólares.",
+        "en": "25 nodes recorded in the period. Most recent: Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos."
       },
       "estado": {
-        "es": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
-        "en": "Trump faces backlash after posting 'sick' video of UK man killed by tiger"
+        "es": "El Tesoro estadounidense multa a Bank of America con 1.200 millones de dólares",
+        "en": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos"
       },
       "serie": [
-        {
-          "fecha": "2026-09-24",
-          "max": 83,
-          "n": 2
-        },
         {
           "fecha": "2026-09-26",
           "max": 66,
@@ -364,9 +359,26 @@
           "fecha": "2026-10-14",
           "max": 87,
           "n": 3
+        },
+        {
+          "fecha": "2026-10-15",
+          "max": 47,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "El Tesoro estadounidense multa a Bank of America con 1.200 millones de dólares",
+            "en": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos"
+          },
+          "impacto": 47,
+          "categoria": "tecnologia",
+          "kardashev": "K0",
+          "url": "https://www.elmundo.es/internacional/2026/10/13/6ace9a48fc6c831f2e8b459f.html",
+          "fuente": "El Mundo Internacional"
+        },
         {
           "fecha": "2026-10-14",
           "titulo": {
@@ -498,18 +510,6 @@
           "kardashev": "K1",
           "url": "https://es.euronews.com/2026/10/07/trump-abordara-putin-brote-peste-neumonica-rusia-mientras-moscu-pide-calma",
           "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-07",
-          "titulo": {
-            "es": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on",
-            "en": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on"
-          },
-          "impacto": 66,
-          "categoria": "innovacion",
-          "kardashev": "K0",
-          "url": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
-          "fuente": "The Guardian World"
         }
       ]
     },
@@ -520,22 +520,17 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 20,
-      "ultima_fecha": "2026-10-14",
+      "n_nodos": 21,
+      "ultima_fecha": "2026-10-15",
       "resumen": {
-        "es": "20 nodos registrados en el periodo. Lo mas reciente: La Nobel de Paz Navi Pillay, criticada por su presunto \"militantismo antiisraelí\".",
-        "en": "20 nodes recorded in the period. Most recent: ICJ judge Navi Pillay wins Nobel peace prize for promoting international law."
+        "es": "21 nodos registrados en el periodo. Lo mas reciente: Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes.",
+        "en": "21 nodes recorded in the period. Most recent: Container ships sink near Strait of Hormuz amid surge in Iranian attacks."
       },
       "estado": {
-        "es": "La Nobel de Paz Navi Pillay, criticada por su presunto \"militantismo antiisraelí\"",
-        "en": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law"
+        "es": "Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes",
+        "en": "Container ships sink near Strait of Hormuz amid surge in Iranian attacks"
       },
       "serie": [
-        {
-          "fecha": "2026-09-24",
-          "max": 83,
-          "n": 1
-        },
         {
           "fecha": "2026-09-26",
           "max": 95,
@@ -605,9 +600,38 @@
           "fecha": "2026-10-14",
           "max": 86,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-15",
+          "max": 82,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes",
+            "en": "Container ships sink near Strait of Hormuz amid surge in Iranian attacks"
+          },
+          "impacto": 82,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+          "fuente": "The Guardian World"
+        },
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "Navi Pillay, Premio Nobel de la Paz 2026, llama a prevenir genocidios y reforzar la justicia internacional",
+            "en": "Navi Pillay, 2026 Nobel Peace Prize laureate, calls for genocide prevention and stronger international law"
+          },
+          "impacto": 68,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.rfi.fr/es/sociedad/20261014-navi-pillay-premio-nobel-de-la-paz-la-comunidad-internacional-debe-hacer-m%C3%A1s-para-prevenir-los-genocidio",
+          "fuente": "RFI Espanol"
+        },
         {
           "fecha": "2026-10-14",
           "titulo": {
@@ -727,30 +751,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/cq0lrl6z5rw1o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-10-02",
-          "titulo": {
-            "es": "El aterrizaje del avión en Arabia Saudí muestra los límites de su cooperación con Israel",
-            "en": "WHO and the Kingdom of Saudi Arabia sign agreements in support of health priorities"
-          },
-          "impacto": 61,
-          "categoria": "salud",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-10-02/el-aterrizaje-del-avion-en-arabia-saudi-muestra-los-limites-de-su-cooperacion-con-israel.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-10-02",
-          "titulo": {
-            "es": "Un año después del alto el fuego, Gaza enfrenta crisis humanitaria con aumento de violencia sexual y matrimonios forzados",
-            "en": "One year after ceasefire, Gaza faces humanitarian crisis with rising sexual violence and forced marriages"
-          },
-          "impacto": 55,
-          "categoria": "sociedad",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cq14dd5ge5v1o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -761,22 +761,17 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 29,
-      "ultima_fecha": "2026-10-14",
+      "n_nodos": 28,
+      "ultima_fecha": "2026-10-15",
       "resumen": {
-        "es": "29 nodos registrados en el periodo. Lo mas reciente: ASML reporta ventas récord y advierte que la demanda de IA superará su capacidad de producción.",
-        "en": "29 nodes recorded in the period. Most recent: ASML posts record sales and warns AI demand will outpace its production capacity."
+        "es": "28 nodos registrados en el periodo. Lo mas reciente: Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT.",
+        "en": "28 nodes recorded in the period. Most recent: Eight US states sue OpenAI over alleged harms to children from ChatGPT."
       },
       "estado": {
-        "es": "ASML reporta ventas récord y advierte que la demanda de IA superará su capacidad de producción",
-        "en": "ASML posts record sales and warns AI demand will outpace its production capacity"
+        "es": "Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT",
+        "en": "Eight US states sue OpenAI over alleged harms to children from ChatGPT"
       },
       "serie": [
-        {
-          "fecha": "2026-09-24",
-          "max": 95,
-          "n": 4
-        },
         {
           "fecha": "2026-09-25",
           "max": 95,
@@ -836,9 +831,50 @@
           "fecha": "2026-10-14",
           "max": 68,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-15",
+          "max": 62,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT",
+            "en": "Eight US states sue OpenAI over alleged harms to children from ChatGPT"
+          },
+          "impacto": 62,
+          "categoria": "tecnologia",
+          "kardashev": "K2",
+          "url": "https://www.elmundo.es/internacional/2026/10/15/6ad07607fdddfff12d8b4598.html",
+          "fuente": "El Mundo Internacional"
+        },
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "TSMC reporta ganancias récord por sexto trimestre consecutivo impulsadas por el auge de la IA",
+            "en": "TSMC reports record profit for sixth straight quarter driven by AI boom"
+          },
+          "impacto": 62,
+          "categoria": "economia",
+          "kardashev": "K1",
+          "url": "https://www.euronews.com/2026/10/15/taiwan-chip-giant-tsmc-says-net-profit-hit-record-in-third-quarter",
+          "fuente": "Euronews English"
+        },
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "Ingeniero saudí de OpenAI arrestado por espionaje tras hallar un dispositivo de grabación oculto en papel higiénico",
+            "en": "Saudi OpenAI engineer arrested for espionage after recording device found hidden in toilet paper"
+          },
+          "impacto": 55,
+          "categoria": "tecnologia",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
         {
           "fecha": "2026-10-14",
           "titulo": {
@@ -946,42 +982,6 @@
           "kardashev": "K2",
           "url": "https://www.bbc.com/mundo/articles/c6z7zzel0lx5o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-09-30",
-          "titulo": {
-            "es": "OpenAI is sued over rogue AI Hugging Face cyberattack",
-            "en": "OpenAI is sued over rogue AI Hugging Face cyberattack"
-          },
-          "impacto": 53,
-          "categoria": "tecnologia",
-          "kardashev": "K0",
-          "url": "https://www.nytimes.com/2026/09/29/world/asia/openai-australia-government-hack-apology.html",
-          "fuente": "NYT World"
-        },
-        {
-          "fecha": "2026-09-29",
-          "titulo": {
-            "es": "La redefinición de la IA por Trump provoca una avalancha inesperada de dominios eslovenos .si",
-            "en": "Trump finalizes rule to make cars less fuel efficient"
-          },
-          "impacto": 87,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/opinion/2026-09-27/trump-es-un-loser-un-perdedor.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-09-29",
-          "titulo": {
-            "es": "Fallas de seguridad paralizan el lanzamiento de la nueva IA de OpenAI",
-            "en": "OpenAI scraps release of new model over safety concerns in internal testing"
-          },
-          "impacto": 87,
-          "categoria": "innovacion",
-          "kardashev": "K1",
-          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260929-fallas-de-seguridad-paralizan-el-lanzamiento-de-la-nueva-ia-de-openai",
-          "fuente": "France 24 Espanol"
         }
       ]
     },
@@ -1228,22 +1228,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 33,
-      "ultima_fecha": "2026-10-14",
+      "n_nodos": 35,
+      "ultima_fecha": "2026-10-15",
       "resumen": {
-        "es": "33 nodos registrados en el periodo. Lo mas reciente: Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU..",
-        "en": "33 nodes recorded in the period. Most recent: Trump faces backlash after posting 'sick' video of UK man killed by tiger."
+        "es": "35 nodos registrados en el periodo. Lo mas reciente: Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes.",
+        "en": "35 nodes recorded in the period. Most recent: Container ships sink near Strait of Hormuz amid surge in Iranian attacks."
       },
       "estado": {
-        "es": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
-        "en": "Trump faces backlash after posting 'sick' video of UK man killed by tiger"
+        "es": "Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes",
+        "en": "Container ships sink near Strait of Hormuz amid surge in Iranian attacks"
       },
       "serie": [
-        {
-          "fecha": "2026-09-24",
-          "max": 72,
-          "n": 1
-        },
         {
           "fecha": "2026-09-25",
           "max": 95,
@@ -1323,9 +1318,50 @@
           "fecha": "2026-10-14",
           "max": 87,
           "n": 4
+        },
+        {
+          "fecha": "2026-10-15",
+          "max": 82,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes",
+            "en": "Container ships sink near Strait of Hormuz amid surge in Iranian attacks"
+          },
+          "impacto": 82,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+          "fuente": "The Guardian World"
+        },
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "Escalada entre Arabia Saudita y los hutíes: ataques a depósitos petroleros y sede de Aramco",
+            "en": "Escalation between Saudi Arabia and Houthis: strikes on oil depots and Aramco headquarters"
+          },
+          "impacto": 72,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+          "fuente": "The Guardian World"
+        },
+        {
+          "fecha": "2026-10-15",
+          "titulo": {
+            "es": "Ingeniero saudí de OpenAI arrestado por espionaje tras hallar un dispositivo de grabación oculto en papel higiénico",
+            "en": "Saudi OpenAI engineer arrested for espionage after recording device found hidden in toilet paper"
+          },
+          "impacto": 55,
+          "categoria": "tecnologia",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
         {
           "fecha": "2026-10-14",
           "titulo": {
@@ -1432,42 +1468,6 @@
           "categoria": "economia",
           "kardashev": "K0",
           "url": "https://www.bbc.com/mundo/articles/cr78pegge239o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-10-12",
-          "titulo": {
-            "es": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
-            "en": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities"
-          },
-          "impacto": 50,
-          "categoria": "sociedad",
-          "kardashev": "K0",
-          "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
-          "fuente": "The Guardian World"
-        },
-        {
-          "fecha": "2026-10-09",
-          "titulo": {
-            "es": "Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y escalan la guerra en Yemen",
-            "en": "Houthi attacks on Riyadh airport kill three as Yemen war escalates"
-          },
-          "impacto": 78,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-10-09",
-          "titulo": {
-            "es": "Anne Carson gana el Premio Nobel de Literatura 2026",
-            "en": "Anne Carson wins the 2026 Nobel Prize in Literature"
-          },
-          "impacto": 55,
-          "categoria": "sociedad",
-          "kardashev": "K0",
-          "url": "https://www.bbc.com/mundo/articles/ckm23l8gpvr2o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
         }
       ]

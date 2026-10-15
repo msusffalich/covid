@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-10-14
-nodos: 33
+actualizado: 2026-10-15
+nodos: 35
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-14. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-15. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-33 nodos registrados en el periodo. Lo mas reciente: Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU..
+35 nodos registrados en el periodo. Lo mas reciente: Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes.
 
 ## Trend summary (EN)
-33 nodes recorded in the period. Most recent: Trump faces backlash after posting 'sick' video of UK man killed by tiger.
+35 nodes recorded in the period. Most recent: Container ships sink near Strait of Hormuz amid surge in Iranian attacks.
 
 > [!note] Estado actual
-> Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.
+> Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes
 
-## Nodos recientes (33 en la ventana)
+## Nodos recientes (35 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-15 | 82 | K1 | Buques portacontenedores se hunden cerca del estrecho de Ormuz e |
+| 2026-10-15 | 72 | K1 | Escalada entre Arabia Saudita y los hutíes: ataques a depósitos  |
+| 2026-10-15 | 55 | K1 | Ingeniero saudí de OpenAI arrestado por espionaje tras hallar un |
 | 2026-10-14 | 87 | K1 | Cómo los conflictos globales se han convertido en un dolor de ca |
 | 2026-10-14 | 83 | K0 | 12 U.S. senators, including 6 Republicans, tell Trump to drop di |
 | 2026-10-14 | 68 | K1 | ASML reporta ventas récord y advierte que la demanda de IA super |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-10-13 | 68 | K1 | El FMI advierte que la economía global pone a prueba sus límites |
 | 2026-10-12 | 95 | K1 | Guterres condena el ataque de los hutíes contra el aeropuerto de |
 | 2026-10-12 | 55 | K0 | Robert Hall y Michael Woodford ganan el Nobel de Economía 2026 |
-| 2026-10-12 | 50 | K0 | ‘It was a terrible thing’: Panama declares state of emergency as |
-| 2026-10-09 | 78 | K1 | Ataques hutíes contra el aeropuerto de Riad dejan tres muertos y |
-| 2026-10-09 | 55 | K0 | Anne Carson gana el Premio Nobel de Literatura 2026 |
 
 [[Global Brain — Inicio|← Inicio]]
