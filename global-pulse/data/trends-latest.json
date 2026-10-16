@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-10-15T10:01:17.233109+00:00",
+    "generado": "2026-10-16T10:18:18.697901+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -14,21 +14,16 @@
       },
       "color": "#E4634F",
       "n_nodos": 34,
-      "ultima_fecha": "2026-10-15",
+      "ultima_fecha": "2026-10-16",
       "resumen": {
-        "es": "34 nodos registrados en el periodo. Lo mas reciente: Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes.",
-        "en": "34 nodes recorded in the period. Most recent: Container ships sink near Strait of Hormuz amid surge in Iranian attacks."
+        "es": "34 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.",
+        "en": "34 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets."
       },
       "estado": {
-        "es": "Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes",
-        "en": "Container ships sink near Strait of Hormuz amid surge in Iranian attacks"
+        "es": "Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita",
+        "en": "Houthis escalate attacks on Aden and Saudi oil targets"
       },
       "serie": [
-        {
-          "fecha": "2026-09-25",
-          "max": 95,
-          "n": 1
-        },
         {
           "fecha": "2026-09-26",
           "max": 95,
@@ -118,9 +113,26 @@
           "fecha": "2026-10-15",
           "max": 82,
           "n": 5
+        },
+        {
+          "fecha": "2026-10-16",
+          "max": 68,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-16",
+          "titulo": {
+            "es": "Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita",
+            "en": "Houthis escalate attacks on Aden and Saudi oil targets"
+          },
+          "impacto": 68,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.france24.com/es/medio-oriente/20261015-yemen-rebeldes-hut%C3%ADes-atacan-el-palacio-presidencial-de-ad%C3%A9n-y-matan-a-dos-guardias",
+          "fuente": "France 24 Espanol"
+        },
         {
           "fecha": "2026-10-15",
           "titulo": {
@@ -252,18 +264,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/cvglw9930wx3o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-10-11",
-          "titulo": {
-            "es": "Ataque hutí con misil deja al menos 12 muertos y más de 300 heridos en el aeropuerto de Riad",
-            "en": "Houthi missile attack kills at least 12 and wounds over 300 at Riyadh airport"
-          },
-          "impacto": 82,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://www.bbc.com/mundo/articles/c94g13g4zz8do?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -274,15 +274,15 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 25,
-      "ultima_fecha": "2026-10-15",
+      "n_nodos": 26,
+      "ultima_fecha": "2026-10-16",
       "resumen": {
-        "es": "25 nodos registrados en el periodo. Lo mas reciente: El Tesoro estadounidense multa a Bank of America con 1.200 millones de dólares.",
-        "en": "25 nodes recorded in the period. Most recent: Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos."
+        "es": "26 nodos registrados en el periodo. Lo mas reciente: Ucrania busca alternativas europeas a defensas aéreas de EE.UU. y Starlink ante tensiones con Washington.",
+        "en": "26 nodes recorded in the period. Most recent: Ukraine seeks European alternatives to US air defences and Starlink amid tensions with Washington."
       },
       "estado": {
-        "es": "El Tesoro estadounidense multa a Bank of America con 1.200 millones de dólares",
-        "en": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos"
+        "es": "Ucrania busca alternativas europeas a defensas aéreas de EE.UU. y Starlink ante tensiones con Washington",
+        "en": "Ukraine seeks European alternatives to US air defences and Starlink amid tensions with Washington"
       },
       "serie": [
         {
@@ -364,9 +364,26 @@
           "fecha": "2026-10-15",
           "max": 47,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-16",
+          "max": 62,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-16",
+          "titulo": {
+            "es": "Ucrania busca alternativas europeas a defensas aéreas de EE.UU. y Starlink ante tensiones con Washington",
+            "en": "Ukraine seeks European alternatives to US air defences and Starlink amid tensions with Washington"
+          },
+          "impacto": 62,
+          "categoria": "geopolitica",
+          "kardashev": "K2",
+          "url": "https://es.euronews.com/2026/10/16/ucrania-impulsa-opciones-europeas-a-defensas-aereas-de-eeuu-y-starlink-ante-tension-con-wa",
+          "fuente": "Euronews Espanol"
+        },
         {
           "fecha": "2026-10-15",
           "titulo": {
@@ -498,18 +515,6 @@
           "kardashev": "K0",
           "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-10-07",
-          "titulo": {
-            "es": "Trump abordará con Putin el brote de peste neumónica en Rusia mientras Moscú llama a la calma",
-            "en": "Russia ‘pursuing strategy of terror’, EU’s von der Leyen says after deadly strikes on Ukraine – Europe live"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://es.euronews.com/2026/10/07/trump-abordara-putin-brote-peste-neumonica-rusia-mientras-moscu-pide-calma",
-          "fuente": "Euronews Espanol"
         }
       ]
     },
@@ -520,15 +525,15 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 21,
-      "ultima_fecha": "2026-10-15",
+      "n_nodos": 22,
+      "ultima_fecha": "2026-10-16",
       "resumen": {
-        "es": "21 nodos registrados en el periodo. Lo mas reciente: Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes.",
-        "en": "21 nodes recorded in the period. Most recent: Container ships sink near Strait of Hormuz amid surge in Iranian attacks."
+        "es": "22 nodos registrados en el periodo. Lo mas reciente: Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a la comunidad internacional a prevenir genocidios.",
+        "en": "22 nodes recorded in the period. Most recent: Navi Pillay, 2026 Nobel Peace Prize winner, calls on international community to prevent genocides."
       },
       "estado": {
-        "es": "Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes",
-        "en": "Container ships sink near Strait of Hormuz amid surge in Iranian attacks"
+        "es": "Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a la comunidad internacional a prevenir genocidios",
+        "en": "Navi Pillay, 2026 Nobel Peace Prize winner, calls on international community to prevent genocides"
       },
       "serie": [
         {
@@ -605,9 +610,26 @@
           "fecha": "2026-10-15",
           "max": 82,
           "n": 2
+        },
+        {
+          "fecha": "2026-10-16",
+          "max": 72,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-16",
+          "titulo": {
+            "es": "Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a la comunidad internacional a prevenir genocidios",
+            "en": "Navi Pillay, 2026 Nobel Peace Prize winner, calls on international community to prevent genocides"
+          },
+          "impacto": 72,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.rfi.fr/es/sociedad/20261014-navi-pillay-premio-nobel-de-la-paz-la-comunidad-internacional-debe-hacer-m%C3%A1s-para-prevenir-los-genocidio",
+          "fuente": "RFI Espanol"
+        },
         {
           "fecha": "2026-10-15",
           "titulo": {
@@ -739,18 +761,6 @@
           "kardashev": "K1",
           "url": "https://www.aljazeera.com/news/2026/10/3/who-warns-of-devastating-consequences-due-to-delayed-aid-entry-into-gaza?traffic_source=rss",
           "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-10-02",
-          "titulo": {
-            "es": "EE.UU. e Israel señalan a Irán por incidente en vuelo de Flydubai, aunque sin pruebas",
-            "en": "Passengers foil bid to crash Dubai-Tel Aviv flight after co-pilot stabbed pilot, Israel says"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cq0lrl6z5rw1o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -761,22 +771,17 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 28,
+      "n_nodos": 24,
       "ultima_fecha": "2026-10-15",
       "resumen": {
-        "es": "28 nodos registrados en el periodo. Lo mas reciente: Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT.",
-        "en": "28 nodes recorded in the period. Most recent: Eight US states sue OpenAI over alleged harms to children from ChatGPT."
+        "es": "24 nodos registrados en el periodo. Lo mas reciente: Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT.",
+        "en": "24 nodes recorded in the period. Most recent: Eight US states sue OpenAI over alleged harms to children from ChatGPT."
       },
       "estado": {
         "es": "Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT",
         "en": "Eight US states sue OpenAI over alleged harms to children from ChatGPT"
       },
       "serie": [
-        {
-          "fecha": "2026-09-25",
-          "max": 95,
-          "n": 4
-        },
         {
           "fecha": "2026-09-26",
           "max": 95,
@@ -992,22 +997,17 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 26,
-      "ultima_fecha": "2026-10-14",
+      "n_nodos": 25,
+      "ultima_fecha": "2026-10-16",
       "resumen": {
-        "es": "26 nodos registrados en el periodo. Lo mas reciente: Tormenta inusual de lluvia y granizo desborda Santiago de Chile.",
-        "en": "26 nodes recorded in the period. Most recent: Unusual hail and rain storm overwhelms Santiago, Chile."
+        "es": "25 nodos registrados en el periodo. Lo mas reciente: WHO and the Netherlands renew their partnership on climate change and health.",
+        "en": "25 nodes recorded in the period. Most recent: WHO and the Netherlands renew their partnership on climate change and health."
       },
       "estado": {
-        "es": "Tormenta inusual de lluvia y granizo desborda Santiago de Chile",
-        "en": "Unusual hail and rain storm overwhelms Santiago, Chile"
+        "es": "WHO and the Netherlands renew their partnership on climate change and health",
+        "en": "WHO and the Netherlands renew their partnership on climate change and health"
       },
       "serie": [
-        {
-          "fecha": "2026-09-25",
-          "max": 45,
-          "n": 2
-        },
         {
           "fecha": "2026-09-26",
           "max": 62,
@@ -1072,9 +1072,26 @@
           "fecha": "2026-10-14",
           "max": 45,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-16",
+          "max": 38,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-16",
+          "titulo": {
+            "es": "WHO and the Netherlands renew their partnership on climate change and health",
+            "en": "WHO and the Netherlands renew their partnership on climate change and health"
+          },
+          "impacto": 38,
+          "categoria": "salud",
+          "kardashev": "K1",
+          "url": "https://www.who.int/news/item/10-10-2024-who-and-the-netherlands-renew-their-partnership-on-climate-change-and-health",
+          "fuente": "WHO News"
+        },
         {
           "fecha": "2026-10-14",
           "titulo": {
@@ -1184,18 +1201,6 @@
           "fuente": "Euronews Espanol"
         },
         {
-          "fecha": "2026-10-05",
-          "titulo": {
-            "es": "WHO and the Netherlands renew their partnership on climate change and health",
-            "en": "WHO and the Netherlands renew their partnership on climate change and health"
-          },
-          "impacto": 48,
-          "categoria": "salud",
-          "kardashev": "K1",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168515",
-          "fuente": "UN News"
-        },
-        {
           "fecha": "2026-10-01",
           "titulo": {
             "es": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years",
@@ -1228,22 +1233,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 35,
-      "ultima_fecha": "2026-10-15",
+      "n_nodos": 34,
+      "ultima_fecha": "2026-10-16",
       "resumen": {
-        "es": "35 nodos registrados en el periodo. Lo mas reciente: Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes.",
-        "en": "35 nodes recorded in the period. Most recent: Container ships sink near Strait of Hormuz amid surge in Iranian attacks."
+        "es": "34 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.",
+        "en": "34 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets."
       },
       "estado": {
-        "es": "Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes",
-        "en": "Container ships sink near Strait of Hormuz amid surge in Iranian attacks"
+        "es": "Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita",
+        "en": "Houthis escalate attacks on Aden and Saudi oil targets"
       },
       "serie": [
-        {
-          "fecha": "2026-09-25",
-          "max": 95,
-          "n": 3
-        },
         {
           "fecha": "2026-09-26",
           "max": 95,
@@ -1323,9 +1323,38 @@
           "fecha": "2026-10-15",
           "max": 82,
           "n": 3
+        },
+        {
+          "fecha": "2026-10-16",
+          "max": 68,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-16",
+          "titulo": {
+            "es": "Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita",
+            "en": "Houthis escalate attacks on Aden and Saudi oil targets"
+          },
+          "impacto": 68,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.france24.com/es/medio-oriente/20261015-yemen-rebeldes-hut%C3%ADes-atacan-el-palacio-presidencial-de-ad%C3%A9n-y-matan-a-dos-guardias",
+          "fuente": "France 24 Espanol"
+        },
+        {
+          "fecha": "2026-10-16",
+          "titulo": {
+            "es": "El BCE autoriza a UniCredit a tomar el control de Commerzbank",
+            "en": "ECB authorizes UniCredit to take control of Commerzbank"
+          },
+          "impacto": 62,
+          "categoria": "economia",
+          "kardashev": "K1",
+          "url": "https://es.euronews.com/2026/10/15/unicredit-puede-tomar-el-control-de-commerzbank-tras-el-visto-bueno-del-bce",
+          "fuente": "Euronews Espanol"
+        },
         {
           "fecha": "2026-10-15",
           "titulo": {
@@ -1445,30 +1474,6 @@
           "kardashev": "K1",
           "url": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
           "fuente": "The Guardian World"
-        },
-        {
-          "fecha": "2026-10-12",
-          "titulo": {
-            "es": "Guterres condena el ataque de los hutíes contra el aeropuerto de Riad, Arabia Saudita",
-            "en": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-10-10/un-ataque-de-los-huties-contra-el-aeropuerto-de-la-capital-de-arabia-saudi-causa-al-menos-12-muertos.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-10-12",
-          "titulo": {
-            "es": "Robert Hall y Michael Woodford ganan el Nobel de Economía 2026",
-            "en": "Robert Hall and Michael Woodford win 2026 Nobel Prize in Economics"
-          },
-          "impacto": 55,
-          "categoria": "economia",
-          "kardashev": "K0",
-          "url": "https://www.bbc.com/mundo/articles/cr78pegge239o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     }

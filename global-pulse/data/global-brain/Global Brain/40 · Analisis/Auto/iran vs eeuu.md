@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-15
+actualizado: 2026-10-16
 nodos: 34
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-15. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-16. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-34 nodos registrados en el periodo. Lo mas reciente: Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes.
+34 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.
 
 ## Trend summary (EN)
-34 nodes recorded in the period. Most recent: Container ships sink near Strait of Hormuz amid surge in Iranian attacks.
+34 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets.
 
 > [!note] Estado actual
-> Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes
+> Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita
 
 ## Nodos recientes (34 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-16 | 68 | K1 | Hutíes escalan ataques contra Adén y objetivos petroleros en Ara |
 | 2026-10-15 | 82 | K1 | Buques portacontenedores se hunden cerca del estrecho de Ormuz e |
 | 2026-10-15 | 72 | K1 | Hutíes atacan instalaciones de Aramco y objetivos en Riad en med |
 | 2026-10-15 | 72 | K1 | Escalada entre Arabia Saudita y los hutíes: ataques a depósitos  |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-13 | 49 | K0 | Why is it so hard to fight the Houthis? |
 | 2026-10-12 | 95 | K1 | Guterres condena el ataque de los hutíes contra el aeropuerto de |
 | 2026-10-12 | 54 | K1 | El Niño gana fuerza en América Latina: sequía, hambre y riesgo d |
-| 2026-10-11 | 82 | K2 | Ataque hutí con misil deja al menos 12 muertos y más de 300 heri |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -1,221 +1,35 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-10-15",
-    "generado": "2026-10-15T10:00:37.196010+00:00",
+    "fecha": "2026-10-16",
+    "generado": "2026-10-16T10:17:37.842464+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 980,
-      "clusters": 854,
-      "nodos": 854,
-      "verificados": 853,
-      "duracion_s": 1900.6
+      "piezas_ingeridas": 974,
+      "clusters": 850,
+      "nodos": 850,
+      "verificados": 850,
+      "duracion_s": 3331.4
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes",
-        "en": "Container ships sink near Strait of Hormuz amid surge in Iranian attacks"
+        "es": "Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a la comunidad internacional a prevenir genocidios",
+        "en": "Navi Pillay, 2026 Nobel Peace Prize winner, calls on international community to prevent genocides"
       },
       "sintesis": {
-        "es": "Al menos dos buques portacontenedores se hundieron tras ser alcanzados por misiles cerca del estrecho de Ormuz, en el marco del mayor incremento de ataques iraníes contra el transporte marítimo desde el inicio de la guerra entre EE.UU., Israel e Irán. Analistas sugieren que Irán busca cerrar la vía estratégica para frustrar los esfuerzos de Donald Trump por reducir los precios del combustible antes de las elecciones legislativas del 3 de noviembre en EE.UU. Irán también intentaría frenar el repunte de las exportaciones de crudo mediante estos ataques.",
-        "en": "At least two container ships sank after being struck by missiles near the Strait of Hormuz, amid the sharpest rise in Iranian attacks on shipping since the start of the US-Israel war with Iran. Analysts suggest Iran is trying to close the strategic waterway to undermine Donald Trump's efforts to lower fuel prices before the November 3 US midterm elections. Iran is also reportedly seeking to curb a rebound in crude oil exports through these attacks."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Irán",
-        "Estados Unidos",
-        "Donald Trump",
-        "Israel"
-      ],
-      "geo": {
-        "lat": 26.5667,
-        "lon": 56.25,
-        "region": "Estrecho de Ormuz"
-      },
-      "impacto": 82,
-      "fuentes": [
-        "ev_b449d1e304",
-        "ev_d0e7c24fe3"
-      ],
-      "cluster_id": "cl_263",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/4fc21fa63e93fbaaaa809cd27026e9f36a66b115/371_63_3749_3001/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=9adc78c48312b707797cb410ed682ff7"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_b449d1e304",
-          "titulo": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
-          "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
-          "fuente": "The Guardian World",
-          "fecha": "Wed, 14 Oct 2026 17:05:42 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d0e7c24fe3",
-          "titulo": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-          "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Wed, 14 Oct 2026 19:22:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-15_0000",
-      "fecha": "2026-10-15",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-15_0001",
-        "nd_2026-10-15_0002",
-        "nd_2026-10-15_0003"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Hutíes atacan instalaciones de Aramco y objetivos en Riad en medio de escalada del conflicto en Yemen",
-        "en": "Houthis attack Aramco facilities and Riyadh targets amid escalating Yemen conflict"
-      },
-      "sintesis": {
-        "es": "Los rebeldes hutíes de Yemen, respaldados por Irán, reivindicaron ataques contra una sede de Aramco en Dhahran, el aeropuerto de Riad y una refinería en la capital saudita, en el marco de una escalada de ataques diarios contra Arabia Saudita. La ofensiva genera preocupación por posibles efectos en los mercados energéticos, mientras el Programa Mundial de Alimentos advierte que ya no puede acceder a más de 600.000 personas que necesitan ayuda humanitaria en Yemen debido a los enfrentamientos.",
-        "en": "Iran-backed Houthi rebels claimed attacks on an Aramco facility in Dhahran, Riyadh's airport, and a refinery in the Saudi capital, amid escalating daily attacks against Saudi Arabia. The offensive raises concerns over potential effects on energy markets, while the World Food Programme warns it can no longer reach over 600,000 people in need of humanitarian aid in Yemen due to the fighting."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Hutíes",
-        "Arabia Saudita",
-        "Aramco",
-        "Irán",
-        "Programa Mundial de Alimentos",
-        "Yemen"
-      ],
-      "geo": {
-        "lat": 24.7136,
-        "lon": 46.6753,
-        "region": "Riad, Arabia Saudita"
-      },
-      "impacto": 72,
-      "fuentes": [
-        "ev_e8180731d8",
-        "ev_f2ac7c2598"
-      ],
-      "cluster_id": "cl_068",
-      "imagenes": [
-        "https://s.france24.com/media/display/304a9ea6-c80c-11f1-abca-d1d2c32ebb87/w:1024/p:16x9/ES-20261014-123959-124202-CS.jpg",
-        "https://s.rfi.fr/media/display/fd2ef670-9b1f-11f1-af8b-005056bfb2b6/w:1024/p:16x9/2026-08-04T103230Z-2100552447-RC26BKA3Z3VV-RTRMADP-3-SAUDI-ARAMCO-RESULTS.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e8180731d8",
-          "titulo": "Hutíes atacan sede de Aramco en Riad; PMA advierte riesgo de inseguridad alimentaria",
-          "url": "https://www.france24.com/es/video/20261014-hut%C3%ADes-atacan-sede-de-aramco-en-riad-pma-advierte-riesgo-de-inseguridad-alimentaria",
-          "fuente": "France 24 Espanol",
-          "fecha": "Wed, 14 Oct 2026 22:43:23 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_f2ac7c2598",
-          "titulo": "Arabia Saudita: los hutíes de Yemen reivindican un ataque contra objetivos de petrolera Aramco",
-          "url": "https://www.rfi.fr/es/oriente-medio/20261014-arabia-saudita-los-hut%C3%ADes-de-yemen-reivindican-un-ataque-contra-objetivos-de-petrolera-aramco",
-          "fuente": "RFI Espanol",
-          "fecha": "Wed, 14 Oct 2026 13:39:11 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-10-15_0001",
-      "fecha": "2026-10-15",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-15_0000",
-        "nd_2026-10-15_0002"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Escalada entre Arabia Saudita y los hutíes: ataques a depósitos petroleros y sede de Aramco",
-        "en": "Escalation between Saudi Arabia and Houthis: strikes on oil depots and Aramco headquarters"
-      },
-      "sintesis": {
-        "es": "Arabia Saudita realizó ataques contra un depósito estratégico de petróleo cerca de Saná, en Yemen, advirtiendo previamente a los civiles que abandonaran la zona. En represalia, los hutíes, respaldados por Irán, lanzaron misiles hacia Dhahran, sede de la petrolera estatal Aramco, y hacia Riad, amenazando con continuar atacando aeropuertos e instalaciones petroleras saudíes. El incidente marca una fuerte escalada en el conflicto entre Riad y las fuerzas hutíes.",
-        "en": "Saudi Arabia carried out strikes on a strategic oil depot near Sana'a, Yemen, after warning civilians to leave the area. In retaliation, Iran-backed Houthi forces launched missiles toward Dhahran, home to state oil giant Aramco's headquarters, and toward Riyadh, vowing to continue attacking Saudi airports and oil facilities. The incident marks a significant escalation in the conflict between Riyadh and Houthi forces."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Arabia Saudita",
-        "Houthis",
-        "Saudi Aramco",
-        "Irán"
-      ],
-      "geo": {
-        "lat": 24.7136,
-        "lon": 46.6753,
-        "region": "Arabia Saudita / Yemen"
-      },
-      "impacto": 72,
-      "fuentes": [
-        "ev_f20f081c6e",
-        "ev_5a3a30ea5d",
-        "ev_7d7799ef50"
-      ],
-      "cluster_id": "cl_266",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/a0e9bef078e7fc1f0f1d0a49f0349b500081ee4b/505_0_3581_2864/master/3581.jpg?width=140&quality=85&auto=format&fit=max&s=f1364981767161f5e681adc1b7b691b0",
-        "https://s.france24.com/media/display/84e4ed72-bf65-11f1-8c8d-13420ab900a2/w:1024/p:16x9/000-D26B6KC.jpg",
-        "https://static01.nyt.com/images/2026/10/13/multimedia/13int-saudi-yemensub-photo-plbk/13int-saudi-yemensub-photo-plbk-mediumSquareAt3X.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f20f081c6e",
-          "titulo": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ",
-          "url": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
-          "fuente": "The Guardian World",
-          "fecha": "Tue, 13 Oct 2026 17:26:08 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_5a3a30ea5d",
-          "titulo": "Houthis threaten escalation after strike on Saudi oil giant Aramco",
-          "url": "https://www.france24.com/en/middle-east/20261014-yemen-houthis-vow-continue-saudi-attacks-oil-giant-aramco-headquarters-hit",
-          "fuente": "France 24 English",
-          "fecha": "Wed, 14 Oct 2026 16:21:53 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_7d7799ef50",
-          "titulo": "Saudi Energy Giant Struck as War Spikes Between Houthis and Saudi Arabia",
-          "url": "https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html",
-          "fuente": "NYT World",
-          "fecha": "Wed, 14 Oct 2026 00:56:54 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-15_0002",
-      "fecha": "2026-10-15",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-15_0000",
-        "nd_2026-10-15_0001"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Navi Pillay, Premio Nobel de la Paz 2026, llama a prevenir genocidios y reforzar la justicia internacional",
-        "en": "Navi Pillay, 2026 Nobel Peace Prize laureate, calls for genocide prevention and stronger international law"
-      },
-      "sintesis": {
-        "es": "La jurista sudafricana Navi Pillay fue galardonada con el Premio Nobel de la Paz 2026 por su trayectoria en derechos humanos, incluyendo su labor contra el apartheid, en el juicio del genocidio de Ruanda y como jueza de la Corte Internacional de Justicia, donde presidió la comisión que concluyó que Israel cometió genocidio en Gaza. En entrevistas tras el anuncio, Pillay subrayó que la comunidad internacional debe hacer más para prevenir genocidios pese a contar con recursos suficientes.",
-        "en": "South African jurist Navi Pillay was awarded the 2026 Nobel Peace Prize for her decades-long human rights career, including her fight against apartheid, her role in prosecuting the Rwandan genocide, and her work as an ICJ judge chairing the UN commission that found Israel guilty of genocide in Gaza. In post-award interviews, Pillay stressed that the international community must do more to prevent genocides despite having ample resources."
+        "es": "La jurista sudafricana Navi Pillay, ex Alta Comisionada de la ONU para los Derechos Humanos y jueza de la Corte Internacional de Justicia, recibió el Premio Nobel de la Paz 2026 por su trabajo en la promoción del derecho internacional. El Comité Noruego del Nobel destacó su labor presidiendo la comisión de la ONU que concluyó que Israel cometió genocidio en Gaza, además de su trayectoria en la lucha contra el apartheid y en el juicio del genocidio de Ruanda. En entrevistas posteriores, Pillay instó a la comunidad internacional a actuar con mayor firmeza para prevenir genocidios pese a los recursos disponibles.",
+        "en": "South African jurist Navi Pillay, former UN High Commissioner for Human Rights and judge at the International Court of Justice, was awarded the 2026 Nobel Peace Prize for her work advancing international law. The Norwegian Nobel Committee highlighted her role chairing the UN commission that found Israel guilty of genocide in Gaza, alongside her history fighting apartheid and judging the Rwandan genocide. In subsequent interviews, Pillay urged the international community to do more to prevent genocides despite available resources."
       },
       "categoria": "geopolitica",
       "actores": [
         "Navi Pillay",
-        "Comité Nobel Noruego",
-        "Corte Internacional de Justicia (CIJ)",
+        "Comité Noruego del Nobel",
         "ONU",
+        "Corte Internacional de Justicia",
         "Israel",
         "Gaza"
       ],
@@ -224,13 +38,13 @@
         "lon": 10.7522,
         "region": "Noruega / internacional"
       },
-      "impacto": 68,
+      "impacto": 72,
       "fuentes": [
         "ev_ca853ab287",
         "ev_cb3cdc2e85",
         "ev_70ed6f0599"
       ],
-      "cluster_id": "cl_085",
+      "cluster_id": "cl_094",
       "imagenes": [
         "https://s.rfi.fr/media/display/62517680-c3e4-11f1-8b87-53993c5f1f18/w:1024/p:16x9/2026-10-09T091257Z-761859587-RC2LZNA4KZBY-RTRMADP-3-NOBEL-PRIZE-PEACE.jpg",
         "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/30-10-2024_UN_News_PressConf_Navi.jpg/image560x340cropped.jpg",
@@ -263,420 +77,556 @@
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-15_0003",
-      "fecha": "2026-10-15",
+      "id": "nd_2026-10-16_0000",
+      "fecha": "2026-10-16",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-10-15_0000",
-        "nd_2026-10-15_0011"
+        "nd_2026-10-16_0009"
       ]
     },
     {
       "titulo": {
-        "es": "Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT",
-        "en": "Eight US states sue OpenAI over alleged harms to children from ChatGPT"
+        "es": "Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita",
+        "en": "Houthis escalate attacks on Aden and Saudi oil targets"
       },
       "sintesis": {
-        "es": "Ocho fiscalías estatales de EEUU (Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho y Montana) presentaron demandas por separado contra OpenAI, acusando a la empresa de priorizar beneficios sobre la seguridad y de engañar a los usuarios sobre los riesgos de ChatGPT. Las demandas alertan específicamente sobre casos en que el chatbot habría proporcionado instrucciones relacionadas con autolesión y suicidio a menores. El caso intensifica el escrutinio regulatorio sobre las prácticas de seguridad de la compañía.",
-        "en": "Eight US state attorneys general (Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana) filed separate lawsuits against OpenAI, accusing the company of prioritizing profits over safety and misleading users about ChatGPT's risks. The lawsuits specifically highlight instances where the chatbot allegedly provided self-harm and suicide-related instructions to minors. The case intensifies regulatory scrutiny over the company's safety practices."
+        "es": "Los rebeldes hutíes de Yemen, respaldados por Irán, atacaron el Palacio Presidencial en Adén con misiles y drones, matando a dos guardias, en un ataque contra el gobierno yemení reconocido internacionalmente. Un día antes, reivindicaron ataques contra instalaciones de la petrolera Aramco, el aeropuerto de Riad y una refinería saudita, en medio de una escalada de ofensivas diarias que generan preocupación por los mercados energéticos.",
+        "en": "Iran-backed Houthi rebels in Yemen attacked the Presidential Palace in Aden with missiles and drones, killing two guards, targeting the internationally recognized Yemeni government. A day earlier, they claimed attacks on Aramco oil facilities, Riyadh airport, and a Saudi refinery, amid a daily escalation of offensives raising concerns over energy markets."
       },
-      "categoria": "tecnologia",
+      "categoria": "geopolitica",
       "actores": [
-        "OpenAI",
-        "Fiscalías de Iowa",
-        "Fiscalías de Kansas",
-        "Fiscalías de Nebraska",
-        "Fiscalías de West Virginia",
-        "Fiscalías de Arkansas",
-        "Fiscalías de Arizona",
-        "Fiscalías de Idaho",
-        "Fiscalías de Montana"
+        "Hutíes",
+        "Gobierno de Yemen",
+        "Arabia Saudita",
+        "Aramco",
+        "Irán"
       ],
       "geo": {
-        "lat": 39.8283,
-        "lon": -98.5795,
-        "region": "Estados Unidos"
+        "lat": 15.3694,
+        "lon": 44.191,
+        "region": "Yemen/Arabia Saudita"
       },
-      "impacto": 62,
+      "impacto": 68,
       "fuentes": [
-        "ev_67302b44cd",
-        "ev_a0f04be1a7",
-        "ev_6f2e0f63a4"
+        "ev_23b6d92b88",
+        "ev_f2ac7c2598"
       ],
-      "cluster_id": "cl_179",
+      "cluster_id": "cl_069",
       "imagenes": [
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920468671786.jpg"
+        "https://s.france24.com/media/display/cfa7774a-ad26-11f1-b466-005056bf30b7/w:1024/p:16x9/FOTO-PORTADA-YEMEN-REBELDES-HUTIES.jpg",
+        "https://s.rfi.fr/media/display/fd2ef670-9b1f-11f1-af8b-005056bfb2b6/w:1024/p:16x9/2026-08-04T103230Z-2100552447-RC26BKA3Z3VV-RTRMADP-3-SAUDI-ARAMCO-RESULTS.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_67302b44cd",
-          "titulo": "OpenAI, la impulsora de ChatGPT, demandada por ocho estados de EEUU por \"causar daños a niños, engañar a padres\" e infringir la ley",
-          "url": "https://www.elmundo.es/internacional/2026/10/15/6ad07607fdddfff12d8b4598.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 15 Oct 2026 08:49:52 +0200",
+          "id": "ev_23b6d92b88",
+          "titulo": "Yemen: rebeldes hutíes atacan el Palacio Presidencial de Adén y matan a dos guardias",
+          "url": "https://www.france24.com/es/medio-oriente/20261015-yemen-rebeldes-hut%C3%ADes-atacan-el-palacio-presidencial-de-ad%C3%A9n-y-matan-a-dos-guardias",
+          "fuente": "France 24 Espanol",
+          "fecha": "Thu, 15 Oct 2026 20:51:35 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_a0f04be1a7",
-          "titulo": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-          "fuente": "The Verge",
-          "fecha": "",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6f2e0f63a4",
-          "titulo": "OpenAI sued by 8 states over ChatGPT safety concerns",
-          "url": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Wed, 14 Oct 2026 21:09:20 GMT",
-          "idioma": "en"
+          "id": "ev_f2ac7c2598",
+          "titulo": "Arabia Saudita: los hutíes de Yemen reivindican un ataque contra objetivos de petrolera Aramco",
+          "url": "https://www.rfi.fr/es/oriente-medio/20261014-arabia-saudita-los-hut%C3%ADes-de-yemen-reivindican-un-ataque-contra-objetivos-de-petrolera-aramco",
+          "fuente": "RFI Espanol",
+          "fecha": "Wed, 14 Oct 2026 13:39:11 GMT",
+          "idioma": "es"
         }
       ],
-      "id": "nd_2026-10-15_0004",
-      "fecha": "2026-10-15",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-10-15_0007"
-      ]
+      "id": "nd_2026-10-16_0001",
+      "fecha": "2026-10-16",
+      "kardashev": "K1",
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "TSMC reporta ganancias récord por sexto trimestre consecutivo impulsadas por el auge de la IA",
-        "en": "TSMC reports record profit for sixth straight quarter driven by AI boom"
+        "es": "Ucrania busca alternativas europeas a defensas aéreas de EE.UU. y Starlink ante tensiones con Washington",
+        "en": "Ukraine seeks European alternatives to US air defences and Starlink amid tensions with Washington"
       },
       "sintesis": {
-        "es": "El gigante taiwanés de semiconductores TSMC anunció que su ganancia neta del tercer trimestre se disparó un 68.7% hasta un máximo histórico, impulsada por la fuerte demanda global de hardware para inteligencia artificial. Es el sexto trimestre consecutivo de resultados récord, superando las estimaciones de analistas. El CEO de la compañía señaló que no observa señales de desaceleración en la demanda.",
-        "en": "Taiwanese chip giant TSMC announced its third-quarter net profit surged 68.7% to a record high, driven by strong global demand for AI hardware. This marks the sixth consecutive quarter of record results, beating analyst estimates. The company's CEO stated he sees no signs of a slowdown in demand."
+        "es": "En medio de crecientes tensiones entre Kiev y Washington, Ucrania está buscando en Europa alternativas a los sistemas de defensa aérea estadounidenses y al servicio satelital Starlink. Un alto cargo de la presidencia ucraniana confirmó a Euronews que ya existen planes concretos para avanzar hacia una mayor independencia tecnológica y de seguridad respecto a Estados Unidos.",
+        "en": "Amid deepening tensions between Kyiv and Washington, Ukraine is seeking European alternatives to US air defence systems and the Starlink satellite service. A senior Ukrainian presidential official told Euronews that concrete plans are already underway to pursue greater technological and security independence from the United States."
       },
-      "categoria": "economia",
+      "categoria": "geopolitica",
       "actores": [
-        "TSMC"
+        "Ucrania",
+        "Estados Unidos",
+        "Unión Europea",
+        "Volodymyr Zelensky",
+        "Starlink/SpaceX"
       ],
       "geo": {
-        "lat": 24.7738,
-        "lon": 120.9675,
-        "region": "Taiwán"
+        "lat": 50.4501,
+        "lon": 30.5234,
+        "region": "Ucrania/Europa"
       },
       "impacto": 62,
       "fuentes": [
-        "ev_5ce7d6f41b",
-        "ev_3a0d327cd5",
-        "ev_f647806dff"
+        "ev_c86dd9f42c",
+        "ev_81cbcff93c"
       ],
-      "cluster_id": "cl_393",
-      "imagenes": [
-        "https://images.mktw.net/im-77044765"
-      ],
+      "cluster_id": "cl_104",
+      "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_5ce7d6f41b",
-          "titulo": "Taiwan chip giant TSMC says net profit hit record in third quarter",
-          "url": "https://www.euronews.com/2026/10/15/taiwan-chip-giant-tsmc-says-net-profit-hit-record-in-third-quarter",
+          "id": "ev_c86dd9f42c",
+          "titulo": "Ucrania impulsa opciones europeas a defensas aéreas de EE.UU. y Starlink ante tensión con Washington",
+          "url": "https://es.euronews.com/2026/10/16/ucrania-impulsa-opciones-europeas-a-defensas-aereas-de-eeuu-y-starlink-ante-tension-con-wa",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 16 Oct 2026 09:09:52 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_81cbcff93c",
+          "titulo": "Ukraine pushes for European alternatives to US air defences and Starlink amid tensions with Washington",
+          "url": "https://www.euronews.com/2026/10/16/ukraine-pushes-for-european-alternatives-to-us-air-defences-and-starlink-amid-tensions-wit",
           "fuente": "Euronews English",
-          "fecha": "Thu, 15 Oct 2026 08:43:16 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_3a0d327cd5",
-          "titulo": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-          "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Thu, 15 Oct 2026 08:09:37 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f647806dff",
-          "titulo": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
-          "url": "https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Thu, 15 Oct 2026 08:42:00 GMT",
+          "fecha": "Fri, 16 Oct 2026 07:59:59 +0200",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-15_0005",
-      "fecha": "2026-10-15",
+      "id": "nd_2026-10-16_0002",
+      "fecha": "2026-10-16",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-10-16_0004"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "El BCE autoriza a UniCredit a tomar el control de Commerzbank",
+        "en": "ECB authorizes UniCredit to take control of Commerzbank"
+      },
+      "sintesis": {
+        "es": "El Banco Central Europeo ha autorizado a UniCredit a superar el 30% del capital de Commerzbank, allanando el camino para que la entidad italiana asuma el control del banco alemán. Según las fuentes, el proceso podría completarse hacia finales de año o desde 2027, sujeto a pasos regulatorios y condiciones adicionales. La operación supondría una de las mayores consolidaciones bancarias transfronterizas en Europa en los últimos años.",
+        "en": "The European Central Bank has authorized UniCredit to exceed the 30% shareholding threshold in Commerzbank, paving the way for the Italian lender to take control of the German bank. According to reports, the process could be completed around the end of the year or by 2027, subject to remaining regulatory steps and conditions. The deal would represent one of the largest cross-border banking consolidations in Europe in recent years."
+      },
+      "categoria": "economia",
+      "actores": [
+        "UniCredit",
+        "Commerzbank",
+        "Banco Central Europeo"
+      ],
+      "geo": {
+        "lat": 50.1109,
+        "lon": 8.6821,
+        "region": "Alemania/Italia - Union Europea"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_56cd7b41aa",
+        "ev_b7bb5c9521"
+      ],
+      "cluster_id": "cl_125",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_56cd7b41aa",
+          "titulo": "Unicredit puede tomar el control de Commerzbank tras el visto bueno del BCE",
+          "url": "https://es.euronews.com/2026/10/15/unicredit-puede-tomar-el-control-de-commerzbank-tras-el-visto-bueno-del-bce",
+          "fuente": "Euronews Espanol",
+          "fecha": "Thu, 15 Oct 2026 20:45:46 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_b7bb5c9521",
+          "titulo": "UniCredit cleared by ECB to take control of Commerzbank",
+          "url": "https://www.euronews.com/2026/10/15/unicredit-cleared-by-ecb-to-take-control-of-commerzbank",
+          "fuente": "Euronews English",
+          "fecha": "Thu, 15 Oct 2026 20:45:30 +0200",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-16_0003",
+      "fecha": "2026-10-16",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "El Papa Leon se recupera tras cirugia por cancer de pulmon",
-        "en": "Pope Leo recovering after surgery for lung cancer"
+        "es": "Maduro se declara inocente de nuevos cargos por tortura en tribunal de Nueva York",
+        "en": "Maduro pleads not guilty to new torture charges in New York court"
       },
       "sintesis": {
-        "es": "El Papa Leon, de 71 anos, fue diagnosticado con cancer de pulmon tras una cirugia de 90 minutos realizada el martes para extirpar parte de su pulmon derecho. El Vaticano informo que su recuperacion avanza segun lo esperado, ya que el pontifice ha comenzado a caminar y a comer con normalidad. Se espera que permanezca hospitalizado alrededor de una semana, mientras llegan mensajes de apoyo de todo el mundo.",
-        "en": "Pope Leo, 71, was diagnosed with lung cancer following a 90-minute surgery on Tuesday to remove part of his right lung. The Vatican reported that his recovery is progressing as expected, as the pontiff has begun walking and eating normally. He is expected to remain hospitalized for about a week while messages of support arrive from around the world."
+        "es": "El depuesto presidente venezolano Nicolás Maduro compareció ante un tribunal de Nueva York, donde rechazó como 'falsas' las nuevas acusaciones de tortura incluidas en una acta de acusación reformulada por narcotráfico. El documento también señala a su esposa, Cilia Flores, por liderar una campaña estatal de represión que incluyó la tortura de numerosas víctimas, entre ellas tres ciudadanos estadounidenses. El inicio del juicio se ha pospuesto del 1 al 14 de junio a petición de ambas partes.",
+        "en": "Deposed Venezuelan president Nicolás Maduro appeared before a New York court, where he called 'false' the new torture allegations added to a rewritten drug trafficking indictment. The document also accuses his wife, Cilia Flores, of leading a state-sponsored repression campaign that tortured numerous victims, including three American citizens. The trial's start date has been postponed from June 1 to June 14 at the request of both parties."
       },
-      "categoria": "salud",
+      "categoria": "geopolitica",
       "actores": [
-        "Papa Leon",
-        "Vaticano"
+        "Nicolás Maduro",
+        "Cilia Flores",
+        "Estados Unidos",
+        "Tribunal Federal de Nueva York"
       ],
       "geo": {
-        "lat": 41.9029,
-        "lon": 12.4534,
-        "region": "Ciudad del Vaticano / Roma, Italia"
+        "lat": 40.7128,
+        "lon": -74.006,
+        "region": "Nueva York, Estados Unidos"
       },
-      "impacto": 55,
+      "impacto": 62,
       "fuentes": [
-        "ev_8355166a2b",
-        "ev_d484137644",
-        "ev_e73fb7de53",
-        "ev_7928cf07e7"
+        "ev_a016ce79d1",
+        "ev_db3e0d15ca",
+        "ev_9efda9422f",
+        "ev_73db526194",
+        "ev_cb4e52b59d"
       ],
-      "cluster_id": "cl_228",
+      "cluster_id": "cl_177",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c622/live/69064170-c7e2-11f1-a64c-550be9e3c66b.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3145/live/67da1f80-c7cc-11f1-a64c-550be9e3c66b.jpg",
-        "https://static01.nyt.com/images/2026/10/14/multimedia/14int-pope-dispatch-gkmj/14int-pope-dispatch-gkmj-mediumSquareAt3X.jpg"
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920822654844.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ed/live/681f85b0-c8b8-11f1-bdfb-e3788aeae9ec.jpg",
+        "https://i.guim.co.uk/img/media/c84cbecb1aa6b6fc1724842c0b45b41fd1f86315/194_0_2281_1825/master/2281.jpg?width=140&quality=85&auto=format&fit=max&s=102fd4502e5a852a91c7c726a8a4a3e4",
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f18f/live/885f4610-c8bf-11f1-bdfb-e3788aeae9ec.png"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_8355166a2b",
-          "titulo": "Pope walking and recovering 'as expected' after surgery, doctors say",
-          "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+          "id": "ev_a016ce79d1",
+          "titulo": "Maduro y su mujer insisten en el tribunal de Nueva York en que las nuevas acusaciones por tortura son \"falsas\"",
+          "url": "https://www.elmundo.es/internacional/2026/10/15/6ad10066fdddff60468b457e.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Thu, 15 Oct 2026 18:40:51 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_db3e0d15ca",
+          "titulo": "Maduro pleads not guilty to new torture-related charges in New York",
+          "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Wed, 14 Oct 2026 15:12:46 GMT",
+          "fecha": "Thu, 15 Oct 2026 16:52:44 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_d484137644",
-          "titulo": "What we know about the Pope's lung cancer diagnosis",
-          "url": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Wed, 14 Oct 2026 12:37:33 GMT",
+          "id": "ev_9efda9422f",
+          "titulo": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
+          "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
+          "fuente": "The Guardian World",
+          "fecha": "Thu, 15 Oct 2026 16:38:32 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_e73fb7de53",
-          "titulo": "As Pope Leo Recovers From Surgery, Messages of Support Abound at Rome Hospital",
-          "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-surgery-cancer-hospital-rome.html",
-          "fuente": "NYT World",
-          "fecha": "Wed, 14 Oct 2026 15:42:26 +0000",
-          "idioma": "en"
+          "id": "ev_73db526194",
+          "titulo": "\"Soy completamente inocente\": Nicolás Maduro y Cilia Flores se declaran no culpables de los nuevos cargos de tortura",
+          "url": "https://www.bbc.com/mundo/articles/cqzjx42ld8wpo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Thu, 15 Oct 2026 17:41:22 GMT",
+          "idioma": "es"
         },
         {
-          "id": "ev_7928cf07e7",
-          "titulo": "Pope back on his feet, eating normally following cancer diagnosis",
-          "url": "https://www.cbc.ca/news/world/pope-lung-cancer-recovery-9.7380807?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Wed, 14 Oct 2026 16:25:14 EDT",
-          "idioma": "en"
+          "id": "ev_cb4e52b59d",
+          "titulo": "Maduro y Cilia Flores se declaran \"no culpables\" de los nuevos cargos por torturas presentados por EE.UU.",
+          "url": "https://es.euronews.com/2026/10/15/maduro-y-cilia-flores-se-declaran-inocentes",
+          "fuente": "Euronews Espanol",
+          "fecha": "Thu, 15 Oct 2026 18:21:01 +0200",
+          "idioma": "es"
         }
       ],
-      "id": "nd_2026-10-15_0006",
-      "fecha": "2026-10-15",
-      "kardashev": "K2",
+      "id": "nd_2026-10-16_0004",
+      "fecha": "2026-10-16",
+      "kardashev": "K1",
       "relaciones": [
-        "nd_2026-10-15_0010"
+        "nd_2026-10-16_0002"
       ]
     },
     {
       "titulo": {
-        "es": "Ingeniero saudí de OpenAI arrestado por espionaje tras hallar un dispositivo de grabación oculto en papel higiénico",
-        "en": "Saudi OpenAI engineer arrested for espionage after recording device found hidden in toilet paper"
+        "es": "Tiroteo en escuela primaria de Oregón deja cuatro muertos antes de que un transeúnte abatiera al tirador",
+        "en": "School shooting at Oregon elementary school leaves four dead before bystander kills gunman"
       },
       "sintesis": {
-        "es": "El FBI arrestó a Abdulrahman Alfozan, ingeniero saudí que trabajaba en OpenAI desde hacía más de un año, acusado de espionaje. Las autoridades hallaron un dispositivo de grabación oculto en papel higiénico dentro de una sala de reuniones de alta seguridad de la empresa. Alfozan enfrenta cargos federales que podrían implicar hasta 5 años de prisión y una multa de 250.000 dólares.",
-        "en": "The FBI arrested Abdulrahman Alfozan, a Saudi engineer who had worked at OpenAI for over a year, on espionage charges. Authorities discovered a recording device hidden in toilet paper inside a top-secret OpenAI meeting room. Alfozan faces federal charges carrying up to 5 years in prison and a $250,000 fine."
+        "es": "Un adolescente de 16 años abrió fuego el 15 de octubre de 2026 en la escuela primaria Silver Rail en Bend, Oregón, matando a tres niños (de 5, 8 y 11 años) y a una maestra, además de herir a otras dos personas. El atacante fue abatido dentro del centro por un transeúnte armado que lo persiguió. El colegio cuenta con entre 400 y 450 alumnos y más de 40 empleados.",
+        "en": "A 16-year-old gunman opened fire on October 15, 2026, at Silver Rail Elementary School in Bend, Oregon, killing three children (ages 5, 8 and 11) and a teacher, and wounding two others. The attacker was shot and killed inside the school by an armed bystander who had pursued him. The school has between 400 and 450 students and over 40 staff members."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Policía de Bend, Oregon",
+        "Silver Rail Elementary School",
+        "tirador de 16 años (fallecido)",
+        "transeúnte armado"
+      ],
+      "geo": {
+        "lat": 44.0582,
+        "lon": -121.3153,
+        "region": "Bend, Oregon, Estados Unidos"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_4dfbf3a7b9",
+        "ev_b0af503850",
+        "ev_708ea4e810",
+        "ev_2167ed162d",
+        "ev_64f4f3c693",
+        "ev_ac5f110651",
+        "ev_1ed49cb264",
+        "ev_cd5a13d70b",
+        "ev_72b8aef722",
+        "ev_0fcb8cc916",
+        "ev_e392b69d99",
+        "ev_4c322640ff",
+        "ev_c44bfedb66"
+      ],
+      "cluster_id": "cl_214",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff29/live/cc0232d0-c90d-11f1-bc2e-018d645d8d21.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28d2/live/c1615dd0-c901-11f1-bc2e-018d645d8d21.jpg",
+        "https://s.france24.com/media/display/0bdabf8a-c8eb-11f1-84b0-2d1c143cdef3/w:1024/p:16x9/AP26288796036302.jpg",
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261015/1226024_232614_video_1800.mp4"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_4dfbf3a7b9",
+          "titulo": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+          "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 16 Oct 2026 03:45:09 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_b0af503850",
+          "titulo": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+          "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Fri, 16 Oct 2026 08:27:16 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_708ea4e810",
+          "titulo": "Teen shooter kills three children and teacher at Oregon elementary school",
+          "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
+          "fuente": "France 24 English",
+          "fecha": "Thu, 15 Oct 2026 21:58:33 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2167ed162d",
+          "titulo": "Bystander guns down suspected primary school shooter in Oregon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Fri, 16 Oct 2026 05:00:25 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_64f4f3c693",
+          "titulo": "Three children, one teacher killed in Oregon school shooting",
+          "url": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Thu, 15 Oct 2026 22:51:56 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ac5f110651",
+          "titulo": "Three children and one teacher killed in Oregon elementary school shooting",
+          "url": "https://www.euronews.com/2026/10/16/four-killed-in-oregon-elementary-school-shooting-including-three-children-aged-5-to-11",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 16 Oct 2026 05:23:21 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1ed49cb264",
+          "titulo": "3 children, 1 teacher dead after shooting at Oregon elementary school, police say",
+          "url": "https://www.cbc.ca/news/world/oregon-school-shooting-9.7382749?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Thu, 15 Oct 2026 20:49:23 EDT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cd5a13d70b",
+          "titulo": "Un tiroteo en una escuela primaria de Oregón deja tres niños y un profesor muertos",
+          "url": "https://elpais.com/us/2026-10-16/un-tiroteo-en-una-escuela-primaria-de-oregon-deja-tres-ninos-y-un-profesor-muertos.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Fri, 16 Oct 2026 02:38:54 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_72b8aef722",
+          "titulo": "Tres niños y una maestra murieron en el tiroteo en una escuela de Oregon",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261015-ee-uu-varias-v%C3%ADctimas-incluidos-ni%C3%B1os-en-un-tiroteo-en-una-escuela-primaria-de-oregon",
+          "fuente": "France 24 Espanol",
+          "fecha": "Fri, 16 Oct 2026 01:17:20 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_0fcb8cc916",
+          "titulo": "Tres niños y docente murieron en el tiroteo en una escuela de Estados Unidos",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261015-ee-uu-varias-v%C3%ADctimas-incluidos-ni%C3%B1os-en-un-tiroteo-en-una-escuela-primaria-de-oregon",
+          "fuente": "France 24 Espanol",
+          "fecha": "Thu, 15 Oct 2026 23:10:42 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_e392b69d99",
+          "titulo": "Vigilia con velas honra a las víctimas del tiroteo escolar en Oregón",
+          "url": "https://es.euronews.com/video/2026/10/16/vigilia-con-velas-honra-a-las-victimas-del-tiroteo-escolar-en-oregon",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 16 Oct 2026 08:51:06 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_4c322640ff",
+          "titulo": "Tiroteo en un colegio de Oregon deja 4 muertos entre ellos 3 niños de 5 a 11 años",
+          "url": "https://es.euronews.com/2026/10/16/tiroteo-colegio-oregon-4-muertos-3-ninos-5-11-anos",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 16 Oct 2026 07:19:52 +0200",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-10-16_0005",
+      "fecha": "2026-10-16",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-16_0008"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Investigadores detectan spyware mercenario distribuido por primera vez mediante anuncios digitales con exploits de clic cero",
+        "en": "Researchers detect mercenary spyware distributed for the first time via targeted ads using zero-click exploits"
+      },
+      "sintesis": {
+        "es": "Investigadores de Citizen Lab publicaron la primera evidencia tecnica de spyware mercenario sofisticado distribuido a traves de publicidad digital dirigida, utilizando exploits de clic cero para infectar telefonos sin interaccion del usuario. El hallazgo representa una nueva vector de ataque para herramientas de vigilancia comercial, generando preocupacion entre expertos en seguridad.",
+        "en": "Citizen Lab researchers published the first technical evidence of sophisticated mercenary spyware distributed through targeted online advertising, using zero-click exploits to infect phones without user interaction. The finding represents a novel attack vector for commercial surveillance tools, raising concern among security experts."
       },
       "categoria": "tecnologia",
       "actores": [
-        "Abdulrahman Alfozan",
-        "OpenAI",
-        "FBI"
+        "Citizen Lab",
+        "proveedores de spyware mercenario"
       ],
       "geo": {
-        "lat": 37.7749,
-        "lon": -122.4194,
-        "region": "San Francisco, Estados Unidos"
+        "lat": 43.6629,
+        "lon": -79.3957,
+        "region": "Toronto, Canada"
       },
-      "impacto": 55,
+      "impacto": 62,
       "fuentes": [
-        "ev_d80d4b1747",
-        "ev_88e178d0b3"
+        "ev_f771a8e401",
+        "ev_3691293ceb"
       ],
-      "cluster_id": "cl_232",
+      "cluster_id": "cl_743",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9074/live/83100400-c7bc-11f1-9a39-31b474234113.jpg",
-        "https://cdn.arstechnica.net/wp-content/uploads/2026/10/open-ai-bugged-1152x648.jpg"
+        "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg",
+        "https://media.wired.com/photos/6acfe05dd7a1c8d94ba22a02/master/pass/Security_SophisticatedZero-ClickSpywareFoundBeingDistr-ezgif.com-video-to-gif-converter.gif"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_d80d4b1747",
-          "titulo": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-          "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Wed, 14 Oct 2026 15:54:04 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_88e178d0b3",
-          "titulo": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-          "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+          "id": "ev_f771a8e401",
+          "titulo": "Targeted ads delivered 0-click exploits to install mercenary malware",
+          "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
           "fuente": "Ars Technica",
-          "fecha": "Wed, 14 Oct 2026 16:41:49 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-15_0007",
-      "fecha": "2026-10-15",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-15_0004"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Protestas estudiantiles violentas en Albania por costos educativos y corrupción",
-        "en": "Violent student protests in Albania over education costs and corruption"
-      },
-      "sintesis": {
-        "es": "Decenas de miles de estudiantes se manifestaron en Tirana, capital de Albania, contra el aumento de los costos educativos y la corrupción. Las protestas derivaron en disturbios violentos, con incendios en el edificio del Ministerio de Educación (y según algunas fuentes también del Ministerio de Justicia) y dos sucursales bancarias, incluyendo una del Raiffeisen Bank. La policía respondió con cañones de agua y gas lacrimógeno, y se reportaron decenas de detenidos durante la segunda jornada consecutiva de manifestaciones.",
-        "en": "Tens of thousands of students demonstrated in Tirana, Albania's capital, against rising education costs and corruption. The protests escalated into violent riots, with fires set at the Education Ministry building (and reportedly the Justice Ministry) and two bank branches, including a Raiffeisen Bank location. Police responded with water cannon and tear gas, and dozens of people were detained during the second consecutive day of demonstrations."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Estudiantes albaneses",
-        "Gobierno de Albania",
-        "Policía de Tirana",
-        "Raiffeisen Bank"
-      ],
-      "geo": {
-        "lat": 41.3275,
-        "lon": 19.8187,
-        "region": "Tirana, Albania"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_8d0edb00ad",
-        "ev_53d83bc94e",
-        "ev_a34e9e70fa"
-      ],
-      "cluster_id": "cl_261",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/0d62eda693183d315a7da699af4b1aecc94342fd/515_0_4585_3668/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=12f4aebf542aa83d51feed84829988bb"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_8d0edb00ad",
-          "titulo": "Student protests in Albania turn violent as demonstrators clash with police",
-          "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
-          "fuente": "The Guardian World",
-          "fecha": "Wed, 14 Oct 2026 23:19:43 GMT",
+          "fecha": "Thu, 15 Oct 2026 20:32:41 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_53d83bc94e",
-          "titulo": "Albanian Ministry of Justice on fire as education protesters riot",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/albanian-ministry-of-justice-on-fire-as-education-protesters-riot?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Thu, 15 Oct 2026 03:30:42 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_a34e9e70fa",
-          "titulo": "IN PHOTOS | Albania's Education Ministry caught fire amid student protests",
-          "url": "https://www.cbc.ca/news/world/albania-student-protests-scroller-9.7380126?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Wed, 14 Oct 2026 12:17:59 EDT",
+          "id": "ev_3691293ceb",
+          "titulo": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
+          "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+          "fuente": "WIRED",
+          "fecha": "Thu, 15 Oct 2026 10:00:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-15_0008",
-      "fecha": "2026-10-15",
-      "kardashev": "K1",
+      "id": "nd_2026-10-16_0006",
+      "fecha": "2026-10-16",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Colapso del techo de una escuela en Peshawar, Pakistán, deja decenas de muertos",
-        "en": "School roof collapse in Peshawar, Pakistan kills dozens"
+        "es": "Colapso de techo escolar en Pesháwar, Pakistán, deja al menos 34 niños muertos",
+        "en": "School roof collapse in Peshawar, Pakistan kills at least 34 children"
       },
       "sintesis": {
-        "es": "El techo de una escuela privada, el Al-Khair Education Centre, se derrumbó en la ciudad de Peshawar, en el noroeste de Pakistán, matando a al menos 28 alumnos y una maestra, con más de 40 heridos. El propietario del centro fue arrestado y el primer ministro pidió acelerar las labores de rescate, en un país donde los colapsos de edificios son frecuentes por la débil aplicación de normas de construcción.",
-        "en": "The roof of a private school, the Al-Khair Education Centre, collapsed in Peshawar, northwestern Pakistan, killing at least 28 students and a teacher and injuring more than 40 others. The school's owner was arrested and the prime minister urged rescuers to speed up the search, in a country where building collapses are common due to poorly enforced construction standards."
+        "es": "El techo de la escuela privada al-Khair en Pesháwar, Pakistán, se derrumbó durante las clases matutinas, dejando al menos 34 alumnos y una maestra muertos, además de varios heridos críticos. Equipos de rescate trabajaron durante horas para extraer a las víctimas de los escombros mientras familiares se congregaban en el lugar. Funcionarios locales señalaron que el colapso se debería a una infraestructura deficiente, y las familias de las víctimas exigen justicia tras los funerales multitudinarios.",
+        "en": "The roof of the privately run al-Khair school in Peshawar, Pakistan, collapsed during morning classes, killing at least 34 schoolchildren and a female teacher, with several others left in critical condition. Rescue workers spent hours pulling victims from the rubble as grieving families gathered at the site. Local officials indicated the collapse was likely due to weak infrastructure, and victims' families are now demanding justice following mass funeral prayers."
       },
       "categoria": "sociedad",
       "actores": [
-        "Al-Khair Education Centre",
-        "Gobierno de Pakistán",
-        "Primer Ministro de Pakistán"
+        "Al-Khair School",
+        "Gobierno de Pesháwar",
+        "Familias de las víctimas"
       ],
       "geo": {
         "lat": 34.0151,
         "lon": 71.5249,
-        "region": "Peshawar, Khyber Pakhtunkhwa, Pakistán"
+        "region": "Pesháwar, Pakistán"
       },
-      "impacto": 55,
+      "impacto": 58,
       "fuentes": [
-        "ev_4058853fe7",
-        "ev_9d3f28cccb",
-        "ev_ca3ad2008e",
-        "ev_ebc00718c5",
-        "ev_2442f75944",
+        "ev_0467157118",
+        "ev_490c4e24c1",
+        "ev_a57356f641",
+        "ev_942a6d303c",
+        "ev_84b88057d4",
+        "ev_ef3c7f970d",
         "ev_6a70786440",
-        "ev_8de7f4bf85",
-        "ev_5dad1591af"
+        "ev_8de7f4bf85"
       ],
-      "cluster_id": "cl_283",
+      "cluster_id": "cl_270",
       "imagenes": [
-        "https://s.france24.com/media/display/aa866466-c86b-11f1-b34b-6313a763b466/w:1024/p:16x9/AP26288241083154.jpg",
-        "https://static01.nyt.com/images/2026/10/15/multimedia/15INT-PAKISTAN-COLLAPSE-kbqt/15INT-PAKISTAN-COLLAPSE-kbqt-mediumSquareAt3X.jpg",
-        "https://e3.365dm.com/26/10/1920x1080/skynews-peshawar-pakistan_7377321.jpg?20261015074713"
+        "https://i.guim.co.uk/img/media/52c7a3b96a07d73e19eec0d00abbe700033f539e/280_840_2049_1640/master/2049.jpg?width=140&quality=85&auto=format&fit=max&s=3ed8b75cb978a46ddd8e14d3b479a83f",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c260/live/a3e37d00-c880-11f1-a2e8-f71844f8002e.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de6/live/4303b8f0-c8d6-11f1-9a39-31b474234113.jpg",
+        "https://static01.nyt.com/images/2026/10/15/multimedia/15int-pakistan-collapse-01-hkfj/15int-pakistan-collapse-01-hkfj-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_4058853fe7",
-          "titulo": "Pakistan school roof collapse kills dozens of pupils, teacher in Peshawar",
-          "url": "https://www.france24.com/en/asia-pacific/20261015-pakistan-school-roof-collapse-kills-dozens-of-pupils-teacher-in-peshawar",
-          "fuente": "France 24 English",
-          "fecha": "Thu, 15 Oct 2026 08:02:53 GMT",
+          "id": "ev_0467157118",
+          "titulo": "Pakistan school roof collapse kills at least 34 children and teacher",
+          "url": "https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead",
+          "fuente": "The Guardian World",
+          "fecha": "Thu, 15 Oct 2026 08:25:33 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_9d3f28cccb",
-          "titulo": "School roof collapses in northwestern Pakistan, killing at least 29 people",
-          "url": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss",
+          "id": "ev_490c4e24c1",
+          "titulo": "Peshawar mourns children killed in school roof collapse",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Thu, 15 Oct 2026 08:30:41 +0000",
+          "fecha": "Fri, 16 Oct 2026 02:01:43 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_ca3ad2008e",
-          "titulo": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
-          "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
-          "fuente": "NPR News",
-          "fecha": "Thu, 15 Oct 2026 04:22:07 -0400",
+          "id": "ev_a57356f641",
+          "titulo": "Families of 34 children killed in Pakistan school roof collapse demand justice",
+          "url": "https://www.euronews.com/2026/10/16/families-of-32-children-killed-in-pakistan-school-roof-collapse-demand-justice",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 16 Oct 2026 10:29:51 +0200",
           "idioma": "en"
         },
         {
-          "id": "ev_ebc00718c5",
-          "titulo": "At Least 20 Children Dead After School Roof Collapses in Pakistan",
+          "id": "ev_942a6d303c",
+          "titulo": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+          "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Thu, 15 Oct 2026 15:26:16 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_84b88057d4",
+          "titulo": "At the scene of a school roof collapse in Pakistan",
+          "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Thu, 15 Oct 2026 20:31:02 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_ef3c7f970d",
+          "titulo": "32 Children Killed After School Roof Collapses in Pakistan",
           "url": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html",
           "fuente": "NYT World",
-          "fecha": "Thu, 15 Oct 2026 07:54:25 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2442f75944",
-          "titulo": "School roof collapse kills teacher and at least 28 children in northwest Pakistan",
-          "url": "https://www.euronews.com/2026/10/15/school-roof-collapse-kills-teacher-and-at-least-17-children-in-northwest-pakistan",
-          "fuente": "Euronews English",
-          "fecha": "Thu, 15 Oct 2026 08:58:39 +0200",
+          "fecha": "Thu, 15 Oct 2026 15:04:12 +0000",
           "idioma": "en"
         },
         {
           "id": "ev_6a70786440",
           "titulo": "School owner arrested after dozens of children killed in roof collapse",
-          "url": "https://news.sky.com/story/at-least-17-children-killed-in-pakistan-school-collapse-13599466",
+          "url": "https://news.sky.com/story/at-least-34-children-killed-in-pakistan-school-collapse-13599466",
           "fuente": "Sky News World",
           "fecha": "Thu, 15 Oct 2026 07:21:00 +0100",
           "idioma": "en"
@@ -688,84 +638,84 @@
           "fuente": "CBC World",
           "fecha": "Thu, 15 Oct 2026 04:46:43 EDT",
           "idioma": "en"
-        },
-        {
-          "id": "ev_5dad1591af",
-          "titulo": "27 students and a teacher dead after school roof collapse in Pakistan",
-          "url": "https://www.abc.net.au/news/2026-10-15/students-and-teacher-dead-in-pakistan-roof-collapse/107272300",
-          "fuente": "ABC News Australia",
-          "fecha": "Thu, 15 Oct 2026 07:30:54 +0000",
-          "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-15_0009",
-      "fecha": "2026-10-15",
+      "id": "nd_2026-10-16_0007",
+      "fecha": "2026-10-16",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "El Papa León XIV tiene cáncer de pulmón, confirma el Vaticano",
-        "en": "Pope Leo XIV Has Lung Cancer, Vatican Confirms"
+        "es": "Tiroteo en escuela de Oregon deja cuatro muertos, incluidos tres niños",
+        "en": "Oregon school shooting leaves four dead, including three children"
       },
       "sintesis": {
-        "es": "El Vaticano informó que el Papa León XIV fue sometido a una cirugía en el hospital Gemelli de Roma, donde los cirujanos extirparon el lóbulo inferior de su pulmón derecho tras hallar un nódulo canceroso. Tras el procedimiento, el pontífice pasó una 'buena noche' en el hospital, según reportó el Vaticano.",
-        "en": "The Vatican reported that Pope Leo XIV underwent surgery at Rome's Gemelli hospital, where surgeons removed the lower lobe of his right lung after discovering a cancerous nodule. Following the procedure, the pontiff had a 'good night' in the hospital, according to the Vatican."
+        "es": "Un tiroteo en una escuela primaria de Bend, Oregon, dejó cuatro muertos: tres niños de 5, 8 y 11 años y una maestra. La comunidad local organizó una vigilia con velas para honrar a las víctimas.",
+        "en": "A shooting at an elementary school in Bend, Oregon, left four people dead: three children aged 5, 8 and 11, and a teacher. The local community held a candlelight vigil to honor the victims."
       },
-      "categoria": "salud",
+      "categoria": "sociedad",
       "actores": [
-        "Papa León XIV",
-        "Vaticano",
-        "Hospital Gemelli"
+        "Comunidad de Bend, Oregon",
+        "Víctimas (niños y maestra)"
       ],
       "geo": {
-        "lat": 41.9029,
-        "lon": 12.4534,
-        "region": "Roma, Italia"
+        "lat": 44.0582,
+        "lon": -121.3153,
+        "region": "Bend, Oregon, Estados Unidos"
       },
       "impacto": 55,
       "fuentes": [
-        "ev_0e47958b82",
-        "ev_a3a30ad305"
+        "ev_da467d9d35",
+        "ev_e8dac64ef9",
+        "ev_9c5cc2799c"
       ],
-      "cluster_id": "cl_363",
+      "cluster_id": "cl_292",
       "imagenes": [
-        "https://static01.nyt.com/images/2026/10/13/multimedia/13int-pope-surgery-lwgk/13int-pope-surgery-lwgk-mediumSquareAt3X.jpg"
+        "https://e3.365dm.com/26/10/1920x1080/skynews-bend-oregon-school_7377941.jpg?20261016001653"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_0e47958b82",
-          "titulo": "Pope Leo Has Lung Cancer, Vatican Says",
-          "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
-          "fuente": "NYT World",
-          "fecha": "Wed, 14 Oct 2026 07:27:26 +0000",
+          "id": "ev_da467d9d35",
+          "titulo": "Four dead, including three children, in Oregon school shooting",
+          "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
+          "fuente": "France 24 English",
+          "fecha": "Fri, 16 Oct 2026 00:57:46 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_a3a30ad305",
-          "titulo": "Pope Leo XIV has 'good night' in hospital after lung surgery, Vatican says",
-          "url": "https://www.euronews.com/2026/10/15/pope-leo-xiv-has-good-night-in-hospital-after-lung-surgery-vatican-says",
+          "id": "ev_e8dac64ef9",
+          "titulo": "Candlelight vigil honours victims of Oregon school shooting",
+          "url": "https://www.euronews.com/video/2026/10/16/candlelight-vigil-honours-victims-of-oregon-school-shooting",
           "fuente": "Euronews English",
-          "fecha": "Thu, 15 Oct 2026 10:18:18 +0200",
+          "fecha": "Fri, 16 Oct 2026 07:47:37 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_9c5cc2799c",
+          "titulo": "Children aged 5, 8 and 11 killed in US school shooting",
+          "url": "https://news.sky.com/story/multiple-fatalities-after-school-shooting-in-oregon-nbc-news-reports-13599795",
+          "fuente": "Sky News World",
+          "fecha": "Fri, 16 Oct 2026 00:09:00 +0100",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-15_0010",
-      "fecha": "2026-10-15",
+      "id": "nd_2026-10-16_0008",
+      "fecha": "2026-10-16",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-10-15_0006"
+        "nd_2026-10-16_0005"
       ]
     },
     {
       "titulo": {
-        "es": "Expertos de la ONU alertan sobre la insuficiente respuesta global a la violencia contra la infancia",
-        "en": "UN experts warn global response to violence against children remains insufficient"
+        "es": "Expertos de la ONU alertan sobre la insuficiente acción global contra la violencia infantil",
+        "en": "UN experts warn global action against child violence remains insufficient"
       },
       "sintesis": {
-        "es": "Un representante especial de la ONU y agencias como la OMS, UNICEF y UNESCO advierten que la acción global para proteger a la infancia de la violencia no está a la altura de los riesgos actuales. Según un informe conjunto, cerca de mil millones de niños sufren violencia física, sexual o psicológica cada año debido a la falta de implementación de estrategias ya probadas. La pandemia de COVID-19 agravó esta situación al aumentar el riesgo de maltrato, explotación y violencia doméstica contra menores.",
-        "en": "A UN Special Representative along with agencies such as WHO, UNICEF and UNESCO warn that global action to protect children from violence is failing to keep pace with growing risks. A joint report finds that nearly one billion children suffer physical, sexual or psychological violence annually due to countries' failure to implement proven prevention strategies. The COVID-19 pandemic further worsened the situation by increasing children's exposure to abuse, exploitation and domestic violence."
+        "es": "Representantes de la ONU, la OMS, UNICEF y UNESCO advierten que los esfuerzos mundiales para proteger a la infancia de la violencia son insuficientes frente a los riesgos crecientes. Un informe conjunto señala que cerca de mil millones de niños sufren violencia física, sexual o psicológica cada año, pese a existir estrategias probadas como el marco INSPIRE. La pandemia de COVID-19 agravó esta crisis al aumentar el maltrato, la explotación y los riesgos en línea debido a confinamientos y cierres escolares.",
+        "en": "UN, WHO, UNICEF and UNESCO representatives warn that global efforts to protect children from violence remain inadequate amid growing risks. A joint report finds that nearly one billion children suffer physical, sexual or psychological violence each year despite proven strategies like the INSPIRE framework. The COVID-19 pandemic worsened this crisis, increasing abuse, exploitation and online risks due to lockdowns and school closures."
       },
       "categoria": "sociedad",
       "actores": [
@@ -773,13 +723,13 @@
         "OMS",
         "UNICEF",
         "UNESCO",
-        "Dr. Tedros Adhanom Ghebreyesus",
-        "End Violence Partnership"
+        "End Violence Partnership",
+        "Dr. Tedros Adhanom Ghebreyesus"
       ],
       "geo": {
-        "lat": 40.7128,
-        "lon": -74.006,
-        "region": "Global / Naciones Unidas"
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
       },
       "impacto": 55,
       "fuentes": [
@@ -787,7 +737,7 @@
         "ev_024c068e73",
         "ev_19cda78a35"
       ],
-      "cluster_id": "cl_429",
+      "cluster_id": "cl_432",
       "imagenes": [
         "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/02-10-2026-Adobe-Stock-peace-sign.jpg/image560x340cropped.jpg"
       ],
@@ -818,127 +768,236 @@
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-15_0011",
-      "fecha": "2026-10-15",
+      "id": "nd_2026-10-16_0009",
+      "fecha": "2026-10-16",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-10-15_0003"
+        "nd_2026-10-16_0000"
       ]
     },
     {
       "titulo": {
-        "es": "El Tesoro estadounidense multa a Bank of America con 1.200 millones de dólares",
-        "en": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos"
+        "es": "Análisis confirma el buen desempeño del escudo térmico de Artemis II",
+        "en": "Analysis confirms Artemis II heat shield performance"
       },
       "sintesis": {
-        "es": "La sanción, la tercera más alta de la historia, se impone por violar las leyes contra el blanqueo de capitales y las sanciones que afectan a Irán, Rusia, China y redes de narcotráfico Leer",
-        "en": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic’s Mythos, offering a rare look at costs involved in defending against AI."
+        "es": "NASA completó un análisis detallado de datos de ingeniería del escudo térmico de la nave Orion tras la misión Artemis II, que envió a cuatro astronautas alrededor de la Luna y los trajo de vuelta a salvo. Los resultados confirman que el escudo de protección térmica funcionó según lo esperado, sentando las bases para futuras misiones tripuladas a la superficie lunar.",
+        "en": "NASA completed a detailed engineering data analysis of the Orion spacecraft's heat shield following the Artemis II mission, which sent four astronauts around the Moon and returned them safely to Earth. The results confirm the thermal protection system performed as expected, laying groundwork for future crewed missions to the lunar surface."
       },
-      "categoria": "tecnologia",
+      "categoria": "ciencia",
       "actores": [
-        "Bank",
-        "America",
-        "Tesoro",
-        "Anthropic"
+        "NASA",
+        "Orion spacecraft",
+        "Artemis II astronauts"
       ],
       "geo": {
-        "lat": 61.5,
-        "lon": 105.3,
-        "region": "Rusia"
+        "lat": 28.5728,
+        "lon": -80.649,
+        "region": "Estados Unidos (Kennedy Space Center)"
       },
-      "impacto": 47,
+      "impacto": 55,
       "fuentes": [
-        "ev_74d203ecc5",
-        "ev_04d0789c51"
+        "ev_15fef7fed7",
+        "ev_cd9145599e"
       ],
-      "cluster_id": "cl_197",
+      "cluster_id": "cl_542",
       "imagenes": [
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/13/17919253613317.jpg"
+        "https://scx1.b-cdn.net/csz/news/tmb/2026/rigorous-analysis-conf-4.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_74d203ecc5",
-          "titulo": "El Tesoro estadounidense multa a Bank of America con 1.200 millones de dólares",
-          "url": "https://www.elmundo.es/internacional/2026/10/13/6ace9a48fc6c831f2e8b459f.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Tue, 13 Oct 2026 23:04:59 +0200",
-          "idioma": "es"
+          "id": "ev_15fef7fed7",
+          "titulo": "Rigorous analysis confirms NASA's Artemis II heat shield performance",
+          "url": "https://phys.org/news/2026-10-rigorous-analysis-nasa-artemis-ii.html",
+          "fuente": "Phys.org",
+          "fecha": "Thu, 15 Oct 2026 19:40:01 EDT",
+          "idioma": "en"
         },
         {
-          "id": "ev_04d0789c51",
-          "titulo": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-          "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Wed, 14 Oct 2026 20:06:28 GMT",
+          "id": "ev_cd9145599e",
+          "titulo": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
+          "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/",
+          "fuente": "NASA News",
+          "fecha": "Thu, 15 Oct 2026 14:57:21 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-15_0012",
-      "fecha": "2026-10-15",
-      "kardashev": "K0",
+      "id": "nd_2026-10-16_0010",
+      "fecha": "2026-10-16",
+      "kardashev": "K2",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Kenia confirma un segundo caso de Ébola, familiar de la primera víctima",
-        "en": "Kenya confirms second Ebola case, a relative of the first victim"
+        "es": "Elon Musk presenta el nuevo Tesla Roadster con capacidad de vuelo",
+        "en": "Elon Musk unveils new Tesla Roadster with flight capability"
       },
       "sintesis": {
-        "es": "El Ministerio de Salud de Kenia confirmó un segundo caso de Ébola en un familiar del hombre que murió la semana pasada tras llegar desde la República Democrática del Congo. El nuevo paciente dio positivo mientras estaba en cuarentena. Las autoridades monitorean la situación para contener la posible propagación del brote.",
-        "en": "Kenya's Health Ministry confirmed a second Ebola case in a relative of the man who died last week after arriving from the Democratic Republic of Congo. The new patient tested positive while under quarantine. Authorities are monitoring the situation to contain potential spread of the outbreak."
+        "es": "Elon Musk presentó una nueva versión del Tesla Roadster equipada con propulsores de control de altitud y un motor principal trasero, que según él le permite volar de forma similar a un cohete. El anuncio fue realizado públicamente y recogido por medios de comunicación como un hito en innovación vehicular.",
+        "en": "Elon Musk unveiled a new version of the Tesla Roadster equipped with altitude control thrusters and a rear main engine, which he claims allows it to fly similarly to a rocket. The announcement was made publicly and covered by media as a milestone in vehicle innovation."
+      },
+      "categoria": "innovacion",
+      "actores": [
+        "Elon Musk",
+        "Tesla"
+      ],
+      "geo": {
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "region": "Estados Unidos"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_8385f54435",
+        "ev_83efc5f988"
+      ],
+      "cluster_id": "cl_108",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8385f54435",
+          "titulo": "\"Bueno, ha funcionado\": Elon Musk presenta el nuevo Tesla Roadster que puede volar",
+          "url": "https://es.euronews.com/2026/10/16/bueno-ha-funcionado-elon-musk-presenta-el-nuevo-tesla-roadster-que-puede-volar",
+          "fuente": "Euronews Espanol",
+          "fecha": "Fri, 16 Oct 2026 08:48:25 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_83efc5f988",
+          "titulo": "'Well, it worked': Elon Musk unveils new Tesla Roadster that can fly",
+          "url": "https://www.euronews.com/2026/10/16/well-it-worked-elon-musk-unveils-new-tesla-roadster-that-can-fly",
+          "fuente": "Euronews English",
+          "fecha": "Fri, 16 Oct 2026 08:25:22 +0200",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-16_0011",
+      "fecha": "2026-10-16",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Kenia confirma un segundo caso de ébola y la OMS pide vigilancia",
+        "en": "Kenya confirms second Ebola case as WHO urges vigilance"
+      },
+      "sintesis": {
+        "es": "Kenia ha confirmado un segundo caso de ébola, causado por el virus Bundibugyo, lo que ha generado preocupación sobre las medidas de vigilancia sanitaria del gobierno. La Organización Mundial de la Salud (OMS) manifestó su apoyo a los esfuerzos de contención del país y pidió mantener la vigilancia epidemiológica.",
+        "en": "Kenya has confirmed a second case of Ebola, caused by the Bundibugyo virus, raising concerns about the government's surveillance measures. The World Health Organization (WHO) expressed support for the country's containment efforts and urged continued vigilance."
       },
       "categoria": "salud",
       "actores": [
-        "Ministerio de Salud de Kenia",
         "Gobierno de Kenia",
-        "República Democrática del Congo"
+        "Organización Mundial de la Salud (OMS)"
       ],
       "geo": {
-        "lat": -1.2921,
-        "lon": 36.8219,
+        "lat": -0.0236,
+        "lon": 37.9062,
         "region": "Kenia"
       },
       "impacto": 45,
       "fuentes": [
-        "ev_430bf02ac8",
-        "ev_ef7b96b7a1",
-        "ev_08b4120b8f"
+        "ev_c99be0cc92",
+        "ev_abdfcedc2b"
       ],
-      "cluster_id": "cl_230",
+      "cluster_id": "cl_336",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa15/live/cb6ea3e0-c7e5-11f1-a64c-550be9e3c66b.jpg",
-        "https://s.france24.com/media/display/9cdc9d84-c876-11f1-ab86-6313a763b466/w:1024/p:16x9/capture-ab616c41.jpg"
+        "https://static01.nyt.com/images/2026/10/15/multimedia/15int-kenya-ebola-1-qgth/15int-kenya-ebola-1-qgth-mediumSquareAt3X.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/06-10-2026-WHO-Kenya-Bundibugyo-03.jpg/image560x340cropped.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_430bf02ac8",
-          "titulo": "Kenya confirms second Ebola case - a relative of the first victim",
-          "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Wed, 14 Oct 2026 17:23:01 GMT",
+          "id": "ev_c99be0cc92",
+          "titulo": "Second Ebola Infection Announced in Kenya",
+          "url": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
+          "fuente": "NYT World",
+          "fecha": "Thu, 15 Oct 2026 17:38:52 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_ef7b96b7a1",
-          "titulo": "Kenya reports second Ebola case",
-          "url": "https://www.france24.com/en/kenya-reports-second-ebola-case",
-          "fuente": "France 24 English",
-          "fecha": "Wed, 14 Oct 2026 20:32:00 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_08b4120b8f",
-          "titulo": "Kenya confirms 2nd case of Ebola in relative of patient who died earlier this month",
-          "url": "https://www.cbc.ca/news/world/kenya-second-case-ebola-confirmed-9.7380626?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Wed, 14 Oct 2026 14:19:29 EDT",
+          "id": "ev_abdfcedc2b",
+          "titulo": "WHO urges vigilance after Kenya confirms second Ebola case",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168602",
+          "fuente": "UN News",
+          "fecha": "Thu, 15 Oct 2026 12:00:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-15_0013",
-      "fecha": "2026-10-15",
+      "id": "nd_2026-10-16_0012",
+      "fecha": "2026-10-16",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "WHO and the Netherlands renew their partnership on climate change and health",
+        "en": "WHO and the Netherlands renew their partnership on climate change and health"
+      },
+      "sintesis": {
+        "es": "The World Health Organization (WHO) and the Kingdom of the Netherlands have renewed their strategic partnership in addressing the growing impacts of climate change on global health. The Netherlands is providing a new allocation of €500 000 for 2024 to WHO, reinforcing its commitment to climate resilience and sustainable healthcare systems worldwide. This allocation supports WHO’s ongoing efforts to strengthen the Alliance for Transformative Action on Climate and Health Secretariat and advance climate change and health programmes globally.",
+        "en": "The World Health Organization (WHO) and the Kingdom of the Netherlands have renewed their strategic partnership in addressing the growing impacts of climate change on global health. The Netherlands is providing a new allocation of €500 000 for 2024 to WHO, reinforcing its commitment to climate resilience and sustainable healthcare systems worldwide. This allocation supports WHO’s ongoing efforts to strengthen the Alliance for Transformative Action on Climate and Health Secretariat and advance climate change and health programmes globally."
+      },
+      "categoria": "salud",
+      "actores": [
+        "Netherlands",
+        "Enhancing Global",
+        "Health",
+        "Well"
+      ],
+      "geo": {
+        "lat": 46.2,
+        "lon": 6.1,
+        "region": "Europa"
+      },
+      "impacto": 38,
+      "fuentes": [
+        "ev_d268c03794",
+        "ev_feeaed1497",
+        "ev_4768e98d9d",
+        "ev_bc43f897d7"
+      ],
+      "cluster_id": "cl_584",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d268c03794",
+          "titulo": "WHO and the Netherlands renew their partnership on climate change and health",
+          "url": "https://www.who.int/news/item/10-10-2024-who-and-the-netherlands-renew-their-partnership-on-climate-change-and-health",
+          "fuente": "WHO News",
+          "fecha": "Thu, 10 Oct 2024 07:47:50 Z",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_feeaed1497",
+          "titulo": "Enhancing Global Health and Well-Being: WHO and the Netherlands strengthen their Partnership",
+          "url": "https://www.who.int/news/item/12-04-2024-enhancing-global-health-and-well-being--who-and-the-netherlands-strengthen-their-partnership",
+          "fuente": "WHO News",
+          "fecha": "Fri, 12 Apr 2024 13:57:53 Z",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4768e98d9d",
+          "titulo": "A leading flexible contributor, the Netherlands renews its multiannual allocation to WHO",
+          "url": "https://www.who.int/news/item/06-11-2023-a-leading-flexible-contributor--the-netherlands-renews-its-multiannual-allocation-to-who",
+          "fuente": "WHO News",
+          "fecha": "Mon, 06 Nov 2023 12:46:23 Z",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_bc43f897d7",
+          "titulo": "WHO and the Netherlands call for stronger cooperation under the new Dutch Global Health Strategy",
+          "url": "https://www.who.int/news/item/17-11-2022-who-and-the-netherlands-discuss-opportunities-for-stronger-cooperation-in-support-of-global-health",
+          "fuente": "WHO News",
+          "fecha": "Thu, 17 Nov 2022 09:25:26 Z",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-16_0013",
+      "fecha": "2026-10-16",
       "kardashev": "K1",
       "relaciones": []
     }

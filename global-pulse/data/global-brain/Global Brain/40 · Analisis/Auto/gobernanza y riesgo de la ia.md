@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-10-15
-nodos: 28
+actualizado: 2026-10-16
+nodos: 24
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-15. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-16. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-28 nodos registrados en el periodo. Lo mas reciente: Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT.
+24 nodos registrados en el periodo. Lo mas reciente: Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT.
 
 ## Trend summary (EN)
-28 nodes recorded in the period. Most recent: Eight US states sue OpenAI over alleged harms to children from ChatGPT.
+24 nodes recorded in the period. Most recent: Eight US states sue OpenAI over alleged harms to children from ChatGPT.
 
 > [!note] Estado actual
 > Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT
 
-## Nodos recientes (28 en la ventana)
+## Nodos recientes (24 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-15 | 62 | K2 | Ocho estados de EEUU demandan a OpenAI por supuestos daños a men |
