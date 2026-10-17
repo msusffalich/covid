@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-16
-nodos: 25
+actualizado: 2026-10-17
+nodos: 24
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-16. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-17. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-25 nodos registrados en el periodo. Lo mas reciente: WHO and the Netherlands renew their partnership on climate change and health.
+24 nodos registrados en el periodo. Lo mas reciente: Incendios forestales avivados por vientos fuertes destruyen viviendas costeras en el sur de California.
 
 ## Trend summary (EN)
-25 nodes recorded in the period. Most recent: WHO and the Netherlands renew their partnership on climate change and health.
+24 nodes recorded in the period. Most recent: Wind-driven wildfires destroy coastal homes in Southern California.
 
 > [!note] Estado actual
-> WHO and the Netherlands renew their partnership on climate change and health
+> Incendios forestales avivados por vientos fuertes destruyen viviendas costeras en el sur de California
 
-## Nodos recientes (25 en la ventana)
+## Nodos recientes (24 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-17 | 45 | K1 | Incendios forestales avivados por vientos fuertes destruyen vivi |
 | 2026-10-16 | 38 | K1 | WHO and the Netherlands renew their partnership on climate chang |
 | 2026-10-14 | 45 | K1 | Tormenta inusual de lluvia y granizo desborda Santiago de Chile |
 | 2026-10-13 | 55 | K1 | El huracán Simón y la tormenta tropical Rachel dejan muertos y d |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-10 | 55 | K1 | El huracán Isaías toca tierra en Florida como categoría 2 dejand |
 | 2026-10-08 | 65 | K1 | Detenida la esposa del poderoso expresidente de Sri Lanka por el |
 | 2026-10-01 | 74 | K0 | ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five ye |
-| 2026-09-29 | 55 | K1 | El huracán Polo toca tierra en Baja California Sur, México, mien |
 
 [[Global Brain — Inicio|← Inicio]]

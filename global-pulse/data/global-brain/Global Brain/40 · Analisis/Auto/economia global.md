@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-10-16
-nodos: 34
+actualizado: 2026-10-17
+nodos: 32
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-16. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-17. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-34 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.
+32 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.
 
 ## Trend summary (EN)
-34 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets.
+32 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets.
 
 > [!note] Estado actual
 > Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita
 
-## Nodos recientes (34 en la ventana)
+## Nodos recientes (32 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-16 | 68 | K1 | Hutíes escalan ataques contra Adén y objetivos petroleros en Ara |

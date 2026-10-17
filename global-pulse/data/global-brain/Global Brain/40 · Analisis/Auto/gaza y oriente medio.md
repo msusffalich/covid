@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-10-16
-nodos: 22
+actualizado: 2026-10-17
+nodos: 21
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-16. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-17. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-22 nodos registrados en el periodo. Lo mas reciente: Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a la comunidad internacional a prevenir genocidios.
+21 nodos registrados en el periodo. Lo mas reciente: Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a la comunidad internacional a prevenir genocidios.
 
 ## Trend summary (EN)
-22 nodes recorded in the period. Most recent: Navi Pillay, 2026 Nobel Peace Prize winner, calls on international community to prevent genocides.
+21 nodes recorded in the period. Most recent: Navi Pillay, 2026 Nobel Peace Prize winner, calls on international community to prevent genocides.
 
 > [!note] Estado actual
 > Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a la comunidad internacional a prevenir genocidios
 
-## Nodos recientes (22 en la ventana)
+## Nodos recientes (21 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-16 | 72 | K1 | Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a l |

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-10-16T10:18:18.697901+00:00",
+    "generado": "2026-10-17T09:47:49.103454+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 34,
+      "n_nodos": 32,
       "ultima_fecha": "2026-10-16",
       "resumen": {
-        "es": "34 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.",
-        "en": "34 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets."
+        "es": "32 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.",
+        "en": "32 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets."
       },
       "estado": {
         "es": "Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita",
         "en": "Houthis escalate attacks on Aden and Saudi oil targets"
       },
       "serie": [
-        {
-          "fecha": "2026-09-26",
-          "max": 95,
-          "n": 2
-        },
         {
           "fecha": "2026-09-27",
           "max": 82,
@@ -274,22 +269,17 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 26,
-      "ultima_fecha": "2026-10-16",
+      "n_nodos": 29,
+      "ultima_fecha": "2026-10-17",
       "resumen": {
-        "es": "26 nodos registrados en el periodo. Lo mas reciente: Ucrania busca alternativas europeas a defensas aéreas de EE.UU. y Starlink ante tensiones con Washington.",
-        "en": "26 nodes recorded in the period. Most recent: Ukraine seeks European alternatives to US air defences and Starlink amid tensions with Washington."
+        "es": "29 nodos registrados en el periodo. Lo mas reciente: Trump suspende sanciones contra Rusia mientras tensiones persisten con Zelenski.",
+        "en": "29 nodes recorded in the period. Most recent: Trump suspends sanctions on Russia as tensions with Zelenskyy persist."
       },
       "estado": {
-        "es": "Ucrania busca alternativas europeas a defensas aéreas de EE.UU. y Starlink ante tensiones con Washington",
-        "en": "Ukraine seeks European alternatives to US air defences and Starlink amid tensions with Washington"
+        "es": "Trump suspende sanciones contra Rusia mientras tensiones persisten con Zelenski",
+        "en": "Trump suspends sanctions on Russia as tensions with Zelenskyy persist"
       },
       "serie": [
-        {
-          "fecha": "2026-09-26",
-          "max": 66,
-          "n": 1
-        },
         {
           "fecha": "2026-09-27",
           "max": 72,
@@ -369,9 +359,62 @@
           "fecha": "2026-10-16",
           "max": 62,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-17",
+          "max": 70,
+          "n": 4
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-17",
+          "titulo": {
+            "es": "Trump suspende sanciones contra Rusia mientras tensiones persisten con Zelenski",
+            "en": "Trump suspends sanctions on Russia as tensions with Zelenskyy persist"
+          },
+          "impacto": 70,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
+          "fuente": "El Pais Internacional"
+        },
+        {
+          "fecha": "2026-10-17",
+          "titulo": {
+            "es": "Acuerdo de Trump con Rusia sobre diésel genera dudas sobre la posición occidental ante Ucrania",
+            "en": "Trump's diesel deal with Russia raises doubts about Western stance on Ukraine"
+          },
+          "impacto": 62,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-10-16/trump-regala-a-putin-un-nuevo-balon-de-oxigeno-con-el-acuerdo-sobre-el-diesel.html",
+          "fuente": "El Pais Internacional"
+        },
+        {
+          "fecha": "2026-10-17",
+          "titulo": {
+            "es": "Restricciones a Starlink afectan el esfuerzo bélico de Ucrania",
+            "en": "Starlink restrictions impact Ukraine's war effort"
+          },
+          "impacto": 62,
+          "categoria": "geopolitica",
+          "kardashev": "K2",
+          "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
+        {
+          "fecha": "2026-10-17",
+          "titulo": {
+            "es": "El Vaticano difunde las primeras imágenes del Papa León XIV tras su operación de pulmón",
+            "en": "Vatican releases first images of Pope Leo XIV after lung surgery"
+          },
+          "impacto": 45,
+          "categoria": "sociedad",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-10-16/el-nuevo-parte-medico-del-papa-confirma-una-mejoria-constante-tres-dias-despues-de-su-operacion.html",
+          "fuente": "El Pais Internacional"
+        },
         {
           "fecha": "2026-10-16",
           "titulo": {
@@ -467,54 +510,6 @@
           "kardashev": "K1",
           "url": "https://elpais.com/internacional/2026-10-10/un-ataque-de-los-huties-contra-el-aeropuerto-de-la-capital-de-arabia-saudi-causa-al-menos-12-muertos.html",
           "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-10-12",
-          "titulo": {
-            "es": "Zelenskyy blindsided after Trump announces ‘energy ceasefire’ in Ukraine war | First Thing",
-            "en": "Zelenskyy blindsided after Trump announces ‘energy ceasefire’ in Ukraine war | First Thing"
-          },
-          "impacto": 83,
-          "categoria": "geopolitica",
-          "kardashev": "K0",
-          "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-10-11",
-          "titulo": {
-            "es": "EEUU-Rusia: Trump anuncia un acuerdo con Putin para suministrar diésel al \"mercado estadounidense y mundial\"",
-            "en": "Zelenskyy furious as Trump announces deal to buy Russian diesel"
-          },
-          "impacto": 95,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.rfi.fr/es/am%C3%A9ricas/20261010-eeuu-rusia-trump-anuncia-un-acuerdo-con-putin-para-suministrar-di%C3%A9sel-al-mercado-estadounidense-y-mundial",
-          "fuente": "RFI Espanol"
-        },
-        {
-          "fecha": "2026-10-09",
-          "titulo": {
-            "es": "Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia",
-            "en": "Rusia niega cualquier riesgo epidémico en medio de llamados a la transparencia"
-          },
-          "impacto": 56,
-          "categoria": "salud",
-          "kardashev": "K1",
-          "url": "https://www.rfi.fr/es/europa/20261008-rusia-niega-cualquier-riesgo-epid%C3%A9mico-en-medio-de-llamados-a-la-transparencia",
-          "fuente": "RFI Espanol"
-        },
-        {
-          "fecha": "2026-10-08",
-          "titulo": {
-            "es": "Russian attack on bus kills at least 30 people near Ukraine frontline",
-            "en": "Russian attack on bus kills at least 30 people near Ukraine frontline"
-          },
-          "impacto": 83,
-          "categoria": "innovacion",
-          "kardashev": "K0",
-          "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
         }
       ]
     },
@@ -525,22 +520,17 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 22,
+      "n_nodos": 21,
       "ultima_fecha": "2026-10-16",
       "resumen": {
-        "es": "22 nodos registrados en el periodo. Lo mas reciente: Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a la comunidad internacional a prevenir genocidios.",
-        "en": "22 nodes recorded in the period. Most recent: Navi Pillay, 2026 Nobel Peace Prize winner, calls on international community to prevent genocides."
+        "es": "21 nodos registrados en el periodo. Lo mas reciente: Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a la comunidad internacional a prevenir genocidios.",
+        "en": "21 nodes recorded in the period. Most recent: Navi Pillay, 2026 Nobel Peace Prize winner, calls on international community to prevent genocides."
       },
       "estado": {
         "es": "Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a la comunidad internacional a prevenir genocidios",
         "en": "Navi Pillay, 2026 Nobel Peace Prize winner, calls on international community to prevent genocides"
       },
       "serie": [
-        {
-          "fecha": "2026-09-26",
-          "max": 95,
-          "n": 1
-        },
         {
           "fecha": "2026-09-27",
           "max": 87,
@@ -771,22 +761,17 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 24,
+      "n_nodos": 20,
       "ultima_fecha": "2026-10-15",
       "resumen": {
-        "es": "24 nodos registrados en el periodo. Lo mas reciente: Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT.",
-        "en": "24 nodes recorded in the period. Most recent: Eight US states sue OpenAI over alleged harms to children from ChatGPT."
+        "es": "20 nodos registrados en el periodo. Lo mas reciente: Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT.",
+        "en": "20 nodes recorded in the period. Most recent: Eight US states sue OpenAI over alleged harms to children from ChatGPT."
       },
       "estado": {
         "es": "Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT",
         "en": "Eight US states sue OpenAI over alleged harms to children from ChatGPT"
       },
       "serie": [
-        {
-          "fecha": "2026-09-26",
-          "max": 95,
-          "n": 4
-        },
         {
           "fecha": "2026-09-27",
           "max": 78,
@@ -997,22 +982,17 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 25,
-      "ultima_fecha": "2026-10-16",
+      "n_nodos": 24,
+      "ultima_fecha": "2026-10-17",
       "resumen": {
-        "es": "25 nodos registrados en el periodo. Lo mas reciente: WHO and the Netherlands renew their partnership on climate change and health.",
-        "en": "25 nodes recorded in the period. Most recent: WHO and the Netherlands renew their partnership on climate change and health."
+        "es": "24 nodos registrados en el periodo. Lo mas reciente: Incendios forestales avivados por vientos fuertes destruyen viviendas costeras en el sur de California.",
+        "en": "24 nodes recorded in the period. Most recent: Wind-driven wildfires destroy coastal homes in Southern California."
       },
       "estado": {
-        "es": "WHO and the Netherlands renew their partnership on climate change and health",
-        "en": "WHO and the Netherlands renew their partnership on climate change and health"
+        "es": "Incendios forestales avivados por vientos fuertes destruyen viviendas costeras en el sur de California",
+        "en": "Wind-driven wildfires destroy coastal homes in Southern California"
       },
       "serie": [
-        {
-          "fecha": "2026-09-26",
-          "max": 62,
-          "n": 2
-        },
         {
           "fecha": "2026-09-27",
           "max": 64,
@@ -1077,9 +1057,26 @@
           "fecha": "2026-10-16",
           "max": 38,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-17",
+          "max": 45,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-17",
+          "titulo": {
+            "es": "Incendios forestales avivados por vientos fuertes destruyen viviendas costeras en el sur de California",
+            "en": "Wind-driven wildfires destroy coastal homes in Southern California"
+          },
+          "impacto": 45,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
+          "fuente": "NPR News"
+        },
         {
           "fecha": "2026-10-16",
           "titulo": {
@@ -1211,18 +1208,6 @@
           "kardashev": "K0",
           "url": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
           "fuente": "The Guardian World"
-        },
-        {
-          "fecha": "2026-09-29",
-          "titulo": {
-            "es": "El huracán Polo toca tierra en Baja California Sur, México, mientras Nolo amenaza Hawái",
-            "en": "Hurricane Polo makes landfall in Baja California Sur, Mexico, as Nolo threatens Hawaii"
-          },
-          "impacto": 55,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cw5yln0l9rqmo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -1233,22 +1218,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 34,
+      "n_nodos": 32,
       "ultima_fecha": "2026-10-16",
       "resumen": {
-        "es": "34 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.",
-        "en": "34 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets."
+        "es": "32 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.",
+        "en": "32 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets."
       },
       "estado": {
         "es": "Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita",
         "en": "Houthis escalate attacks on Aden and Saudi oil targets"
       },
       "serie": [
-        {
-          "fecha": "2026-09-26",
-          "max": 95,
-          "n": 2
-        },
         {
           "fecha": "2026-09-27",
           "max": 82,
