@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-17
-nodos: 32
+actualizado: 2026-10-18
+nodos: 30
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-17. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-18. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-32 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.
+30 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.
 
 ## Trend summary (EN)
-32 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets.
+30 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets.
 
 > [!note] Estado actual
 > Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita
 
-## Nodos recientes (32 en la ventana)
+## Nodos recientes (30 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-16 | 68 | K1 | Hutíes escalan ataques contra Adén y objetivos petroleros en Ara |

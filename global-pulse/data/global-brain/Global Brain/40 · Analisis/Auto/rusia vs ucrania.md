@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-17
-nodos: 29
+actualizado: 2026-10-18
+nodos: 31
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-17. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-18. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-29 nodos registrados en el periodo. Lo mas reciente: Trump suspende sanciones contra Rusia mientras tensiones persisten con Zelenski.
+31 nodos registrados en el periodo. Lo mas reciente: Trump exime a Rusia de nuevas sanciones del Congreso pese a críticas bipartidistas.
 
 ## Trend summary (EN)
-29 nodes recorded in the period. Most recent: Trump suspends sanctions on Russia as tensions with Zelenskyy persist.
+31 nodes recorded in the period. Most recent: Trump exempts Russia from new Congressional sanctions despite bipartisan criticism.
 
 > [!note] Estado actual
-> Trump suspende sanciones contra Rusia mientras tensiones persisten con Zelenski
+> Trump exime a Rusia de nuevas sanciones del Congreso pese a críticas bipartidistas
 
-## Nodos recientes (29 en la ventana)
+## Nodos recientes (31 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-18 | 78 | K1 | Trump exime a Rusia de nuevas sanciones del Congreso pese a crít |
+| 2026-10-18 | 72 | K2 | Ucrania enfrenta debilitamiento de apoyo mientras Rusia intensif |
+| 2026-10-18 | 62 | K1 | Trump pausa nuevo paquete de sanciones contra Rusia; Zelenski pi |
 | 2026-10-17 | 70 | K1 | Trump suspende sanciones contra Rusia mientras tensiones persist |
 | 2026-10-17 | 62 | K1 | Acuerdo de Trump con Rusia sobre diésel genera dudas sobre la po |
 | 2026-10-17 | 62 | K2 | Restricciones a Starlink afectan el esfuerzo bélico de Ucrania |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-10-14 | 87 | K1 | Cómo los conflictos globales se han convertido en un dolor de ca |
 | 2026-10-14 | 83 | K0 | 12 U.S. senators, including 6 Republicans, tell Trump to drop di |
 | 2026-10-14 | 55 | K0 | Bank of America es multado con 1.200 millones de dólares por fal |
-| 2026-10-13 | 78 | K1 | Trump acuerda con Putin la compra de diésel ruso y presiona a Uc |
-| 2026-10-13 | 68 | K1 | El FMI advierte que la economía global pone a prueba sus límites |
-| 2026-10-12 | 95 | K1 | Guterres condena el ataque de los hutíes contra el aeropuerto de |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-17
+actualizado: 2026-10-18
 nodos: 24
 origen: global-pulse
 ---
@@ -10,20 +10,22 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-17. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-18. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-24 nodos registrados en el periodo. Lo mas reciente: Incendios forestales avivados por vientos fuertes destruyen viviendas costeras en el sur de California.
+24 nodos registrados en el periodo. Lo mas reciente: El huracán Trudy se fortalece a categoría 2 y se acerca a la costa del Pacífico mexicano.
 
 ## Trend summary (EN)
-24 nodes recorded in the period. Most recent: Wind-driven wildfires destroy coastal homes in Southern California.
+24 nodes recorded in the period. Most recent: Hurricane Trudy strengthens to category 2 as it approaches Mexico's Pacific coast.
 
 > [!note] Estado actual
-> Incendios forestales avivados por vientos fuertes destruyen viviendas costeras en el sur de California
+> El huracán Trudy se fortalece a categoría 2 y se acerca a la costa del Pacífico mexicano
 
 ## Nodos recientes (24 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-18 | 45 | K1 | El huracán Trudy se fortalece a categoría 2 y se acerca a la cos |
+| 2026-10-18 | 35 | K2 | Pandora construye la mayor fábrica de joyería fina en Vietnam co |
 | 2026-10-17 | 45 | K1 | Incendios forestales avivados por vientos fuertes destruyen vivi |
 | 2026-10-16 | 38 | K1 | WHO and the Netherlands renew their partnership on climate chang |
 | 2026-10-14 | 45 | K1 | Tormenta inusual de lluvia y granizo desborda Santiago de Chile |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-10-11 | 95 | K1 | El huracán Isaías se degrada a ciclón postropical tras tocar tie |
 | 2026-10-11 | 75 | K1 | La tormenta tropical Simon pasa a ser un huracán de categoría 4  |
 | 2026-10-10 | 55 | K1 | El huracán Isaías toca tierra en Florida como categoría 2 dejand |
-| 2026-10-08 | 65 | K1 | Detenida la esposa del poderoso expresidente de Sri Lanka por el |
-| 2026-10-01 | 74 | K0 | ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five ye |
 
 [[Global Brain — Inicio|← Inicio]]

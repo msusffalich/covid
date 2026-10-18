@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-10-17
-nodos: 21
+actualizado: 2026-10-18
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-17. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-18. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-21 nodos registrados en el periodo. Lo mas reciente: Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a la comunidad internacional a prevenir genocidios.
+20 nodos registrados en el periodo. Lo mas reciente: Colonos israelíes atacan a diplomáticos europeos y a un alcalde francés en Cisjordania.
 
 ## Trend summary (EN)
-21 nodes recorded in the period. Most recent: Navi Pillay, 2026 Nobel Peace Prize winner, calls on international community to prevent genocides.
+20 nodes recorded in the period. Most recent: Israeli settlers attack European diplomats and a French mayor in the West Bank.
 
 > [!note] Estado actual
-> Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a la comunidad internacional a prevenir genocidios
+> Colonos israelíes atacan a diplomáticos europeos y a un alcalde francés en Cisjordania
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-18 | 62 | K1 | Colonos israelíes atacan a diplomáticos europeos y a un alcalde  |
 | 2026-10-16 | 72 | K1 | Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a l |
 | 2026-10-15 | 82 | K1 | Buques portacontenedores se hunden cerca del estrecho de Ormuz e |
 | 2026-10-15 | 68 | K1 | Navi Pillay, Premio Nobel de la Paz 2026, llama a prevenir genoc |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-06 | 70 | K1 | Los palestinos de Gaza quieren recuperar una "vida normal" |
 | 2026-10-04 | 78 | K1 | Continúan los ataques israelíes en Gaza pese al alto el fuego, e |
 | 2026-10-04 | 58 | K1 | Flydubai co-pilot used crash axe to attack captain, says UAE |
-| 2026-10-03 | 53 | K1 | WHO’s strategic engagement with philanthropies: advancing global |
 
 [[Global Brain — Inicio|← Inicio]]
