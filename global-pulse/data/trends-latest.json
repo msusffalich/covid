@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-10-18T09:59:24.416607+00:00",
+    "generado": "2026-10-19T10:49:10.502780+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 30,
+      "n_nodos": 28,
       "ultima_fecha": "2026-10-16",
       "resumen": {
-        "es": "30 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.",
-        "en": "30 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets."
+        "es": "28 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.",
+        "en": "28 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets."
       },
       "estado": {
         "es": "Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita",
         "en": "Houthis escalate attacks on Aden and Saudi oil targets"
       },
       "serie": [
-        {
-          "fecha": "2026-09-28",
-          "max": 87,
-          "n": 2
-        },
         {
           "fecha": "2026-09-29",
           "max": 74,
@@ -264,22 +259,17 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 31,
-      "ultima_fecha": "2026-10-18",
+      "n_nodos": 32,
+      "ultima_fecha": "2026-10-19",
       "resumen": {
-        "es": "31 nodos registrados en el periodo. Lo mas reciente: Trump exime a Rusia de nuevas sanciones del Congreso pese a críticas bipartidistas.",
-        "en": "31 nodes recorded in the period. Most recent: Trump exempts Russia from new Congressional sanctions despite bipartisan criticism."
+        "es": "32 nodos registrados en el periodo. Lo mas reciente: Trump suaviza sanciones a Rusia mientras Putin propone cumbre con EE.UU. y China mientras evita a Zelenskyy.",
+        "en": "32 nodes recorded in the period. Most recent: Trump eases sanctions on Russia as Putin seeks summit with US and China while avoiding Zelenskyy."
       },
       "estado": {
-        "es": "Trump exime a Rusia de nuevas sanciones del Congreso pese a críticas bipartidistas",
-        "en": "Trump exempts Russia from new Congressional sanctions despite bipartisan criticism"
+        "es": "Trump suaviza sanciones a Rusia mientras Putin propone cumbre con EE.UU. y China mientras evita a Zelenskyy",
+        "en": "Trump eases sanctions on Russia as Putin seeks summit with US and China while avoiding Zelenskyy"
       },
       "serie": [
-        {
-          "fecha": "2026-09-28",
-          "max": 87,
-          "n": 1
-        },
         {
           "fecha": "2026-09-29",
           "max": 87,
@@ -359,9 +349,38 @@
           "fecha": "2026-10-18",
           "max": 78,
           "n": 3
+        },
+        {
+          "fecha": "2026-10-19",
+          "max": 78,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-19",
+          "titulo": {
+            "es": "Trump suaviza sanciones a Rusia mientras Putin propone cumbre con EE.UU. y China mientras evita a Zelenskyy",
+            "en": "Trump eases sanctions on Russia as Putin seeks summit with US and China while avoiding Zelenskyy"
+          },
+          "impacto": 78,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
+          "fuente": "El Pais Internacional"
+        },
+        {
+          "fecha": "2026-10-19",
+          "titulo": {
+            "es": "Ucrania lanza más de 1.000 drones contra Rusia, incendiando instalaciones petroleras en San Petersburgo",
+            "en": "Ukraine launches over 1,000 drones at Russia, setting St. Petersburg oil facilities ablaze"
+          },
+          "impacto": 70,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
         {
           "fecha": "2026-10-18",
           "titulo": {
@@ -481,30 +500,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/cm20r9337vn8o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-10-14",
-          "titulo": {
-            "es": "12 U.S. senators, including 6 Republicans, tell Trump to drop diesel deal with Russia",
-            "en": "12 U.S. senators, including 6 Republicans, tell Trump to drop diesel deal with Russia"
-          },
-          "impacto": 83,
-          "categoria": "geopolitica",
-          "kardashev": "K0",
-          "url": "https://www.france24.com/en/europe/20261014-trump-says-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland",
-          "fuente": "France 24 English"
-        },
-        {
-          "fecha": "2026-10-14",
-          "titulo": {
-            "es": "Bank of America es multado con 1.200 millones de dólares por fallos contra el blanqueo de capitales",
-            "en": "Bank of America fined $1.2 billion over money-laundering failures"
-          },
-          "impacto": 55,
-          "categoria": "economia",
-          "kardashev": "K0",
-          "url": "https://es.euronews.com/2026/10/14/fallos-contra-el-blanqueo-de-capitales-cuestan-a-bank-of-america-1200-millones-de-dolares",
-          "fuente": "Euronews Espanol"
         }
       ]
     },
@@ -515,15 +510,15 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 20,
-      "ultima_fecha": "2026-10-18",
+      "n_nodos": 21,
+      "ultima_fecha": "2026-10-19",
       "resumen": {
-        "es": "20 nodos registrados en el periodo. Lo mas reciente: Colonos israelíes atacan a diplomáticos europeos y a un alcalde francés en Cisjordania.",
-        "en": "20 nodes recorded in the period. Most recent: Israeli settlers attack European diplomats and a French mayor in the West Bank."
+        "es": "21 nodos registrados en el periodo. Lo mas reciente: Recortes de financiación obligan al PMA a reducir la ayuda alimentaria en Gaza.",
+        "en": "21 nodes recorded in the period. Most recent: Funding cuts force WFP to reduce food aid in Gaza."
       },
       "estado": {
-        "es": "Colonos israelíes atacan a diplomáticos europeos y a un alcalde francés en Cisjordania",
-        "en": "Israeli settlers attack European diplomats and a French mayor in the West Bank"
+        "es": "Recortes de financiación obligan al PMA a reducir la ayuda alimentaria en Gaza",
+        "en": "Funding cuts force WFP to reduce food aid in Gaza"
       },
       "serie": [
         {
@@ -600,9 +595,26 @@
           "fecha": "2026-10-18",
           "max": 62,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-19",
+          "max": 72,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-19",
+          "titulo": {
+            "es": "Recortes de financiación obligan al PMA a reducir la ayuda alimentaria en Gaza",
+            "en": "Funding cuts force WFP to reduce food aid in Gaza"
+          },
+          "impacto": 72,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
         {
           "fecha": "2026-10-18",
           "titulo": {
@@ -734,18 +746,6 @@
           "kardashev": "K1",
           "url": "https://elpais.com/internacional/2026-10-03/varios-muertos-por-un-ataque-israeli-en-ciudad-de-gaza.html",
           "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-10-04",
-          "titulo": {
-            "es": "Flydubai co-pilot used crash axe to attack captain, says UAE",
-            "en": "Flydubai co-pilot used crash axe to attack captain, says UAE"
-          },
-          "impacto": 58,
-          "categoria": "salud",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-          "fuente": "The Guardian World"
         }
       ]
     },
@@ -756,22 +756,17 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 16,
+      "n_nodos": 15,
       "ultima_fecha": "2026-10-15",
       "resumen": {
-        "es": "16 nodos registrados en el periodo. Lo mas reciente: Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT.",
-        "en": "16 nodes recorded in the period. Most recent: Eight US states sue OpenAI over alleged harms to children from ChatGPT."
+        "es": "15 nodos registrados en el periodo. Lo mas reciente: Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT.",
+        "en": "15 nodes recorded in the period. Most recent: Eight US states sue OpenAI over alleged harms to children from ChatGPT."
       },
       "estado": {
         "es": "Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT",
         "en": "Eight US states sue OpenAI over alleged harms to children from ChatGPT"
       },
       "serie": [
-        {
-          "fecha": "2026-09-28",
-          "max": 62,
-          "n": 1
-        },
         {
           "fecha": "2026-09-29",
           "max": 87,
@@ -972,22 +967,17 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 24,
+      "n_nodos": 20,
       "ultima_fecha": "2026-10-18",
       "resumen": {
-        "es": "24 nodos registrados en el periodo. Lo mas reciente: El huracán Trudy se fortalece a categoría 2 y se acerca a la costa del Pacífico mexicano.",
-        "en": "24 nodes recorded in the period. Most recent: Hurricane Trudy strengthens to category 2 as it approaches Mexico's Pacific coast."
+        "es": "20 nodos registrados en el periodo. Lo mas reciente: El huracán Trudy se fortalece a categoría 2 y se acerca a la costa del Pacífico mexicano.",
+        "en": "20 nodes recorded in the period. Most recent: Hurricane Trudy strengthens to category 2 as it approaches Mexico's Pacific coast."
       },
       "estado": {
         "es": "El huracán Trudy se fortalece a categoría 2 y se acerca a la costa del Pacífico mexicano",
         "en": "Hurricane Trudy strengthens to category 2 as it approaches Mexico's Pacific coast"
       },
       "serie": [
-        {
-          "fecha": "2026-09-28",
-          "max": 95,
-          "n": 4
-        },
         {
           "fecha": "2026-09-29",
           "max": 55,
@@ -1208,22 +1198,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 31,
-      "ultima_fecha": "2026-10-16",
+      "n_nodos": 33,
+      "ultima_fecha": "2026-10-19",
       "resumen": {
-        "es": "31 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.",
-        "en": "31 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets."
+        "es": "33 nodos registrados en el periodo. Lo mas reciente: Trump suaviza sanciones a Rusia mientras Putin propone cumbre con EE.UU. y China mientras evita a Zelenskyy.",
+        "en": "33 nodes recorded in the period. Most recent: Trump eases sanctions on Russia as Putin seeks summit with US and China while avoiding Zelenskyy."
       },
       "estado": {
-        "es": "Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita",
-        "en": "Houthis escalate attacks on Aden and Saudi oil targets"
+        "es": "Trump suaviza sanciones a Rusia mientras Putin propone cumbre con EE.UU. y China mientras evita a Zelenskyy",
+        "en": "Trump eases sanctions on Russia as Putin seeks summit with US and China while avoiding Zelenskyy"
       },
       "serie": [
-        {
-          "fecha": "2026-09-28",
-          "max": 87,
-          "n": 1
-        },
         {
           "fecha": "2026-09-29",
           "max": 95,
@@ -1293,9 +1278,50 @@
           "fecha": "2026-10-16",
           "max": 68,
           "n": 2
+        },
+        {
+          "fecha": "2026-10-19",
+          "max": 78,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-19",
+          "titulo": {
+            "es": "Trump suaviza sanciones a Rusia mientras Putin propone cumbre con EE.UU. y China mientras evita a Zelenskyy",
+            "en": "Trump eases sanctions on Russia as Putin seeks summit with US and China while avoiding Zelenskyy"
+          },
+          "impacto": 78,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
+          "fuente": "El Pais Internacional"
+        },
+        {
+          "fecha": "2026-10-19",
+          "titulo": {
+            "es": "Ucrania lanza más de 1.000 drones contra Rusia, incendiando instalaciones petroleras en San Petersburgo",
+            "en": "Ukraine launches over 1,000 drones at Russia, setting St. Petersburg oil facilities ablaze"
+          },
+          "impacto": 70,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
+        {
+          "fecha": "2026-10-19",
+          "titulo": {
+            "es": "Incendio mortal en base militar canadiense deja cuatro muertos y decenas de heridos",
+            "en": "Deadly fire at Canadian military base kills four and injures dozens"
+          },
+          "impacto": 45,
+          "categoria": "sociedad",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+          "fuente": "The Guardian World"
+        },
         {
           "fecha": "2026-10-16",
           "titulo": {
@@ -1403,42 +1429,6 @@
           "kardashev": "K2",
           "url": "https://es.euronews.com/2026/10/13/apple-se-instala-en-tu-casa-inteligente-del-homeview-a-las-cerraduras-inteligentes",
           "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-13",
-          "titulo": {
-            "es": "Los Nobel Hall y Woodford sentaron las bases del nuevo paradigma de la política de estabilización económica",
-            "en": "US economists win Nobel for research helping policymakers navigate crises"
-          },
-          "impacto": 95,
-          "categoria": "economia",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cr78pegge239o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-10-13",
-          "titulo": {
-            "es": "Tras el desencanto de los empresarios latinos de Texas con Trump",
-            "en": "Is punishing the poor Trump’s last hand to play?"
-          },
-          "impacto": 78,
-          "categoria": "geopolitica",
-          "kardashev": "K0",
-          "url": "https://elpais.com/us/2026-10-12/trump-a-la-defensiva-en-las-encuestas-desatado-en-los-mitines.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-10-13",
-          "titulo": {
-            "es": "El FMI advierte que la economía global pone a prueba sus límites de resiliencia pese a elevar previsión de crecimiento para 2026",
-            "en": "IMF warns global economy is testing the limits of resilience despite raising 2026 growth forecast"
-          },
-          "impacto": 68,
-          "categoria": "economia",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
-          "fuente": "The Guardian World"
         }
       ]
     }

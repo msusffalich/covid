@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-18
-nodos: 24
+actualizado: 2026-10-19
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-18. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-19. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-24 nodos registrados en el periodo. Lo mas reciente: El huracán Trudy se fortalece a categoría 2 y se acerca a la costa del Pacífico mexicano.
+20 nodos registrados en el periodo. Lo mas reciente: El huracán Trudy se fortalece a categoría 2 y se acerca a la costa del Pacífico mexicano.
 
 ## Trend summary (EN)
-24 nodes recorded in the period. Most recent: Hurricane Trudy strengthens to category 2 as it approaches Mexico's Pacific coast.
+20 nodes recorded in the period. Most recent: Hurricane Trudy strengthens to category 2 as it approaches Mexico's Pacific coast.
 
 > [!note] Estado actual
 > El huracán Trudy se fortalece a categoría 2 y se acerca a la costa del Pacífico mexicano
 
-## Nodos recientes (24 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-18 | 45 | K1 | El huracán Trudy se fortalece a categoría 2 y se acerca a la cos |

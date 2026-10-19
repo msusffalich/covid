@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-10-18
-nodos: 20
+actualizado: 2026-10-19
+nodos: 21
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-18. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-19. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: Colonos israelíes atacan a diplomáticos europeos y a un alcalde francés en Cisjordania.
+21 nodos registrados en el periodo. Lo mas reciente: Recortes de financiación obligan al PMA a reducir la ayuda alimentaria en Gaza.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: Israeli settlers attack European diplomats and a French mayor in the West Bank.
+21 nodes recorded in the period. Most recent: Funding cuts force WFP to reduce food aid in Gaza.
 
 > [!note] Estado actual
-> Colonos israelíes atacan a diplomáticos europeos y a un alcalde francés en Cisjordania
+> Recortes de financiación obligan al PMA a reducir la ayuda alimentaria en Gaza
 
-## Nodos recientes (20 en la ventana)
+## Nodos recientes (21 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-19 | 72 | K1 | Recortes de financiación obligan al PMA a reducir la ayuda alime |
 | 2026-10-18 | 62 | K1 | Colonos israelíes atacan a diplomáticos europeos y a un alcalde  |
 | 2026-10-16 | 72 | K1 | Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a l |
 | 2026-10-15 | 82 | K1 | Buques portacontenedores se hunden cerca del estrecho de Ormuz e |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-07 | 78 | K1 | Israel conmemora el tercer aniversario del ataque de Hamás del 7 |
 | 2026-10-06 | 70 | K1 | Los palestinos de Gaza quieren recuperar una "vida normal" |
 | 2026-10-04 | 78 | K1 | Continúan los ataques israelíes en Gaza pese al alto el fuego, e |
-| 2026-10-04 | 58 | K1 | Flydubai co-pilot used crash axe to attack captain, says UAE |
 
 [[Global Brain — Inicio|← Inicio]]

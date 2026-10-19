@@ -1,76 +1,75 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-10-18",
-    "generado": "2026-10-18T09:58:50.017980+00:00",
+    "fecha": "2026-10-19",
+    "generado": "2026-10-19T10:48:36.842465+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 933,
-      "clusters": 824,
-      "nodos": 824,
-      "verificados": 823,
-      "duracion_s": 2851.4
+      "piezas_ingeridas": 861,
+      "clusters": 770,
+      "nodos": 770,
+      "verificados": 770,
+      "duracion_s": 1638.6
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Trump exime a Rusia de nuevas sanciones del Congreso pese a críticas bipartidistas",
-        "en": "Trump exempts Russia from new Congressional sanctions despite bipartisan criticism"
+        "es": "Trump suaviza sanciones a Rusia mientras Putin propone cumbre con EE.UU. y China mientras evita a Zelenskyy",
+        "en": "Trump eases sanctions on Russia as Putin seeks summit with US and China while avoiding Zelenskyy"
       },
       "sintesis": {
-        "es": "El presidente Donald Trump firmó el 17 de octubre una orden ejecutiva que suspende temporalmente un amplio paquete de sanciones contra Rusia aprobado por el Congreso, ley nombrada en honor al fallecido senador Lindsey Graham y orientada a limitar el financiamiento de la guerra en Ucrania. Moscú calificó la medida de 'día histórico', mientras Kiev la lamentó y el Senado estadounidense la tildó de 'abyecta', en un contexto de acercamiento de Trump hacia Rusia y críticas a Zelenski.",
-        "en": "President Donald Trump signed an executive order on October 17 temporarily suspending a broad package of Congress-approved sanctions against Russia, a law named after the late Senator Lindsey Graham aimed at limiting funding for the war in Ukraine. Moscow called the move a 'historic day,' while Kyiv lamented it and the US Senate called it 'abject,' amid Trump's rapprochement with Russia and criticism of Zelensky."
+        "es": "La administración Trump suspendió sanciones contra Rusia y redujo presión económica sobre Moscú, en un giro que coincide con un acuerdo previo para comprar diésel ruso, generando críticas de legisladores republicanos que lo califican de irresponsable. Simultáneamente, Putin propuso una cumbre con Trump y Xi Jinping para abordar Ucrania, pero rechazó negociar directamente con Zelenskyy, mientras Washington presiona a Kyiv para detener ataques a infraestructura petrolera rusa, lo que genera inquietud en Ucrania sobre concesiones unilaterales.",
+        "en": "The Trump administration suspended sanctions against Russia and eased economic pressure on Moscow, a shift coinciding with a prior deal to purchase Russian diesel, drawing criticism from Republican lawmakers who called it irresponsible. Simultaneously, Putin proposed a summit with Trump and Xi Jinping to address Ukraine, but refused direct talks with Zelenskyy, while Washington pressures Kyiv to halt strikes on Russian oil infrastructure, raising concerns in Ukraine about one-sided concessions."
       },
       "categoria": "geopolitica",
       "actores": [
         "Donald Trump",
+        "Vladimir Putin",
+        "Volodymyr Zelenskyy",
+        "Xi Jinping",
+        "Senado de EE.UU.",
         "Rusia",
         "Ucrania",
-        "Congreso de EE.UU.",
-        "Volodímir Zelenski",
-        "Lindsey Graham (ley)"
+        "Estados Unidos"
       ],
       "geo": {
-        "lat": 38.9072,
-        "lon": -77.0369,
-        "region": "Washington D.C., Estados Unidos"
+        "lat": 55.7558,
+        "lon": 37.6173,
+        "region": "Rusia/Ucrania/Estados Unidos"
       },
       "impacto": 78,
       "fuentes": [
-        "ev_00864f88c4",
-        "ev_ed882d0ed0",
+        "ev_7b23631d34",
+        "ev_9871018975",
         "ev_b37a779246",
-        "ev_8cfd46e7a2",
-        "ev_1a3dcc476e",
-        "ev_3c348203c7"
+        "ev_f52d74c01c"
       ],
-      "cluster_id": "cl_073",
+      "cluster_id": "cl_055",
       "imagenes": [
-        "https://s.france24.com/media/display/7d350c66-ca5e-11f1-966f-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261017-070455-070627-CS.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/17/17922146377560.jpg",
+        "https://imagenes.elpais.com/resizer/v2/2E3VSNCU35AU3FR6VCJEQFOFR4.JPG?auth=4fc3f09da3421752a15091580500df0b1a334515d961e177d8471567a7a17b61",
         "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c246/live/ae0db980-ca9c-11f1-9a39-31b474234113.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"
+        "https://s.france24.com/media/display/c4a57392-8d19-11f1-9ad5-005056bfb2b6/w:1024/p:16x9/000-C3EB39E-1.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_00864f88c4",
-          "titulo": "Trump suspende por orden ejecutiva las sanciones a Rusia pese al Congreso y Moscú lo celebra",
-          "url": "https://www.france24.com/es/video/20261017-trump-suspende-por-orden-ejecutiva-las-sanciones-a-rusia-pese-al-congreso-y-mosc%C3%BA-lo-celebra",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sat, 17 Oct 2026 20:21:25 GMT",
+          "id": "ev_7b23631d34",
+          "titulo": "Trump suspende sanciones contra Rusia en pleno giro para que Putin le ayude a bajar el precio de la energía antes de las elecciones",
+          "url": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Sat, 17 Oct 2026 02:40:36 GMT",
           "idioma": "es"
         },
         {
-          "id": "ev_ed882d0ed0",
-          "titulo": "Trump exime a Rusia de la nueva legislación de sanciones: Moscú celebra \"un día histórico\", Kiev habla de \"lamentable decisión\" y el Senado lo califica de \"abyecto\"",
-          "url": "https://www.elmundo.es/internacional/2026/10/17/6ad3068ffdddffb8258b45b6.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sun, 18 Oct 2026 07:11:08 +0200",
-          "idioma": "es"
+          "id": "ev_9871018975",
+          "titulo": "Putin seeks Ukraine summit with Trump and Xi but refuses talks with Zelenskyy",
+          "url": "https://www.euronews.com/2026/10/19/putin-seeks-ukraine-summit-with-trump-and-xi-but-refuses-talks-with-zelenskyy",
+          "fuente": "Euronews English",
+          "fecha": "Mon, 19 Oct 2026 10:40:45 +0200",
+          "idioma": "en"
         },
         {
           "id": "ev_b37a779246",
@@ -81,343 +80,222 @@
           "idioma": "es"
         },
         {
-          "id": "ev_8cfd46e7a2",
-          "titulo": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sun, 18 Oct 2026 01:10:25 GMT",
+          "id": "ev_f52d74c01c",
+          "titulo": "Zelensky holds US talks as Trump accuses him of not wanting peace",
+          "url": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions",
+          "fuente": "France 24 English",
+          "fecha": "Sun, 18 Oct 2026 21:59:34 GMT",
           "idioma": "en"
-        },
-        {
-          "id": "ev_1a3dcc476e",
-          "titulo": "Volodímir Zelenski teme que Trump \"continúe\" levantando las sanciones contra Rusia",
-          "url": "https://www.france24.com/es/europa/20261017-volod%C3%ADmir-zelenski-teme-que-trump-contin%C3%BAe-levantando-las-sanciones-contra-rusia",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sat, 17 Oct 2026 20:52:00 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_3c348203c7",
-          "titulo": "Trump firma una orden ejecutiva que suspende el nuevo paquete de sanciones a Rusia",
-          "url": "https://es.euronews.com/2026/10/17/trump-firma-una-orden-ejecutiva-que-suspende-el-nuevo-paquete-de-sanciones-a-rusia",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sat, 17 Oct 2026 09:06:22 +0200",
-          "idioma": "es"
         }
       ],
-      "id": "nd_2026-10-18_0000",
-      "fecha": "2026-10-18",
+      "id": "nd_2026-10-19_0000",
+      "fecha": "2026-10-19",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-10-18_0001",
-        "nd_2026-10-18_0003"
+        "nd_2026-10-19_0001",
+        "nd_2026-10-19_0002"
       ]
     },
     {
       "titulo": {
-        "es": "Ucrania enfrenta debilitamiento de apoyo mientras Rusia intensifica presión militar",
-        "en": "Ukraine faces weakening support as Russia intensifies military pressure"
+        "es": "Recortes de financiación obligan al PMA a reducir la ayuda alimentaria en Gaza",
+        "en": "Funding cuts force WFP to reduce food aid in Gaza"
       },
       "sintesis": {
-        "es": "Ucrania atraviesa un momento crítico tras una semana de reveses militares, mientras Zelenski afirma que Putin busca la destrucción total del país y no solo su rendición. Paralelamente, un acuerdo de diésel entre Trump y Rusia genera dudas sobre el nivel de apoyo estadounidense a Kiev y el margen de maniobra ucraniano frente a Moscú.",
-        "en": "Ukraine faces a critical juncture after a week of military setbacks, with Zelensky claiming Putin seeks the country's total destruction rather than mere surrender. Meanwhile, a diesel deal between Trump and Russia raises questions about the level of US support for Kyiv and Ukraine's leverage against Moscow."
+        "es": "El Programa Mundial de Alimentos (PMA) de la ONU anunció que, debido a la escasez de financiación, reducirá su asistencia mensual en la Franja de Gaza de 1.6 millones a 1.1 millones de personas, dejando sin ayuda a más de medio millón de beneficiarios. La medida ocurre más de un año después del alto el fuego impulsado por Trump, sin que haya comenzado la reconstrucción prometida, mientras dos tercios de la población enfrenta inseguridad alimentaria crítica y 200,000 personas corren riesgo de hambruna.",
+        "en": "The UN World Food Programme announced that funding shortages will force it to cut monthly aid in the Gaza Strip from 1.6 million to 1.1 million people, leaving over half a million beneficiaries without support. The cut comes more than a year after the Trump-brokered ceasefire, with promised reconstruction yet to begin, as two-thirds of the population faces crisis-level food insecurity and 200,000 people risk famine."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Volodymyr Zelenski",
-        "Vladimir Putin",
-        "Donald Trump",
+        "World Food Programme",
+        "ONU",
+        "Gaza/Palestinos",
+        "Estados Unidos"
+      ],
+      "geo": {
+        "lat": 31.5,
+        "lon": 34.47,
+        "region": "Franja de Gaza"
+      },
+      "impacto": 72,
+      "fuentes": [
+        "ev_33ee6c80b1",
+        "ev_2c61c5e79d",
+        "ev_0eac73f65c"
+      ],
+      "cluster_id": "cl_226",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2c/live/e6934370-cb7c-11f1-8d42-dd1c1e8413a3.jpg",
+        "https://i.guim.co.uk/img/media/472565e869a7fe663310c8d89eaa99c64de9b14c/956_535_4931_3945/master/4931.jpg?width=140&quality=85&auto=format&fit=max&s=fa666245cafaa1e90596f1f61ab56761",
+        "https://s.france24.com/media/display/967a6c90-cb8d-11f1-bcf9-638c1c1f5fd6/w:1024/p:16x9/AP26291491573638.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_33ee6c80b1",
+          "titulo": "Funding shortages force World Food Programme to cut aid to Gaza",
+          "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Mon, 19 Oct 2026 06:00:18 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_2c61c5e79d",
+          "titulo": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
+          "url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
+          "fuente": "The Guardian World",
+          "fecha": "Mon, 19 Oct 2026 09:54:33 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0eac73f65c",
+          "titulo": "World Food Programme to end aid for half a million in Gaza due to funding shortfall",
+          "url": "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 19 Oct 2026 07:33:32 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-19_0001",
+      "fecha": "2026-10-19",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-19_0000",
+        "nd_2026-10-19_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Ucrania lanza más de 1.000 drones contra Rusia, incendiando instalaciones petroleras en San Petersburgo",
+        "en": "Ukraine launches over 1,000 drones at Russia, setting St. Petersburg oil facilities ablaze"
+      },
+      "sintesis": {
+        "es": "Ucrania llevó a cabo uno de sus mayores ataques aéreos de la guerra, lanzando más de 1.000 drones contra Rusia. Los ataques incendiaron una terminal de exportación de petróleo y un depósito en San Petersburgo. El ataque se produce en un contexto de tensiones crecientes entre Kiev y Washington.",
+        "en": "Ukraine carried out one of its largest aerial attacks of the war, launching more than 1,000 drones at Russia. The strikes set an oil export terminal and a depot ablaze in St. Petersburg. The attack comes amid rising tensions between Kyiv and Washington."
+      },
+      "categoria": "geopolitica",
+      "actores": [
         "Ucrania",
         "Rusia",
         "Estados Unidos"
       ],
       "geo": {
-        "lat": 49.0,
-        "lon": 31.0,
-        "region": "Ucrania"
+        "lat": 59.9343,
+        "lon": 30.3351,
+        "region": "San Petersburgo, Rusia"
       },
-      "impacto": 72,
+      "impacto": 70,
       "fuentes": [
-        "ev_a224ea0205",
-        "ev_a311f8cb39"
+        "ev_c924e84895",
+        "ev_4ff75bdd4a"
       ],
-      "cluster_id": "cl_045",
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/QY6G7CLK7JAB7OEISNE4JHSBBY.jpg?auth=5b06f0ae7a9b1b00835f773f05b44afe3d111906000a8e02409e002c8911f58a"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_a224ea0205",
-          "titulo": "Ucrania, en punto muerto: asediada por Putin y abandonada por Trump",
-          "url": "https://elpais.com/internacional/2026-10-18/ucrania-en-punto-muerto-asediada-por-putin-y-ninguneada-por-trump.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sun, 18 Oct 2026 03:30:01 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_a311f8cb39",
-          "titulo": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
-          "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Sun, 18 Oct 2026 07:22:07 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-18_0001",
-      "fecha": "2026-10-18",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-10-18_0000",
-        "nd_2026-10-18_0003"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Colonos israelíes atacan a diplomáticos europeos y a un alcalde francés en Cisjordania",
-        "en": "Israeli settlers attack European diplomats and a French mayor in the West Bank"
-      },
-      "sintesis": {
-        "es": "Colonos israelíes enmascarados atacaron en Taybeh, Cisjordania ocupada, a un convoy de diplomáticos europeos, al alcalde francés Bernard Baudoux y al arzobispo de Cambrai, en un intento violento de impedir la cosecha de aceitunas palestinas. El alcalde, de 78 años, fue golpeado y derribado, y un vehículo diplomático resultó dañado. El incidente generó condena internacional: Bélgica culpó a la política de asentamientos israelí y pidió más sanciones de la UE, mientras Francia exigió el cese 'urgente' de la violencia; Netanyahu calificó las acusaciones de 'campaña de difamación'.",
-        "en": "Masked Israeli settlers attacked a convoy of European diplomats, French mayor Bernard Baudoux and the archbishop of Cambrai in Taybeh, occupied West Bank, in a violent attempt to stop Palestinians from harvesting olives. The 78-year-old mayor was beaten and knocked down, and a diplomatic vehicle was damaged. The incident drew international condemnation, with Belgium blaming Israel's settlement policy and pushing for further EU sanctions, while France urged an urgent halt to the violence; Netanyahu dismissed the claims as a 'smear' campaign."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Colonos israelíes",
-        "Bernard Baudoux (alcalde de Aulnoye-Aymeries)",
-        "Arzobispo de Cambrai",
-        "Diplomáticos europeos",
-        "Benjamin Netanyahu",
-        "Gobierno de Bélgica",
-        "Gobierno de Francia",
-        "Palestinos"
-      ],
-      "geo": {
-        "lat": 31.9224,
-        "lon": 35.2928,
-        "region": "Taybeh, Cisjordania ocupada"
-      },
-      "impacto": 62,
-      "fuentes": [
-        "ev_7e2269f428",
-        "ev_993ca0ec1e",
-        "ev_2e9d252cbe",
-        "ev_1ae783c63f",
-        "ev_32fd21bec7",
-        "ev_126ecbdf40",
-        "ev_f740b31bf5",
-        "ev_d30849202f",
-        "ev_229e30d460",
-        "ev_6ffc9cc0d4",
-        "ev_b2df372155",
-        "ev_1a1a88596b"
-      ],
-      "cluster_id": "cl_261",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/b9a3e348f316f5f39a4ebd9844c51cbc810845c9/0_1020_1192_953/master/1192.jpg?width=140&quality=85&auto=format&fit=max&s=b63ff2e62279e8e2b14337cfb6803fc2",
-        "https://s.france24.com/media/display/99f3ef8a-ca3a-11f1-b233-2d1c143cdef3/w:1024/p:16x9/000-D3CR48X.jpg",
-        "https://e3.365dm.com/26/10/1920x1080/skynews-westbank-taybeh_7379338.jpg?20261017185135",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_7e2269f428",
-          "titulo": "Israeli settlers attack European diplomats in West Bank",
-          "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-          "fuente": "The Guardian World",
-          "fecha": "Sat, 17 Oct 2026 18:57:56 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_993ca0ec1e",
-          "titulo": "🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank",
-          "url": "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",
-          "fuente": "France 24 English",
-          "fecha": "Sat, 17 Oct 2026 14:58:54 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2e9d252cbe",
-          "titulo": "Israeli settlers attack European delegation convoy in West Bank, beat French mayor",
-          "url": "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",
-          "fuente": "France 24 English",
-          "fecha": "Sat, 17 Oct 2026 14:58:07 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1ae783c63f",
-          "titulo": "Israeli settlers attack European diplomats in the occupied West Bank",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 18 Oct 2026 01:02:37 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_32fd21bec7",
-          "titulo": "European diplomats attacked by Israeli settlers amid rising violence in occupied West Bank",
-          "url": "https://www.euronews.com/2026/10/17/european-diplomats-attacked-by-israeli-settlers-amid-rising-violence-in-occupied-west-bank",
-          "fuente": "Euronews English",
-          "fecha": "Sat, 17 Oct 2026 19:23:27 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_126ecbdf40",
-          "titulo": "Israeli settlers attack European diplomats and French mayor in West Bank, Belgium says",
-          "url": "https://news.sky.com/story/israeli-settlers-attack-european-diplomats-and-french-mayor-in-west-bank-belgium-says-13600419",
-          "fuente": "Sky News World",
-          "fecha": "Sat, 17 Oct 2026 18:38:00 +0100",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_f740b31bf5",
-          "titulo": "European diplomats attacked by Israeli settlers in West Bank",
-          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sat, 17 Oct 2026 23:52:38 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d30849202f",
-          "titulo": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-          "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Fri, 16 Oct 2026 11:40:41 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_229e30d460",
-          "titulo": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
-          "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
-          "fuente": "The Guardian World",
-          "fecha": "Fri, 16 Oct 2026 16:34:58 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6ffc9cc0d4",
-          "titulo": "Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank",
-          "url": "https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html",
-          "fuente": "NYT World",
-          "fecha": "Fri, 16 Oct 2026 19:31:34 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_b2df372155",
-          "titulo": "Israeli settlers attack and beat Palestinians, U.S. journalist in West Bank",
-          "url": "https://www.cbc.ca/player/play/9.7385021?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 16 Oct 2026 22:06:35 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1a1a88596b",
-          "titulo": "Israeli settlers attack Palestinians, American journalist during West Bank olive harvest",
-          "url": "https://www.cbc.ca/news/world/israeli-settlers-attack-olive-harvest-9.7383174?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 16 Oct 2026 10:34:39 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-18_0002",
-      "fecha": "2026-10-18",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-18_0005"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Trump pausa nuevo paquete de sanciones contra Rusia; Zelenski pide apoyo para mantenerlas",
-        "en": "Trump pauses new sanctions package on Russia; Zelenskyy urges support to keep them"
-      },
-      "sintesis": {
-        "es": "El presidente estadounidense Donald Trump firmó una orden ejecutiva que pausa un amplio paquete de nuevas sanciones contra la economía rusa, alegando que la medida responde al interés nacional sin dar más detalles. El presidente ucraniano Volodymyr Zelenski calificó la decisión de desafortunada y pidió a sus aliados que defiendan públicamente las sanciones, advirtiendo que la pausa podría alentar a Rusia a continuar su ofensiva.",
-        "en": "US President Donald Trump signed an executive order pausing a sweeping package of new sanctions targeting the Russian economy, telling Congress the move was in the national interest without providing further details. Ukrainian President Volodymyr Zelenskyy called the decision unfortunate and urged allies to publicly defend the sanctions, warning the pause could encourage Russia to continue its offensive."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Donald Trump",
-        "Volodymyr Zelenskyy",
-        "Estados Unidos",
-        "Rusia",
-        "Ucrania",
-        "Congreso de EE.UU."
-      ],
-      "geo": {
-        "lat": 38.9072,
-        "lon": -77.0369,
-        "region": "Washington D.C., Estados Unidos"
-      },
-      "impacto": 62,
-      "fuentes": [
-        "ev_46be9444d0",
-        "ev_26a82b6b76",
-        "ev_97cb77afb2"
-      ],
-      "cluster_id": "cl_320",
+      "cluster_id": "cl_321",
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_46be9444d0",
-          "titulo": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-          "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-          "fuente": "NPR News",
-          "fecha": "Sat, 17 Oct 2026 10:25:10 -0400",
+          "id": "ev_c924e84895",
+          "titulo": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+          "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 19 Oct 2026 02:10:09 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_26a82b6b76",
-          "titulo": "Zelenskyy urges support for new U.S. sanctions on Russia hours after Trump paused them",
-          "url": "https://www.cbc.ca/news/world/zelenskyy-trump-russia-sanctions-9.7385125?cmp=rss",
+          "id": "ev_4ff75bdd4a",
+          "titulo": "St. Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia",
+          "url": "https://www.cbc.ca/news/world/fire-russian-oil-sites-ukrain-drone-attacks-9.7385770?cmp=rss",
           "fuente": "CBC World",
-          "fecha": "Sat, 17 Oct 2026 08:27:41 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_97cb77afb2",
-          "titulo": "Trump pauses sanctions package targeted at Russian economy",
-          "url": "https://www.cbc.ca/news/world/trump-waiver-russia-sanctions-ukraine-9.7385045?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 16 Oct 2026 22:36:07 EDT",
+          "fecha": "Sun, 18 Oct 2026 06:48:06 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-18_0003",
-      "fecha": "2026-10-18",
+      "id": "nd_2026-10-19_0002",
+      "fecha": "2026-10-19",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-10-18_0000",
-        "nd_2026-10-18_0001"
+        "nd_2026-10-19_0000",
+        "nd_2026-10-19_0001"
       ]
     },
     {
       "titulo": {
-        "es": "Investigadores descubren spyware mercenario distribuido mediante anuncios dirigidos con exploits de clic cero",
-        "en": "Researchers discover mercenary spyware distributed via targeted ads using zero-click exploits"
+        "es": "Debate presidencial en Brasil entre Lula y Bolsonaro antes del balotaje",
+        "en": "Presidential debate in Brazil between Lula and Bolsonaro ahead of runoff"
       },
       "sintesis": {
-        "es": "Investigadores de Citizen Lab publicaron la primera evidencia técnica de spyware mercenario sofisticado distribuido a través de publicidad en línea dirigida, utilizando exploits de clic cero para infectar teléfonos. El hallazgo representa la primera confirmación documentada de este vector de ataque, calificado como un 'escenario de pesadilla' para la ciberseguridad móvil.",
-        "en": "Citizen Lab researchers published the first technical evidence of sophisticated mercenary spyware distributed through targeted online advertising, using zero-click exploits to infect phones. The finding represents the first documented confirmation of this attack vector, described as a 'nightmare scenario' for mobile cybersecurity."
+        "es": "Los candidatos a la presidencia de Brasil, Lula da Silva y Jair Bolsonaro, se enfrentaron en un debate televisado por la cadena Band de cara al balotaje del 25 de octubre. Intercambiaron acusaciones de corrupción y cuestionamientos sobre vínculos políticos, coincidiendo únicamente en la preocupación por la inseguridad y el acceso a la salud.",
+        "en": "Brazilian presidential candidates Lula da Silva and Jair Bolsonaro clashed in a televised debate on Band network ahead of the October 25 runoff. They traded accusations of corruption and questioned each other's political ties, agreeing only on concerns about insecurity and access to healthcare."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Lula da Silva",
+        "Jair Bolsonaro",
+        "Band (cadena de TV)"
+      ],
+      "geo": {
+        "lat": -15.7801,
+        "lon": -47.9292,
+        "region": "Brasil"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_327515fd87",
+        "ev_ef6ddb620f"
+      ],
+      "cluster_id": "cl_056",
+      "imagenes": [
+        "https://s.france24.com/media/display/bb634d24-cb65-11f1-950d-6313a763b466/w:1024/p:16x9/67f4a5def68caac4535e07c4b807d8481ff0047aw.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_327515fd87",
+          "titulo": "Debate en Brasil: una batalla campal en la que el temple de Bolsonaro prevaleció ante un exaltado Lula",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261019-debate-en-brasil-una-batalla-campal-en-la-que-el-temple-de-bolsonaro-prevaleci%C3%B3-ante-un-exaltado-lula",
+          "fuente": "France 24 Espanol",
+          "fecha": "Mon, 19 Oct 2026 02:51:11 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_ef6ddb620f",
+          "titulo": "Lula and Bolsonaro trade insults in TV debate ahead of weekend presidential runoff",
+          "url": "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff",
+          "fuente": "Euronews English",
+          "fecha": "Mon, 19 Oct 2026 11:21:10 +0200",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-19_0003",
+      "fecha": "2026-10-19",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Investigadores confirman por primera vez spyware mercenario distribuido mediante anuncios dirigidos",
+        "en": "Researchers confirm for the first time mercenary spyware distributed via targeted ads"
+      },
+      "sintesis": {
+        "es": "Investigadores de Citizen Lab publicaron la primera evidencia tecnica de spyware mercenario sofisticado que se distribuye a traves de publicidad en linea dirigida, utilizando exploits de cero clics para infectar telefonos sin interaccion del usuario. El hallazgo representa un nuevo vector de ataque considerado un 'escenario de pesadilla' por su capacidad de evasion y alcance.",
+        "en": "Researchers at Citizen Lab published the first technical evidence of sophisticated mercenary spyware being distributed through targeted online advertising, using zero-click exploits to infect phones without user interaction. The finding represents a new attack vector described as a 'nightmare scenario' due to its evasiveness and reach."
       },
       "categoria": "tecnologia",
       "actores": [
         "Citizen Lab",
-        "mercenary spyware vendors",
-        "Ars Technica",
-        "WIRED"
+        "proveedores de spyware mercenario"
       ],
       "geo": {
-        "lat": 43.6629,
-        "lon": -79.3957,
-        "region": "Toronto, Canada (Citizen Lab)"
+        "lat": 43.6532,
+        "lon": -79.3832,
+        "region": "Toronto, Canada"
       },
       "impacto": 62,
       "fuentes": [
         "ev_f771a8e401",
         "ev_3691293ceb"
       ],
-      "cluster_id": "cl_733",
+      "cluster_id": "cl_676",
       "imagenes": [
         "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg",
         "https://media.wired.com/photos/6acfe05dd7a1c8d94ba22a02/master/pass/Security_SophisticatedZero-ClickSpywareFoundBeingDistr-ezgif.com-video-to-gif-converter.gif"
@@ -441,349 +319,178 @@
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-18_0004",
-      "fecha": "2026-10-18",
+      "id": "nd_2026-10-19_0004",
+      "fecha": "2026-10-19",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "El histórico Ayuntamiento de Limoges arde y su torre se derrumba durante protestas violentas en Francia",
-        "en": "Historic Limoges City Hall burns and its tower collapses during violent protests in France"
+        "es": "Kenia confirma un octavo caso de ébola en medio de un brote regional en expansión",
+        "en": "Kenya confirms eighth Ebola case amid widening regional outbreak"
       },
       "sintesis": {
-        "es": "Durante protestas masivas a nivel nacional en Francia por el coste de la vida, con unas 550.000 personas participando, el histórico Ayuntamiento de Limoges, de 143 años de antigüedad, fue incendiado en medio de disturbios. La torre del edificio se derrumbó en llamas mientras se registraban enfrentamientos entre manifestantes y la Policía en varias zonas del país.",
-        "en": "During massive nationwide protests in France over the cost of living, with around 550,000 participants, the historic 143-year-old Limoges City Hall was set on fire amid riots. The building's tower collapsed in flames as clashes between protesters and police occurred in several areas of the country."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "Manifestantes franceses",
-        "Policía francesa",
-        "Gobierno de Francia",
-        "Ayuntamiento de Limoges"
-      ],
-      "geo": {
-        "lat": 45.8336,
-        "lon": 1.2611,
-        "region": "Limoges, Francia"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_e7db42b01a",
-        "ev_26334471e1",
-        "ev_986f00f057"
-      ],
-      "cluster_id": "cl_002",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92f0/live/2c3d5d40-ca8b-11f1-9a39-31b474234113.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e7db42b01a",
-          "titulo": "Video: El momento en que la torre de un histórico ayuntamiento francés se derrumba en llamas en medio de las protestas",
-          "url": "https://www.bbc.com/mundo/articles/c6m2dvek0gv9o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Sun, 18 Oct 2026 02:57:02 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_26334471e1",
-          "titulo": "Se derrumba la aguja del histórico Ayuntamiento de Limoges en las protestas violentas en Francia",
-          "url": "https://es.euronews.com/2026/10/18/se-derrumba-la-aguja-del-historico-ayuntamiento-de-limoges-en-las-protestas-violentas-en-f",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sun, 18 Oct 2026 08:41:17 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_986f00f057",
-          "titulo": "El histórico Ayuntamiento de Limoges arde en las protestas de Francia",
-          "url": "https://es.euronews.com/video/2026/10/17/el-historico-ayuntamiento-de-limoges-arde-en-las-protestas-de-francia",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sat, 17 Oct 2026 23:00:58 +0200",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-10-18_0005",
-      "fecha": "2026-10-18",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-10-18_0002"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Papa León XIV es operado de un adenocarcinoma pulmonar y evoluciona favorablemente",
-        "en": "Pope Leo XIV undergoes surgery for lung adenocarcinoma and recovers well"
-      },
-      "sintesis": {
-        "es": "El papa León XIV, de 71 años, fue sometido a una cirugía de 90 minutos en el Hospital Gemelli de Roma para extirparle el lóbulo inferior del pulmón derecho afectado por un adenocarcinoma, un tipo de cáncer de pulmón. Según reportes posteriores, el pontífice muestra buena recuperación y ha retomado parte de su trabajo desde el hospital, mientras los médicos aguardan resultados de pruebas adicionales para definir el tratamiento a seguir.",
-        "en": "Pope Leo XIV, 71, underwent a 90-minute surgery at Rome's Gemelli Hospital to remove the lower lobe of his right lung due to adenocarcinoma, a type of lung cancer. Subsequent reports indicate the pontiff is recovering well and has resumed some work from the hospital, while doctors await further test results to determine the treatment plan."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Papa León XIV",
-        "Hospital Gemelli de Roma"
-      ],
-      "geo": {
-        "lat": 41.9028,
-        "lon": 12.4964,
-        "region": "Roma, Italia"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_6ac7b442cf",
-        "ev_1316dc9748"
-      ],
-      "cluster_id": "cl_028",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f053/live/9ec8d320-c7b7-11f1-b41f-d7a6cb474575.jpg",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920802650102.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_6ac7b442cf",
-          "titulo": "Qué es un adenocarcinoma pulmonar, el tipo de tumor maligno que le extirparon al papa León XIV",
-          "url": "https://www.bbc.com/mundo/articles/c6n8d099ym07o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Tue, 13 Oct 2026 22:33:21 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_1316dc9748",
-          "titulo": "Buena recuperación del pulmón operado a León XIV, quien retoma el trabajo desde el Gemelli",
-          "url": "https://www.elmundo.es/internacional/2026/10/15/6ad0f8a7fdddfff6248b45c4.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Thu, 15 Oct 2026 18:12:52 +0200",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-10-18_0006",
-      "fecha": "2026-10-18",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-18_0009"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Incidente grave con muertos y heridos en base militar de Alberta, Canadá",
-        "en": "'Serious incident' at Alberta military base leaves deaths and injuries, Canada"
-      },
-      "sintesis": {
-        "es": "Un incidente grave provocó un gran incendio en la Base de las Fuerzas Canadienses Wainwright, en Alberta, dejando muertos y heridos. El ministro de Defensa, David McGuinty, y el primer ministro Mark Carney confirmaron las víctimas, mientras los heridos eran trasladados a hospitales de Edmonton. Un médico local describió el sistema hospitalario como 'completamente desbordado' por el número de afectados.",
-        "en": "A serious incident caused a major fire at Canadian Forces Base Wainwright in Alberta, resulting in deaths and injuries. Defence Minister David McGuinty and Prime Minister Mark Carney confirmed casualties, with injured people being transported to hospitals in Edmonton. A local doctor said the hospital system was 'completely overwhelmed' by the number of injuries."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "David McGuinty",
-        "Mark Carney",
-        "Canadian Forces Base Wainwright",
-        "Gobierno de Canadá"
-      ],
-      "geo": {
-        "lat": 52.8333,
-        "lon": -110.85,
-        "region": "Wainwright, Alberta, Canadá"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_cdd23cfaf1",
-        "ev_28aa9fdc58",
-        "ev_7f6a286eba",
-        "ev_ef862325f5",
-        "ev_c8e7547b59",
-        "ev_6bd3ef09d8",
-        "ev_23960c437f"
-      ],
-      "cluster_id": "cl_243",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
-        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/18/17923042983687.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_cdd23cfaf1",
-          "titulo": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
-          "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-          "fuente": "The Guardian World",
-          "fecha": "Sun, 18 Oct 2026 02:50:29 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_28aa9fdc58",
-          "titulo": "‘Serious incident’ at Canada military base causes deaths, injuries",
-          "url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 18 Oct 2026 04:59:29 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_7f6a286eba",
-          "titulo": "Major fire breaks out in Alberta after deadly incident at military base",
-          "url": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
-          "fuente": "NPR News",
-          "fecha": "Sun, 18 Oct 2026 03:56:08 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ef862325f5",
-          "titulo": "Canada reports 'fatalities and injuries' following incident at military base",
-          "url": "https://www.euronews.com/2026/10/18/canada-reports-fatalities-and-injuries-following-incident-at-military-base",
-          "fuente": "Euronews English",
-          "fecha": "Sun, 18 Oct 2026 09:01:50 +0200",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c8e7547b59",
-          "titulo": "Fatalities as 'serious incident' causes fire at Canadian military base",
-          "url": "https://www.abc.net.au/news/2026-10-18/deaths-confirmed-after-fire-at-canada-military-base/107280694",
-          "fuente": "ABC News Australia",
-          "fecha": "Sun, 18 Oct 2026 08:07:16 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6bd3ef09d8",
-          "titulo": "Canadá informa de \"muertos y heridos\" tras incidente en base militar",
-          "url": "https://es.euronews.com/2026/10/18/canada-informa-de-muertos-y-heridos-tras-incidente-en-base-militar",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sun, 18 Oct 2026 10:09:03 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_23960c437f",
-          "titulo": "Varios muertos y heridos en un \"incidente\" que causa un grave incendio en una base militar en Alberta",
-          "url": "https://www.elmundo.es/internacional/2026/10/18/6ad461b1e9cf4ada158b457e.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sun, 18 Oct 2026 10:46:46 +0200",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-10-18_0007",
-      "fecha": "2026-10-18",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Kenia confirma siete casos de ébola en su primer brote registrado",
-        "en": "Kenya confirms seven Ebola cases in its first recorded outbreak"
-      },
-      "sintesis": {
-        "es": "Kenia ha confirmado siete casos del virus Bundibugyo (especie de ébola), tras registrar cuatro nuevos contagios que se suman a los tres anteriores. Se trata del primer brote de ébola documentado en el país. La OMS está apoyando los esfuerzos de contención y ha pedido vigilancia tras la confirmación de los primeros casos.",
-        "en": "Kenya has confirmed seven cases of the Bundibugyo ebolavirus, after four new infections were added to three previously confirmed cases. This marks the country's first recorded Ebola outbreak. The WHO is supporting containment efforts and has urged vigilance following the initial case confirmations."
+        "es": "Las autoridades sanitarias de Kenia confirmaron un octavo caso de ébola, posiblemente vinculado al primer paciente detectado en el país. Antes de este mes, Kenia nunca había registrado casos del virus, y el número de infecciones ha crecido rápidamente en pocos días.",
+        "en": "Kenyan health authorities confirmed an eighth Ebola case, likely linked to the country's first detected patient. Before this month, Kenya had never recorded cases of the virus, and the number of infections has grown rapidly within days."
       },
       "categoria": "salud",
       "actores": [
         "Gobierno de Kenia",
-        "Organización Mundial de la Salud (OMS)"
+        "Ministerio de Salud de Kenia"
       ],
       "geo": {
-        "lat": -0.0236,
-        "lon": 37.9062,
+        "lat": -1.286389,
+        "lon": 36.817223,
         "region": "Kenia"
       },
       "impacto": 55,
       "fuentes": [
-        "ev_e963059446",
-        "ev_abdfcedc2b"
+        "ev_77a03e5d57",
+        "ev_e963059446"
       ],
-      "cluster_id": "cl_332",
+      "cluster_id": "cl_322",
       "imagenes": [
-        "https://static01.nyt.com/images/2026/10/17/multimedia/17int-kenya-ebola-mkhg/17int-kenya-ebola-mkhg-mediumSquareAt3X.jpg",
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/06-10-2026-WHO-Kenya-Bundibugyo-03.jpg/image560x340cropped.jpg"
+        "https://static01.nyt.com/images/2026/10/17/multimedia/17int-kenya-ebola-mkhg/17int-kenya-ebola-mkhg-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
+        {
+          "id": "ev_77a03e5d57",
+          "titulo": "Kenya confirms eighth Ebola case amid widening regional outbreak",
+          "url": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 19 Oct 2026 01:07:52 +0000",
+          "idioma": "en"
+        },
         {
           "id": "ev_e963059446",
           "titulo": "Kenya Confirms Four New Ebola Cases",
           "url": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
           "fuente": "NYT World",
-          "fecha": "Sat, 17 Oct 2026 19:41:02 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_abdfcedc2b",
-          "titulo": "WHO urges vigilance after Kenya confirms second Ebola case",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168602",
-          "fuente": "UN News",
-          "fecha": "Thu, 15 Oct 2026 12:00:00 +0000",
+          "fecha": "Sun, 18 Oct 2026 17:58:54 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-18_0008",
-      "fecha": "2026-10-18",
+      "id": "nd_2026-10-19_0005",
+      "fecha": "2026-10-19",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Papa León XIV recibe el alta tras cirugía por cáncer de pulmón",
-        "en": "Pope Leo XIV discharged from hospital after lung cancer surgery"
+        "es": "La OMS reporta avances y desafios en la lucha mundial contra el tabaco",
+        "en": "WHO reports progress and challenges in the global fight against tobacco"
       },
       "sintesis": {
-        "es": "El papa León XIV fue dado de alta del hospital Gemelli de Roma el 17 de octubre, cuatro días después de someterse a una cirugía exitosa para extirpar un tumor canceroso en el pulmón derecho. La recuperación fue más rápida de lo previsto inicialmente, ya que se esperaba una semana de internación. El pontífice saludó a sus seguidores al salir y tenía previsto reaparecer públicamente ese domingo en el tradicional ángelus.",
-        "en": "Pope Leo XIV was discharged from Rome's Gemelli Hospital on October 17, four days after undergoing successful surgery to remove a cancerous tumor in his right lung. His recovery was faster than initially expected, as a week-long hospital stay had been anticipated. The pontiff greeted supporters upon leaving and was set to make his first public reappearance that Sunday at the traditional Angelus prayer."
+        "es": "Informes de la OMS entre 2019 y 2021 muestran que miles de millones de personas estan ahora cubiertas por medidas de control del tabaco tipo MPOWER, cuadriplicando la cifra de 2007. Sin embargo, la organizacion advierte que algunos paises no regulan adecuadamente nuevos productos de nicotina y tabaco calentado, y lanza iniciativas educativas para proteger a jovenes de las tacticas de la industria tabacalera.",
+        "en": "WHO reports from 2019 to 2021 show billions of people are now covered by MPOWER-style tobacco control measures, a fourfold increase since 2007. However, the organization warns that some countries fail to adequately regulate emerging nicotine and heated tobacco products, and has launched educational initiatives to protect youth from tobacco industry tactics."
+      },
+      "categoria": "salud",
+      "actores": [
+        "Organizacion Mundial de la Salud (OMS)",
+        "US FDA",
+        "Industria tabacalera"
+      ],
+      "geo": {
+        "lat": 46.2244,
+        "lon": 6.1432,
+        "region": "Global / Suiza (sede OMS)"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_723966fa7a",
+        "ev_d9b6ac9aae",
+        "ev_31547344cd",
+        "ev_d449ed0d78"
+      ],
+      "cluster_id": "cl_578",
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_723966fa7a",
+          "titulo": "WHO reports progress in the fight against tobacco epidemic",
+          "url": "https://www.who.int/news/item/27-07-2021-who-reports-progress-in-the-fight-against-tobacco-epidemic",
+          "fuente": "WHO News",
+          "fecha": "Mon, 26 Jul 2021 12:57:42 Z",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d9b6ac9aae",
+          "titulo": "WHO statement on heated tobacco products and the US FDA decision regarding IQOS",
+          "url": "https://www.who.int/news/item/27-07-2020-who-statement-on-heated-tobacco-products-and-the-us-fda-decision-regarding-iqos",
+          "fuente": "WHO News",
+          "fecha": "Mon, 27 Jul 2020 11:57:34 Z",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_31547344cd",
+          "titulo": "Stop tobacco industry exploitation of children and young people",
+          "url": "https://www.who.int/news/item/29-05-2020-stop-tobacco-industry-exploitation-of-children-and-young-people",
+          "fuente": "WHO News",
+          "fecha": "Fri, 29 May 2020 04:00:52 Z",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_d449ed0d78",
+          "titulo": "WHO launches new report on the global tobacco epidemic",
+          "url": "https://www.who.int/news/item/26-07-2019-who-launches-new-report-on-the-global-tobacco-epidemic",
+          "fuente": "WHO News",
+          "fecha": "Thu, 25 Jul 2019 13:30:00 Z",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-19_0006",
+      "fecha": "2026-10-19",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "El papa León XIV reaparece públicamente tras cirugía por cáncer de pulmón y recibe el alta del hospital Gemelli",
+        "en": "Pope Leo XIV makes public appearance after lung cancer surgery and is discharged from Gemelli hospital"
+      },
+      "sintesis": {
+        "es": "El papa León XIV fue operado de un cáncer de pulmón y permaneció internado en el hospital Gemelli de Roma. Tras ser dado de alta el sábado, regresó al Vaticano y el domingo hizo su primera aparición pública, asomándose a la ventana de su estudio para pronunciar el Ángelus. La Santa Sede indicó que no hay motivos clínicos que impidan su próximo viaje previsto a Sudamérica.",
+        "en": "Pope Leo XIV underwent surgery for lung cancer and was hospitalized at Rome's Gemelli hospital. After being discharged on Saturday, he returned to the Vatican and made his first public appearance on Sunday, appearing at his study window to deliver the Angelus. The Holy See stated there are no clinical reasons preventing his planned trip to South America."
       },
       "categoria": "salud",
       "actores": [
         "Papa León XIV",
-        "Hospital Policlínico Gemelli",
-        "Vaticano"
+        "Santa Sede",
+        "Hospital Gemelli"
       ],
       "geo": {
-        "lat": 41.9028,
+        "lat": 41.9029,
         "lon": 12.4534,
-        "region": "Roma, Italia / Ciudad del Vaticano"
+        "region": "Vaticano, Roma, Italia"
       },
       "impacto": 45,
       "fuentes": [
-        "ev_a1f18c586f",
-        "ev_a7cced579e",
-        "ev_cf699852d3",
+        "ev_d537e982e7",
         "ev_65552511f4",
-        "ev_42e8a8ee11",
-        "ev_621008ab1a",
-        "ev_4d9644041d",
-        "ev_36ca8b007a",
+        "ev_cfbe4e3b12",
         "ev_aa35885834",
-        "ev_d3b2b74508",
-        "ev_98795ff193"
+        "ev_98795ff193",
+        "ev_1c6f1d8b62",
+        "ev_af19c06b44",
+        "ev_061c218fc3"
       ],
       "cluster_id": "cl_006",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f6d3/live/ac5e1050-ca31-11f1-9ab2-b325ce61f9d2.png",
-        "https://s.france24.com/media/display/38783d1e-ca86-11f1-9884-2d1c143cdef3/w:1024/p:16x9/ES-20261017-134312-134453-CS.jpg",
-        "https://s.france24.com/media/display/b59b9780-ca5b-11f1-a350-4dd8ac2cf3bf/w:1024/p:16x9/ES-20261017-070703-070946-CS.jpg",
-        "https://s.rfi.fr/media/display/f2f2e48a-ca1a-11f1-a587-2d1c143cdef3/w:1024/p:16x9/bbd5a9f3726e67b9e0405b7aa7d8eec9374f1189.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f916/live/a89e2540-caf9-11f1-acd8-5f0e740dfa92.jpg",
+        "https://s.rfi.fr/media/display/f2f2e48a-ca1a-11f1-a587-2d1c143cdef3/w:1024/p:16x9/bbd5a9f3726e67b9e0405b7aa7d8eec9374f1189.jpg",
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21f0/live/4a3b0720-cae5-11f1-a64c-550be9e3c66b.jpg",
+        "https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_a1f18c586f",
-          "titulo": "El papa León XIV sale del hospital tras su cirugía por un cáncer de pulmón hace 4 días",
-          "url": "https://www.bbc.com/mundo/articles/c39wz12yr79ro?at_medium=RSS&at_campaign=rss",
+          "id": "ev_d537e982e7",
+          "titulo": "El papa León XIV hace su primera aparición pública tras ser operado por un cáncer de pulmón y \"no hay motivos clínicos\" que impidan su viaje a Sudamérica",
+          "url": "https://www.bbc.com/mundo/articles/c6ev320r2rnwo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo",
-          "fecha": "Sat, 17 Oct 2026 13:56:04 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_a7cced579e",
-          "titulo": "Papa León XIV regresa al Vaticano tras recibir el alta de su cirugía de pulmón",
-          "url": "https://www.france24.com/es/video/20261018-papa-le%C3%B3n-xiv-regresa-al-vaticano-tras-recibir-el-alta-de-su-cirug%C3%ADa-de-pulm%C3%B3n",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sun, 18 Oct 2026 00:31:26 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_cf699852d3",
-          "titulo": "Papa León XIV sale del hospital tras someterse a una cirugía de pulmón",
-          "url": "https://www.france24.com/es/video/20261017-papa-le%C3%B3n-xiv-sale-del-hospital-tras-someterse-a-una-cirug%C3%ADa-de-pulm%C3%B3n",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sat, 17 Oct 2026 20:17:17 GMT",
+          "fecha": "Sun, 18 Oct 2026 13:31:20 GMT",
           "idioma": "es"
         },
         {
@@ -795,35 +502,11 @@
           "idioma": "es"
         },
         {
-          "id": "ev_42e8a8ee11",
-          "titulo": "El Papa León XIV sale del hospital tras la operación de pulmón",
-          "url": "https://es.euronews.com/2026/10/17/el-vaticano-afirma-que-el-papa-leon-xiv-recibe-hoy-el-alta-hospitalaria",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sat, 17 Oct 2026 13:23:51 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_621008ab1a",
-          "titulo": "El papa León XIV recibe el alta y sale del hospital cuatro días después de su operación de pulmón",
-          "url": "https://www.elmundo.es/internacional/2026/10/17/6ad3452be9cf4a5b198b4590.html",
-          "fuente": "El Mundo Internacional",
-          "fecha": "Sat, 17 Oct 2026 15:43:11 +0200",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_4d9644041d",
-          "titulo": "Pope discharged from hospital days after lung cancer surgery",
-          "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+          "id": "ev_cfbe4e3b12",
+          "titulo": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+          "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World",
-          "fecha": "Sat, 17 Oct 2026 13:51:36 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_36ca8b007a",
-          "titulo": "Pope Leo XIV leaves hospital days after lung cancer surgery",
-          "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
-          "fuente": "NPR News",
-          "fecha": "Sat, 17 Oct 2026 11:10:14 -0400",
+          "fecha": "Sun, 18 Oct 2026 11:09:32 GMT",
           "idioma": "en"
         },
         {
@@ -831,15 +514,7 @@
           "titulo": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
           "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
           "fuente": "NYT World",
-          "fecha": "Sat, 17 Oct 2026 16:17:00 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d3b2b74508",
-          "titulo": "Pope Leo XIV leaves hospital following lung operation",
-          "url": "https://www.euronews.com/2026/10/17/pope-leo-xiv-cleared-for-discharge-from-hospital-vatican-says",
-          "fuente": "Euronews English",
-          "fecha": "Sat, 17 Oct 2026 12:15:36 +0200",
+          "fecha": "Sun, 18 Oct 2026 16:11:54 +0000",
           "idioma": "en"
         },
         {
@@ -849,242 +524,393 @@
           "fuente": "CBC World",
           "fecha": "Sat, 17 Oct 2026 18:46:07 EDT",
           "idioma": "en"
+        },
+        {
+          "id": "ev_1c6f1d8b62",
+          "titulo": "Pope greeted by crowds in first major appearance since lung cancer surgery",
+          "url": "https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 19 Oct 2026 04:42:13 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_af19c06b44",
+          "titulo": "Pope Leo says he will gradually resume duties after cancer surgery",
+          "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+          "fuente": "NPR News",
+          "fecha": "Sun, 18 Oct 2026 08:55:01 -0400",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_061c218fc3",
+          "titulo": "Pope addresses faithful after cancer surgery",
+          "url": "https://news.sky.com/story/pope-makes-public-appearance-a-day-after-being-discharged-from-hospital-following-lung-cancer-surgery-13598963",
+          "fuente": "Sky News World",
+          "fecha": "Sun, 18 Oct 2026 10:53:00 +0100",
+          "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-18_0009",
-      "fecha": "2026-10-18",
+      "id": "nd_2026-10-19_0007",
+      "fecha": "2026-10-19",
       "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-18_0006"
-      ]
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "Al menos 19 muertos en una estampida durante un festival hindú en Calcuta, India",
-        "en": "At least 19 dead in a stampede during a Hindu festival in Kolkata, India"
+        "es": "Incendio mortal en base militar canadiense deja cuatro muertos y decenas de heridos",
+        "en": "Deadly fire at Canadian military base kills four and injures dozens"
       },
       "sintesis": {
-        "es": "Una estampida ocurrida durante un evento religioso hindú en la ciudad india de Calcuta dejó al menos 19 muertos, entre ellos una niña de siete años, y decenas de heridos. Las cifras de víctimas variaron ligeramente entre las primeras informaciones, que reportaban 17 fallecidos, hasta un balance posterior de 19. Las autoridades locales y medios indios continúan evaluando el incidente.",
-        "en": "A crush occurred during a Hindu religious festival event in the Indian city of Kolkata, leaving at least 19 people dead, including a seven-year-old girl, and dozens injured. Initial reports cited 17 deaths, later updated to 19 as more information became available. Local authorities and Indian media continue to assess the incident."
+        "es": "Un incendio de pasto violento y de rápida propagación en la Base de las Fuerzas Canadienses Wainwright, Alberta, durante un entrenamiento militar, dejó al menos cuatro soldados muertos y 39 hospitalizados, 19 de ellos en estado crítico con quemaduras severas. El primer ministro Mark Carney lo calificó como una de las peores tragedias para las fuerzas armadas canadienses en tiempos de paz en suelo nacional. La causa del incendio aún no ha sido determinada por las autoridades.",
+        "en": "A violent, fast-moving grass fire at Canadian Forces Base Wainwright in Alberta during military training killed at least four soldiers and hospitalized 39 others, with 19 in critical condition suffering severe burns. Prime Minister Mark Carney described it as one of the worst peacetime tragedies for Canada's armed forces on domestic soil. The cause of the fire remains undetermined by officials."
       },
       "categoria": "sociedad",
       "actores": [
-        "Gobierno local de Calcuta",
-        "Asistentes al festival hindú",
-        "Medios locales de India"
+        "Mark Carney",
+        "Danielle Smith",
+        "Canadian Armed Forces",
+        "Canadian Forces Base Wainwright"
       ],
       "geo": {
-        "lat": 22.5726,
-        "lon": 88.3639,
-        "region": "Calcuta, India"
+        "lat": 52.8333,
+        "lon": -110.85,
+        "region": "Wainwright, Alberta, Canada"
       },
       "impacto": 45,
       "fuentes": [
-        "ev_dea52f64b6",
-        "ev_425ea2299c",
-        "ev_c1bf22b588"
+        "ev_b53b4e041e",
+        "ev_f4c85a0adb",
+        "ev_e3aa35086d",
+        "ev_39de5a3499",
+        "ev_1d5ce94c81"
       ],
-      "cluster_id": "cl_222",
+      "cluster_id": "cl_256",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60d0/live/caaed220-ca5d-11f1-852c-2b93a8fc4799.jpg",
-        "https://e3.365dm.com/26/10/1920x1080/skynews-kolkata-india_7379416.jpg?20261017204837"
+        "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
+        "https://s.france24.com/media/display/f386ca2a-cb40-11f1-afbe-638c1c1f5fd6/w:1024/p:16x9/AP26291249437617.jpg",
+        "https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-base-fire-hbwv/18int-canada-base-fire-hbwv-mediumSquareAt3X.jpg",
+        "https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-alberta-fire-chfb/18int-canada-alberta-fire-chfb-mediumSquareAt3X.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_dea52f64b6",
-          "titulo": "At least 17 dead in crush at Hindu festival event in India",
-          "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sat, 17 Oct 2026 19:19:16 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_425ea2299c",
-          "titulo": "At least 19 dead in stampede at Kolkata Hindu festival",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 18 Oct 2026 04:21:46 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_c1bf22b588",
-          "titulo": "Crush at religious festival kills at least 17 and injures dozens in India",
-          "url": "https://news.sky.com/story/crush-at-religious-festival-kills-at-least-17-and-injures-dozens-in-india-13600451",
-          "fuente": "Sky News World",
-          "fecha": "Sat, 17 Oct 2026 20:37:00 +0100",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-18_0010",
-      "fecha": "2026-10-18",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "El huracán Trudy se fortalece a categoría 2 y se acerca a la costa del Pacífico mexicano",
-        "en": "Hurricane Trudy strengthens to category 2 as it approaches Mexico's Pacific coast"
-      },
-      "sintesis": {
-        "es": "El huracán Trudy se intensificó a categoría 2 con vientos máximos sostenidos de 100 mph mientras se desplazaba hacia la costa suroccidental y centro-occidental del Pacífico mexicano. El Centro Nacional de Huracanes de EE.UU. emitió una advertencia de huracán entre Manzanillo (Colima) y Cabo Corrientes (Jalisco), y se esperaba que el centro de la tormenta se acercara a la costa el sábado y pasara cerca de ella hasta el domingo.",
-        "en": "Hurricane Trudy strengthened to category 2 with maximum sustained winds of 100 mph as it moved toward Mexico's south-western and west-central Pacific coast. The US National Hurricane Center issued a hurricane warning from Manzanillo, Colima to Cabo Corrientes, Jalisco, with the storm's center expected to approach the coast on Saturday and pass near it into Sunday."
-      },
-      "categoria": "clima",
-      "actores": [
-        "Centro Nacional de Huracanes de EE.UU. (NHC)",
-        "Gobierno de México",
-        "Estados de Colima y Jalisco"
-      ],
-      "geo": {
-        "lat": 19.1,
-        "lon": -104.3,
-        "region": "Costa del Pacífico de México (Colima/Jalisco)"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_a1773a2ed8",
-        "ev_96ddd40d79"
-      ],
-      "cluster_id": "cl_275",
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/a78115f167c62cf861f81f58446e1b9e6c266ea1/0_0_5417_4333/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=586a1cddf4151c0851d4bf6916b56e7d"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_a1773a2ed8",
-          "titulo": "Hurricane Trudy strengthens to category 2 as it heads toward Mexico",
-          "url": "https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico",
+          "id": "ev_b53b4e041e",
+          "titulo": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+          "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
           "fuente": "The Guardian World",
-          "fecha": "Sat, 17 Oct 2026 23:24:40 GMT",
+          "fecha": "Sun, 18 Oct 2026 23:53:13 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_96ddd40d79",
-          "titulo": "Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast",
-          "url": "https://www.cnbc.com/2026/10/17/hurricane-trudy-mexico-typhoon-champi-guam.html",
-          "fuente": "CNBC Top News",
-          "fecha": "Sat, 17 Oct 2026 22:22:53 GMT",
+          "id": "ev_f4c85a0adb",
+          "titulo": "Canadian military base fire kills at least four, injures dozens",
+          "url": "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised",
+          "fuente": "France 24 English",
+          "fecha": "Sun, 18 Oct 2026 22:16:51 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e3aa35086d",
+          "titulo": "How a grass fire at a Canadian military base killed four soldiers",
+          "url": "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 19 Oct 2026 09:12:31 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_39de5a3499",
+          "titulo": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
+          "url": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
+          "fuente": "NYT World",
+          "fecha": "Mon, 19 Oct 2026 02:45:49 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_1d5ce94c81",
+          "titulo": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
+          "url": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
+          "fuente": "NYT World",
+          "fecha": "Sun, 18 Oct 2026 16:13:43 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-18_0011",
-      "fecha": "2026-10-18",
+      "id": "nd_2026-10-19_0008",
+      "fecha": "2026-10-19",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Pandora construye la mayor fábrica de joyería fina en Vietnam con energía renovable",
-        "en": "Pandora builds the world's biggest fine jewellery factory in Vietnam powered by renewable energy"
+        "es": "Elon Musk presenta el nuevo Tesla Roadster con propulsores 'voladores'",
+        "en": "Elon Musk unveils new Tesla Roadster with 'flying' thrusters"
       },
       "sintesis": {
-        "es": "Pandora invirtió 150 millones de dólares en una nueva fábrica en Vietnam que funcionará exclusivamente con electricidad renovable. La compañía danesa también adoptó en 2024 el uso de oro y plata 100% reciclados en su producción de joyas, como parte de su estrategia de reducción de emisiones.",
-        "en": "Pandora invested $150 million in a new factory in Vietnam that will operate entirely on renewable electricity. The Danish company also adopted 100% recycled gold and silver in its jewellery production in 2024, as part of its emissions reduction strategy."
+        "es": "Elon Musk presento en Texas el nuevo Tesla Roadster, un deportivo equipado con propulsores que, segun dijo, le permiten actuar como un auto 'volador'. Durante una demostracion, el vehiculo salio disparado de una rampa usando tecnologia de gas comprimido y aterrizo sobre sus ruedas. Musk espera iniciar la produccion en 2028, aunque reconocio incertidumbres sobre su seguridad y las restricciones legales para circular.",
+        "en": "Elon Musk unveiled in Texas the new Tesla Roadster, a sports car equipped with thrusters he described as making it a 'flying' car. During a demonstration, the vehicle launched off a ramp using compressed gas technology and landed on its wheels. Musk expects production to begin in 2028, though he acknowledged doubts about its safety and legal restrictions for road use."
       },
-      "categoria": "economia",
+      "categoria": "innovacion",
       "actores": [
-        "Pandora"
+        "Elon Musk",
+        "Tesla"
       ],
       "geo": {
-        "lat": 14.0583,
-        "lon": 108.2772,
-        "region": "Vietnam"
+        "lat": 31.9686,
+        "lon": -99.9018,
+        "region": "Texas, Estados Unidos"
+      },
+      "impacto": 42,
+      "fuentes": [
+        "ev_4845fc53a9",
+        "ev_7e6e2dc94a"
+      ],
+      "cluster_id": "cl_074",
+      "imagenes": [
+        "https://s.france24.com/media/display/bbdce45a-cb14-11f1-8695-2d1c143cdef3/w:1024/p:16x9/Tesla-1.png",
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Roadster_87-1152x648.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_4845fc53a9",
+          "titulo": "Elon Musk presenta su nuevo Tesla Roadster, un auto \"volador\"",
+          "url": "https://www.france24.com/es/video/20261018-elon-musk-presenta-su-nuevo-tesla-roadster-un-auto-volador",
+          "fuente": "France 24 Espanol",
+          "fecha": "Sun, 18 Oct 2026 17:05:17 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_7e6e2dc94a",
+          "titulo": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+          "url": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+          "fuente": "Ars Technica",
+          "fecha": "Fri, 16 Oct 2026 14:03:25 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-19_0009",
+      "fecha": "2026-10-19",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Guardia Costera de EE.UU. rescata a 16 personas en el Pacífico frente a Baja California, México",
+        "en": "U.S. Coast Guard rescues 16 people in the Pacific off Baja California, Mexico"
+      },
+      "sintesis": {
+        "es": "La Guardia Costera de Estados Unidos lanzó una operación de rescate tras recibir un mensaje de socorro sobre una embarcación hundiéndose frente a la costa de Baja California, México. Se reportaron 27 personas en el agua, de las cuales 16 fueron rescatadas, una con presunta mordedura de tiburón, mientras 11 permanecen desaparecidas.",
+        "en": "The U.S. Coast Guard launched a major rescue operation after receiving a mayday call about a sinking vessel off the coast of Baja California, Mexico. Of 27 people reported in the water, 16 were rescued, one with a suspected shark bite, while 11 remain missing."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "U.S. Coast Guard",
+        "Mexico"
+      ],
+      "geo": {
+        "lat": 28.0,
+        "lon": -114.0,
+        "region": "Baja California, Mexico - Pacific Ocean"
       },
       "impacto": 35,
       "fuentes": [
-        "ev_566fd7dcc3",
-        "ev_e0b3ba133f"
+        "ev_849837600c",
+        "ev_6acd9e2318"
       ],
-      "cluster_id": "cl_138",
+      "cluster_id": "cl_367",
+      "imagenes": [
+        "https://static01.nyt.com/images/2026/10/16/multimedia/16xp-rescue-lvwf/16xp-rescue-lvwf-mediumSquareAt3X.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_849837600c",
+          "titulo": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
+          "url": "https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html",
+          "fuente": "NYT World",
+          "fecha": "Sat, 17 Oct 2026 15:15:38 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6acd9e2318",
+          "titulo": "U.S. Coast Guard rescues 16 people floating in the Pacific, including one with suspected shark bite",
+          "url": "https://www.cbc.ca/news/world/mexico-ocean-rescue-coast-guard-9.7383598?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Fri, 16 Oct 2026 12:23:15 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-19_0010",
+      "fecha": "2026-10-19",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "1 in 4 Ebola deaths are children in Democratic Republic of Congo's worst outbreak",
+        "en": "1 in 4 Ebola deaths are children in Democratic Republic of Congo's worst outbreak"
+      },
+      "sintesis": {
+        "es": "The Democratic Republic of Congo is battling its deadliest outbreak of Ebola, caused by a rare strain with no approved treatment. With children losing parents, facing an estimated 60 per cent fatality rate and making up more than a quarter of deaths, experts say children are taking the brunt of the disease.",
+        "en": "The Democratic Republic of Congo is battling its deadliest outbreak of Ebola, caused by a rare strain with no approved treatment. With children losing parents, facing an estimated 60 per cent fatality rate and making up more than a quarter of deaths, experts say children are taking the brunt of the disease."
+      },
+      "categoria": "salud",
+      "actores": [
+        "Ebola",
+        "Democratic Republic",
+        "Congo",
+        "Dead"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 35,
+      "fuentes": [
+        "ev_f44822e6ad",
+        "ev_ecd71b1221"
+      ],
+      "cluster_id": "cl_422",
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_566fd7dcc3",
-          "titulo": "La mayor fábrica de joyería fina: Pandora crece y reduce emisiones en Vietnam",
-          "url": "https://es.euronews.com/2026/10/17/la-mayor-fabrica-de-joyeria-fina-pandora-crece-y-reduce-emisiones-en-vietnam",
-          "fuente": "Euronews Espanol",
-          "fecha": "Sat, 17 Oct 2026 07:58:45 +0200",
-          "idioma": "es"
+          "id": "ev_f44822e6ad",
+          "titulo": "1 in 4 Ebola deaths are children in Democratic Republic of Congo's worst outbreak",
+          "url": "https://www.cbc.ca/news/health/ebola-congo-children-deaths-9.7384641?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Sat, 17 Oct 2026 04:00:00 EDT",
+          "idioma": "en"
         },
         {
-          "id": "ev_e0b3ba133f",
-          "titulo": "The world’s biggest fine jewellery factory: How Pandora aims to make more and pollute less in Vietnam",
-          "url": "https://www.euronews.com/2026/10/17/pandora-opens-the-worlds-biggest-jewellery-factory-in-vietnam-but-is-success-guaranteed-in",
-          "fuente": "Euronews English",
-          "fecha": "Sat, 17 Oct 2026 07:58:45 +0200",
+          "id": "ev_ecd71b1221",
+          "titulo": "Dead and injured following attacks on Ebola responders in the Democratic Republic of the Congo",
+          "url": "https://www.who.int/news/item/28-11-2019-dead-and-injured-following-attacks-on-ebola-responders-in-the-democratic-republic-of-the-congo",
+          "fuente": "WHO News",
+          "fecha": "Thu, 28 Nov 2019 11:54:47 Z",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-18_0012",
-      "fecha": "2026-10-18",
-      "kardashev": "K2",
+      "id": "nd_2026-10-19_0011",
+      "fecha": "2026-10-19",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Tres hombres sentenciados a 158 años de prisión por el asesinato de surfistas australianos y estadounidense en México",
-        "en": "Three men sentenced to 158 years in prison for murdering Australian and US surfers in Mexico"
+        "es": "Reseñas destacan el nuevo Surface Laptop Ultra de Microsoft como competidor de MacBook Pro",
+        "en": "Reviews highlight Microsoft's new Surface Laptop Ultra as a MacBook Pro competitor"
       },
       "sintesis": {
-        "es": "Un juez mexicano condenó a tres hombres a 158 años y nueve meses de prisión cada uno por el asesinato de los hermanos australianos Jake y Callum Robinson y su amigo estadounidense Carter Rhoad. Los tres surfistas fueron asesinados en 2024 durante un viaje de surf en Baja California, en un aparente robo que salió mal. Los acusados fueron declarados culpables de homicidio, robo agravado, robo con violencia y robo de vehículo con violencia.",
-        "en": "A Mexican judge sentenced three men to 158 years and nine months in prison each for the murder of Australian brothers Jake and Callum Robinson and their American friend Carter Rhoad. The three surfers were killed in 2024 during a surf trip in Baja California, in what appeared to be a botched robbery. The defendants were found guilty of homicide, aggravated robbery, robbery with violence, and vehicle theft with violence."
+        "es": "Medios tecnologicos publicaron reseñas del nuevo Surface Laptop Ultra de Microsoft, destacandolo como una laptop orientada a desarrollo, IA y gaming. Las criticas coinciden en que es el competidor mas cercano a la MacBook Pro hasta la fecha, aunque senalan la duracion de bateria como su principal debilidad.",
+        "en": "Tech outlets published reviews of Microsoft's new Surface Laptop Ultra, highlighting it as a laptop aimed at development, AI, and gaming. Critics agree it is the closest competitor to the MacBook Pro yet, though they note battery life as its main weakness."
       },
-      "categoria": "sociedad",
+      "categoria": "innovacion",
       "actores": [
-        "Jake Robinson",
-        "Callum Robinson",
-        "Carter Rhoad",
-        "Poder Judicial de Baja California, México"
+        "Microsoft",
+        "Apple",
+        "Ars Technica",
+        "WIRED"
       ],
       "geo": {
-        "lat": 30.8406,
-        "lon": -115.2838,
-        "region": "Baja California, México"
+        "lat": 47.6062,
+        "lon": -122.3321,
+        "region": "Estados Unidos"
       },
       "impacto": 35,
       "fuentes": [
-        "ev_a8e048b6f2",
-        "ev_d2a6588a02",
-        "ev_330a00897c"
+        "ev_6c78ec4b7e",
+        "ev_2c22cae92c"
       ],
-      "cluster_id": "cl_227",
+      "cluster_id": "cl_669",
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab9/live/138578c0-c453-11f1-bc2e-018d645d8d21.jpg",
-        "https://i.guim.co.uk/img/media/803a6b4b97e168ef99e8d8f6d05ed5c149c09e7f/201_0_2463_1970/master/2463.jpg?width=140&quality=85&auto=format&fit=max&s=63953268ca6673aa7647702fcd6065c4",
-        "https://e3.365dm.com/26/10/1920x1080/skynews-jake-callum-robinson_7372589.jpg?20261010002747"
+        "https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg",
+        "https://media.wired.com/photos/6ad13db2947d3d6c92ec6bb7/master/pass/Review%20Surface%20Laptop%20Ultra%20102026%20top%20art%20SOURCE%20BH%20Photo.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_a8e048b6f2",
-          "titulo": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-          "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sat, 17 Oct 2026 03:11:10 GMT",
+          "id": "ev_6c78ec4b7e",
+          "titulo": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+          "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+          "fuente": "Ars Technica",
+          "fecha": "Fri, 16 Oct 2026 12:00:05 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_d2a6588a02",
-          "titulo": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
-          "fuente": "The Guardian World",
-          "fecha": "Sat, 17 Oct 2026 02:52:59 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_330a00897c",
-          "titulo": "Three men sentenced to more than 158 years in jail for murders of surfers​",
-          "url": "https://news.sky.com/story/three-men-sentenced-to-more-than-158-years-in-prison-for-murders-of-australian-and-us-surfers-13600108",
-          "fuente": "Sky News World",
-          "fecha": "Sat, 17 Oct 2026 08:23:00 +0100",
+          "id": "ev_2c22cae92c",
+          "titulo": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
+          "url": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
+          "fuente": "WIRED",
+          "fecha": "Fri, 16 Oct 2026 13:00:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-18_0013",
-      "fecha": "2026-10-18",
+      "id": "nd_2026-10-19_0012",
+      "fecha": "2026-10-19",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Bolsonaro se lanza contra Lula en un primer debate muy bronco",
+        "en": "Brazil's Lula, Bolsonaro clash in bitter debate ahead of election run-off"
+      },
+      "sintesis": {
+        "es": "El presidente brasileño, con un mensaje más sofisticado, choca contra las ideas más directas del senador ultra",
+        "en": "Brazilian President Luiz Inacio Lula da Silva and right-wing senator Flavio Bolsonaro traded personal attacks in a heated presidential debate on Sunday, a week before a closely contested run-off. The rivals accused each other of lying and corruption while clashing over the economy, security and healthcare ahead of the October 25 vote."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Bolsonaro",
+        "Lula",
+        "Brazil"
+      ],
+      "geo": {
+        "lat": -14.2,
+        "lon": -51.9,
+        "region": "Sudamerica"
+      },
+      "impacto": 58,
+      "fuentes": [
+        "ev_ee33a3ee60",
+        "ev_03967e8a85",
+        "ev_e512e4f3c1"
+      ],
+      "cluster_id": "cl_042",
+      "imagenes": [
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261019/1226997_080000_video_1800.mp4",
+        "https://s.france24.com/media/display/bb634d24-cb65-11f1-950d-6313a763b466/w:1024/p:16x9/67f4a5def68caac4535e07c4b807d8481ff0047aw.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_ee33a3ee60",
+          "titulo": "Bolsonaro se lanza contra Lula en un primer debate muy bronco",
+          "url": "https://elpais.com/america/2026-10-19/bolsonaro-se-lanza-contra-lula-en-un-primer-debate-muy-bronco.html",
+          "fuente": "El Pais Internacional",
+          "fecha": "Mon, 19 Oct 2026 02:51:05 GMT",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_03967e8a85",
+          "titulo": "Brazil's Lula, Bolsonaro clash in bitter debate ahead of election run-off",
+          "url": "https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 19 Oct 2026 03:42:25 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e512e4f3c1",
+          "titulo": "Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate",
+          "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 19 Oct 2026 04:27:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-19_0013",
+      "fecha": "2026-10-19",
       "kardashev": "K1",
       "relaciones": []
     }
