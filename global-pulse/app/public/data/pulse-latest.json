@@ -1,133 +1,157 @@
 {
   "meta": {
     "schema": "1.1",
-    "fecha": "2026-10-19",
-    "generado": "2026-10-19T10:48:36.842465+00:00",
+    "fecha": "2026-10-20",
+    "generado": "2026-10-20T10:26:24.504795+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "piezas_ingeridas": 861,
-      "clusters": 770,
-      "nodos": 770,
-      "verificados": 770,
-      "duracion_s": 1638.6
+      "piezas_ingeridas": 894,
+      "clusters": 785,
+      "nodos": 785,
+      "verificados": 785,
+      "duracion_s": 2701.6
     },
     "descargo": ""
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Trump suaviza sanciones a Rusia mientras Putin propone cumbre con EE.UU. y China mientras evita a Zelenskyy",
-        "en": "Trump eases sanctions on Russia as Putin seeks summit with US and China while avoiding Zelenskyy"
+        "es": "Zelenski se reúne con enviado de Trump en Oslo antes de conversaciones con Putin en Moscú",
+        "en": "Zelenskyy meets Trump envoy in Oslo ahead of planned Putin talks in Moscow"
       },
       "sintesis": {
-        "es": "La administración Trump suspendió sanciones contra Rusia y redujo presión económica sobre Moscú, en un giro que coincide con un acuerdo previo para comprar diésel ruso, generando críticas de legisladores republicanos que lo califican de irresponsable. Simultáneamente, Putin propuso una cumbre con Trump y Xi Jinping para abordar Ucrania, pero rechazó negociar directamente con Zelenskyy, mientras Washington presiona a Kyiv para detener ataques a infraestructura petrolera rusa, lo que genera inquietud en Ucrania sobre concesiones unilaterales.",
-        "en": "The Trump administration suspended sanctions against Russia and eased economic pressure on Moscow, a shift coinciding with a prior deal to purchase Russian diesel, drawing criticism from Republican lawmakers who called it irresponsible. Simultaneously, Putin proposed a summit with Trump and Xi Jinping to address Ukraine, but refused direct talks with Zelenskyy, while Washington pressures Kyiv to halt strikes on Russian oil infrastructure, raising concerns in Ukraine about one-sided concessions."
+        "es": "El enviado de Trump, Witkoff, se reunió con Zelenski en Oslo previo a conversaciones previstas con Putin en Moscú, en medio de tensiones entre Kiev y Washington. Estados Unidos presiona a Ucrania para que cese sus ataques contra infraestructura petrolera rusa, mientras persisten retrasos en la entrega de sistemas de defensa aérea Patriot y restricciones en el intercambio de inteligencia y comunicaciones satelitales.",
+        "en": "Trump envoy Witkoff met with Zelenskyy in Oslo ahead of planned talks with Putin in Moscow, amid growing tension between Kyiv and Washington. The US is pressing Ukraine to halt strikes on Russian oil infrastructure, while delays in Patriot missile deliveries and reported restrictions on intelligence-sharing and satellite communications persist."
       },
       "categoria": "geopolitica",
       "actores": [
+        "Volodymyr Zelenskyy",
+        "Steve Witkoff",
         "Donald Trump",
         "Vladimir Putin",
-        "Volodymyr Zelenskyy",
-        "Xi Jinping",
-        "Senado de EE.UU.",
-        "Rusia",
         "Ucrania",
-        "Estados Unidos"
+        "Estados Unidos",
+        "Rusia"
       ],
       "geo": {
-        "lat": 55.7558,
-        "lon": 37.6173,
-        "region": "Rusia/Ucrania/Estados Unidos"
+        "lat": 59.9139,
+        "lon": 10.7522,
+        "region": "Oslo, Noruega"
       },
-      "impacto": 78,
+      "impacto": 72,
       "fuentes": [
-        "ev_7b23631d34",
-        "ev_9871018975",
-        "ev_b37a779246",
-        "ev_f52d74c01c"
+        "ev_14d8963c8a",
+        "ev_f7b362edaa",
+        "ev_f1fe94eda1",
+        "ev_ea64ef04d3",
+        "ev_394dab1962",
+        "ev_4ed55834d4",
+        "ev_4919faca2e"
       ],
-      "cluster_id": "cl_055",
+      "cluster_id": "cl_101",
       "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/2E3VSNCU35AU3FR6VCJEQFOFR4.JPG?auth=4fc3f09da3421752a15091580500df0b1a334515d961e177d8471567a7a17b61",
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c246/live/ae0db980-ca9c-11f1-9a39-31b474234113.jpg",
-        "https://s.france24.com/media/display/c4a57392-8d19-11f1-9ad5-005056bfb2b6/w:1024/p:16x9/000-C3EB39E-1.jpg"
+        "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/19/17924393640502.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_7b23631d34",
-          "titulo": "Trump suspende sanciones contra Rusia en pleno giro para que Putin le ayude a bajar el precio de la energía antes de las elecciones",
-          "url": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Sat, 17 Oct 2026 02:40:36 GMT",
+          "id": "ev_14d8963c8a",
+          "titulo": "Zelenski se reúne con el enviado de Trump en Oslo antes de las conversaciones con Putin en Moscú",
+          "url": "https://es.euronews.com/2026/10/20/enviado-trump-witkoff-reune-zelenski-oslo-antes-ver-putin-moscu",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 20 Oct 2026 11:12:49 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_9871018975",
-          "titulo": "Putin seeks Ukraine summit with Trump and Xi but refuses talks with Zelenskyy",
-          "url": "https://www.euronews.com/2026/10/19/putin-seeks-ukraine-summit-with-trump-and-xi-but-refuses-talks-with-zelenskyy",
+          "id": "ev_f7b362edaa",
+          "titulo": "Trump envoy Witkoff to meet Zelenskyy in Oslo before planned Putin talks in Moscow",
+          "url": "https://www.euronews.com/2026/10/20/trump-envoy-witkoff-to-meet-zelenskyy-in-oslo-before-planned-putin-talks-in-moscow",
           "fuente": "Euronews English",
-          "fecha": "Mon, 19 Oct 2026 10:40:45 +0200",
+          "fecha": "Tue, 20 Oct 2026 10:21:48 +0200",
           "idioma": "en"
         },
         {
-          "id": "ev_b37a779246",
-          "titulo": "Trump levanta sanciones contra Rusia y se intensifica la disputa con Zelensky",
-          "url": "https://www.bbc.com/mundo/articles/c6x2vx8pvdv2o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Sun, 18 Oct 2026 02:08:05 GMT",
+          "id": "ev_f1fe94eda1",
+          "titulo": "Trump plantea reunirse con Putin y Xi en China para abordar la desnuclearización y el conflicto en Ucrania",
+          "url": "https://es.euronews.com/2026/10/20/trump-plantea-reunirse-con-putin-xi-china-para-abordar-desnuclearizacion-conflicto-ucrania",
+          "fuente": "Euronews Espanol",
+          "fecha": "Tue, 20 Oct 2026 07:26:05 +0200",
           "idioma": "es"
         },
         {
-          "id": "ev_f52d74c01c",
-          "titulo": "Zelensky holds US talks as Trump accuses him of not wanting peace",
-          "url": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 18 Oct 2026 21:59:34 GMT",
+          "id": "ev_ea64ef04d3",
+          "titulo": "Trump se muestra dispuesto a reunirse con Putin y Xi para poner fin a la guerra de Ucrania y cuestiona a Zelenski como negociador",
+          "url": "https://www.elmundo.es/internacional/2026/10/19/6ad6745efc6c83a26e8b457f.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Mon, 19 Oct 2026 21:53:30 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_394dab1962",
+          "titulo": "Trump says he is ready to meet Putin and Xi in China",
+          "url": "https://www.euronews.com/2026/10/20/trump-says-hes-ready-to-meet-putin-and-xi-in-china",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 20 Oct 2026 06:52:44 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4ed55834d4",
+          "titulo": "Trump hace de nuevo guiños a Putin y vuelve a amenazar con irse de la OTAN",
+          "url": "https://www.elmundo.es/internacional/2026/10/20/6ad6f70821efa0b3548b459d.html",
+          "fuente": "El Mundo Internacional",
+          "fecha": "Tue, 20 Oct 2026 08:13:33 +0200",
+          "idioma": "es"
+        },
+        {
+          "id": "ev_4919faca2e",
+          "titulo": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
+          "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 19 Oct 2026 21:00:02 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-19_0000",
-      "fecha": "2026-10-19",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-19_0001",
-        "nd_2026-10-19_0002"
-      ]
+      "id": "nd_2026-10-20_0000",
+      "fecha": "2026-10-20",
+      "kardashev": "K2",
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "Recortes de financiación obligan al PMA a reducir la ayuda alimentaria en Gaza",
-        "en": "Funding cuts force WFP to reduce food aid in Gaza"
+        "es": "Falta de fondos obliga al PMA a recortar la ayuda alimentaria en Gaza",
+        "en": "Funding shortfall forces WFP to cut food aid in Gaza"
       },
       "sintesis": {
-        "es": "El Programa Mundial de Alimentos (PMA) de la ONU anunció que, debido a la escasez de financiación, reducirá su asistencia mensual en la Franja de Gaza de 1.6 millones a 1.1 millones de personas, dejando sin ayuda a más de medio millón de beneficiarios. La medida ocurre más de un año después del alto el fuego impulsado por Trump, sin que haya comenzado la reconstrucción prometida, mientras dos tercios de la población enfrenta inseguridad alimentaria crítica y 200,000 personas corren riesgo de hambruna.",
-        "en": "The UN World Food Programme announced that funding shortages will force it to cut monthly aid in the Gaza Strip from 1.6 million to 1.1 million people, leaving over half a million beneficiaries without support. The cut comes more than a year after the Trump-brokered ceasefire, with promised reconstruction yet to begin, as two-thirds of the population faces crisis-level food insecurity and 200,000 people risk famine."
+        "es": "El Programa Mundial de Alimentos (PMA) de la ONU anunció que, por falta de financiamiento, reducirá en aproximadamente un tercio su asistencia alimentaria en Gaza, dejando sin ayuda mensual a unas 500.000 personas a medida que se acerca el invierno. La agencia pasará de asistir a 1,6 millones a 1,1 millones de personas, en un territorio donde dos tercios de la población enfrenta inseguridad alimentaria severa y 200.000 personas están en riesgo de hambruna. Más de un año después del alto el fuego mediado por Trump, la reconstrucción prometida no ha comenzado y persiste una alta dependencia de la ayuda humanitaria.",
+        "en": "The UN World Food Programme (WFP) announced that funding shortages will force it to cut food assistance in Gaza by roughly a third, leaving about 500,000 people without monthly support as winter approaches. The agency will reduce its reach from 1.6 million to 1.1 million people, in a territory where two-thirds of the population faces severe food insecurity and 200,000 are at risk of famine. More than a year after a Trump-brokered ceasefire, promised reconstruction has not begun and most residents still depend on aid."
       },
       "categoria": "geopolitica",
       "actores": [
-        "World Food Programme",
-        "ONU",
-        "Gaza/Palestinos",
-        "Estados Unidos"
+        "World Food Programme (WFP)",
+        "Naciones Unidas",
+        "Población de Gaza",
+        "Palestina"
       ],
       "geo": {
         "lat": 31.5,
         "lon": 34.47,
         "region": "Franja de Gaza"
       },
-      "impacto": 72,
+      "impacto": 68,
       "fuentes": [
         "ev_33ee6c80b1",
         "ev_2c61c5e79d",
-        "ev_0eac73f65c"
+        "ev_a8723a3fd2",
+        "ev_7c624329b9",
+        "ev_cb7161715f"
       ],
-      "cluster_id": "cl_226",
+      "cluster_id": "cl_236",
       "imagenes": [
         "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2c/live/e6934370-cb7c-11f1-8d42-dd1c1e8413a3.jpg",
         "https://i.guim.co.uk/img/media/472565e869a7fe663310c8d89eaa99c64de9b14c/956_535_4931_3945/master/4931.jpg?width=140&quality=85&auto=format&fit=max&s=fa666245cafaa1e90596f1f61ab56761",
-        "https://s.france24.com/media/display/967a6c90-cb8d-11f1-bcf9-638c1c1f5fd6/w:1024/p:16x9/AP26291491573638.jpg"
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-WFP-Gaza-04.jpg/image560x340cropped.jpg",
+        "https://e3.365dm.com/26/10/1920x1080/skynews-gaza-palestinians-food_7380782.jpg?20261019141613"
       ],
       "estado": "verificado",
       "referencias": [
@@ -148,218 +172,249 @@
           "idioma": "en"
         },
         {
-          "id": "ev_0eac73f65c",
-          "titulo": "World Food Programme to end aid for half a million in Gaza due to funding shortfall",
-          "url": "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 19 Oct 2026 07:33:32 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-19_0001",
-      "fecha": "2026-10-19",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-19_0000",
-        "nd_2026-10-19_0002"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Ucrania lanza más de 1.000 drones contra Rusia, incendiando instalaciones petroleras en San Petersburgo",
-        "en": "Ukraine launches over 1,000 drones at Russia, setting St. Petersburg oil facilities ablaze"
-      },
-      "sintesis": {
-        "es": "Ucrania llevó a cabo uno de sus mayores ataques aéreos de la guerra, lanzando más de 1.000 drones contra Rusia. Los ataques incendiaron una terminal de exportación de petróleo y un depósito en San Petersburgo. El ataque se produce en un contexto de tensiones crecientes entre Kiev y Washington.",
-        "en": "Ukraine carried out one of its largest aerial attacks of the war, launching more than 1,000 drones at Russia. The strikes set an oil export terminal and a depot ablaze in St. Petersburg. The attack comes amid rising tensions between Kyiv and Washington."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Ucrania",
-        "Rusia",
-        "Estados Unidos"
-      ],
-      "geo": {
-        "lat": 59.9343,
-        "lon": 30.3351,
-        "region": "San Petersburgo, Rusia"
-      },
-      "impacto": 70,
-      "fuentes": [
-        "ev_c924e84895",
-        "ev_4ff75bdd4a"
-      ],
-      "cluster_id": "cl_321",
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_c924e84895",
-          "titulo": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-          "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 19 Oct 2026 02:10:09 +0000",
+          "id": "ev_a8723a3fd2",
+          "titulo": "Gaza: Funding cuts leave half a million without food assistance",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
+          "fuente": "UN News",
+          "fecha": "Mon, 19 Oct 2026 12:00:00 +0000",
           "idioma": "en"
         },
         {
-          "id": "ev_4ff75bdd4a",
-          "titulo": "St. Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia",
-          "url": "https://www.cbc.ca/news/world/fire-russian-oil-sites-ukrain-drone-attacks-9.7385770?cmp=rss",
+          "id": "ev_7c624329b9",
+          "titulo": "UN cuts food aid to half a million Gazans over funding shortages",
+          "url": "https://news.sky.com/story/un-cuts-food-aid-to-half-a-million-gazans-over-funding-shortages-13600991",
+          "fuente": "Sky News World",
+          "fecha": "Mon, 19 Oct 2026 14:34:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cb7161715f",
+          "titulo": "UN food program funding cuts force group to slash aid to Gazans already struggling to eat",
+          "url": "https://www.cbc.ca/news/world/un-world-food-programme-funding-cuts-gaza-9.7387179?cmp=rss",
           "fuente": "CBC World",
-          "fecha": "Sun, 18 Oct 2026 06:48:06 EDT",
+          "fecha": "Mon, 19 Oct 2026 15:42:36 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-19_0002",
-      "fecha": "2026-10-19",
+      "id": "nd_2026-10-20_0001",
+      "fecha": "2026-10-20",
       "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-19_0000",
-        "nd_2026-10-19_0001"
-      ]
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "Debate presidencial en Brasil entre Lula y Bolsonaro antes del balotaje",
-        "en": "Presidential debate in Brazil between Lula and Bolsonaro ahead of runoff"
+        "es": "Ataque con misiles hutíes mata a decenas de reclutas en un campo de entrenamiento en Yemen",
+        "en": "Houthi missile strike kills dozens of recruits at training camp in Yemen"
       },
       "sintesis": {
-        "es": "Los candidatos a la presidencia de Brasil, Lula da Silva y Jair Bolsonaro, se enfrentaron en un debate televisado por la cadena Band de cara al balotaje del 25 de octubre. Intercambiaron acusaciones de corrupción y cuestionamientos sobre vínculos políticos, coincidiendo únicamente en la preocupación por la inseguridad y el acceso a la salud.",
-        "en": "Brazilian presidential candidates Lula da Silva and Jair Bolsonaro clashed in a televised debate on Band network ahead of the October 25 runoff. They traded accusations of corruption and questioned each other's political ties, agreeing only on concerns about insecurity and access to healthcare."
+        "es": "Misiles balísticos lanzados por los hutíes impactaron el campo de entrenamiento de al-Alam en la provincia de Shabwa, controlada por el gobierno yemení. Las autoridades locales reportaron entre 50 y 58 muertos y más de 200 heridos, en su mayoría jóvenes reclutas de las fuerzas de seguridad gubernamentales. El ataque fue calificado como la mayor pérdida de vidas en un solo evento desde que se reavivó el conflicto en Yemen en septiembre.",
+        "en": "Ballistic missiles fired by Houthi forces struck the al-Alam training camp in government-controlled Shabwa province, Yemen. Local authorities reported between 50 and 58 deaths and over 200 injured, mostly young recruits of government security forces. The attack was described as the largest single loss of life since Yemen's civil war reignited in September."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Lula da Silva",
-        "Jair Bolsonaro",
-        "Band (cadena de TV)"
+        "Houthis",
+        "Gobierno de Yemen reconocido por la ONU",
+        "Gobernador Awad al-Wazir",
+        "Fuerzas de seguridad yemeníes"
       ],
       "geo": {
-        "lat": -15.7801,
-        "lon": -47.9292,
-        "region": "Brasil"
+        "lat": 14.5583,
+        "lon": 46.8318,
+        "region": "Shabwa, Yemen"
       },
-      "impacto": 62,
+      "impacto": 65,
       "fuentes": [
-        "ev_327515fd87",
-        "ev_ef6ddb620f"
+        "ev_fc96983a03",
+        "ev_e12ce01d71",
+        "ev_f4ecace89d"
       ],
-      "cluster_id": "cl_056",
+      "cluster_id": "cl_221",
       "imagenes": [
-        "https://s.france24.com/media/display/bb634d24-cb65-11f1-950d-6313a763b466/w:1024/p:16x9/67f4a5def68caac4535e07c4b807d8481ff0047aw.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9320/live/759508d0-cbd5-11f1-aba9-2bb2608f11d9.jpg",
+        "https://i.guim.co.uk/img/media/44bec58d0d4cb4eaba65d281103bb5d9e4a39dd6/47_0_3212_2571/master/3212.jpg?width=140&quality=85&auto=format&fit=max&s=fe8ae50d263858ba5e84accb2a3c14b1"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_327515fd87",
-          "titulo": "Debate en Brasil: una batalla campal en la que el temple de Bolsonaro prevaleció ante un exaltado Lula",
-          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261019-debate-en-brasil-una-batalla-campal-en-la-que-el-temple-de-bolsonaro-prevaleci%C3%B3-ante-un-exaltado-lula",
-          "fuente": "France 24 Espanol",
-          "fecha": "Mon, 19 Oct 2026 02:51:11 GMT",
-          "idioma": "es"
+          "id": "ev_fc96983a03",
+          "titulo": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+          "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Mon, 19 Oct 2026 16:20:51 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_ef6ddb620f",
-          "titulo": "Lula and Bolsonaro trade insults in TV debate ahead of weekend presidential runoff",
-          "url": "https://www.euronews.com/2026/10/19/lula-and-bolsonaro-trade-insults-in-tv-debate-ahead-of-weekend-presidential-runoff",
-          "fuente": "Euronews English",
-          "fecha": "Mon, 19 Oct 2026 11:21:10 +0200",
+          "id": "ev_e12ce01d71",
+          "titulo": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+          "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+          "fuente": "The Guardian World",
+          "fecha": "Mon, 19 Oct 2026 17:15:23 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_f4ecace89d",
+          "titulo": "Houthi attack on Yemeni government forces kills 58: officials",
+          "url": "https://www.cbc.ca/news/world/houthi-attack-yemen-government-forces-camp-9.7386538?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Mon, 19 Oct 2026 10:13:36 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-19_0003",
-      "fecha": "2026-10-19",
+      "id": "nd_2026-10-20_0002",
+      "fecha": "2026-10-20",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Investigadores confirman por primera vez spyware mercenario distribuido mediante anuncios dirigidos",
-        "en": "Researchers confirm for the first time mercenary spyware distributed via targeted ads"
+        "es": "La misión japonesa MMX despega para recolectar muestras de Fobos, la luna de Marte",
+        "en": "Japan's MMX mission launches to collect samples from Mars' moon Phobos"
       },
       "sintesis": {
-        "es": "Investigadores de Citizen Lab publicaron la primera evidencia tecnica de spyware mercenario sofisticado que se distribuye a traves de publicidad en linea dirigida, utilizando exploits de cero clics para infectar telefonos sin interaccion del usuario. El hallazgo representa un nuevo vector de ataque considerado un 'escenario de pesadilla' por su capacidad de evasion y alcance.",
-        "en": "Researchers at Citizen Lab published the first technical evidence of sophisticated mercenary spyware being distributed through targeted online advertising, using zero-click exploits to infect phones without user interaction. The finding represents a new attack vector described as a 'nightmare scenario' due to its evasiveness and reach."
+        "es": "La agencia espacial japonesa JAXA lanzó la misión MMX (Martian Moons eXploration), un proyecto internacional cuyo objetivo es llegar a Fobos, una de las lunas de Marte, y traer de vuelta a la Tierra aproximadamente 10 gramos de muestras de su superficie. Los científicos esperan que el análisis de estas muestras revele nuevas pistas sobre el origen y la historia del sistema solar.",
+        "en": "Japan's space agency JAXA launched the MMX (Martian Moons eXploration) mission, an international project aiming to reach Phobos, one of Mars' moons, and return approximately 10 grams of surface samples to Earth. Scientists hope analysis of these samples will reveal new clues about the origin and history of the solar system."
       },
-      "categoria": "tecnologia",
+      "categoria": "ciencia",
       "actores": [
-        "Citizen Lab",
-        "proveedores de spyware mercenario"
+        "JAXA",
+        "Japón"
       ],
       "geo": {
-        "lat": 43.6532,
-        "lon": -79.3832,
-        "region": "Toronto, Canada"
+        "lat": 35.6762,
+        "lon": 139.6503,
+        "region": "Japón"
       },
       "impacto": 62,
       "fuentes": [
-        "ev_f771a8e401",
-        "ev_3691293ceb"
+        "ev_aefc9e9de8",
+        "ev_e6e0c5d1a1",
+        "ev_fb277e38b8",
+        "ev_cbc42312cb",
+        "ev_260c92f4db",
+        "ev_c5bb314d03",
+        "ev_56affe7428",
+        "ev_0bc856c0d5"
       ],
-      "cluster_id": "cl_676",
+      "cluster_id": "cl_215",
       "imagenes": [
-        "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg",
-        "https://media.wired.com/photos/6acfe05dd7a1c8d94ba22a02/master/pass/Security_SophisticatedZero-ClickSpywareFoundBeingDistr-ezgif.com-video-to-gif-converter.gif"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f0e/live/0a4e2af0-cbff-11f1-bc2e-018d645d8d21.jpg",
+        "https://media.wired.com/photos/6ad0c058fa571af93e340368/master/pass/JAXA.jpg",
+        "https://s.france24.com/media/display/af16faf0-cb94-11f1-9e48-2d1c143cdef3/w:1024/p:16x9/1329e57e1d2112e42b31f522a1d6229f84f9f886.jpg",
+        "https://e3.365dm.com/26/10/1920x1080/skynews-japan-space_7381131.jpg?20261019212508"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_f771a8e401",
-          "titulo": "Targeted ads delivered 0-click exploits to install mercenary malware",
-          "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-          "fuente": "Ars Technica",
-          "fecha": "Thu, 15 Oct 2026 20:32:41 +0000",
+          "id": "ev_aefc9e9de8",
+          "titulo": "Mission blasts off for Mars to grab a piece of its moon",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Mon, 19 Oct 2026 19:45:46 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_3691293ceb",
-          "titulo": "‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads",
-          "url": "https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+          "id": "ev_e6e0c5d1a1",
+          "titulo": "Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth",
+          "url": "https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/",
           "fuente": "WIRED",
-          "fecha": "Thu, 15 Oct 2026 10:00:00 +0000",
+          "fecha": "Mon, 19 Oct 2026 18:45:06 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_fb277e38b8",
+          "titulo": "Japan launches mission to explore Mars' moons and bring back samples",
+          "url": "https://www.france24.com/en/technology/20261020-japan-launches-mission-to-explore-mars-moons-and-bring-back-samples",
+          "fuente": "France 24 English",
+          "fecha": "Tue, 20 Oct 2026 01:29:41 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cbc42312cb",
+          "titulo": "Japan launches historic mission to bring back Mars moon samples",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 20 Oct 2026 04:08:33 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_260c92f4db",
+          "titulo": "Japan launches mission to bring back samples from Mars’s moon Phobos",
+          "url": "https://www.euronews.com/video/2026/10/20/japan-launches-mission-to-bring-back-samples-from-marss-moon-phobos",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 20 Oct 2026 11:21:46 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c5bb314d03",
+          "titulo": "Japan launches unprecedented mission to bring back samples from Mars' moon Phobos",
+          "url": "https://www.euronews.com/2026/10/20/japan-launches-unprecedented-mission-to-bring-back-samples-from-mars-moon-phobos",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 20 Oct 2026 06:19:34 +0200",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_56affe7428",
+          "titulo": "Japan launches mission to Mars to bring back samples from its moon",
+          "url": "https://news.sky.com/story/japan-launches-mission-to-mars-to-bring-back-samples-from-one-of-its-moons-13601139",
+          "fuente": "Sky News World",
+          "fecha": "Mon, 19 Oct 2026 21:04:00 +0100",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_0bc856c0d5",
+          "titulo": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples",
+          "url": "https://phys.org/news/2026-10-japan-spacecraft-mysterious-moons-mars.html",
+          "fuente": "Phys.org",
+          "fecha": "Tue, 20 Oct 2026 05:40:13 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-19_0004",
-      "fecha": "2026-10-19",
-      "kardashev": "K1",
+      "id": "nd_2026-10-20_0003",
+      "fecha": "2026-10-20",
+      "kardashev": "K2",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Kenia confirma un octavo caso de ébola en medio de un brote regional en expansión",
-        "en": "Kenya confirms eighth Ebola case amid widening regional outbreak"
+        "es": "Brote de ébola en Kenia se expande mientras crecen las críticas a la respuesta de EE.UU.",
+        "en": "Ebola outbreak in Kenya grows as criticism mounts over US response"
       },
       "sintesis": {
-        "es": "Las autoridades sanitarias de Kenia confirmaron un octavo caso de ébola, posiblemente vinculado al primer paciente detectado en el país. Antes de este mes, Kenia nunca había registrado casos del virus, y el número de infecciones ha crecido rápidamente en pocos días.",
-        "en": "Kenyan health authorities confirmed an eighth Ebola case, likely linked to the country's first detected patient. Before this month, Kenya had never recorded cases of the virus, and the number of infections has grown rapidly within days."
+        "es": "Kenia confirmó su primer brote de ébola, con ocho casos de la cepa Bundibugyo detectados hasta mediados de octubre de 2026, en el contexto del segundo mayor brote de la enfermedad en la región, que ya ha matado a más de 4.300 personas. La OMS declaró apoyo a las autoridades kenianas para contener el virus, mientras que informes señalan que los recortes de financiación y el retiro de EE.UU. de la OMS, junto con un controvertido centro de cuarentena liderado por EE.UU., han debilitado la capacidad de respuesta global y aumentado la desconfianza.",
+        "en": "Kenya confirmed its first-ever Ebola outbreak, with eight cases of the Bundibugyo strain detected by mid-October 2026, amid the region's second-largest Ebola outbreak in history, which has already killed over 4,300 people. The WHO stated it is supporting Kenyan authorities in containment efforts, while reports highlight that US funding cuts and withdrawal from the WHO, along with a controversial US-led quarantine center, have weakened the global response capacity and increased mistrust."
       },
       "categoria": "salud",
       "actores": [
-        "Gobierno de Kenia",
-        "Ministerio de Salud de Kenia"
+        "Kenya",
+        "World Health Organization (WHO)",
+        "United States",
+        "CDC/US government"
       ],
       "geo": {
-        "lat": -1.286389,
-        "lon": 36.817223,
-        "region": "Kenia"
+        "lat": -0.0236,
+        "lon": 37.9062,
+        "region": "Kenia, África Oriental"
       },
-      "impacto": 55,
+      "impacto": 62,
       "fuentes": [
-        "ev_77a03e5d57",
-        "ev_e963059446"
+        "ev_4b87216797",
+        "ev_e963059446",
+        "ev_abdfcedc2b"
       ],
-      "cluster_id": "cl_322",
+      "cluster_id": "cl_244",
       "imagenes": [
-        "https://static01.nyt.com/images/2026/10/17/multimedia/17int-kenya-ebola-mkhg/17int-kenya-ebola-mkhg-mediumSquareAt3X.jpg"
+        "https://i.guim.co.uk/img/media/121fe3d421149eeeeb2952b13cb999bdc527852e/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=0fdf8f6069692abee1ef39afeb50d7cb",
+        "https://static01.nyt.com/images/2026/10/17/multimedia/17int-kenya-ebola-mkhg/17int-kenya-ebola-mkhg-mediumSquareAt3X.jpg",
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/06-10-2026-WHO-Kenya-Bundibugyo-03.jpg/image560x340cropped.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_77a03e5d57",
-          "titulo": "Kenya confirms eighth Ebola case amid widening regional outbreak",
-          "url": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 19 Oct 2026 01:07:52 +0000",
+          "id": "ev_4b87216797",
+          "titulo": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
+          "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
+          "fuente": "The Guardian World",
+          "fecha": "Mon, 19 Oct 2026 14:11:08 GMT",
           "idioma": "en"
         },
         {
@@ -369,225 +424,343 @@
           "fuente": "NYT World",
           "fecha": "Sun, 18 Oct 2026 17:58:54 +0000",
           "idioma": "en"
+        },
+        {
+          "id": "ev_abdfcedc2b",
+          "titulo": "WHO urges vigilance after Kenya confirms second Ebola case",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168602",
+          "fuente": "UN News",
+          "fecha": "Thu, 15 Oct 2026 12:00:00 +0000",
+          "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-19_0005",
-      "fecha": "2026-10-19",
+      "id": "nd_2026-10-20_0004",
+      "fecha": "2026-10-20",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "La OMS reporta avances y desafios en la lucha mundial contra el tabaco",
-        "en": "WHO reports progress and challenges in the global fight against tobacco"
+        "es": "Escalada de violencia de colonos en Cisjordania y ataques israelíes mortales en Gaza pese al alto el fuego",
+        "en": "Escalating settler violence in the West Bank and deadly Israeli strikes on Gaza despite ceasefire"
       },
       "sintesis": {
-        "es": "Informes de la OMS entre 2019 y 2021 muestran que miles de millones de personas estan ahora cubiertas por medidas de control del tabaco tipo MPOWER, cuadriplicando la cifra de 2007. Sin embargo, la organizacion advierte que algunos paises no regulan adecuadamente nuevos productos de nicotina y tabaco calentado, y lanza iniciativas educativas para proteger a jovenes de las tacticas de la industria tabacalera.",
-        "en": "WHO reports from 2019 to 2021 show billions of people are now covered by MPOWER-style tobacco control measures, a fourfold increase since 2007. However, the organization warns that some countries fail to adequately regulate emerging nicotine and heated tobacco products, and has launched educational initiatives to protect youth from tobacco industry tactics."
+        "es": "Ataques israelíes en Gaza mataron al menos a seis palestinos, incluidos niños, pese a un acuerdo de alto el fuego vigente desde hace un año. En paralelo, en Cisjordania ocupada continuó la violencia de colonos contra agricultores palestinos durante la cosecha de aceitunas, lo que llevó a expertos de la ONU a pedir protección para ellos. Además, la policía israelí arrestó a 10 personas por ataques de colonos contra diplomáticos europeos y un periodista extranjero durante el fin de semana.",
+        "en": "Israeli strikes on Gaza killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, settler violence continued in the occupied West Bank against Palestinian olive farmers during the harvest season, prompting UN experts to call for their protection. Additionally, Israeli police arrested 10 people over settler attacks on European diplomats and a foreign journalist over the weekend."
       },
-      "categoria": "salud",
+      "categoria": "geopolitica",
       "actores": [
-        "Organizacion Mundial de la Salud (OMS)",
-        "US FDA",
-        "Industria tabacalera"
+        "Israel",
+        "Palestinos",
+        "Colonos israelíes",
+        "ONU",
+        "Diplomáticos europeos"
       ],
       "geo": {
-        "lat": 46.2244,
-        "lon": 6.1432,
-        "region": "Global / Suiza (sede OMS)"
+        "lat": 31.9,
+        "lon": 35.2,
+        "region": "Cisjordania y Gaza"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_6b0e9501ba",
+        "ev_66268a8f47"
+      ],
+      "cluster_id": "cl_413",
+      "imagenes": [
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/21-10-2025-PARC-olive-harvest-03.jpg/image560x340cropped.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_6b0e9501ba",
+          "titulo": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
+          "fuente": "UN News",
+          "fecha": "Mon, 19 Oct 2026 12:00:00 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_66268a8f47",
+          "titulo": "Israel arrests 10 people after West Bank settler attacks on diplomats, journalist",
+          "url": "https://www.cbc.ca/news/world/israel-west-bank-settlers-arrests-9.7386445?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Mon, 19 Oct 2026 09:33:01 EDT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-20_0005",
+      "fecha": "2026-10-20",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Líder de secta en Kenia declarado culpable de 191 asesinatos por inanición",
+        "en": "Kenyan cult leader found guilty of 191 murders by starvation"
+      },
+      "sintesis": {
+        "es": "Un tribunal keniano declaró culpable al autoproclamado pastor Paul Mackenzie, junto a su esposa Rhoda Maweu y unos 29 coacusados, del asesinato de 190 niños y un adulto. Mackenzie había ordenado a sus seguidores dejar de alimentarse a sí mismos y a sus hijos como parte de una secta apocalíptica. Fue arrestado en 2023 tras una denuncia, lo que llevó al descubrimiento de cuerpos en fosas poco profundas en el bosque de Shakahola, en el sureste de Kenia, en uno de los peores desastres relacionados con sectas en la historia reciente.",
+        "en": "A Kenyan court found self-proclaimed pastor Paul Mackenzie, along with his wife Rhoda Maweu and about 29 co-accused, guilty of murdering 190 children and one adult. Mackenzie had ordered followers to starve themselves and their children as part of a doomsday cult. He was arrested in 2023 following a tip-off, leading to the discovery of bodies buried in shallow graves in the Shakahola forest in south-eastern Kenya, in one of the worst cult-related disasters in recent history."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Paul Mackenzie",
+        "Rhoda Maweu",
+        "Kenyan judiciary",
+        "Shakahola cult followers"
+      ],
+      "geo": {
+        "lat": -3.9,
+        "lon": 39.6,
+        "region": "Shakahola, Kilifi, Kenia"
       },
       "impacto": 55,
       "fuentes": [
-        "ev_723966fa7a",
-        "ev_d9b6ac9aae",
-        "ev_31547344cd",
-        "ev_d449ed0d78"
+        "ev_75e12d23fc",
+        "ev_c30779784e",
+        "ev_4f91635462"
       ],
-      "cluster_id": "cl_578",
+      "cluster_id": "cl_216",
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07e/live/02bf88b0-cbd7-11f1-bc2e-018d645d8d21.jpg",
+        "https://i.guim.co.uk/img/media/1fcb4211343f1e186853a25b4e44873a28588f33/124_21_4274_3420/master/4274.jpg?width=140&quality=85&auto=format&fit=max&s=cc8854a028b039b4861c34a8bb8679b9",
+        "https://e3.365dm.com/26/10/1920x1080/skynews-paul-mackenzie-kenya_7380499.jpg?20261019095346"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_75e12d23fc",
+          "titulo": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+          "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Mon, 19 Oct 2026 17:18:04 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_c30779784e",
+          "titulo": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+          "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+          "fuente": "The Guardian World",
+          "fecha": "Mon, 19 Oct 2026 16:08:14 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_4f91635462",
+          "titulo": "Doomsday cult leader found guilty of murdering 190 children and one adult",
+          "url": "https://news.sky.com/story/cult-leader-found-guilty-of-ordered-followers-to-starve-their-children-to-death-13600891",
+          "fuente": "Sky News World",
+          "fecha": "Mon, 19 Oct 2026 10:21:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-20_0006",
+      "fecha": "2026-10-20",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Inundaciones en el este de España dejan cuatro muertos",
+        "en": "Floods in eastern Spain leave four dead"
+      },
+      "sintesis": {
+        "es": "Lluvias torrenciales golpearon el este de España, provocando inundaciones que mataron al menos a cuatro personas y arrastraron vehículos, sumergieron carreteras y aislaron a residentes. En Valencia, equipos de emergencia realizaron más de 400 rescates, con registros de hasta 700 litros por metro cuadrado en 24 horas en algunas zonas.",
+        "en": "Torrential rain hit eastern Spain, triggering floods that killed at least four people, swept away cars, submerged roads and stranded residents. In Valencia, emergency crews carried out over 400 rescues, with rainfall reaching up to 700 litres per square metre in 24 hours in some areas."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Gobierno de España",
+        "Servicios de emergencia de Valencia"
+      ],
+      "geo": {
+        "lat": 39.4699,
+        "lon": -0.3763,
+        "region": "Valencia, España"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_dc8d59ca9a",
+        "ev_6dcac8a250",
+        "ev_5280616e85"
+      ],
+      "cluster_id": "cl_288",
+      "imagenes": [
+        "https://s.france24.com/media/display/e9c067e8-b287-11f1-a41a-991cccd3bb73/w:1024/p:16x9/2026-09-17T090156Z-1967335667-RC2UKNAXSDKS-RTRMADP-3-EUROPE-WEATHER-SPAIN-FLOODS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_dc8d59ca9a",
+          "titulo": "Spain floods kill four as torrential rain inundates eastern regions",
+          "url": "https://www.france24.com/en/europe/20261019-spain-floods-kill-four-as-torrential-rain-inundates-eastern-regions",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 19 Oct 2026 21:39:49 GMT",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_6dcac8a250",
+          "titulo": "Four dead as torrential rain batters eastern Spain",
+          "url": "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 20 Oct 2026 02:36:34 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_5280616e85",
+          "titulo": "Deadly floods sweep through eastern Spain after torrential rain",
+          "url": "https://www.euronews.com/video/2026/10/19/deadly-floods-sweep-through-eastern-spain-after-torrential-rain",
+          "fuente": "Euronews English",
+          "fecha": "Mon, 19 Oct 2026 22:00:41 +0200",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-20_0007",
+      "fecha": "2026-10-20",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Francia impone toque de queda en zonas de París tras los peores disturbios en años",
+        "en": "France imposes curfew in parts of Paris after worst riots in years"
+      },
+      "sintesis": {
+        "es": "La policía de París decretó un toque de queda nocturno en las zonas de Place de la République y Les Halles tras un fin de semana marcado por los disturbios más graves en años en Francia. Los enfrentamientos, motivados por el coste de vida y las condiciones escolares, afectaron ayuntamientos, edificios públicos y miles de negocios en todo el país. Las autoridades buscan evitar nuevos episodios de violencia mientras las calles permanecían calmadas bajo la medida.",
+        "en": "Paris police imposed an overnight curfew around Place de la République and Les Halles following the worst rioting in years in France over the weekend. The unrest, driven by cost-of-living concerns and school conditions, targeted city halls, public buildings and thousands of businesses nationwide. Authorities aim to prevent further violence as streets remained calm under the measure."
+      },
+      "categoria": "sociedad",
+      "actores": [
+        "Policía de París",
+        "Gobierno de Francia",
+        "Manifestantes"
+      ],
+      "geo": {
+        "lat": 48.8566,
+        "lon": 2.3522,
+        "region": "París, Francia"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_32552a1be7",
+        "ev_5d1a1cd386",
+        "ev_9b7bb53d80"
+      ],
+      "cluster_id": "cl_297",
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_723966fa7a",
-          "titulo": "WHO reports progress in the fight against tobacco epidemic",
-          "url": "https://www.who.int/news/item/27-07-2021-who-reports-progress-in-the-fight-against-tobacco-epidemic",
-          "fuente": "WHO News",
-          "fecha": "Mon, 26 Jul 2021 12:57:42 Z",
+          "id": "ev_32552a1be7",
+          "titulo": "🔴 France issues curfew for parts of central Paris",
+          "url": "https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting",
+          "fuente": "France 24 English",
+          "fecha": "Mon, 19 Oct 2026 17:09:26 GMT",
           "idioma": "en"
         },
         {
-          "id": "ev_d9b6ac9aae",
-          "titulo": "WHO statement on heated tobacco products and the US FDA decision regarding IQOS",
-          "url": "https://www.who.int/news/item/27-07-2020-who-statement-on-heated-tobacco-products-and-the-us-fda-decision-regarding-iqos",
-          "fuente": "WHO News",
-          "fecha": "Mon, 27 Jul 2020 11:57:34 Z",
+          "id": "ev_5d1a1cd386",
+          "titulo": "Police patrol Paris streets under overnight curfew",
+          "url": "https://www.euronews.com/video/2026/10/20/police-patrol-paris-streets-under-overnight-curfew",
+          "fuente": "Euronews English",
+          "fecha": "Tue, 20 Oct 2026 09:10:57 +0200",
           "idioma": "en"
         },
         {
-          "id": "ev_31547344cd",
-          "titulo": "Stop tobacco industry exploitation of children and young people",
-          "url": "https://www.who.int/news/item/29-05-2020-stop-tobacco-industry-exploitation-of-children-and-young-people",
-          "fuente": "WHO News",
-          "fecha": "Fri, 29 May 2020 04:00:52 Z",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_d449ed0d78",
-          "titulo": "WHO launches new report on the global tobacco epidemic",
-          "url": "https://www.who.int/news/item/26-07-2019-who-launches-new-report-on-the-global-tobacco-epidemic",
-          "fuente": "WHO News",
-          "fecha": "Thu, 25 Jul 2019 13:30:00 Z",
+          "id": "ev_9b7bb53d80",
+          "titulo": "Police issue curfew in Paris after weekend rioting over cost of living, school conditions",
+          "url": "https://www.cbc.ca/news/world/paris-france-protests-rioting-looting-curfew-9.7387103?cmp=rss",
+          "fuente": "CBC World",
+          "fecha": "Mon, 19 Oct 2026 14:31:55 EDT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-19_0006",
-      "fecha": "2026-10-19",
+      "id": "nd_2026-10-20_0008",
+      "fecha": "2026-10-20",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "El papa León XIV reaparece públicamente tras cirugía por cáncer de pulmón y recibe el alta del hospital Gemelli",
-        "en": "Pope Leo XIV makes public appearance after lung cancer surgery and is discharged from Gemelli hospital"
+        "es": "Nvidia y el canciller alemán Merz impulsan un pacto de IA para acelerar la adopción tecnológica en Alemania",
+        "en": "Nvidia and German Chancellor Merz push AI pact to accelerate tech adoption in Germany"
       },
       "sintesis": {
-        "es": "El papa León XIV fue operado de un cáncer de pulmón y permaneció internado en el hospital Gemelli de Roma. Tras ser dado de alta el sábado, regresó al Vaticano y el domingo hizo su primera aparición pública, asomándose a la ventana de su estudio para pronunciar el Ángelus. La Santa Sede indicó que no hay motivos clínicos que impidan su próximo viaje previsto a Sudamérica.",
-        "en": "Pope Leo XIV underwent surgery for lung cancer and was hospitalized at Rome's Gemelli hospital. After being discharged on Saturday, he returned to the Vatican and made his first public appearance on Sunday, appearing at his study window to deliver the Angelus. The Holy See stated there are no clinical reasons preventing his planned trip to South America."
+        "es": "El CEO de Nvidia, Jensen Huang, advirtió que Alemania está quedando rezagada en la carrera de la inteligencia artificial, mientras el canciller Friedrich Merz instó a las empresas alemanas a adoptar esta tecnología durante una cumbre industrial en Berlín. Nvidia anunció inversiones planificadas en cuatro startups alemanas, en el marco de un pacto conjunto destinado a acelerar la integración de productos de IA en la industria del país.",
+        "en": "Nvidia CEO Jensen Huang warned that Germany is falling behind in the AI race, while Chancellor Friedrich Merz urged German businesses to embrace the technology at an industry summit in Berlin. Nvidia announced planned investments in four German startups as part of a joint pact aimed at speeding up the integration of AI products across German industry."
       },
-      "categoria": "salud",
+      "categoria": "tecnologia",
       "actores": [
-        "Papa León XIV",
-        "Santa Sede",
-        "Hospital Gemelli"
+        "Nvidia",
+        "Jensen Huang",
+        "Friedrich Merz",
+        "Gobierno de Alemania"
       ],
       "geo": {
-        "lat": 41.9029,
-        "lon": 12.4534,
-        "region": "Vaticano, Roma, Italia"
+        "lat": 52.52,
+        "lon": 13.405,
+        "region": "Berlín, Alemania"
       },
-      "impacto": 45,
+      "impacto": 55,
       "fuentes": [
-        "ev_d537e982e7",
-        "ev_65552511f4",
-        "ev_cfbe4e3b12",
-        "ev_aa35885834",
-        "ev_98795ff193",
-        "ev_1c6f1d8b62",
-        "ev_af19c06b44",
-        "ev_061c218fc3"
+        "ev_ee51f99fc5",
+        "ev_b6e0f623d6"
       ],
-      "cluster_id": "cl_006",
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f916/live/a89e2540-caf9-11f1-acd8-5f0e740dfa92.jpg",
-        "https://s.rfi.fr/media/display/f2f2e48a-ca1a-11f1-a587-2d1c143cdef3/w:1024/p:16x9/bbd5a9f3726e67b9e0405b7aa7d8eec9374f1189.jpg",
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21f0/live/4a3b0720-cae5-11f1-a64c-550be9e3c66b.jpg",
-        "https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg"
-      ],
+      "cluster_id": "cl_401",
+      "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_d537e982e7",
-          "titulo": "El papa León XIV hace su primera aparición pública tras ser operado por un cáncer de pulmón y \"no hay motivos clínicos\" que impidan su viaje a Sudamérica",
-          "url": "https://www.bbc.com/mundo/articles/c6ev320r2rnwo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Sun, 18 Oct 2026 13:31:20 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_65552511f4",
-          "titulo": "León XIV volverá este sábado al Vaticano tras su operación de pulmón",
-          "url": "https://www.rfi.fr/es/europa/20261017-le%C3%B3n-xiv-volver%C3%A1-este-s%C3%A1bado-al-vaticano-tras-su-operaci%C3%B3n-de-pulm%C3%B3n",
-          "fuente": "RFI Espanol",
-          "fecha": "Sat, 17 Oct 2026 11:07:32 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_cfbe4e3b12",
-          "titulo": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
-          "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World",
-          "fecha": "Sun, 18 Oct 2026 11:09:32 GMT",
+          "id": "ev_ee51f99fc5",
+          "titulo": "Nvidia CEO Jensen Huang warns Germany is falling behind in AI race",
+          "url": "https://www.euronews.com/2026/10/19/nvidia-ceo-jensen-huang-warns-germany-is-falling-behind-in-ai-race",
+          "fuente": "Euronews English",
+          "fecha": "Mon, 19 Oct 2026 23:12:22 +0200",
           "idioma": "en"
         },
         {
-          "id": "ev_aa35885834",
-          "titulo": "Pope Leo Leaves Hospital, Days After Lung Cancer Surgery",
-          "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html",
-          "fuente": "NYT World",
-          "fecha": "Sun, 18 Oct 2026 16:11:54 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_98795ff193",
-          "titulo": "Pope Leo returns to Vatican after lung cancer surgery",
-          "url": "https://www.cbc.ca/news/world/pope-leo-lung-cancer-surgery-9.7385445?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sat, 17 Oct 2026 18:46:07 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_1c6f1d8b62",
-          "titulo": "Pope greeted by crowds in first major appearance since lung cancer surgery",
-          "url": "https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 19 Oct 2026 04:42:13 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_af19c06b44",
-          "titulo": "Pope Leo says he will gradually resume duties after cancer surgery",
-          "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
-          "fuente": "NPR News",
-          "fecha": "Sun, 18 Oct 2026 08:55:01 -0400",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_061c218fc3",
-          "titulo": "Pope addresses faithful after cancer surgery",
-          "url": "https://news.sky.com/story/pope-makes-public-appearance-a-day-after-being-discharged-from-hospital-following-lung-cancer-surgery-13598963",
-          "fuente": "Sky News World",
-          "fecha": "Sun, 18 Oct 2026 10:53:00 +0100",
+          "id": "ev_b6e0f623d6",
+          "titulo": "‘Open your doors for AI’: German chancellor urges businesses to embrace AI as Nvidia announces new investments",
+          "url": "https://www.cnbc.com/2026/10/20/german-chancellor-urges-businesses-to-embrace-ai.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Tue, 20 Oct 2026 02:16:25 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-19_0007",
-      "fecha": "2026-10-19",
+      "id": "nd_2026-10-20_0009",
+      "fecha": "2026-10-20",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Incendio mortal en base militar canadiense deja cuatro muertos y decenas de heridos",
-        "en": "Deadly fire at Canadian military base kills four and injures dozens"
+        "es": "Incendio mortal en base militar canadiense en Alberta deja cuatro muertos",
+        "en": "Deadly fire at Canadian military base in Alberta leaves four dead"
       },
       "sintesis": {
-        "es": "Un incendio de pasto violento y de rápida propagación en la Base de las Fuerzas Canadienses Wainwright, Alberta, durante un entrenamiento militar, dejó al menos cuatro soldados muertos y 39 hospitalizados, 19 de ellos en estado crítico con quemaduras severas. El primer ministro Mark Carney lo calificó como una de las peores tragedias para las fuerzas armadas canadienses en tiempos de paz en suelo nacional. La causa del incendio aún no ha sido determinada por las autoridades.",
-        "en": "A violent, fast-moving grass fire at Canadian Forces Base Wainwright in Alberta during military training killed at least four soldiers and hospitalized 39 others, with 19 in critical condition suffering severe burns. Prime Minister Mark Carney described it as one of the worst peacetime tragedies for Canada's armed forces on domestic soil. The cause of the fire remains undetermined by officials."
+        "es": "Un incendio descrito como 'violento y de rápida propagación' arrasó la Base de las Fuerzas Canadienses Wainwright, en Alberta, el sábado, dejando cuatro muertos y decenas de heridos graves. El primer ministro Mark Carney calificó el suceso como una de las peores tragedias en tiempos de paz para las fuerzas armadas canadienses en suelo nacional. Las autoridades aún no han revelado la causa del incendio.",
+        "en": "A 'violent, fast-moving' fire tore through Canadian Forces Base Wainwright in Alberta on Saturday, killing four people and seriously injuring dozens more. Prime Minister Mark Carney described it as one of the worst peacetime tragedies for Canada's armed forces on domestic soil. Authorities have not yet disclosed the cause of the blaze."
       },
       "categoria": "sociedad",
       "actores": [
         "Mark Carney",
-        "Danielle Smith",
         "Canadian Armed Forces",
         "Canadian Forces Base Wainwright"
       ],
       "geo": {
         "lat": 52.8333,
-        "lon": -110.85,
-        "region": "Wainwright, Alberta, Canada"
+        "lon": -110.8333,
+        "region": "Wainwright, Alberta, Canadá"
       },
       "impacto": 45,
       "fuentes": [
         "ev_b53b4e041e",
-        "ev_f4c85a0adb",
-        "ev_e3aa35086d",
         "ev_39de5a3499",
         "ev_1d5ce94c81"
       ],
-      "cluster_id": "cl_256",
+      "cluster_id": "cl_248",
       "imagenes": [
         "https://i.guim.co.uk/img/media/fd2fce9d5801c1379f2c9034bd7fd12e94a8a1be/1408_22_5652_4521/master/5652.jpg?width=140&quality=85&auto=format&fit=max&s=d0ae93ec314abf587a38476a01cc10a1",
-        "https://s.france24.com/media/display/f386ca2a-cb40-11f1-afbe-638c1c1f5fd6/w:1024/p:16x9/AP26291249437617.jpg",
         "https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-base-fire-hbwv/18int-canada-base-fire-hbwv-mediumSquareAt3X.jpg",
         "https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-alberta-fire-chfb/18int-canada-alberta-fire-chfb-mediumSquareAt3X.jpg"
       ],
@@ -602,27 +775,11 @@
           "idioma": "en"
         },
         {
-          "id": "ev_f4c85a0adb",
-          "titulo": "Canadian military base fire kills at least four, injures dozens",
-          "url": "https://www.france24.com/en/americas/20261018-canada-military-base-fire-four-dead-39-hospitalised",
-          "fuente": "France 24 English",
-          "fecha": "Sun, 18 Oct 2026 22:16:51 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e3aa35086d",
-          "titulo": "How a grass fire at a Canadian military base killed four soldiers",
-          "url": "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 19 Oct 2026 09:12:31 +0000",
-          "idioma": "en"
-        },
-        {
           "id": "ev_39de5a3499",
           "titulo": "Carney Says Fire at Canadian Forces Base Wainwright in Alberta Killed 4 and Injured Dozens",
           "url": "https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html",
           "fuente": "NYT World",
-          "fecha": "Mon, 19 Oct 2026 02:45:49 +0000",
+          "fecha": "Mon, 19 Oct 2026 13:48:17 +0000",
           "idioma": "en"
         },
         {
@@ -634,284 +791,170 @@
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-19_0008",
-      "fecha": "2026-10-19",
+      "id": "nd_2026-10-20_0010",
+      "fecha": "2026-10-20",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Elon Musk presenta el nuevo Tesla Roadster con propulsores 'voladores'",
-        "en": "Elon Musk unveils new Tesla Roadster with 'flying' thrusters"
+        "es": "UEFA exige a la FIFA documentos sobre plan de venta del Mundial y presuntos conflictos de interés de Infantino",
+        "en": "UEFA demands FIFA release documents on World Cup sell-off plan and alleged Infantino conflicts of interest"
       },
       "sintesis": {
-        "es": "Elon Musk presento en Texas el nuevo Tesla Roadster, un deportivo equipado con propulsores que, segun dijo, le permiten actuar como un auto 'volador'. Durante una demostracion, el vehiculo salio disparado de una rampa usando tecnologia de gas comprimido y aterrizo sobre sus ruedas. Musk espera iniciar la produccion en 2028, aunque reconocio incertidumbres sobre su seguridad y las restricciones legales para circular.",
-        "en": "Elon Musk unveiled in Texas the new Tesla Roadster, a sports car equipped with thrusters he described as making it a 'flying' car. During a demonstration, the vehicle launched off a ramp using compressed gas technology and landed on its wheels. Musk expects production to begin in 2028, though he acknowledged doubts about its safety and legal restrictions for road use."
+        "es": "La UEFA envió una carta con 42 preguntas a la FIFA exigiendo documentación sobre un plan abortado de venta de derechos del Mundial y sobre presuntos conflictos de interés de Gianni Infantino relacionados con negocios con la familia Trump. Los dirigentes europeos del fútbol fijaron el 2 de noviembre como plazo para que la FIFA responda.",
+        "en": "UEFA sent FIFA a letter with 42 questions demanding documentation on an aborted World Cup sell-off plan and alleged conflicts of interest involving Gianni Infantino's business dealings with the Trump family. European football leaders set November 2 as the deadline for FIFA to respond."
       },
-      "categoria": "innovacion",
+      "categoria": "deportes",
       "actores": [
-        "Elon Musk",
-        "Tesla"
+        "UEFA",
+        "FIFA",
+        "Gianni Infantino",
+        "Familia Trump"
       ],
       "geo": {
-        "lat": 31.9686,
-        "lon": -99.9018,
-        "region": "Texas, Estados Unidos"
+        "lat": 46.948,
+        "lon": 7.4474,
+        "region": "Suiza (sede FIFA/UEFA)"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_02f3a5c983",
+        "ev_cb893c3a39"
+      ],
+      "cluster_id": "cl_302",
+      "imagenes": [
+        "https://e3.365dm.com/26/08/1920x1080/skynews-trump-infantino_7318599.jpg?20260811033719"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_02f3a5c983",
+          "titulo": "UEFA demands FIFA release key documents on World Cup sell-off plan",
+          "url": "https://www.aljazeera.com/sports/2026/10/20/uefa-demands-fifa-release-key-documents-on-world-cup-sell-off-plan?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 20 Oct 2026 08:24:43 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_cb893c3a39",
+          "titulo": "UEFA writes to FIFA demanding answers on Trump-Infantino dealings",
+          "url": "https://news.sky.com/story/uefa-writes-to-fifa-demanding-answers-on-trump-infantino-dealings-13601000",
+          "fuente": "Sky News World",
+          "fecha": "Mon, 19 Oct 2026 15:05:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-20_0011",
+      "fecha": "2026-10-20",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Disney buscaría adquirir tecnología de Character.AI mediante una quiebra que evite demandas",
+        "en": "Disney reportedly seeks to acquire Character.AI tech via bankruptcy to avoid lawsuits"
+      },
+      "sintesis": {
+        "es": "Según informes, Disney negocia una estrategia para adquirir activos de tecnología y propiedad intelectual de Character.AI, incluyendo herramientas de seguridad, a través de un proceso de bancarrota que le permitiría evitar las demandas que enfrenta la startup. Decenas de estados en EE.UU. acusan a los chatbots de la compañía de incitar a menores a autolesionarse y a dañar a sus padres. La operación busca separar los activos valiosos de las responsabilidades legales pendientes.",
+        "en": "Disney is reportedly negotiating a strategy to acquire Character.AI's technology and IP assets, including safety tools, through a bankruptcy process that would let it avoid the startup's ongoing lawsuits. Dozens of US states allege the company's chatbots encouraged minors to self-harm and harm their parents. The deal aims to separate valuable assets from pending legal liabilities."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Disney",
+        "Character.AI"
+      ],
+      "geo": {
+        "lat": 37.09024,
+        "lon": -95.712891,
+        "region": "Estados Unidos"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_864174f653",
+        "ev_e0559f68fc"
+      ],
+      "cluster_id": "cl_689",
+      "imagenes": [
+        "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
+        "https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_864174f653",
+          "titulo": "Disney found a way to buy Character.AI without buying its lawsuits",
+          "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+          "fuente": "Ars Technica",
+          "fecha": "Mon, 19 Oct 2026 14:45:43 +0000",
+          "idioma": "en"
+        },
+        {
+          "id": "ev_e0559f68fc",
+          "titulo": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+          "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+          "fuente": "WIRED",
+          "fecha": "Mon, 19 Oct 2026 09:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-20_0012",
+      "fecha": "2026-10-20",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Exempleado de OpenAI acusado de colocar un dispositivo de grabacion es retenido sin fianza tras oferta de pago del gobierno saudi",
+        "en": "Ex-OpenAI worker accused of planting bugging device held without bail after Saudi government offers to pay"
+      },
+      "sintesis": {
+        "es": "Abdulrahman Alfozan, ciudadano saudi y exempleado de OpenAI, fue acusado de colocar un dispositivo de grabacion en una sala de conferencias ejecutiva en la sede de la empresa en San Francisco. Un juez le denego la fianza despues de que el gobierno de Arabia Saudita se ofreciera a pagarla, lo que segun fiscales plantea riesgo de fuga.",
+        "en": "Abdulrahman Alfozan, a Saudi national and former OpenAI employee, is accused of planting a recording device in an executive conference room at the company's San Francisco headquarters. A judge denied him bail after the Saudi government offered to pay it, which prosecutors argue raises flight risk concerns."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Abdulrahman Alfozan",
+        "OpenAI",
+        "Gobierno de Arabia Saudita",
+        "Fiscalia de Estados Unidos"
+      ],
+      "geo": {
+        "lat": 37.7749,
+        "lon": -122.4194,
+        "region": "San Francisco, Estados Unidos"
       },
       "impacto": 42,
       "fuentes": [
-        "ev_4845fc53a9",
-        "ev_7e6e2dc94a"
+        "ev_aaa96287ac",
+        "ev_58795d5b8c"
       ],
-      "cluster_id": "cl_074",
+      "cluster_id": "cl_219",
       "imagenes": [
-        "https://s.france24.com/media/display/bbdce45a-cb14-11f1-8695-2d1c143cdef3/w:1024/p:16x9/Tesla-1.png",
-        "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Roadster_87-1152x648.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad18/live/95af9980-cbd2-11f1-aba9-2bb2608f11d9.png"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_4845fc53a9",
-          "titulo": "Elon Musk presenta su nuevo Tesla Roadster, un auto \"volador\"",
-          "url": "https://www.france24.com/es/video/20261018-elon-musk-presenta-su-nuevo-tesla-roadster-un-auto-volador",
-          "fuente": "France 24 Espanol",
-          "fecha": "Sun, 18 Oct 2026 17:05:17 GMT",
-          "idioma": "es"
+          "id": "ev_aaa96287ac",
+          "titulo": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World",
+          "fecha": "Mon, 19 Oct 2026 21:12:30 GMT",
+          "idioma": "en"
         },
         {
-          "id": "ev_7e6e2dc94a",
-          "titulo": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
-          "url": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
-          "fuente": "Ars Technica",
-          "fecha": "Fri, 16 Oct 2026 14:03:25 +0000",
+          "id": "ev_58795d5b8c",
+          "titulo": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
+          "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+          "fuente": "CNBC Top News",
+          "fecha": "Mon, 19 Oct 2026 20:54:40 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-19_0009",
-      "fecha": "2026-10-19",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Guardia Costera de EE.UU. rescata a 16 personas en el Pacífico frente a Baja California, México",
-        "en": "U.S. Coast Guard rescues 16 people in the Pacific off Baja California, Mexico"
-      },
-      "sintesis": {
-        "es": "La Guardia Costera de Estados Unidos lanzó una operación de rescate tras recibir un mensaje de socorro sobre una embarcación hundiéndose frente a la costa de Baja California, México. Se reportaron 27 personas en el agua, de las cuales 16 fueron rescatadas, una con presunta mordedura de tiburón, mientras 11 permanecen desaparecidas.",
-        "en": "The U.S. Coast Guard launched a major rescue operation after receiving a mayday call about a sinking vessel off the coast of Baja California, Mexico. Of 27 people reported in the water, 16 were rescued, one with a suspected shark bite, while 11 remain missing."
-      },
-      "categoria": "sociedad",
-      "actores": [
-        "U.S. Coast Guard",
-        "Mexico"
-      ],
-      "geo": {
-        "lat": 28.0,
-        "lon": -114.0,
-        "region": "Baja California, Mexico - Pacific Ocean"
-      },
-      "impacto": 35,
-      "fuentes": [
-        "ev_849837600c",
-        "ev_6acd9e2318"
-      ],
-      "cluster_id": "cl_367",
-      "imagenes": [
-        "https://static01.nyt.com/images/2026/10/16/multimedia/16xp-rescue-lvwf/16xp-rescue-lvwf-mediumSquareAt3X.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_849837600c",
-          "titulo": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
-          "url": "https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html",
-          "fuente": "NYT World",
-          "fecha": "Sat, 17 Oct 2026 15:15:38 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_6acd9e2318",
-          "titulo": "U.S. Coast Guard rescues 16 people floating in the Pacific, including one with suspected shark bite",
-          "url": "https://www.cbc.ca/news/world/mexico-ocean-rescue-coast-guard-9.7383598?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Fri, 16 Oct 2026 12:23:15 EDT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-19_0010",
-      "fecha": "2026-10-19",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "1 in 4 Ebola deaths are children in Democratic Republic of Congo's worst outbreak",
-        "en": "1 in 4 Ebola deaths are children in Democratic Republic of Congo's worst outbreak"
-      },
-      "sintesis": {
-        "es": "The Democratic Republic of Congo is battling its deadliest outbreak of Ebola, caused by a rare strain with no approved treatment. With children losing parents, facing an estimated 60 per cent fatality rate and making up more than a quarter of deaths, experts say children are taking the brunt of the disease.",
-        "en": "The Democratic Republic of Congo is battling its deadliest outbreak of Ebola, caused by a rare strain with no approved treatment. With children losing parents, facing an estimated 60 per cent fatality rate and making up more than a quarter of deaths, experts say children are taking the brunt of the disease."
-      },
-      "categoria": "salud",
-      "actores": [
-        "Ebola",
-        "Democratic Republic",
-        "Congo",
-        "Dead"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 35,
-      "fuentes": [
-        "ev_f44822e6ad",
-        "ev_ecd71b1221"
-      ],
-      "cluster_id": "cl_422",
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f44822e6ad",
-          "titulo": "1 in 4 Ebola deaths are children in Democratic Republic of Congo's worst outbreak",
-          "url": "https://www.cbc.ca/news/health/ebola-congo-children-deaths-9.7384641?cmp=rss",
-          "fuente": "CBC World",
-          "fecha": "Sat, 17 Oct 2026 04:00:00 EDT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_ecd71b1221",
-          "titulo": "Dead and injured following attacks on Ebola responders in the Democratic Republic of the Congo",
-          "url": "https://www.who.int/news/item/28-11-2019-dead-and-injured-following-attacks-on-ebola-responders-in-the-democratic-republic-of-the-congo",
-          "fuente": "WHO News",
-          "fecha": "Thu, 28 Nov 2019 11:54:47 Z",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-19_0011",
-      "fecha": "2026-10-19",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Reseñas destacan el nuevo Surface Laptop Ultra de Microsoft como competidor de MacBook Pro",
-        "en": "Reviews highlight Microsoft's new Surface Laptop Ultra as a MacBook Pro competitor"
-      },
-      "sintesis": {
-        "es": "Medios tecnologicos publicaron reseñas del nuevo Surface Laptop Ultra de Microsoft, destacandolo como una laptop orientada a desarrollo, IA y gaming. Las criticas coinciden en que es el competidor mas cercano a la MacBook Pro hasta la fecha, aunque senalan la duracion de bateria como su principal debilidad.",
-        "en": "Tech outlets published reviews of Microsoft's new Surface Laptop Ultra, highlighting it as a laptop aimed at development, AI, and gaming. Critics agree it is the closest competitor to the MacBook Pro yet, though they note battery life as its main weakness."
-      },
-      "categoria": "innovacion",
-      "actores": [
-        "Microsoft",
-        "Apple",
-        "Ars Technica",
-        "WIRED"
-      ],
-      "geo": {
-        "lat": 47.6062,
-        "lon": -122.3321,
-        "region": "Estados Unidos"
-      },
-      "impacto": 35,
-      "fuentes": [
-        "ev_6c78ec4b7e",
-        "ev_2c22cae92c"
-      ],
-      "cluster_id": "cl_669",
-      "imagenes": [
-        "https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg",
-        "https://media.wired.com/photos/6ad13db2947d3d6c92ec6bb7/master/pass/Review%20Surface%20Laptop%20Ultra%20102026%20top%20art%20SOURCE%20BH%20Photo.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_6c78ec4b7e",
-          "titulo": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
-          "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
-          "fuente": "Ars Technica",
-          "fecha": "Fri, 16 Oct 2026 12:00:05 +0000",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_2c22cae92c",
-          "titulo": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
-          "url": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
-          "fuente": "WIRED",
-          "fecha": "Fri, 16 Oct 2026 13:00:00 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-19_0012",
-      "fecha": "2026-10-19",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Bolsonaro se lanza contra Lula en un primer debate muy bronco",
-        "en": "Brazil's Lula, Bolsonaro clash in bitter debate ahead of election run-off"
-      },
-      "sintesis": {
-        "es": "El presidente brasileño, con un mensaje más sofisticado, choca contra las ideas más directas del senador ultra",
-        "en": "Brazilian President Luiz Inacio Lula da Silva and right-wing senator Flavio Bolsonaro traded personal attacks in a heated presidential debate on Sunday, a week before a closely contested run-off. The rivals accused each other of lying and corruption while clashing over the economy, security and healthcare ahead of the October 25 vote."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Bolsonaro",
-        "Lula",
-        "Brazil"
-      ],
-      "geo": {
-        "lat": -14.2,
-        "lon": -51.9,
-        "region": "Sudamerica"
-      },
-      "impacto": 58,
-      "fuentes": [
-        "ev_ee33a3ee60",
-        "ev_03967e8a85",
-        "ev_e512e4f3c1"
-      ],
-      "cluster_id": "cl_042",
-      "imagenes": [
-        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261019/1226997_080000_video_1800.mp4",
-        "https://s.france24.com/media/display/bb634d24-cb65-11f1-950d-6313a763b466/w:1024/p:16x9/67f4a5def68caac4535e07c4b807d8481ff0047aw.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ee33a3ee60",
-          "titulo": "Bolsonaro se lanza contra Lula en un primer debate muy bronco",
-          "url": "https://elpais.com/america/2026-10-19/bolsonaro-se-lanza-contra-lula-en-un-primer-debate-muy-bronco.html",
-          "fuente": "El Pais Internacional",
-          "fecha": "Mon, 19 Oct 2026 02:51:05 GMT",
-          "idioma": "es"
-        },
-        {
-          "id": "ev_03967e8a85",
-          "titulo": "Brazil's Lula, Bolsonaro clash in bitter debate ahead of election run-off",
-          "url": "https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff",
-          "fuente": "France 24 English",
-          "fecha": "Mon, 19 Oct 2026 03:42:25 GMT",
-          "idioma": "en"
-        },
-        {
-          "id": "ev_e512e4f3c1",
-          "titulo": "Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate",
-          "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 19 Oct 2026 04:27:00 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-19_0013",
-      "fecha": "2026-10-19",
-      "kardashev": "K1",
+      "id": "nd_2026-10-20_0013",
+      "fecha": "2026-10-20",
+      "kardashev": "K2",
       "relaciones": []
     }
   ]

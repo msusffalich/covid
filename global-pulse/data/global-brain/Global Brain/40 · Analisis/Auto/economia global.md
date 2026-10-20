@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-10-19
-nodos: 33
+actualizado: 2026-10-20
+nodos: 32
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-19. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-20. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-33 nodos registrados en el periodo. Lo mas reciente: Trump suaviza sanciones a Rusia mientras Putin propone cumbre con EE.UU. y China mientras evita a Zelenskyy.
+32 nodos registrados en el periodo. Lo mas reciente: Zelenski se reúne con enviado de Trump en Oslo antes de conversaciones con Putin en Moscú.
 
 ## Trend summary (EN)
-33 nodes recorded in the period. Most recent: Trump eases sanctions on Russia as Putin seeks summit with US and China while avoiding Zelenskyy.
+32 nodes recorded in the period. Most recent: Zelenskyy meets Trump envoy in Oslo ahead of planned Putin talks in Moscow.
 
 > [!note] Estado actual
-> Trump suaviza sanciones a Rusia mientras Putin propone cumbre con EE.UU. y China mientras evita a Zelenskyy
+> Zelenski se reúne con enviado de Trump en Oslo antes de conversaciones con Putin en Moscú
 
-## Nodos recientes (33 en la ventana)
+## Nodos recientes (32 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-20 | 72 | K2 | Zelenski se reúne con enviado de Trump en Oslo antes de conversa |
+| 2026-10-20 | 45 | K1 | Incendio mortal en base militar canadiense en Alberta deja cuatr |
 | 2026-10-19 | 78 | K1 | Trump suaviza sanciones a Rusia mientras Putin propone cumbre co |
 | 2026-10-19 | 70 | K1 | Ucrania lanza más de 1.000 drones contra Rusia, incendiando inst |
 | 2026-10-19 | 45 | K1 | Incendio mortal en base militar canadiense deja cuatro muertos y |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-10-15 | 55 | K1 | Ingeniero saudí de OpenAI arrestado por espionaje tras hallar un |
 | 2026-10-14 | 87 | K1 | Cómo los conflictos globales se han convertido en un dolor de ca |
 | 2026-10-14 | 83 | K0 | 12 U.S. senators, including 6 Republicans, tell Trump to drop di |
-| 2026-10-14 | 68 | K1 | ASML reporta ventas récord y advierte que la demanda de IA super |
-| 2026-10-14 | 55 | K2 | Apple lanza HomeView, su primera pantalla inteligente, y relanza |
 
 [[Global Brain — Inicio|← Inicio]]

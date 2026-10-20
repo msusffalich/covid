@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-19
-nodos: 28
+actualizado: 2026-10-20
+nodos: 27
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-19. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-20. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-28 nodos registrados en el periodo. Lo mas reciente: Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita.
+27 nodos registrados en el periodo. Lo mas reciente: Ataque con misiles hutíes mata a decenas de reclutas en un campo de entrenamiento en Yemen.
 
 ## Trend summary (EN)
-28 nodes recorded in the period. Most recent: Houthis escalate attacks on Aden and Saudi oil targets.
+27 nodes recorded in the period. Most recent: Houthi missile strike kills dozens of recruits at training camp in Yemen.
 
 > [!note] Estado actual
-> Hutíes escalan ataques contra Adén y objetivos petroleros en Arabia Saudita
+> Ataque con misiles hutíes mata a decenas de reclutas en un campo de entrenamiento en Yemen
 
-## Nodos recientes (28 en la ventana)
+## Nodos recientes (27 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-20 | 65 | K1 | Ataque con misiles hutíes mata a decenas de reclutas en un campo |
 | 2026-10-16 | 68 | K1 | Hutíes escalan ataques contra Adén y objetivos petroleros en Ara |
 | 2026-10-15 | 82 | K1 | Buques portacontenedores se hunden cerca del estrecho de Ormuz e |
 | 2026-10-15 | 72 | K1 | Hutíes atacan instalaciones de Aramco y objetivos en Riad en med |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-13 | 68 | K1 | El FMI advierte que la economía global pone a prueba sus límites |
 | 2026-10-13 | 49 | K0 | Why is it so hard to fight the Houthis? |
 | 2026-10-12 | 95 | K1 | Guterres condena el ataque de los hutíes contra el aeropuerto de |
-| 2026-10-12 | 54 | K1 | El Niño gana fuerza en América Latina: sequía, hambre y riesgo d |
 
 [[Global Brain — Inicio|← Inicio]]

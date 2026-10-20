@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-19
-nodos: 32
+actualizado: 2026-10-20
+nodos: 30
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-19. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-20. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-32 nodos registrados en el periodo. Lo mas reciente: Trump suaviza sanciones a Rusia mientras Putin propone cumbre con EE.UU. y China mientras evita a Zelenskyy.
+30 nodos registrados en el periodo. Lo mas reciente: Zelenski se reúne con enviado de Trump en Oslo antes de conversaciones con Putin en Moscú.
 
 ## Trend summary (EN)
-32 nodes recorded in the period. Most recent: Trump eases sanctions on Russia as Putin seeks summit with US and China while avoiding Zelenskyy.
+30 nodes recorded in the period. Most recent: Zelenskyy meets Trump envoy in Oslo ahead of planned Putin talks in Moscow.
 
 > [!note] Estado actual
-> Trump suaviza sanciones a Rusia mientras Putin propone cumbre con EE.UU. y China mientras evita a Zelenskyy
+> Zelenski se reúne con enviado de Trump en Oslo antes de conversaciones con Putin en Moscú
 
-## Nodos recientes (32 en la ventana)
+## Nodos recientes (30 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-20 | 72 | K2 | Zelenski se reúne con enviado de Trump en Oslo antes de conversa |
 | 2026-10-19 | 78 | K1 | Trump suaviza sanciones a Rusia mientras Putin propone cumbre co |
 | 2026-10-19 | 70 | K1 | Ucrania lanza más de 1.000 drones contra Rusia, incendiando inst |
 | 2026-10-18 | 78 | K1 | Trump exime a Rusia de nuevas sanciones del Congreso pese a crít |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-17 | 45 | K1 | El Vaticano difunde las primeras imágenes del Papa León XIV tras |
 | 2026-10-16 | 62 | K2 | Ucrania busca alternativas europeas a defensas aéreas de EE.UU.  |
 | 2026-10-15 | 47 | K0 | El Tesoro estadounidense multa a Bank of America con 1.200 millo |
-| 2026-10-14 | 87 | K1 | Cómo los conflictos globales se han convertido en un dolor de ca |
 
 [[Global Brain — Inicio|← Inicio]]
