@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-10-20
-nodos: 16
+actualizado: 2026-10-21
+nodos: 14
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-16 nodos registrados en el periodo. Lo mas reciente: Nvidia y el canciller alemán Merz impulsan un pacto de IA para acelerar la adopción tecnológica en Alemania.
+14 nodos registrados en el periodo. Lo mas reciente: Elon Musk plantea una posible fusión histórica entre Tesla y SpaceX.
 
 ## Trend summary (EN)
-16 nodes recorded in the period. Most recent: Nvidia and German Chancellor Merz push AI pact to accelerate tech adoption in Germany.
+14 nodes recorded in the period. Most recent: Elon Musk floats possible historic merger between Tesla and SpaceX.
 
 > [!note] Estado actual
-> Nvidia y el canciller alemán Merz impulsan un pacto de IA para acelerar la adopción tecnológica en Alemania
+> Elon Musk plantea una posible fusión histórica entre Tesla y SpaceX
 
-## Nodos recientes (16 en la ventana)
+## Nodos recientes (14 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-21 | 78 | K2 | Elon Musk plantea una posible fusión histórica entre Tesla y Spa |
 | 2026-10-20 | 55 | K1 | Nvidia y el canciller alemán Merz impulsan un pacto de IA para a |
 | 2026-10-20 | 45 | K1 | Disney buscaría adquirir tecnología de Character.AI mediante una |
 | 2026-10-20 | 42 | K2 | Exempleado de OpenAI acusado de colocar un dispositivo de grabac |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-09 | 55 | K0 | OpenAI despide a tres investigadores de seguridad en medio de du |
 | 2026-10-08 | 70 | K1 | Samsung y TSMC marcan beneficios e ingresos récord impulsados po |
 | 2026-10-02 | 74 | K0 | Las nuevas normas del ICE suavizan las actuaciones del cuerpo pa |
-| 2026-10-01 | 70 | K0 | China levanta una nueva muralla hacia dentro para retener a func |
 
 [[Global Brain — Inicio|← Inicio]]

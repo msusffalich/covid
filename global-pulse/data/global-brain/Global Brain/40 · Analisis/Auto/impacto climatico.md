@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-20
+actualizado: 2026-10-21
 nodos: 20
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 20 nodos registrados en el periodo. Lo mas reciente: Inundaciones en el este de España dejan cuatro muertos.

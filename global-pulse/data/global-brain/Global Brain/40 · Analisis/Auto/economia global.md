@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-10-20
-nodos: 32
+actualizado: 2026-10-21
+nodos: 35
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-32 nodos registrados en el periodo. Lo mas reciente: Zelenski se reúne con enviado de Trump en Oslo antes de conversaciones con Putin en Moscú.
+35 nodos registrados en el periodo. Lo mas reciente: Elon Musk plantea una posible fusión histórica entre Tesla y SpaceX.
 
 ## Trend summary (EN)
-32 nodes recorded in the period. Most recent: Zelenskyy meets Trump envoy in Oslo ahead of planned Putin talks in Moscow.
+35 nodes recorded in the period. Most recent: Elon Musk floats possible historic merger between Tesla and SpaceX.
 
 > [!note] Estado actual
-> Zelenski se reúne con enviado de Trump en Oslo antes de conversaciones con Putin en Moscú
+> Elon Musk plantea una posible fusión histórica entre Tesla y SpaceX
 
-## Nodos recientes (32 en la ventana)
+## Nodos recientes (35 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-21 | 78 | K2 | Elon Musk plantea una posible fusión histórica entre Tesla y Spa |
+| 2026-10-21 | 68 | K0 | Reino Unido desplegará cazas Typhoon para proteger a Arabia Saud |
+| 2026-10-21 | 45 | K1 | Demanda contra Trump por aranceles del 50% a Canadá |
 | 2026-10-20 | 72 | K2 | Zelenski se reúne con enviado de Trump en Oslo antes de conversa |
 | 2026-10-20 | 45 | K1 | Incendio mortal en base militar canadiense en Alberta deja cuatr |
 | 2026-10-19 | 78 | K1 | Trump suaviza sanciones a Rusia mientras Putin propone cumbre co |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-10-16 | 62 | K1 | El BCE autoriza a UniCredit a tomar el control de Commerzbank |
 | 2026-10-15 | 82 | K1 | Buques portacontenedores se hunden cerca del estrecho de Ormuz e |
 | 2026-10-15 | 72 | K1 | Escalada entre Arabia Saudita y los hutíes: ataques a depósitos  |
-| 2026-10-15 | 55 | K1 | Ingeniero saudí de OpenAI arrestado por espionaje tras hallar un |
-| 2026-10-14 | 87 | K1 | Cómo los conflictos globales se han convertido en un dolor de ca |
-| 2026-10-14 | 83 | K0 | 12 U.S. senators, including 6 Republicans, tell Trump to drop di |
 
 [[Global Brain — Inicio|← Inicio]]

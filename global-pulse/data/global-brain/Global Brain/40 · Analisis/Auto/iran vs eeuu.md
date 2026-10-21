@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-20
-nodos: 27
+actualizado: 2026-10-21
+nodos: 29
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-27 nodos registrados en el periodo. Lo mas reciente: Ataque con misiles hutíes mata a decenas de reclutas en un campo de entrenamiento en Yemen.
+29 nodos registrados en el periodo. Lo mas reciente: Reino Unido desplegará cazas Typhoon para proteger a Arabia Saudita de ataques hutíes.
 
 ## Trend summary (EN)
-27 nodes recorded in the period. Most recent: Houthi missile strike kills dozens of recruits at training camp in Yemen.
+29 nodes recorded in the period. Most recent: UK to deploy Typhoon fighter jets to protect Saudi Arabia from Houthi attacks.
 
 > [!note] Estado actual
-> Ataque con misiles hutíes mata a decenas de reclutas en un campo de entrenamiento en Yemen
+> Reino Unido desplegará cazas Typhoon para proteger a Arabia Saudita de ataques hutíes
 
-## Nodos recientes (27 en la ventana)
+## Nodos recientes (29 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-21 | 68 | K0 | Reino Unido desplegará cazas Typhoon para proteger a Arabia Saud |
+| 2026-10-21 | 62 | K1 | Ataque con misiles hutíes contra campo de entrenamiento en Yemen |
 | 2026-10-20 | 65 | K1 | Ataque con misiles hutíes mata a decenas de reclutas en un campo |
 | 2026-10-16 | 68 | K1 | Hutíes escalan ataques contra Adén y objetivos petroleros en Ara |
 | 2026-10-15 | 82 | K1 | Buques portacontenedores se hunden cerca del estrecho de Ormuz e |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-10-14 | 55 | K0 | Bank of America es multado con 1.200 millones de dólares por fal |
 | 2026-10-13 | 78 | K1 | Los hutíes intensifican ataques con misiles contra el aeropuerto |
 | 2026-10-13 | 68 | K1 | El FMI advierte que la economía global pone a prueba sus límites |
-| 2026-10-13 | 49 | K0 | Why is it so hard to fight the Houthis? |
-| 2026-10-12 | 95 | K1 | Guterres condena el ataque de los hutíes contra el aeropuerto de |
 
 [[Global Brain — Inicio|← Inicio]]
