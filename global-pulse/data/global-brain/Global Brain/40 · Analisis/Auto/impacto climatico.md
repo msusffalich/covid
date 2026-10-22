@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-21
-nodos: 20
+actualizado: 2026-10-22
+nodos: 19
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-21. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-22. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: Inundaciones en el este de España dejan cuatro muertos.
+19 nodos registrados en el periodo. Lo mas reciente: Inundaciones en el este de España dejan cuatro muertos.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: Floods in eastern Spain leave four dead.
+19 nodes recorded in the period. Most recent: Floods in eastern Spain leave four dead.
 
 > [!note] Estado actual
 > Inundaciones en el este de España dejan cuatro muertos
 
-## Nodos recientes (20 en la ventana)
+## Nodos recientes (19 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-20 | 55 | K1 | Inundaciones en el este de España dejan cuatro muertos |

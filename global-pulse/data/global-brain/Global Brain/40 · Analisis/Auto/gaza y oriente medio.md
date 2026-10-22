@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-10-21
-nodos: 22
+actualizado: 2026-10-22
+nodos: 21
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-21. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-22. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-22 nodos registrados en el periodo. Lo mas reciente: Falta de fondos obliga al PMA a recortar la ayuda alimentaria en Gaza.
+21 nodos registrados en el periodo. Lo mas reciente: Falta de fondos obliga al PMA a recortar la ayuda alimentaria en Gaza.
 
 ## Trend summary (EN)
-22 nodes recorded in the period. Most recent: Funding shortfall forces WFP to cut food aid in Gaza.
+21 nodes recorded in the period. Most recent: Funding shortfall forces WFP to cut food aid in Gaza.
 
 > [!note] Estado actual
 > Falta de fondos obliga al PMA a recortar la ayuda alimentaria en Gaza
 
-## Nodos recientes (22 en la ventana)
+## Nodos recientes (21 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-20 | 68 | K1 | Falta de fondos obliga al PMA a recortar la ayuda alimentaria en |

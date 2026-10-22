@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-21
-nodos: 29
+actualizado: 2026-10-22
+nodos: 28
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-21. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-22. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-29 nodos registrados en el periodo. Lo mas reciente: Enviado de Trump viaja a Rusia para reunirse con Putin tras conversaciones con Zelenski.
+28 nodos registrados en el periodo. Lo mas reciente: Enviado de Trump viaja a Rusia para reunirse con Putin tras conversaciones con Zelenski.
 
 ## Trend summary (EN)
-29 nodes recorded in the period. Most recent: Trump's envoy travels to Russia to meet Putin after talks with Zelensky.
+28 nodes recorded in the period. Most recent: Trump's envoy travels to Russia to meet Putin after talks with Zelensky.
 
 > [!note] Estado actual
 > Enviado de Trump viaja a Rusia para reunirse con Putin tras conversaciones con Zelenski
 
-## Nodos recientes (29 en la ventana)
+## Nodos recientes (28 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-21 | 68 | K0 | Enviado de Trump viaja a Rusia para reunirse con Putin tras conv |
