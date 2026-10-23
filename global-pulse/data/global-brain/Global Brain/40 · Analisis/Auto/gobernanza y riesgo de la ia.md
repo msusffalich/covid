@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-10-22
-nodos: 13
+actualizado: 2026-10-23
+nodos: 12
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-22. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-23. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-13 nodos registrados en el periodo. Lo mas reciente: Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI.
+12 nodos registrados en el periodo. Lo mas reciente: Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI.
 
 ## Trend summary (EN)
-13 nodes recorded in the period. Most recent: Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI.
+12 nodes recorded in the period. Most recent: Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI.
 
 > [!note] Estado actual
 > Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI
 
-## Nodos recientes (13 en la ventana)
+## Nodos recientes (12 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-22 | 66 | K1 | Canadian publisher Boréal ends relationship with novelist Thélys |

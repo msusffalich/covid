@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-10-22T10:21:28.693679+00:00",
+    "generado": "2026-10-23T10:09:52.524589+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 29,
-      "ultima_fecha": "2026-10-22",
+      "n_nodos": 31,
+      "ultima_fecha": "2026-10-23",
       "resumen": {
-        "es": "29 nodos registrados en el periodo. Lo mas reciente: Kenichi Yoda, Princesa de Asturias de Comunicación y Humanidades: \"Ghibli está marcadamente ligado a su época\".",
-        "en": "29 nodes recorded in the period. Most recent: Kenichi Yoda, Princess of Asturias laureate: \"Ghibli is closely tied to its time\"."
+        "es": "31 nodos registrados en el periodo. Lo mas reciente: Ataques en el estrecho de Ormuz disparan el precio del petróleo a máximos de cinco meses.",
+        "en": "31 nodes recorded in the period. Most recent: Attacks in the Strait of Hormuz push oil prices to five-month high."
       },
       "estado": {
-        "es": "Kenichi Yoda, Princesa de Asturias de Comunicación y Humanidades: \"Ghibli está marcadamente ligado a su época\"",
-        "en": "Kenichi Yoda, Princess of Asturias laureate: \"Ghibli is closely tied to its time\""
+        "es": "Ataques en el estrecho de Ormuz disparan el precio del petróleo a máximos de cinco meses",
+        "en": "Attacks in the Strait of Hormuz push oil prices to five-month high"
       },
       "serie": [
-        {
-          "fecha": "2026-10-02",
-          "max": 95,
-          "n": 1
-        },
         {
           "fecha": "2026-10-04",
           "max": 95,
@@ -108,9 +103,50 @@
           "fecha": "2026-10-22",
           "max": 50,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-23",
+          "max": 78,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-23",
+          "titulo": {
+            "es": "Ataques en el estrecho de Ormuz disparan el precio del petróleo a máximos de cinco meses",
+            "en": "Attacks in the Strait of Hormuz push oil prices to five-month high"
+          },
+          "impacto": 78,
+          "categoria": "geopolitica",
+          "kardashev": "K2",
+          "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+          "fuente": "The Guardian World"
+        },
+        {
+          "fecha": "2026-10-23",
+          "titulo": {
+            "es": "EEUU ordena evacuar diplomáticos de Arabia Saudí y otros países del Golfo ante escalada de ataques hutíes",
+            "en": "US orders evacuation of diplomats from Saudi Arabia and other Gulf states amid escalating Houthi attacks"
+          },
+          "impacto": 75,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.elmundo.es/internacional/2026/10/21/6ad92bc521efa0dd0c8b458d.html",
+          "fuente": "El Mundo Internacional"
+        },
+        {
+          "fecha": "2026-10-23",
+          "titulo": {
+            "es": "Meta llega a un acuerdo para compensar a Zuckerberg ante posible impuesto a la riqueza en California",
+            "en": "Meta strikes deal to compensate Zuckerberg over potential California wealth tax"
+          },
+          "impacto": 45,
+          "categoria": "economia",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News World"
+        },
         {
           "fecha": "2026-10-22",
           "titulo": {
@@ -218,42 +254,6 @@
           "kardashev": "K1",
           "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
           "fuente": "The Guardian World"
-        },
-        {
-          "fecha": "2026-10-15",
-          "titulo": {
-            "es": "El Tesoro estadounidense multa a Bank of America con 1.200 millones de dólares",
-            "en": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos"
-          },
-          "impacto": 47,
-          "categoria": "tecnologia",
-          "kardashev": "K0",
-          "url": "https://www.elmundo.es/internacional/2026/10/13/6ace9a48fc6c831f2e8b459f.html",
-          "fuente": "El Mundo Internacional"
-        },
-        {
-          "fecha": "2026-10-14",
-          "titulo": {
-            "es": "Bank of America es multado con 1.200 millones de dólares por fallos contra el blanqueo de capitales",
-            "en": "Bank of America fined $1.2 billion over money-laundering failures"
-          },
-          "impacto": 55,
-          "categoria": "economia",
-          "kardashev": "K0",
-          "url": "https://es.euronews.com/2026/10/14/fallos-contra-el-blanqueo-de-capitales-cuestan-a-bank-of-america-1200-millones-de-dolares",
-          "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-13",
-          "titulo": {
-            "es": "Los hutíes intensifican ataques con misiles contra el aeropuerto de Riad en Arabia Saudita",
-            "en": "Houthis escalate missile attacks on Riyadh airport in Saudi Arabia"
-          },
-          "impacto": 78,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
         }
       ]
     },
@@ -264,15 +264,15 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 28,
-      "ultima_fecha": "2026-10-21",
+      "n_nodos": 29,
+      "ultima_fecha": "2026-10-23",
       "resumen": {
-        "es": "28 nodos registrados en el periodo. Lo mas reciente: Enviado de Trump viaja a Rusia para reunirse con Putin tras conversaciones con Zelenski.",
-        "en": "28 nodes recorded in the period. Most recent: Trump's envoy travels to Russia to meet Putin after talks with Zelensky."
+        "es": "29 nodos registrados en el periodo. Lo mas reciente: El giro de Trump hacia Putin genera inquietud política en EE.UU. y Europa.",
+        "en": "29 nodes recorded in the period. Most recent: Trump's pivot toward Putin stirs political unease in the US and Europe."
       },
       "estado": {
-        "es": "Enviado de Trump viaja a Rusia para reunirse con Putin tras conversaciones con Zelenski",
-        "en": "Trump's envoy travels to Russia to meet Putin after talks with Zelensky"
+        "es": "El giro de Trump hacia Putin genera inquietud política en EE.UU. y Europa",
+        "en": "Trump's pivot toward Putin stirs political unease in the US and Europe"
       },
       "serie": [
         {
@@ -354,9 +354,26 @@
           "fecha": "2026-10-21",
           "max": 68,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-23",
+          "max": 72,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-23",
+          "titulo": {
+            "es": "El giro de Trump hacia Putin genera inquietud política en EE.UU. y Europa",
+            "en": "Trump's pivot toward Putin stirs political unease in the US and Europe"
+          },
+          "impacto": 72,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/us/2026-10-22/el-coqueteo-de-trump-con-putin-incomoda-a-los-candidatos-republicanos-en-la-recta-final-de-las-midterms.html",
+          "fuente": "El Pais Internacional"
+        },
         {
           "fecha": "2026-10-21",
           "titulo": {
@@ -488,18 +505,6 @@
           "kardashev": "K1",
           "url": "https://elpais.com/internacional/2026-10-16/el-nuevo-parte-medico-del-papa-confirma-una-mejoria-constante-tres-dias-despues-de-su-operacion.html",
           "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-10-16",
-          "titulo": {
-            "es": "Ucrania busca alternativas europeas a defensas aéreas de EE.UU. y Starlink ante tensiones con Washington",
-            "en": "Ukraine seeks European alternatives to US air defences and Starlink amid tensions with Washington"
-          },
-          "impacto": 62,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://es.euronews.com/2026/10/16/ucrania-impulsa-opciones-europeas-a-defensas-aereas-de-eeuu-y-starlink-ante-tension-con-wa",
-          "fuente": "Euronews Espanol"
         }
       ]
     },
@@ -510,22 +515,17 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 21,
+      "n_nodos": 18,
       "ultima_fecha": "2026-10-20",
       "resumen": {
-        "es": "21 nodos registrados en el periodo. Lo mas reciente: Falta de fondos obliga al PMA a recortar la ayuda alimentaria en Gaza.",
-        "en": "21 nodes recorded in the period. Most recent: Funding shortfall forces WFP to cut food aid in Gaza."
+        "es": "18 nodos registrados en el periodo. Lo mas reciente: Falta de fondos obliga al PMA a recortar la ayuda alimentaria en Gaza.",
+        "en": "18 nodes recorded in the period. Most recent: Funding shortfall forces WFP to cut food aid in Gaza."
       },
       "estado": {
         "es": "Falta de fondos obliga al PMA a recortar la ayuda alimentaria en Gaza",
         "en": "Funding shortfall forces WFP to cut food aid in Gaza"
       },
       "serie": [
-        {
-          "fecha": "2026-10-02",
-          "max": 95,
-          "n": 3
-        },
         {
           "fecha": "2026-10-03",
           "max": 83,
@@ -751,22 +751,17 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 13,
+      "n_nodos": 12,
       "ultima_fecha": "2026-10-22",
       "resumen": {
-        "es": "13 nodos registrados en el periodo. Lo mas reciente: Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI.",
-        "en": "13 nodes recorded in the period. Most recent: Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI."
+        "es": "12 nodos registrados en el periodo. Lo mas reciente: Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI.",
+        "en": "12 nodes recorded in the period. Most recent: Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI."
       },
       "estado": {
         "es": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
         "en": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI"
       },
       "serie": [
-        {
-          "fecha": "2026-10-02",
-          "max": 74,
-          "n": 1
-        },
         {
           "fecha": "2026-10-08",
           "max": 70,
@@ -962,15 +957,15 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 19,
-      "ultima_fecha": "2026-10-20",
+      "n_nodos": 20,
+      "ultima_fecha": "2026-10-23",
       "resumen": {
-        "es": "19 nodos registrados en el periodo. Lo mas reciente: Inundaciones en el este de España dejan cuatro muertos.",
-        "en": "19 nodes recorded in the period. Most recent: Floods in eastern Spain leave four dead."
+        "es": "20 nodos registrados en el periodo. Lo mas reciente: Estudio: el calor extremo de 2026 causó más de 50.000 muertes en Europa, dos tercios atribuibles al cambio climático.",
+        "en": "20 nodes recorded in the period. Most recent: Study: Extreme heat in 2026 killed over 50,000 in Europe, two-thirds attributed to climate change."
       },
       "estado": {
-        "es": "Inundaciones en el este de España dejan cuatro muertos",
-        "en": "Floods in eastern Spain leave four dead"
+        "es": "Estudio: el calor extremo de 2026 causó más de 50.000 muertes en Europa, dos tercios atribuibles al cambio climático",
+        "en": "Study: Extreme heat in 2026 killed over 50,000 in Europe, two-thirds attributed to climate change"
       },
       "serie": [
         {
@@ -1032,9 +1027,26 @@
           "fecha": "2026-10-20",
           "max": 55,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-23",
+          "max": 72,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-23",
+          "titulo": {
+            "es": "Estudio: el calor extremo de 2026 causó más de 50.000 muertes en Europa, dos tercios atribuibles al cambio climático",
+            "en": "Study: Extreme heat in 2026 killed over 50,000 in Europe, two-thirds attributed to climate change"
+          },
+          "impacto": 72,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
+          "fuente": "NPR News"
+        },
         {
           "fecha": "2026-10-20",
           "titulo": {
@@ -1166,18 +1178,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/c3x2wy1zw515o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-10-11",
-          "titulo": {
-            "es": "La tormenta tropical Simon pasa a ser un huracán de categoría 4 y apunta hacia México",
-            "en": "Category 4 Hurricane Simon barrels toward Mexico"
-          },
-          "impacto": 75,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/c6vg0ep71pxmo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -1188,22 +1188,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 35,
-      "ultima_fecha": "2026-10-22",
+      "n_nodos": 36,
+      "ultima_fecha": "2026-10-23",
       "resumen": {
-        "es": "35 nodos registrados en el periodo. Lo mas reciente: Informe desde San Salvador: Bukele desafía a pandillas de Haití y exige liberación de soldados.",
-        "en": "35 nodes recorded in the period. Most recent: El Salvador launches military operation in Haiti to free four kidnapped aviation technicians."
+        "es": "36 nodos registrados en el periodo. Lo mas reciente: Ataques en el estrecho de Ormuz disparan el precio del petróleo a máximos de cinco meses.",
+        "en": "36 nodes recorded in the period. Most recent: Attacks in the Strait of Hormuz push oil prices to five-month high."
       },
       "estado": {
-        "es": "Informe desde San Salvador: Bukele desafía a pandillas de Haití y exige liberación de soldados",
-        "en": "El Salvador launches military operation in Haiti to free four kidnapped aviation technicians"
+        "es": "Ataques en el estrecho de Ormuz disparan el precio del petróleo a máximos de cinco meses",
+        "en": "Attacks in the Strait of Hormuz push oil prices to five-month high"
       },
       "serie": [
-        {
-          "fecha": "2026-10-02",
-          "max": 95,
-          "n": 1
-        },
         {
           "fecha": "2026-10-03",
           "max": 81,
@@ -1278,9 +1273,38 @@
           "fecha": "2026-10-22",
           "max": 60,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-23",
+          "max": 78,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-23",
+          "titulo": {
+            "es": "Ataques en el estrecho de Ormuz disparan el precio del petróleo a máximos de cinco meses",
+            "en": "Attacks in the Strait of Hormuz push oil prices to five-month high"
+          },
+          "impacto": 78,
+          "categoria": "geopolitica",
+          "kardashev": "K2",
+          "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+          "fuente": "The Guardian World"
+        },
+        {
+          "fecha": "2026-10-23",
+          "titulo": {
+            "es": "Volvo Cars anuncia 2.500 despidos tras entrar en pérdidas trimestrales",
+            "en": "Volvo Cars announces 2,500 job cuts as it swings to quarterly loss"
+          },
+          "impacto": 52,
+          "categoria": "economia",
+          "kardashev": "K0",
+          "url": "https://es.euronews.com/2026/10/23/volvo-cars-anuncia-2500-despidos-tras-entrar-en-perdidas-trimestrales",
+          "fuente": "Euronews Espanol"
+        },
         {
           "fecha": "2026-10-22",
           "titulo": {
@@ -1400,30 +1424,6 @@
           "kardashev": "K1",
           "url": "https://www.france24.com/es/medio-oriente/20261015-yemen-rebeldes-hut%C3%ADes-atacan-el-palacio-presidencial-de-ad%C3%A9n-y-matan-a-dos-guardias",
           "fuente": "France 24 Espanol"
-        },
-        {
-          "fecha": "2026-10-16",
-          "titulo": {
-            "es": "El BCE autoriza a UniCredit a tomar el control de Commerzbank",
-            "en": "ECB authorizes UniCredit to take control of Commerzbank"
-          },
-          "impacto": 62,
-          "categoria": "economia",
-          "kardashev": "K1",
-          "url": "https://es.euronews.com/2026/10/15/unicredit-puede-tomar-el-control-de-commerzbank-tras-el-visto-bueno-del-bce",
-          "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-15",
-          "titulo": {
-            "es": "Buques portacontenedores se hunden cerca del estrecho de Ormuz en medio de un aumento de ataques iraníes",
-            "en": "Container ships sink near Strait of Hormuz amid surge in Iranian attacks"
-          },
-          "impacto": 82,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
-          "fuente": "The Guardian World"
         }
       ]
     }

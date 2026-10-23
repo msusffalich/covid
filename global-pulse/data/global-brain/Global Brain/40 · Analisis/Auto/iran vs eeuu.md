@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-22
-nodos: 29
+actualizado: 2026-10-23
+nodos: 31
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-22. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-23. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-29 nodos registrados en el periodo. Lo mas reciente: Kenichi Yoda, Princesa de Asturias de Comunicación y Humanidades: "Ghibli está marcadamente ligado a su época".
+31 nodos registrados en el periodo. Lo mas reciente: Ataques en el estrecho de Ormuz disparan el precio del petróleo a máximos de cinco meses.
 
 ## Trend summary (EN)
-29 nodes recorded in the period. Most recent: Kenichi Yoda, Princess of Asturias laureate: "Ghibli is closely tied to its time".
+31 nodes recorded in the period. Most recent: Attacks in the Strait of Hormuz push oil prices to five-month high.
 
 > [!note] Estado actual
-> Kenichi Yoda, Princesa de Asturias de Comunicación y Humanidades: "Ghibli está marcadamente ligado a su época"
+> Ataques en el estrecho de Ormuz disparan el precio del petróleo a máximos de cinco meses
 
-## Nodos recientes (29 en la ventana)
+## Nodos recientes (31 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-23 | 78 | K2 | Ataques en el estrecho de Ormuz disparan el precio del petróleo  |
+| 2026-10-23 | 75 | K1 | EEUU ordena evacuar diplomáticos de Arabia Saudí y otros países  |
+| 2026-10-23 | 45 | K1 | Meta llega a un acuerdo para compensar a Zuckerberg ante posible |
 | 2026-10-22 | 50 | K2 | Kenichi Yoda, Princesa de Asturias de Comunicación y Humanidades |
 | 2026-10-21 | 68 | K0 | Reino Unido desplegará cazas Typhoon para proteger a Arabia Saud |
 | 2026-10-21 | 62 | K1 | Ataque con misiles hutíes contra campo de entrenamiento en Yemen |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-10-15 | 72 | K1 | Hutíes atacan instalaciones de Aramco y objetivos en Riad en med |
 | 2026-10-15 | 72 | K1 | Escalada entre Arabia Saudita y los hutíes: ataques a depósitos  |
 | 2026-10-15 | 55 | K1 | Protestas estudiantiles violentas en Albania por costos educativ |
-| 2026-10-15 | 47 | K0 | El Tesoro estadounidense multa a Bank of America con 1.200 millo |
-| 2026-10-14 | 55 | K0 | Bank of America es multado con 1.200 millones de dólares por fal |
-| 2026-10-13 | 78 | K1 | Los hutíes intensifican ataques con misiles contra el aeropuerto |
 
 [[Global Brain — Inicio|← Inicio]]
