@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-23
+actualizado: 2026-10-24
 nodos: 20
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-23. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-24. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 20 nodos registrados en el periodo. Lo mas reciente: Estudio: el calor extremo de 2026 causó más de 50.000 muertes en Europa, dos tercios atribuibles al cambio climático.

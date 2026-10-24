@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-23
-nodos: 29
+actualizado: 2026-10-24
+nodos: 28
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-23. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-24. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-29 nodos registrados en el periodo. Lo mas reciente: El giro de Trump hacia Putin genera inquietud política en EE.UU. y Europa.
+28 nodos registrados en el periodo. Lo mas reciente: El giro de Trump hacia Putin genera inquietud política en EE.UU. y Europa.
 
 ## Trend summary (EN)
-29 nodes recorded in the period. Most recent: Trump's pivot toward Putin stirs political unease in the US and Europe.
+28 nodes recorded in the period. Most recent: Trump's pivot toward Putin stirs political unease in the US and Europe.
 
 > [!note] Estado actual
 > El giro de Trump hacia Putin genera inquietud política en EE.UU. y Europa
 
-## Nodos recientes (29 en la ventana)
+## Nodos recientes (28 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-23 | 72 | K1 | El giro de Trump hacia Putin genera inquietud política en EE.UU. |
