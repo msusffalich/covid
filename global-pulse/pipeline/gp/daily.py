@@ -84,7 +84,17 @@ La falta de documentos recolectados es cobertura insuficiente, no ausencia de no
     for block in result['content']:
         if block.get('type') == 'tool_use' and block.get('name') == 'entregar_resultado':
             value = block['input']
-            return json.loads(value) if isinstance(value, str) else value
+            value = json.loads(value) if isinstance(value, str) else value
+            # Some API-compatible responses wrap the complete JSON in one string field.
+            for field in value.values():
+                if isinstance(field, str):
+                    try:
+                        inner = decode_json(field)
+                        if set(properties).issubset(inner):
+                            return inner
+                    except ValueError:
+                        pass
+            return value
     text = ''.join(b.get('text', '') for b in result['content'])
     return decode_json(text)
 
@@ -137,7 +147,7 @@ Responde JSON {"hechos":[{"id":"ev_...","dimension":"...","titulo":{"es":"","en"
             raise ValueError('Un hecho no tiene la estructura requerida')
         p = by_id.get(f.get('id'))
         if not p or f['id'] in seen:
-            raise ValueError('Hecho sin evidencia o duplicado')
+            continue  # discard only the unanchored record; retain independently valid news
         source_dim = BY_ID[p['fuente_id']]['dimension']
         dim = f.get('dimension')
         allowed = set(DIMENSIONS) if BY_ID[p['fuente_id']].get('transversal') else ({'clima', 'tecnologia'} if p['fuente_id'].startswith('nasa') else {source_dim})
@@ -334,6 +344,11 @@ def run(log=print):
             state = None
             log('Actualizando la misma edición diaria con consultas ampliadas; se conserva la versión anterior.')
     if state is not None:
+        if state.get('motor_hechos') == 'extractivo':
+            state.pop('hechos_listos', None)
+            state.pop('analisis', None)
+            state.pop('motor_hechos', None)
+            state['publicado'] = False
         if state.get('publicado') and (config.DATA_DIR / f"pulse-{fecha.replace('-', '')}.json").exists():
             log('Corrida diaria ya completada; no se vuelve a recolectar ni sintetizar.')
             return json.loads((config.DATA_DIR / f"pulse-{fecha.replace('-', '')}.json").read_text(encoding='utf-8'))
@@ -371,6 +386,7 @@ def run(log=print):
     if not state.get('hechos_listos'):
         try:
             state['hechos'] = facts_for(state['piezas']) if state['piezas'] else []
+            state.pop('error_sintesis', None)
         except Exception as exc:
             state['error_sintesis'] = str(exc)[:250]
             state['hechos'] = extract_facts(state['piezas'])
