@@ -30,11 +30,14 @@ self.addEventListener('activate', (e) => {
 
 /** Red primero, cache como respaldo. Para lo que caduca: datos y HTML. */
 function redPrimero(peticion) {
+  const canonical = new URL(peticion.url)
+  if (canonical.pathname.includes('/data/')) canonical.search = ''
+  const cacheKey = canonical.href
   return fetch(peticion).then((res) => {
     const copia = res.clone()
-    caches.open(VERSION).then((c) => c.put(peticion, copia))
+    if (res.ok) caches.open(VERSION).then((c) => c.put(cacheKey, copia))
     return res
-  }).catch(() => caches.match(peticion).then((hit) => hit || caches.match('./index.html')))
+  }).catch(() => caches.match(cacheKey).then((hit) => hit || caches.match('./index.html')))
 }
 
 self.addEventListener('fetch', (e) => {

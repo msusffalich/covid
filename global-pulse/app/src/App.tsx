@@ -76,7 +76,7 @@ function Content() {
   // (boton). El pulso en si se regenera una vez al dia por el pipeline.
   const loadPulse = useCallback((force = false) => {
     setRefreshing(true)
-    fetch('./data/pulse-latest.json', force ? { cache: 'reload' } : undefined)
+    fetch(`./data/pulse-latest.json?v=${Date.now()}`, { cache: force ? 'reload' : 'no-cache' })
       .then((r) => r.json())
       .then((p: Pulse) => { setPulse(p); setError(false) })
       .catch(() => setPulse((prev) => { if (!prev) setError(true); return prev }))

@@ -10,6 +10,7 @@ def text(value):return str(value.get('es') or value.get('en') or '') if isinstan
 def wiki(rel,label=None):return '[['+Path(rel).with_suffix('').as_posix()+('|' + label if label else '')+']]'
 def safe(value):return re.sub(r'[\\/:*?"<>|]','-',str(value)).strip(' .')[:110]
 def get_json(url):
+ url+=('&' if '?' in url else '?')+'oria_corte='+str(datetime.datetime.now(datetime.timezone.utc).timestamp())
  req=urllib.request.Request(url,headers={'User-Agent':'ORIA-GlobalBrain-Archive/1.0','Cache-Control':'no-cache'})
  with urllib.request.urlopen(req,timeout=45) as response:
   if response.status!=200:raise RuntimeError('Respuesta HTTP incompleta')
