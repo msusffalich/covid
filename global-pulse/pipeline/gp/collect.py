@@ -50,8 +50,9 @@ def parse_rss(raw: bytes, source: dict) -> list[dict]:
         link = (link_el.text or "").strip() if link_el is not None else ""
         if not link and it.find("{http://www.w3.org/2005/Atom}link") is not None:
             link = it.find("{http://www.w3.org/2005/Atom}link").get("href", "")
-        pub = _text(it.find("pubDate")) or _text(it.find(
-            "{http://purl.org/dc/elements/1.1/}date"))
+        pub = (_text(it.find("pubDate")) or _text(it.find(
+            "{http://purl.org/dc/elements/1.1/}date")) or _text(it.find(
+            "{http://www.w3.org/2005/Atom}published")))
         if not title:
             continue
         out.append({
@@ -67,15 +68,19 @@ def parse_rss(raw: bytes, source: dict) -> list[dict]:
     return out
 
 
-def collect_rss(log) -> list[dict]:
+def collect_rss(log, sources=None, coverage=None) -> list[dict]:
     pieces = []
-    for src in config.RSS_SOURCES:
+    for src in (config.RSS_SOURCES if sources is None else sources):
         try:
             raw = _fetch(src["url"])
             got = parse_rss(raw, src)
             pieces.extend(got)
+            if coverage is not None:
+                coverage[src['id']] = {'ok': True, 'piezas': len(got)}
             log(f"  RSS {src['id']}: {len(got)} piezas")
         except Exception as e:  # fallo aislado: la fuente caida no rompe el ciclo
+            if coverage is not None:
+                coverage[src['id']] = {'ok': False, 'error': str(e)[:200]}
             log(f"  RSS {src['id']}: ERROR {e} (fallo aislado, se continua)")
     return pieces
 

@@ -55,6 +55,7 @@ export interface Trends {
 }
 
 export interface Pulse {
+  reporte_markdown?: string
   meta: {
     schema: string
     fecha: string
@@ -68,6 +69,7 @@ export interface Pulse {
 }
 
 export const CATEGORY_COLORS: Record<string, string> = {
+  recursos: '#B59562', cadenas: '#1CB0C8', finanzas: '#E4A11B', demografia: '#C75FA8',
   geopolitica: '#E4634F',
   economia: '#E4A11B',
   ciencia: '#7C6FE4',

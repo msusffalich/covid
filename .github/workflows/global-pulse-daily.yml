@@ -16,6 +16,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: global-pulse-daily
+  cancel-in-progress: false
+
 jobs:
   pulse:
     runs-on: ubuntu-latest
@@ -26,18 +30,20 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Ejecutar ciclo (8 etapas)
+      - name: Tests del pipeline
+        working-directory: global-pulse/pipeline
+        run: python -m unittest discover -s tests -p 'test_*.py' && python -m tests.test_pipeline
+
+      - name: Ejecutar ciclo diario oficial
+        if: github.event.inputs.mode != 'fixture'
         working-directory: global-pulse/pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           python orchestrator.py run --mode "${{ github.event.inputs.mode || 'live' }}" --synth auto
 
-      - name: Tests del pipeline
-        working-directory: global-pulse/pipeline
-        run: python -m tests.test_pipeline
-
       - name: Publicar pulso (commit)
+        if: always() && github.event.inputs.mode != 'fixture'
         run: |
           git config user.name "global-pulse-bot"
           git config user.email "actions@users.noreply.github.com"

@@ -161,6 +161,27 @@ function Content() {
 
         {m.modo === 'fixture' && <p className="demo-note">{t.demoNote}</p>}
 
+        {pulse.reporte_markdown && (
+          <details className="daily-report" open>
+            <summary>{lang === 'es' ? 'Pulso Global · siete dimensiones y El Nexo de hoy' : 'Global Pulse · seven dimensions and today’s Nexo'}</summary>
+            <p>{lang === 'es' ? 'Reporte canónico en español · hechos y análisis separados · fuentes oficiales' : 'Canonical Spanish report · facts and analysis separated · official sources'}</p>
+            <div className="report-text">{pulse.reporte_markdown.replace(/^---\n[\s\S]*?\n---\n/, '').split('\n').map((line, i) => {
+              const anchor = /^<a id="([a-zA-Z0-9_]+)"><\/a>$/.exec(line)
+              if (anchor) return <span key={i} id={anchor[1]} />
+              if (line.startsWith('### ')) return <h4 key={i}>{line.slice(4)}</h4>
+              if (line.startsWith('## ')) return <h3 key={i}>{line.slice(3)}</h3>
+              if (line.startsWith('# ')) return <h2 key={i}>{line.slice(2)}</h2>
+              const parts = line.split(/(\[[^\]]+\]\([^)]+\))/g)
+              return <p key={i}>{parts.map((part, j) => {
+                const link = /^\[([^\]]+)\]\(([^)]+)\)$/.exec(part)
+                return link && /^(https:\/\/|#ev_)/.test(link[2])
+                  ? <a key={j} href={link[2]} target="_blank" rel="noopener noreferrer">{link[1]}</a>
+                  : <span key={j}>{part}</span>
+              })}</p>
+            })}</div>
+          </details>
+        )}
+
         <section className="controls">
           <div className="view-toggle" role="tablist">
             {(['map', 'graph', 'list', 'trends'] as View[]).map((v) => (

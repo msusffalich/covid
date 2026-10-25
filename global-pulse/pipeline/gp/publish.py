@@ -121,16 +121,20 @@ def archive_history(data_dir=None, app_data_dir=None):
 
 
 def run(nodes: list[dict], mode: str, engine: str, metrics: dict,
-        log=print) -> dict:
+        log=print, report=None, state=None) -> dict:
     log("[7/8] Publicacion")
     today = datetime.now(timezone.utc)
-    fecha = today.strftime("%Y-%m-%d")
+    fecha = state['fecha'] if state else today.strftime("%Y-%m-%d")
 
     publicables = [n for n in nodes
                    if n["estado"] == "sin_verificar"
                    or (n.get("impacto") or 0) >= config.IMPACT_THRESHOLD]
-    publicables = _dedupe(publicables, log)
-    publicables = _diverse_top(publicables, config.MAX_NODES_PER_PULSE)
+    if report is not None:
+        import hashlib
+        publicables = nodes  # already selected: up to five per Nexo dimension
+    else:
+        publicables = _dedupe(publicables, log)
+        publicables = _diverse_top(publicables, config.MAX_NODES_PER_PULSE)
 
     from .brain import classify_kardashev
     for i, n in enumerate(publicables):
@@ -153,6 +157,14 @@ def run(nodes: list[dict], mode: str, engine: str, metrics: dict,
         },
         "nodos": publicables,
     }
+    if report is not None:
+        pulse['reporte_markdown'] = report
+        pulse['nexo'] = state.get('analisis')
+        pulse['cobertura'] = state['cobertura']
+        pulse['meta'].update({'schema': '2.0', 'corte': state['corte'],
+            'reporte_sha256': hashlib.sha256(report.encode('utf-8')).hexdigest(),
+            'estado': 'completo' if state.get('analisis') is not None else 'análisis pendiente',
+            'reporte_archivo': f'{fecha} — Pulso.md'})
 
     config.DATA_DIR.mkdir(parents=True, exist_ok=True)
     daily = config.DATA_DIR / f"pulse-{fecha.replace('-', '')}.json"
@@ -164,6 +176,8 @@ def run(nodes: list[dict], mode: str, engine: str, metrics: dict,
     # Copia para la PWA
     config.APP_DATA_DIR.mkdir(parents=True, exist_ok=True)
     shutil.copyfile(daily, config.APP_DATA_DIR / "pulse-latest.json")
+    if report is not None:
+        (config.APP_DATA_DIR / f'{fecha} — Pulso.md').write_bytes(report.encode('utf-8'))
     if mode == 'live':
         archive_history()
 

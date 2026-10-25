@@ -37,6 +37,7 @@ ${refs}
 
 /** Digest del pulso completo: todas las notas en un solo .md. */
 export function pulseDigest(p: Pulse, lang: Lang): string {
+  if (p.reporte_markdown) return p.reporte_markdown
   const head = lang === 'es'
     ? `# Global Pulse — pulso del ${p.meta.fecha}\n\n> ${p.nodos.length} nodos · generado ${p.meta.generado}\n\n`
     : `# Global Pulse — pulse of ${p.meta.fecha}\n\n> ${p.nodos.length} nodes · generated ${p.meta.generado}\n\n`

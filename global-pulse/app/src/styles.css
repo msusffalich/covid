@@ -252,6 +252,13 @@ footer {
 }
 .link-btn:hover { text-decoration: underline; }
 footer { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+.daily-report { margin: 20px 0; padding: 22px; border: 1px solid var(--muted); border-radius: 14px; }
+.daily-report summary { cursor: pointer; font-weight: 700; }
+.daily-report > p { color: var(--muted); font-size: .85rem; }
+.report-text { max-width: 880px; margin: 20px auto; overflow-wrap: anywhere; }
+.report-text p { white-space: pre-wrap; line-height: 1.65; margin: .55em 0; }
+.report-text h3 { margin-top: 1.7em; }
+.report-text a { color: var(--pulse); }
 
 @media (max-width: 640px) {
   .detail { width: 100vw; }
