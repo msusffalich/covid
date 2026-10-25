@@ -1,4 +1,5 @@
 import json
+import io
 import tempfile
 import unittest
 from datetime import datetime, timedelta, timezone
@@ -70,6 +71,13 @@ class NexoTests(unittest.TestCase):
         self.assertEqual(daily.decode_json('Resultado:\n```JSON\n{"hechos": []}\n```'), {'hechos': []})
         with self.assertRaises(ValueError):
             daily.decode_json('No se entregó un objeto estructurado')
+
+    def test_native_structured_result_without_text_block(self):
+        response = {'stop_reason': 'tool_use', 'content': [
+            {'type': 'tool_use', 'name': 'entregar_resultado', 'input': {'hechos': []}}]}
+        with patch.dict('os.environ', {'ANTHROPIC_API_KEY': 'test-placeholder'}), patch(
+                'urllib.request.urlopen', return_value=io.BytesIO(json.dumps(response).encode())):
+            self.assertEqual(daily.ask('Return facts', []), {'hechos': []})
 
 
 if __name__ == '__main__':
