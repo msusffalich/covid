@@ -6,6 +6,7 @@ const MANUAL: Record<'es' | 'en', { title: string; sections: Section[] }> = {
   es: {
     title: 'Manual de usuario — Global Pulse',
     sections: [
+      { h: 'El Nexo · reporte diario oficial', p: ['El reporte canónico en español reúne siete dimensiones: Cambio Climático, Tecnología, Recursos Naturales, Cadenas de Suministro, Geopolítica, Finanzas y Seguros, Demografía y Migraciones. Solo incorpora hechos publicados por fuentes oficiales en las 24 horas anteriores al corte.', 'Después de los hechos, El Nexo analiza cuatro flujos y tres bucles críticos con citas al propio reporte. Una dimensión sin evidencia lo declara; las fallas de cobertura y el análisis pendiente se muestran expresamente. La descarga contiene el mismo reporte que recibe ORIA; las notas personales permanecen separadas.', 'Las puntuaciones de impacto y las relaciones del mapa son valoraciones de la aplicación. Los reportes históricos mantienen su formato original.'] },
       { h: '1. Qué es Global Pulse',
         p: ['Global Pulse convierte el ruido informativo global en «nodos de impacto»: unidades de conocimiento sintetizadas, puntuadas (0–100) y siempre trazables a sus fuentes originales (Capa 3). Cada día el sistema publica un «pulso»: el conjunto de nodos más relevantes de las últimas 24 horas.'] },
       { h: '2. Instalación (PWA)',
@@ -17,7 +18,7 @@ const MANUAL: Record<'es' | 'en', { title: string; sections: Section[] }> = {
             'Tendencias: sigue automáticamente 6 temas permanentes (Irán–EE.UU., Rusia–Ucrania, Gaza/Oriente Medio, IA, Impacto climático, Economía) con un resumen de evolución, una gráfica de impacto en el tiempo y los nodos recientes. Se actualiza solo cada día, sin necesidad de Obsidian.'] },
       { h: '4. Filtros y categorías',
         p: ['Filtra tocando las categorías (se pueden combinar varias) y por impacto mínimo con el deslizador. Los filtros se aplican a las tres vistas.',
-            'Categorías: Geopolítica · Economía · Ciencia · Impacto climático (consecuencias del cambio climático: fenómenos extremos, emisiones, adaptación) · Tecnología · Innovación y dispositivos (productos, inventos y lanzamientos) · Salud y bienestar · Cultura y sociedad · Deportes.'] },
+            'El pulso vigente usa las siete dimensiones del Nexo. El archivo conserva las categorías y fuentes históricas.'] },
       { h: '5. Detalle de un nodo y fuentes (Capa 3)',
         p: ['Toca cualquier nodo para abrir su ficha: síntesis, actores, imágenes, nodos relacionados y las fuentes originales con su identificador de evidencia (ev_…). El distintivo «verificado» significa que el nodo está anclado a evidencia; «sin verificar» indica que carece de fuente suficiente y no muestra impacto.'] },
       { h: '6. Idiomas',

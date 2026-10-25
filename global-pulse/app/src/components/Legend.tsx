@@ -2,13 +2,13 @@ import { useLang } from '../i18n'
 import { CATEGORY_COLORS } from '../types'
 
 /** Leyenda de lectura del mapa y del grafo (bilingue). */
-export default function Legend({ view }: { view: 'map' | 'graph' | 'list' }) {
+export default function Legend({ view, nexo = false }: { view: 'map' | 'graph' | 'list'; nexo?: boolean }) {
   const { t } = useLang()
   return (
     <div className="legend" aria-label={t.legendTitle}>
       <strong>{t.legendTitle}</strong>
       <div className="legend-cats">
-        {Object.entries(CATEGORY_COLORS).map(([cat, color]) => (
+        {Object.entries(CATEGORY_COLORS).filter(([cat]) => !nexo || ['clima', 'tecnologia', 'recursos', 'cadenas', 'geopolitica', 'finanzas', 'demografia'].includes(cat)).map(([cat, color]) => (
           <span key={cat} className="legend-item">
             <span className="cat-dot" style={{ background: color }} />
             {t.categoriesNames[cat] ?? cat}

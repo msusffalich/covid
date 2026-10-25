@@ -245,7 +245,7 @@ function Content() {
         </section>
         )}
 
-        {view !== 'trends' && <Legend view={view} />}
+        {view !== 'trends' && <Legend view={view} nexo={!!pulse.reporte_markdown} />}
 
         {selNode && (
           <NodeDetail nodo={selNode} all={pulse.nodos} demo={m.modo === 'fixture'}
