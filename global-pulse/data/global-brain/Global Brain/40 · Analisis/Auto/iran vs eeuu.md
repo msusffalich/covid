@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-24
+actualizado: 2026-10-25
 nodos: 33
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-24. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-25. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-33 nodos registrados en el periodo. Lo mas reciente: EEUU evacúa diplomáticos de Arabia Saudí tras ataques hutíes a aeropuertos.
+33 nodos registrados en el periodo. Lo mas reciente: Rubio insta a cubanos a colaborar con la CIA mientras Trump sugiere intervención naval.
 
 ## Trend summary (EN)
-33 nodes recorded in the period. Most recent: US evacuates diplomats from Saudi Arabia after Houthi attacks on airports.
+33 nodes recorded in the period. Most recent: Rubio urges Cubans to partner with CIA as Trump hints at naval intervention.
 
 > [!note] Estado actual
-> EEUU evacúa diplomáticos de Arabia Saudí tras ataques hutíes a aeropuertos
+> Rubio insta a cubanos a colaborar con la CIA mientras Trump sugiere intervención naval
 
 ## Nodos recientes (33 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-25 | 65 | K1 | Rubio insta a cubanos a colaborar con la CIA mientras Trump sugi |
 | 2026-10-24 | 72 | K1 | EEUU evacúa diplomáticos de Arabia Saudí tras ataques hutíes a a |
 | 2026-10-24 | 70 | K1 | Rubio insta a cubanos a colaborar en secreto con la CIA para pro |
 | 2026-10-23 | 78 | K2 | Ataques en el estrecho de Ormuz disparan el precio del petróleo  |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-20 | 65 | K1 | Ataque con misiles hutíes mata a decenas de reclutas en un campo |
 | 2026-10-16 | 68 | K1 | Hutíes escalan ataques contra Adén y objetivos petroleros en Ara |
 | 2026-10-15 | 82 | K1 | Buques portacontenedores se hunden cerca del estrecho de Ormuz e |
-| 2026-10-15 | 72 | K1 | Hutíes atacan instalaciones de Aramco y objetivos en Riad en med |
 
 [[Global Brain — Inicio|← Inicio]]

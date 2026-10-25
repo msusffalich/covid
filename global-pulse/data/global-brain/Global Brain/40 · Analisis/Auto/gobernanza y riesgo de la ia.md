@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-10-24
+actualizado: 2026-10-25
 nodos: 13
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-24. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-25. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 13 nodos registrados en el periodo. Lo mas reciente: Google actualiza su política de privacidad: Gmail y Google Photos podrían usarse para anuncios personalizados.

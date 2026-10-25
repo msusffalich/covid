@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-10-24
-nodos: 35
+actualizado: 2026-10-25
+nodos: 33
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-24. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-25. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-35 nodos registrados en el periodo. Lo mas reciente: El ayuntamiento de Limoges, símbolo de una Francia dividida por las protestas nacionales.
+33 nodos registrados en el periodo. Lo mas reciente: El ayuntamiento de Limoges, símbolo de una Francia dividida por las protestas nacionales.
 
 ## Trend summary (EN)
-35 nodes recorded in the period. Most recent: Limoges city hall ruins symbolize a France divided by national protests.
+33 nodes recorded in the period. Most recent: Limoges city hall ruins symbolize a France divided by national protests.
 
 > [!note] Estado actual
 > El ayuntamiento de Limoges, símbolo de una Francia dividida por las protestas nacionales
 
-## Nodos recientes (35 en la ventana)
+## Nodos recientes (33 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-24 | 35 | K1 | El ayuntamiento de Limoges, símbolo de una Francia dividida por  |
