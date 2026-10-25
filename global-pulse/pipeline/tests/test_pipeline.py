@@ -113,13 +113,14 @@ def test_pulse_schema():
         print("  (pulse-latest.json aun no generado; se omite)")
         return
     pulse = json.loads(path.read_text(encoding="utf-8"))
-    assert pulse["meta"]["schema"] == config.SCHEMA_VERSION
+    assert pulse["meta"]["schema"] in (config.SCHEMA_VERSION, '2.0')
+    from gp.official import DIMENSIONS
     for n in pulse["nodos"]:
         for field in ("id", "titulo", "sintesis", "categoria", "actores",
                       "geo", "impacto", "relaciones", "fuentes", "imagenes",
                       "estado", "fecha", "referencias", "kardashev"):
             assert field in n, f"falta campo {field} en {n.get('id')}"
-        assert n["categoria"] in config.CATEGORIES
+        assert n["categoria"] in (DIMENSIONS if pulse['meta']['schema'] == '2.0' else config.CATEGORIES)
         assert n["id"].startswith("nd_")
 
 

@@ -163,7 +163,8 @@ def run(nodes: list[dict], mode: str, engine: str, metrics: dict,
         pulse['cobertura'] = state['cobertura']
         pulse['meta'].update({'schema': '2.0', 'corte': state['corte'],
             'reporte_sha256': hashlib.sha256(report.encode('utf-8')).hexdigest(),
-            'estado': 'completo' if state.get('analisis') is not None else 'análisis pendiente',
+            'estado': ('cobertura insuficiente' if not state['hechos'] else ('completo' if state.get('analisis') is not None else 'análisis pendiente')),
+            'politica_fuentes': state.get('politica_fuentes', 'mixta-v1'),
             'reporte_archivo': f'{fecha} — Pulso.md'})
 
     config.DATA_DIR.mkdir(parents=True, exist_ok=True)

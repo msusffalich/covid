@@ -164,7 +164,7 @@ function Content() {
         {pulse.reporte_markdown && (
           <details className="daily-report" open>
             <summary>{lang === 'es' ? 'Pulso Global · siete dimensiones y El Nexo de hoy' : 'Global Pulse · seven dimensions and today’s Nexo'}</summary>
-            <p>{lang === 'es' ? 'Reporte canónico en español · hechos y análisis separados · fuentes oficiales' : 'Canonical Spanish report · facts and analysis separated · official sources'}</p>
+            <p>{lang === 'es' ? 'Reporte canónico en español · hechos y análisis separados · fuentes oficiales, agencias y medios' : 'Canonical Spanish report · facts and analysis separated · official sources, agencies and news media'}</p>
             <div className="report-text">{pulse.reporte_markdown.replace(/^---\n[\s\S]*?\n---\n/, '').split('\n').map((line, i) => {
               const anchor = /^<a id="([a-zA-Z0-9_]+)"><\/a>$/.exec(line)
               if (anchor) return <span key={i} id={anchor[1]} />

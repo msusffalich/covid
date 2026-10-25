@@ -53,3 +53,13 @@ Antes de cerrar el reporte, comprueba y corrige:
 5. ¿Hechos y análisis están separados?
 6. ¿El bloque de metadatos está completo y con nombres normalizados?
 7. ¿Toda cifra lleva fuente y toda estimación está rotulada?
+
+ACTUALIZACIÓN DEL USUARIO — 2026-10-25
+Las consultas deben ser amplias y ofrecer información fresca cada día. Se permiten
+también agencias y medios como Reuters, CNN, BBC, EFE, France 24, Al Jazeera,
+El País y otros medios registrados, sin exigir confirmación institucional previa.
+Esta actualización sustituye las restricciones anteriores de exclusividad oficial.
+Cada hecho debe identificar el tipo de fuente (oficial, agencia o medio), su nombre,
+fecha de publicación original y enlace. No convertir una afirmación periodística
+en una confirmación oficial. Una recolección vacía significa cobertura insuficiente,
+no ausencia de noticias. Mostrar los canales fallidos y la frescura recibida.

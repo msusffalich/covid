@@ -30,7 +30,7 @@ class NexoTests(unittest.TestCase):
     def test_empty_and_pending_report(self):
         state = dict(fecha='2026-10-25', corte=self.cutoff.isoformat(), inicio_ventana='2026-10-24T05:00:00+00:00', hechos=[], cobertura={})
         pending = daily.markdown(state)
-        self.assertEqual(pending.count(daily.SILENCE), 7)
+        self.assertEqual(pending.count(daily.NO_FACTS), 7)
         self.assertIn('análisis pendiente', pending)
         state['analisis'] = daily.analyze([])
         complete = daily.markdown(state)
@@ -49,7 +49,7 @@ class NexoTests(unittest.TestCase):
     def test_publish_keeps_canonical_bytes_and_empty_day(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
-            state = dict(fecha='2026-10-25', corte=self.cutoff.isoformat(), analisis={}, cobertura={})
+            state = dict(fecha='2026-10-25', corte=self.cutoff.isoformat(), analisis={}, cobertura={}, hechos=[])
             report = '# Pulso Global — 2026-10-25\n'
             with patch.object(config, 'DATA_DIR', root / 'data'), patch.object(config, 'APP_DATA_DIR', root / 'app'):
                 out = publish.run([], 'live', 'api', {}, lambda _: None, report=report, state=state)
@@ -57,6 +57,14 @@ class NexoTests(unittest.TestCase):
                 self.assertEqual((root / 'app' / '2026-10-25 — Pulso.md').read_bytes(), report.encode())
                 self.assertEqual(out['meta']['schema'], '2.0')
                 self.assertEqual(len(json.loads((root / 'app/history.json').read_text())['reportes']), 1)
+
+    def test_media_and_cnn_publication_date(self):
+        p = dict(self.piece, fuente_id='bbc-world', url='https://www.bbc.com/news/articles/test')
+        self.assertTrue(admit(p, self.cutoff))
+        self.assertFalse(admit(dict(p, url='https://fake-bbc.com/item'), self.cutoff))
+        xml = b'<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:n="http://www.google.com/schemas/sitemap-news/0.9"><url><loc>https://www.cnn.com/article</loc><lastmod>2026-10-26T05:00:00Z</lastmod><n:news><n:publication_date>2026-10-25T05:00:00Z</n:publication_date><n:title>Published news</n:title></n:news></url></urlset>'
+        item = collect.parse_rss(xml, dict(id='cnn', name='CNN', lang='en'))[0]
+        self.assertEqual(item['fecha_pub'], '2026-10-25T05:00:00Z')
 
 
 if __name__ == '__main__':
