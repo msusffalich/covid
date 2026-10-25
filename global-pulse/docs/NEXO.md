@@ -1,5 +1,22 @@
 # Generador diario: El Nexo
 
+Actualización del usuario del 25 de octubre: se amplía la política a agencias y
+medios periodísticos (BBC, CNN, Reuters, EFE, France 24, Al Jazeera, El País y
+otros canales registrados), además de instituciones. Las referencias indican
+`oficial`, `agencia` o `medio`; una noticia no se presenta como confirmación
+institucional. Los canales restringidos o desactualizados se muestran como tales.
+CNN se consulta mediante su sitemap público de noticias, usando
+`news:publication_date`, nunca `lastmod`. Reuters directo puede rechazar consultas;
+su canal público Reuters Best también se consulta, sin atribuirle cobertura actual
+cuando sus documentos son antiguos.
+
+La recolección consulta los canales en paralelo y publica una tabla de cobertura:
+disponibilidad, publicaciones recibidas en 24 horas y fecha más reciente por canal.
+Una edición sin hechos se marca «cobertura insuficiente», falla la corrida y admite
+reintento; nunca equivale a que no haya noticias en el mundo. El workflow hace hasta
+tres intentos dentro de la corrida diaria. Un cambio de política conserva la versión
+anterior del checkpoint y permite corregir el mismo archivo diario.
+
 El modo `live` usa `pipeline/gp/daily.py` y el prompt maestro completo de
 `pipeline/prompts/nexo.md`. Mantiene los JSON y la ruta de Markdown existentes:
 `data/global-brain/Global Brain/00 · Pulso Diario/AAAA-MM-DD — Pulso.md`.
@@ -20,8 +37,8 @@ citas desconocidas, estados inválidos y movimientos sin evidencia de al menos
 dos dimensiones del flujo o bucle. Una relación causal sigue siendo una
 interpretación del modelo; la presencia de citas no garantiza por sí sola su corrección.
 
-Requiere el secreto existente `ANTHROPIC_API_KEY`. La síntesis oficial no cae al
-motor heurístico ni rellena con prensa. El modo `fixture` queda para pruebas
+Requiere el secreto existente `ANTHROPIC_API_KEY`. La síntesis no cae al
+motor heurístico. El modo `fixture` queda para pruebas
 locales y no publica mediante el workflow diario.
 
 Los checkpoints en `data/checkpoints/AAAA-MM-DD.json` guardan documentos, hechos,

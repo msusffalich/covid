@@ -34,13 +34,17 @@ jobs:
         working-directory: global-pulse/pipeline
         run: python -m unittest discover -s tests -p 'test_*.py' && python -m tests.test_pipeline
 
-      - name: Ejecutar ciclo diario oficial
+      - name: Ejecutar ciclo diario de fuentes y medios
         if: github.event.inputs.mode != 'fixture'
         working-directory: global-pulse/pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          python orchestrator.py run --mode "${{ github.event.inputs.mode || 'live' }}" --synth auto
+          for attempt in 1 2 3; do
+            python orchestrator.py run --mode live --synth auto && exit 0
+            if [ "$attempt" -lt 3 ]; then sleep 60; fi
+          done
+          exit 1
 
       - name: Publicar pulso (commit)
         if: always() && github.event.inputs.mode != 'fixture'
