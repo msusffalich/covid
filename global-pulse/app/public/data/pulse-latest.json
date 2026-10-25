@@ -2,25 +2,338 @@
   "meta": {
     "schema": "2.0",
     "fecha": "2026-10-25",
-    "generado": "2026-10-25T14:30:48.630333+00:00",
+    "generado": "2026-10-25T16:07:23.443224+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "nodos": 0,
-      "verificados": 0,
-      "piezas_ingeridas": 1
+      "nodos": 7,
+      "verificados": 7,
+      "piezas_ingeridas": 165,
+      "canales_consultados": 46,
+      "canales_disponibles": 38,
+      "documentos_recientes": 209
     },
     "descargo": "",
-    "corte": "2026-10-25T14:30:45.718379+00:00",
-    "reporte_sha256": "07efb2b0ce936839805410b5187b791e1c097f76be98b9e6ea7f464017d4753a",
+    "corte": "2026-10-25T14:56:27.561853+00:00",
+    "reporte_sha256": "267b04ad2499708205bbb155334b0b17b37fe17545b3c60178c63677f1b353d8",
     "estado": "completo",
+    "politica_fuentes": "mixta-v1",
     "reporte_archivo": "2026-10-25 — Pulso.md"
   },
-  "nodos": [],
-  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-10-25\"\ndimensiones: []\nlugares: []\npaises: []\nentidades: []\ntemas: []\nbucles_activos: []\ncorte: \"2026-10-25T14:30:45.718379+00:00\"\ninicio_ventana: \"2026-10-24T14:30:45.718379+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-10-25\n\n## Resumen del día\n\nSin novedad oficial verificable en las últimas 24 horas.\n\nVentana de 24 horas hasta 2026-10-25T14:30:45.718379+00:00. Solo fuentes oficiales consultadas.\n\nCobertura parcial: no se pudieron consultar cisa, imf, iom, unhcr. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\nSin novedad oficial verificable en las últimas 24 horas.\n\n## 2. Tecnología\n\nSin novedad oficial verificable en las últimas 24 horas.\n\n## 3. Recursos Naturales\n\nSin novedad oficial verificable en las últimas 24 horas.\n\n## 4. Cadenas de Suministro\n\nSin novedad oficial verificable en las últimas 24 horas.\n\n## 5. Geopolítica\n\nSin novedad oficial verificable en las últimas 24 horas.\n\n## 6. Finanzas y Seguros\n\nSin novedad oficial verificable en las últimas 24 horas.\n\n## 7. Demografía y Migraciones\n\nSin novedad oficial verificable en las últimas 24 horas.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Sin movimiento verificado hoy\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\nSin señales adicionales verificadas.\n\n## Correcciones\n\nSin correcciones\n",
+  "nodos": [
+    {
+      "titulo": {
+        "es": "Momias congeladas y rutas vikingas: los secretos que está revelando el derretimiento de los hielos",
+        "en": "Momias congeladas y rutas vikingas: los secretos que está revelando el derretimiento de los hielos"
+      },
+      "sintesis": {
+        "es": "Extracto de la fuente: El mundo está experimentando un rápido deshielo debido al cambio climático, lo que está dejando al descubierto artefactos antiguos que se han conservado perfectamente durante miles de años.",
+        "en": "Source excerpt (Spanish): El mundo está experimentando un rápido deshielo debido al cambio climático, lo que está dejando al descubierto artefactos antiguos que se han conservado perfectamente durante miles de años."
+      },
+      "categoria": "clima",
+      "actores": [
+        "BBC Mundo"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_a483c24e10"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa22/live/8e53c220-c63b-11f1-b99d-0127a94fa1d0.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a483c24e10",
+          "titulo": "Momias congeladas y rutas vikingas: los secretos que está revelando el derretimiento de los hielos",
+          "url": "https://www.bbc.com/mundo/articles/c3n0498l71vwo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sun, 25 Oct 2026 09:01:47 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-10-25_0000",
+      "fecha": "2026-10-25",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-25_0002",
+        "nd_2026-10-25_0005"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Elecciones clave en Serbia: los estudiantes disputan el liderazgo de 12 años de Vucic",
+        "en": "Elecciones clave en Serbia: los estudiantes disputan el liderazgo de 12 años de Vucic"
+      },
+      "sintesis": {
+        "es": "Extracto de la fuente: Luego de dos años de protestas contra Aleksandar Vucic, el movimiento social liderado por estudiantes busca desbancar al gobernante Partido Progresista Serbio (SNS), que presenta como cabeza de",
+        "en": "Source excerpt (Spanish): Luego de dos años de protestas contra Aleksandar Vucic, el movimiento social liderado por estudiantes busca desbancar al gobernante Partido Progresista Serbio (SNS), que presenta como cabeza de"
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "France 24"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_9f355fafa1"
+      ],
+      "imagenes": [
+        "https://s.france24.com/media/display/77e22f70-d07e-11f1-a670-bdb9616e85cf/w:1024/p:16x9/FOTO-PORTADA-SERBIA-ELECCIONES-PARTICIPACION.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_9f355fafa1",
+          "titulo": "Elecciones clave en Serbia: los estudiantes disputan el liderazgo de 12 años de Vucic",
+          "url": "https://www.france24.com/es/europa/20261025-elecciones-clave-en-serbia-los-estudiantes-disputan-el-liderazgo-de-12-a%C3%B1os-de-vucic",
+          "fuente": "France 24",
+          "fecha": "Sun, 25 Oct 2026 14:50:34 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-10-25_0001",
+      "fecha": "2026-10-25",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-10-25_0003",
+        "nd_2026-10-25_0004"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Qué comer para que tu piel se vea más joven y sana",
+        "en": "Qué comer para que tu piel se vea más joven y sana"
+      },
+      "sintesis": {
+        "es": "Extracto de la fuente: Los alimentos de origen vegetal, las grasas y los productos fermentados pueden reducir las arrugas, aumentar la producción de colágeno y mejorar la textura de nuestra piel.",
+        "en": "Source excerpt (Spanish): Los alimentos de origen vegetal, las grasas y los productos fermentados pueden reducir las arrugas, aumentar la producción de colágeno y mejorar la textura de nuestra piel."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "BBC Mundo"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_cd0d1c95f3"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/228b/live/f3806690-cd42-11f1-8177-0f8bd59b54c4.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_cd0d1c95f3",
+          "titulo": "Qué comer para que tu piel se vea más joven y sana",
+          "url": "https://www.bbc.com/mundo/articles/c3ewe42k1k0qo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sun, 25 Oct 2026 10:01:25 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-10-25_0002",
+      "fecha": "2026-10-25",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-10-25_0000",
+        "nd_2026-10-25_0005"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "“¡Basta ya!”: Obama irrumpe en campaña de las midterms y acusa a Trump de “caos, crueldad y corrupción”",
+        "en": "“¡Basta ya!”: Obama irrumpe en campaña de las midterms y acusa a Trump de “caos, crueldad y corrupción”"
+      },
+      "sintesis": {
+        "es": "Extracto de la fuente: El popular expresidente de EE. UU., Barack Obama, regresó este fin de semana a la primera línea de la campaña electoral con una ofensiva contra Donald Trump y",
+        "en": "Source excerpt (Spanish): El popular expresidente de EE. UU., Barack Obama, regresó este fin de semana a la primera línea de la campaña electoral con una ofensiva contra Donald Trump y"
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "France 24"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_d4f8652cd7"
+      ],
+      "imagenes": [
+        "https://s.france24.com/media/display/b7fde170-d07f-11f1-8d0a-bba4eee3dc72/w:1024/p:16x9/2026-10-25T023011Z-1900781006-RC2Z9OAUN8QQ-RTRMADP-3-USA-ELECTION-OBAMA.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d4f8652cd7",
+          "titulo": "“¡Basta ya!”: Obama irrumpe en campaña de las midterms y acusa a Trump de “caos, crueldad y corrupción”",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261025-basta-ya-obama-irrumpe-en-campa%C3%B1a-de-las-midterms-y-acusa-a-trump-de-caos-crueldad-y-corrupci%C3%B3n",
+          "fuente": "France 24",
+          "fecha": "Sun, 25 Oct 2026 14:24:59 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-10-25_0003",
+      "fecha": "2026-10-25",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-10-25_0001",
+        "nd_2026-10-25_0004"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Informe desde São Paulo: ¿por qué este estado es clave en la elección presidencial?",
+        "en": "Informe desde São Paulo: ¿por qué este estado es clave en la elección presidencial?"
+      },
+      "sintesis": {
+        "es": "Extracto de la fuente: Desde São Paulo se reporta buena afluencia en los centros de votación pese a que la jornada ha estado marcada por las lluvias. La definición llega después de",
+        "en": "Source excerpt (Spanish): Desde São Paulo se reporta buena afluencia en los centros de votación pese a que la jornada ha estado marcada por las lluvias. La definición llega después de"
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "France 24"
+      ],
+      "geo": {
+        "lat": -14.2,
+        "lon": -51.9,
+        "region": "Sudamerica"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_0072387728"
+      ],
+      "imagenes": [
+        "https://s.france24.com/media/display/4f960da4-d077-11f1-aeab-4d317af013fd/w:1024/p:16x9/ES-20261025-080221-080700-CS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0072387728",
+          "titulo": "Informe desde São Paulo: ¿por qué este estado es clave en la elección presidencial?",
+          "url": "https://www.france24.com/es/video/20261025-informe-desde-s%C3%A3o-paulo-por-qu%C3%A9-este-estado-es-clave-en-la-elecci%C3%B3n-presidencial",
+          "fuente": "France 24",
+          "fecha": "Sun, 25 Oct 2026 13:46:19 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-10-25_0004",
+      "fecha": "2026-10-25",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-10-25_0001",
+        "nd_2026-10-25_0003"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Cómo el observar pájaros ralentiza el declive de nuestro cerebro (y nos hace sonreír de nuevo)",
+        "en": "Cómo el observar pájaros ralentiza el declive de nuestro cerebro (y nos hace sonreír de nuevo)"
+      },
+      "sintesis": {
+        "es": "Extracto de la fuente: La actividad implica además un reencuentro con los espacios naturales y es muy sencilla y accesible.",
+        "en": "Source excerpt (Spanish): La actividad implica además un reencuentro con los espacios naturales y es muy sencilla y accesible."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "BBC Mundo"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_0f0744cf05"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b36/live/33adf020-d059-11f1-bbf5-99ed69f0d81f.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0f0744cf05",
+          "titulo": "Cómo el observar pájaros ralentiza el declive de nuestro cerebro (y nos hace sonreír de nuevo)",
+          "url": "https://www.bbc.com/mundo/articles/c8ly09lkd0ylo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Sun, 25 Oct 2026 12:42:07 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-10-25_0005",
+      "fecha": "2026-10-25",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-10-25_0000",
+        "nd_2026-10-25_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Viaje a la zona cero de la revuelta en Francia",
+        "en": "Viaje a la zona cero de la revuelta en Francia"
+      },
+      "sintesis": {
+        "es": "Extracto de la fuente: La llama de las protestas estudiantiles prendió en gran parte en el departamento de Seine-Saint Denis, la provincia más pobre del país, la que tiene más inmigrantes y",
+        "en": "Source excerpt (Spanish): La llama de las protestas estudiantiles prendió en gran parte en el departamento de Seine-Saint Denis, la provincia más pobre del país, la que tiene más inmigrantes y"
+      },
+      "categoria": "demografia",
+      "actores": [
+        "El País"
+      ],
+      "geo": {
+        "lat": 46.6,
+        "lon": 2.2,
+        "region": "Europa"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_d487051152"
+      ],
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/QOA773BDAVDJRI4NVGLRKZA26A.jpg?auth=d130367a543813d98f2d97653861da6a33317af7de757ba6ac498f24df6e5373"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d487051152",
+          "titulo": "Viaje a la zona cero de la revuelta en Francia",
+          "url": "https://elpais.com/internacional/2026-10-25/viaje-a-la-zona-cero-de-la-revuelta-en-francia.html",
+          "fuente": "El País",
+          "fecha": "Sun, 25 Oct 2026 04:45:01 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-10-25_0006",
+      "fecha": "2026-10-25",
+      "kardashev": "K0",
+      "relaciones": []
+    }
+  ],
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-10-25\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"demografia\"]\nlugares: []\npaises: []\nentidades: [\"BBC Mundo\", \"El País\", \"France 24\"]\ntemas: [\"Cambio Climático\", \"Demografía y Migraciones\", \"Geopolítica\", \"Recursos Naturales\", \"Tecnología\"]\nbucles_activos: []\ncorte: \"2026-10-25T14:56:27.561853+00:00\"\ninicio_ventana: \"2026-10-24T14:56:27.561853+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-10-25\n\n## Resumen del día\n\nCobertura insuficiente en la ventana de 24 horas: los hechos recolectados hoy (25 de octubre) son en su mayoría piezas de estilo de vida o análisis electoral sin cifras verificables (hielo derretido, alimentación para la piel, observación de aves), sin vínculo documentado entre dimensiones del Nexo.\nLas únicas notas con relevancia sistémica potencial son las elecciones en Serbia, la segunda vuelta presidencial en Brasil y la cobertura de las protestas en Francia, pero ninguna aporta datos cuantitativos ni conecta explícitamente dos dimensiones del mapa.\nNo se documenta en los hechos del día ningún vínculo entre clima, recursos, tecnología, cadenas, geopolítica, finanzas o demografía que sostenga alguno de los cuatro flujos o los tres bucles críticos.\nNo hay elementos en los hechos de hoy que contradigan o corrijan explícitamente afirmaciones de reportes anteriores.\n\nVentana de 24 horas hasta 2026-10-25T14:56:27.561853+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, imf, iom, unhcr, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_a483c24e10\"></a>\n1. Momias congeladas y rutas vikingas: los secretos que está revelando el derretimiento de los hielos — Extracto de la fuente: El mundo está experimentando un rápido deshielo debido al cambio climático, lo que está dejando al descubierto artefactos antiguos que se han conservado perfectamente durante miles de años. — [BBC Mundo, Sun, 25 Oct 2026 09:01:47 GMT](https://www.bbc.com/mundo/articles/c3n0498l71vwo?at_medium=RSS&at_campaign=rss) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_9f355fafa1\"></a>\n1. Elecciones clave en Serbia: los estudiantes disputan el liderazgo de 12 años de Vucic — Extracto de la fuente: Luego de dos años de protestas contra Aleksandar Vucic, el movimiento social liderado por estudiantes busca desbancar al gobernante Partido Progresista Serbio (SNS), que presenta como cabeza de — [France 24, Sun, 25 Oct 2026 14:50:34 GMT](https://www.france24.com/es/europa/20261025-elecciones-clave-en-serbia-los-estudiantes-disputan-el-liderazgo-de-12-a%C3%B1os-de-vucic) · medio.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_cd0d1c95f3\"></a>\n1. Qué comer para que tu piel se vea más joven y sana — Extracto de la fuente: Los alimentos de origen vegetal, las grasas y los productos fermentados pueden reducir las arrugas, aumentar la producción de colágeno y mejorar la textura de nuestra piel. — [BBC Mundo, Sun, 25 Oct 2026 10:01:25 GMT](https://www.bbc.com/mundo/articles/c3ewe42k1k0qo?at_medium=RSS&at_campaign=rss) · medio.\n\n## 4. Cadenas de Suministro\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 5. Geopolítica\n\n<a id=\"ev_d4f8652cd7\"></a>\n1. “¡Basta ya!”: Obama irrumpe en campaña de las midterms y acusa a Trump de “caos, crueldad y corrupción” — Extracto de la fuente: El popular expresidente de EE. UU., Barack Obama, regresó este fin de semana a la primera línea de la campaña electoral con una ofensiva contra Donald Trump y — [France 24, Sun, 25 Oct 2026 14:24:59 GMT](https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261025-basta-ya-obama-irrumpe-en-campa%C3%B1a-de-las-midterms-y-acusa-a-trump-de-caos-crueldad-y-corrupci%C3%B3n) · medio.\n\n<a id=\"ev_0072387728\"></a>\n2. Informe desde São Paulo: ¿por qué este estado es clave en la elección presidencial? — Extracto de la fuente: Desde São Paulo se reporta buena afluencia en los centros de votación pese a que la jornada ha estado marcada por las lluvias. La definición llega después de — [France 24, Sun, 25 Oct 2026 13:46:19 GMT](https://www.france24.com/es/video/20261025-informe-desde-s%C3%A3o-paulo-por-qu%C3%A9-este-estado-es-clave-en-la-elecci%C3%B3n-presidencial) · medio.\n\n<a id=\"ev_0f0744cf05\"></a>\n3. Cómo el observar pájaros ralentiza el declive de nuestro cerebro (y nos hace sonreír de nuevo) — Extracto de la fuente: La actividad implica además un reencuentro con los espacios naturales y es muy sencilla y accesible. — [BBC Mundo, Sun, 25 Oct 2026 12:42:07 GMT](https://www.bbc.com/mundo/articles/c8ly09lkd0ylo?at_medium=RSS&at_campaign=rss) · medio.\n\n## 6. Finanzas y Seguros\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_d487051152\"></a>\n1. Viaje a la zona cero de la revuelta en Francia — Extracto de la fuente: La llama de las protestas estudiantiles prendió en gran parte en el departamento de Seine-Saint Denis, la provincia más pobre del país, la que tiene más inmigrantes y — [El País, Sun, 25 Oct 2026 04:45:01 GMT](https://elpais.com/internacional/2026-10-25/viaje-a-la-zona-cero-de-la-revuelta-en-francia.html) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Sin movimiento verificado hoy\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Posibilidad de que el resultado de la segunda vuelta presidencial en Brasil (São Paulo como estado clave) redefina alineamientos regionales en los próximos días. [ev_0072387728](#ev_0072387728)\n- Posibilidad de que las elecciones en Serbia, con el movimiento estudiantil desafiando 12 años de liderazgo de Vucic, generen inestabilidad política en los Balcanes. [ev_9f355fafa1](#ev_9f355fafa1)\n- Posibilidad de que la cobertura sobre la revuelta en Francia, centrada en Seine-Saint-Denis, derive en nuevas medidas de seguridad o políticas migratorias. [ev_d487051152](#ev_d487051152)\n- Posibilidad de que las acusaciones cruzadas entre Obama y Trump en campaña de midterms intensifiquen la polarización política previa a la elección. [ev_d4f8652cd7](#ev_d4f8652cd7)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-10-14T19:40:37+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-10-23T17:00:00+00:00 |\n| NASA | oficial | Disponible | 1 | 2026-10-25T08:19:48+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 0 | 2026-10-22T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-10-21T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-10-21T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-10-24T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 0 | 2026-10-16T15:00:00+00:00 |\n| BCE | oficial | Disponible | 0 | 2026-10-24T06:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-10-24T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 0 | 2026-10-23T16:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-20T08:20:02+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-10-23T16:00:06+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-10-16T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | Disponible | 0 | 2026-10-23T13:15:00+00:00 |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-10-09T15:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-10-26T23:34:56+00:00 |\n| NASA · Comunicados | oficial | Disponible | 1 | 2026-10-25T08:19:48+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-10-14T10:00:39+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-10-16T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-10-22T20:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-10-23T06:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-10-15T18:09:35+00:00 |\n| BBC News | medio | Disponible | 22 | 2026-10-25T14:39:47+00:00 |\n| BBC Mundo | medio | Disponible | 11 | 2026-10-25T12:42:07+00:00 |\n| CNN | medio | Disponible | 43 | 2026-10-25T14:45:21.621000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-10-25T14:50:34+00:00 |\n| The Guardian | medio | Disponible | 27 | 2026-10-25T14:41:17+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-10-25T14:47:55+00:00 |\n| El País | medio | Disponible | 19 | 2026-10-25T12:01:28+00:00 |\n| CNBC | medio | Disponible | 14 | 2026-10-25T14:14:23+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-10-07T17:06:26+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-10-25T14:30:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 3 | 2026-10-25T11:00:03+00:00 |\n| BBC · Tecnología | medio | Disponible | 0 | 2026-10-24T00:05:45+00:00 |\n| BBC · Economía | medio | Disponible | 8 | 2026-10-25T10:03:17+00:00 |\n",
   "nexo": {
     "resumen": [
-      "Sin novedad oficial verificable en las últimas 24 horas."
+      "Cobertura insuficiente en la ventana de 24 horas: los hechos recolectados hoy (25 de octubre) son en su mayoría piezas de estilo de vida o análisis electoral sin cifras verificables (hielo derretido, alimentación para la piel, observación de aves), sin vínculo documentado entre dimensiones del Nexo.",
+      "Las únicas notas con relevancia sistémica potencial son las elecciones en Serbia, la segunda vuelta presidencial en Brasil y la cobertura de las protestas en Francia, pero ninguna aporta datos cuantitativos ni conecta explícitamente dos dimensiones del mapa.",
+      "No se documenta en los hechos del día ningún vínculo entre clima, recursos, tecnología, cadenas, geopolítica, finanzas o demografía que sostenga alguno de los cuatro flujos o los tres bucles críticos.",
+      "No hay elementos en los hechos de hoy que contradigan o corrijan explícitamente afirmaciones de reportes anteriores."
     ],
     "flujos": {
       "Presión Climática": {
@@ -61,61 +374,448 @@
         "hechos": []
       }
     },
-    "senales": [],
+    "senales": [
+      {
+        "texto": "Posibilidad de que el resultado de la segunda vuelta presidencial en Brasil (São Paulo como estado clave) redefina alineamientos regionales en los próximos días.",
+        "hechos": [
+          "ev_0072387728"
+        ]
+      },
+      {
+        "texto": "Posibilidad de que las elecciones en Serbia, con el movimiento estudiantil desafiando 12 años de liderazgo de Vucic, generen inestabilidad política en los Balcanes.",
+        "hechos": [
+          "ev_9f355fafa1"
+        ]
+      },
+      {
+        "texto": "Posibilidad de que la cobertura sobre la revuelta en Francia, centrada en Seine-Saint-Denis, derive en nuevas medidas de seguridad o políticas migratorias.",
+        "hechos": [
+          "ev_d487051152"
+        ]
+      },
+      {
+        "texto": "Posibilidad de que las acusaciones cruzadas entre Obama y Trump en campaña de midterms intensifiquen la polarización política previa a la elección.",
+        "hechos": [
+          "ev_d4f8652cd7"
+        ]
+      }
+    ],
     "correcciones": []
   },
   "cobertura": {
     "noaa": {
       "ok": true,
-      "piezas": 10
+      "piezas": 10,
+      "fuente": "NOAA",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-14T19:40:37+00:00",
+      "recientes": 0
     },
     "openai": {
       "ok": true,
-      "piezas": 1318
+      "piezas": 1318,
+      "fuente": "OpenAI",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-23T17:00:00+00:00",
+      "recientes": 0
     },
     "nasa": {
       "ok": true,
-      "piezas": 10
+      "piezas": 10,
+      "fuente": "NASA",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-25T08:19:48+00:00",
+      "recientes": 1
     },
     "cisa": {
       "ok": false,
-      "error": "HTTP Error 403: Forbidden"
+      "piezas": 0,
+      "fuente": "CISA",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
     },
     "eia": {
       "ok": true,
-      "piezas": 20
+      "piezas": 20,
+      "fuente": "EIA",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-22T14:00:00+00:00",
+      "recientes": 0
     },
     "fao": {
       "ok": true,
-      "piezas": 20
+      "piezas": 20,
+      "fuente": "FAO",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-21T12:00:00+00:00",
+      "recientes": 0
     },
     "wto": {
       "ok": true,
-      "piezas": 10
+      "piezas": 10,
+      "fuente": "OMC",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-21T00:00:00+00:00",
+      "recientes": 0
     },
     "un": {
       "ok": true,
-      "piezas": 30
+      "piezas": 30,
+      "fuente": "ONU",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-24T12:00:00+00:00",
+      "recientes": 0
     },
     "fed": {
       "ok": true,
-      "piezas": 20
+      "piezas": 20,
+      "fuente": "Reserva Federal",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-16T15:00:00+00:00",
+      "recientes": 0
     },
     "ecb": {
       "ok": true,
-      "piezas": 15
+      "piezas": 15,
+      "fuente": "BCE",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-24T06:00:00+00:00",
+      "recientes": 0
     },
     "imf": {
       "ok": false,
-      "error": "HTTP Error 403: Forbidden"
+      "piezas": 0,
+      "fuente": "FMI",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
     },
     "iom": {
       "ok": false,
-      "error": "HTTP Error 403: Forbidden"
+      "piezas": 0,
+      "fuente": "OIM",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
     },
     "unhcr": {
       "ok": false,
-      "error": "HTTP Error 403: Forbidden"
+      "piezas": 0,
+      "fuente": "ACNUR",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "un-en": {
+      "ok": true,
+      "piezas": 30,
+      "fuente": "ONU (inglés)",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-24T12:00:00+00:00",
+      "recientes": 0
+    },
+    "consilium": {
+      "ok": true,
+      "piezas": 20,
+      "fuente": "Consejo de la Unión Europea",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "google": {
+      "ok": true,
+      "piezas": 20,
+      "fuente": "Google",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-23T16:00:00+00:00",
+      "recientes": 0
+    },
+    "microsoft": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "Microsoft",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-20T08:20:02+00:00",
+      "recientes": 0
+    },
+    "meta": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "Meta",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-23T16:00:06+00:00",
+      "recientes": 0
+    },
+    "apple": {
+      "ok": true,
+      "piezas": 20,
+      "fuente": "Apple",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "nist": {
+      "ok": true,
+      "piezas": 40,
+      "fuente": "NIST",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-16T12:00:00+00:00",
+      "recientes": 0
+    },
+    "esa": {
+      "ok": true,
+      "piezas": 9,
+      "fuente": "Agencia Espacial Europea",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-23T13:15:00+00:00",
+      "recientes": 0
+    },
+    "noaa-ncei": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "NOAA NCEI",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-09T15:00:00+00:00",
+      "recientes": 0
+    },
+    "noaa-nhc": {
+      "ok": true,
+      "piezas": 2,
+      "fuente": "NOAA · Centro Nacional de Huracanes",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-26T23:34:56+00:00",
+      "recientes": 1
+    },
+    "nasa-releases": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "NASA · Comunicados",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-25T08:19:48+00:00",
+      "recientes": 1
+    },
+    "usda": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Departamento de Agricultura de EE. UU.",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "ec-trade": {
+      "ok": true,
+      "piezas": 30,
+      "fuente": "Comisión Europea · Comercio",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-14T10:00:39+00:00",
+      "recientes": 0
+    },
+    "bis": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "Banco de Pagos Internacionales",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-16T00:00:00+00:00",
+      "recientes": 0
+    },
+    "boe": {
+      "ok": true,
+      "piezas": 50,
+      "fuente": "Banco de Inglaterra",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-22T20:00:00+00:00",
+      "recientes": 0
+    },
+    "boj": {
+      "ok": true,
+      "piezas": 51,
+      "fuente": "Banco de Japón",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-23T06:00:00+00:00",
+      "recientes": 0
+    },
+    "census": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "Oficina del Censo de EE. UU.",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-15T18:09:35+00:00",
+      "recientes": 0
+    },
+    "bbc-world": {
+      "ok": true,
+      "piezas": 34,
+      "fuente": "BBC News",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-10-25T14:39:47+00:00",
+      "recientes": 22
+    },
+    "bbc-mundo": {
+      "ok": true,
+      "piezas": 34,
+      "fuente": "BBC Mundo",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-10-25T12:42:07+00:00",
+      "recientes": 11
+    },
+    "cnn": {
+      "ok": true,
+      "piezas": 152,
+      "fuente": "CNN",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-10-25T14:45:21.621000+00:00",
+      "recientes": 43
+    },
+    "dw-es": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Deutsche Welle",
+      "tipo": "medio",
+      "error": "syntax error: line 1, column 0",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "france24": {
+      "ok": true,
+      "piezas": 24,
+      "fuente": "France 24",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-10-25T14:50:34+00:00",
+      "recientes": 24
+    },
+    "guardian": {
+      "ok": true,
+      "piezas": 45,
+      "fuente": "The Guardian",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-10-25T14:41:17+00:00",
+      "recientes": 27
+    },
+    "aljazeera": {
+      "ok": true,
+      "piezas": 25,
+      "fuente": "Al Jazeera",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-10-25T14:47:55+00:00",
+      "recientes": 25
+    },
+    "elpais": {
+      "ok": true,
+      "piezas": 21,
+      "fuente": "El País",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-10-25T12:01:28+00:00",
+      "recientes": 19
+    },
+    "cnbc": {
+      "ok": true,
+      "piezas": 30,
+      "fuente": "CNBC",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-10-25T14:14:23+00:00",
+      "recientes": 14
+    },
+    "reuters": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Reuters",
+      "tipo": "agencia",
+      "error": "HTTP Error 404: Not Found",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "reuters-best": {
+      "ok": true,
+      "piezas": 12,
+      "fuente": "Reuters Best",
+      "tipo": "agencia",
+      "error": "",
+      "ultima_publicacion": "2026-10-07T17:06:26+00:00",
+      "recientes": 0
+    },
+    "efe": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Agencia EFE",
+      "tipo": "agencia",
+      "error": "HTTP Error 500: Internal Server Error",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "marketwatch": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "MarketWatch",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-10-25T14:30:00+00:00",
+      "recientes": 10
+    },
+    "guardian-environment": {
+      "ok": true,
+      "piezas": 34,
+      "fuente": "The Guardian · Medio ambiente",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-10-25T11:00:03+00:00",
+      "recientes": 3
+    },
+    "bbc-tech": {
+      "ok": true,
+      "piezas": 20,
+      "fuente": "BBC · Tecnología",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-10-24T00:05:45+00:00",
+      "recientes": 0
+    },
+    "bbc-business": {
+      "ok": true,
+      "piezas": 55,
+      "fuente": "BBC · Economía",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-10-25T10:03:17+00:00",
+      "recientes": 8
     }
   }
 }
