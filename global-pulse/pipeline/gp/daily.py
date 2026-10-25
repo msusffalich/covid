@@ -71,7 +71,6 @@ La falta de documentos recolectados es cobertura insuficiente, no ausencia de no
     req = urllib.request.Request(config.ANTHROPIC_URL,
         data=json.dumps({'model': config.ANTHROPIC_MODEL, 'max_tokens': 16000,
                          'tools': [{'name': 'entregar_resultado',
-                            'strict': isinstance(payload, list),
                             'description': 'Entrega la selección de hechos o el análisis solicitado con todos los campos del contrato. No escribe archivos ni ejecuta acciones; solo devuelve los datos estructurados para su validación.',
                             'input_schema': {'type': 'object', 'properties': properties, 'required': list(properties), 'additionalProperties': False}}],
                          'tool_choice': {'type': 'tool', 'name': 'entregar_resultado'},
@@ -289,6 +288,40 @@ def nodes_for(facts, pieces):
     return validate.run(nodes, pieces)
 
 
+def extract_facts(pieces):
+    """Conservative source excerpts keep fresh Spanish news available if synthesis fails."""
+    from .synthesize import _categoria
+    groups = {d: [] for d in DIMENSIONS}
+    mapping = {'economia': 'finanzas', 'geopolitica': 'geopolitica', 'clima': 'clima',
+               'tecnologia': 'tecnologia', 'innovacion': 'tecnologia'}
+    for p in pieces:
+        if p.get('idioma') != 'es':
+            continue
+        text = p['texto_norm']
+        dim = None
+        for name, words in [('demografia', ['migracion', 'migrante', 'refugiado', 'demografia', 'desplazados']),
+                            ('cadenas', ['cadena de suministro', 'arancel', 'logistica', 'ruta maritima', 'aduana']),
+                            ('recursos', ['petroleo', 'mineral', 'litio', 'alimentos', 'agua potable', 'gas natural'])]:
+            if any(word in text for word in words):
+                dim = name
+                break
+        dim = dim or mapping.get(_categoria(text))
+        if dim:
+            groups[dim].append(p)
+    facts = []
+    for dim, candidates in groups.items():
+        # A short, attributed source excerpt; no generated assertions or translation.
+        for p in candidates[:3]:
+            text = ' '.join(p['cuerpo'].split()[:28]) or p['titulo']
+            facts.append({'id': p['id'], 'dimension': dim,
+                'titulo': {'es': p['titulo'], 'en': p['titulo']},
+                'sintesis': {'es': 'Extracto de la fuente: ' + text, 'en': 'Source excerpt (Spanish): ' + text},
+                'lugares': [], 'paises': [], 'entidades': [p['fuente']], 'temas': [DIMENSIONS[dim]],
+                'impacto': 50, 'referencia': {**{k: p[k] for k in ('fuente', 'url', 'fecha_pub')},
+                    'tipo': BY_ID[p['fuente_id']]['tipo']}})
+    return facts
+
+
 def run(log=print):
     cutoff = datetime.now(timezone.utc)
     fecha = cutoff.date().isoformat()
@@ -336,7 +369,13 @@ def run(log=print):
         # Raw evidence survives a synthesis interruption, too.
         atomic(checkpoint, state)
     if not state.get('hechos_listos'):
-        state['hechos'] = facts_for(state['piezas']) if state['piezas'] else []
+        try:
+            state['hechos'] = facts_for(state['piezas']) if state['piezas'] else []
+        except Exception as exc:
+            state['error_sintesis'] = str(exc)[:250]
+            state['hechos'] = extract_facts(state['piezas'])
+            state['motor_hechos'] = 'extractivo'
+            log('Se conservan noticias frescas como extractos atribuidos: ' + str(exc))
         state['hechos_listos'] = True
         atomic(checkpoint, state)
     # Keep the existing daily Markdown path and filename.
