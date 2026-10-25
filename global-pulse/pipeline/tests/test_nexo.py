@@ -66,6 +66,11 @@ class NexoTests(unittest.TestCase):
         item = collect.parse_rss(xml, dict(id='cnn', name='CNN', lang='en'))[0]
         self.assertEqual(item['fecha_pub'], '2026-10-25T05:00:00Z')
 
+    def test_model_json_with_explanatory_prefix(self):
+        self.assertEqual(daily.decode_json('Resultado:\n```JSON\n{"hechos": []}\n```'), {'hechos': []})
+        with self.assertRaises(ValueError):
+            daily.decode_json('No se entregó un objeto estructurado')
+
 
 if __name__ == '__main__':
     unittest.main()

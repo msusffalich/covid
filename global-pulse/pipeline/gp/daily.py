@@ -31,6 +31,19 @@ def atomic(path, data):
     tmp.replace(path)
 
 
+def decode_json(text):
+    """Accept a fenced/prefaced JSON object; never treat prose as an empty report."""
+    decoder = json.JSONDecoder()
+    for match in re.finditer(r'\{', text):
+        try:
+            result, _ = decoder.raw_decode(text[match.start():])
+            if isinstance(result, dict) and ('hechos' in result or 'resumen' in result):
+                return result
+        except json.JSONDecodeError:
+            continue
+    raise ValueError('La síntesis no devolvió el objeto JSON requerido: ' + text[:180].replace('\n', ' '))
+
+
 def ask(system, payload):
     key = os.environ.get('ANTHROPIC_API_KEY')
     if not key:
@@ -53,7 +66,7 @@ La falta de documentos recolectados es cobertura insuficiente, no ausencia de no
     if result.get('stop_reason') == 'max_tokens':
         raise ValueError('Respuesta truncada')
     text = ''.join(b.get('text', '') for b in result['content'])
-    return json.loads(re.sub(r'^```(?:json)?\s*|\s*```$', '', text.strip()))
+    return decode_json(text)
 
 
 def facts_for(pieces):
