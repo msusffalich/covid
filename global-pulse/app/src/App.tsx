@@ -132,7 +132,7 @@ function Content() {
               { day: 'numeric', month: 'short', year: 'numeric' })}</strong>
             <span>{t.pulseOf} · {new Date(m.generado).toLocaleTimeString(
               lang === 'es' ? 'es' : 'en-US',
-              { hour: '2-digit', minute: '2-digit', hour12: false })} UTC</span>
+              { hour: '2-digit', minute: '2-digit', hour12: false, timeZone: 'UTC' })} UTC</span>
           </div>
           <div className="kpi"><strong>{nodos.length}</strong><span>{t.nodes}</span></div>
           <div className="kpi"><strong>{m.metricas.verificados}/{m.metricas.nodos}</strong>
@@ -155,7 +155,7 @@ function Content() {
           <span className="updated-at">
             {t.updatedAt}: {new Date(m.generado).toLocaleString(
               lang === 'es' ? 'es' : 'en-US',
-              { dateStyle: 'medium', timeStyle: 'short' })} UTC
+              { dateStyle: 'medium', timeStyle: 'short', timeZone: 'UTC' })} UTC
           </span>
         </div>
 
