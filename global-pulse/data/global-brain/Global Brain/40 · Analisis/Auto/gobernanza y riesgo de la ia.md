@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-10-25
-nodos: 13
+actualizado: 2026-10-26
+nodos: 14
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-25. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-26. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-13 nodos registrados en el periodo. Lo mas reciente: Google actualiza su política de privacidad: Gmail y Google Photos podrían usarse para anuncios personalizados.
+14 nodos registrados en el periodo. Lo mas reciente: SoftBank planea invertir 50.000 millones de dólares en IA en Malasia.
 
 ## Trend summary (EN)
-13 nodes recorded in the period. Most recent: Google updates privacy policy: Gmail and Google Photos may be used for targeted ads.
+14 nodes recorded in the period. Most recent: SoftBank reportedly plans $50 billion AI investment in Malaysia.
 
 > [!note] Estado actual
-> Google actualiza su política de privacidad: Gmail y Google Photos podrían usarse para anuncios personalizados
+> SoftBank planea invertir 50.000 millones de dólares en IA en Malasia
 
-## Nodos recientes (13 en la ventana)
+## Nodos recientes (14 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-26 | 55 | K1 | SoftBank planea invertir 50.000 millones de dólares en IA en Mal |
 | 2026-10-24 | 40 | K2 | Google actualiza su política de privacidad: Gmail y Google Photo |
 | 2026-10-22 | 66 | K1 | Canadian publisher Boréal ends relationship with novelist Thélys |
 | 2026-10-21 | 78 | K2 | Elon Musk plantea una posible fusión histórica entre Tesla y Spa |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-15 | 55 | K1 | Ingeniero saudí de OpenAI arrestado por espionaje tras hallar un |
 | 2026-10-14 | 68 | K1 | ASML reporta ventas récord y advierte que la demanda de IA super |
 | 2026-10-13 | 62 | K1 | Meta lanza Muse Wonder, su nueva IA para competir con ChatGPT y  |
-| 2026-10-09 | 55 | K0 | OpenAI despide a tres investigadores de seguridad en medio de du |
 
 [[Global Brain — Inicio|← Inicio]]

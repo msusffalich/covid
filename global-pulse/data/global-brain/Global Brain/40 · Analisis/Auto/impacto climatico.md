@@ -2,29 +2,32 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-25
-nodos: 21
+actualizado: 2026-10-26
+nodos: 23
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-25. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-26. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-21 nodos registrados en el periodo. Lo mas reciente: Estudio revela que la expansión del casquete glaciar Laurentide se interrumpió por el cambio climático antropogénico.
+23 nodos registrados en el periodo. Lo mas reciente: Tormentas e inundaciones prolongadas dejan un muerto en Queensland, Australia.
 
 ## Trend summary (EN)
-21 nodes recorded in the period. Most recent: Study reveals Laurentide ice sheet expansion was reversed by anthropogenic climate change.
+23 nodes recorded in the period. Most recent: Storms and prolonged flooding leave one dead in Queensland, Australia.
 
 > [!note] Estado actual
-> Estudio revela que la expansión del casquete glaciar Laurentide se interrumpió por el cambio climático antropogénico
+> Tormentas e inundaciones prolongadas dejan un muerto en Queensland, Australia
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (23 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
-| 2026-10-25 | 45 | K1 | Estudio revela que la expansión del casquete glaciar Laurentide  |
+| 2026-10-26 | 40 | K1 | Tormentas e inundaciones prolongadas dejan un muerto en Queensla |
+| 2026-10-26 | 20 | K1 | NOAA descarta formación de ciclones tropicales en el Atlántico e |
+| 2026-10-25 | 40 | K1 | Tormenta multiestatal 'inusualmente grande' golpea el este de Au |
+| 2026-10-25 | 20 | K1 | NOAA no espera formación de ciclones tropicales en el Atlántico  |
 | 2026-10-23 | 72 | K1 | Estudio: el calor extremo de 2026 causó más de 50.000 muertes en |
 | 2026-10-20 | 55 | K1 | Inundaciones en el este de España dejan cuatro muertos |
 | 2026-10-18 | 45 | K1 | El huracán Trudy se fortalece a categoría 2 y se acerca a la cos |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-10-16 | 38 | K1 | WHO and the Netherlands renew their partnership on climate chang |
 | 2026-10-14 | 45 | K1 | Tormenta inusual de lluvia y granizo desborda Santiago de Chile |
 | 2026-10-13 | 55 | K1 | El huracán Simón y la tormenta tropical Rachel dejan muertos y d |
-| 2026-10-13 | 51 | K1 | How NRL's Super League bid could revive a fallen giant |
-| 2026-10-12 | 55 | K1 | El huracán Simon azota la costa del Pacífico de México con categ |
-| 2026-10-12 | 54 | K1 | El Niño gana fuerza en América Latina: sequía, hambre y riesgo d |
 
 [[Global Brain — Inicio|← Inicio]]
