@@ -3,6 +3,10 @@
 name: global-pulse-daily
 
 on:
+  push:
+    paths:
+      - 'global-pulse/pipeline/**'
+      - '.github/workflows/global-pulse-daily.yml'
   schedule:
     - cron: "0 5 * * *"
   workflow_dispatch:

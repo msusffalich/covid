@@ -37,7 +37,9 @@ class NexoTests(unittest.TestCase):
         complete = daily.markdown(state)
         self.assertNotIn('análisis pendiente', complete)
         self.assertEqual(complete.count(daily.NO_MOVEMENT), 7)
-        for key in ('dimensiones', 'lugares', 'paises', 'entidades', 'temas', 'bucles_activos'):
+        self.assertIn('"cadenas"', complete.split('\n---\n')[0])
+        self.assertIn('## Metadatos del reporte', complete)
+        for key in ('dimensiones_con_hechos', 'lugares', 'paises', 'entidades', 'temas', 'bucles_activos'):
             self.assertIn(key + ': []', complete)
 
     def test_analysis_rejects_unpublished_citations(self):
@@ -46,6 +48,11 @@ class NexoTests(unittest.TestCase):
         fake['flujos']['Presión Climática'] = dict(estado='Con movimiento', texto='Unsupported', hechos=['unknown'])
         with patch.object(daily, 'ask', return_value=fake), self.assertRaises(ValueError):
             daily.analyze([dict(id='ev_1', dimension='clima')])
+
+    def test_invalid_analysis_is_retried_with_feedback(self):
+        with patch.object(daily, '_analyze_once', side_effect=[ValueError('missing evidence'), {'ok': True}]) as call:
+            self.assertEqual(daily.analyze([{'id': 'ev_1'}]), {'ok': True})
+            self.assertEqual(call.call_args.args[1], 'missing evidence')
 
     def test_publish_keeps_canonical_bytes_and_empty_day(self):
         with tempfile.TemporaryDirectory() as tmp:

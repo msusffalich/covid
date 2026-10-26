@@ -43,7 +43,12 @@ def _with_retry(fn, *args, **kw):
 def run_cycle(mode: str, synth_mode: str) -> dict:
     if mode == 'live':
         from gp.daily import run
-        return run(log)
+        try:
+            return run(log)
+        finally:
+            # The live path must refresh dated trends too, including partial days.
+            trends.run(mode, log)
+            publish.archive_history()
     t0 = time.time()
     log(f"=== Global Pulse · ciclo {datetime.now(timezone.utc).isoformat()} ===")
 

@@ -173,6 +173,17 @@ Responde JSON {"hechos":[{"id":"ev_...","dimension":"...","titulo":{"es":"","en"
 
 
 def analyze(facts):
+    """Retry invalid model output with explicit validation feedback, never waive evidence."""
+    error = None
+    for attempt in range(3):
+        try:
+            return _analyze_once(facts, str(error) if error else '')
+        except ValueError as exc:
+            error = exc
+    raise error
+
+
+def _analyze_once(facts, feedback=''):
     if not facts:
         return {'resumen': ['La recolección no reunió hechos suficientes para elaborar el pulso.',
                             'La cobertura disponible no permite afirmar que no haya noticias.',
@@ -196,10 +207,14 @@ Resumen de 3–5 líneas. Hasta 5 señales futuras, rotuladas como posibilidad y
 Solo corrige reportes anteriores si un hecho oficial del día demuestra explícitamente
 el error. No confundas una novedad posterior con un error del reporte anterior.
 Cada corrección incluye fecha_reporte, texto y hechos [ids del día]. Sin prueba: [].
+Cada movimiento DEBE citar hechos de al menos DOS dimensiones distintas incluidas
+en la definición de ese flujo o bucle. Un solo hecho o dos de la misma dimensión
+no bastan: en ese caso declara "Sin movimiento verificado hoy" sin texto ni citas.
 JSON {"resumen":["..."],"flujos":{"nombre":{"estado":"...","texto":"...","hechos":[]}},
 "bucles":{"nombre":{"estado":"...","texto":"...","hechos":[]}},
 "senales":[{"texto":"...","hechos":["ev_..."]}],
-"correcciones":[{"fecha_reporte":"AAAA-MM-DD","texto":"...","hechos":["ev_..."]}]}''',
+"correcciones":[{"fecha_reporte":"AAAA-MM-DD","texto":"...","hechos":["ev_..."]}]}'''
+        + ('\nLa respuesta anterior fue rechazada. Corrige este error sin inventar evidencia: ' + feedback if feedback else ''),
         {'hechos': facts, 'flujos': FLOWS, 'bucles': LOOPS, 'reportes_anteriores': previous})
     ids = {f['id']: f['dimension'] for f in facts}
     if not isinstance(result.get('resumen'), list) or not 3 <= len(result['resumen']) <= 5:
@@ -213,7 +228,7 @@ JSON {"resumen":["..."],"flujos":{"nombre":{"estado":"...","texto":"...","hechos
                 raise ValueError('Análisis con cita ajena al reporte')
             if item.get('estado') == 'Con movimiento':
                 if not item.get('texto') or len({ids[i] for i in refs} & set(definitions[name])) < 2:
-                    raise ValueError('Movimiento sin evidencia entre dimensiones')
+                    raise ValueError(f'{kind}/{name}: movimiento sin texto o sin citas de dos dimensiones permitidas distintas')
             elif item.get('estado') != NO_MOVEMENT or refs or item.get('texto'):
                 raise ValueError('Estado de movimiento inválido')
     if len(result.get('senales', [])) > 5 or not isinstance(result.get('correcciones'), list):
@@ -233,7 +248,8 @@ def markdown(state):
     facts, analysis = state['hechos'], state.get('analisis')
     active = [name for name, item in (analysis or {}).get('bucles', {}).items() if item['estado'] == 'Con movimiento']
     metadata = {'tipo': 'pulso-global', 'fecha': state['fecha'],
-                'dimensiones': [d for d in DIMENSIONS if any(f['dimension'] == d for f in facts)],
+                'dimensiones': list(DIMENSIONS),
+                'dimensiones_con_hechos': [d for d in DIMENSIONS if any(f['dimension'] == d for f in facts)],
                 **{key: sorted({v for f in facts for v in f[key]}) for key in ('lugares', 'paises', 'entidades', 'temas')},
                 'bucles_activos': active, 'corte': state['corte'],
                 'inicio_ventana': state['inicio_ventana'],
@@ -283,7 +299,9 @@ def markdown(state):
     for sid, item in state['cobertura'].items():
         status = 'Disponible' if item['ok'] else 'No disponible'
         lines += [f"| {item.get('fuente', sid)} | {item.get('tipo', 'oficial')} | {status} | {item.get('recientes', 0)} | {item.get('ultima_publicacion') or 'Sin fecha verificable'} |"]
-    lines += ['']
+    lines += ['', '## Metadatos del reporte', '', '```yaml']
+    lines += [f'{k}: {json.dumps(v, ensure_ascii=False)}' for k, v in metadata.items()]
+    lines += ['```', '']
     return '\n'.join(lines)
 
 
