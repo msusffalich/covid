@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-26
-nodos: 35
+actualizado: 2026-10-27
+nodos: 34
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-26. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-27. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-35 nodos registrados en el periodo. Lo mas reciente: Arabia Saudita intercepta misiles y drones hutíes en medio de tensiones regionales.
+34 nodos registrados en el periodo. Lo mas reciente: Arabia Saudita intercepta misiles y drones hutíes en medio de tensiones regionales.
 
 ## Trend summary (EN)
-35 nodes recorded in the period. Most recent: Saudi Arabia intercepts missiles and drones from Iran-backed Houthis.
+34 nodes recorded in the period. Most recent: Saudi Arabia intercepts missiles and drones from Iran-backed Houthis.
 
 > [!note] Estado actual
 > Arabia Saudita intercepta misiles y drones hutíes en medio de tensiones regionales
 
-## Nodos recientes (35 en la ventana)
+## Nodos recientes (34 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-26 | 55 | K1 | Arabia Saudita intercepta misiles y drones hutíes en medio de te |
