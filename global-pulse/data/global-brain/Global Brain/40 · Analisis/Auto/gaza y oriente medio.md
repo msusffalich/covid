@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-10-27
-nodos: 17
+actualizado: 2026-10-28
+nodos: 19
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-27. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-28. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-17 nodos registrados en el periodo. Lo mas reciente: Israel celebra elecciones decisivas con oposición favorita en sondeos.
+19 nodos registrados en el periodo. Lo mas reciente: Netanyahu gana elecciones en Israel pero su coalición no logra mayoría.
 
 ## Trend summary (EN)
-17 nodes recorded in the period. Most recent: Israel holds decisive election with opposition favored in polls.
+19 nodes recorded in the period. Most recent: Netanyahu wins Israel election but his coalition falls short of majority.
 
 > [!note] Estado actual
-> Israel celebra elecciones decisivas con oposición favorita en sondeos
+> Netanyahu gana elecciones en Israel pero su coalición no logra mayoría
 
-## Nodos recientes (17 en la ventana)
+## Nodos recientes (19 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-28 | 75 | K1 | Netanyahu gana elecciones en Israel pero su coalición no logra m |
+| 2026-10-28 | 50 | K1 | Bonos y shekel israelíes caen tras resultado electoral sin mayor |
+| 2026-10-28 | 45 | K1 | Bolsa de Israel cae más de 3% ante incertidumbre electoral |
 | 2026-10-27 | 78 | K1 | Israel celebra elecciones decisivas con oposición favorita en so |
 | 2026-10-26 | 65 | K1 | Israel desplaza a cerca de 2.000 palestinos en Hebrón antes de e |
 | 2026-10-25 | 70 | K1 | Israel celebra elecciones esta semana, las primeras desde el ata |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-10-20 | 62 | K1 | Escalada de violencia de colonos en Cisjordania y ataques israel |
 | 2026-10-19 | 72 | K1 | Recortes de financiación obligan al PMA a reducir la ayuda alime |
 | 2026-10-18 | 62 | K1 | Colonos israelíes atacan a diplomáticos europeos y a un alcalde  |
-| 2026-10-16 | 72 | K1 | Navi Pillay, ganadora del Premio Nobel de la Paz 2026, llama a l |
-| 2026-10-15 | 82 | K1 | Buques portacontenedores se hunden cerca del estrecho de Ormuz e |
-| 2026-10-15 | 68 | K1 | Navi Pillay, Premio Nobel de la Paz 2026, llama a prevenir genoc |
 
 [[Global Brain — Inicio|← Inicio]]

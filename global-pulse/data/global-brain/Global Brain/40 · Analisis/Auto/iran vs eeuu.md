@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-27
-nodos: 34
+actualizado: 2026-10-28
+nodos: 36
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-27. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-28. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-34 nodos registrados en el periodo. Lo mas reciente: Arabia Saudita intercepta misiles y drones hutíes en medio de tensiones regionales.
+36 nodos registrados en el periodo. Lo mas reciente: Estados del Golfo negocian pacto de paz para evitar nueva guerra entre EE.UU. e Irán.
 
 ## Trend summary (EN)
-34 nodes recorded in the period. Most recent: Saudi Arabia intercepts missiles and drones from Iran-backed Houthis.
+36 nodes recorded in the period. Most recent: Gulf states negotiate peace deal to avert renewed US-Iran war.
 
 > [!note] Estado actual
-> Arabia Saudita intercepta misiles y drones hutíes en medio de tensiones regionales
+> Estados del Golfo negocian pacto de paz para evitar nueva guerra entre EE.UU. e Irán
 
-## Nodos recientes (34 en la ventana)
+## Nodos recientes (36 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-28 | 70 | K1 | Estados del Golfo negocian pacto de paz para evitar nueva guerra |
+| 2026-10-28 | 50 | K1 | Derrame de petróleo en el estrecho de Ormuz obliga a cerrar play |
+| 2026-10-28 | 30 | K1 | Crucero de larga duración queda varado en Camboya por aumento de |
 | 2026-10-26 | 55 | K1 | Arabia Saudita intercepta misiles y drones hutíes en medio de te |
 | 2026-10-25 | 65 | K1 | Arabia Saudita intercepta misiles y drones hutíes en escalada co |
 | 2026-10-25 | 55 | K1 | Arabia Saudita intercepta misiles hutíes ante riesgos para sumin |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-10-23 | 78 | K2 | Ataques en el estrecho de Ormuz disparan el precio del petróleo  |
 | 2026-10-23 | 75 | K1 | EEUU ordena evacuar diplomáticos de Arabia Saudí y otros países  |
 | 2026-10-23 | 45 | K1 | Meta llega a un acuerdo para compensar a Zuckerberg ante posible |
-| 2026-10-22 | 50 | K2 | Kenichi Yoda, Princesa de Asturias de Comunicación y Humanidades |
-| 2026-10-21 | 68 | K0 | Reino Unido desplegará cazas Typhoon para proteger a Arabia Saud |
-| 2026-10-21 | 62 | K1 | Ataque con misiles hutíes contra campo de entrenamiento en Yemen |
 
 [[Global Brain — Inicio|← Inicio]]

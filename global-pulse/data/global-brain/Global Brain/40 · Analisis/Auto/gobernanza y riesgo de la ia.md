@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-10-27
-nodos: 14
+actualizado: 2026-10-28
+nodos: 15
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-27. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-28. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-14 nodos registrados en el periodo. Lo mas reciente: SoftBank planea invertir 50.000 millones de dólares en IA en Malasia.
+15 nodos registrados en el periodo. Lo mas reciente: OpenAI anuncia colaboración con Legora para automatizar trabajo legal con IA.
 
 ## Trend summary (EN)
-14 nodes recorded in the period. Most recent: SoftBank reportedly plans $50 billion AI investment in Malaysia.
+15 nodes recorded in the period. Most recent: OpenAI announces collaboration with Legora to automate legal work with AI.
 
 > [!note] Estado actual
-> SoftBank planea invertir 50.000 millones de dólares en IA en Malasia
+> OpenAI anuncia colaboración con Legora para automatizar trabajo legal con IA
 
-## Nodos recientes (14 en la ventana)
+## Nodos recientes (15 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-28 | 40 | K1 | OpenAI anuncia colaboración con Legora para automatizar trabajo  |
 | 2026-10-26 | 55 | K1 | SoftBank planea invertir 50.000 millones de dólares en IA en Mal |
 | 2026-10-24 | 40 | K2 | Google actualiza su política de privacidad: Gmail y Google Photo |
 | 2026-10-22 | 66 | K1 | Canadian publisher Boréal ends relationship with novelist Thélys |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-15 | 62 | K1 | TSMC reporta ganancias récord por sexto trimestre consecutivo im |
 | 2026-10-15 | 55 | K1 | Ingeniero saudí de OpenAI arrestado por espionaje tras hallar un |
 | 2026-10-14 | 68 | K1 | ASML reporta ventas récord y advierte que la demanda de IA super |
-| 2026-10-13 | 62 | K1 | Meta lanza Muse Wonder, su nueva IA para competir con ChatGPT y  |
 
 [[Global Brain — Inicio|← Inicio]]

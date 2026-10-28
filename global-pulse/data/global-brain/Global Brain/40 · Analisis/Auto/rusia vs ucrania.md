@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-27
-nodos: 32
+actualizado: 2026-10-28
+nodos: 30
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-27. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-28. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-32 nodos registrados en el periodo. Lo mas reciente: Rusia lanza 280 drones y misiles pese a tregua local en Oleshky.
+30 nodos registrados en el periodo. Lo mas reciente: China y Rusia expanden control sobre rutas comerciales del Ártico.
 
 ## Trend summary (EN)
-32 nodes recorded in the period. Most recent: Russia launches 280 drones and missiles despite local truce in Oleshky.
+30 nodes recorded in the period. Most recent: China and Russia expand control over Arctic trade routes.
 
 > [!note] Estado actual
-> Rusia lanza 280 drones y misiles pese a tregua local en Oleshky
+> China y Rusia expanden control sobre rutas comerciales del Ártico
 
-## Nodos recientes (32 en la ventana)
+## Nodos recientes (30 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-28 | 55 | K1 | China y Rusia expanden control sobre rutas comerciales del Ártic |
 | 2026-10-27 | 70 | K1 | Rusia lanza 280 drones y misiles pese a tregua local en Oleshky |
 | 2026-10-27 | 62 | K1 | China y Rusia redibujan rutas comerciales árticas frente a Europ |
 | 2026-10-26 | 50 | K1 | Ucrania disputa a Musk acusación de violación de términos de Sta |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-19 | 78 | K1 | Trump suaviza sanciones a Rusia mientras Putin propone cumbre co |
 | 2026-10-19 | 70 | K1 | Ucrania lanza más de 1.000 drones contra Rusia, incendiando inst |
 | 2026-10-18 | 78 | K1 | Trump exime a Rusia de nuevas sanciones del Congreso pese a crít |
-| 2026-10-18 | 72 | K2 | Ucrania enfrenta debilitamiento de apoyo mientras Rusia intensif |
 
 [[Global Brain — Inicio|← Inicio]]
