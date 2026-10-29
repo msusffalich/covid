@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-10-28
+actualizado: 2026-10-29
 nodos: 30
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-28. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-29. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-30 nodos registrados en el periodo. Lo mas reciente: China y Rusia expanden control sobre rutas comerciales del Ártico.
+30 nodos registrados en el periodo. Lo mas reciente: Rusia ataca estación de tren en Dnipro y mata a 13 personas.
 
 ## Trend summary (EN)
-30 nodes recorded in the period. Most recent: China and Russia expand control over Arctic trade routes.
+30 nodes recorded in the period. Most recent: Russia strikes Dnipro train station, killing 13.
 
 > [!note] Estado actual
-> China y Rusia expanden control sobre rutas comerciales del Ártico
+> Rusia ataca estación de tren en Dnipro y mata a 13 personas
 
 ## Nodos recientes (30 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-29 | 70 | K1 | Rusia ataca estación de tren en Dnipro y mata a 13 personas |
 | 2026-10-28 | 55 | K1 | China y Rusia expanden control sobre rutas comerciales del Ártic |
 | 2026-10-27 | 70 | K1 | Rusia lanza 280 drones y misiles pese a tregua local en Oleshky |
 | 2026-10-27 | 62 | K1 | China y Rusia redibujan rutas comerciales árticas frente a Europ |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-20 | 72 | K2 | Zelenski se reúne con enviado de Trump en Oslo antes de conversa |
 | 2026-10-19 | 78 | K1 | Trump suaviza sanciones a Rusia mientras Putin propone cumbre co |
 | 2026-10-19 | 70 | K1 | Ucrania lanza más de 1.000 drones contra Rusia, incendiando inst |
-| 2026-10-18 | 78 | K1 | Trump exime a Rusia de nuevas sanciones del Congreso pese a crít |
 
 [[Global Brain — Inicio|← Inicio]]

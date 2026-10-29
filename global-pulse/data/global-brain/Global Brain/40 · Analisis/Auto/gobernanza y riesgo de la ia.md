@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-10-28
-nodos: 15
+actualizado: 2026-10-29
+nodos: 14
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-28. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-29. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-15 nodos registrados en el periodo. Lo mas reciente: OpenAI anuncia colaboración con Legora para automatizar trabajo legal con IA.
+14 nodos registrados en el periodo. Lo mas reciente: OpenAI anuncia colaboración con Legora para automatizar trabajo legal con IA.
 
 ## Trend summary (EN)
-15 nodes recorded in the period. Most recent: OpenAI announces collaboration with Legora to automate legal work with AI.
+14 nodes recorded in the period. Most recent: OpenAI announces collaboration with Legora to automate legal work with AI.
 
 > [!note] Estado actual
 > OpenAI anuncia colaboración con Legora para automatizar trabajo legal con IA
 
-## Nodos recientes (15 en la ventana)
+## Nodos recientes (14 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-28 | 40 | K1 | OpenAI anuncia colaboración con Legora para automatizar trabajo  |

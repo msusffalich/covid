@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-28
-nodos: 36
+actualizado: 2026-10-29
+nodos: 33
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-28. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-29. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-36 nodos registrados en el periodo. Lo mas reciente: Estados del Golfo negocian pacto de paz para evitar nueva guerra entre EE.UU. e Irán.
+33 nodos registrados en el periodo. Lo mas reciente: Estados del Golfo negocian pacto de paz para evitar nueva guerra entre EE.UU. e Irán.
 
 ## Trend summary (EN)
-36 nodes recorded in the period. Most recent: Gulf states negotiate peace deal to avert renewed US-Iran war.
+33 nodes recorded in the period. Most recent: Gulf states negotiate peace deal to avert renewed US-Iran war.
 
 > [!note] Estado actual
 > Estados del Golfo negocian pacto de paz para evitar nueva guerra entre EE.UU. e Irán
 
-## Nodos recientes (36 en la ventana)
+## Nodos recientes (33 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-28 | 70 | K1 | Estados del Golfo negocian pacto de paz para evitar nueva guerra |
