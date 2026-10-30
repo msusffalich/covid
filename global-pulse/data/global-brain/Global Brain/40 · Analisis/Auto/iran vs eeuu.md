@@ -2,28 +2,33 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-29
-nodos: 33
+actualizado: 2026-10-30
+nodos: 35
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-29. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-30. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-33 nodos registrados en el periodo. Lo mas reciente: Estados del Golfo negocian pacto de paz para evitar nueva guerra entre EE.UU. e Irán.
+35 nodos registrados en el periodo. Lo mas reciente: Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz.
 
 ## Trend summary (EN)
-33 nodes recorded in the period. Most recent: Gulf states negotiate peace deal to avert renewed US-Iran war.
+35 nodes recorded in the period. Most recent: Iran claims four tankers struck mines in Strait of Hormuz.
 
 > [!note] Estado actual
-> Estados del Golfo negocian pacto de paz para evitar nueva guerra entre EE.UU. e Irán
+> Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz
 
-## Nodos recientes (33 en la ventana)
+## Nodos recientes (35 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-30 | 68 | K1 | Irán afirma que cuatro petroleros chocaron con minas en el estre |
+| 2026-10-30 | 60 | K1 | Chevron y Exxon superan expectativas por alza de márgenes de ref |
+| 2026-10-30 | 58 | K1 | Resurge la piratería somalí en medio de la guerra entre EE.UU. e |
+| 2026-10-30 | 55 | K1 | Precios del petróleo siguen subiendo pese a recuperación de fluj |
+| 2026-10-30 | 55 | K1 | Las acciones globales de Trump sobre Ucrania e Irán generan divi |
 | 2026-10-28 | 70 | K1 | Estados del Golfo negocian pacto de paz para evitar nueva guerra |
 | 2026-10-28 | 50 | K1 | Derrame de petróleo en el estrecho de Ormuz obliga a cerrar play |
 | 2026-10-28 | 30 | K1 | Crucero de larga duración queda varado en Camboya por aumento de |
@@ -31,10 +36,5 @@ origen: global-pulse
 | 2026-10-25 | 65 | K1 | Arabia Saudita intercepta misiles y drones hutíes en escalada co |
 | 2026-10-25 | 55 | K1 | Arabia Saudita intercepta misiles hutíes ante riesgos para sumin |
 | 2026-10-25 | 45 | K1 | Derrame de petróleo de tanque en Estrecho de Ormuz llega a playa |
-| 2026-10-24 | 72 | K1 | EEUU evacúa diplomáticos de Arabia Saudí tras ataques hutíes a a |
-| 2026-10-24 | 70 | K1 | Rubio insta a cubanos a colaborar en secreto con la CIA para pro |
-| 2026-10-23 | 78 | K2 | Ataques en el estrecho de Ormuz disparan el precio del petróleo  |
-| 2026-10-23 | 75 | K1 | EEUU ordena evacuar diplomáticos de Arabia Saudí y otros países  |
-| 2026-10-23 | 45 | K1 | Meta llega a un acuerdo para compensar a Zuckerberg ante posible |
 
 [[Global Brain — Inicio|← Inicio]]

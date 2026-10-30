@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-10-29
+actualizado: 2026-10-30
 nodos: 14
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-29. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-30. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-14 nodos registrados en el periodo. Lo mas reciente: OpenAI anuncia colaboración con Legora para automatizar trabajo legal con IA.
+14 nodos registrados en el periodo. Lo mas reciente: OpenAI actualiza su Model Spec para una IA más capaz y segura.
 
 ## Trend summary (EN)
-14 nodes recorded in the period. Most recent: OpenAI announces collaboration with Legora to automate legal work with AI.
+14 nodes recorded in the period. Most recent: OpenAI updates Model Spec for more capable and beneficial AI.
 
 > [!note] Estado actual
-> OpenAI anuncia colaboración con Legora para automatizar trabajo legal con IA
+> OpenAI actualiza su Model Spec para una IA más capaz y segura
 
 ## Nodos recientes (14 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-30 | 45 | K0 | OpenAI actualiza su Model Spec para una IA más capaz y segura |
 | 2026-10-28 | 40 | K1 | OpenAI anuncia colaboración con Legora para automatizar trabajo  |
 | 2026-10-26 | 55 | K1 | SoftBank planea invertir 50.000 millones de dólares en IA en Mal |
 | 2026-10-24 | 40 | K2 | Google actualiza su política de privacidad: Gmail y Google Photo |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-15 | 62 | K2 | Ocho estados de EEUU demandan a OpenAI por supuestos daños a men |
 | 2026-10-15 | 62 | K1 | TSMC reporta ganancias récord por sexto trimestre consecutivo im |
 | 2026-10-15 | 55 | K1 | Ingeniero saudí de OpenAI arrestado por espionaje tras hallar un |
-| 2026-10-14 | 68 | K1 | ASML reporta ventas récord y advierte que la demanda de IA super |
 
 [[Global Brain — Inicio|← Inicio]]

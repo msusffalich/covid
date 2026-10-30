@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-10-29T11:11:23.771810+00:00",
+    "generado": "2026-10-30T11:07:14.604857+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 33,
-      "ultima_fecha": "2026-10-28",
+      "n_nodos": 35,
+      "ultima_fecha": "2026-10-30",
       "resumen": {
-        "es": "33 nodos registrados en el periodo. Lo mas reciente: Estados del Golfo negocian pacto de paz para evitar nueva guerra entre EE.UU. e Irán.",
-        "en": "33 nodes recorded in the period. Most recent: Gulf states negotiate peace deal to avert renewed US-Iran war."
+        "es": "35 nodos registrados en el periodo. Lo mas reciente: Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz.",
+        "en": "35 nodes recorded in the period. Most recent: Iran claims four tankers struck mines in Strait of Hormuz."
       },
       "estado": {
-        "es": "Estados del Golfo negocian pacto de paz para evitar nueva guerra entre EE.UU. e Irán",
-        "en": "Gulf states negotiate peace deal to avert renewed US-Iran war"
+        "es": "Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz",
+        "en": "Iran claims four tankers struck mines in Strait of Hormuz"
       },
       "serie": [
-        {
-          "fecha": "2026-10-09",
-          "max": 94,
-          "n": 3
-        },
         {
           "fecha": "2026-10-10",
           "max": 68,
@@ -103,9 +98,74 @@
           "fecha": "2026-10-28",
           "max": 70,
           "n": 3
+        },
+        {
+          "fecha": "2026-10-30",
+          "max": 68,
+          "n": 5
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz",
+            "en": "Iran claims four tankers struck mines in Strait of Hormuz"
+          },
+          "impacto": 68,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Chevron y Exxon superan expectativas por alza de márgenes de refinación de diésel",
+            "en": "Chevron and Exxon beat earnings on surging diesel refining profits"
+          },
+          "impacto": 60,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Resurge la piratería somalí en medio de la guerra entre EE.UU. e Irán que sacude el transporte marítimo",
+            "en": "Somali piracy resurges as US-Iran war rattles shipping"
+          },
+          "impacto": 58,
+          "categoria": "cadenas",
+          "kardashev": "K1",
+          "url": "https://www.cnn.com/2026/10/30/business/video/somali-piracy-back-as-the-us-iran-war-rattles-shipping-digvid-vrtc",
+          "fuente": "CNN"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Precios del petróleo siguen subiendo pese a recuperación de flujos tras tensión con Irán",
+            "en": "Oil prices keep rising despite recovering flows as Iran turmoil eases"
+          },
+          "impacto": 55,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Las acciones globales de Trump sobre Ucrania e Irán generan división electoral entre sus votantes",
+            "en": "Trump's global actions on Ukraine and Iran divide his own voters ahead of elections"
+          },
+          "impacto": 55,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections",
+          "fuente": "The Guardian"
+        },
         {
           "fecha": "2026-10-28",
           "titulo": {
@@ -189,66 +249,6 @@
           "kardashev": "K1",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
           "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-10-24",
-          "titulo": {
-            "es": "EEUU evacúa diplomáticos de Arabia Saudí tras ataques hutíes a aeropuertos",
-            "en": "US evacuates diplomats from Saudi Arabia after Houthi attacks on airports"
-          },
-          "impacto": 72,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.elmundo.es/internacional/2026/10/21/6ad92bc521efa0dd0c8b458d.html",
-          "fuente": "El Mundo Internacional"
-        },
-        {
-          "fecha": "2026-10-24",
-          "titulo": {
-            "es": "Rubio insta a cubanos a colaborar en secreto con la CIA para provocar un cambio de gobierno",
-            "en": "Rubio urges Cubans to secretly collaborate with the CIA to spark regime change"
-          },
-          "impacto": 70,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://es.euronews.com/2026/10/24/marco-rubio-cubanos-colaborar-cia-cambio-cuba",
-          "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-23",
-          "titulo": {
-            "es": "Ataques en el estrecho de Ormuz disparan el precio del petróleo a máximos de cinco meses",
-            "en": "Attacks in the Strait of Hormuz push oil prices to five-month high"
-          },
-          "impacto": 78,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
-          "fuente": "The Guardian World"
-        },
-        {
-          "fecha": "2026-10-23",
-          "titulo": {
-            "es": "EEUU ordena evacuar diplomáticos de Arabia Saudí y otros países del Golfo ante escalada de ataques hutíes",
-            "en": "US orders evacuation of diplomats from Saudi Arabia and other Gulf states amid escalating Houthi attacks"
-          },
-          "impacto": 75,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.elmundo.es/internacional/2026/10/21/6ad92bc521efa0dd0c8b458d.html",
-          "fuente": "El Mundo Internacional"
-        },
-        {
-          "fecha": "2026-10-23",
-          "titulo": {
-            "es": "Meta llega a un acuerdo para compensar a Zuckerberg ante posible impuesto a la riqueza en California",
-            "en": "Meta strikes deal to compensate Zuckerberg over potential California wealth tax"
-          },
-          "impacto": 45,
-          "categoria": "economia",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
         }
       ]
     },
@@ -259,22 +259,17 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 30,
-      "ultima_fecha": "2026-10-29",
+      "n_nodos": 35,
+      "ultima_fecha": "2026-10-30",
       "resumen": {
-        "es": "30 nodos registrados en el periodo. Lo mas reciente: Rusia ataca estación de tren en Dnipro y mata a 13 personas.",
-        "en": "30 nodes recorded in the period. Most recent: Russia strikes Dnipro train station, killing 13."
+        "es": "35 nodos registrados en el periodo. Lo mas reciente: Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz.",
+        "en": "35 nodes recorded in the period. Most recent: Iran claims four tankers struck mines in Strait of Hormuz."
       },
       "estado": {
-        "es": "Rusia ataca estación de tren en Dnipro y mata a 13 personas",
-        "en": "Russia strikes Dnipro train station, killing 13"
+        "es": "Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz",
+        "en": "Iran claims four tankers struck mines in Strait of Hormuz"
       },
       "serie": [
-        {
-          "fecha": "2026-10-09",
-          "max": 56,
-          "n": 1
-        },
         {
           "fecha": "2026-10-11",
           "max": 95,
@@ -359,9 +354,86 @@
           "fecha": "2026-10-29",
           "max": 70,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-30",
+          "max": 68,
+          "n": 6
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz",
+            "en": "Iran claims four tankers struck mines in Strait of Hormuz"
+          },
+          "impacto": 68,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Chevron y Exxon superan expectativas por alza de márgenes de refinación de diésel",
+            "en": "Chevron and Exxon beat earnings on surging diesel refining profits"
+          },
+          "impacto": 60,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Rusia intercepta más de 1.000 drones ucranianos en ataques renovados contra refinerías",
+            "en": "Russia intercepts over 1,000 Ukrainian drones as attacks on refineries renew"
+          },
+          "impacto": 60,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Las acciones globales de Trump sobre Ucrania e Irán generan división electoral entre sus votantes",
+            "en": "Trump's global actions on Ukraine and Iran divide his own voters ahead of elections"
+          },
+          "impacto": 55,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "El periódico ruso Novaya Gazeta anuncia su cierre por presión de las autoridades",
+            "en": "Russian newspaper Novaya Gazeta announces closure under pressure from authorities"
+          },
+          "impacto": 55,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Residentes abandonan la devastada Oleshky ocupada por Rusia al abrirse corredor de evacuación",
+            "en": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens"
+          },
+          "impacto": 52,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News"
+        },
         {
           "fecha": "2026-10-29",
           "titulo": {
@@ -433,78 +505,6 @@
           "kardashev": "K2",
           "url": "https://www.cnn.com/2026/10/25/europe/starlink-musk-violation-accusations-intl",
           "fuente": "CNN"
-        },
-        {
-          "fecha": "2026-10-25",
-          "titulo": {
-            "es": "SpaceX restringió conexión Starlink de Ucrania antes de restaurar el servicio",
-            "en": "SpaceX restricted Ukraine's Starlink connection before service was restored"
-          },
-          "impacto": 55,
-          "categoria": "tecnologia",
-          "kardashev": "K2",
-          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News"
-        },
-        {
-          "fecha": "2026-10-23",
-          "titulo": {
-            "es": "El giro de Trump hacia Putin genera inquietud política en EE.UU. y Europa",
-            "en": "Trump's pivot toward Putin stirs political unease in the US and Europe"
-          },
-          "impacto": 72,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/us/2026-10-22/el-coqueteo-de-trump-con-putin-incomoda-a-los-candidatos-republicanos-en-la-recta-final-de-las-midterms.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-10-21",
-          "titulo": {
-            "es": "Enviado de Trump viaja a Rusia para reunirse con Putin tras conversaciones con Zelenski",
-            "en": "Trump's envoy travels to Russia to meet Putin after talks with Zelensky"
-          },
-          "impacto": 68,
-          "categoria": "geopolitica",
-          "kardashev": "K0",
-          "url": "https://es.euronews.com/2026/10/21/enviado-eeuu-reune-con-putin-medio-presiones-zelenski-para-pactar-fin-guerra",
-          "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-20",
-          "titulo": {
-            "es": "Zelenski se reúne con enviado de Trump en Oslo antes de conversaciones con Putin en Moscú",
-            "en": "Zelenskyy meets Trump envoy in Oslo ahead of planned Putin talks in Moscow"
-          },
-          "impacto": 72,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://es.euronews.com/2026/10/20/enviado-trump-witkoff-reune-zelenski-oslo-antes-ver-putin-moscu",
-          "fuente": "Euronews Espanol"
-        },
-        {
-          "fecha": "2026-10-19",
-          "titulo": {
-            "es": "Trump suaviza sanciones a Rusia mientras Putin propone cumbre con EE.UU. y China mientras evita a Zelenskyy",
-            "en": "Trump eases sanctions on Russia as Putin seeks summit with US and China while avoiding Zelenskyy"
-          },
-          "impacto": 78,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
-          "fuente": "El Pais Internacional"
-        },
-        {
-          "fecha": "2026-10-19",
-          "titulo": {
-            "es": "Ucrania lanza más de 1.000 drones contra Rusia, incendiando instalaciones petroleras en San Petersburgo",
-            "en": "Ukraine launches over 1,000 drones at Russia, setting St. Petersburg oil facilities ablaze"
-          },
-          "impacto": 70,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
-          "fuente": "Al Jazeera"
         }
       ]
     },
@@ -515,15 +515,15 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 20,
-      "ultima_fecha": "2026-10-29",
+      "n_nodos": 22,
+      "ultima_fecha": "2026-10-30",
       "resumen": {
-        "es": "20 nodos registrados en el periodo. Lo mas reciente: Bloque de Netanyahu lidera elecciones israelíes sin mayoría absoluta.",
-        "en": "20 nodes recorded in the period. Most recent: Netanyahu's bloc leads Israel election but short of majority."
+        "es": "22 nodos registrados en el periodo. Lo mas reciente: Israel enfrenta semanas de negociaciones de coalición tras elecciones sin mayoría clara.",
+        "en": "22 nodes recorded in the period. Most recent: Israel faces weeks of coalition haggling after inconclusive election."
       },
       "estado": {
-        "es": "Bloque de Netanyahu lidera elecciones israelíes sin mayoría absoluta",
-        "en": "Netanyahu's bloc leads Israel election but short of majority"
+        "es": "Israel enfrenta semanas de negociaciones de coalición tras elecciones sin mayoría clara",
+        "en": "Israel faces weeks of coalition haggling after inconclusive election"
       },
       "serie": [
         {
@@ -595,9 +595,38 @@
           "fecha": "2026-10-29",
           "max": 65,
           "n": 2
+        },
+        {
+          "fecha": "2026-10-30",
+          "max": 68,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Israel enfrenta semanas de negociaciones de coalición tras elecciones sin mayoría clara",
+            "en": "Israel faces weeks of coalition haggling after inconclusive election"
+          },
+          "impacto": 68,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Más de 25 sindicatos portuarios en 22 países convocan huelga global en apoyo a Gaza",
+            "en": "Over 25 dockworkers' unions in 22 countries call global strike for Gaza"
+          },
+          "impacto": 62,
+          "categoria": "cadenas",
+          "kardashev": "K1",
+          "url": "https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
         {
           "fecha": "2026-10-29",
           "titulo": {
@@ -717,30 +746,6 @@
           "kardashev": "K2",
           "url": "https://www.bbc.com/mundo/articles/crz9812qjxd2o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-10-20",
-          "titulo": {
-            "es": "Falta de fondos obliga al PMA a recortar la ayuda alimentaria en Gaza",
-            "en": "Funding shortfall forces WFP to cut food aid in Gaza"
-          },
-          "impacto": 68,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-10-20",
-          "titulo": {
-            "es": "Escalada de violencia de colonos en Cisjordania y ataques israelíes mortales en Gaza pese al alto el fuego",
-            "en": "Escalating settler violence in the West Bank and deadly Israeli strikes on Gaza despite ceasefire"
-          },
-          "impacto": 62,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
-          "fuente": "UN News"
         }
       ]
     },
@@ -752,21 +757,16 @@
       },
       "color": "#3D9BE4",
       "n_nodos": 14,
-      "ultima_fecha": "2026-10-28",
+      "ultima_fecha": "2026-10-30",
       "resumen": {
-        "es": "14 nodos registrados en el periodo. Lo mas reciente: OpenAI anuncia colaboración con Legora para automatizar trabajo legal con IA.",
-        "en": "14 nodes recorded in the period. Most recent: OpenAI announces collaboration with Legora to automate legal work with AI."
+        "es": "14 nodos registrados en el periodo. Lo mas reciente: OpenAI actualiza su Model Spec para una IA más capaz y segura.",
+        "en": "14 nodes recorded in the period. Most recent: OpenAI updates Model Spec for more capable and beneficial AI."
       },
       "estado": {
-        "es": "OpenAI anuncia colaboración con Legora para automatizar trabajo legal con IA",
-        "en": "OpenAI announces collaboration with Legora to automate legal work with AI"
+        "es": "OpenAI actualiza su Model Spec para una IA más capaz y segura",
+        "en": "OpenAI updates Model Spec for more capable and beneficial AI"
       },
       "serie": [
-        {
-          "fecha": "2026-10-09",
-          "max": 55,
-          "n": 1
-        },
         {
           "fecha": "2026-10-13",
           "max": 62,
@@ -811,9 +811,26 @@
           "fecha": "2026-10-28",
           "max": 40,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-30",
+          "max": 45,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "OpenAI actualiza su Model Spec para una IA más capaz y segura",
+            "en": "OpenAI updates Model Spec for more capable and beneficial AI"
+          },
+          "impacto": 45,
+          "categoria": "tecnologia",
+          "kardashev": "K0",
+          "url": "https://openai.com/index/updated-model-spec",
+          "fuente": "OpenAI"
+        },
         {
           "fecha": "2026-10-28",
           "titulo": {
@@ -945,18 +962,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-10-14",
-          "titulo": {
-            "es": "ASML reporta ventas récord y advierte que la demanda de IA superará su capacidad de producción",
-            "en": "ASML posts record sales and warns AI demand will outpace its production capacity"
-          },
-          "impacto": 68,
-          "categoria": "economia",
-          "kardashev": "K1",
-          "url": "https://es.euronews.com/2026/10/14/asml-logra-ventas-record-de-117-mil-millones-pero-advierte-que-no-puede-cubrir-la-demanda",
-          "fuente": "Euronews Espanol"
         }
       ]
     },
@@ -968,21 +973,16 @@
       },
       "color": "#3FA65C",
       "n_nodos": 30,
-      "ultima_fecha": "2026-10-29",
+      "ultima_fecha": "2026-10-30",
       "resumen": {
-        "es": "30 nodos registrados en el periodo. Lo mas reciente: Informe de la ONU: el calor mató a 710.000 personas en 2023.",
-        "en": "30 nodes recorded in the period. Most recent: UN report: heat killed 710,000 people in 2023."
+        "es": "30 nodos registrados en el periodo. Lo mas reciente: Colombia aumenta importaciones de GNL ante caída de producción doméstica de gas.",
+        "en": "30 nodes recorded in the period. Most recent: Colombia's LNG imports rise as domestic gas production falls."
       },
       "estado": {
-        "es": "Informe de la ONU: el calor mató a 710.000 personas en 2023",
-        "en": "UN report: heat killed 710,000 people in 2023"
+        "es": "Colombia aumenta importaciones de GNL ante caída de producción doméstica de gas",
+        "en": "Colombia's LNG imports rise as domestic gas production falls"
       },
       "serie": [
-        {
-          "fecha": "2026-10-09",
-          "max": 83,
-          "n": 1
-        },
         {
           "fecha": "2026-10-10",
           "max": 76,
@@ -1057,9 +1057,26 @@
           "fecha": "2026-10-29",
           "max": 65,
           "n": 3
+        },
+        {
+          "fecha": "2026-10-30",
+          "max": 42,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Colombia aumenta importaciones de GNL ante caída de producción doméstica de gas",
+            "en": "Colombia's LNG imports rise as domestic gas production falls"
+          },
+          "impacto": 42,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68364",
+          "fuente": "EIA"
+        },
         {
           "fecha": "2026-10-29",
           "titulo": {
@@ -1191,18 +1208,6 @@
           "kardashev": "K1",
           "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
           "fuente": "NOAA · Centro Nacional de Huracanes"
-        },
-        {
-          "fecha": "2026-10-23",
-          "titulo": {
-            "es": "Estudio: el calor extremo de 2026 causó más de 50.000 muertes en Europa, dos tercios atribuibles al cambio climático",
-            "en": "Study: Extreme heat in 2026 killed over 50,000 in Europe, two-thirds attributed to climate change"
-          },
-          "impacto": 72,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
-          "fuente": "NPR News"
         }
       ]
     },
@@ -1213,22 +1218,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 50,
-      "ultima_fecha": "2026-10-29",
+      "n_nodos": 55,
+      "ultima_fecha": "2026-10-30",
       "resumen": {
-        "es": "50 nodos registrados en el periodo. Lo mas reciente: Christine Lagarde dejará la presidencia del BCE nueve meses antes de lo previsto.",
-        "en": "50 nodes recorded in the period. Most recent: Christine Lagarde to leave ECB presidency nine months early."
+        "es": "55 nodos registrados en el periodo. Lo mas reciente: El BCE anuncia decisiones de política monetaria.",
+        "en": "55 nodes recorded in the period. Most recent: ECB announces monetary policy decisions."
       },
       "estado": {
-        "es": "Christine Lagarde dejará la presidencia del BCE nueve meses antes de lo previsto",
-        "en": "Christine Lagarde to leave ECB presidency nine months early"
+        "es": "El BCE anuncia decisiones de política monetaria",
+        "en": "ECB announces monetary policy decisions"
       },
       "serie": [
-        {
-          "fecha": "2026-10-09",
-          "max": 78,
-          "n": 2
-        },
         {
           "fecha": "2026-10-12",
           "max": 95,
@@ -1308,9 +1308,98 @@
           "fecha": "2026-10-29",
           "max": 75,
           "n": 5
+        },
+        {
+          "fecha": "2026-10-30",
+          "max": 62,
+          "n": 7
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "El BCE anuncia decisiones de política monetaria",
+            "en": "ECB announces monetary policy decisions"
+          },
+          "impacto": 62,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+          "fuente": "BCE"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Rusia intercepta más de 1.000 drones ucranianos en ataques renovados contra refinerías",
+            "en": "Russia intercepts over 1,000 Ukrainian drones as attacks on refineries renew"
+          },
+          "impacto": 60,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "El BOJ mantiene tasas tras alcanzar por primera vez su meta de inflación subyacente del 2%",
+            "en": "BOJ holds rates after hitting 2% underlying inflation target for first time"
+          },
+          "impacto": 58,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Precios del petróleo siguen subiendo pese a recuperación de flujos tras tensión con Irán",
+            "en": "Oil prices keep rising despite recovering flows as Iran turmoil eases"
+          },
+          "impacto": 55,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "Las acciones globales de Trump sobre Ucrania e Irán generan división electoral entre sus votantes",
+            "en": "Trump's global actions on Ukraine and Iran divide his own voters ahead of elections"
+          },
+          "impacto": 55,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "La Comisión Europea impone aranceles antidumping a PET Spunbond chino",
+            "en": "European Commission imposes anti-dumping duties on Chinese PET Spunbond"
+          },
+          "impacto": 45,
+          "categoria": "cadenas",
+          "kardashev": "K1",
+          "url": "https://policy.trade.ec.europa.eu/news/commission-acts-against-imports-pet-spunbond-china-2026-10-30_en",
+          "fuente": "Comisión Europea · Comercio"
+        },
+        {
+          "fecha": "2026-10-30",
+          "titulo": {
+            "es": "El BCE publica resultados de su encuesta de pronosticadores profesionales del cuarto trimestre",
+            "en": "ECB publishes results of Survey of Professional Forecasters for Q4 2026"
+          },
+          "impacto": 40,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+          "fuente": "BCE"
+        },
         {
           "fecha": "2026-10-29",
           "titulo": {
@@ -1370,90 +1459,6 @@
           "kardashev": "K1",
           "url": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
           "fuente": "Banco de Pagos Internacionales"
-        },
-        {
-          "fecha": "2026-10-28",
-          "titulo": {
-            "es": "Gobierno británico dice que yacimiento petrolero Rosebank no violaría metas de emisiones",
-            "en": "UK government says Rosebank oilfield would not breach emission targets"
-          },
-          "impacto": 50,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/environment/2026/oct/27/rosebank-oilfield-north-sea-uk-emissions-targets-insiders",
-          "fuente": "The Guardian · Medio ambiente"
-        },
-        {
-          "fecha": "2026-10-28",
-          "titulo": {
-            "es": "Derrame de petróleo en el estrecho de Ormuz obliga a cerrar playas en Emiratos Árabes Unidos",
-            "en": "Hormuz oil spill forces closure of UAE beaches"
-          },
-          "impacto": 50,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
-          "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-10-28",
-          "titulo": {
-            "es": "Bolsa de Israel cae más de 3% ante incertidumbre electoral",
-            "en": "Israel's stock market drops over 3% amid election uncertainty"
-          },
-          "impacto": 45,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner?traffic_source=rss",
-          "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-10-28",
-          "titulo": {
-            "es": "Canadá firma acuerdo comercial con Emiratos Árabes Unidos para diversificar mercados",
-            "en": "Canada signs trade deal with UAE to diversify away from US markets"
-          },
-          "impacto": 40,
-          "categoria": "cadenas",
-          "kardashev": "K1",
-          "url": "https://www.aljazeera.com/news/2026/10/28/canada-signs-trade-deal-with-uae-in-push-for-non-us-markets?traffic_source=rss",
-          "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-10-27",
-          "titulo": {
-            "es": "Anthropic presenta IPO potencialmente récord ante la SEC",
-            "en": "Anthropic files potentially record-breaking IPO with SEC"
-          },
-          "impacto": 72,
-          "categoria": "tecnologia",
-          "kardashev": "K0",
-          "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-27",
-          "titulo": {
-            "es": "Anthropic advierte de 'riesgo catastrófico' en documento de IPO",
-            "en": "Anthropic warns of 'catastrophic risk' in IPO filing"
-          },
-          "impacto": 68,
-          "categoria": "tecnologia",
-          "kardashev": "K2",
-          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News"
-        },
-        {
-          "fecha": "2026-10-27",
-          "titulo": {
-            "es": "HSBC anuncia recompra de acciones de hasta 1.000 millones tras resultados débiles",
-            "en": "HSBC announces share buyback up to $1 billion after weak results"
-          },
-          "impacto": 60,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
-          "fuente": "CNBC"
         }
       ]
     }

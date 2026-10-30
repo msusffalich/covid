@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-29
+actualizado: 2026-10-30
 nodos: 30
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-29. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-30. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-30 nodos registrados en el periodo. Lo mas reciente: Informe de la ONU: el calor mató a 710.000 personas en 2023.
+30 nodos registrados en el periodo. Lo mas reciente: Colombia aumenta importaciones de GNL ante caída de producción doméstica de gas.
 
 ## Trend summary (EN)
-30 nodes recorded in the period. Most recent: UN report: heat killed 710,000 people in 2023.
+30 nodes recorded in the period. Most recent: Colombia's LNG imports rise as domestic gas production falls.
 
 > [!note] Estado actual
-> Informe de la ONU: el calor mató a 710.000 personas en 2023
+> Colombia aumenta importaciones de GNL ante caída de producción doméstica de gas
 
 ## Nodos recientes (30 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-10-30 | 42 | K1 | Colombia aumenta importaciones de GNL ante caída de producción d |
 | 2026-10-29 | 65 | K1 | Informe de la ONU: el calor mató a 710.000 personas en 2023 |
 | 2026-10-29 | 60 | K1 | La capacidad del océano para absorber CO₂ se debilita, advierte  |
 | 2026-10-29 | 20 | K1 | NOAA no prevé formación de ciclones tropicales en el Atlántico e |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-26 | 20 | K1 | NOAA descarta formación de ciclones tropicales en el Atlántico e |
 | 2026-10-25 | 40 | K1 | Tormenta multiestatal 'inusualmente grande' golpea el este de Au |
 | 2026-10-25 | 20 | K1 | NOAA no espera formación de ciclones tropicales en el Atlántico  |
-| 2026-10-23 | 72 | K1 | Estudio: el calor extremo de 2026 causó más de 50.000 muertes en |
 
 [[Global Brain — Inicio|← Inicio]]
