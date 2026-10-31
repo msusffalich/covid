@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-10-30T11:07:14.604857+00:00",
+    "generado": "2026-10-31T10:41:04.194385+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -14,21 +14,16 @@
       },
       "color": "#E4634F",
       "n_nodos": 35,
-      "ultima_fecha": "2026-10-30",
+      "ultima_fecha": "2026-10-31",
       "resumen": {
-        "es": "35 nodos registrados en el periodo. Lo mas reciente: Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz.",
-        "en": "35 nodes recorded in the period. Most recent: Iran claims four tankers struck mines in Strait of Hormuz."
+        "es": "35 nodos registrados en el periodo. Lo mas reciente: Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes.",
+        "en": "35 nodes recorded in the period. Most recent: Tankers defy escalation of Iranian attacks to keep oil flowing through Strait of Hormuz."
       },
       "estado": {
-        "es": "Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz",
-        "en": "Iran claims four tankers struck mines in Strait of Hormuz"
+        "es": "Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes",
+        "en": "Tankers defy escalation of Iranian attacks to keep oil flowing through Strait of Hormuz"
       },
       "serie": [
-        {
-          "fecha": "2026-10-10",
-          "max": 68,
-          "n": 1
-        },
         {
           "fecha": "2026-10-11",
           "max": 82,
@@ -103,9 +98,26 @@
           "fecha": "2026-10-30",
           "max": 68,
           "n": 5
+        },
+        {
+          "fecha": "2026-10-31",
+          "max": 65,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes",
+            "en": "Tankers defy escalation of Iranian attacks to keep oil flowing through Strait of Hormuz"
+          },
+          "impacto": 65,
+          "categoria": "cadenas",
+          "kardashev": "K0",
+          "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+          "fuente": "CNBC"
+        },
         {
           "fecha": "2026-10-30",
           "titulo": {
@@ -237,18 +249,6 @@
           "kardashev": "K1",
           "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
           "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-25",
-          "titulo": {
-            "es": "Derrame de petróleo de tanque en Estrecho de Ormuz llega a playas de Emiratos Árabes",
-            "en": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches"
-          },
-          "impacto": 45,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
-          "fuente": "Al Jazeera"
         }
       ]
     },
@@ -259,15 +259,15 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 35,
-      "ultima_fecha": "2026-10-30",
+      "n_nodos": 40,
+      "ultima_fecha": "2026-10-31",
       "resumen": {
-        "es": "35 nodos registrados en el periodo. Lo mas reciente: Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz.",
-        "en": "35 nodes recorded in the period. Most recent: Iran claims four tankers struck mines in Strait of Hormuz."
+        "es": "40 nodos registrados en el periodo. Lo mas reciente: EE.UU. aprueba venta de 500 misiles Patriot a Ucrania por 2.100 millones de dólares.",
+        "en": "40 nodes recorded in the period. Most recent: US approves sale of 500 Patriot missiles to Ukraine for $2.1bn."
       },
       "estado": {
-        "es": "Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz",
-        "en": "Iran claims four tankers struck mines in Strait of Hormuz"
+        "es": "EE.UU. aprueba venta de 500 misiles Patriot a Ucrania por 2.100 millones de dólares",
+        "en": "US approves sale of 500 Patriot missiles to Ukraine for $2.1bn"
       },
       "serie": [
         {
@@ -359,9 +359,74 @@
           "fecha": "2026-10-30",
           "max": 68,
           "n": 6
+        },
+        {
+          "fecha": "2026-10-31",
+          "max": 70,
+          "n": 5
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "EE.UU. aprueba venta de 500 misiles Patriot a Ucrania por 2.100 millones de dólares",
+            "en": "US approves sale of 500 Patriot missiles to Ukraine for $2.1bn"
+          },
+          "impacto": 70,
+          "categoria": "geopolitica",
+          "kardashev": "K0",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News"
+        },
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "Resoluciones rivales de EE.UU. y Rusia sobre el Sáhara Occidental fracasan en la ONU",
+            "en": "Rival US and Russian resolutions on Western Sahara fail at UN"
+          },
+          "impacto": 55,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "Veto cruzado entre Rusia y EE.UU. deja sin resolver misión de la ONU en el Sáhara",
+            "en": "Crossed vetoes between Russia and US leave UN Sahara mission unresolved"
+          },
+          "impacto": 55,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-10-30/el-cruce-de-vetos-entre-rusia-y-ee-uu-deja-en-el-aire-la-mision-de-la-onu-en-el-sahara.html",
+          "fuente": "El País"
+        },
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "ONU dice que tregua en Oleshky da 'esperanza' a civiles pese a ataques continuos a vehículos de ayuda",
+            "en": "UN says Oleshky ceasefire offers 'hope' for civilians as attacks on aid vehicles continue"
+          },
+          "impacto": 55,
+          "categoria": "demografia",
+          "kardashev": "K1",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168712",
+          "fuente": "ONU (inglés)"
+        },
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "EE.UU. cancela 'foto familiar' del G20 tras negativa de varios países a posar con Rusia",
+            "en": "US cancels G20 'family photo' after countries refuse to appear with Russia"
+          },
+          "impacto": 45,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+          "fuente": "The Guardian"
+        },
         {
           "fecha": "2026-10-30",
           "titulo": {
@@ -445,66 +510,6 @@
           "kardashev": "K1",
           "url": "https://www.cnn.com/2026/10/29/europe/russia-ukraine-strikes-dnipro-train-station-intl",
           "fuente": "CNN"
-        },
-        {
-          "fecha": "2026-10-28",
-          "titulo": {
-            "es": "China y Rusia expanden control sobre rutas comerciales del Ártico",
-            "en": "China and Russia expand control over Arctic trade routes"
-          },
-          "impacto": 55,
-          "categoria": "cadenas",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-27",
-          "titulo": {
-            "es": "Rusia lanza 280 drones y misiles pese a tregua local en Oleshky",
-            "en": "Russia launches 280 drones and missiles despite local truce in Oleshky"
-          },
-          "impacto": 70,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates",
-          "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-10-27",
-          "titulo": {
-            "es": "China y Rusia redibujan rutas comerciales árticas frente a Europa",
-            "en": "China and Russia redraw Arctic trade routes against Europe"
-          },
-          "impacto": 62,
-          "categoria": "cadenas",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-26",
-          "titulo": {
-            "es": "Ucrania disputa a Musk acusación de violación de términos de Starlink",
-            "en": "Ukraine disputes Musk's claim it violated Starlink terms"
-          },
-          "impacto": 50,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-25",
-          "titulo": {
-            "es": "Musk acusa a Ucrania de violar términos de servicio de Starlink tras disputa de cobertura",
-            "en": "Musk accuses Ukraine of violating Starlink terms of service after coverage dispute"
-          },
-          "impacto": 60,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://www.cnn.com/2026/10/25/europe/starlink-musk-violation-accusations-intl",
-          "fuente": "CNN"
         }
       ]
     },
@@ -516,21 +521,16 @@
       },
       "color": "#C75FA8",
       "n_nodos": 22,
-      "ultima_fecha": "2026-10-30",
+      "ultima_fecha": "2026-10-31",
       "resumen": {
-        "es": "22 nodos registrados en el periodo. Lo mas reciente: Israel enfrenta semanas de negociaciones de coalición tras elecciones sin mayoría clara.",
-        "en": "22 nodes recorded in the period. Most recent: Israel faces weeks of coalition haggling after inconclusive election."
+        "es": "22 nodos registrados en el periodo. Lo mas reciente: ONU advierte sobre 'pesadilla' de desplazamiento creciente en Gaza.",
+        "en": "22 nodes recorded in the period. Most recent: UN rights office warns of deepening displacement 'nightmare' in Gaza."
       },
       "estado": {
-        "es": "Israel enfrenta semanas de negociaciones de coalición tras elecciones sin mayoría clara",
-        "en": "Israel faces weeks of coalition haggling after inconclusive election"
+        "es": "ONU advierte sobre 'pesadilla' de desplazamiento creciente en Gaza",
+        "en": "UN rights office warns of deepening displacement 'nightmare' in Gaza"
       },
       "serie": [
-        {
-          "fecha": "2026-10-10",
-          "max": 95,
-          "n": 1
-        },
         {
           "fecha": "2026-10-13",
           "max": 78,
@@ -600,9 +600,26 @@
           "fecha": "2026-10-30",
           "max": 68,
           "n": 2
+        },
+        {
+          "fecha": "2026-10-31",
+          "max": 70,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "ONU advierte sobre 'pesadilla' de desplazamiento creciente en Gaza",
+            "en": "UN rights office warns of deepening displacement 'nightmare' in Gaza"
+          },
+          "impacto": 70,
+          "categoria": "demografia",
+          "kardashev": "K1",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168707",
+          "fuente": "ONU (inglés)"
+        },
         {
           "fecha": "2026-10-30",
           "titulo": {
@@ -734,18 +751,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-10-24",
-          "titulo": {
-            "es": "Israel se prepara para elecciones generales con Netanyahu buscando extender su dominio político",
-            "en": "Israel prepares for general election as Netanyahu seeks to extend his political dominance"
-          },
-          "impacto": 62,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://www.bbc.com/mundo/articles/crz9812qjxd2o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     },
@@ -756,15 +761,15 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 14,
-      "ultima_fecha": "2026-10-30",
+      "n_nodos": 16,
+      "ultima_fecha": "2026-10-31",
       "resumen": {
-        "es": "14 nodos registrados en el periodo. Lo mas reciente: OpenAI actualiza su Model Spec para una IA más capaz y segura.",
-        "en": "14 nodes recorded in the period. Most recent: OpenAI updates Model Spec for more capable and beneficial AI."
+        "es": "16 nodos registrados en el periodo. Lo mas reciente: Acciones tecnológicas de EE.UU. caen fuertemente mientras el gasto en IA se acerca a 1 billón de dólares.",
+        "en": "16 nodes recorded in the period. Most recent: US tech stocks see sharp falls as AI spending nears $1tn."
       },
       "estado": {
-        "es": "OpenAI actualiza su Model Spec para una IA más capaz y segura",
-        "en": "OpenAI updates Model Spec for more capable and beneficial AI"
+        "es": "Acciones tecnológicas de EE.UU. caen fuertemente mientras el gasto en IA se acerca a 1 billón de dólares",
+        "en": "US tech stocks see sharp falls as AI spending nears $1tn"
       },
       "serie": [
         {
@@ -816,9 +821,38 @@
           "fecha": "2026-10-30",
           "max": 45,
           "n": 1
+        },
+        {
+          "fecha": "2026-10-31",
+          "max": 60,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "Acciones tecnológicas de EE.UU. caen fuertemente mientras el gasto en IA se acerca a 1 billón de dólares",
+            "en": "US tech stocks see sharp falls as AI spending nears $1tn"
+          },
+          "impacto": 60,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News"
+        },
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "Philip Lane del BCE aborda la adopción de IA en Europa",
+            "en": "ECB's Philip Lane addresses AI adoption in Europe"
+          },
+          "impacto": 35,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+          "fuente": "BCE"
+        },
         {
           "fecha": "2026-10-30",
           "titulo": {
@@ -938,30 +972,6 @@
           "kardashev": "K2",
           "url": "https://www.elmundo.es/internacional/2026/10/15/6ad07607fdddfff12d8b4598.html",
           "fuente": "El Mundo Internacional"
-        },
-        {
-          "fecha": "2026-10-15",
-          "titulo": {
-            "es": "TSMC reporta ganancias récord por sexto trimestre consecutivo impulsadas por el auge de la IA",
-            "en": "TSMC reports record profit for sixth straight quarter driven by AI boom"
-          },
-          "impacto": 62,
-          "categoria": "economia",
-          "kardashev": "K1",
-          "url": "https://www.euronews.com/2026/10/15/taiwan-chip-giant-tsmc-says-net-profit-hit-record-in-third-quarter",
-          "fuente": "Euronews English"
-        },
-        {
-          "fecha": "2026-10-15",
-          "titulo": {
-            "es": "Ingeniero saudí de OpenAI arrestado por espionaje tras hallar un dispositivo de grabación oculto en papel higiénico",
-            "en": "Saudi OpenAI engineer arrested for espionage after recording device found hidden in toilet paper"
-          },
-          "impacto": 55,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
         }
       ]
     },
@@ -972,22 +982,17 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 30,
+      "n_nodos": 27,
       "ultima_fecha": "2026-10-30",
       "resumen": {
-        "es": "30 nodos registrados en el periodo. Lo mas reciente: Colombia aumenta importaciones de GNL ante caída de producción doméstica de gas.",
-        "en": "30 nodes recorded in the period. Most recent: Colombia's LNG imports rise as domestic gas production falls."
+        "es": "27 nodos registrados en el periodo. Lo mas reciente: Colombia aumenta importaciones de GNL ante caída de producción doméstica de gas.",
+        "en": "27 nodes recorded in the period. Most recent: Colombia's LNG imports rise as domestic gas production falls."
       },
       "estado": {
         "es": "Colombia aumenta importaciones de GNL ante caída de producción doméstica de gas",
         "en": "Colombia's LNG imports rise as domestic gas production falls"
       },
       "serie": [
-        {
-          "fecha": "2026-10-10",
-          "max": 76,
-          "n": 3
-        },
         {
           "fecha": "2026-10-11",
           "max": 95,
@@ -1218,15 +1223,15 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 55,
-      "ultima_fecha": "2026-10-30",
+      "n_nodos": 63,
+      "ultima_fecha": "2026-10-31",
       "resumen": {
-        "es": "55 nodos registrados en el periodo. Lo mas reciente: El BCE anuncia decisiones de política monetaria.",
-        "en": "55 nodes recorded in the period. Most recent: ECB announces monetary policy decisions."
+        "es": "63 nodos registrados en el periodo. Lo mas reciente: Hackers vinculados a Corea del Norte, principales sospechosos del mayor robo cripto en Binance.",
+        "en": "63 nodes recorded in the period. Most recent: North Korean hackers prime suspects in major Binance hack."
       },
       "estado": {
-        "es": "El BCE anuncia decisiones de política monetaria",
-        "en": "ECB announces monetary policy decisions"
+        "es": "Hackers vinculados a Corea del Norte, principales sospechosos del mayor robo cripto en Binance",
+        "en": "North Korean hackers prime suspects in major Binance hack"
       },
       "serie": [
         {
@@ -1313,9 +1318,110 @@
           "fecha": "2026-10-30",
           "max": 62,
           "n": 7
+        },
+        {
+          "fecha": "2026-10-31",
+          "max": 70,
+          "n": 8
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "Hackers vinculados a Corea del Norte, principales sospechosos del mayor robo cripto en Binance",
+            "en": "North Korean hackers prime suspects in major Binance hack"
+          },
+          "impacto": 70,
+          "categoria": "tecnologia",
+          "kardashev": "K0",
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News"
+        },
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "Valor de mercado de Google cae 500.000 millones de dólares tras impacto de IA propia en ventas publicitarias",
+            "en": "Google value plunges $500bn as its own AI search hits ad sales"
+          },
+          "impacto": 65,
+          "categoria": "tecnologia",
+          "kardashev": "K2",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC · Tecnología"
+        },
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes",
+            "en": "Tankers defy escalation of Iranian attacks to keep oil flowing through Strait of Hormuz"
+          },
+          "impacto": 65,
+          "categoria": "cadenas",
+          "kardashev": "K0",
+          "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "Acciones de Intel sufren su peor caída en décadas con pérdida de 140.000 millones de dólares",
+            "en": "Intel stock sees worst day in decades with $140 billion wipeout"
+          },
+          "impacto": 60,
+          "categoria": "finanzas",
+          "kardashev": "K0",
+          "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+          "fuente": "MarketWatch"
+        },
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "Acciones tecnológicas de EE.UU. caen fuertemente mientras el gasto en IA se acerca a 1 billón de dólares",
+            "en": "US tech stocks see sharp falls as AI spending nears $1tn"
+          },
+          "impacto": 60,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News"
+        },
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "Aranceles de EE.UU. del 50% amenazan cerrar fábrica de papel centenaria en Quebec",
+            "en": "US 50% tariffs threaten to shutter century-old paper mill in Quebec"
+          },
+          "impacto": 50,
+          "categoria": "cadenas",
+          "kardashev": "K0",
+          "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News"
+        },
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "Ganancias de refinación de grandes petroleras se disparan pese a críticas de Trump",
+            "en": "Big Oil refining earnings surge despite Trump's criticism"
+          },
+          "impacto": 40,
+          "categoria": "cadenas",
+          "kardashev": "K0",
+          "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-10-31",
+          "titulo": {
+            "es": "Philip Lane del BCE aborda la adopción de IA en Europa",
+            "en": "ECB's Philip Lane addresses AI adoption in Europe"
+          },
+          "impacto": 35,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+          "fuente": "BCE"
+        },
         {
           "fecha": "2026-10-30",
           "titulo": {
@@ -1363,102 +1469,6 @@
           "kardashev": "K1",
           "url": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
           "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "Las acciones globales de Trump sobre Ucrania e Irán generan división electoral entre sus votantes",
-            "en": "Trump's global actions on Ukraine and Iran divide his own voters ahead of elections"
-          },
-          "impacto": 55,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections",
-          "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "La Comisión Europea impone aranceles antidumping a PET Spunbond chino",
-            "en": "European Commission imposes anti-dumping duties on Chinese PET Spunbond"
-          },
-          "impacto": 45,
-          "categoria": "cadenas",
-          "kardashev": "K1",
-          "url": "https://policy.trade.ec.europa.eu/news/commission-acts-against-imports-pet-spunbond-china-2026-10-30_en",
-          "fuente": "Comisión Europea · Comercio"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "El BCE publica resultados de su encuesta de pronosticadores profesionales del cuarto trimestre",
-            "en": "ECB publishes results of Survey of Professional Forecasters for Q4 2026"
-          },
-          "impacto": 40,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
-          "fuente": "BCE"
-        },
-        {
-          "fecha": "2026-10-29",
-          "titulo": {
-            "es": "Christine Lagarde dejará la presidencia del BCE nueve meses antes de lo previsto",
-            "en": "Christine Lagarde to leave ECB presidency nine months early"
-          },
-          "impacto": 75,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
-          "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-10-29",
-          "titulo": {
-            "es": "BCE confirma oficialmente la salida de Lagarde el 7 de febrero de 2027",
-            "en": "ECB officially confirms Lagarde's departure on 7 February 2027"
-          },
-          "impacto": 75,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
-          "fuente": "BCE"
-        },
-        {
-          "fecha": "2026-10-29",
-          "titulo": {
-            "es": "Microsoft sube 4% en bolsa tras resultados impulsados por crecimiento de la nube",
-            "en": "Microsoft stock jumps 4% as cloud growth drives earnings beat"
-          },
-          "impacto": 55,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-29",
-          "titulo": {
-            "es": "Banco de Inglaterra lanza consulta sobre garantías tokenizadas en compensación central",
-            "en": "Bank of England launches consultation on tokenised collateral in central clearing"
-          },
-          "impacto": 45,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
-          "fuente": "Banco de Inglaterra"
-        },
-        {
-          "fecha": "2026-10-29",
-          "titulo": {
-            "es": "BIS publica análisis sobre cómo bancos centrales sostienen la seguridad de pagos",
-            "en": "BIS publishes analysis on how central banks support payment system safety"
-          },
-          "impacto": 35,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
-          "fuente": "Banco de Pagos Internacionales"
         }
       ]
     }

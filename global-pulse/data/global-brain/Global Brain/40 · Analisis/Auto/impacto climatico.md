@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-10-30
-nodos: 30
+actualizado: 2026-10-31
+nodos: 27
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-30. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-10-31. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-30 nodos registrados en el periodo. Lo mas reciente: Colombia aumenta importaciones de GNL ante caída de producción doméstica de gas.
+27 nodos registrados en el periodo. Lo mas reciente: Colombia aumenta importaciones de GNL ante caída de producción doméstica de gas.
 
 ## Trend summary (EN)
-30 nodes recorded in the period. Most recent: Colombia's LNG imports rise as domestic gas production falls.
+27 nodes recorded in the period. Most recent: Colombia's LNG imports rise as domestic gas production falls.
 
 > [!note] Estado actual
 > Colombia aumenta importaciones de GNL ante caída de producción doméstica de gas
 
-## Nodos recientes (30 en la ventana)
+## Nodos recientes (27 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-30 | 42 | K1 | Colombia aumenta importaciones de GNL ante caída de producción d |

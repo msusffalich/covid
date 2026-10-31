@@ -1,890 +1,85 @@
 {
   "meta": {
     "schema": "2.0",
-    "fecha": "2026-10-30",
-    "generado": "2026-10-30T11:06:26.887186+00:00",
+    "fecha": "2026-10-31",
+    "generado": "2026-10-31T10:40:30.519778+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "nodos": 24,
-      "verificados": 24,
-      "piezas_ingeridas": 226,
+      "nodos": 26,
+      "verificados": 26,
+      "piezas_ingeridas": 196,
       "canales_consultados": 46,
-      "canales_disponibles": 38,
-      "documentos_recientes": 367
+      "canales_disponibles": 37,
+      "documentos_recientes": 301
     },
     "descargo": "",
-    "corte": "2026-10-30T11:03:54.537503+00:00",
-    "reporte_sha256": "d0dc88a3cb18f6830f66ce6dcc5b7bbff53d3597730e4388bf21bddccb138ed4",
+    "corte": "2026-10-31T10:38:26.613621+00:00",
+    "reporte_sha256": "fa706319d78e15a9c24080aa48cebe4a5f58e3ff03cbfd1234be8bec8b17b0df",
     "estado": "completo",
     "politica_fuentes": "mixta-v1",
-    "reporte_archivo": "2026-10-30 — Pulso.md"
+    "reporte_archivo": "2026-10-31 — Pulso.md"
   },
   "nodos": [
     {
       "titulo": {
-        "es": "La eurozona crece 0,4% en el tercer trimestre mientras Francia se contrae",
-        "en": "Euro zone grows 0.4% in Q3 as France's economy contracts"
+        "es": "Cumbre COP17 de biodiversidad concluye en Ereván con críticas por falta de metas cumplidas",
+        "en": "COP17 biodiversity summit concludes in Yerevan amid criticism over unmet targets"
       },
       "sintesis": {
-        "es": "La economía de la eurozona desaceleró a un crecimiento trimestral de 0,4% en el tercer trimestre, mientras Francia, en crisis política, registró una contracción, según datos citados por CNBC.",
-        "en": "The euro zone economy slowed to 0.4% quarterly growth in Q3, as crisis-hit France contracted, according to data cited by CNBC."
+        "es": "The Guardian reporta que la COP17 sobre biodiversidad concluyó en Ereván sin que los países cumplan metas de protección del 30% del planeta ni reformar 500.000 millones de dólares en subsidios dañinos, según críticos del proceso.",
+        "en": "The Guardian reports COP17 biodiversity talks ended in Yerevan without countries meeting targets to protect 30% of the planet or reform $500bn in harmful subsidies, according to critics of the process."
       },
-      "categoria": "finanzas",
+      "categoria": "clima",
       "actores": [
-        "CNBC"
-      ],
-      "geo": {
-        "lat": 46.6,
-        "lon": 2.2,
-        "region": "Europa"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_1bd9ab0c6a"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1bd9ab0c6a",
-          "titulo": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
-          "url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
-          "fuente": "CNBC",
-          "fecha": "Fri, 30 Oct 2026 10:58:33 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0000",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "El BOJ mantiene tasas tras alcanzar por primera vez su meta de inflación subyacente del 2%",
-        "en": "BOJ holds rates after hitting 2% underlying inflation target for first time"
-      },
-      "sintesis": {
-        "es": "El Banco de Japón declaró que su meta de inflación subyacente de 2% se ha cumplido por primera vez desde que la fijó en 2013, y mantuvo las tasas de interés sin cambios, según CNBC.",
-        "en": "The Bank of Japan declared its 2% underlying inflation target had been met for the first time since 2013 and held rates steady, CNBC reported."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Banco de Japón"
+        "ONU",
+        "Convención sobre la Diversidad Biológica"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
-      },
-      "impacto": 58,
-      "fuentes": [
-        "ev_c21da1556e"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_c21da1556e",
-          "titulo": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
-          "url": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
-          "fuente": "CNBC",
-          "fecha": "Fri, 30 Oct 2026 04:19:38 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0001",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "El BCE publica resultados de su encuesta de pronosticadores profesionales del cuarto trimestre",
-        "en": "ECB publishes results of Survey of Professional Forecasters for Q4 2026"
-      },
-      "sintesis": {
-        "es": "El Banco Central Europeo divulgó los resultados de su Encuesta de Pronosticadores Profesionales correspondiente al cuarto trimestre de 2026, un insumo oficial para sus proyecciones económicas.",
-        "en": "The European Central Bank released results of its Survey of Professional Forecasters for the fourth quarter of 2026, an official input for its economic projections."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Banco Central Europeo"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_648da905e0"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_648da905e0",
-          "titulo": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
-          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
-          "fuente": "BCE",
-          "fecha": "Fri, 30 Oct 2026 10:00:00 +0100",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0002",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-30_0004"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "La Reserva Federal aprueba solicitud del Bank of Nova Scotia",
-        "en": "Federal Reserve Board approves application by The Bank of Nova Scotia"
-      },
-      "sintesis": {
-        "es": "La Junta de la Reserva Federal anunció la aprobación oficial de una solicitud presentada por The Bank of Nova Scotia, según comunicado publicado en su sitio oficial.",
-        "en": "The Federal Reserve Board announced official approval of an application filed by The Bank of Nova Scotia, per a release on its official site."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Reserva Federal",
-        "Bank of Nova Scotia"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 30,
-      "fuentes": [
-        "ev_7079f30173"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_7079f30173",
-          "titulo": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-          "fuente": "Reserva Federal",
-          "fecha": "Thu, 29 Oct 2026 20:30:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0003",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "El BCE anuncia decisiones de política monetaria",
-        "en": "ECB announces monetary policy decisions"
-      },
-      "sintesis": {
-        "es": "El Banco Central Europeo publicó sus decisiones de política monetaria del 29 de octubre, en el marco de su reunión del Consejo de Gobierno, según comunicado oficial.",
-        "en": "The European Central Bank published its monetary policy decisions of October 29, following its Governing Council meeting, according to an official statement."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Banco Central Europeo"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 62,
-      "fuentes": [
-        "ev_f5d6aedbcc"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f5d6aedbcc",
-          "titulo": "Monetary policy decisions",
-          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-          "fuente": "BCE",
-          "fecha": "Thu, 29 Oct 2026 14:15:00 +0100",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0004",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-30_0002"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Hackeo a Binance por 6.300 millones de dólares, el mayor robo cripto de la historia",
-        "en": "Binance's $6.3 billion hack, the largest crypto heist ever"
-      },
-      "sintesis": {
-        "es": "Binance sufrió un hackeo estimado en 6.300 millones de dólares, considerado el mayor robo de criptoactivos registrado; la empresa congeló fondos y prometió cubrir las pérdidas, según CNBC y BBC.",
-        "en": "Binance suffered a hack estimated at $6.3 billion, considered the largest crypto theft on record; the firm froze funds and pledged to cover losses, per CNBC and BBC."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Binance",
-        "TraderTraitor"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 75,
-      "fuentes": [
-        "ev_d7dfdea119"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_d7dfdea119",
-          "titulo": "Binance's $6.3 billion hack: What we know and what comes next",
-          "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html",
-          "fuente": "CNBC",
-          "fecha": "Fri, 30 Oct 2026 10:19:30 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0005",
-      "fecha": "2026-10-30",
-      "kardashev": "K2",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "OpenAI actualiza su Model Spec para una IA más capaz y segura",
-        "en": "OpenAI updates Model Spec for more capable and beneficial AI"
-      },
-      "sintesis": {
-        "es": "OpenAI publicó una actualización de su Model Spec que define cinco valores centrales para orientar modelos de IA más capaces hacia el buen juicio, la agencia humana y la fidelidad a la intención del usuario.",
-        "en": "OpenAI released an updated Model Spec outlining five core values to guide more capable AI models toward sound judgment, human agency and faithfulness to user intent."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "OpenAI"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_fde8d2ef62"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_fde8d2ef62",
-          "titulo": "An updated Model Spec for more capable and beneficial AI",
-          "url": "https://openai.com/index/updated-model-spec",
-          "fuente": "OpenAI",
-          "fecha": "Thu, 29 Oct 2026 17:00:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0006",
-      "fecha": "2026-10-30",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Chevron y Exxon superan expectativas por alza de márgenes de refinación de diésel",
-        "en": "Chevron and Exxon beat earnings on surging diesel refining profits"
-      },
-      "sintesis": {
-        "es": "Chevron y Exxon reportaron ganancias superiores a lo esperado por el aumento global de precios del diésel, atribuido a bombardeos de Ucrania e Irán contra refinerías en Rusia y Medio Oriente, según CNBC.",
-        "en": "Chevron and Exxon reported better-than-expected earnings as diesel prices surged globally, attributed to Ukrainian and Iranian strikes on refineries in Russia and the Middle East, CNBC reported."
-      },
-      "categoria": "recursos",
-      "actores": [
-        "Chevron",
-        "Exxon"
-      ],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_615ce31ad2"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_615ce31ad2",
-          "titulo": "Chevron and Exxon beat earnings expectations as refining profits soar on high diesel fuel prices",
-          "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-          "fuente": "CNBC",
-          "fecha": "Fri, 30 Oct 2026 10:58:24 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0007",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-30_0015",
-        "nd_2026-10-30_0019"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "BP casi cuadruplica su beneficio trimestral a 8.500 millones de dólares por márgenes de refinación",
-        "en": "BP's Q3 profit nearly quadruples to $8.5 billion on refining margins"
-      },
-      "sintesis": {
-        "es": "BP reportó un beneficio trimestral de 8.500 millones de dólares, impulsado por márgenes de refinación elevados en medio de la volatilidad energética derivada de conflictos globales, según CNBC.",
-        "en": "BP reported a quarterly profit of $8.5 billion, driven by surging refining margins amid energy market volatility from global conflicts, CNBC reported."
-      },
-      "categoria": "recursos",
-      "actores": [
-        "BP"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 58,
-      "fuentes": [
-        "ev_e905796bf4"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e905796bf4",
-          "titulo": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge",
-          "url": "https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html",
-          "fuente": "CNBC",
-          "fecha": "Fri, 30 Oct 2026 09:00:24 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0008",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Precios del petróleo siguen subiendo pese a recuperación de flujos tras tensión con Irán",
-        "en": "Oil prices keep rising despite recovering flows as Iran turmoil eases"
-      },
-      "sintesis": {
-        "es": "El crudo Brent se mantiene más de 60% por encima de niveles previos a la guerra, pese a la recuperación de la oferta tras la reducción de la turbulencia por el conflicto con Irán, según Al Jazeera.",
-        "en": "Brent crude remains more than 60% above pre-war levels despite a rebound in supply as turmoil over the Iran conflict eases, Al Jazeera reported."
-      },
-      "categoria": "recursos",
-      "actores": [],
-      "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
       },
       "impacto": 55,
       "fuentes": [
-        "ev_717cb843f7"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_717cb843f7",
-          "titulo": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
-          "url": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 30 Oct 2026 08:36:11 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0009",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-30_0010",
-        "nd_2026-10-30_0014",
-        "nd_2026-10-30_0016"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz",
-        "en": "Iran claims four tankers struck mines in Strait of Hormuz"
-      },
-      "sintesis": {
-        "es": "Irán declaró que cuatro petroleros fueron alcanzados por minas en el estrecho de Ormuz, disputando una afirmación estadounidense sobre el despeje de rutas marítimas clave, según CNBC.",
-        "en": "Iran said four tankers struck mines in the Strait of Hormuz, disputing a US claim that key shipping lanes had been cleared, CNBC reported."
-      },
-      "categoria": "recursos",
-      "actores": [],
-      "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
-      },
-      "impacto": 68,
-      "fuentes": [
-        "ev_0db7d6590a"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_0db7d6590a",
-          "titulo": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
-          "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
-          "fuente": "CNBC",
-          "fecha": "Fri, 30 Oct 2026 07:12:49 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0010",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-30_0009",
-        "nd_2026-10-30_0014",
-        "nd_2026-10-30_0016"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Colombia aumenta importaciones de GNL ante caída de producción doméstica de gas",
-        "en": "Colombia's LNG imports rise as domestic gas production falls"
-      },
-      "sintesis": {
-        "es": "Colombia importa más gas natural licuado debido a la caída de su producción doméstica; una posible sequía podría limitar la generación hidroeléctrica y aumentar la demanda de gas, según la EIA.",
-        "en": "Colombia is importing more LNG as domestic production falls; a potential drought could limit hydroelectric generation and boost gas demand, per the EIA."
-      },
-      "categoria": "recursos",
-      "actores": [
-        "EIA"
-      ],
-      "geo": {
-        "lat": 4.6,
-        "lon": -74.3,
-        "region": "Sudamerica"
-      },
-      "impacto": 42,
-      "fuentes": [
-        "ev_ff52731ed0"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ff52731ed0",
-          "titulo": "LNG imports make up increasing share of Colombia's natural gas supply",
-          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68364",
-          "fuente": "EIA",
-          "fecha": "Thu, 29 Oct 2026 09:00:00 EST",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0011",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "La Comisión Europea impone aranceles antidumping a PET Spunbond chino",
-        "en": "European Commission imposes anti-dumping duties on Chinese PET Spunbond"
-      },
-      "sintesis": {
-        "es": "La Comisión Europea impuso derechos antidumping sobre importaciones a la UE de PET Spunbond procedentes de China, según comunicado oficial de la institución.",
-        "en": "The European Commission imposed anti-dumping duties on EU imports of PET Spunbond from China, according to an official statement from the institution."
-      },
-      "categoria": "cadenas",
-      "actores": [
-        "Comisión Europea"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_e67d4cd6ae"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e67d4cd6ae",
-          "titulo": "Commission acts against imports of PET Spunbond from China",
-          "url": "https://policy.trade.ec.europa.eu/news/commission-acts-against-imports-pet-spunbond-china-2026-10-30_en",
-          "fuente": "Comisión Europea · Comercio",
-          "fecha": "Fri, 30 Oct 2026 00:00:00 +0100",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0012",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Resurge la piratería somalí en medio de la guerra entre EE.UU. e Irán que sacude el transporte marítimo",
-        "en": "Somali piracy resurges as US-Iran war rattles shipping"
-      },
-      "sintesis": {
-        "es": "La piratería frente a las costas de Somalia ha resurgido en el contexto de la guerra entre Estados Unidos e Irán, que está afectando las rutas de transporte marítimo global, según CNN.",
-        "en": "Piracy off the coast of Somalia has resurged amid the US-Iran war, which is affecting global shipping routes, according to CNN."
-      },
-      "categoria": "cadenas",
-      "actores": [],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 58,
-      "fuentes": [
-        "ev_32505728ed"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_32505728ed",
-          "titulo": "Somali Piracy is Back",
-          "url": "https://www.cnn.com/2026/10/30/business/video/somali-piracy-back-as-the-us-iran-war-rattles-shipping-digvid-vrtc",
-          "fuente": "CNN",
-          "fecha": "2026-10-30T10:51:01.472Z",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0013",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Más de 25 sindicatos portuarios en 22 países convocan huelga global en apoyo a Gaza",
-        "en": "Over 25 dockworkers' unions in 22 countries call global strike for Gaza"
-      },
-      "sintesis": {
-        "es": "Más de 25 sindicatos de estibadores en más de 110 puertos de 22 países convocaron una huelga el 30 de octubre en solidaridad con Gaza, según Al Jazeera.",
-        "en": "More than 25 dockworkers' trade unions in over 110 ports across 22 countries called a strike on October 30 in solidarity with Gaza, Al Jazeera reported."
-      },
-      "categoria": "cadenas",
-      "actores": [],
-      "geo": {
-        "lat": 31.4,
-        "lon": 34.4,
-        "region": "Oriente Medio"
-      },
-      "impacto": 62,
-      "fuentes": [
-        "ev_37f257978d"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_37f257978d",
-          "titulo": "What can a global strike of dockworkers achieve for Gaza?",
-          "url": "https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 30 Oct 2026 10:04:35 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0014",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-30_0009",
-        "nd_2026-10-30_0010",
-        "nd_2026-10-30_0016"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Las acciones globales de Trump sobre Ucrania e Irán generan división electoral entre sus votantes",
-        "en": "Trump's global actions on Ukraine and Iran divide his own voters ahead of elections"
-      },
-      "sintesis": {
-        "es": "Votantes que apoyaron a Trump expresan rechazo a su giro en política exterior hacia Ucrania e Irán, lo que podría afectar el voto republicano en las elecciones de medio mandato, según The Guardian.",
-        "en": "Voters who backed Trump are expressing opposition to his foreign policy shift on Ukraine and Iran, which could affect Republican votes in the midterm elections, The Guardian reported."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Donald Trump"
-      ],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_f81bdc5680"
+        "ev_1bea91b1b9"
       ],
       "imagenes": [
-        "https://i.guim.co.uk/img/media/38340cfed51c97772110a19139f035123c63862a/0_58_3765_3012/master/3765.jpg?width=140&quality=85&auto=format&fit=max&s=83b3065395524b8d4571736251297d3c"
+        "https://i.guim.co.uk/img/media/da491019aef99ed619bfedfb695add6957b4da1f/382_0_2355_1884/master/2355.jpg?width=140&quality=85&auto=format&fit=max&s=e1a0d420bce4e4a87ec9fd730a7541f7"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_f81bdc5680",
-          "titulo": "Are Trump’s global actions, from Ukraine to Iran, going to hurt him in elections?",
-          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections",
-          "fuente": "The Guardian",
-          "fecha": "Fri, 30 Oct 2026 08:00:49 GMT",
+          "id": "ev_1bea91b1b9",
+          "titulo": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
+          "url": "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Sat, 31 Oct 2026 10:01:29 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-30_0015",
-      "fecha": "2026-10-30",
+      "id": "nd_2026-10-31_0000",
+      "fecha": "2026-10-31",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-10-30_0007",
-        "nd_2026-10-30_0019"
+        "nd_2026-10-31_0001",
+        "nd_2026-10-31_0009",
+        "nd_2026-10-31_0013",
+        "nd_2026-10-31_0017",
+        "nd_2026-10-31_0018",
+        "nd_2026-10-31_0020"
       ]
     },
     {
       "titulo": {
-        "es": "Israel enfrenta semanas de negociaciones de coalición tras elecciones sin mayoría clara",
-        "en": "Israel faces weeks of coalition haggling after inconclusive election"
+        "es": "Negociaciones globales sobre naturaleza llegan a acuerdo pero persisten dudas sobre financiamiento",
+        "en": "Global nature talks reach deal but money remains an issue"
       },
       "sintesis": {
-        "es": "Las elecciones israelíes dejaron al país ante semanas de negociación de coalición, con el Likud de Netanyahu denunciando fraude mientras la oposición busca formar gobierno con partidos árabes, según CNBC.",
-        "en": "Israel's election leaves the country facing weeks of coalition bargaining, with Netanyahu's Likud claiming fraud while the opposition seeks to form a government with Arab parties, CNBC reported."
+        "es": "BBC News informa que países alcanzaron un acuerdo para intentar frenar la pérdida de naturaleza, aunque persisten desacuerdos sobre la financiación necesaria para implementar los compromisos.",
+        "en": "BBC News reports countries reached an agreement attempting to halt nature decline, though disagreements over necessary funding to implement commitments remain unresolved."
       },
-      "categoria": "geopolitica",
-      "actores": [
-        "Likud",
-        "Benjamin Netanyahu"
-      ],
-      "geo": {
-        "lat": 31.0,
-        "lon": 34.9,
-        "region": "Oriente Medio"
-      },
-      "impacto": 68,
-      "fuentes": [
-        "ev_3c168936a6"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_3c168936a6",
-          "titulo": "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
-          "url": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
-          "fuente": "CNBC",
-          "fecha": "Fri, 30 Oct 2026 03:28:10 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0016",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-30_0009",
-        "nd_2026-10-30_0010",
-        "nd_2026-10-30_0014"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "El periódico ruso Novaya Gazeta anuncia su cierre por presión de las autoridades",
-        "en": "Russian newspaper Novaya Gazeta announces closure under pressure from authorities"
-      },
-      "sintesis": {
-        "es": "El diario independiente ruso Novaya Gazeta, cuyo exeditor ganó el Nobel de la Paz, anunció su cierre citando presión de los servicios especiales rusos, según The Guardian.",
-        "en": "Independent Russian outlet Novaya Gazeta, whose former editor won the Nobel Peace Prize, announced its closure citing pressure from Russian special services, The Guardian reported."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Novaya Gazeta"
-      ],
-      "geo": {
-        "lat": 61.5,
-        "lon": 105.3,
-        "region": "Rusia"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_df4f8bf964"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/a6b3ac40349761781230e42b4b12f1be82db7244/634_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=4d80573985a56e7205dda34f288ff842"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_df4f8bf964",
-          "titulo": "Russian newspaper Novaya Gazeta to close, citing pressure from ‘special services’",
-          "url": "https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close",
-          "fuente": "The Guardian",
-          "fecha": "Fri, 30 Oct 2026 09:05:21 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0017",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-30_0018"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Residentes abandonan la devastada Oleshky ocupada por Rusia al abrirse corredor de evacuación",
-        "en": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens"
-      },
-      "sintesis": {
-        "es": "Varios cientos de personas permanecen en la localidad ucraniana de Oleshky, ocupada por Rusia, pese a la falta de gas, electricidad y agua corriente, mientras se abre un corredor de evacuación, según la BBC.",
-        "en": "Several hundred people remain in the Russian-occupied Ukrainian town of Oleshky, despite lack of gas, electricity and running water, as an evacuation corridor opens, the BBC reported."
-      },
-      "categoria": "geopolitica",
-      "actores": [],
-      "geo": {
-        "lat": 61.5,
-        "lon": 105.3,
-        "region": "Rusia"
-      },
-      "impacto": 52,
-      "fuentes": [
-        "ev_a887a1472e"
-      ],
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e60e/live/1b89e490-d450-11f1-8780-edcbf4859104.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_a887a1472e",
-          "titulo": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
-          "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "fecha": "Fri, 30 Oct 2026 10:32:06 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0018",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-30_0017"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Rusia intercepta más de 1.000 drones ucranianos en ataques renovados contra refinerías",
-        "en": "Russia intercepts over 1,000 Ukrainian drones as attacks on refineries renew"
-      },
-      "sintesis": {
-        "es": "Autoridades rusas afirmaron haber interceptado más de 1.000 drones ucranianos durante la noche en múltiples regiones, en medio de renovados ataques contra refinerías petroleras, según Al Jazeera.",
-        "en": "Russian authorities said they intercepted more than 1,000 Ukrainian drones overnight across multiple regions, amid renewed attacks on oil refineries, Al Jazeera reported."
-      },
-      "categoria": "geopolitica",
-      "actores": [],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_9400dea3f4"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_9400dea3f4",
-          "titulo": "Russian oil refinery struck as Ukraine renews drone attacks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 30 Oct 2026 09:14:16 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-10-30_0019",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-30_0007",
-        "nd_2026-10-30_0015"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Haití se acerca a niveles récord de inseguridad alimentaria",
-        "en": "Haiti approaches record levels of food insecurity"
-      },
-      "sintesis": {
-        "es": "La ONU proyecta que 6,35 millones de personas en Haití estarán en crisis o emergencia alimentaria entre marzo y junio de 2027, y necesita 78 millones de dólares para sostener su ayuda hasta marzo.",
-        "en": "The UN projects 6.35 million people in Haiti will face food crisis or emergency between March and June 2027, and needs $78 million to sustain aid until March."
-      },
-      "categoria": "demografia",
-      "actores": [
-        "ONU"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 62,
-      "fuentes": [
-        "ev_1d7d34b792"
-      ],
-      "imagenes": [
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-09-2024-WFP-Haiti-02.jpg/image560x340cropped.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1d7d34b792",
-          "titulo": "Haití: la inseguridad alimentaria en camino de alcanzar niveles récord",
-          "url": "https://news.un.org/feed/view/es/story/2026/10/1542120",
-          "fuente": "ONU",
-          "fecha": "Thu, 29 Oct 2026 12:00:00 +0000",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-10-30_0020",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-10-30_0021"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Crece la demanda de cuidados de larga duración en América mientras la población envejece",
-        "en": "Long-term care demand rises in the Americas as population ages"
-      },
-      "sintesis": {
-        "es": "Para 2050, 306 millones de personas en las Américas tendrán 60 años o más, pero solo 15 de 35 Estados cuentan con un sistema formal de cuidados de larga duración, según la ONU.",
-        "en": "By 2050, 306 million people in the Americas will be 60 or older, but only 15 of 35 states have a formal, publicly funded long-term care system, according to the UN."
-      },
-      "categoria": "demografia",
+      "categoria": "clima",
       "actores": [
         "ONU"
       ],
@@ -895,41 +90,775 @@
       },
       "impacto": 50,
       "fuentes": [
-        "ev_c4e6080b2a"
+        "ev_59733ec04c"
       ],
       "imagenes": [
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-12-2025-UNHCR-Poland-Ukraine.jpg/image560x340cropped.jpg"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c07/live/57283d20-d4b5-11f1-a58c-6d26609b0a57.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_c4e6080b2a",
-          "titulo": "Crece la demanda de cuidados de larga duración en América, al tiempo que la población envejece",
-          "url": "https://news.un.org/feed/view/es/story/2026/10/1542119",
-          "fuente": "ONU",
-          "fecha": "Thu, 29 Oct 2026 12:00:00 +0000",
-          "idioma": "es"
+          "id": "ev_59733ec04c",
+          "titulo": "Global nature talks reach deal but money remains an issue",
+          "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Sat, 31 Oct 2026 01:27:05 GMT",
+          "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-30_0021",
-      "fecha": "2026-10-30",
+      "id": "nd_2026-10-31_0001",
+      "fecha": "2026-10-31",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-10-30_0020"
+        "nd_2026-10-31_0000",
+        "nd_2026-10-31_0009",
+        "nd_2026-10-31_0013",
+        "nd_2026-10-31_0017",
+        "nd_2026-10-31_0018",
+        "nd_2026-10-31_0020"
       ]
     },
     {
       "titulo": {
-        "es": "La ONU reporta muertes de niños en Sudán y emergencia humanitaria en Haití y Yemen",
-        "en": "UN reports children killed in Sudan amid humanitarian emergencies in Haiti and Yemen"
+        "es": "Elecciones legislativas de EE.UU. podrían reconfigurar política climática ante aumento de costos de energía",
+        "en": "US midterms could reshape climate policy amid rising energy costs"
       },
       "sintesis": {
-        "es": "UNICEF confirmó la muerte de al menos cinco niños en un ataque con drones contra un mercado en Nyala, Sudán, en medio de emergencias humanitarias simultáneas en Haití y Yemen, según la ONU.",
-        "en": "UNICEF confirmed at least five children killed in a drone attack on a market in Nyala, Sudan, amid simultaneous humanitarian emergencies in Haiti and Yemen, the UN reported."
+        "es": "The Guardian señala que votantes sienten el impacto de la agenda anticlimática de Trump en facturas de energía, y un cambio en el Congreso tras las midterms podría frenar o profundizar el desmantelamiento regulatorio.",
+        "en": "The Guardian notes voters feel the impact of Trump's anti-climate agenda on energy bills, and a shift in Congress after the midterms could halt or deepen regulatory dismantling."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Congreso de Estados Unidos"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_1eb320149b"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/a5f1c1011c91e7b7f831fea6ddeb7662af5ba34b/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=d24a72f37e9a6325df6a21418ecd2ac0"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_1eb320149b",
+          "titulo": "Five reasons why the US midterms matter for the climate – and your energy bill",
+          "url": "https://www.theguardian.com/us-news/2026/oct/30/climate-crisis-midterms-affordability",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Fri, 30 Oct 2026 11:30:52 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0002",
+      "fecha": "2026-10-31",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Google logra primera respuesta de IA desde satélite prototipo del Proyecto Suncatcher",
+        "en": "Google achieves first AI response from Project Suncatcher prototype satellite"
+      },
+      "sintesis": {
+        "es": "Google anunció en su blog oficial haber alcanzado el hito 'Hello World': la primera respuesta de un modelo de IA generada por una TPU de centro de datos en órbita, parte del Proyecto Suncatcher.",
+        "en": "Google announced on its official blog reaching the 'Hello World' milestone: the first AI response generated by a data center class TPU in orbit, part of Project Suncatcher."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Google"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_0f687155df"
+      ],
+      "imagenes": [
+        "https://i.ytimg.com/vi_webp/epqzfAi16us/maxresdefault.webp"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0f687155df",
+          "titulo": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+          "fuente": "Google",
+          "fecha": "Fri, 30 Oct 2026 17:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0003",
+      "fecha": "2026-10-31",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-10-31_0005"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "NASA explora servicio comercial para el telescopio espacial Hubble",
+        "en": "NASA explores potential commercial servicing for Hubble telescope"
+      },
+      "sintesis": {
+        "es": "NASA emitió una solicitud de información el 29 de octubre para conocer capacidades de la industria privada en servicios de mantenimiento espacial que podrían extender la vida del telescopio Hubble.",
+        "en": "NASA issued a Request for Information on Oct. 29 to learn about private industry capabilities for in-space servicing that could extend the Hubble Space Telescope's life."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "NASA"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_8d1638a5c7"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8d1638a5c7",
+          "titulo": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+          "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+          "fuente": "NASA",
+          "fecha": "Fri, 30 Oct 2026 14:51:21 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0004",
+      "fecha": "2026-10-31",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Valor de mercado de Google cae 500.000 millones de dólares tras impacto de IA propia en ventas publicitarias",
+        "en": "Google value plunges $500bn as its own AI search hits ad sales"
+      },
+      "sintesis": {
+        "es": "BBC Tecnología informa que las acciones de Google cayeron a un mínimo de seis meses después de que la empresa revelara que sus resúmenes de búsqueda con IA están afectando los ingresos publicitarios.",
+        "en": "BBC Technology reports Google shares hit a six-month low after the company revealed its AI search summaries are affecting advertising revenue."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Google"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_08a04b43d2"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_08a04b43d2",
+          "titulo": "Google value plunges by $500bn as its own AI search hits ad sales",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC · Tecnología",
+          "fecha": "Fri, 30 Oct 2026 12:04:02 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0005",
+      "fecha": "2026-10-31",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-10-31_0003"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Hackers vinculados a Corea del Norte, principales sospechosos del mayor robo cripto en Binance",
+        "en": "North Korean hackers prime suspects in major Binance hack"
+      },
+      "sintesis": {
+        "es": "BBC News reporta que expertos como TRM Labs atribuyen el robo de 6.300 millones de dólares en criptomonedas de Binance a TraderTraitor, unidad de hackers norcoreanos también conocida como Lazarus Group.",
+        "en": "BBC News reports experts such as TRM Labs attribute the $6.3bn Binance cryptocurrency theft to TraderTraitor, a North Korean hacking unit also known as the Lazarus Group."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Binance",
+        "TRM Labs",
+        "Lazarus Group"
+      ],
+      "geo": {
+        "lat": 40.3,
+        "lon": 127.5,
+        "region": "Asia Oriental"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_326de379d7"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_326de379d7",
+          "titulo": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Sat, 31 Oct 2026 02:12:19 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0006",
+      "fecha": "2026-10-31",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-10-31_0021"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Almacenamiento con baterías co-ubicado en nueva capacidad solar aumenta a más del 16% en EE.UU.",
+        "en": "Co-located battery storage with new US solar capacity rises above 16%"
+      },
+      "sintesis": {
+        "es": "La EIA informó que más del 16% de la nueva capacidad solar a escala de servicios públicos añadida en 2026 en EE.UU. está co-ubicada con almacenamiento operable de baterías, frente al 2% en 2017.",
+        "en": "EIA reported that over 16% of new utility-scale solar capacity added in the US in 2026 is co-located with operable battery storage, compared with 2% in 2017."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "EIA"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_f82d98d0c7"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_f82d98d0c7",
+          "titulo": "The share of solar generation with co-located battery storage is increasing",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68384",
+          "fuente": "EIA",
+          "fecha": "Fri, 30 Oct 2026  09:00:00 EST",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0007",
+      "fecha": "2026-10-31",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "FAO y IGAD advierten sobre riesgo elevado de brotes de fiebre del Valle del Rift en África oriental por El Niño",
+        "en": "FAO and IGAD warn El Niño heightens Rift Valley fever outbreak risk in Eastern Africa"
+      },
+      "sintesis": {
+        "es": "La FAO, junto con la IGAD, alertó oficialmente que el fenómeno de El Niño aumenta el riesgo de brotes de fiebre del Valle del Rift en África oriental, con implicaciones para la seguridad alimentaria y ganadera.",
+        "en": "FAO, together with IGAD, officially warned that the El Niño phenomenon increases the risk of Rift Valley fever outbreaks in Eastern Africa, with implications for food and livestock security."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "FAO",
+        "IGAD"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_c256030f70"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c256030f70",
+          "titulo": "El Niño heightens risk of Rift Valley fever outbreaks in Eastern Africa, FAO and IGAD warn",
+          "url": "https://www.fao.org/newsroom/detail/el-ni%C3%B1o-heightens-risk-of-rift-valley-fever-outbreaks-in-eastern-africa--fao-and-igad-warn/en",
+          "fuente": "FAO",
+          "fecha": "Fri, 30 Oct 2026 12:00:00 Z",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0008",
+      "fecha": "2026-10-31",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Más de 28 millones de personas enfrentan hambre en RD Congo por conflicto, ébola y clima",
+        "en": "Over 28 million face hunger in DR Congo amid conflict, Ebola and climate shocks"
+      },
+      "sintesis": {
+        "es": "La ONU reportó que más de 28 millones de personas en la República Democrática del Congo no tienen suficiente alimento, cifra que se espera aumente en los próximos meses según el monitor IPC de seguridad alimentaria.",
+        "en": "The UN reported that more than 28 million people in the Democratic Republic of the Congo lack sufficient food, a figure expected to rise in coming months according to the IPC food security monitor."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "ONU",
+        "IPC"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_d7d6e49a41"
+      ],
+      "imagenes": [
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-06-2025-WFP-DR-Congo-03.jpg/image560x340cropped.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d7d6e49a41",
+          "titulo": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168708",
+          "fuente": "ONU (inglés)",
+          "fecha": "Fri, 30 Oct 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0009",
+      "fecha": "2026-10-31",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-31_0000",
+        "nd_2026-10-31_0001",
+        "nd_2026-10-31_0013",
+        "nd_2026-10-31_0017",
+        "nd_2026-10-31_0018",
+        "nd_2026-10-31_0020"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Aranceles de EE.UU. del 50% amenazan cerrar fábrica de papel centenaria en Quebec",
+        "en": "US 50% tariffs threaten to shutter century-old paper mill in Quebec"
+      },
+      "sintesis": {
+        "es": "BBC News reporta que una fábrica de papel centenaria en Témiscaming, Quebec, cerró indefinidamente tras la imposición de aranceles del 50% por parte de Estados Unidos a sus productos, dejando a cientos sin empleo.",
+        "en": "BBC News reports a century-old paper mill in Témiscaming, Quebec, has indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
+      },
+      "categoria": "cadenas",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_a40d0063f5"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7be/live/dab6afd0-d223-11f1-93e1-3b657b665bcf.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a40d0063f5",
+          "titulo": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+          "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Sat, 31 Oct 2026 02:39:25 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0010",
+      "fecha": "2026-10-31",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes",
+        "en": "Tankers defy escalation of Iranian attacks to keep oil flowing through Strait of Hormuz"
+      },
+      "sintesis": {
+        "es": "CNBC reporta que las tarifas de flete en alza incentivan a los petroleros a seguir cruzando el Estrecho de Ormuz pese a la fuerte escalada de ataques iraníes en la zona.",
+        "en": "CNBC reports soaring freight rates are incentivizing tankers to keep crossing the Strait of Hormuz despite a sharp escalation of Iranian attacks in the area."
+      },
+      "categoria": "cadenas",
+      "actores": [],
+      "geo": {
+        "lat": 32.4,
+        "lon": 53.7,
+        "region": "Oriente Medio"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_2eaeda16d4"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_2eaeda16d4",
+          "titulo": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+          "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 30 Oct 2026 18:28:09 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0011",
+      "fecha": "2026-10-31",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-10-31_0020"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Ganancias de refinación de grandes petroleras se disparan pese a críticas de Trump",
+        "en": "Big Oil refining earnings surge despite Trump's criticism"
+      },
+      "sintesis": {
+        "es": "CNBC informa que, pese a que Trump criticó a las grandes petroleras por obtener 'demasiado dinero', estas han reportado ganancias de refinación en aumento ante el ajuste de suministros de combustible.",
+        "en": "CNBC reports that despite Trump criticizing Big Oil for making 'too much money,' oil majors have reported surging refining earnings as fuel supplies tightened."
+      },
+      "categoria": "cadenas",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_fc9ac2cc1d"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_fc9ac2cc1d",
+          "titulo": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+          "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+          "fuente": "CNBC",
+          "fecha": "Sat, 31 Oct 2026 06:00:02 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0012",
+      "fecha": "2026-10-31",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Resoluciones rivales de EE.UU. y Rusia sobre el Sáhara Occidental fracasan en la ONU",
+        "en": "Rival US and Russian resolutions on Western Sahara fail at UN"
+      },
+      "sintesis": {
+        "es": "Al Jazeera reporta que el Consejo de Seguridad de la ONU rechazó propuestas competidoras de Estados Unidos y Rusia, dejando sin extensión aprobada a la misión de paz en el Sáhara Occidental.",
+        "en": "Al Jazeera reports the UN Security Council rejected competing US and Russian proposals, leaving the Western Sahara peacekeeping mission without an approved extension."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "ONU",
+        "Consejo de Seguridad",
+        "MINURSO"
+      ],
+      "geo": {
+        "lat": 61.5,
+        "lon": 105.3,
+        "region": "Rusia"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_94f826bdf0"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_94f826bdf0",
+          "titulo": "Rival US and Russian resolutions on Western Sahara fail at UN",
+          "url": "https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 31 Oct 2026 09:35:21 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0013",
+      "fecha": "2026-10-31",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-31_0000",
+        "nd_2026-10-31_0001",
+        "nd_2026-10-31_0009",
+        "nd_2026-10-31_0016",
+        "nd_2026-10-31_0017",
+        "nd_2026-10-31_0018",
+        "nd_2026-10-31_0020"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "EE.UU. aprueba venta de 500 misiles Patriot a Ucrania por 2.100 millones de dólares",
+        "en": "US approves sale of 500 Patriot missiles to Ukraine for $2.1bn"
+      },
+      "sintesis": {
+        "es": "BBC News y The Guardian informan que el Departamento de Estado de EE.UU. aprobó la venta de 500 misiles Patriot PAC-3 a Ucrania, aunque Zelenski advirtió que la entrega podría tardar años.",
+        "en": "BBC News and The Guardian report the US State Department approved the sale of 500 Patriot PAC-3 missiles to Ukraine, though Zelenskyy warned delivery could take years."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Departamento de Estado de EE.UU."
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_e2256ea5f1"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_e2256ea5f1",
+          "titulo": "US approves sale of 500 Patriot missiles to Ukraine",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Sat, 31 Oct 2026 00:40:43 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0014",
+      "fecha": "2026-10-31",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-10-31_0018"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Policía antidisturbios desplegada en Polonia tras suspensión de jueces del Tribunal Constitucional",
+        "en": "Riot police deployed to Poland's constitutional court after judges suspended"
+      },
+      "sintesis": {
+        "es": "The Guardian y BBC reportan un enfrentamiento entre policía antidisturbios y manifestantes en Varsovia tras la suspensión del presidente del Tribunal Constitucional y su vicepresidente, en medio de una disputa de una década sobre la legitimidad judicial.",
+        "en": "The Guardian and BBC report a standoff between riot police and protesters in Warsaw after the suspension of the constitutional court's president and deputy, amid a decade-long dispute over the court's legitimacy."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Tribunal Constitucional de Polonia"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_c104a433f7"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/b595186b872d72d05a5c01e8ce0be90bb9af8d06/1355_185_5926_4743/master/5926.jpg?width=140&quality=85&auto=format&fit=max&s=694d71b1d782d4dd5f332088dec4289e"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c104a433f7",
+          "titulo": "Riot police deployed to Poland’s constitutional court after judge suspended",
+          "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
+          "fuente": "The Guardian",
+          "fecha": "Sat, 31 Oct 2026 04:27:25 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0015",
+      "fecha": "2026-10-31",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "EE.UU. cancela 'foto familiar' del G20 tras negativa de varios países a posar con Rusia",
+        "en": "US cancels G20 'family photo' after countries refuse to appear with Russia"
+      },
+      "sintesis": {
+        "es": "The Guardian informa que el secretario de Estado Marco Rubio canceló la tradicional foto de la reunión de cancilleres del G20 tras el rechazo de Australia, Reino Unido y otros países a posar junto al canciller ruso Lavrov.",
+        "en": "The Guardian reports Secretary of State Marco Rubio cancelled the traditional G20 foreign ministers' photo after Australia, the UK and other nations refused to appear alongside Russian minister Lavrov."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "G20"
+      ],
+      "geo": {
+        "lat": 61.5,
+        "lon": 105.3,
+        "region": "Rusia"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_2abeed51ff"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/94e76fb3f040c70be5f1c43fa81c443afb9943dd/1924_1239_3101_2483/master/3101.jpg?width=140&quality=85&auto=format&fit=max&s=6b1eedaa160a8b30de7f331c40f2ceeb"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_2abeed51ff",
+          "titulo": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+          "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+          "fuente": "The Guardian",
+          "fecha": "Sat, 31 Oct 2026 00:29:28 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0016",
+      "fecha": "2026-10-31",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-31_0013",
+        "nd_2026-10-31_0017"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Veto cruzado entre Rusia y EE.UU. deja sin resolver misión de la ONU en el Sáhara",
+        "en": "Crossed vetoes between Russia and US leave UN Sahara mission unresolved"
+      },
+      "sintesis": {
+        "es": "El País reporta que Moscú asestó un revés diplomático a la alianza entre Washington y Rabat al vetar su propuesta para la misión de la ONU en el Sáhara Occidental, tras el veto previo de EE.UU. a la propuesta rusa.",
+        "en": "El País reports Moscow dealt a diplomatic setback to the Washington-Rabat alliance by vetoing its proposal for the UN mission in Western Sahara, after the US had previously vetoed Russia's proposal."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "ONU"
+      ],
+      "geo": {
+        "lat": 61.5,
+        "lon": 105.3,
+        "region": "Rusia"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_d8151a8149"
+      ],
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/BF4KP4Y3V5JCHNUL5YORKJVHLQ.jpg?auth=5fe8814fc6568140828815ac35c1d515419831f0ebb088829e74621db73b3371"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d8151a8149",
+          "titulo": "El cruce de vetos entre Rusia y EE UU deja en el aire la misión de la ONU en el Sáhara",
+          "url": "https://elpais.com/internacional/2026-10-30/el-cruce-de-vetos-entre-rusia-y-ee-uu-deja-en-el-aire-la-mision-de-la-onu-en-el-sahara.html",
+          "fuente": "El País",
+          "fecha": "Fri, 30 Oct 2026 21:40:43 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-10-31_0017",
+      "fecha": "2026-10-31",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-31_0000",
+        "nd_2026-10-31_0001",
+        "nd_2026-10-31_0009",
+        "nd_2026-10-31_0013",
+        "nd_2026-10-31_0016",
+        "nd_2026-10-31_0018",
+        "nd_2026-10-31_0020"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "ONU dice que tregua en Oleshky da 'esperanza' a civiles pese a ataques continuos a vehículos de ayuda",
+        "en": "UN says Oleshky ceasefire offers 'hope' for civilians as attacks on aid vehicles continue"
+      },
+      "sintesis": {
+        "es": "La ONU informó que la tregua humanitaria en Oleshky representa esperanza para los civiles de la ciudad ucraniana controlada por Rusia, aunque instó a garantizar evacuaciones seguras y voluntarias.",
+        "en": "The UN reported that the humanitarian ceasefire in Oleshky represents hope for civilians in the Russian-controlled Ukrainian city, while urging that evacuations be safe and voluntary."
       },
       "categoria": "demografia",
       "actores": [
-        "UNICEF"
+        "ONU"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_7297fa52bb"
+      ],
+      "imagenes": [
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/26-02-2026-Ukraine-sexual-violence-04.jpg/image560x340cropped.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_7297fa52bb",
+          "titulo": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168712",
+          "fuente": "ONU (inglés)",
+          "fecha": "Fri, 30 Oct 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0018",
+      "fecha": "2026-10-31",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-31_0000",
+        "nd_2026-10-31_0001",
+        "nd_2026-10-31_0009",
+        "nd_2026-10-31_0013",
+        "nd_2026-10-31_0014",
+        "nd_2026-10-31_0017",
+        "nd_2026-10-31_0020"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Más de 280.000 desplazados en Yemen enfrentan acceso peligroso a ayuda humanitaria",
+        "en": "Over 280,000 displaced in Yemen face dangerous access to humanitarian aid"
+      },
+      "sintesis": {
+        "es": "ACNUR informó que más de 280.000 personas han sido desplazadas por los combates en Yemen y muchas no pueden acceder a ayuda vital por el peligro que implica desplazarse en la zona.",
+        "en": "UNHCR reported that more than 280,000 people have been displaced by fighting in Yemen, and many cannot access life-saving relief due to the danger of movement in the area."
+      },
+      "categoria": "demografia",
+      "actores": [
+        "ACNUR"
       ],
       "geo": {
         "lat": 0.0,
@@ -938,75 +867,295 @@
       },
       "impacto": 55,
       "fuentes": [
-        "ev_df1f5f2944"
+        "ev_22acbcd8f2"
       ],
       "imagenes": [
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/21-04-2025-UNICEF-Sudan-10.jpg/image560x340cropped.jpg"
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/14-10-2026_WFP_YEMEN_WF11231114%20DSC04452.jpg/image560x340cropped.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_df1f5f2944",
-          "titulo": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+          "id": "ev_22acbcd8f2",
+          "titulo": "Yemen war makes reaching assistance too dangerous for many",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168706",
           "fuente": "ONU (inglés)",
-          "fecha": "Thu, 29 Oct 2026 12:00:00 +0000",
+          "fecha": "Fri, 30 Oct 2026 12:00:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-30_0022",
-      "fecha": "2026-10-30",
-      "kardashev": "K1",
+      "id": "nd_2026-10-31_0019",
+      "fecha": "2026-10-31",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Datos muestran cómo ha cambiado la migración en EE.UU. durante la era Trump",
-        "en": "Data shows how migration has changed in the US under Trump"
+        "es": "ONU advierte sobre 'pesadilla' de desplazamiento creciente en Gaza",
+        "en": "UN rights office warns of deepening displacement 'nightmare' in Gaza"
       },
       "sintesis": {
-        "es": "Gráficos basados en datos oficiales muestran el impacto de las políticas migratorias de mano dura de Trump sobre los flujos migratorios en Estados Unidos, según BBC Mundo.",
-        "en": "Charts based on official data show the impact of Trump's hardline immigration policies on US migration flows, according to BBC Mundo."
+        "es": "La oficina de derechos humanos de la ONU, OHCHR, advirtió que las fuerzas israelíes continúan empujando a los palestinos hacia zonas cada vez más pequeñas de Gaza mientras destruyen infraestructura civil.",
+        "en": "The UN human rights office, OHCHR, warned that Israeli forces continue pushing Palestinians into ever-smaller areas of Gaza while destroying civilian infrastructure."
       },
       "categoria": "demografia",
-      "actores": [],
+      "actores": [
+        "ONU",
+        "OHCHR"
+      ],
+      "geo": {
+        "lat": 31.0,
+        "lon": 34.9,
+        "region": "Oriente Medio"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_48605b748e"
+      ],
+      "imagenes": [
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/16-01-2025-UNRWA-Gaza-22.jpg/image560x340cropped.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_48605b748e",
+          "titulo": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168707",
+          "fuente": "ONU (inglés)",
+          "fecha": "Fri, 30 Oct 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0020",
+      "fecha": "2026-10-31",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-31_0000",
+        "nd_2026-10-31_0001",
+        "nd_2026-10-31_0009",
+        "nd_2026-10-31_0011",
+        "nd_2026-10-31_0013",
+        "nd_2026-10-31_0017",
+        "nd_2026-10-31_0018"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Binance denuncia hackeo de 6.300 millones de dólares atribuido a grupo norcoreano",
+        "en": "Binance reports $6.3 billion hack attributed to North Korean group"
+      },
+      "sintesis": {
+        "es": "France 24 informa que Binance denunció un ataque informático que comprometió 6.300 millones de dólares en activos, de los cuales 3.000 millones fueron congelados; firmas de seguridad señalan al grupo TraderTraitor.",
+        "en": "France 24 reports Binance disclosed a cyberattack that compromised $6.3 billion in assets, of which $3 billion was frozen; security firms point to the TraderTraitor group."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Binance",
+        "TraderTraitor"
+      ],
+      "geo": {
+        "lat": 40.3,
+        "lon": 127.5,
+        "region": "Asia Oriental"
+      },
+      "impacto": 75,
+      "fuentes": [
+        "ev_9f6d45a840"
+      ],
+      "imagenes": [
+        "https://s.france24.com/media/display/1a414350-d499-11f1-a8e5-695cb59fade5/w:1024/p:16x9/2026-10-30T080059Z-1128493862-RC2JDOAQP62K-RTRMADP-3-FINTECH-CRYPTO-BINANCE-HACK.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_9f6d45a840",
+          "titulo": "Binance denuncia hackeo de 6.300 millones de dólares, atribuido a grupo norcoreano",
+          "url": "https://www.france24.com/es/video/20261030-binance-denuncia-hackeo-de-6-300-millones-de-d%C3%B3lares-atribuido-a-grupo-norcoreano",
+          "fuente": "France 24",
+          "fecha": "Fri, 30 Oct 2026 19:37:18 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-10-31_0021",
+      "fecha": "2026-10-31",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-31_0006"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Acciones de Intel sufren su peor caída en décadas con pérdida de 140.000 millones de dólares",
+        "en": "Intel stock sees worst day in decades with $140 billion wipeout"
+      },
+      "sintesis": {
+        "es": "MarketWatch y CNBC informan que las acciones de Intel tuvieron su peor jornada desde los años 70, con una pérdida de valor de mercado de unos 140.000 millones de dólares, ante dudas sobre el gasto masivo en IA.",
+        "en": "MarketWatch and CNBC report Intel's stock had its worst day since the 1970s, wiping out about $140 billion in market value, amid concerns over massive AI spending."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Intel"
+      ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 45,
+      "impacto": 60,
       "fuentes": [
-        "ev_06ec5196dc"
+        "ev_6cc7b3458f"
       ],
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0786/live/10e1a930-d25a-11f1-a32a-7d1995043c22.jpg"
+        "https://images.mktw.net/im-37901280"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_06ec5196dc",
-          "titulo": "Los gráficos que muestran cómo ha cambiado la migración en EE.UU. en la era Trump",
-          "url": "https://www.bbc.com/mundo/articles/cqdr8205ylvko?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 29 Oct 2026 14:19:48 GMT",
-          "idioma": "es"
+          "id": "ev_6cc7b3458f",
+          "titulo": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
+          "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Fri, 30 Oct 2026 20:48:00 GMT",
+          "idioma": "en"
         }
       ],
-      "id": "nd_2026-10-30_0023",
-      "fecha": "2026-10-30",
+      "id": "nd_2026-10-31_0022",
+      "fecha": "2026-10-31",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-10-31_0025"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Funcionarios de la Reserva Federal señalan necesidad de retomar alzas de tasas",
+        "en": "Fed officials signal need to resume rate hikes"
+      },
+      "sintesis": {
+        "es": "CNBC reporta que los presidentes de la Reserva Federal Alberto Musalem y Lorie Logan ofrecieron las primeras señales sobre la posibilidad de que la Fed retome el ciclo de alzas de tasas de interés.",
+        "en": "CNBC reports Federal Reserve Presidents Alberto Musalem and Lorie Logan offered the first signals that the Fed may need to resume interest rate hikes."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Reserva Federal"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_0767780236"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0767780236",
+          "titulo": "Fed officials are already saying they’ll need to get back to hiking rates",
+          "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 30 Oct 2026 21:53:10 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0023",
+      "fecha": "2026-10-31",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Philip Lane del BCE aborda la adopción de IA en Europa",
+        "en": "ECB's Philip Lane addresses AI adoption in Europe"
+      },
+      "sintesis": {
+        "es": "El Banco Central Europeo publicó un discurso oficial de Philip R. Lane sobre la adopción de inteligencia artificial en Europa, en el marco de las comunicaciones oficiales del organismo.",
+        "en": "The European Central Bank published an official speech by Philip R. Lane on AI adoption in Europe, as part of the institution's official communications."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Banco Central Europeo"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 35,
+      "fuentes": [
+        "ev_3eb3cec87b"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_3eb3cec87b",
+          "titulo": "Philip R. Lane: AI adoption in Europe",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+          "fuente": "BCE",
+          "fecha": "Fri, 30 Oct 2026 17:10:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0024",
+      "fecha": "2026-10-31",
       "kardashev": "K1",
       "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Acciones tecnológicas de EE.UU. caen fuertemente mientras el gasto en IA se acerca a 1 billón de dólares",
+        "en": "US tech stocks see sharp falls as AI spending nears $1tn"
+      },
+      "sintesis": {
+        "es": "BBC News informa que las acciones de Intel continúan cayendo mientras el índice Nasdaq abrió en su nivel más bajo en más de dos meses, en medio de preocupaciones sobre el gasto masivo en inteligencia artificial.",
+        "en": "BBC News reports Intel shares continue falling while the Nasdaq opened at its lowest level in more than two months, amid concerns over massive AI spending."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Intel",
+        "Nasdaq"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_7bf2c4055d"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_7bf2c4055d",
+          "titulo": "US tech stocks see sharp falls as AI spending nears $1tn",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Fri, 30 Oct 2026 20:34:46 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-10-31_0025",
+      "fecha": "2026-10-31",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-10-31_0022"
+      ]
     }
   ],
-  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-10-30\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Estrecho de Ormuz\", \"Francia\", \"Haití\", \"Japón\", \"Nyala\", \"Oleshky\", \"Pensilvania\", \"Rusia\", \"Somalia\"]\npaises: [\"Canadá\", \"Catar\", \"China\", \"Colombia\", \"Corea del Norte\", \"Estados Unidos\", \"Francia\", \"Haití\", \"Irán\", \"Israel\", \"Japón\", \"Reino Unido\", \"Rusia\", \"Somalia\", \"Sudán\", \"Ucrania\", \"Unión Europea\", \"Yemen\", \"Zona Euro\"]\nentidades: [\"BP\", \"Banco Central Europeo\", \"Banco de Japón\", \"Bank of Nova Scotia\", \"Benjamin Netanyahu\", \"Binance\", \"CNBC\", \"Chevron\", \"Comisión Europea\", \"Donald Trump\", \"EIA\", \"Exxon\", \"Likud\", \"Novaya Gazeta\", \"ONU\", \"OpenAI\", \"Reserva Federal\", \"TraderTraitor\", \"UNICEF\"]\ntemas: [\"Gaza\", \"PIB\", \"aranceles\", \"ataques con drones\", \"ayuda humanitaria\", \"ciberseguridad\", \"coalición política\", \"comercio internacional\", \"conflicto armado\", \"crecimiento económico\", \"criptomonedas\", \"crisis humanitaria\", \"crisis política\", \"cuidados de larga duración\", \"diésel\", \"elecciones\", \"elecciones midterm\", \"energía\", \"envejecimiento poblacional\", \"ganancias corporativas\", \"gas natural\", \"gobernanza de IA\", \"guerra en Ucrania\", \"hackeo\", \"huelga\", \"inflación\", \"infraestructura energética\", \"inseguridad alimentaria\", \"inteligencia artificial\", \"libertad de prensa\", \"migración\", \"petróleo\", \"piratería\", \"política exterior\", \"política migratoria\", \"política monetaria\", \"precios energéticos\", \"pronósticos económicos\", \"puertos\", \"refinación\", \"regulación bancaria\", \"represión\", \"seguridad\", \"seguridad marítima\", \"sequía\", \"tasas de interés\", \"tensión militar\", \"transporte marítimo\"]\nbucles_activos: []\ncorte: \"2026-10-30T11:03:54.537503+00:00\"\ninicio_ventana: \"2026-10-29T11:03:54.537503+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-10-30\n\n## Resumen del día\n\nLos precios del petróleo se mantienen elevados por tensión persistente en el estrecho de Ormuz, mientras Irán denuncia nuevos daños a petroleros y Al Jazeera reporta que el Brent sigue 60% por encima de niveles previos a la guerra.\nLas grandes petroleras (Chevron, Exxon, BP) reportaron ganancias trimestrales superiores a lo esperado por márgenes de refinación de diésel, en un contexto de disrupción energética vinculada al conflicto Rusia-Ucrania e Irán.\nEl BCE mantuvo su política monetaria y publicó su encuesta de pronosticadores, mientras el BOJ declaró alcanzada por primera vez su meta de inflación subyacente del 2%.\nUn hackeo a Binance por 6.300 millones de dólares se perfila como el mayor robo de criptoactivos registrado, con fondos congelados y promesa de cobertura de pérdidas.\nEn cadenas de suministro, la Comisión Europea impuso aranceles antidumping a China y resurgió la piratería somalí en paralelo a la guerra en el mar Rojo/Ormuz, mientras sindicatos portuarios de 22 países realizaron una huelga global por Gaza.\n\nVentana de 24 horas hasta 2026-10-30T11:03:54.537503+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, imf, iom, unhcr, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 2. Tecnología\n\n<a id=\"ev_d7dfdea119\"></a>\n1. Hackeo a Binance por 6.300 millones de dólares, el mayor robo cripto de la historia — Binance sufrió un hackeo estimado en 6.300 millones de dólares, considerado el mayor robo de criptoactivos registrado; la empresa congeló fondos y prometió cubrir las pérdidas, según CNBC y BBC. — [CNBC, Fri, 30 Oct 2026 10:19:30 GMT](https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html) · medio.\n\n<a id=\"ev_fde8d2ef62\"></a>\n2. OpenAI actualiza su Model Spec para una IA más capaz y segura — OpenAI publicó una actualización de su Model Spec que define cinco valores centrales para orientar modelos de IA más capaces hacia el buen juicio, la agencia humana y la fidelidad a la intención del usuario. — [OpenAI, Thu, 29 Oct 2026 17:00:00 GMT](https://openai.com/index/updated-model-spec) · oficial.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_615ce31ad2\"></a>\n1. Chevron y Exxon superan expectativas por alza de márgenes de refinación de diésel — Chevron y Exxon reportaron ganancias superiores a lo esperado por el aumento global de precios del diésel, atribuido a bombardeos de Ucrania e Irán contra refinerías en Rusia y Medio Oriente, según CNBC. — [CNBC, Fri, 30 Oct 2026 10:58:24 GMT](https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html) · medio.\n\n<a id=\"ev_e905796bf4\"></a>\n2. BP casi cuadruplica su beneficio trimestral a 8.500 millones de dólares por márgenes de refinación — BP reportó un beneficio trimestral de 8.500 millones de dólares, impulsado por márgenes de refinación elevados en medio de la volatilidad energética derivada de conflictos globales, según CNBC. — [CNBC, Fri, 30 Oct 2026 09:00:24 GMT](https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html) · medio.\n\n<a id=\"ev_717cb843f7\"></a>\n3. Precios del petróleo siguen subiendo pese a recuperación de flujos tras tensión con Irán — El crudo Brent se mantiene más de 60% por encima de niveles previos a la guerra, pese a la recuperación de la oferta tras la reducción de la turbulencia por el conflicto con Irán, según Al Jazeera. — [Al Jazeera, Fri, 30 Oct 2026 08:36:11 +0000](https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss) · medio.\n\n<a id=\"ev_0db7d6590a\"></a>\n4. Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz — Irán declaró que cuatro petroleros fueron alcanzados por minas en el estrecho de Ormuz, disputando una afirmación estadounidense sobre el despeje de rutas marítimas clave, según CNBC. — [CNBC, Fri, 30 Oct 2026 07:12:49 GMT](https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html) · medio.\n\n<a id=\"ev_ff52731ed0\"></a>\n5. Colombia aumenta importaciones de GNL ante caída de producción doméstica de gas — Colombia importa más gas natural licuado debido a la caída de su producción doméstica; una posible sequía podría limitar la generación hidroeléctrica y aumentar la demanda de gas, según la EIA. — [EIA, Thu, 29 Oct 2026 09:00:00 EST](https://www.eia.gov/todayinenergy/detail.php?id=68364) · oficial.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_e67d4cd6ae\"></a>\n1. La Comisión Europea impone aranceles antidumping a PET Spunbond chino — La Comisión Europea impuso derechos antidumping sobre importaciones a la UE de PET Spunbond procedentes de China, según comunicado oficial de la institución. — [Comisión Europea · Comercio, Fri, 30 Oct 2026 00:00:00 +0100](https://policy.trade.ec.europa.eu/news/commission-acts-against-imports-pet-spunbond-china-2026-10-30_en) · oficial.\n\n<a id=\"ev_32505728ed\"></a>\n2. Resurge la piratería somalí en medio de la guerra entre EE.UU. e Irán que sacude el transporte marítimo — La piratería frente a las costas de Somalia ha resurgido en el contexto de la guerra entre Estados Unidos e Irán, que está afectando las rutas de transporte marítimo global, según CNN. — [CNN, 2026-10-30T10:51:01.472Z](https://www.cnn.com/2026/10/30/business/video/somali-piracy-back-as-the-us-iran-war-rattles-shipping-digvid-vrtc) · medio.\n\n<a id=\"ev_37f257978d\"></a>\n3. Más de 25 sindicatos portuarios en 22 países convocan huelga global en apoyo a Gaza — Más de 25 sindicatos de estibadores en más de 110 puertos de 22 países convocaron una huelga el 30 de octubre en solidaridad con Gaza, según Al Jazeera. — [Al Jazeera, Fri, 30 Oct 2026 10:04:35 +0000](https://www.aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza?traffic_source=rss) · medio.\n\n## 5. Geopolítica\n\n<a id=\"ev_f81bdc5680\"></a>\n1. Las acciones globales de Trump sobre Ucrania e Irán generan división electoral entre sus votantes — Votantes que apoyaron a Trump expresan rechazo a su giro en política exterior hacia Ucrania e Irán, lo que podría afectar el voto republicano en las elecciones de medio mandato, según The Guardian. — [The Guardian, Fri, 30 Oct 2026 08:00:49 GMT](https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections) · medio.\n\n<a id=\"ev_3c168936a6\"></a>\n2. Israel enfrenta semanas de negociaciones de coalición tras elecciones sin mayoría clara — Las elecciones israelíes dejaron al país ante semanas de negociación de coalición, con el Likud de Netanyahu denunciando fraude mientras la oposición busca formar gobierno con partidos árabes, según CNBC. — [CNBC, Fri, 30 Oct 2026 03:28:10 GMT](https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html) · medio.\n\n<a id=\"ev_df4f8bf964\"></a>\n3. El periódico ruso Novaya Gazeta anuncia su cierre por presión de las autoridades — El diario independiente ruso Novaya Gazeta, cuyo exeditor ganó el Nobel de la Paz, anunció su cierre citando presión de los servicios especiales rusos, según The Guardian. — [The Guardian, Fri, 30 Oct 2026 09:05:21 GMT](https://www.theguardian.com/world/2026/oct/30/novaya-gazeta-russia-independent-newspaper-to-close) · medio.\n\n<a id=\"ev_a887a1472e\"></a>\n4. Residentes abandonan la devastada Oleshky ocupada por Rusia al abrirse corredor de evacuación — Varios cientos de personas permanecen en la localidad ucraniana de Oleshky, ocupada por Rusia, pese a la falta de gas, electricidad y agua corriente, mientras se abre un corredor de evacuación, según la BBC. — [BBC News, Fri, 30 Oct 2026 10:32:06 GMT](https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_9400dea3f4\"></a>\n5. Rusia intercepta más de 1.000 drones ucranianos en ataques renovados contra refinerías — Autoridades rusas afirmaron haber interceptado más de 1.000 drones ucranianos durante la noche en múltiples regiones, en medio de renovados ataques contra refinerías petroleras, según Al Jazeera. — [Al Jazeera, Fri, 30 Oct 2026 09:14:16 +0000](https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_1bd9ab0c6a\"></a>\n1. La eurozona crece 0,4% en el tercer trimestre mientras Francia se contrae — La economía de la eurozona desaceleró a un crecimiento trimestral de 0,4% en el tercer trimestre, mientras Francia, en crisis política, registró una contracción, según datos citados por CNBC. — [CNBC, Fri, 30 Oct 2026 10:58:33 GMT](https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html) · medio.\n\n<a id=\"ev_c21da1556e\"></a>\n2. El BOJ mantiene tasas tras alcanzar por primera vez su meta de inflación subyacente del 2% — El Banco de Japón declaró que su meta de inflación subyacente de 2% se ha cumplido por primera vez desde que la fijó en 2013, y mantuvo las tasas de interés sin cambios, según CNBC. — [CNBC, Fri, 30 Oct 2026 04:19:38 GMT](https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html) · medio.\n\n<a id=\"ev_648da905e0\"></a>\n3. El BCE publica resultados de su encuesta de pronosticadores profesionales del cuarto trimestre — El Banco Central Europeo divulgó los resultados de su Encuesta de Pronosticadores Profesionales correspondiente al cuarto trimestre de 2026, un insumo oficial para sus proyecciones económicas. — [BCE, Fri, 30 Oct 2026 10:00:00 +0100](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html) · oficial.\n\n<a id=\"ev_7079f30173\"></a>\n4. La Reserva Federal aprueba solicitud del Bank of Nova Scotia — La Junta de la Reserva Federal anunció la aprobación oficial de una solicitud presentada por The Bank of Nova Scotia, según comunicado publicado en su sitio oficial. — [Reserva Federal, Thu, 29 Oct 2026 20:30:00 GMT](https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm) · oficial.\n\n<a id=\"ev_f5d6aedbcc\"></a>\n5. El BCE anuncia decisiones de política monetaria — El Banco Central Europeo publicó sus decisiones de política monetaria del 29 de octubre, en el marco de su reunión del Consejo de Gobierno, según comunicado oficial. — [BCE, Thu, 29 Oct 2026 14:15:00 +0100](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html) · oficial.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_1d7d34b792\"></a>\n1. Haití se acerca a niveles récord de inseguridad alimentaria — La ONU proyecta que 6,35 millones de personas en Haití estarán en crisis o emergencia alimentaria entre marzo y junio de 2027, y necesita 78 millones de dólares para sostener su ayuda hasta marzo. — [ONU, Thu, 29 Oct 2026 12:00:00 +0000](https://news.un.org/feed/view/es/story/2026/10/1542120) · oficial.\n\n<a id=\"ev_c4e6080b2a\"></a>\n2. Crece la demanda de cuidados de larga duración en América mientras la población envejece — Para 2050, 306 millones de personas en las Américas tendrán 60 años o más, pero solo 15 de 35 Estados cuentan con un sistema formal de cuidados de larga duración, según la ONU. — [ONU, Thu, 29 Oct 2026 12:00:00 +0000](https://news.un.org/feed/view/es/story/2026/10/1542119) · oficial.\n\n<a id=\"ev_df1f5f2944\"></a>\n3. La ONU reporta muertes de niños en Sudán y emergencia humanitaria en Haití y Yemen — UNICEF confirmó la muerte de al menos cinco niños en un ataque con drones contra un mercado en Nyala, Sudán, en medio de emergencias humanitarias simultáneas en Haití y Yemen, según la ONU. — [ONU (inglés), Thu, 29 Oct 2026 12:00:00 +0000](https://news.un.org/feed/view/en/story/2026/10/1168703) · oficial.\n\n<a id=\"ev_06ec5196dc\"></a>\n4. Datos muestran cómo ha cambiado la migración en EE.UU. durante la era Trump — Gráficos basados en datos oficiales muestran el impacto de las políticas migratorias de mano dura de Trump sobre los flujos migratorios en Estados Unidos, según BBC Mundo. — [BBC Mundo, Thu, 29 Oct 2026 14:19:48 GMT](https://www.bbc.com/mundo/articles/cqdr8205ylvko?at_medium=RSS&at_campaign=rss) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Sin movimiento verificado hoy\n- Flujos de Recursos: Con movimiento — La tensión en el estrecho de Ormuz —con Irán denunciando que cuatro petroleros chocaron con minas (ev_0db7d6590a) y el Brent manteniéndose más de 60% por encima de niveles previos a la guerra pese a la recuperación de flujos (ev_717cb843f7)— se tradujo en el sistema de cadenas en un resurgimiento de la piratería somalí que afecta las rutas de transporte marítimo global en el contexto de la guerra EE.UU.-Irán (ev_32505728ed). El alza de precios del diésel derivada de esta disrupción energética impulsó además las ganancias de refinación de Chevron, Exxon (ev_615ce31ad2) y BP (ev_e905796bf4). [ev_0db7d6590a](#ev_0db7d6590a) [ev_717cb843f7](#ev_717cb843f7) [ev_32505728ed](#ev_32505728ed) [ev_615ce31ad2](#ev_615ce31ad2) [ev_e905796bf4](#ev_e905796bf4)\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Posibilidad de escalada marítima en el estrecho de Ormuz si se confirman oficialmente los daños a petroleros denunciados por Irán, lo que podría afectar aún más los flujos de crudo. [ev_0db7d6590a](#ev_0db7d6590a)\n- Posibilidad de que la huelga portuaria global en 22 países tenga efectos en la logística internacional en los próximos días. [ev_37f257978d](#ev_37f257978d)\n- Posibilidad de nuevas medidas regulatorias o de seguridad en el sector cripto tras el hackeo a Binance, dado su tamaño sin precedentes. [ev_d7dfdea119](#ev_d7dfdea119)\n- Posibilidad de que la contracción de Francia y la desaceleración de la eurozona generen presión adicional sobre el BCE en próximas decisiones de tasas. [ev_1bd9ab0c6a](#ev_1bd9ab0c6a) [ev_f5d6aedbcc](#ev_f5d6aedbcc)\n- Posibilidad de que la declaración del BOJ sobre el cumplimiento de su meta de inflación abra paso a cambios futuros en su política de tasas. [ev_c21da1556e](#ev_c21da1556e)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-10-16T15:02:33+00:00 |\n| OpenAI | oficial | Disponible | 1 | 2026-10-29T17:00:00+00:00 |\n| NASA | oficial | Disponible | 10 | 2026-10-30T10:00:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 1 | 2026-10-29T14:00:00+00:00 |\n| FAO | oficial | Disponible | 2 | 2026-10-29T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-10-29T00:00:00+00:00 |\n| ONU | oficial | Disponible | 5 | 2026-10-29T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 1 | 2026-10-29T20:30:00+00:00 |\n| BCE | oficial | Disponible | 4 | 2026-10-30T09:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 7 | 2026-10-29T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 6 | 2026-10-29T16:15:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 2 | 2026-10-29T17:00:55+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-10-27T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | Disponible | 2 | 2026-10-30T09:00:00+00:00 |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-10-09T15:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-10-31T17:06:58+00:00 |\n| NASA · Comunicados | oficial | Disponible | 10 | 2026-10-30T04:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 1 | 2026-10-29T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-10-29T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 1 | 2026-10-29T14:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-10-30T08:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-10-28T15:23:22+00:00 |\n| BBC News | medio | Disponible | 31 | 2026-10-30T10:32:06+00:00 |\n| BBC Mundo | medio | Disponible | 13 | 2026-10-30T04:02:36+00:00 |\n| CNN | medio | Disponible | 98 | 2026-10-30T11:02:17.583000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-10-30T03:28:59+00:00 |\n| The Guardian | medio | Disponible | 34 | 2026-10-30T10:49:34+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-10-30T10:40:52+00:00 |\n| El País | medio | Disponible | 18 | 2026-10-30T10:50:38+00:00 |\n| CNBC | medio | Disponible | 29 | 2026-10-30T10:58:33+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-10-07T17:06:26+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-10-30T11:01:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 6 | 2026-10-30T10:07:16+00:00 |\n| BBC · Tecnología | medio | Disponible | 3 | 2026-10-30T09:33:51+00:00 |\n| BBC · Economía | medio | Disponible | 22 | 2026-10-30T10:49:21+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-10-30\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Estrecho de Ormuz\", \"Francia\", \"Haití\", \"Japón\", \"Nyala\", \"Oleshky\", \"Pensilvania\", \"Rusia\", \"Somalia\"]\npaises: [\"Canadá\", \"Catar\", \"China\", \"Colombia\", \"Corea del Norte\", \"Estados Unidos\", \"Francia\", \"Haití\", \"Irán\", \"Israel\", \"Japón\", \"Reino Unido\", \"Rusia\", \"Somalia\", \"Sudán\", \"Ucrania\", \"Unión Europea\", \"Yemen\", \"Zona Euro\"]\nentidades: [\"BP\", \"Banco Central Europeo\", \"Banco de Japón\", \"Bank of Nova Scotia\", \"Benjamin Netanyahu\", \"Binance\", \"CNBC\", \"Chevron\", \"Comisión Europea\", \"Donald Trump\", \"EIA\", \"Exxon\", \"Likud\", \"Novaya Gazeta\", \"ONU\", \"OpenAI\", \"Reserva Federal\", \"TraderTraitor\", \"UNICEF\"]\ntemas: [\"Gaza\", \"PIB\", \"aranceles\", \"ataques con drones\", \"ayuda humanitaria\", \"ciberseguridad\", \"coalición política\", \"comercio internacional\", \"conflicto armado\", \"crecimiento económico\", \"criptomonedas\", \"crisis humanitaria\", \"crisis política\", \"cuidados de larga duración\", \"diésel\", \"elecciones\", \"elecciones midterm\", \"energía\", \"envejecimiento poblacional\", \"ganancias corporativas\", \"gas natural\", \"gobernanza de IA\", \"guerra en Ucrania\", \"hackeo\", \"huelga\", \"inflación\", \"infraestructura energética\", \"inseguridad alimentaria\", \"inteligencia artificial\", \"libertad de prensa\", \"migración\", \"petróleo\", \"piratería\", \"política exterior\", \"política migratoria\", \"política monetaria\", \"precios energéticos\", \"pronósticos económicos\", \"puertos\", \"refinación\", \"regulación bancaria\", \"represión\", \"seguridad\", \"seguridad marítima\", \"sequía\", \"tasas de interés\", \"tensión militar\", \"transporte marítimo\"]\nbucles_activos: []\ncorte: \"2026-10-30T11:03:54.537503+00:00\"\ninicio_ventana: \"2026-10-29T11:03:54.537503+00:00\"\nestado: \"completo\"\n```\n",
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-10-31\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Ereván\", \"Estrecho de Ormuz\", \"Gaza\", \"Oleshky\", \"Quebec\", \"Sáhara Occidental\", \"Témiscaming\", \"Varsovia\", \"Yemen\", \"África oriental\"]\npaises: [\"Armenia\", \"Australia\", \"Canadá\", \"Corea del Norte\", \"Estados Unidos\", \"Irán\", \"Israel\", \"Marruecos\", \"Palestina\", \"Polonia\", \"Reino Unido\", \"República Democrática del Congo\", \"Rusia\", \"Ucrania\", \"Unión Europea\", \"Yemen\"]\nentidades: [\"ACNUR\", \"Banco Central Europeo\", \"Binance\", \"Congreso de Estados Unidos\", \"Consejo de Seguridad\", \"Convención sobre la Diversidad Biológica\", \"Departamento de Estado de EE.UU.\", \"EIA\", \"FAO\", \"G20\", \"Google\", \"IGAD\", \"IPC\", \"Intel\", \"Lazarus Group\", \"MINURSO\", \"NASA\", \"Nasdaq\", \"OHCHR\", \"ONU\", \"Reserva Federal\", \"TRM Labs\", \"TraderTraitor\", \"Tribunal Constitucional de Polonia\"]\ntemas: [\"El Niño\", \"Sáhara Occidental\", \"almacenamiento de energía\", \"aranceles\", \"armamento\", \"baterías\", \"biodiversidad\", \"centros de datos\", \"ciberseguridad\", \"comercio\", \"computación espacial\", \"conflicto\", \"conflicto armado\", \"criptomonedas\", \"crisis humanitaria\", \"crisis institucional\", \"cumbre climática\", \"defensa antiaérea\", \"derechos humanos\", \"desplazamiento\", \"diplomacia\", \"elecciones\", \"energía\", \"energía solar\", \"enfermedades zoonóticas\", \"espacio\", \"estado de derecho\", \"financiamiento climático\", \"guerra en Ucrania\", \"hacking\", \"hambre\", \"inflación\", \"inteligencia artificial\", \"manufactura\", \"mercados bursátiles\", \"misiones de paz\", \"petróleo\", \"política climática\", \"política monetaria\", \"precios de energía\", \"protestas\", \"publicidad digital\", \"refinación\", \"robo financiero\", \"sanciones\", \"seguridad alimentaria\", \"semiconductores\", \"servicios comerciales espaciales\", \"subsidios ambientales\", \"tasas de interés\", \"tecnología\", \"telescopio Hubble\", \"transporte marítimo\", \"tregua humanitaria\", \"veto\"]\nbucles_activos: [\"Impacto Societal y Financiero\"]\ncorte: \"2026-10-31T10:38:26.613621+00:00\"\ninicio_ventana: \"2026-10-30T10:38:26.613621+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-10-31\n\n## Resumen del día\n\nEl día concentra señales fuertes en tecnología y finanzas: el hackeo de 6.300 millones de dólares a Binance atribuido a hackers norcoreanos (TraderTraitor/Lazarus) y la caída bursátil de Google y Nasdaq por preocupaciones de gasto en IA.\nEn geopolítica, el veto cruzado entre Rusia y EE.UU. en el Consejo de Seguridad dejó sin resolver la misión de la ONU en el Sáhara Occidental, mientras EE.UU. aprobó venta de misiles Patriot a Ucrania y Polonia vivió una crisis institucional con despliegue de policía antidisturbios.\nEn recursos y clima, la FAO alertó sobre riesgo de fiebre del Valle del Rift en África oriental por El Niño y persisten dudas sobre financiamiento tras la cumbre de biodiversidad en Ereván.\nEn cadenas de suministro, los aranceles de EE.UU. del 50% golpean manufactura canadiense, mientras el Estrecho de Ormuz sigue operativo pese a la escalada de ataques iraníes.\nLos hechos del día no documentan vínculos explícitos entre dos dimensiones distintas para los flujos cibernéticos, por lo que ese flujo queda sin movimiento verificado según la evidencia disponible.\n\nVentana de 24 horas hasta 2026-10-31T10:38:26.613621+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, imf, iom, unhcr, usda, bis, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_1bea91b1b9\"></a>\n1. Cumbre COP17 de biodiversidad concluye en Ereván con críticas por falta de metas cumplidas — The Guardian reporta que la COP17 sobre biodiversidad concluyó en Ereván sin que los países cumplan metas de protección del 30% del planeta ni reformar 500.000 millones de dólares en subsidios dañinos, según críticos del proceso. — [The Guardian · Medio ambiente, Sat, 31 Oct 2026 10:01:29 GMT](https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets) · medio.\n\n<a id=\"ev_59733ec04c\"></a>\n2. Negociaciones globales sobre naturaleza llegan a acuerdo pero persisten dudas sobre financiamiento — BBC News informa que países alcanzaron un acuerdo para intentar frenar la pérdida de naturaleza, aunque persisten desacuerdos sobre la financiación necesaria para implementar los compromisos. — [BBC News, Sat, 31 Oct 2026 01:27:05 GMT](https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_1eb320149b\"></a>\n3. Elecciones legislativas de EE.UU. podrían reconfigurar política climática ante aumento de costos de energía — The Guardian señala que votantes sienten el impacto de la agenda anticlimática de Trump en facturas de energía, y un cambio en el Congreso tras las midterms podría frenar o profundizar el desmantelamiento regulatorio. — [The Guardian · Medio ambiente, Fri, 30 Oct 2026 11:30:52 GMT](https://www.theguardian.com/us-news/2026/oct/30/climate-crisis-midterms-affordability) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_0f687155df\"></a>\n1. Google logra primera respuesta de IA desde satélite prototipo del Proyecto Suncatcher — Google anunció en su blog oficial haber alcanzado el hito 'Hello World': la primera respuesta de un modelo de IA generada por una TPU de centro de datos en órbita, parte del Proyecto Suncatcher. — [Google, Fri, 30 Oct 2026 17:00:00 +0000](https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/) · oficial.\n\n<a id=\"ev_8d1638a5c7\"></a>\n2. NASA explora servicio comercial para el telescopio espacial Hubble — NASA emitió una solicitud de información el 29 de octubre para conocer capacidades de la industria privada en servicios de mantenimiento espacial que podrían extender la vida del telescopio Hubble. — [NASA, Fri, 30 Oct 2026 14:51:21 +0000](https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/) · oficial.\n\n<a id=\"ev_08a04b43d2\"></a>\n3. Valor de mercado de Google cae 500.000 millones de dólares tras impacto de IA propia en ventas publicitarias — BBC Tecnología informa que las acciones de Google cayeron a un mínimo de seis meses después de que la empresa revelara que sus resúmenes de búsqueda con IA están afectando los ingresos publicitarios. — [BBC · Tecnología, Fri, 30 Oct 2026 12:04:02 GMT](https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_326de379d7\"></a>\n4. Hackers vinculados a Corea del Norte, principales sospechosos del mayor robo cripto en Binance — BBC News reporta que expertos como TRM Labs atribuyen el robo de 6.300 millones de dólares en criptomonedas de Binance a TraderTraitor, unidad de hackers norcoreanos también conocida como Lazarus Group. — [BBC News, Sat, 31 Oct 2026 02:12:19 GMT](https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss) · medio.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_f82d98d0c7\"></a>\n1. Almacenamiento con baterías co-ubicado en nueva capacidad solar aumenta a más del 16% en EE.UU. — La EIA informó que más del 16% de la nueva capacidad solar a escala de servicios públicos añadida en 2026 en EE.UU. está co-ubicada con almacenamiento operable de baterías, frente al 2% en 2017. — [EIA, Fri, 30 Oct 2026  09:00:00 EST](https://www.eia.gov/todayinenergy/detail.php?id=68384) · oficial.\n\n<a id=\"ev_c256030f70\"></a>\n2. FAO y IGAD advierten sobre riesgo elevado de brotes de fiebre del Valle del Rift en África oriental por El Niño — La FAO, junto con la IGAD, alertó oficialmente que el fenómeno de El Niño aumenta el riesgo de brotes de fiebre del Valle del Rift en África oriental, con implicaciones para la seguridad alimentaria y ganadera. — [FAO, Fri, 30 Oct 2026 12:00:00 Z](https://www.fao.org/newsroom/detail/el-ni%C3%B1o-heightens-risk-of-rift-valley-fever-outbreaks-in-eastern-africa--fao-and-igad-warn/en) · oficial.\n\n<a id=\"ev_d7d6e49a41\"></a>\n3. Más de 28 millones de personas enfrentan hambre en RD Congo por conflicto, ébola y clima — La ONU reportó que más de 28 millones de personas en la República Democrática del Congo no tienen suficiente alimento, cifra que se espera aumente en los próximos meses según el monitor IPC de seguridad alimentaria. — [ONU (inglés), Fri, 30 Oct 2026 12:00:00 +0000](https://news.un.org/feed/view/en/story/2026/10/1168708) · oficial.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_a40d0063f5\"></a>\n1. Aranceles de EE.UU. del 50% amenazan cerrar fábrica de papel centenaria en Quebec — BBC News reporta que una fábrica de papel centenaria en Témiscaming, Quebec, cerró indefinidamente tras la imposición de aranceles del 50% por parte de Estados Unidos a sus productos, dejando a cientos sin empleo. — [BBC News, Sat, 31 Oct 2026 02:39:25 GMT](https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_2eaeda16d4\"></a>\n2. Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes — CNBC reporta que las tarifas de flete en alza incentivan a los petroleros a seguir cruzando el Estrecho de Ormuz pese a la fuerte escalada de ataques iraníes en la zona. — [CNBC, Fri, 30 Oct 2026 18:28:09 GMT](https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html) · medio.\n\n<a id=\"ev_fc9ac2cc1d\"></a>\n3. Ganancias de refinación de grandes petroleras se disparan pese a críticas de Trump — CNBC informa que, pese a que Trump criticó a las grandes petroleras por obtener 'demasiado dinero', estas han reportado ganancias de refinación en aumento ante el ajuste de suministros de combustible. — [CNBC, Sat, 31 Oct 2026 06:00:02 GMT](https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html) · medio.\n\n## 5. Geopolítica\n\n<a id=\"ev_94f826bdf0\"></a>\n1. Resoluciones rivales de EE.UU. y Rusia sobre el Sáhara Occidental fracasan en la ONU — Al Jazeera reporta que el Consejo de Seguridad de la ONU rechazó propuestas competidoras de Estados Unidos y Rusia, dejando sin extensión aprobada a la misión de paz en el Sáhara Occidental. — [Al Jazeera, Sat, 31 Oct 2026 09:35:21 +0000](https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un?traffic_source=rss) · medio.\n\n<a id=\"ev_e2256ea5f1\"></a>\n2. EE.UU. aprueba venta de 500 misiles Patriot a Ucrania por 2.100 millones de dólares — BBC News y The Guardian informan que el Departamento de Estado de EE.UU. aprobó la venta de 500 misiles Patriot PAC-3 a Ucrania, aunque Zelenski advirtió que la entrega podría tardar años. — [BBC News, Sat, 31 Oct 2026 00:40:43 GMT](https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_c104a433f7\"></a>\n3. Policía antidisturbios desplegada en Polonia tras suspensión de jueces del Tribunal Constitucional — The Guardian y BBC reportan un enfrentamiento entre policía antidisturbios y manifestantes en Varsovia tras la suspensión del presidente del Tribunal Constitucional y su vicepresidente, en medio de una disputa de una década sobre la legitimidad judicial. — [The Guardian, Sat, 31 Oct 2026 04:27:25 GMT](https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended) · medio.\n\n<a id=\"ev_2abeed51ff\"></a>\n4. EE.UU. cancela 'foto familiar' del G20 tras negativa de varios países a posar con Rusia — The Guardian informa que el secretario de Estado Marco Rubio canceló la tradicional foto de la reunión de cancilleres del G20 tras el rechazo de Australia, Reino Unido y otros países a posar junto al canciller ruso Lavrov. — [The Guardian, Sat, 31 Oct 2026 00:29:28 GMT](https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia) · medio.\n\n<a id=\"ev_d8151a8149\"></a>\n5. Veto cruzado entre Rusia y EE.UU. deja sin resolver misión de la ONU en el Sáhara — El País reporta que Moscú asestó un revés diplomático a la alianza entre Washington y Rabat al vetar su propuesta para la misión de la ONU en el Sáhara Occidental, tras el veto previo de EE.UU. a la propuesta rusa. — [El País, Fri, 30 Oct 2026 21:40:43 GMT](https://elpais.com/internacional/2026-10-30/el-cruce-de-vetos-entre-rusia-y-ee-uu-deja-en-el-aire-la-mision-de-la-onu-en-el-sahara.html) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_9f6d45a840\"></a>\n1. Binance denuncia hackeo de 6.300 millones de dólares atribuido a grupo norcoreano — France 24 informa que Binance denunció un ataque informático que comprometió 6.300 millones de dólares en activos, de los cuales 3.000 millones fueron congelados; firmas de seguridad señalan al grupo TraderTraitor. — [France 24, Fri, 30 Oct 2026 19:37:18 GMT](https://www.france24.com/es/video/20261030-binance-denuncia-hackeo-de-6-300-millones-de-d%C3%B3lares-atribuido-a-grupo-norcoreano) · medio.\n\n<a id=\"ev_6cc7b3458f\"></a>\n2. Acciones de Intel sufren su peor caída en décadas con pérdida de 140.000 millones de dólares — MarketWatch y CNBC informan que las acciones de Intel tuvieron su peor jornada desde los años 70, con una pérdida de valor de mercado de unos 140.000 millones de dólares, ante dudas sobre el gasto masivo en IA. — [MarketWatch, Fri, 30 Oct 2026 20:48:00 GMT](https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories) · medio.\n\n<a id=\"ev_0767780236\"></a>\n3. Funcionarios de la Reserva Federal señalan necesidad de retomar alzas de tasas — CNBC reporta que los presidentes de la Reserva Federal Alberto Musalem y Lorie Logan ofrecieron las primeras señales sobre la posibilidad de que la Fed retome el ciclo de alzas de tasas de interés. — [CNBC, Fri, 30 Oct 2026 21:53:10 GMT](https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html) · medio.\n\n<a id=\"ev_3eb3cec87b\"></a>\n4. Philip Lane del BCE aborda la adopción de IA en Europa — El Banco Central Europeo publicó un discurso oficial de Philip R. Lane sobre la adopción de inteligencia artificial en Europa, en el marco de las comunicaciones oficiales del organismo. — [BCE, Fri, 30 Oct 2026 17:10:00 +0100](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html) · oficial.\n\n<a id=\"ev_7bf2c4055d\"></a>\n5. Acciones tecnológicas de EE.UU. caen fuertemente mientras el gasto en IA se acerca a 1 billón de dólares — BBC News informa que las acciones de Intel continúan cayendo mientras el índice Nasdaq abrió en su nivel más bajo en más de dos meses, en medio de preocupaciones sobre el gasto masivo en inteligencia artificial. — [BBC News, Fri, 30 Oct 2026 20:34:46 GMT](https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss) · medio.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_7297fa52bb\"></a>\n1. ONU dice que tregua en Oleshky da 'esperanza' a civiles pese a ataques continuos a vehículos de ayuda — La ONU informó que la tregua humanitaria en Oleshky representa esperanza para los civiles de la ciudad ucraniana controlada por Rusia, aunque instó a garantizar evacuaciones seguras y voluntarias. — [ONU (inglés), Fri, 30 Oct 2026 12:00:00 +0000](https://news.un.org/feed/view/en/story/2026/10/1168712) · oficial.\n\n<a id=\"ev_22acbcd8f2\"></a>\n2. Más de 280.000 desplazados en Yemen enfrentan acceso peligroso a ayuda humanitaria — ACNUR informó que más de 280.000 personas han sido desplazadas por los combates en Yemen y muchas no pueden acceder a ayuda vital por el peligro que implica desplazarse en la zona. — [ONU (inglés), Fri, 30 Oct 2026 12:00:00 +0000](https://news.un.org/feed/view/en/story/2026/10/1168706) · oficial.\n\n<a id=\"ev_48605b748e\"></a>\n3. ONU advierte sobre 'pesadilla' de desplazamiento creciente en Gaza — La oficina de derechos humanos de la ONU, OHCHR, advirtió que las fuerzas israelíes continúan empujando a los palestinos hacia zonas cada vez más pequeñas de Gaza mientras destruyen infraestructura civil. — [ONU (inglés), Fri, 30 Oct 2026 12:00:00 +0000](https://news.un.org/feed/view/en/story/2026/10/1168707) · oficial.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Con movimiento — El veto cruzado entre Rusia y EE.UU. en el Consejo de Seguridad sobre la misión de la ONU en el Sáhara Occidental (geopolítica) coincide con la persistencia del flujo de crudo a través del Estrecho de Ormuz pese a ataques iraníes (cadenas), mostrando cómo el tablero geopolítico condiciona directamente una ruta crítica de suministro energético. [ev_94f826bdf0](#ev_94f826bdf0) [ev_d8151a8149](#ev_d8151a8149) [ev_2eaeda16d4](#ev_2eaeda16d4)\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Con movimiento — El desplazamiento forzado documentado en Gaza, Yemen y Oleshky (demografía) ocurre en paralelo a tensiones geopolíticas activas en Ucrania (venta de misiles Patriot) y en el Consejo de Seguridad sobre el Sáhara Occidental (geopolítica), mientras los mercados financieros muestran estrés simultáneo con la caída de Intel y la señal de la Fed sobre posibles alzas de tasas (finanzas), ilustrando la coocurrencia entre crisis humanitarias, disputas de poder y volatilidad financiera, aunque los hechos no establecen un vínculo causal explícito entre ellas. [ev_48605b748e](#ev_48605b748e) [ev_22acbcd8f2](#ev_22acbcd8f2) [ev_7297fa52bb](#ev_7297fa52bb) [ev_e2256ea5f1](#ev_e2256ea5f1) [ev_94f826bdf0](#ev_94f826bdf0) [ev_6cc7b3458f](#ev_6cc7b3458f) [ev_0767780236](#ev_0767780236)\n\n## Señales a vigilar\n\n- Posibilidad de que el Congreso de EE.UU., tras las elecciones de medio término, modifique la agenda regulatoria climática ante el descontento por costos de energía. [ev_1eb320149b](#ev_1eb320149b)\n- Posibilidad de nuevas sanciones o controles por el hackeo de Binance si se confirma oficialmente la autoría del grupo norcoreano Lazarus/TraderTraitor. [ev_326de379d7](#ev_326de379d7) [ev_9f6d45a840](#ev_9f6d45a840)\n- Posibilidad de que persista el estancamiento en el Consejo de Seguridad sobre el Sáhara Occidental si Rusia y EE.UU. no acercan posiciones tras el doble veto. [ev_94f826bdf0](#ev_94f826bdf0) [ev_d8151a8149](#ev_d8151a8149)\n- Posibilidad de escalada de la crisis institucional en Polonia si persiste el conflicto entre el gobierno y el Tribunal Constitucional. [ev_c104a433f7](#ev_c104a433f7)\n- Posibilidad de que la Fed retome el ciclo de alzas de tasas si las señales de Musalem y Logan se consolidan en próximas reuniones. [ev_0767780236](#ev_0767780236)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-10-16T15:02:33+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-10-30T09:30:00+00:00 |\n| NASA | oficial | Disponible | 4 | 2026-10-31T04:05:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 1 | 2026-10-30T14:00:00+00:00 |\n| FAO | oficial | Disponible | 1 | 2026-10-30T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-10-30T00:00:00+00:00 |\n| ONU | oficial | Disponible | 2 | 2026-10-30T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 0 | 2026-10-29T20:30:00+00:00 |\n| BCE | oficial | Disponible | 2 | 2026-10-30T16:10:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 5 | 2026-10-31T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 3 | 2026-10-30T20:15:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-10-29T17:00:55+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-10-27T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | Disponible | 2 | 2026-10-30T15:00:00+00:00 |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-10-09T15:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-01T17:07:44+00:00 |\n| NASA · Comunicados | oficial | Disponible | 4 | 2026-10-31T04:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-10-29T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | No disponible | 0 | Sin fecha verificable |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-10-29T14:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-10-30T08:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-10-29T14:02:01+00:00 |\n| BBC News | medio | Disponible | 27 | 2026-10-31T09:16:14+00:00 |\n| BBC Mundo | medio | Disponible | 16 | 2026-10-31T10:06:16+00:00 |\n| CNN | medio | Disponible | 85 | 2026-10-31T10:36:40.273000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-10-31T06:36:27+00:00 |\n| The Guardian | medio | Disponible | 25 | 2026-10-31T10:17:37+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-10-31T10:00:17+00:00 |\n| El País | medio | Disponible | 16 | 2026-10-31T09:30:00+00:00 |\n| CNBC | medio | Disponible | 28 | 2026-10-31T06:00:02+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-10-07T17:06:26+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-10-31T04:30:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 6 | 2026-10-31T10:01:29+00:00 |\n| BBC · Tecnología | medio | Disponible | 5 | 2026-10-31T02:12:19+00:00 |\n| BBC · Economía | medio | Disponible | 9 | 2026-10-30T21:34:32+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-10-31\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Ereván\", \"Estrecho de Ormuz\", \"Gaza\", \"Oleshky\", \"Quebec\", \"Sáhara Occidental\", \"Témiscaming\", \"Varsovia\", \"Yemen\", \"África oriental\"]\npaises: [\"Armenia\", \"Australia\", \"Canadá\", \"Corea del Norte\", \"Estados Unidos\", \"Irán\", \"Israel\", \"Marruecos\", \"Palestina\", \"Polonia\", \"Reino Unido\", \"República Democrática del Congo\", \"Rusia\", \"Ucrania\", \"Unión Europea\", \"Yemen\"]\nentidades: [\"ACNUR\", \"Banco Central Europeo\", \"Binance\", \"Congreso de Estados Unidos\", \"Consejo de Seguridad\", \"Convención sobre la Diversidad Biológica\", \"Departamento de Estado de EE.UU.\", \"EIA\", \"FAO\", \"G20\", \"Google\", \"IGAD\", \"IPC\", \"Intel\", \"Lazarus Group\", \"MINURSO\", \"NASA\", \"Nasdaq\", \"OHCHR\", \"ONU\", \"Reserva Federal\", \"TRM Labs\", \"TraderTraitor\", \"Tribunal Constitucional de Polonia\"]\ntemas: [\"El Niño\", \"Sáhara Occidental\", \"almacenamiento de energía\", \"aranceles\", \"armamento\", \"baterías\", \"biodiversidad\", \"centros de datos\", \"ciberseguridad\", \"comercio\", \"computación espacial\", \"conflicto\", \"conflicto armado\", \"criptomonedas\", \"crisis humanitaria\", \"crisis institucional\", \"cumbre climática\", \"defensa antiaérea\", \"derechos humanos\", \"desplazamiento\", \"diplomacia\", \"elecciones\", \"energía\", \"energía solar\", \"enfermedades zoonóticas\", \"espacio\", \"estado de derecho\", \"financiamiento climático\", \"guerra en Ucrania\", \"hacking\", \"hambre\", \"inflación\", \"inteligencia artificial\", \"manufactura\", \"mercados bursátiles\", \"misiones de paz\", \"petróleo\", \"política climática\", \"política monetaria\", \"precios de energía\", \"protestas\", \"publicidad digital\", \"refinación\", \"robo financiero\", \"sanciones\", \"seguridad alimentaria\", \"semiconductores\", \"servicios comerciales espaciales\", \"subsidios ambientales\", \"tasas de interés\", \"tecnología\", \"telescopio Hubble\", \"transporte marítimo\", \"tregua humanitaria\", \"veto\"]\nbucles_activos: [\"Impacto Societal y Financiero\"]\ncorte: \"2026-10-31T10:38:26.613621+00:00\"\ninicio_ventana: \"2026-10-30T10:38:26.613621+00:00\"\nestado: \"completo\"\n```\n",
   "nexo": {
     "resumen": [
-      "Los precios del petróleo se mantienen elevados por tensión persistente en el estrecho de Ormuz, mientras Irán denuncia nuevos daños a petroleros y Al Jazeera reporta que el Brent sigue 60% por encima de niveles previos a la guerra.",
-      "Las grandes petroleras (Chevron, Exxon, BP) reportaron ganancias trimestrales superiores a lo esperado por márgenes de refinación de diésel, en un contexto de disrupción energética vinculada al conflicto Rusia-Ucrania e Irán.",
-      "El BCE mantuvo su política monetaria y publicó su encuesta de pronosticadores, mientras el BOJ declaró alcanzada por primera vez su meta de inflación subyacente del 2%.",
-      "Un hackeo a Binance por 6.300 millones de dólares se perfila como el mayor robo de criptoactivos registrado, con fondos congelados y promesa de cobertura de pérdidas.",
-      "En cadenas de suministro, la Comisión Europea impuso aranceles antidumping a China y resurgió la piratería somalí en paralelo a la guerra en el mar Rojo/Ormuz, mientras sindicatos portuarios de 22 países realizaron una huelga global por Gaza."
+      "El día concentra señales fuertes en tecnología y finanzas: el hackeo de 6.300 millones de dólares a Binance atribuido a hackers norcoreanos (TraderTraitor/Lazarus) y la caída bursátil de Google y Nasdaq por preocupaciones de gasto en IA.",
+      "En geopolítica, el veto cruzado entre Rusia y EE.UU. en el Consejo de Seguridad dejó sin resolver la misión de la ONU en el Sáhara Occidental, mientras EE.UU. aprobó venta de misiles Patriot a Ucrania y Polonia vivió una crisis institucional con despliegue de policía antidisturbios.",
+      "En recursos y clima, la FAO alertó sobre riesgo de fiebre del Valle del Rift en África oriental por El Niño y persisten dudas sobre financiamiento tras la cumbre de biodiversidad en Ereván.",
+      "En cadenas de suministro, los aranceles de EE.UU. del 50% golpean manufactura canadiense, mientras el Estrecho de Ormuz sigue operativo pese a la escalada de ataques iraníes.",
+      "Los hechos del día no documentan vínculos explícitos entre dos dimensiones distintas para los flujos cibernéticos, por lo que ese flujo queda sin movimiento verificado según la evidencia disponible."
     ],
     "flujos": {
       "Presión Climática": {
@@ -1015,20 +1164,18 @@
         "hechos": []
       },
       "Palanca Geopolítica": {
+        "estado": "Con movimiento",
+        "texto": "El veto cruzado entre Rusia y EE.UU. en el Consejo de Seguridad sobre la misión de la ONU en el Sáhara Occidental (geopolítica) coincide con la persistencia del flujo de crudo a través del Estrecho de Ormuz pese a ataques iraníes (cadenas), mostrando cómo el tablero geopolítico condiciona directamente una ruta crítica de suministro energético.",
+        "hechos": [
+          "ev_94f826bdf0",
+          "ev_d8151a8149",
+          "ev_2eaeda16d4"
+        ]
+      },
+      "Flujos de Recursos": {
         "estado": "Sin movimiento verificado hoy",
         "texto": "",
         "hechos": []
-      },
-      "Flujos de Recursos": {
-        "estado": "Con movimiento",
-        "texto": "La tensión en el estrecho de Ormuz —con Irán denunciando que cuatro petroleros chocaron con minas (ev_0db7d6590a) y el Brent manteniéndose más de 60% por encima de niveles previos a la guerra pese a la recuperación de flujos (ev_717cb843f7)— se tradujo en el sistema de cadenas en un resurgimiento de la piratería somalí que afecta las rutas de transporte marítimo global en el contexto de la guerra EE.UU.-Irán (ev_32505728ed). El alza de precios del diésel derivada de esta disrupción energética impulsó además las ganancias de refinación de Chevron, Exxon (ev_615ce31ad2) y BP (ev_e905796bf4).",
-        "hechos": [
-          "ev_0db7d6590a",
-          "ev_717cb843f7",
-          "ev_32505728ed",
-          "ev_615ce31ad2",
-          "ev_e905796bf4"
-        ]
       },
       "Flujos Cibernéticos y de Datos": {
         "estado": "Sin movimiento verificado hoy",
@@ -1048,41 +1195,50 @@
         "hechos": []
       },
       "Impacto Societal y Financiero": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
+        "estado": "Con movimiento",
+        "texto": "El desplazamiento forzado documentado en Gaza, Yemen y Oleshky (demografía) ocurre en paralelo a tensiones geopolíticas activas en Ucrania (venta de misiles Patriot) y en el Consejo de Seguridad sobre el Sáhara Occidental (geopolítica), mientras los mercados financieros muestran estrés simultáneo con la caída de Intel y la señal de la Fed sobre posibles alzas de tasas (finanzas), ilustrando la coocurrencia entre crisis humanitarias, disputas de poder y volatilidad financiera, aunque los hechos no establecen un vínculo causal explícito entre ellas.",
+        "hechos": [
+          "ev_48605b748e",
+          "ev_22acbcd8f2",
+          "ev_7297fa52bb",
+          "ev_e2256ea5f1",
+          "ev_94f826bdf0",
+          "ev_6cc7b3458f",
+          "ev_0767780236"
+        ]
       }
     },
     "senales": [
       {
-        "texto": "Posibilidad de escalada marítima en el estrecho de Ormuz si se confirman oficialmente los daños a petroleros denunciados por Irán, lo que podría afectar aún más los flujos de crudo.",
+        "texto": "Posibilidad de que el Congreso de EE.UU., tras las elecciones de medio término, modifique la agenda regulatoria climática ante el descontento por costos de energía.",
         "hechos": [
-          "ev_0db7d6590a"
+          "ev_1eb320149b"
         ]
       },
       {
-        "texto": "Posibilidad de que la huelga portuaria global en 22 países tenga efectos en la logística internacional en los próximos días.",
+        "texto": "Posibilidad de nuevas sanciones o controles por el hackeo de Binance si se confirma oficialmente la autoría del grupo norcoreano Lazarus/TraderTraitor.",
         "hechos": [
-          "ev_37f257978d"
+          "ev_326de379d7",
+          "ev_9f6d45a840"
         ]
       },
       {
-        "texto": "Posibilidad de nuevas medidas regulatorias o de seguridad en el sector cripto tras el hackeo a Binance, dado su tamaño sin precedentes.",
+        "texto": "Posibilidad de que persista el estancamiento en el Consejo de Seguridad sobre el Sáhara Occidental si Rusia y EE.UU. no acercan posiciones tras el doble veto.",
         "hechos": [
-          "ev_d7dfdea119"
+          "ev_94f826bdf0",
+          "ev_d8151a8149"
         ]
       },
       {
-        "texto": "Posibilidad de que la contracción de Francia y la desaceleración de la eurozona generen presión adicional sobre el BCE en próximas decisiones de tasas.",
+        "texto": "Posibilidad de escalada de la crisis institucional en Polonia si persiste el conflicto entre el gobierno y el Tribunal Constitucional.",
         "hechos": [
-          "ev_1bd9ab0c6a",
-          "ev_f5d6aedbcc"
+          "ev_c104a433f7"
         ]
       },
       {
-        "texto": "Posibilidad de que la declaración del BOJ sobre el cumplimiento de su meta de inflación abra paso a cambios futuros en su política de tasas.",
+        "texto": "Posibilidad de que la Fed retome el ciclo de alzas de tasas si las señales de Musalem y Logan se consolidan en próximas reuniones.",
         "hechos": [
-          "ev_c21da1556e"
+          "ev_0767780236"
         ]
       }
     ],
@@ -1100,12 +1256,12 @@
     },
     "openai": {
       "ok": true,
-      "piezas": 1337,
+      "piezas": 1341,
       "fuente": "OpenAI",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-29T17:00:00+00:00",
-      "recientes": 1
+      "ultima_publicacion": "2026-10-30T09:30:00+00:00",
+      "recientes": 0
     },
     "nasa": {
       "ok": true,
@@ -1113,8 +1269,8 @@
       "fuente": "NASA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-30T10:00:00+00:00",
-      "recientes": 10
+      "ultima_publicacion": "2026-10-31T04:05:00+00:00",
+      "recientes": 4
     },
     "cisa": {
       "ok": false,
@@ -1127,21 +1283,21 @@
     },
     "eia": {
       "ok": true,
-      "piezas": 21,
+      "piezas": 22,
       "fuente": "EIA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-29T14:00:00+00:00",
+      "ultima_publicacion": "2026-10-30T14:00:00+00:00",
       "recientes": 1
     },
     "fao": {
       "ok": true,
-      "piezas": 20,
+      "piezas": 21,
       "fuente": "FAO",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-29T12:00:00+00:00",
-      "recientes": 2
+      "ultima_publicacion": "2026-10-30T12:00:00+00:00",
+      "recientes": 1
     },
     "wto": {
       "ok": true,
@@ -1149,7 +1305,7 @@
       "fuente": "OMC",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-29T00:00:00+00:00",
+      "ultima_publicacion": "2026-10-30T00:00:00+00:00",
       "recientes": 0
     },
     "un": {
@@ -1158,8 +1314,8 @@
       "fuente": "ONU",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-29T12:00:00+00:00",
-      "recientes": 5
+      "ultima_publicacion": "2026-10-30T12:00:00+00:00",
+      "recientes": 2
     },
     "fed": {
       "ok": true,
@@ -1168,7 +1324,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-10-29T20:30:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "ecb": {
       "ok": true,
@@ -1176,8 +1332,8 @@
       "fuente": "BCE",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-30T09:00:00+00:00",
-      "recientes": 4
+      "ultima_publicacion": "2026-10-30T16:10:00+00:00",
+      "recientes": 2
     },
     "imf": {
       "ok": false,
@@ -1212,8 +1368,8 @@
       "fuente": "ONU (inglés)",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-29T12:00:00+00:00",
-      "recientes": 7
+      "ultima_publicacion": "2026-10-31T12:00:00+00:00",
+      "recientes": 5
     },
     "consilium": {
       "ok": true,
@@ -1230,8 +1386,8 @@
       "fuente": "Google",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-29T16:15:00+00:00",
-      "recientes": 6
+      "ultima_publicacion": "2026-10-30T20:15:00+00:00",
+      "recientes": 3
     },
     "microsoft": {
       "ok": true,
@@ -1249,7 +1405,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-10-29T17:00:55+00:00",
-      "recientes": 2
+      "recientes": 0
     },
     "apple": {
       "ok": true,
@@ -1275,7 +1431,7 @@
       "fuente": "Agencia Espacial Europea",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-30T09:00:00+00:00",
+      "ultima_publicacion": "2026-10-30T15:00:00+00:00",
       "recientes": 2
     },
     "noaa-ncei": {
@@ -1293,7 +1449,7 @@
       "fuente": "NOAA · Centro Nacional de Huracanes",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-31T17:06:58+00:00",
+      "ultima_publicacion": "2026-11-01T17:07:44+00:00",
       "recientes": 1
     },
     "nasa-releases": {
@@ -1302,8 +1458,8 @@
       "fuente": "NASA · Comunicados",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-30T04:05:00+00:00",
-      "recientes": 10
+      "ultima_publicacion": "2026-10-31T04:05:00+00:00",
+      "recientes": 4
     },
     "usda": {
       "ok": false,
@@ -1321,15 +1477,15 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-10-29T23:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "bis": {
-      "ok": true,
-      "piezas": 10,
+      "ok": false,
+      "piezas": 0,
       "fuente": "Banco de Pagos Internacionales",
       "tipo": "oficial",
-      "error": "",
-      "ultima_publicacion": "2026-10-29T00:00:00+00:00",
+      "error": "El canal no devolvió documentos",
+      "ultima_publicacion": null,
       "recientes": 0
     },
     "boe": {
@@ -1339,7 +1495,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-10-29T14:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "boj": {
       "ok": true,
@@ -1356,17 +1512,17 @@
       "fuente": "Oficina del Censo de EE. UU.",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-28T15:23:22+00:00",
+      "ultima_publicacion": "2026-10-29T14:02:01+00:00",
       "recientes": 0
     },
     "bbc-world": {
       "ok": true,
-      "piezas": 35,
+      "piezas": 36,
       "fuente": "BBC News",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-10-30T10:32:06+00:00",
-      "recientes": 31
+      "ultima_publicacion": "2026-10-31T09:16:14+00:00",
+      "recientes": 27
     },
     "bbc-mundo": {
       "ok": true,
@@ -1374,17 +1530,17 @@
       "fuente": "BBC Mundo",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-10-30T04:02:36+00:00",
-      "recientes": 13
+      "ultima_publicacion": "2026-10-31T10:06:16+00:00",
+      "recientes": 16
     },
     "cnn": {
       "ok": true,
-      "piezas": 241,
+      "piezas": 222,
       "fuente": "CNN",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-10-30T11:02:17.583000+00:00",
-      "recientes": 98
+      "ultima_publicacion": "2026-10-31T10:36:40.273000+00:00",
+      "recientes": 85
     },
     "dw-es": {
       "ok": false,
@@ -1401,7 +1557,7 @@
       "fuente": "France 24",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-10-30T03:28:59+00:00",
+      "ultima_publicacion": "2026-10-31T06:36:27+00:00",
       "recientes": 24
     },
     "guardian": {
@@ -1410,8 +1566,8 @@
       "fuente": "The Guardian",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-10-30T10:49:34+00:00",
-      "recientes": 34
+      "ultima_publicacion": "2026-10-31T10:17:37+00:00",
+      "recientes": 25
     },
     "aljazeera": {
       "ok": true,
@@ -1419,7 +1575,7 @@
       "fuente": "Al Jazeera",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-10-30T10:40:52+00:00",
+      "ultima_publicacion": "2026-10-31T10:00:17+00:00",
       "recientes": 25
     },
     "elpais": {
@@ -1428,8 +1584,8 @@
       "fuente": "El País",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-10-30T10:50:38+00:00",
-      "recientes": 18
+      "ultima_publicacion": "2026-10-31T09:30:00+00:00",
+      "recientes": 16
     },
     "cnbc": {
       "ok": true,
@@ -1437,8 +1593,8 @@
       "fuente": "CNBC",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-10-30T10:58:33+00:00",
-      "recientes": 29
+      "ultima_publicacion": "2026-10-31T06:00:02+00:00",
+      "recientes": 28
     },
     "reuters": {
       "ok": false,
@@ -1473,7 +1629,7 @@
       "fuente": "MarketWatch",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-10-30T11:01:00+00:00",
+      "ultima_publicacion": "2026-10-31T04:30:00+00:00",
       "recientes": 10
     },
     "guardian-environment": {
@@ -1482,26 +1638,26 @@
       "fuente": "The Guardian · Medio ambiente",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-10-30T10:07:16+00:00",
+      "ultima_publicacion": "2026-10-31T10:01:29+00:00",
       "recientes": 6
     },
     "bbc-tech": {
       "ok": true,
-      "piezas": 20,
+      "piezas": 21,
       "fuente": "BBC · Tecnología",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-10-30T09:33:51+00:00",
-      "recientes": 3
+      "ultima_publicacion": "2026-10-31T02:12:19+00:00",
+      "recientes": 5
     },
     "bbc-business": {
       "ok": true,
-      "piezas": 45,
+      "piezas": 50,
       "fuente": "BBC · Economía",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-10-30T10:49:21+00:00",
-      "recientes": 22
+      "ultima_publicacion": "2026-10-30T21:34:32+00:00",
+      "recientes": 9
     }
   }
 }
