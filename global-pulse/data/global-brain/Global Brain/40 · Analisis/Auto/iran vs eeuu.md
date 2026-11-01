@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-10-31
-nodos: 35
+actualizado: 2026-11-01
+nodos: 34
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-31. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-01. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-35 nodos registrados en el periodo. Lo mas reciente: Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes.
+34 nodos registrados en el periodo. Lo mas reciente: Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes.
 
 ## Trend summary (EN)
-35 nodes recorded in the period. Most recent: Tankers defy escalation of Iranian attacks to keep oil flowing through Strait of Hormuz.
+34 nodes recorded in the period. Most recent: Tankers defy escalation of Iranian attacks to keep oil flowing through Strait of Hormuz.
 
 > [!note] Estado actual
 > Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes
 
-## Nodos recientes (35 en la ventana)
+## Nodos recientes (34 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-10-31 | 65 | K0 | Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada  |

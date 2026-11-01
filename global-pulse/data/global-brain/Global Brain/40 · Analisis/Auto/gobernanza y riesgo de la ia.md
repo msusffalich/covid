@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-10-31
+actualizado: 2026-11-01
 nodos: 16
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-10-31. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-01. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 16 nodos registrados en el periodo. Lo mas reciente: Acciones tecnológicas de EE.UU. caen fuertemente mientras el gasto en IA se acerca a 1 billón de dólares.
