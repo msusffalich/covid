@@ -1,0 +1,1517 @@
+{
+  "meta": {
+    "schema": "2.0",
+    "fecha": "2026-11-02",
+    "generado": "2026-11-02T12:56:11.077747+00:00",
+    "modo": "live",
+    "motor_sintesis": "api",
+    "metricas": {
+      "nodos": 24,
+      "verificados": 24,
+      "piezas_ingeridas": 167,
+      "canales_consultados": 46,
+      "canales_disponibles": 37,
+      "documentos_recientes": 229
+    },
+    "descargo": "",
+    "corte": "2026-11-02T12:54:42.714759+00:00",
+    "reporte_sha256": "b50e44b9c02dbeb2634414cda3e864a281879ae34975ce989577f45ee6fadd91",
+    "estado": "completo",
+    "politica_fuentes": "mixta-v1",
+    "reporte_archivo": "2026-11-02 — Pulso.md"
+  },
+  "nodos": [
+    {
+      "titulo": {
+        "es": "Segundo ciberataque sospechoso afecta congeladores de supermercados en Suecia y Bélgica",
+        "en": "Second suspected cyberattack hits supermarket freezers in Sweden and Belgium"
+      },
+      "sintesis": {
+        "es": "Cadenas de supermercados en Suecia, Bélgica y Luxemburgo reportaron subidas de temperatura en decenas de sistemas de refrigeración durante la noche, semanas después de un ataque similar en Francia, según Al Jazeera.",
+        "en": "Supermarket chains in Sweden, Belgium and Luxembourg reported overnight temperature rises in dozens of cooling systems, weeks after a similar attack in France, Al Jazeera reports."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Coop",
+        "ICA"
+      ],
+      "geo": {
+        "lat": 46.6,
+        "lon": 2.2,
+        "region": "Europa"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_a6237f4391"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a6237f4391",
+          "titulo": "Freezers in Sweden, Belgium overheat following possible cyberattacks",
+          "url": "https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 02 Nov 2026 12:08:59 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0000",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Hackers envían falsa alerta de ataque nuclear a la app de emergencias de Ucrania",
+        "en": "Hackers send fake nuclear attack alert to Ukraine's emergency app"
+      },
+      "sintesis": {
+        "es": "Según The Guardian, piratas informáticos no identificados enviaron a residentes de Kiev una alerta falsa de riesgo de ataque nuclear y químico a través de la aplicación nacional de emergencias, con mensajes en inglés y ucraniano.",
+        "en": "Unidentified hackers sent Kyiv residents a false alert of nuclear and chemical attack risk via Ukraine's national emergency app, with messages in English and Ukrainian, The Guardian reports."
+      },
+      "categoria": "tecnologia",
+      "actores": [],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_3dfa747644"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/4674c8b1a76ed584da89059e81bfa19f91bd2f8a/833_0_4167_3334/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=81d53b2c051cc53267ca6e89b643d145"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_3dfa747644",
+          "titulo": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+          "url": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app",
+          "fuente": "The Guardian",
+          "fecha": "Mon, 02 Nov 2026 11:11:28 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0001",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-02_0008",
+        "nd_2026-11-02_0009"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Binance sufre el mayor hackeo cripto de la historia con 6.300 millones de dólares",
+        "en": "Binance suffers largest-ever crypto hack worth $6.3 billion"
+      },
+      "sintesis": {
+        "es": "La BBC informó que usuarios retiraron 3.600 millones de dólares de Binance tras un hackeo vinculado por el FBI a un grupo norcoreano; el exchange congeló transacciones y cubrió el 90% de las pérdidas.",
+        "en": "BBC reported users withdrew $3.6 billion from Binance after a hack the FBI linked to a North Korean group; the exchange froze transactions and covered 90% of losses."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Binance",
+        "FBI"
+      ],
+      "geo": {
+        "lat": 40.3,
+        "lon": 127.5,
+        "region": "Asia Oriental"
+      },
+      "impacto": 68,
+      "fuentes": [
+        "ev_6e5e4be192"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_6e5e4be192",
+          "titulo": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Mon, 02 Nov 2026 07:42:33 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0002",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-02_0003",
+        "nd_2026-11-02_0012"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Corea del Sur destina presupuesto récord a IA soberana para 2027",
+        "en": "South Korea allocates record budget for sovereign AI in 2027"
+      },
+      "sintesis": {
+        "es": "Según CNBC, el presupuesto surcoreano de 2027 subirá 12,8% hasta 820,9 billones de wones, incluyendo 21,3 billones de wones para semiconductores, IA física y centros de datos de IA.",
+        "en": "CNBC reported South Korea's 2027 budget will rise 12.8% to 820.9 trillion won, including 21.3 trillion won for semiconductors, physical AI and AI data centers."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Gobierno de Corea del Sur"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 127.8,
+        "region": "Asia Oriental"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_35147b3b77"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_35147b3b77",
+          "titulo": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+          "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+          "fuente": "CNBC",
+          "fecha": "Mon, 02 Nov 2026 06:02:03 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0003",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-02_0002",
+        "nd_2026-11-02_0012"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "OpenAI firma acuerdos en Abu Dabi sobre energía, gobierno e inversión",
+        "en": "OpenAI signs Abu Dhabi deals spanning energy, government and investment"
+      },
+      "sintesis": {
+        "es": "CNBC reportó que OpenAI firmó cuatro acuerdos en Abu Dabi sobre energía, gobierno e inversión, mientras Sam Altman se reunió con el príncipe heredero del emirato.",
+        "en": "CNBC reported OpenAI signed four Abu Dhabi agreements spanning energy, government and investment as Sam Altman met the emirate's crown prince."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "OpenAI",
+        "Sam Altman"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 52,
+      "fuentes": [
+        "ev_5808a973f9"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5808a973f9",
+          "titulo": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
+          "url": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
+          "fuente": "CNBC",
+          "fecha": "Mon, 02 Nov 2026 11:02:08 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0004",
+      "fecha": "2026-11-02",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Más tráfico y ataques en el estrecho de Ormuz no bajan el precio del petróleo",
+        "en": "More traffic and attacks in Strait of Hormuz fail to lower oil prices"
+      },
+      "sintesis": {
+        "es": "El País reporta que pese a la mayor porosidad del estrecho de Ormuz, sujeto a un doble bloqueo, el precio del petróleo se mantiene elevado por los ataques y tensiones en la zona.",
+        "en": "El País reports that despite increased porosity in the Strait of Hormuz, subject to a double blockade, oil prices remain elevated due to attacks and tensions in the area."
+      },
+      "categoria": "recursos",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_e02fbc00a1"
+      ],
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/KZDUS55JGFKYLDIU47OWBZWB4E.jpg?auth=2ab1c682436f2df2764110768fc85eef417c8b34c4e6dfa962c775f11465d0bd"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_e02fbc00a1",
+          "titulo": "La triple paradoja de Ormuz: más barcos cruzando, más ataques y el petróleo por las nubes",
+          "url": "https://elpais.com/internacional/2026-11-02/la-triple-paradoja-de-ormuz-mas-barcos-cruzando-mas-ataques-y-el-petroleo-por-las-nubes.html",
+          "fuente": "El País",
+          "fecha": "Mon, 02 Nov 2026 04:30:01 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-02_0005",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Goldman Sachs proyecta petróleo promedio de 130 dólares por barril en 2027",
+        "en": "Goldman Sachs projects oil averaging $130 per barrel in 2027"
+      },
+      "sintesis": {
+        "es": "Según MarketWatch, analistas de Goldman Sachs estiman que el Brent podría alcanzar 140 dólares el barril el próximo año si empeoran las tensiones en Oriente Medio.",
+        "en": "According to MarketWatch, Goldman Sachs analysts estimate Brent crude could reach $140 a barrel next year if Middle East tensions worsen."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "Goldman Sachs"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 58,
+      "fuentes": [
+        "ev_4ab16353ed"
+      ],
+      "imagenes": [
+        "https://images.mktw.net/im-45566739"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_4ab16353ed",
+          "titulo": "How oil prices could average $130 per barrel next year, according to Goldman Sachs",
+          "url": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Mon, 02 Nov 2026 11:14:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0006",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Crudo estadounidense cae bajo los 100 dólares por esfuerzos diplomáticos EE.UU.-Irán",
+        "en": "US crude falls below $100 amid US-Iran diplomatic efforts"
+      },
+      "sintesis": {
+        "es": "CNBC reportó que el petróleo cayó el lunes tras noticias de que Estados Unidos e Irán buscan vías diplomáticas en medio de las tensiones en Oriente Medio.",
+        "en": "CNBC reported oil fell Monday amid news that the US and Iran are pursuing diplomacy amid ongoing Middle East tensions."
+      },
+      "categoria": "recursos",
+      "actores": [],
+      "geo": {
+        "lat": 32.4,
+        "lon": 53.7,
+        "region": "Oriente Medio"
+      },
+      "impacto": 56,
+      "fuentes": [
+        "ev_de95506b4c"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_de95506b4c",
+          "titulo": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
+          "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+          "fuente": "CNBC",
+          "fecha": "Mon, 02 Nov 2026 12:40:46 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0007",
+      "fecha": "2026-11-02",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Rusia y Ucrania se acusan de ciberataques tras el fin de una tregua localizada",
+        "en": "Russia and Ukraine trade accusations of cyberattacks after end of localized ceasefire"
+      },
+      "sintesis": {
+        "es": "France 24 informó que Kiev y Moscú denunciaron el hackeo de sus aplicaciones de alerta de emergencia, que enviaron falsas advertencias de ataques aéreos, químicos y nucleares, tras expirar la tregua en Oleshky, Jersón.",
+        "en": "France 24 reported Kyiv and Moscow denounced hacks of their emergency alert apps, which sent false warnings of air, chemical and nuclear attacks, after the Oleshky, Kherson ceasefire expired."
+      },
+      "categoria": "geopolitica",
+      "actores": [],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 64,
+      "fuentes": [
+        "ev_a5bd95eb1c"
+      ],
+      "imagenes": [
+        "https://s.france24.com/media/display/132849dc-d6ac-11f1-8ce5-d18c5759e759/w:1024/p:16x9/2026-11-02T084911Z-632737407-RC2KFOAUWRR0-RTRMADP-3-UKRAINE-CRISIS-ATTACK-ODESA.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a5bd95eb1c",
+          "titulo": "En directo: Rusia y Ucrania cruzan acusaciones sobre ataques cibernéticos tras fin del alto el fuego localizado",
+          "url": "https://www.france24.com/es/europa/20261102-en-directo-rusia-y-ucrania-cruzan-acusaciones-sobre-ataques-cibern%C3%A9ticos-tras-fin-del-alto-el-fuego-localizado",
+          "fuente": "France 24",
+          "fecha": "Mon, 02 Nov 2026 12:01:54 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-02_0008",
+      "fecha": "2026-11-02",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-02_0001",
+        "nd_2026-11-02_0009"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Turquía propone a Ucrania acoger nueva ronda de negociaciones con Rusia y EE.UU.",
+        "en": "Turkey proposes Ukraine host new round of talks with Russia and US"
+      },
+      "sintesis": {
+        "es": "El País informó que Zelenski declaró en Estambul estar dispuesto a reunirse con Putin, tras la propuesta turca de acoger una nueva ronda de negociaciones.",
+        "en": "El País reported Zelenskyy said in Istanbul he is willing to meet Putin, after Turkey proposed hosting a new round of negotiations."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Volodímir Zelenski",
+        "Vladímir Putin"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_871a0a81b6"
+      ],
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/654PJL4CRNLXPKXRKTFODHLFGI.jpg?auth=0137e7411270aba9115eee2e538f3285ac9f64b3b305c9f186f90c0f3cd16150"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_871a0a81b6",
+          "titulo": "Turquía propone a Ucrania acoger una nueva ronda de negociaciones con Rusia y Estados Unidos",
+          "url": "https://elpais.com/internacional/2026-11-01/turquia-propone-a-ucrania-acoger-una-nueva-ronda-de-negociaciones-con-rusia-y-estados-unidos.html",
+          "fuente": "El País",
+          "fecha": "Sun, 01 Nov 2026 14:59:43 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-02_0009",
+      "fecha": "2026-11-02",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-02_0001",
+        "nd_2026-11-02_0008"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "La ONU ordena desmantelar la misión Minurso en el Sáhara Occidental",
+        "en": "UN orders dismantling of Minurso mission in Western Sahara"
+      },
+      "sintesis": {
+        "es": "El País reportó que la misión de la ONU en el Sáhara se extingue tras el veto cruzado de EE.UU. y Rusia, después de 35 años sin cumplir su mandato de referéndum ni garantizar el alto el fuego desde 2020.",
+        "en": "El País reported the UN mission in Western Sahara ends after a crossed US-Russia veto, after 35 years without fulfilling its referendum mandate or guaranteeing the ceasefire since 2020."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "ONU",
+        "Minurso"
+      ],
+      "geo": {
+        "lat": 61.5,
+        "lon": 105.3,
+        "region": "Rusia"
+      },
+      "impacto": 57,
+      "fuentes": [
+        "ev_29a823b948"
+      ],
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/IFA6EQI25LYLN4EIV3YZBV6Z4U.jpg?auth=1d88525f673633f985c9055095f86f356f92642e4e64eb89f0cf9dbac32a8053"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_29a823b948",
+          "titulo": "La ONU ordena desmantelar la misión en el Sáhara mientras se dispara el riesgo de escalada bélica",
+          "url": "https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html",
+          "fuente": "El País",
+          "fecha": "Sun, 01 Nov 2026 19:07:52 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-02_0010",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-02_0012",
+        "nd_2026-11-02_0019",
+        "nd_2026-11-02_0022"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "El primer ministro de Bélgica dimite por colapso de negociación presupuestaria",
+        "en": "Belgian prime minister resigns after budget negotiation collapse"
+      },
+      "sintesis": {
+        "es": "El País informó que el rey belga abrió consultas con los partidos de la coalición tras la dimisión del primer ministro, instándolos a evitar una crisis en plena incertidumbre geopolítica.",
+        "en": "El País reported the Belgian king opened consultations with coalition parties after the prime minister's resignation, urging them to avoid a crisis amid geopolitical uncertainty."
+      },
+      "categoria": "geopolitica",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_5ac78f63d7"
+      ],
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/KXVJDQPTAZNHJPHRVBGI5ILRPI.jpg?auth=fc6f60eee7309f17fac240e957c2610f31344a4d33248960b937de754b0d84a6"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5ac78f63d7",
+          "titulo": "El primer ministro de Bélgica presenta su dimisión por el colapso de la negociación presupuestaria",
+          "url": "https://elpais.com/internacional/2026-11-02/crisis-en-el-gobierno-de-belgica-por-el-fracaso-de-la-negociacion-presupuestaria.html",
+          "fuente": "El País",
+          "fecha": "Mon, 02 Nov 2026 12:20:18 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-02_0011",
+      "fecha": "2026-11-02",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Guterres advierte sobre riesgo de carrera armamentística de IA entre EE.UU. y China",
+        "en": "Guterres warns of risk of US-China AI arms race"
+      },
+      "sintesis": {
+        "es": "El País reportó que el secretario general saliente de la ONU, António Guterres, alertó que una competición entre EE.UU. y China para crear armas con IA podría tener consecuencias devastadoras.",
+        "en": "El País reported outgoing UN Secretary-General António Guterres warned that a US-China race to create AI weapons could have devastating consequences."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "ONU",
+        "António Guterres"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 58,
+      "fuentes": [
+        "ev_d94222a007"
+      ],
+      "imagenes": [
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261030/1232199_194806_video_1800.mp4"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d94222a007",
+          "titulo": "António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”",
+          "url": "https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html",
+          "fuente": "El País",
+          "fecha": "Sun, 01 Nov 2026 18:19:28 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-02_0012",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-02_0002",
+        "nd_2026-11-02_0003",
+        "nd_2026-11-02_0010",
+        "nd_2026-11-02_0019",
+        "nd_2026-11-02_0022"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Apollo lanza plataforma de crédito privado de 11.000 millones de dólares respaldada por Abu Dabi",
+        "en": "Apollo launches $11 billion private credit platform backed by Abu Dhabi"
+      },
+      "sintesis": {
+        "es": "CNBC informó que Apollo lanzó una plataforma europea de crédito privado de 10.000 millones de euros respaldada por grandes inversores globales, incluido capital de Abu Dabi.",
+        "en": "CNBC reported Apollo launched a 10 billion euro European private credit platform backed by major global investors, including Abu Dhabi capital."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Apollo"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_e63be1fd70"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_e63be1fd70",
+          "titulo": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
+          "url": "https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html",
+          "fuente": "CNBC",
+          "fecha": "Mon, 02 Nov 2026 09:11:02 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0013",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "BCE: Europa debe reforzar apertura y resiliencia en un mundo fragmentado",
+        "en": "ECB: Europe must strengthen openness and resilience in fragmenting world"
+      },
+      "sintesis": {
+        "es": "En un discurso oficial del BCE, Boris Vujčić destacó la necesidad de que Europa sea integrada, abierta y resiliente ante la fragmentación geopolítica global.",
+        "en": "In an official ECB speech, Boris Vujčić highlighted the need for Europe to be integrated, open and resilient amid global geopolitical fragmentation."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Banco Central Europeo",
+        "Boris Vujčić"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_5ddbef4650"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5ddbef4650",
+          "titulo": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+          "fuente": "BCE",
+          "fecha": "Mon, 02 Nov 2026 10:30:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0014",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Economistas prevén una desaceleración más pronunciada en Australia ante quinta subida de tasas",
+        "en": "Economists predict sharper Australian slowdown ahead of fifth rate hike"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó que economistas prevén una desaceleración más larga para Australia mientras el banco central se prepara para una quinta subida de tasas, en medio de la guerra en Oriente Medio y caída de precios de vivienda.",
+        "en": "The Guardian reported economists predict a longer Australian slowdown as the central bank prepares a fifth rate hike, amid Middle East war and falling house prices."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Reserve Bank of Australia"
+      ],
+      "geo": {
+        "lat": -25.3,
+        "lon": 133.8,
+        "region": "Oceania"
+      },
+      "impacto": 48,
+      "fuentes": [
+        "ev_8a5a8ed80e"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/7ebf7b78f27fb886cb74a082d7f78b3e80603115/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=52d25424f6954f9e6c6eda6214f58f4b"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8a5a8ed80e",
+          "titulo": "‘Sharper, longer slowdown’ predicted for economy as fifth interest rate hike looms",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms",
+          "fuente": "The Guardian",
+          "fecha": "Mon, 02 Nov 2026 06:57:29 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0015",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Ryanair baraja congelar salarios y subir tarifas por aumento de costos de combustible",
+        "en": "Ryanair considers pay freezes and fare hikes amid rising fuel costs"
+      },
+      "sintesis": {
+        "es": "The Guardian informó que Ryanair considera congelar salarios, reducir tripulación y usar más IA para compensar un aumento de 2.000 millones de euros en combustible por el conflicto en Oriente Medio, con tarifas que podrían subir hasta 20%.",
+        "en": "The Guardian reported Ryanair is considering pay freezes, crew reductions and more AI use to offset a €2 billion fuel cost rise from the Middle East conflict, with fares potentially rising up to 20%."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Ryanair"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 52,
+      "fuentes": [
+        "ev_21bdc5c0e1"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/b52864d4c0b9d2ab7fa534706c339430bddbd71f/504_201_1818_1455/master/1818.jpg?width=140&quality=85&auto=format&fit=max&s=3bb421aaa24288104fcb4e1d29588462"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_21bdc5c0e1",
+          "titulo": "Ryanair considers pay freezes and reducing crew on flights as fuel costs soar",
+          "url": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
+          "fuente": "The Guardian",
+          "fecha": "Mon, 02 Nov 2026 09:06:51 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0016",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "India evacúa a miles ante segundo ciclón en una semana",
+        "en": "India evacuates thousands ahead of second cyclone in a week"
+      },
+      "sintesis": {
+        "es": "Al Jazeera reportó que el ciclón Murasu se esperaba cerca de Ongole con vientos de 100-110 km/h, según el Departamento Meteorológico de India, forzando evacuaciones masivas.",
+        "en": "Al Jazeera reported Cyclone Murasu was expected near Ongole with winds of 100-110km/h, according to India's Meteorological Department, forcing mass evacuations."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Departamento Meteorológico de India"
+      ],
+      "geo": {
+        "lat": 20.6,
+        "lon": 79.0,
+        "region": "Asia Meridional"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_1a3c0bd911"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_1a3c0bd911",
+          "titulo": "Thousands evacuated as India braces for second cyclone in a week",
+          "url": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 02 Nov 2026 08:29:29 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0017",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Europa podría enfrentar clima más frío por debilitamiento del vórtice polar",
+        "en": "Europe could face colder weather as polar vortex weakens"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó que modelos de pronóstico sugieren un debilitamiento inusualmente temprano del vórtice polar estratosférico en los próximos 10 días, lo que podría generar un evento de calentamiento súbito y clima más frío en Europa.",
+        "en": "The Guardian reported forecast models suggest an unusually early weakening of the stratospheric polar vortex over the next 10 days, which could trigger a sudden warming event and colder weather in Europe."
+      },
+      "categoria": "clima",
+      "actores": [],
+      "geo": {
+        "lat": 78.0,
+        "lon": 15.0,
+        "region": "Artico"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_a9a49f2d8b"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/3babc59777344e32ec11e839de150fb9f2a12845/256_0_2560_2048/master/2560.jpg?width=140&quality=85&auto=format&fit=max&s=aa24715b5f382ba36e53067719c13bc6"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a9a49f2d8b",
+          "titulo": "Europe could face colder weather as polar vortex weakens",
+          "url": "https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe",
+          "fuente": "The Guardian",
+          "fecha": "Mon, 02 Nov 2026 11:00:54 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0018",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Informe de la ONU advierte daño permanente a la criosfera si se supera 1,5°C",
+        "en": "UN report warns of permanent cryosphere damage if 1.5C is overshot"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó que un informe respaldado por la ONU halló que el calentamiento global debería volver a bajar de 1°C tras un previsible sobrepaso del objetivo de 1,5°C del Acuerdo de París, ante riesgo de pérdidas permanentes de hielo.",
+        "en": "The Guardian reported a UN-backed report found global warming should return below 1C after an inevitable overshoot of the Paris Agreement's 1.5C target, due to risk of permanent ice loss."
+      },
+      "categoria": "clima",
+      "actores": [
+        "ONU"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_43efe1aee5"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/bdfe2e53d77196debfc20774540788bb736b8e62/431_0_4263_3411/master/4263.jpg?width=140&quality=85&auto=format&fit=max&s=9dc7867b72c76d9c299a06ea42459ef6"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_43efe1aee5",
+          "titulo": "Cryosphere faces permanent damage when world overshoots 1.5C, scientists warn",
+          "url": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Mon, 02 Nov 2026 00:01:25 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0019",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-02_0010",
+        "nd_2026-11-02_0012",
+        "nd_2026-11-02_0022"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "El Súper Niño causa desastre en Galápagos y obliga a cerrar atracciones turísticas",
+        "en": "Super El Niño causes disaster in Galapagos, forces tourist site closures"
+      },
+      "sintesis": {
+        "es": "BBC Mundo informó que el gobierno ecuatoriano restringió el acceso a nueve playas y atractivos turísticos en Santa Cruz, San Cristóbal e Isabela y envió ayuda de emergencia por el fenómeno de El Niño.",
+        "en": "BBC Mundo reported the Ecuadorian government restricted access to nine beaches and tourist attractions in Santa Cruz, San Cristobal and Isabela, and sent emergency aid due to the El Niño phenomenon."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Gobierno de Ecuador"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 54,
+      "fuentes": [
+        "ev_dd7584a38c"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a294/live/769a3ef0-d6b9-11f1-aacc-5b5f23abff4b.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_dd7584a38c",
+          "titulo": "Imágenes del desastre causado por el Súper Niño en Galápagos que obligó a cerrar atracciones turísticas y enviar ayuda de emergencia",
+          "url": "https://www.bbc.com/mundo/articles/cr3wv0pgg31vo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Mon, 02 Nov 2026 12:35:05 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-02_0020",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Desplazados sudaneses enfrentan crisis alimentaria con advertencias de hambruna",
+        "en": "Displaced Sudanese face worsening food crisis amid famine warnings"
+      },
+      "sintesis": {
+        "es": "Al Jazeera reportó que la situación de ayuda humanitaria empeora en Sudán, con personas desplazadas enfrentando una creciente crisis alimentaria y advertencias de hambruna.",
+        "en": "Al Jazeera reported humanitarian aid conditions are worsening in Sudan, with displaced people facing a mounting food crisis and famine warnings."
+      },
+      "categoria": "demografia",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_077758cd5a"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_077758cd5a",
+          "titulo": "As aid situation worsens, displaced Sudanese worry about warnings of famine",
+          "url": "https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 02 Nov 2026 10:16:58 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0021",
+      "fecha": "2026-11-02",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Sudán presenta quejas ante la ONU contra Etiopía por ataques mortales con drones",
+        "en": "Sudan files complaints against Ethiopia with UN over deadly drone attacks"
+      },
+      "sintesis": {
+        "es": "Al Jazeera informó que Jartum denunció ante la ONU que ataques con drones de un solo uso han matado o herido a 484 civiles desde febrero.",
+        "en": "Al Jazeera reported Khartoum denounced to the UN that one-way drone attacks have killed or wounded 484 civilians since February."
+      },
+      "categoria": "demografia",
+      "actores": [
+        "ONU"
+      ],
+      "geo": {
+        "lat": 9.1,
+        "lon": 40.5,
+        "region": "Africa Oriental"
+      },
+      "impacto": 58,
+      "fuentes": [
+        "ev_7e0cdc75a8"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_7e0cdc75a8",
+          "titulo": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
+          "url": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 02 Nov 2026 10:25:22 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-02_0022",
+      "fecha": "2026-11-02",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-02_0010",
+        "nd_2026-11-02_0012",
+        "nd_2026-11-02_0019"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Crisis de vivienda revive protestas en Portugal con represión policial de acampadas",
+        "en": "Housing crisis revives Portuguese protests amid police repression of camps"
+      },
+      "sintesis": {
+        "es": "El País reportó represión policial de acampadas pacíficas con decenas de heridos este fin de semana en Portugal, el país de la UE con mayor subida de precios de vivienda.",
+        "en": "El País reported police repression of peaceful camps with dozens injured this weekend in Portugal, the EU country with the highest rise in housing prices."
+      },
+      "categoria": "demografia",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 52,
+      "fuentes": [
+        "ev_b249d7cbf8"
+      ],
+      "imagenes": [
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261102/1232699_080444_video_1800.mp4"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_b249d7cbf8",
+          "titulo": "La crisis de la vivienda revive en las calles portuguesas el espíritu de la Revolución de Abril",
+          "url": "https://elpais.com/internacional/2026-11-01/la-crisis-de-la-vivienda-revive-en-las-calles-portuguesas-el-espiritu-de-la-revolucion-de-abril.html",
+          "fuente": "El País",
+          "fecha": "Mon, 02 Nov 2026 07:24:07 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-02_0023",
+      "fecha": "2026-11-02",
+      "kardashev": "K0",
+      "relaciones": []
+    }
+  ],
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-02\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Abu Dabi\", \"Bélgica\", \"Estambul\", \"Estrecho de Ormuz\", \"Europa\", \"Francia\", \"Galápagos\", \"Isabela\", \"Jartum\", \"Jersón\", \"Kiev\", \"Luxemburgo\", \"Moscú\", \"Oleshky\", \"Ongole\", \"Portugal\", \"San Cristóbal\", \"Santa Cruz\", \"Suecia\", \"Sáhara Occidental\"]\npaises: [\"Australia\", \"Bélgica\", \"China\", \"Corea del Norte\", \"Corea del Sur\", \"Ecuador\", \"Emiratos Árabes Unidos\", \"Estados Unidos\", \"Etiopía\", \"Francia\", \"India\", \"Irlanda\", \"Irán\", \"Luxemburgo\", \"Portugal\", \"Rusia\", \"Sudán\", \"Suecia\", \"Turquía\", \"Ucrania\"]\nentidades: [\"António Guterres\", \"Apollo\", \"Banco Central Europeo\", \"Binance\", \"Boris Vujčić\", \"Coop\", \"Departamento Meteorológico de India\", \"FBI\", \"Gobierno de Corea del Sur\", \"Gobierno de Ecuador\", \"Goldman Sachs\", \"ICA\", \"Minurso\", \"ONU\", \"OpenAI\", \"Reserve Bank of Australia\", \"Ryanair\", \"Sam Altman\", \"Vladímir Putin\", \"Volodímir Zelenski\"]\ntemas: [\"Acuerdo de París\", \"Consejo de Seguridad\", \"El Niño\", \"Oriente Medio\", \"Sáhara Occidental\", \"aerolíneas\", \"alerta falsa\", \"alto el fuego\", \"armamento\", \"cadena de frío\", \"calentamiento global\", \"ciberataque\", \"ciberseguridad\", \"ciclón\", \"conflicto armado\", \"costos de combustible\", \"criosfera\", \"criptomonedas\", \"crisis de vivienda\", \"crisis humanitaria\", \"crisis política\", \"crédito privado\", \"desaceleración económica\", \"desastre natural\", \"desplazamiento\", \"diplomacia\", \"drones\", \"energía\", \"estimación de precios\", \"estrecho de Ormuz\", \"evacuación\", \"fragmentación geopolítica\", \"geopolítica\", \"guerra en Ucrania\", \"hackeo\", \"hambruna\", \"infraestructura crítica\", \"inteligencia artificial\", \"inversión\", \"misión de paz\", \"negociaciones de paz\", \"petróleo\", \"política monetaria\", \"presupuesto\", \"pronóstico climático\", \"protestas\", \"semiconductores\", \"tasas de interés\", \"tensión geopolítica\", \"turismo\", \"víctimas civiles\", \"vórtice polar\"]\nbucles_activos: []\ncorte: \"2026-11-02T12:54:42.714759+00:00\"\ninicio_ventana: \"2026-11-01T12:54:42.714759+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-02\n\n## Resumen del día\n\nEl día combina un repunte de incidentes cibernéticos (refrigeración en Suecia/Bélgica/Luxemburgo, alerta nuclear falsa en Kiev y hackeo histórico a Binance) con tensión geopolítica persistente en Ucrania y el Sáhara Occidental.\nEn recursos, el petróleo mostró señales mixtas: Ormuz mantiene precios altos pese a mayor tráfico, mientras el crudo cayó por esfuerzos diplomáticos EE.UU.-Irán, y Goldman Sachs proyecta precios elevados para 2027.\nEn tecnología destacan inversiones estatales y corporativas en IA (Corea del Sur, OpenAI en Abu Dabi) junto con el mayor robo cripto registrado, atribuido por el FBI a un grupo norcoreano.\nEn finanzas, el BCE advirtió sobre fragmentación geopolítica mientras Ryanair y la economía australiana muestran presión de costos energéticos ligada a Oriente Medio.\nEn demografía, Sudán enfrenta crisis alimentaria y denuncias de ataques con drones, mientras Portugal registra protestas por vivienda.\n\nVentana de 24 horas hasta 2026-11-02T12:54:42.714759+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, imf, iom, unhcr, usda, bis, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_1a3c0bd911\"></a>\n1. India evacúa a miles ante segundo ciclón en una semana — Al Jazeera reportó que el ciclón Murasu se esperaba cerca de Ongole con vientos de 100-110 km/h, según el Departamento Meteorológico de India, forzando evacuaciones masivas. — [Al Jazeera, Mon, 02 Nov 2026 08:29:29 +0000](https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week?traffic_source=rss) · medio.\n\n<a id=\"ev_a9a49f2d8b\"></a>\n2. Europa podría enfrentar clima más frío por debilitamiento del vórtice polar — The Guardian reportó que modelos de pronóstico sugieren un debilitamiento inusualmente temprano del vórtice polar estratosférico en los próximos 10 días, lo que podría generar un evento de calentamiento súbito y clima más frío en Europa. — [The Guardian, Mon, 02 Nov 2026 11:00:54 GMT](https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe) · medio.\n\n<a id=\"ev_43efe1aee5\"></a>\n3. Informe de la ONU advierte daño permanente a la criosfera si se supera 1,5°C — The Guardian reportó que un informe respaldado por la ONU halló que el calentamiento global debería volver a bajar de 1°C tras un previsible sobrepaso del objetivo de 1,5°C del Acuerdo de París, ante riesgo de pérdidas permanentes de hielo. — [The Guardian · Medio ambiente, Mon, 02 Nov 2026 00:01:25 GMT](https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn) · medio.\n\n<a id=\"ev_dd7584a38c\"></a>\n4. El Súper Niño causa desastre en Galápagos y obliga a cerrar atracciones turísticas — BBC Mundo informó que el gobierno ecuatoriano restringió el acceso a nueve playas y atractivos turísticos en Santa Cruz, San Cristóbal e Isabela y envió ayuda de emergencia por el fenómeno de El Niño. — [BBC Mundo, Mon, 02 Nov 2026 12:35:05 GMT](https://www.bbc.com/mundo/articles/cr3wv0pgg31vo?at_medium=RSS&at_campaign=rss) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_a6237f4391\"></a>\n1. Segundo ciberataque sospechoso afecta congeladores de supermercados en Suecia y Bélgica — Cadenas de supermercados en Suecia, Bélgica y Luxemburgo reportaron subidas de temperatura en decenas de sistemas de refrigeración durante la noche, semanas después de un ataque similar en Francia, según Al Jazeera. — [Al Jazeera, Mon, 02 Nov 2026 12:08:59 +0000](https://www.aljazeera.com/news/2026/11/2/freezers-in-sweden-belgium-overheat-following-possible-cyberattacks?traffic_source=rss) · medio.\n\n<a id=\"ev_3dfa747644\"></a>\n2. Hackers envían falsa alerta de ataque nuclear a la app de emergencias de Ucrania — Según The Guardian, piratas informáticos no identificados enviaron a residentes de Kiev una alerta falsa de riesgo de ataque nuclear y químico a través de la aplicación nacional de emergencias, con mensajes en inglés y ucraniano. — [The Guardian, Mon, 02 Nov 2026 11:11:28 GMT](https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app) · medio.\n\n<a id=\"ev_6e5e4be192\"></a>\n3. Binance sufre el mayor hackeo cripto de la historia con 6.300 millones de dólares — La BBC informó que usuarios retiraron 3.600 millones de dólares de Binance tras un hackeo vinculado por el FBI a un grupo norcoreano; el exchange congeló transacciones y cubrió el 90% de las pérdidas. — [BBC News, Mon, 02 Nov 2026 07:42:33 GMT](https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_35147b3b77\"></a>\n4. Corea del Sur destina presupuesto récord a IA soberana para 2027 — Según CNBC, el presupuesto surcoreano de 2027 subirá 12,8% hasta 820,9 billones de wones, incluyendo 21,3 billones de wones para semiconductores, IA física y centros de datos de IA. — [CNBC, Mon, 02 Nov 2026 06:02:03 GMT](https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html) · medio.\n\n<a id=\"ev_5808a973f9\"></a>\n5. OpenAI firma acuerdos en Abu Dabi sobre energía, gobierno e inversión — CNBC reportó que OpenAI firmó cuatro acuerdos en Abu Dabi sobre energía, gobierno e inversión, mientras Sam Altman se reunió con el príncipe heredero del emirato. — [CNBC, Mon, 02 Nov 2026 11:02:08 GMT](https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html) · medio.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_e02fbc00a1\"></a>\n1. Más tráfico y ataques en el estrecho de Ormuz no bajan el precio del petróleo — El País reporta que pese a la mayor porosidad del estrecho de Ormuz, sujeto a un doble bloqueo, el precio del petróleo se mantiene elevado por los ataques y tensiones en la zona. — [El País, Mon, 02 Nov 2026 04:30:01 GMT](https://elpais.com/internacional/2026-11-02/la-triple-paradoja-de-ormuz-mas-barcos-cruzando-mas-ataques-y-el-petroleo-por-las-nubes.html) · medio.\n\n<a id=\"ev_4ab16353ed\"></a>\n2. Goldman Sachs proyecta petróleo promedio de 130 dólares por barril en 2027 — Según MarketWatch, analistas de Goldman Sachs estiman que el Brent podría alcanzar 140 dólares el barril el próximo año si empeoran las tensiones en Oriente Medio. — [MarketWatch, Mon, 02 Nov 2026 11:14:00 GMT](https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories) · medio.\n\n<a id=\"ev_de95506b4c\"></a>\n3. Crudo estadounidense cae bajo los 100 dólares por esfuerzos diplomáticos EE.UU.-Irán — CNBC reportó que el petróleo cayó el lunes tras noticias de que Estados Unidos e Irán buscan vías diplomáticas en medio de las tensiones en Oriente Medio. — [CNBC, Mon, 02 Nov 2026 12:40:46 GMT](https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html) · medio.\n\n## 4. Cadenas de Suministro\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 5. Geopolítica\n\n<a id=\"ev_a5bd95eb1c\"></a>\n1. Rusia y Ucrania se acusan de ciberataques tras el fin de una tregua localizada — France 24 informó que Kiev y Moscú denunciaron el hackeo de sus aplicaciones de alerta de emergencia, que enviaron falsas advertencias de ataques aéreos, químicos y nucleares, tras expirar la tregua en Oleshky, Jersón. — [France 24, Mon, 02 Nov 2026 12:01:54 GMT](https://www.france24.com/es/europa/20261102-en-directo-rusia-y-ucrania-cruzan-acusaciones-sobre-ataques-cibern%C3%A9ticos-tras-fin-del-alto-el-fuego-localizado) · medio.\n\n<a id=\"ev_871a0a81b6\"></a>\n2. Turquía propone a Ucrania acoger nueva ronda de negociaciones con Rusia y EE.UU. — El País informó que Zelenski declaró en Estambul estar dispuesto a reunirse con Putin, tras la propuesta turca de acoger una nueva ronda de negociaciones. — [El País, Sun, 01 Nov 2026 14:59:43 GMT](https://elpais.com/internacional/2026-11-01/turquia-propone-a-ucrania-acoger-una-nueva-ronda-de-negociaciones-con-rusia-y-estados-unidos.html) · medio.\n\n<a id=\"ev_29a823b948\"></a>\n3. La ONU ordena desmantelar la misión Minurso en el Sáhara Occidental — El País reportó que la misión de la ONU en el Sáhara se extingue tras el veto cruzado de EE.UU. y Rusia, después de 35 años sin cumplir su mandato de referéndum ni garantizar el alto el fuego desde 2020. — [El País, Sun, 01 Nov 2026 19:07:52 GMT](https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html) · medio.\n\n<a id=\"ev_5ac78f63d7\"></a>\n4. El primer ministro de Bélgica dimite por colapso de negociación presupuestaria — El País informó que el rey belga abrió consultas con los partidos de la coalición tras la dimisión del primer ministro, instándolos a evitar una crisis en plena incertidumbre geopolítica. — [El País, Mon, 02 Nov 2026 12:20:18 GMT](https://elpais.com/internacional/2026-11-02/crisis-en-el-gobierno-de-belgica-por-el-fracaso-de-la-negociacion-presupuestaria.html) · medio.\n\n<a id=\"ev_d94222a007\"></a>\n5. Guterres advierte sobre riesgo de carrera armamentística de IA entre EE.UU. y China — El País reportó que el secretario general saliente de la ONU, António Guterres, alertó que una competición entre EE.UU. y China para crear armas con IA podría tener consecuencias devastadoras. — [El País, Sun, 01 Nov 2026 18:19:28 GMT](https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_e63be1fd70\"></a>\n1. Apollo lanza plataforma de crédito privado de 11.000 millones de dólares respaldada por Abu Dabi — CNBC informó que Apollo lanzó una plataforma europea de crédito privado de 10.000 millones de euros respaldada por grandes inversores globales, incluido capital de Abu Dabi. — [CNBC, Mon, 02 Nov 2026 09:11:02 GMT](https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html) · medio.\n\n<a id=\"ev_5ddbef4650\"></a>\n2. BCE: Europa debe reforzar apertura y resiliencia en un mundo fragmentado — En un discurso oficial del BCE, Boris Vujčić destacó la necesidad de que Europa sea integrada, abierta y resiliente ante la fragmentación geopolítica global. — [BCE, Mon, 02 Nov 2026 10:30:00 +0100](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html) · oficial.\n\n<a id=\"ev_8a5a8ed80e\"></a>\n3. Economistas prevén una desaceleración más pronunciada en Australia ante quinta subida de tasas — The Guardian reportó que economistas prevén una desaceleración más larga para Australia mientras el banco central se prepara para una quinta subida de tasas, en medio de la guerra en Oriente Medio y caída de precios de vivienda. — [The Guardian, Mon, 02 Nov 2026 06:57:29 GMT](https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms) · medio.\n\n<a id=\"ev_21bdc5c0e1\"></a>\n4. Ryanair baraja congelar salarios y subir tarifas por aumento de costos de combustible — The Guardian informó que Ryanair considera congelar salarios, reducir tripulación y usar más IA para compensar un aumento de 2.000 millones de euros en combustible por el conflicto en Oriente Medio, con tarifas que podrían subir hasta 20%. — [The Guardian, Mon, 02 Nov 2026 09:06:51 GMT](https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai) · medio.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_077758cd5a\"></a>\n1. Desplazados sudaneses enfrentan crisis alimentaria con advertencias de hambruna — Al Jazeera reportó que la situación de ayuda humanitaria empeora en Sudán, con personas desplazadas enfrentando una creciente crisis alimentaria y advertencias de hambruna. — [Al Jazeera, Mon, 02 Nov 2026 10:16:58 +0000](https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss) · medio.\n\n<a id=\"ev_7e0cdc75a8\"></a>\n2. Sudán presenta quejas ante la ONU contra Etiopía por ataques mortales con drones — Al Jazeera informó que Jartum denunció ante la ONU que ataques con drones de un solo uso han matado o herido a 484 civiles desde febrero. — [Al Jazeera, Mon, 02 Nov 2026 10:25:22 +0000](https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree?traffic_source=rss) · medio.\n\n<a id=\"ev_b249d7cbf8\"></a>\n3. Crisis de vivienda revive protestas en Portugal con represión policial de acampadas — El País reportó represión policial de acampadas pacíficas con decenas de heridos este fin de semana en Portugal, el país de la UE con mayor subida de precios de vivienda. — [El País, Mon, 02 Nov 2026 07:24:07 GMT](https://elpais.com/internacional/2026-11-01/la-crisis-de-la-vivienda-revive-en-las-calles-portuguesas-el-espiritu-de-la-revolucion-de-abril.html) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Sin movimiento verificado hoy\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Con movimiento — Los hechos del día documentan un vínculo directo entre tecnología y geopolítica: ciberataques contra infraestructura crítica (congeladores de supermercados en Suecia, Bélgica y Luxemburgo) y contra sistemas de alerta de emergencia en Kiev coincidieron con el fin de una tregua localizada en Oleshky, Jersón, tras la cual Rusia y Ucrania se acusaron mutuamente de hackear sus aplicaciones de alerta, enviando falsas advertencias de ataques aéreos, químicos y nucleares. Esto conecta explícitamente incidentes cibernéticos (dimensión tecnología) con la dinámica del conflicto geopolítico Rusia-Ucrania. [ev_3dfa747644](#ev_3dfa747644) [ev_a5bd95eb1c](#ev_a5bd95eb1c)\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Posibilidad de que el patrón de ciberataques a infraestructura de refrigeración y alertas de emergencia se extienda a otros países, tras registrarse ya en Francia, Suecia, Bélgica, Luxemburgo y Ucrania. [ev_a6237f4391](#ev_a6237f4391) [ev_3dfa747644](#ev_3dfa747644)\n- Posibilidad de nueva ronda de negociaciones de paz Rusia-Ucrania-EE.UU. si prospera la propuesta turca de acoger las conversaciones en Estambul. [ev_871a0a81b6](#ev_871a0a81b6)\n- Posibilidad de escalada de precios del petróleo hacia 140 dólares el barril en 2027 si se agravan las tensiones en Oriente Medio, según estimación de Goldman Sachs. [ev_4ab16353ed](#ev_4ab16353ed)\n- Posibilidad de inestabilidad política adicional en Bélgica si el rey no logra destrabar la negociación presupuestaria tras la dimisión del primer ministro. [ev_5ac78f63d7](#ev_5ac78f63d7)\n- Posibilidad de que el vacío dejado por el desmantelamiento de la misión Minurso eleve el riesgo de escalada bélica en el Sáhara Occidental. [ev_29a823b948](#ev_29a823b948)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-10-16T15:02:33+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-10-30T09:30:00+00:00 |\n| NASA | oficial | Disponible | 2 | 2026-11-02T05:05:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 0 | 2026-10-30T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-10-30T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-10-30T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-01T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 0 | 2026-10-29T20:30:00+00:00 |\n| BCE | oficial | Disponible | 1 | 2026-11-02T09:30:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 1 | 2026-11-02T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 0 | 2026-10-30T20:15:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-10-29T17:00:55+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-10-27T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | Disponible | 1 | 2026-11-02T08:55:00+00:00 |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-10-09T15:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-03T23:38:15+00:00 |\n| NASA · Comunicados | oficial | Disponible | 2 | 2026-11-02T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-10-29T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | No disponible | 0 | Sin fecha verificable |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-10-29T14:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-02T05:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-10-29T14:02:01+00:00 |\n| BBC News | medio | Disponible | 19 | 2026-11-02T12:51:32+00:00 |\n| BBC Mundo | medio | Disponible | 5 | 2026-11-02T12:35:05+00:00 |\n| CNN | medio | Disponible | 56 | 2026-11-02T12:38:01.947000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-02T12:01:54+00:00 |\n| The Guardian | medio | Disponible | 25 | 2026-11-02T12:31:58+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-02T12:18:07+00:00 |\n| El País | medio | Disponible | 18 | 2026-11-02T12:32:09+00:00 |\n| CNBC | medio | Disponible | 21 | 2026-11-02T12:40:46+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-10-07T17:06:26+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-02T12:26:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 7 | 2026-11-02T12:00:41+00:00 |\n| BBC · Tecnología | medio | Disponible | 1 | 2026-11-02T07:42:33+00:00 |\n| BBC · Economía | medio | Disponible | 10 | 2026-11-02T12:51:32+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-02\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Abu Dabi\", \"Bélgica\", \"Estambul\", \"Estrecho de Ormuz\", \"Europa\", \"Francia\", \"Galápagos\", \"Isabela\", \"Jartum\", \"Jersón\", \"Kiev\", \"Luxemburgo\", \"Moscú\", \"Oleshky\", \"Ongole\", \"Portugal\", \"San Cristóbal\", \"Santa Cruz\", \"Suecia\", \"Sáhara Occidental\"]\npaises: [\"Australia\", \"Bélgica\", \"China\", \"Corea del Norte\", \"Corea del Sur\", \"Ecuador\", \"Emiratos Árabes Unidos\", \"Estados Unidos\", \"Etiopía\", \"Francia\", \"India\", \"Irlanda\", \"Irán\", \"Luxemburgo\", \"Portugal\", \"Rusia\", \"Sudán\", \"Suecia\", \"Turquía\", \"Ucrania\"]\nentidades: [\"António Guterres\", \"Apollo\", \"Banco Central Europeo\", \"Binance\", \"Boris Vujčić\", \"Coop\", \"Departamento Meteorológico de India\", \"FBI\", \"Gobierno de Corea del Sur\", \"Gobierno de Ecuador\", \"Goldman Sachs\", \"ICA\", \"Minurso\", \"ONU\", \"OpenAI\", \"Reserve Bank of Australia\", \"Ryanair\", \"Sam Altman\", \"Vladímir Putin\", \"Volodímir Zelenski\"]\ntemas: [\"Acuerdo de París\", \"Consejo de Seguridad\", \"El Niño\", \"Oriente Medio\", \"Sáhara Occidental\", \"aerolíneas\", \"alerta falsa\", \"alto el fuego\", \"armamento\", \"cadena de frío\", \"calentamiento global\", \"ciberataque\", \"ciberseguridad\", \"ciclón\", \"conflicto armado\", \"costos de combustible\", \"criosfera\", \"criptomonedas\", \"crisis de vivienda\", \"crisis humanitaria\", \"crisis política\", \"crédito privado\", \"desaceleración económica\", \"desastre natural\", \"desplazamiento\", \"diplomacia\", \"drones\", \"energía\", \"estimación de precios\", \"estrecho de Ormuz\", \"evacuación\", \"fragmentación geopolítica\", \"geopolítica\", \"guerra en Ucrania\", \"hackeo\", \"hambruna\", \"infraestructura crítica\", \"inteligencia artificial\", \"inversión\", \"misión de paz\", \"negociaciones de paz\", \"petróleo\", \"política monetaria\", \"presupuesto\", \"pronóstico climático\", \"protestas\", \"semiconductores\", \"tasas de interés\", \"tensión geopolítica\", \"turismo\", \"víctimas civiles\", \"vórtice polar\"]\nbucles_activos: []\ncorte: \"2026-11-02T12:54:42.714759+00:00\"\ninicio_ventana: \"2026-11-01T12:54:42.714759+00:00\"\nestado: \"completo\"\n```\n",
+  "nexo": {
+    "resumen": [
+      "El día combina un repunte de incidentes cibernéticos (refrigeración en Suecia/Bélgica/Luxemburgo, alerta nuclear falsa en Kiev y hackeo histórico a Binance) con tensión geopolítica persistente en Ucrania y el Sáhara Occidental.",
+      "En recursos, el petróleo mostró señales mixtas: Ormuz mantiene precios altos pese a mayor tráfico, mientras el crudo cayó por esfuerzos diplomáticos EE.UU.-Irán, y Goldman Sachs proyecta precios elevados para 2027.",
+      "En tecnología destacan inversiones estatales y corporativas en IA (Corea del Sur, OpenAI en Abu Dabi) junto con el mayor robo cripto registrado, atribuido por el FBI a un grupo norcoreano.",
+      "En finanzas, el BCE advirtió sobre fragmentación geopolítica mientras Ryanair y la economía australiana muestran presión de costos energéticos ligada a Oriente Medio.",
+      "En demografía, Sudán enfrenta crisis alimentaria y denuncias de ataques con drones, mientras Portugal registra protestas por vivienda."
+    ],
+    "flujos": {
+      "Presión Climática": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      },
+      "Palanca Geopolítica": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      },
+      "Flujos de Recursos": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      },
+      "Flujos Cibernéticos y de Datos": {
+        "estado": "Con movimiento",
+        "texto": "Los hechos del día documentan un vínculo directo entre tecnología y geopolítica: ciberataques contra infraestructura crítica (congeladores de supermercados en Suecia, Bélgica y Luxemburgo) y contra sistemas de alerta de emergencia en Kiev coincidieron con el fin de una tregua localizada en Oleshky, Jersón, tras la cual Rusia y Ucrania se acusaron mutuamente de hackear sus aplicaciones de alerta, enviando falsas advertencias de ataques aéreos, químicos y nucleares. Esto conecta explícitamente incidentes cibernéticos (dimensión tecnología) con la dinámica del conflicto geopolítico Rusia-Ucrania.",
+        "hechos": [
+          "ev_3dfa747644",
+          "ev_a5bd95eb1c"
+        ]
+      }
+    },
+    "bucles": {
+      "Escasez de Recursos": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      },
+      "Armamentización de la Cadena de Suministro": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      },
+      "Impacto Societal y Financiero": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      }
+    },
+    "senales": [
+      {
+        "texto": "Posibilidad de que el patrón de ciberataques a infraestructura de refrigeración y alertas de emergencia se extienda a otros países, tras registrarse ya en Francia, Suecia, Bélgica, Luxemburgo y Ucrania.",
+        "hechos": [
+          "ev_a6237f4391",
+          "ev_3dfa747644"
+        ]
+      },
+      {
+        "texto": "Posibilidad de nueva ronda de negociaciones de paz Rusia-Ucrania-EE.UU. si prospera la propuesta turca de acoger las conversaciones en Estambul.",
+        "hechos": [
+          "ev_871a0a81b6"
+        ]
+      },
+      {
+        "texto": "Posibilidad de escalada de precios del petróleo hacia 140 dólares el barril en 2027 si se agravan las tensiones en Oriente Medio, según estimación de Goldman Sachs.",
+        "hechos": [
+          "ev_4ab16353ed"
+        ]
+      },
+      {
+        "texto": "Posibilidad de inestabilidad política adicional en Bélgica si el rey no logra destrabar la negociación presupuestaria tras la dimisión del primer ministro.",
+        "hechos": [
+          "ev_5ac78f63d7"
+        ]
+      },
+      {
+        "texto": "Posibilidad de que el vacío dejado por el desmantelamiento de la misión Minurso eleve el riesgo de escalada bélica en el Sáhara Occidental.",
+        "hechos": [
+          "ev_29a823b948"
+        ]
+      }
+    ],
+    "correcciones": []
+  },
+  "cobertura": {
+    "noaa": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "NOAA",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-16T15:02:33+00:00",
+      "recientes": 0
+    },
+    "openai": {
+      "ok": true,
+      "piezas": 1341,
+      "fuente": "OpenAI",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-30T09:30:00+00:00",
+      "recientes": 0
+    },
+    "nasa": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "NASA",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T05:05:00+00:00",
+      "recientes": 2
+    },
+    "cisa": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "CISA",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "eia": {
+      "ok": true,
+      "piezas": 22,
+      "fuente": "EIA",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-30T14:00:00+00:00",
+      "recientes": 0
+    },
+    "fao": {
+      "ok": true,
+      "piezas": 19,
+      "fuente": "FAO",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-30T12:00:00+00:00",
+      "recientes": 0
+    },
+    "wto": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "OMC",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-30T00:00:00+00:00",
+      "recientes": 0
+    },
+    "un": {
+      "ok": true,
+      "piezas": 30,
+      "fuente": "ONU",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-01T12:00:00+00:00",
+      "recientes": 0
+    },
+    "fed": {
+      "ok": true,
+      "piezas": 20,
+      "fuente": "Reserva Federal",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-29T20:30:00+00:00",
+      "recientes": 0
+    },
+    "ecb": {
+      "ok": true,
+      "piezas": 15,
+      "fuente": "BCE",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T09:30:00+00:00",
+      "recientes": 1
+    },
+    "imf": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "FMI",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "iom": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "OIM",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "unhcr": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "ACNUR",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "un-en": {
+      "ok": true,
+      "piezas": 30,
+      "fuente": "ONU (inglés)",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T12:00:00+00:00",
+      "recientes": 1
+    },
+    "consilium": {
+      "ok": true,
+      "piezas": 20,
+      "fuente": "Consejo de la Unión Europea",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "google": {
+      "ok": true,
+      "piezas": 20,
+      "fuente": "Google",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-30T20:15:00+00:00",
+      "recientes": 0
+    },
+    "microsoft": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "Microsoft",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-28T16:51:35+00:00",
+      "recientes": 0
+    },
+    "meta": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "Meta",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-29T17:00:55+00:00",
+      "recientes": 0
+    },
+    "apple": {
+      "ok": true,
+      "piezas": 20,
+      "fuente": "Apple",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "nist": {
+      "ok": true,
+      "piezas": 40,
+      "fuente": "NIST",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-27T12:00:00+00:00",
+      "recientes": 0
+    },
+    "esa": {
+      "ok": true,
+      "piezas": 9,
+      "fuente": "Agencia Espacial Europea",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T08:55:00+00:00",
+      "recientes": 1
+    },
+    "noaa-ncei": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "NOAA NCEI",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-09T15:00:00+00:00",
+      "recientes": 0
+    },
+    "noaa-nhc": {
+      "ok": true,
+      "piezas": 2,
+      "fuente": "NOAA · Centro Nacional de Huracanes",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-03T23:38:15+00:00",
+      "recientes": 1
+    },
+    "nasa-releases": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "NASA · Comunicados",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T05:05:00+00:00",
+      "recientes": 2
+    },
+    "usda": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Departamento de Agricultura de EE. UU.",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "ec-trade": {
+      "ok": true,
+      "piezas": 30,
+      "fuente": "Comisión Europea · Comercio",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-29T23:00:00+00:00",
+      "recientes": 0
+    },
+    "bis": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Banco de Pagos Internacionales",
+      "tipo": "oficial",
+      "error": "El canal no devolvió documentos",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "boe": {
+      "ok": true,
+      "piezas": 50,
+      "fuente": "Banco de Inglaterra",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-29T14:00:00+00:00",
+      "recientes": 0
+    },
+    "boj": {
+      "ok": true,
+      "piezas": 47,
+      "fuente": "Banco de Japón",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T05:00:00+00:00",
+      "recientes": 0
+    },
+    "census": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "Oficina del Censo de EE. UU.",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-29T14:02:01+00:00",
+      "recientes": 0
+    },
+    "bbc-world": {
+      "ok": true,
+      "piezas": 28,
+      "fuente": "BBC News",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T12:51:32+00:00",
+      "recientes": 19
+    },
+    "bbc-mundo": {
+      "ok": true,
+      "piezas": 34,
+      "fuente": "BBC Mundo",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T12:35:05+00:00",
+      "recientes": 5
+    },
+    "cnn": {
+      "ok": true,
+      "piezas": 130,
+      "fuente": "CNN",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T12:38:01.947000+00:00",
+      "recientes": 56
+    },
+    "dw-es": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Deutsche Welle",
+      "tipo": "medio",
+      "error": "syntax error: line 1, column 0",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "france24": {
+      "ok": true,
+      "piezas": 24,
+      "fuente": "France 24",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T12:01:54+00:00",
+      "recientes": 24
+    },
+    "guardian": {
+      "ok": true,
+      "piezas": 45,
+      "fuente": "The Guardian",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T12:31:58+00:00",
+      "recientes": 25
+    },
+    "aljazeera": {
+      "ok": true,
+      "piezas": 25,
+      "fuente": "Al Jazeera",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T12:18:07+00:00",
+      "recientes": 25
+    },
+    "elpais": {
+      "ok": true,
+      "piezas": 24,
+      "fuente": "El País",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T12:32:09+00:00",
+      "recientes": 18
+    },
+    "cnbc": {
+      "ok": true,
+      "piezas": 30,
+      "fuente": "CNBC",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T12:40:46+00:00",
+      "recientes": 21
+    },
+    "reuters": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Reuters",
+      "tipo": "agencia",
+      "error": "HTTP Error 404: Not Found",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "reuters-best": {
+      "ok": true,
+      "piezas": 12,
+      "fuente": "Reuters Best",
+      "tipo": "agencia",
+      "error": "",
+      "ultima_publicacion": "2026-10-07T17:06:26+00:00",
+      "recientes": 0
+    },
+    "efe": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Agencia EFE",
+      "tipo": "agencia",
+      "error": "HTTP Error 500: Internal Server Error",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "marketwatch": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "MarketWatch",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T12:26:00+00:00",
+      "recientes": 10
+    },
+    "guardian-environment": {
+      "ok": true,
+      "piezas": 34,
+      "fuente": "The Guardian · Medio ambiente",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T12:00:41+00:00",
+      "recientes": 7
+    },
+    "bbc-tech": {
+      "ok": true,
+      "piezas": 21,
+      "fuente": "BBC · Tecnología",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T07:42:33+00:00",
+      "recientes": 1
+    },
+    "bbc-business": {
+      "ok": true,
+      "piezas": 48,
+      "fuente": "BBC · Economía",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T12:51:32+00:00",
+      "recientes": 10
+    }
+  }
+}

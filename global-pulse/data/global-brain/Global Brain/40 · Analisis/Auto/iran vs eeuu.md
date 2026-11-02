@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-11-01
+actualizado: 2026-11-02
 nodos: 34
 origen: global-pulse
 ---
@@ -10,20 +10,22 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-01. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-02. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-34 nodos registrados en el periodo. Lo mas reciente: Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes.
+34 nodos registrados en el periodo. Lo mas reciente: Más tráfico y ataques en el estrecho de Ormuz no bajan el precio del petróleo.
 
 ## Trend summary (EN)
-34 nodes recorded in the period. Most recent: Tankers defy escalation of Iranian attacks to keep oil flowing through Strait of Hormuz.
+34 nodes recorded in the period. Most recent: More traffic and attacks in Strait of Hormuz fail to lower oil prices.
 
 > [!note] Estado actual
-> Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes
+> Más tráfico y ataques en el estrecho de Ormuz no bajan el precio del petróleo
 
 ## Nodos recientes (34 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-02 | 65 | K1 | Más tráfico y ataques en el estrecho de Ormuz no bajan el precio |
+| 2026-11-02 | 56 | K0 | Crudo estadounidense cae bajo los 100 dólares por esfuerzos dipl |
 | 2026-10-31 | 65 | K0 | Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada  |
 | 2026-10-30 | 68 | K1 | Irán afirma que cuatro petroleros chocaron con minas en el estre |
 | 2026-10-30 | 60 | K1 | Chevron y Exxon superan expectativas por alza de márgenes de ref |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-10-28 | 50 | K1 | Derrame de petróleo en el estrecho de Ormuz obliga a cerrar play |
 | 2026-10-28 | 30 | K1 | Crucero de larga duración queda varado en Camboya por aumento de |
 | 2026-10-26 | 55 | K1 | Arabia Saudita intercepta misiles y drones hutíes en medio de te |
-| 2026-10-25 | 65 | K1 | Arabia Saudita intercepta misiles y drones hutíes en escalada co |
-| 2026-10-25 | 55 | K1 | Arabia Saudita intercepta misiles hutíes ante riesgos para sumin |
 
 [[Global Brain — Inicio|← Inicio]]

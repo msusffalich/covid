@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-11-01T11:34:25.342111+00:00",
+    "generado": "2026-11-02T12:56:45.212282+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -14,21 +14,16 @@
       },
       "color": "#E4634F",
       "n_nodos": 34,
-      "ultima_fecha": "2026-10-31",
+      "ultima_fecha": "2026-11-02",
       "resumen": {
-        "es": "34 nodos registrados en el periodo. Lo mas reciente: Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes.",
-        "en": "34 nodes recorded in the period. Most recent: Tankers defy escalation of Iranian attacks to keep oil flowing through Strait of Hormuz."
+        "es": "34 nodos registrados en el periodo. Lo mas reciente: Más tráfico y ataques en el estrecho de Ormuz no bajan el precio del petróleo.",
+        "en": "34 nodes recorded in the period. Most recent: More traffic and attacks in Strait of Hormuz fail to lower oil prices."
       },
       "estado": {
-        "es": "Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes",
-        "en": "Tankers defy escalation of Iranian attacks to keep oil flowing through Strait of Hormuz"
+        "es": "Más tráfico y ataques en el estrecho de Ormuz no bajan el precio del petróleo",
+        "en": "More traffic and attacks in Strait of Hormuz fail to lower oil prices"
       },
       "serie": [
-        {
-          "fecha": "2026-10-12",
-          "max": 95,
-          "n": 2
-        },
         {
           "fecha": "2026-10-13",
           "max": 78,
@@ -98,9 +93,38 @@
           "fecha": "2026-10-31",
           "max": 65,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-02",
+          "max": 65,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "Más tráfico y ataques en el estrecho de Ormuz no bajan el precio del petróleo",
+            "en": "More traffic and attacks in Strait of Hormuz fail to lower oil prices"
+          },
+          "impacto": 65,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-11-02/la-triple-paradoja-de-ormuz-mas-barcos-cruzando-mas-ataques-y-el-petroleo-por-las-nubes.html",
+          "fuente": "El País"
+        },
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "Crudo estadounidense cae bajo los 100 dólares por esfuerzos diplomáticos EE.UU.-Irán",
+            "en": "US crude falls below $100 amid US-Iran diplomatic efforts"
+          },
+          "impacto": 56,
+          "categoria": "recursos",
+          "kardashev": "K0",
+          "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+          "fuente": "CNBC"
+        },
         {
           "fecha": "2026-10-31",
           "titulo": {
@@ -220,30 +244,6 @@
           "kardashev": "K1",
           "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
           "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-25",
-          "titulo": {
-            "es": "Arabia Saudita intercepta misiles y drones hutíes en escalada con Yemen",
-            "en": "Saudi Arabia intercepts Houthi missiles and drones amid Yemen escalation"
-          },
-          "impacto": 65,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
-          "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-10-25",
-          "titulo": {
-            "es": "Arabia Saudita intercepta misiles hutíes ante riesgos para suministro energético regional",
-            "en": "Saudi Arabia intercepts Houthi missiles amid rising regional energy supply risks"
-          },
-          "impacto": 55,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-          "fuente": "CNBC"
         }
       ]
     },
@@ -254,22 +254,17 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 42,
-      "ultima_fecha": "2026-11-01",
+      "n_nodos": 44,
+      "ultima_fecha": "2026-11-02",
       "resumen": {
-        "es": "42 nodos registrados en el periodo. Lo mas reciente: EE.UU. aprueba venta de misiles Patriot a Ucrania y culmina evacuación de Oleshky.",
-        "en": "42 nodes recorded in the period. Most recent: US approves Patriot missile sale to Ukraine as Oleshky evacuation concludes."
+        "es": "44 nodos registrados en el periodo. Lo mas reciente: Rusia y Ucrania se acusan de ciberataques tras el fin de una tregua localizada.",
+        "en": "44 nodes recorded in the period. Most recent: Russia and Ukraine trade accusations of cyberattacks after end of localized ceasefire."
       },
       "estado": {
-        "es": "EE.UU. aprueba venta de misiles Patriot a Ucrania y culmina evacuación de Oleshky",
-        "en": "US approves Patriot missile sale to Ukraine as Oleshky evacuation concludes"
+        "es": "Rusia y Ucrania se acusan de ciberataques tras el fin de una tregua localizada",
+        "en": "Russia and Ukraine trade accusations of cyberattacks after end of localized ceasefire"
       },
       "serie": [
-        {
-          "fecha": "2026-10-12",
-          "max": 95,
-          "n": 2
-        },
         {
           "fecha": "2026-10-13",
           "max": 78,
@@ -359,9 +354,62 @@
           "fecha": "2026-11-01",
           "max": 72,
           "n": 3
+        },
+        {
+          "fecha": "2026-11-02",
+          "max": 64,
+          "n": 4
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "Rusia y Ucrania se acusan de ciberataques tras el fin de una tregua localizada",
+            "en": "Russia and Ukraine trade accusations of cyberattacks after end of localized ceasefire"
+          },
+          "impacto": 64,
+          "categoria": "geopolitica",
+          "kardashev": "K0",
+          "url": "https://www.france24.com/es/europa/20261102-en-directo-rusia-y-ucrania-cruzan-acusaciones-sobre-ataques-cibern%C3%A9ticos-tras-fin-del-alto-el-fuego-localizado",
+          "fuente": "France 24"
+        },
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "Hackers envían falsa alerta de ataque nuclear a la app de emergencias de Ucrania",
+            "en": "Hackers send fake nuclear attack alert to Ukraine's emergency app"
+          },
+          "impacto": 60,
+          "categoria": "tecnologia",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "Turquía propone a Ucrania acoger nueva ronda de negociaciones con Rusia y EE.UU.",
+            "en": "Turkey proposes Ukraine host new round of talks with Russia and US"
+          },
+          "impacto": 60,
+          "categoria": "geopolitica",
+          "kardashev": "K0",
+          "url": "https://elpais.com/internacional/2026-11-01/turquia-propone-a-ucrania-acoger-una-nueva-ronda-de-negociaciones-con-rusia-y-estados-unidos.html",
+          "fuente": "El País"
+        },
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "La ONU ordena desmantelar la misión Minurso en el Sáhara Occidental",
+            "en": "UN orders dismantling of Minurso mission in Western Sahara"
+          },
+          "impacto": 57,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html",
+          "fuente": "El País"
+        },
         {
           "fecha": "2026-11-01",
           "titulo": {
@@ -456,54 +504,6 @@
           "categoria": "geopolitica",
           "kardashev": "K1",
           "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
-          "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz",
-            "en": "Iran claims four tankers struck mines in Strait of Hormuz"
-          },
-          "impacto": 68,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "Chevron y Exxon superan expectativas por alza de márgenes de refinación de diésel",
-            "en": "Chevron and Exxon beat earnings on surging diesel refining profits"
-          },
-          "impacto": 60,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "Rusia intercepta más de 1.000 drones ucranianos en ataques renovados contra refinerías",
-            "en": "Russia intercepts over 1,000 Ukrainian drones as attacks on refineries renew"
-          },
-          "impacto": 60,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss",
-          "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "Las acciones globales de Trump sobre Ucrania e Irán generan división electoral entre sus votantes",
-            "en": "Trump's global actions on Ukraine and Iran divide his own voters ahead of elections"
-          },
-          "impacto": 55,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections",
           "fuente": "The Guardian"
         }
       ]
@@ -756,15 +756,15 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 16,
-      "ultima_fecha": "2026-10-31",
+      "n_nodos": 18,
+      "ultima_fecha": "2026-11-02",
       "resumen": {
-        "es": "16 nodos registrados en el periodo. Lo mas reciente: Acciones tecnológicas de EE.UU. caen fuertemente mientras el gasto en IA se acerca a 1 billón de dólares.",
-        "en": "16 nodes recorded in the period. Most recent: US tech stocks see sharp falls as AI spending nears $1tn."
+        "es": "18 nodos registrados en el periodo. Lo mas reciente: Corea del Sur destina presupuesto récord a IA soberana para 2027.",
+        "en": "18 nodes recorded in the period. Most recent: South Korea allocates record budget for sovereign AI in 2027."
       },
       "estado": {
-        "es": "Acciones tecnológicas de EE.UU. caen fuertemente mientras el gasto en IA se acerca a 1 billón de dólares",
-        "en": "US tech stocks see sharp falls as AI spending nears $1tn"
+        "es": "Corea del Sur destina presupuesto récord a IA soberana para 2027",
+        "en": "South Korea allocates record budget for sovereign AI in 2027"
       },
       "serie": [
         {
@@ -821,9 +821,38 @@
           "fecha": "2026-10-31",
           "max": 60,
           "n": 2
+        },
+        {
+          "fecha": "2026-11-02",
+          "max": 55,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "Corea del Sur destina presupuesto récord a IA soberana para 2027",
+            "en": "South Korea allocates record budget for sovereign AI in 2027"
+          },
+          "impacto": 55,
+          "categoria": "tecnologia",
+          "kardashev": "K1",
+          "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "OpenAI firma acuerdos en Abu Dabi sobre energía, gobierno e inversión",
+            "en": "OpenAI signs Abu Dhabi deals spanning energy, government and investment"
+          },
+          "impacto": 52,
+          "categoria": "tecnologia",
+          "kardashev": "K0",
+          "url": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
+          "fuente": "CNBC"
+        },
         {
           "fecha": "2026-10-31",
           "titulo": {
@@ -943,30 +972,6 @@
           "kardashev": "K1",
           "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
           "fuente": "Ars Technica"
-        },
-        {
-          "fecha": "2026-10-20",
-          "titulo": {
-            "es": "Exempleado de OpenAI acusado de colocar un dispositivo de grabacion es retenido sin fianza tras oferta de pago del gobierno saudi",
-            "en": "Ex-OpenAI worker accused of planting bugging device held without bail after Saudi government offers to pay"
-          },
-          "impacto": 42,
-          "categoria": "tecnologia",
-          "kardashev": "K2",
-          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News World"
-        },
-        {
-          "fecha": "2026-10-15",
-          "titulo": {
-            "es": "Ocho estados de EEUU demandan a OpenAI por supuestos daños a menores con ChatGPT",
-            "en": "Eight US states sue OpenAI over alleged harms to children from ChatGPT"
-          },
-          "impacto": 62,
-          "categoria": "tecnologia",
-          "kardashev": "K2",
-          "url": "https://www.elmundo.es/internacional/2026/10/15/6ad07607fdddfff12d8b4598.html",
-          "fuente": "El Mundo Internacional"
         }
       ]
     },
@@ -978,21 +983,16 @@
       },
       "color": "#3FA65C",
       "n_nodos": 26,
-      "ultima_fecha": "2026-11-01",
+      "ultima_fecha": "2026-11-02",
       "resumen": {
-        "es": "26 nodos registrados en el periodo. Lo mas reciente: Ganaderos de Malawi recorren mayores distancias por sequía agravada por El Niño.",
-        "en": "26 nodes recorded in the period. Most recent: Malawi cattle farmers travel farther as El Niño worsens drought."
+        "es": "26 nodos registrados en el periodo. Lo mas reciente: Informe de la ONU advierte daño permanente a la criosfera si se supera 1,5°C.",
+        "en": "26 nodes recorded in the period. Most recent: UN report warns of permanent cryosphere damage if 1.5C is overshot."
       },
       "estado": {
-        "es": "Ganaderos de Malawi recorren mayores distancias por sequía agravada por El Niño",
-        "en": "Malawi cattle farmers travel farther as El Niño worsens drought"
+        "es": "Informe de la ONU advierte daño permanente a la criosfera si se supera 1,5°C",
+        "en": "UN report warns of permanent cryosphere damage if 1.5C is overshot"
       },
       "serie": [
-        {
-          "fecha": "2026-10-12",
-          "max": 55,
-          "n": 2
-        },
         {
           "fecha": "2026-10-13",
           "max": 55,
@@ -1062,9 +1062,38 @@
           "fecha": "2026-11-01",
           "max": 52,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-02",
+          "max": 62,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "Informe de la ONU advierte daño permanente a la criosfera si se supera 1,5°C",
+            "en": "UN report warns of permanent cryosphere damage if 1.5C is overshot"
+          },
+          "impacto": 62,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn",
+          "fuente": "The Guardian · Medio ambiente"
+        },
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "Europa podría enfrentar clima más frío por debilitamiento del vórtice polar",
+            "en": "Europe could face colder weather as polar vortex weakens"
+          },
+          "impacto": 50,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe",
+          "fuente": "The Guardian"
+        },
         {
           "fecha": "2026-11-01",
           "titulo": {
@@ -1184,30 +1213,6 @@
           "kardashev": "K1",
           "url": "https://www.theguardian.com/australia-news/2026/oct/26/man-found-dead-in-queensland-floodwaters-as-state-hit-by-days-long-deluge",
           "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-10-26",
-          "titulo": {
-            "es": "NOAA descarta formación de ciclones tropicales en el Atlántico en los próximos 7 días",
-            "en": "NOAA rules out tropical cyclone formation in Atlantic over next 7 days"
-          },
-          "impacto": 20,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
-          "fuente": "NOAA · Centro Nacional de Huracanes"
-        },
-        {
-          "fecha": "2026-10-25",
-          "titulo": {
-            "es": "Tormenta multiestatal 'inusualmente grande' golpea el este de Australia",
-            "en": "'Unusually large' multi-state storm hits eastern Australia"
-          },
-          "impacto": 40,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east",
-          "fuente": "The Guardian"
         }
       ]
     },
@@ -1218,22 +1223,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 64,
-      "ultima_fecha": "2026-11-01",
+      "n_nodos": 68,
+      "ultima_fecha": "2026-11-02",
       "resumen": {
-        "es": "64 nodos registrados en el periodo. Lo mas reciente: Temores de gasto en IA provocan reversión bursátil tras resultados de grandes tecnológicas.",
-        "en": "64 nodes recorded in the period. Most recent: AI spending fears trigger stock reversal after Big Tech earnings."
+        "es": "68 nodos registrados en el periodo. Lo mas reciente: Binance sufre el mayor hackeo cripto de la historia con 6.300 millones de dólares.",
+        "en": "68 nodes recorded in the period. Most recent: Binance suffers largest-ever crypto hack worth $6.3 billion."
       },
       "estado": {
-        "es": "Temores de gasto en IA provocan reversión bursátil tras resultados de grandes tecnológicas",
-        "en": "AI spending fears trigger stock reversal after Big Tech earnings"
+        "es": "Binance sufre el mayor hackeo cripto de la historia con 6.300 millones de dólares",
+        "en": "Binance suffers largest-ever crypto hack worth $6.3 billion"
       },
       "serie": [
-        {
-          "fecha": "2026-10-12",
-          "max": 95,
-          "n": 3
-        },
         {
           "fecha": "2026-10-13",
           "max": 95,
@@ -1323,9 +1323,98 @@
           "fecha": "2026-11-01",
           "max": 64,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-02",
+          "max": 68,
+          "n": 7
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "Binance sufre el mayor hackeo cripto de la historia con 6.300 millones de dólares",
+            "en": "Binance suffers largest-ever crypto hack worth $6.3 billion"
+          },
+          "impacto": 68,
+          "categoria": "tecnologia",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News"
+        },
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "Más tráfico y ataques en el estrecho de Ormuz no bajan el precio del petróleo",
+            "en": "More traffic and attacks in Strait of Hormuz fail to lower oil prices"
+          },
+          "impacto": 65,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-11-02/la-triple-paradoja-de-ormuz-mas-barcos-cruzando-mas-ataques-y-el-petroleo-por-las-nubes.html",
+          "fuente": "El País"
+        },
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "Goldman Sachs proyecta petróleo promedio de 130 dólares por barril en 2027",
+            "en": "Goldman Sachs projects oil averaging $130 per barrel in 2027"
+          },
+          "impacto": 58,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
+          "fuente": "MarketWatch"
+        },
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "Crudo estadounidense cae bajo los 100 dólares por esfuerzos diplomáticos EE.UU.-Irán",
+            "en": "US crude falls below $100 amid US-Iran diplomatic efforts"
+          },
+          "impacto": 56,
+          "categoria": "recursos",
+          "kardashev": "K0",
+          "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "El Súper Niño causa desastre en Galápagos y obliga a cerrar atracciones turísticas",
+            "en": "Super El Niño causes disaster in Galapagos, forces tourist site closures"
+          },
+          "impacto": 54,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/cr3wv0pgg31vo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "Economistas prevén una desaceleración más pronunciada en Australia ante quinta subida de tasas",
+            "en": "Economists predict sharper Australian slowdown ahead of fifth rate hike"
+          },
+          "impacto": 48,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-11-02",
+          "titulo": {
+            "es": "BCE: Europa debe reforzar apertura y resiliencia en un mundo fragmentado",
+            "en": "ECB: Europe must strengthen openness and resilience in fragmenting world"
+          },
+          "impacto": 45,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+          "fuente": "BCE"
+        },
         {
           "fecha": "2026-11-01",
           "titulo": {
@@ -1385,90 +1474,6 @@
           "kardashev": "K0",
           "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
           "fuente": "MarketWatch"
-        },
-        {
-          "fecha": "2026-10-31",
-          "titulo": {
-            "es": "Acciones tecnológicas de EE.UU. caen fuertemente mientras el gasto en IA se acerca a 1 billón de dólares",
-            "en": "US tech stocks see sharp falls as AI spending nears $1tn"
-          },
-          "impacto": 60,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News"
-        },
-        {
-          "fecha": "2026-10-31",
-          "titulo": {
-            "es": "Aranceles de EE.UU. del 50% amenazan cerrar fábrica de papel centenaria en Quebec",
-            "en": "US 50% tariffs threaten to shutter century-old paper mill in Quebec"
-          },
-          "impacto": 50,
-          "categoria": "cadenas",
-          "kardashev": "K0",
-          "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News"
-        },
-        {
-          "fecha": "2026-10-31",
-          "titulo": {
-            "es": "Ganancias de refinación de grandes petroleras se disparan pese a críticas de Trump",
-            "en": "Big Oil refining earnings surge despite Trump's criticism"
-          },
-          "impacto": 40,
-          "categoria": "cadenas",
-          "kardashev": "K0",
-          "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-31",
-          "titulo": {
-            "es": "Philip Lane del BCE aborda la adopción de IA en Europa",
-            "en": "ECB's Philip Lane addresses AI adoption in Europe"
-          },
-          "impacto": 35,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
-          "fuente": "BCE"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "El BCE anuncia decisiones de política monetaria",
-            "en": "ECB announces monetary policy decisions"
-          },
-          "impacto": 62,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
-          "fuente": "BCE"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "Rusia intercepta más de 1.000 drones ucranianos en ataques renovados contra refinerías",
-            "en": "Russia intercepts over 1,000 Ukrainian drones as attacks on refineries renew"
-          },
-          "impacto": 60,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss",
-          "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "El BOJ mantiene tasas tras alcanzar por primera vez su meta de inflación subyacente del 2%",
-            "en": "BOJ holds rates after hitting 2% underlying inflation target for first time"
-          },
-          "impacto": 58,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
-          "fuente": "CNBC"
         }
       ]
     }
