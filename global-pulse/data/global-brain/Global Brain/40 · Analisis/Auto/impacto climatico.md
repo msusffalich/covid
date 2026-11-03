@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-11-02
-nodos: 26
+actualizado: 2026-11-03
+nodos: 25
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-02. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-03. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-26 nodos registrados en el periodo. Lo mas reciente: Informe de la ONU advierte daño permanente a la criosfera si se supera 1,5°C.
+25 nodos registrados en el periodo. Lo mas reciente: Zona de baja presión podría formarse en el Atlántico occidental cerca de Bermudas.
 
 ## Trend summary (EN)
-26 nodes recorded in the period. Most recent: UN report warns of permanent cryosphere damage if 1.5C is overshot.
+25 nodes recorded in the period. Most recent: Area of low pressure could form in western Atlantic near Bermuda.
 
 > [!note] Estado actual
-> Informe de la ONU advierte daño permanente a la criosfera si se supera 1,5°C
+> Zona de baja presión podría formarse en el Atlántico occidental cerca de Bermudas
 
-## Nodos recientes (26 en la ventana)
+## Nodos recientes (25 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-03 | 25 | K2 | Zona de baja presión podría formarse en el Atlántico occidental  |
 | 2026-11-02 | 62 | K1 | Informe de la ONU advierte daño permanente a la criosfera si se  |
 | 2026-11-02 | 50 | K1 | Europa podría enfrentar clima más frío por debilitamiento del vó |
 | 2026-11-01 | 52 | K1 | Ganaderos de Malawi recorren mayores distancias por sequía agrav |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-28 | 50 | K1 | Gobierno británico dice que yacimiento petrolero Rosebank no vio |
 | 2026-10-27 | 55 | K1 | Oxfam halla que súper ricos obtienen 'doble dividendo' del cambi |
 | 2026-10-27 | 50 | K1 | Lluvias intensas inundan la mayor ciudad de Ecuador |
-| 2026-10-26 | 40 | K1 | Tormentas e inundaciones prolongadas dejan un muerto en Queensla |
 
 [[Global Brain — Inicio|← Inicio]]

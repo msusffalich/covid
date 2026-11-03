@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-02
+actualizado: 2026-11-03
 nodos: 22
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-02. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-03. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-22 nodos registrados en el periodo. Lo mas reciente: ONU advierte sobre 'pesadilla' de desplazamiento creciente en Gaza.
+22 nodos registrados en el periodo. Lo mas reciente: Líbano corta electricidad a organismos públicos mientras se agrava la crisis energética.
 
 ## Trend summary (EN)
-22 nodes recorded in the period. Most recent: UN rights office warns of deepening displacement 'nightmare' in Gaza.
+22 nodes recorded in the period. Most recent: Lebanon cuts power to public bodies as electricity crisis deepens.
 
 > [!note] Estado actual
-> ONU advierte sobre 'pesadilla' de desplazamiento creciente en Gaza
+> Líbano corta electricidad a organismos públicos mientras se agrava la crisis energética
 
 ## Nodos recientes (22 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-03 | 40 | K0 | Líbano corta electricidad a organismos públicos mientras se agra |
 | 2026-10-31 | 70 | K1 | ONU advierte sobre 'pesadilla' de desplazamiento creciente en Ga |
 | 2026-10-30 | 68 | K1 | Israel enfrenta semanas de negociaciones de coalición tras elecc |
 | 2026-10-30 | 62 | K1 | Más de 25 sindicatos portuarios en 22 países convocan huelga glo |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-27 | 78 | K1 | Israel celebra elecciones decisivas con oposición favorita en so |
 | 2026-10-26 | 65 | K1 | Israel desplaza a cerca de 2.000 palestinos en Hebrón antes de e |
 | 2026-10-25 | 70 | K1 | Israel celebra elecciones esta semana, las primeras desde el ata |
-| 2026-10-24 | 68 | K1 | Ataque armado en Hebrón deja soldados israelíes y atacantes pale |
 
 [[Global Brain — Inicio|← Inicio]]

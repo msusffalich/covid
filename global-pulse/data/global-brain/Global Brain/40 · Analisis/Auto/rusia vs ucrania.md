@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-02
-nodos: 44
+actualizado: 2026-11-03
+nodos: 45
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-02. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-03. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-44 nodos registrados en el periodo. Lo mas reciente: Rusia y Ucrania se acusan de ciberataques tras el fin de una tregua localizada.
+45 nodos registrados en el periodo. Lo mas reciente: Rusia bombardea centro de ayuda y refugio en Ucrania matando al menos 29 personas.
 
 ## Trend summary (EN)
-44 nodes recorded in the period. Most recent: Russia and Ukraine trade accusations of cyberattacks after end of localized ceasefire.
+45 nodes recorded in the period. Most recent: Russia bombs aid centre and shelter in Ukraine, killing at least 29 people.
 
 > [!note] Estado actual
-> Rusia y Ucrania se acusan de ciberataques tras el fin de una tregua localizada
+> Rusia bombardea centro de ayuda y refugio en Ucrania matando al menos 29 personas
 
-## Nodos recientes (44 en la ventana)
+## Nodos recientes (45 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-03 | 80 | K1 | Rusia bombardea centro de ayuda y refugio en Ucrania matando al  |
+| 2026-11-03 | 70 | K0 | Rusia deja a 180.000 personas sin luz en nuevo ataque a infraest |
+| 2026-11-03 | 55 | K1 | Fin de la misión de paz de la ONU en el Sáhara Occidental tras 3 |
 | 2026-11-02 | 64 | K0 | Rusia y Ucrania se acusan de ciberataques tras el fin de una tre |
 | 2026-11-02 | 60 | K1 | Hackers envían falsa alerta de ataque nuclear a la app de emerge |
 | 2026-11-02 | 60 | K0 | Turquía propone a Ucrania acoger nueva ronda de negociaciones co |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-11-01 | 55 | K0 | Evacuados ucranianos de Oleshky se reencuentran con familiares t |
 | 2026-10-31 | 70 | K0 | EE.UU. aprueba venta de 500 misiles Patriot a Ucrania por 2.100  |
 | 2026-10-31 | 55 | K1 | Resoluciones rivales de EE.UU. y Rusia sobre el Sáhara Occidenta |
-| 2026-10-31 | 55 | K1 | Veto cruzado entre Rusia y EE.UU. deja sin resolver misión de la |
-| 2026-10-31 | 55 | K1 | ONU dice que tregua en Oleshky da 'esperanza' a civiles pese a a |
-| 2026-10-31 | 45 | K1 | EE.UU. cancela 'foto familiar' del G20 tras negativa de varios p |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -2,28 +2,32 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-11-02
-nodos: 68
+actualizado: 2026-11-03
+nodos: 69
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-02. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-03. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-68 nodos registrados en el periodo. Lo mas reciente: Binance sufre el mayor hackeo cripto de la historia con 6.300 millones de dólares.
+69 nodos registrados en el periodo. Lo mas reciente: Banco de la Reserva de Australia sube tasas a máximo de 18 años para combatir la inflación.
 
 ## Trend summary (EN)
-68 nodes recorded in the period. Most recent: Binance suffers largest-ever crypto hack worth $6.3 billion.
+69 nodes recorded in the period. Most recent: RBA hikes rates to 18-year high as it combats inflation.
 
 > [!note] Estado actual
-> Binance sufre el mayor hackeo cripto de la historia con 6.300 millones de dólares
+> Banco de la Reserva de Australia sube tasas a máximo de 18 años para combatir la inflación
 
-## Nodos recientes (68 en la ventana)
+## Nodos recientes (69 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-03 | 60 | K1 | Banco de la Reserva de Australia sube tasas a máximo de 18 años  |
+| 2026-11-03 | 55 | K1 | Precios del petróleo suben tras ataques de EE.UU. a la isla iran |
+| 2026-11-03 | 45 | K1 | Súper Niño causa desastre en Galápagos y obliga a cerrar atracci |
+| 2026-11-03 | 40 | K0 | Estratega petrolero ve punto de inflexión en el fuerte repunte d |
 | 2026-11-02 | 68 | K1 | Binance sufre el mayor hackeo cripto de la historia con 6.300 mi |
 | 2026-11-02 | 65 | K1 | Más tráfico y ataques en el estrecho de Ormuz no bajan el precio |
 | 2026-11-02 | 58 | K1 | Goldman Sachs proyecta petróleo promedio de 130 dólares por barr |
@@ -32,9 +36,5 @@ origen: global-pulse
 | 2026-11-02 | 48 | K1 | Economistas prevén una desaceleración más pronunciada en Austral |
 | 2026-11-02 | 45 | K1 | BCE: Europa debe reforzar apertura y resiliencia en un mundo fra |
 | 2026-11-01 | 64 | K1 | Temores de gasto en IA provocan reversión bursátil tras resultad |
-| 2026-10-31 | 70 | K0 | Hackers vinculados a Corea del Norte, principales sospechosos de |
-| 2026-10-31 | 65 | K2 | Valor de mercado de Google cae 500.000 millones de dólares tras  |
-| 2026-10-31 | 65 | K0 | Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada  |
-| 2026-10-31 | 60 | K0 | Acciones de Intel sufren su peor caída en décadas con pérdida de |
 
 [[Global Brain — Inicio|← Inicio]]
