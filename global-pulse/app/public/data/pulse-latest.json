@@ -1,343 +1,83 @@
 {
   "meta": {
     "schema": "2.0",
-    "fecha": "2026-11-03",
-    "generado": "2026-11-03T12:28:02.999460+00:00",
+    "fecha": "2026-11-04",
+    "generado": "2026-11-04T12:39:46.635651+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "nodos": 27,
-      "verificados": 27,
-      "piezas_ingeridas": 196,
+      "nodos": 21,
+      "verificados": 21,
+      "piezas_ingeridas": 194,
       "canales_consultados": 46,
-      "canales_disponibles": 37,
-      "documentos_recientes": 358
+      "canales_disponibles": 36,
+      "documentos_recientes": 326
     },
     "descargo": "",
-    "corte": "2026-11-03T12:26:19.494210+00:00",
-    "reporte_sha256": "591fa1cdb855fa414726652548b57f026fe1c9152fd0239946d9c1c7f8a385f0",
+    "corte": "2026-11-04T12:38:04.951335+00:00",
+    "reporte_sha256": "986575599f79a9bb97e650b809b1a360d566d9be89f30148d905fcb751e6dd8a",
     "estado": "completo",
     "politica_fuentes": "mixta-v1",
-    "reporte_archivo": "2026-11-03 — Pulso.md"
+    "reporte_archivo": "2026-11-04 — Pulso.md"
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Estadounidenses votan en elecciones de medio mandato vistas como referéndum sobre Trump",
-        "en": "Americans vote in midterm elections seen as referendum on Trump"
+        "es": "Demócratas toman el control del Congreso de EE. UU. en elecciones de medio mandato",
+        "en": "Democrats win control of US Congress in midterm elections"
       },
       "sintesis": {
-        "es": "The Guardian reporta que los centros de votación abrieron en EE.UU. en comicios que definirán el control del Congreso, con la economía, Irán e inmigración como temas centrales de campaña.",
-        "en": "The Guardian reports polls opened across the US in elections that will decide control of Congress, with the economy, Iran and immigration as central campaign issues."
+        "es": "The Guardian reportó que los demócratas obtuvieron la mayoría en el Senado y la Cámara de Representantes, flipping escaños en Texas, Iowa, Kansas, Carolina del Norte, Carolina del Sur y Ohio, en un resultado calificado de 'ola azul'.",
+        "en": "The Guardian reported Democrats won majorities in the Senate and House, flipping seats in Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio, in a result described as a 'blue wave'."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Partido Republicano",
         "Partido Demócrata",
+        "Partido Republicano",
         "Donald Trump"
       ],
       "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
-      },
-      "impacto": 70,
-      "fuentes": [
-        "ev_9499bc15ec"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/210edea69d6da127f4ca539fe823e9d3c0d5b1d9/98_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=01c8ed270efa4ea4a02e2e5dcea32c29"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_9499bc15ec",
-          "titulo": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-          "fuente": "The Guardian",
-          "fecha": "Tue, 03 Nov 2026 12:13:50 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0000",
-      "fecha": "2026-11-03",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-03_0001",
-        "nd_2026-11-03_0014",
-        "nd_2026-11-03_0016"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "EE.UU. ataca la isla iraní de Qeshm en vísperas de las elecciones de medio mandato",
-        "en": "US strikes Iranian island ahead of midterm elections"
-      },
-      "sintesis": {
-        "es": "Según BBC, funcionarios estadounidenses describieron los ataques en la isla de Qeshm como limitados y defensivos, en el marco de tensiones con Irán por el estrecho de Ormuz.",
-        "en": "According to the BBC, US officials described the attacks on Qeshm Island as limited and defensive, amid tensions with Iran over the Strait of Hormuz."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Gobierno de Estados Unidos"
-      ],
-      "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
-      },
-      "impacto": 75,
-      "fuentes": [
-        "ev_76a64d8476"
-      ],
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_76a64d8476",
-          "titulo": "US strikes Iranian island ahead of midterm elections",
-          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "fecha": "Tue, 03 Nov 2026 11:33:33 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0001",
-      "fecha": "2026-11-03",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-03_0000",
-        "nd_2026-11-03_0003",
-        "nd_2026-11-03_0014",
-        "nd_2026-11-03_0016"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Rusia bombardea centro de ayuda y refugio en Ucrania matando al menos 29 personas",
-        "en": "Russia bombs aid centre and shelter in Ukraine, killing at least 29 people"
-      },
-      "sintesis": {
-        "es": "The Guardian informa que Rusia lanzó 289 drones, 17 misiles balísticos y 59 misiles crucero sobre nueve regiones ucranianas, dañando hospitales y centrales eléctricas, según Zelenskyy.",
-        "en": "The Guardian reports Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine Ukrainian regions, damaging hospitals and power plants, according to Zelenskyy."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Volodímir Zelenski"
-      ],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 80,
-      "fuentes": [
-        "ev_a774fd7f32"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/436bce2007dc08d0bcfdb3fe1f57b9790f46f3a1/213_0_3774_3019/master/3774.jpg?width=140&quality=85&auto=format&fit=max&s=3f8efb8327129f011f6c0a3cb6ed0f5a"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_a774fd7f32",
-          "titulo": "Russia bombs aid centre and shelter in Ukraine, killing at least 29 people",
-          "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-          "fuente": "The Guardian",
-          "fecha": "Tue, 03 Nov 2026 10:37:57 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0002",
-      "fecha": "2026-11-03",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-03_0017"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Trump retira a Ruanda y Sudáfrica del acuerdo comercial AGOA",
-        "en": "Trump to remove Rwanda and South Africa from US trade deal"
-      },
-      "sintesis": {
-        "es": "BBC informa que la Administración Trump excluirá a Ruanda y Sudáfrica de los beneficios de la Ley de Crecimiento y Oportunidades para África desde 2027, tras sanciones previas al ministerio ruandés de Defensa.",
-        "en": "The BBC reports the Trump administration will exclude Rwanda and South Africa from AGOA trade benefits starting 2027, following earlier US Treasury sanctions on Rwanda's defence ministry."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Gobierno de Estados Unidos",
-        "AGOA"
-      ],
-      "geo": {
-        "lat": -30.6,
-        "lon": 22.9,
-        "region": "Africa Austral"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_7b1f2481ca"
-      ],
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e727/live/e5cde5c0-d6ef-11f1-ae42-99a80c72db9e.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_7b1f2481ca",
-          "titulo": "Trump to remove Rwanda and South Africa from US trade deal",
-          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "fecha": "Tue, 03 Nov 2026 10:26:26 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0003",
-      "fecha": "2026-11-03",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-03_0001",
-        "nd_2026-11-03_0023"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Fin de la misión de paz de la ONU en el Sáhara Occidental tras 35 años",
-        "en": "UN peacekeeping mission in Western Sahara ends after 35 years"
-      },
-      "sintesis": {
-        "es": "BBC reporta que un impasse entre EE.UU. y Rusia en la ONU llevó al fin de la misión de paz Minurso en el Sáhara Occidental, un desenlace celebrado por Marruecos.",
-        "en": "The BBC reports a US-Russia impasse at the UN led to the end of the Minurso peacekeeping mission in Western Sahara after 35 years, an outcome celebrated by Morocco."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "ONU",
-        "Minurso"
-      ],
-      "geo": {
-        "lat": 61.5,
-        "lon": 105.3,
-        "region": "Rusia"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_92cb8754e6"
-      ],
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3276/live/8e9ad0f0-d6c8-11f1-ac20-7783925c811f.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_92cb8754e6",
-          "titulo": "Why a US-Russia showdown left Morocco celebrating",
-          "url": "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "fecha": "Tue, 03 Nov 2026 07:29:46 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0004",
-      "fecha": "2026-11-03",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Banco de la Reserva de Australia sube tasas a máximo de 18 años para combatir la inflación",
-        "en": "RBA hikes rates to 18-year high as it combats inflation"
-      },
-      "sintesis": {
-        "es": "The Guardian informa que el RBA elevó la tasa de efectivo oficial a 4,85%, el nivel más alto desde 2008, en su quinto incremento de 2026, según la gobernadora Michele Bullock.",
-        "en": "The Guardian reports the RBA raised its official cash rate to 4.85%, the highest level since 2008, in its fifth increase of 2026, according to governor Michele Bullock."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Reserve Bank of Australia"
-      ],
-      "geo": {
-        "lat": -25.3,
-        "lon": 133.8,
-        "region": "Oceania"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_f4d6b3a221"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/4b59f9affe07234b60bcd306cbe130d9aa41c2ee/10_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=68094f8f53403fef2aa07059f65d7dc6"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f4d6b3a221",
-          "titulo": "RBA interest rates: Bullock says ‘pain now’ will prevent worse later as Reserve Bank hikes rates for fifth time",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
-          "fuente": "The Guardian",
-          "fecha": "Tue, 03 Nov 2026 07:36:42 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0005",
-      "fecha": "2026-11-03",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Nasdaq-100 entra en su tercera corrección del año por temores sobre la IA",
-        "en": "Nasdaq-100 tumbles into its third correction this year as AI worries mount"
-      },
-      "sintesis": {
-        "es": "MarketWatch reporta que el índice Nasdaq-100 cayó a territorio de corrección por tercera vez en 2026, en medio de un 'tech wreck' iniciado en octubre vinculado a dudas sobre la inteligencia artificial.",
-        "en": "MarketWatch reports the Nasdaq-100 fell into correction territory for the third time in 2026 amid an October 'tech wreck' tied to AI concerns."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Nasdaq-100"
-      ],
-      "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 65,
+      "impacto": 85,
       "fuentes": [
-        "ev_41b39fedba"
+        "ev_0a61be3b95"
       ],
       "imagenes": [
-        "https://images.mktw.net/im-42856244"
+        "https://i.guim.co.uk/img/media/4ab69f763ed7999e4c40c3864e1f7c775b107016/799_0_7922_6336/master/7922.jpg?width=140&quality=85&auto=format&fit=max&s=147a0407a089310d71fd0baf88695134"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_41b39fedba",
-          "titulo": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
-          "url": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Tue, 03 Nov 2026 11:56:00 GMT",
+          "id": "ev_0a61be3b95",
+          "titulo": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 04 Nov 2026 12:24:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-03_0006",
-      "fecha": "2026-11-03",
+      "id": "nd_2026-11-04_0000",
+      "fecha": "2026-11-04",
       "kardashev": "K1",
-      "relaciones": []
+      "relaciones": [
+        "nd_2026-11-04_0016"
+      ]
     },
     {
       "titulo": {
-        "es": "Presidente de Blackstone pide más capital propio para financiar expansión de IA ante riesgos de deuda",
-        "en": "Blackstone president calls for more equity to fund AI buildout as debt risks mount"
+        "es": "Rendimientos de bonos del Tesoro de EE. UU. caen tras victoria demócrata en midterms",
+        "en": "US Treasury yields fall after Democrats win midterm elections"
       },
       "sintesis": {
-        "es": "CNBC reporta que Jon Gray, presidente de Blackstone, advirtió que la infraestructura de IA necesita más financiamiento con capital propio ante riesgos de concentración en inversores de deuda.",
-        "en": "CNBC reports Blackstone President Jon Gray warned that AI infrastructure needs more equity financing amid concentration risks facing debt investors."
+        "es": "CNBC informó que los rendimientos de los bonos del Tesoro bajaron el miércoles mientras los inversores evaluaban las victorias demócratas en las elecciones de medio mandato en el Senado y la Cámara.",
+        "en": "CNBC reported Treasury yields moved lower Wednesday as investors weighed Democratic wins in the Senate and House midterm elections."
       },
       "categoria": "finanzas",
       "actores": [
-        "Blackstone"
+        "Tesoro de EE. UU."
       ],
       "geo": {
         "lat": 0.0,
@@ -346,80 +86,78 @@
       },
       "impacto": 55,
       "fuentes": [
-        "ev_a479759e68"
+        "ev_5bebc8eceb"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_a479759e68",
-          "titulo": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
-          "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+          "id": "ev_5bebc8eceb",
+          "titulo": "Treasury yields fall after Democrats win House and Senate majorities",
+          "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
           "fuente": "CNBC",
-          "fecha": "Tue, 03 Nov 2026 06:46:36 GMT",
+          "fecha": "Wed, 04 Nov 2026 12:25:25 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-03_0007",
-      "fecha": "2026-11-03",
+      "id": "nd_2026-11-04_0001",
+      "fecha": "2026-11-04",
       "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Reguladores británicos exploran reformas para cooperativas de crédito",
-        "en": "UK regulators explore credit union reforms to support growth and innovation"
+        "es": "Dólar estadounidense cae tras victoria demócrata en midterms por temores de crecimiento",
+        "en": "US dollar slides after Democrats' midterm election win as growth fears rise"
       },
       "sintesis": {
-        "es": "El Banco de Inglaterra anuncia que la Autoridad de Regulación Prudencial y la Autoridad de Conducta Financiera propusieron ideas para ayudar a las cooperativas de crédito a crecer e innovar.",
-        "en": "The Bank of England announces that the Prudential Regulation Authority and Financial Conduct Authority put forward ideas to help credit unions grow and innovate."
+        "es": "The Guardian reportó que el dólar cayó a un mínimo de un mes tras la victoria demócrata en el Congreso, ante temores de mayor regulación de IA y menor crecimiento económico, mientras inversores buscaron refugio en bonos del Tesoro.",
+        "en": "The Guardian reported the dollar hit a one-month low after Democrats' congressional win, amid fears of greater AI regulation slowing growth, as investors moved into Treasury bonds."
       },
       "categoria": "finanzas",
       "actores": [
-        "Banco de Inglaterra",
-        "Prudential Regulation Authority",
-        "Financial Conduct Authority"
+        "Reserva Federal"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 30,
+      "impacto": 55,
       "fuentes": [
-        "ev_d0e3e2413d"
+        "ev_5b9e793c65"
       ],
-      "imagenes": [],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/6b1f011569afbc3d0e2cd5fc5417582f27adbe6a/714_28_3264_2612/master/3264.jpg?width=140&quality=85&auto=format&fit=max&s=893b0115f42782d7afa7bc67f68cf280"
+      ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_d0e3e2413d",
-          "titulo": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
-          "url": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
-          "fuente": "Banco de Inglaterra",
-          "fecha": "Tue, 03 Nov 2026 10:00:00 Z",
+          "id": "ev_5b9e793c65",
+          "titulo": "US dollar slides after Democrats’ midterm election win as growth fears rise",
+          "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 04 Nov 2026 09:55:22 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-03_0008",
-      "fecha": "2026-11-03",
-      "kardashev": "K0",
+      "id": "nd_2026-11-04_0002",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Central eléctrica contaminante de Drax albergará el mayor centro de datos de IA del Reino Unido",
-        "en": "UK's most polluting power plant could power country's largest AI datacentre"
+        "es": "Inflación de la eurozona alcanza 4% por primera vez en tres años",
+        "en": "Euro zone inflation hits 4% for first time in three years"
       },
       "sintesis": {
-        "es": "The Guardian informa que Drax firmó un acuerdo de 20.000 millones de libras con Brookfield y Radiant para construir un centro de datos de IA de más de 1 gigavatio en Yorkshire del Norte, operativo en 2028.",
-        "en": "The Guardian reports Drax struck a £20bn deal with Brookfield and Radiant to build an AI datacentre of over 1 gigawatt capacity at its North Yorkshire site, operational by 2028."
+        "es": "CNBC reportó que la inflación de la eurozona llegó al 4% en octubre, impulsada por la inflación energética que superó el 20%, lo que aumenta la probabilidad de una subida de tasas por parte del BCE.",
+        "en": "CNBC reported euro zone inflation hit 4% in October, driven by energy inflation surging above 20%, raising the likelihood of an ECB rate hike."
       },
-      "categoria": "tecnologia",
+      "categoria": "finanzas",
       "actores": [
-        "Drax",
-        "Brookfield",
-        "Radiant"
+        "Banco Central Europeo"
       ],
       "geo": {
         "lat": 0.0,
@@ -428,83 +166,39 @@
       },
       "impacto": 60,
       "fuentes": [
-        "ev_2e0e8cca7d"
+        "ev_efea2364bb"
       ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/4d21e0d98938a7f32ce928bb10cea2221b6aa2d5/0_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=a082bb1d87b41bc1712963a9dae940e7"
-      ],
+      "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_2e0e8cca7d",
-          "titulo": "UK’s most polluting power plant could power country’s largest AI datacentre",
-          "url": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
-          "fuente": "The Guardian",
-          "fecha": "Tue, 03 Nov 2026 11:55:28 GMT",
+          "id": "ev_efea2364bb",
+          "titulo": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+          "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+          "fuente": "CNBC",
+          "fecha": "Wed, 04 Nov 2026 10:47:30 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-03_0009",
-      "fecha": "2026-11-03",
-      "kardashev": "K1",
-      "relaciones": []
+      "id": "nd_2026-11-04_0003",
+      "fecha": "2026-11-04",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-04_0004"
+      ]
     },
     {
       "titulo": {
-        "es": "Virgin Media O2 recortará miles de empleos en plan de ahorro de 800 millones de libras vinculado a IA",
-        "en": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings"
+        "es": "BCE prevé crecimiento salarial ligeramente mayor en 2027 frente a 2026",
+        "en": "ECB wage tracker suggests slightly higher wage growth in 2027 versus 2026"
       },
       "sintesis": {
-        "es": "The Guardian reporta que VMO2 reducirá hasta el 25% de su plantilla de 16.000 trabajadores como parte de un recorte de costos, usando más IA en atención al cliente, para enfrentar una deuda de 22.000 millones de libras.",
-        "en": "The Guardian reports VMO2 will cut up to 25% of its 16,000 workforce as part of a cost-cutting drive using more AI in customer service, to tackle its £22bn debt pile."
+        "es": "El Banco Central Europeo publicó su rastreador salarial indicando un crecimiento salarial ligeramente superior en los primeros tres trimestres de 2027 comparado con el total de 2026.",
+        "en": "The European Central Bank published its wage tracker indicating slightly higher wage growth in the first three quarters of 2027 compared with the full year of 2026."
       },
-      "categoria": "tecnologia",
+      "categoria": "finanzas",
       "actores": [
-        "Virgin Media O2",
-        "Liberty Global",
-        "Telefónica"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 50,
-      "fuentes": [
-        "ev_86909f2eb4"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/a3edf1abc574582e2da993fd428b4934608d484a/315_0_2952_2362/master/2952.jpg?width=140&quality=85&auto=format&fit=max&s=d8e806f40b358115bc0e1a974c7bd720"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_86909f2eb4",
-          "titulo": "Virgin Media O2 to cut thousands of jobs as it plans £800m cost savings",
-          "url": "https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai",
-          "fuente": "The Guardian",
-          "fecha": "Tue, 03 Nov 2026 11:39:32 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0010",
-      "fecha": "2026-11-03",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Heimstaden transforma la gestión inmobiliaria con IA de OpenAI",
-        "en": "Heimstaden is changing residential real estate management with AI"
-      },
-      "sintesis": {
-        "es": "OpenAI anuncia que la empresa inmobiliaria Heimstaden usa ChatGPT Enterprise y Codex para transformar la gestión de propiedades, reducir costos y potenciar a empleados en Europa.",
-        "en": "OpenAI announces that real estate company Heimstaden uses ChatGPT Enterprise and Codex to transform property management, cut costs and empower employees across Europe."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "OpenAI",
-        "Heimstaden"
+        "Banco Central Europeo"
       ],
       "geo": {
         "lat": 0.0,
@@ -513,321 +207,76 @@
       },
       "impacto": 35,
       "fuentes": [
-        "ev_16e748e1b8"
+        "ev_c7ecae7ca3"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_16e748e1b8",
-          "titulo": "Heimstaden is changing residential real estate management with AI",
-          "url": "https://openai.com/index/heimstaden",
-          "fuente": "OpenAI",
-          "fecha": "Tue, 03 Nov 2026 08:00:00 GMT",
+          "id": "ev_c7ecae7ca3",
+          "titulo": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+          "fuente": "BCE",
+          "fecha": "Wed, 04 Nov 2026 01:00:00 +0100",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-03_0011",
-      "fecha": "2026-11-03",
-      "kardashev": "K2",
+      "id": "nd_2026-11-04_0004",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
       "relaciones": [
-        "nd_2026-11-03_0012",
-        "nd_2026-11-03_0013"
+        "nd_2026-11-04_0003"
       ]
     },
     {
       "titulo": {
-        "es": "OpenAI lanza el Grid Protectors Program para apoyar la fiabilidad de la red eléctrica",
-        "en": "OpenAI introduces Grid Protectors Program"
+        "es": "Paraguay interviene Ueno Bank y congela ahorros de millones de clientes",
+        "en": "Paraguay intervenes Ueno Bank, freezing savings of millions of customers"
       },
       "sintesis": {
-        "es": "OpenAI anuncia un programa para trabajar con compañías eléctricas y ayudar a que futuros campus de cómputo apoyen la fiabilidad de la red y protejan los costos de electricidad al consumidor.",
-        "en": "OpenAI announces a program to work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+        "es": "BBC Mundo reportó que Paraguay intervino Ueno Bank, uno de sus mayores bancos con 3 millones de clientes (60% de la población adulta) y más de 800 millones de dólares en fondos públicos gestionados.",
+        "en": "BBC Mundo reported Paraguay intervened Ueno Bank, one of its largest banks with 3 million customers (60% of adult population) managing over $800 million in public funds."
       },
-      "categoria": "tecnologia",
+      "categoria": "finanzas",
       "actores": [
-        "OpenAI"
+        "Ueno Bank"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 40,
+      "impacto": 65,
       "fuentes": [
-        "ev_ec4e8dbe19"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ec4e8dbe19",
-          "titulo": "Introducing the Grid Protectors Program",
-          "url": "https://openai.com/index/grid-protectors-program",
-          "fuente": "OpenAI",
-          "fecha": "Mon, 02 Nov 2026 15:00:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0012",
-      "fecha": "2026-11-03",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-03_0011",
-        "nd_2026-11-03_0013"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "OpenAI eleva recompensas de su programa de bug bounty de seguridad",
-        "en": "OpenAI raises security bug bounty rewards"
-      },
-      "sintesis": {
-        "es": "OpenAI anuncia el aumento de recompensas de su Security Bug Bounty e introduce bonificaciones por calidad de reportes, lealtad y campañas prioritarias para investigadores de seguridad independientes.",
-        "en": "OpenAI announces it is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "OpenAI"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 30,
-      "fuentes": [
-        "ev_6656883eb7"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_6656883eb7",
-          "titulo": "Rewarding defenders with bigger bug bounties",
-          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-          "fuente": "OpenAI",
-          "fecha": "Mon, 02 Nov 2026 18:00:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0013",
-      "fecha": "2026-11-03",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-03_0011",
-        "nd_2026-11-03_0012"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Precios del petróleo suben tras ataques de EE.UU. a la isla iraní de Qeshm",
-        "en": "Oil prices climb after US strikes Iran's Qeshm Island"
-      },
-      "sintesis": {
-        "es": "CNBC informa que los precios del petróleo repuntaron un día después de que los presidentes de EE.UU. e Irán señalaran apertura a una solución diplomática para la guerra en Irán.",
-        "en": "CNBC reports oil prices rebounded a day after the US and Iranian presidents signalled openness to a diplomatic solution to the Iran war."
-      },
-      "categoria": "recursos",
-      "actores": [],
-      "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_d92451fad4"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_d92451fad4",
-          "titulo": "Oil prices climb after U.S. strikes Iran's Qeshm Island",
-          "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-          "fuente": "CNBC",
-          "fecha": "Tue, 03 Nov 2026 09:58:37 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0014",
-      "fecha": "2026-11-03",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-03_0000",
-        "nd_2026-11-03_0001",
-        "nd_2026-11-03_0016"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Estratega petrolero ve punto de inflexión en el fuerte repunte del crudo",
-        "en": "Oil has had a massive run, but a prominent bull sees a turning point on midterm eve"
-      },
-      "sintesis": {
-        "es": "MarketWatch reporta que el estratega petrolero Jeff Currie recomienda tomar ganancias de la subida del crudo este año, aunque considera que el superciclo estructural sigue intacto.",
-        "en": "MarketWatch reports oil strategist Jeff Currie recommends cashing in gains from this year's crude rally, though he believes the structural supercycle remains intact."
-      },
-      "categoria": "recursos",
-      "actores": [],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_4d54f1a69d"
+        "ev_4a3cd99270"
       ],
       "imagenes": [
-        "https://images.mktw.net/im-90468775"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b123/live/8c1666c0-d7ca-11f1-a719-bf3dc3a3d5b5.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_4d54f1a69d",
-          "titulo": "Oil has had a massive run, but a prominent bull sees a turning point on midterm eve",
-          "url": "https://www.marketwatch.com/story/oil-has-had-a-massive-run-but-a-prominent-bull-sees-a-turning-point-on-midterm-eve-be2c5fa7?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Tue, 03 Nov 2026 10:54:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0015",
-      "fecha": "2026-11-03",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Ganancias de Aramco aumentan por fortalecimiento de márgenes de refinación en medio de guerra con Irán",
-        "en": "Aramco's profit rises as refining margins strengthen amid Iran war"
-      },
-      "sintesis": {
-        "es": "CNBC reporta que Saudi Aramco publicó resultados del tercer trimestre con ganancias al alza, impulsadas por mejores márgenes de refinación en el contexto del conflicto con Irán.",
-        "en": "CNBC reports Saudi Aramco posted third-quarter earnings with rising profits, driven by stronger refining margins amid the Iran conflict."
-      },
-      "categoria": "recursos",
-      "actores": [
-        "Saudi Aramco"
-      ],
-      "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_82a3a08b25"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_82a3a08b25",
-          "titulo": "Aramco's profit rises as refining margins strengthen amid Iran war",
-          "url": "https://www.cnbc.com/2026/11/03/saudi-aramcos-third-quarter-middle-east-.html",
-          "fuente": "CNBC",
-          "fecha": "Tue, 03 Nov 2026 07:24:47 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0016",
-      "fecha": "2026-11-03",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-03_0000",
-        "nd_2026-11-03_0001",
-        "nd_2026-11-03_0014"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Rusia deja a 180.000 personas sin luz en nuevo ataque a infraestructura energética ucraniana",
-        "en": "Russia leaves 180,000 people without power in new attack on Ukraine's energy infrastructure"
-      },
-      "sintesis": {
-        "es": "El País informa que el lanzamiento de casi 300 drones y 59 misiles rusos alcanzó cuatro centrales eléctricas en Vínnitsa, Dnipropetrovsk, Járkov y Odesa, dejando a 180.000 personas sin electricidad.",
-        "en": "El País reports the launch of nearly 300 drones and 59 Russian missiles hit four power plants in Vinnytsia, Dnipropetrovsk, Kharkiv and Odesa, leaving 180,000 people without power."
-      },
-      "categoria": "recursos",
-      "actores": [],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 70,
-      "fuentes": [
-        "ev_57e1308bee"
-      ],
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/B653W2YTHFCDPIA5SKV4WSQPJU.JPG?auth=54ac49d9a6cb76eb70f1a54c408f0edbd482c8488b7b1cb5cf7300dc4a6ecd75"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_57e1308bee",
-          "titulo": "Rusia deja a 180.000 personas sin luz en un nuevo ataque contra la infraestructura energética de Ucrania",
-          "url": "https://elpais.com/internacional/2026-11-03/rusia-deja-a-180000-personas-sin-luz-en-un-nuevo-ataque-contra-la-infraestructura-energetica-de-ucrania.html",
-          "fuente": "El País",
-          "fecha": "Tue, 03 Nov 2026 09:50:57 GMT",
+          "id": "ev_4a3cd99270",
+          "titulo": "Paraguay interviene Ueno Bank, uno de los mayores bancos del país, y deja congelados los ahorros de millones de clientes",
+          "url": "https://www.bbc.com/mundo/articles/ckx2qj89lggxo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Tue, 03 Nov 2026 21:28:19 GMT",
           "idioma": "es"
         }
       ],
-      "id": "nd_2026-11-03_0017",
-      "fecha": "2026-11-03",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-03_0002"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Líbano corta electricidad a organismos públicos mientras se agrava la crisis energética",
-        "en": "Lebanon cuts power to public bodies as electricity crisis deepens"
-      },
-      "sintesis": {
-        "es": "Al Jazeera informa que las disputas políticas y la guerra han agravado la crisis eléctrica del Líbano, con expertos señalando que son necesarias reformas más profundas.",
-        "en": "Al Jazeera reports political disputes and war have worsened Lebanon's electricity crisis, with experts saying deeper reforms are necessary."
-      },
-      "categoria": "recursos",
-      "actores": [],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_71bc3d72d7"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_71bc3d72d7",
-          "titulo": "Lebanon cuts power to public bodies as electricity crisis deepens",
-          "url": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Tue, 03 Nov 2026 10:17:27 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0018",
-      "fecha": "2026-11-03",
+      "id": "nd_2026-11-04_0005",
+      "fecha": "2026-11-04",
       "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Zona de baja presión podría formarse en el Atlántico occidental cerca de Bermudas",
-        "en": "Area of low pressure could form in western Atlantic near Bermuda"
+        "es": "NOAA monitorea sistema de baja presión con potencial subtropical en el Atlántico",
+        "en": "NOAA monitors low pressure system with subtropical potential in the Atlantic"
       },
       "sintesis": {
-        "es": "El Centro Nacional de Huracanes de la NOAA reporta una probabilidad baja (10% en 48h, 30% en 7 días) de desarrollo subtropical de un sistema cerca de Bermudas que luego se movería hacia el este.",
-        "en": "NOAA's National Hurricane Center reports a low chance (10% in 48 hours, 30% in 7 days) of subtropical development of a system near Bermuda, expected to move eastward later."
+        "es": "El Centro Nacional de Huracanes de NOAA reportó un área de baja presión al sur de Bermudas con 30% de probabilidad de formación en 48 horas y 50% en 7 días, pudiendo adquirir características subtropicales.",
+        "en": "NOAA's National Hurricane Center reported a low pressure area south of Bermuda with a 30% chance of formation in 48 hours and 50% in 7 days, potentially acquiring subtropical characteristics."
       },
       "categoria": "clima",
       "actores": [
@@ -839,7 +288,7 @@
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 25,
+      "impacto": 30,
       "fuentes": [
         "ev_1922f3f40d"
       ],
@@ -851,64 +300,186 @@
           "titulo": "Atlantic Tropical Weather Outlook",
           "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
           "fuente": "NOAA · Centro Nacional de Huracanes",
-          "fecha": "Tue, 03 Nov 2026 11:34:59 GMT",
+          "fecha": "Wed, 04 Nov 2026 11:49:41 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-03_0019",
-      "fecha": "2026-11-03",
+      "id": "nd_2026-11-04_0006",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "ONU advierte que financiamiento para adaptación climática en países pobres se ha estancado",
+        "en": "UN warns climate adaptation funding for poor countries has stalled"
+      },
+      "sintesis": {
+        "es": "Un informe de la ONU citado por The Guardian revela que los flujos de financiamiento para ayudar a países pobres a enfrentar la crisis climática han permanecido planos o cayendo desde 2022, muy por debajo de lo necesario.",
+        "en": "A UN report cited by The Guardian reveals climate finance flows to help poor countries cope with the climate crisis have been flat or falling since 2022, far below what is needed."
+      },
+      "categoria": "clima",
+      "actores": [
+        "ONU"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_0d8c766965"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/72e16338c427d7da42c2b6de385062cd5585495f/1094_465_3767_3013/master/3767.jpg?width=140&quality=85&auto=format&fit=max&s=d3979c1b97ab36ac8e45bac80c7ba3c2"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0d8c766965",
+          "titulo": "Funding to help poorer countries cope with climate crisis has stalled, says UN",
+          "url": "https://www.theguardian.com/global-development/2026/nov/04/funding-poorer-countries-climate-crisis-adaptation-un-report",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Wed, 04 Nov 2026 11:00:09 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0007",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Estudio revela que excremento de pingüinos acelera el derretimiento de nieve antártica",
+        "en": "Study finds penguin poo is accelerating Antarctic snow melt"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó un estudio que muestra que el guano de pingüinos alimenta floraciones de algas en la nieve antártica que absorben más energía solar, acelerando el derretimiento mientras las temperaturas suben.",
+        "en": "The Guardian reported a study showing penguin guano feeds algal blooms in Antarctic snow that absorb more solar energy, accelerating melt as temperatures rise."
+      },
+      "categoria": "clima",
+      "actores": [],
+      "geo": {
+        "lat": 78.0,
+        "lon": 15.0,
+        "region": "Artico"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_2c3e91f1ff"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/72a81acb2bacafc0d5ce6d56f7cc099ef9b46319/328_0_5264_4210/master/5264.jpg?width=140&quality=85&auto=format&fit=max&s=4d764eb41cc96b1bd8822e95a46ae379"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_2c3e91f1ff",
+          "titulo": "How penguin poo is making Antarctic snow melt faster",
+          "url": "https://www.theguardian.com/environment/2026/nov/04/how-penguin-poo-is-making-antarctic-snow-melt-faster",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Wed, 04 Nov 2026 06:00:27 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0008",
+      "fecha": "2026-11-04",
       "kardashev": "K2",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Ciclón Murasu toca tierra en la costa este de India",
-        "en": "Cyclone Murasu makes landfall on India's eastern coast"
+        "es": "Google lanza proyecto 'The Art of Looking' con el Instituto Courtauld",
+        "en": "Google launches 'The Art of Looking' project with the Courtauld Institute"
       },
       "sintesis": {
-        "es": "Al Jazeera informa que la tormenta ciclónica severa Murasu arrancó árboles y derribó líneas eléctricas, días después de que otro ciclón golpeara la misma región.",
-        "en": "Al Jazeera reports the severe cyclonic storm Murasu uprooted trees and downed power lines, days after another cyclone battered the same region."
+        "es": "Google anunció en su blog oficial un nuevo proyecto junto con Google Arts & Culture y el Instituto Courtauld de Arte para examinar obras de arte de nuevas maneras.",
+        "en": "Google announced on its official blog a new project with Google Arts & Culture and the Courtauld Institute of Art to examine artworks in new ways."
       },
-      "categoria": "clima",
-      "actores": [],
+      "categoria": "tecnologia",
+      "actores": [
+        "Google",
+        "Instituto Courtauld"
+      ],
       "geo": {
-        "lat": 20.6,
-        "lon": 79.0,
-        "region": "Asia Meridional"
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
       },
-      "impacto": 50,
+      "impacto": 20,
       "fuentes": [
-        "ev_116bac8688"
+        "ev_bc2f3f6f2d"
+      ],
+      "imagenes": [
+        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Courtauld_Gallery._Photo_Be.max-600x600.format-webp.webp"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_bc2f3f6f2d",
+          "titulo": "Take a closer look at art with the Courtauld",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
+          "fuente": "Google",
+          "fecha": "Wed, 04 Nov 2026 10:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0009",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Satélite meteorológico MetOp-SG-B1 preparado para lanzamiento en Guayana Francesa",
+        "en": "MetOp-SG-B1 weather satellite prepared for launch in French Guiana"
+      },
+      "sintesis": {
+        "es": "La Agencia Espacial Europea informó que el satélite MetOp Second Generation-B1 fue trasladado a una sala limpia en el Puerto Espacial de Europa, preparándose para su lanzamiento previsto hacia fin de año.",
+        "en": "The European Space Agency reported the MetOp Second Generation-B1 satellite was moved to a cleanroom at Europe's Spaceport, preparing for launch planned toward the end of the year."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Agencia Espacial Europea"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 30,
+      "fuentes": [
+        "ev_72371992ac"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_116bac8688",
-          "titulo": "Cyclone Murasu makes landfall on India’s eastern coast",
-          "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Tue, 03 Nov 2026 09:33:18 +0000",
+          "id": "ev_72371992ac",
+          "titulo": "Time to wake up MetOp-SG-B1 weather satellite",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite",
+          "fuente": "Agencia Espacial Europea",
+          "fecha": "Wed, 04 Nov 2026 10:10:00 +0100",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-03_0020",
-      "fecha": "2026-11-03",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-03_0025"
-      ]
+      "id": "nd_2026-11-04_0010",
+      "fecha": "2026-11-04",
+      "kardashev": "K2",
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "La intensa temporada de tormentas del Pacífico analizada por la NASA",
-        "en": "NASA examines the Pacific's busy storm season"
+        "es": "NASA publica imagen astronómica del día sobre galaxia IC 342",
+        "en": "NASA publishes astronomy picture of the day featuring galaxy IC 342"
       },
       "sintesis": {
-        "es": "NASA informa que el supertifón In-fa desarrolló un ojo inusualmente grande y los remanentes del tifón Champi se transformaron en una tormenta extratropical que afectó a Alaska.",
-        "en": "NASA reports Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska."
+        "es": "NASA publicó en su Astronomy Picture of the Day una imagen de la galaxia IC 342, conocida como 'la galaxia no tan oculta', con explicación de un astrónomo profesional.",
+        "en": "NASA published in its Astronomy Picture of the Day an image of galaxy IC 342, known as 'the not-so-hidden galaxy', with explanation from a professional astronomer."
       },
-      "categoria": "clima",
+      "categoria": "tecnologia",
       "actores": [
         "NASA"
       ],
@@ -917,238 +488,414 @@
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 40,
+      "impacto": 15,
       "fuentes": [
-        "ev_c6a561f828"
+        "ev_51f7fe3fdb"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_c6a561f828",
-          "titulo": "The Pacific’s Busy Storm Season",
-          "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+          "id": "ev_51f7fe3fdb",
+          "titulo": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
           "fuente": "NASA",
-          "fecha": "Tue, 03 Nov 2026 05:01:00 +0000",
+          "fecha": "Wed, 04 Nov 2026 05:05:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-03_0021",
-      "fecha": "2026-11-03",
-      "kardashev": "K2",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Súper Niño causa desastre en Galápagos y obliga a cerrar atracciones turísticas",
-        "en": "Super El Niño causes disaster in Galápagos, forcing closure of tourist attractions"
-      },
-      "sintesis": {
-        "es": "BBC informa que el gobierno ecuatoriano restringió el acceso a nueve playas y atractivos turísticos en las islas Santa Cruz, San Cristóbal e Isabela debido a daños causados por el fenómeno de El Niño.",
-        "en": "The BBC reports the Ecuadorian government restricted access to nine beaches and tourist attractions on Santa Cruz, San Cristóbal and Isabela islands due to damage caused by the El Niño phenomenon."
-      },
-      "categoria": "clima",
-      "actores": [
-        "Gobierno de Ecuador"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_c904de0faa"
-      ],
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a294/live/769a3ef0-d6b9-11f1-aacc-5b5f23abff4b.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_c904de0faa",
-          "titulo": "Las imágenes del desastre causado por el Súper Niño en Galápagos que obligó a cerrar atracciones turísticas y enviar ayuda de emergencia",
-          "url": "https://www.bbc.com/mundo/articles/cr3wv0pgg31vo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Mon, 02 Nov 2026 12:35:05 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-03_0022",
-      "fecha": "2026-11-03",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Sudáfrica llega a elecciones municipales en medio de escalada de violencia xenófoba",
-        "en": "South Africa heads to municipal elections amid escalating xenophobic violence"
-      },
-      "sintesis": {
-        "es": "El País informa que ataques contra migrantes y solicitantes de asilo obligaron a desplegar 510 militares y a tribunales a frenar marchas antiinmigración a un día de los comicios municipales.",
-        "en": "El País reports attacks against migrants and asylum seekers forced the deployment of 510 soldiers and courts to halt anti-immigration marches a day before municipal elections."
-      },
-      "categoria": "demografia",
-      "actores": [],
-      "geo": {
-        "lat": -30.6,
-        "lon": 22.9,
-        "region": "Africa Austral"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_7df9d9a698"
-      ],
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/2KZNE5M5OBO3JIOFTWGKRVNR5Y.jpg?auth=266bcb4951b9c122fdf470460db7a0524b8eda611ebd71490b93f7ed854a17f4"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_7df9d9a698",
-          "titulo": "Sudáfrica llega a las elecciones municipales en plena escalada de violencia xenófoba",
-          "url": "https://elpais.com/internacional/2026-11-03/sudafrica-llega-a-las-elecciones-municipales-en-plena-escalada-de-violencia-xenofoba.html",
-          "fuente": "El País",
-          "fecha": "Tue, 03 Nov 2026 04:30:01 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-03_0023",
-      "fecha": "2026-11-03",
-      "kardashev": "K1",
+      "id": "nd_2026-11-04_0011",
+      "fecha": "2026-11-04",
+      "kardashev": "K3",
       "relaciones": [
-        "nd_2026-11-03_0003"
+        "nd_2026-11-04_0012",
+        "nd_2026-11-04_0013"
       ]
     },
     {
       "titulo": {
-        "es": "Redadas de ICE en aumento marcan la recta final de la contienda del Congreso de California",
-        "en": "Surging ICE raids shadow final weeks of California congressional race"
+        "es": "NASA publica imagen nocturna del medio oeste de EE.UU. desde el espacio",
+        "en": "NASA publishes nighttime image of US Midwest from space"
       },
       "sintesis": {
-        "es": "Al Jazeera reporta que organizaciones locales y representantes señalan que las redadas migratorias han generado miedo e incertidumbre en las comunidades de California.",
-        "en": "Al Jazeera reports local organisations and representatives say immigration raids have spread fear and uncertainty through communities in California."
+        "es": "NASA Earth Observatory publicó una imagen tomada por astronautas mostrando las luces nocturnas del medio oeste de Estados Unidos con cielos despejados.",
+        "en": "NASA Earth Observatory published an image taken by astronauts showing nighttime lights of the US Midwest under clear skies."
       },
-      "categoria": "demografia",
+      "categoria": "tecnologia",
       "actores": [
-        "ICE"
+        "NASA"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 50,
+      "impacto": 15,
       "fuentes": [
-        "ev_46a3b10e94"
+        "ev_8b26573de8"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_46a3b10e94",
-          "titulo": "Surging ICE raids shadow final weeks of California congressional race",
-          "url": "https://www.aljazeera.com/news/2026/11/3/surging-ice-raids-shadow-final-weeks-of-california-congressional-race?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Tue, 03 Nov 2026 09:13:49 +0000",
+          "id": "ev_8b26573de8",
+          "titulo": "Before the Dawn in America’s Heartland",
+          "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
+          "fuente": "NASA",
+          "fecha": "Wed, 04 Nov 2026 05:01:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-03_0024",
-      "fecha": "2026-11-03",
+      "id": "nd_2026-11-04_0012",
+      "fecha": "2026-11-04",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-11-04_0011",
+        "nd_2026-11-04_0013"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Astronautas instalan nuevo panel solar en la Estación Espacial Internacional",
+        "en": "Astronauts install new solar array on the International Space Station"
+      },
+      "sintesis": {
+        "es": "NASA reportó que los astronautas Joshua Kutryk y Anil Menon instalaron un nuevo panel solar enrollable en la Estación Espacial Internacional durante una caminata espacial el 29 de octubre de 2026.",
+        "en": "NASA reported astronauts Joshua Kutryk and Anil Menon installed a new roll-out solar array on the International Space Station during an October 29, 2026 spacewalk."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "NASA",
+        "Agencia Espacial Canadiense"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 30,
+      "fuentes": [
+        "ev_eb56518c9d"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_eb56518c9d",
+          "titulo": "Astronaut and Earth",
+          "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+          "fuente": "NASA",
+          "fecha": "Tue, 03 Nov 2026 16:37:42 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0013",
+      "fecha": "2026-11-04",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-11-04_0011",
+        "nd_2026-11-04_0012"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Entradas de refinación global cayeron fuertemente en segundo trimestre de 2026 por conflicto en Medio Oriente",
+        "en": "Global refinery inputs fell sharply in Q2 2026 due to Middle East conflict"
+      },
+      "sintesis": {
+        "es": "La EIA reportó que las entradas globales de refinación de petróleo crudo cayeron 4,8 millones de barriles diarios (6%) en el segundo trimestre de 2026 tras el inicio del conflicto en Medio Oriente, con recuperación parcial de 1,8 millones b/d en el tercer trimestre.",
+        "en": "The EIA reported global crude oil refinery inputs fell by 4.8 million barrels per day (6%) in Q2 2026 following the start of Middle East conflict, with partial recovery of 1.8 million b/d in Q3."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "EIA",
+        "Kpler"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_da539d39be"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_da539d39be",
+          "titulo": "Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68404",
+          "fuente": "EIA",
+          "fecha": "Tue, 3 Nov 2026  09:00:00 EST",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0014",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral",
+        "en": "Israel's election commission rejects Netanyahu's claims of voting fraud"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó que la comisión electoral de Israel confirmó los resultados finales de las elecciones del 27 de octubre que despojaron a la coalición de Netanyahu de su mayoría, rechazando sus acusaciones de fraude masivo.",
+        "en": "The Guardian reported Israel's election commission confirmed final results of the October 27 vote that stripped Netanyahu's coalition of its majority, rejecting his claims of mass fraud."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Benjamin Netanyahu",
+        "Gadi Eisenkot"
+      ],
+      "geo": {
+        "lat": 31.0,
+        "lon": 34.9,
+        "region": "Oriente Medio"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_3eba771715"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/288a15e92c7bafcb3600eb1b2d8e20cc71573794/291_0_3027_2421/master/3027.jpg?width=140&quality=85&auto=format&fit=max&s=ea9e9485765618f79b2b7718417f1089"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_3eba771715",
+          "titulo": "Israel’s election commission rejects Netanyahu claims of voting fraud",
+          "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 04 Nov 2026 12:19:18 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0015",
+      "fecha": "2026-11-04",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-04_0016"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Trump anuncia que EE. UU. suspenderá ayuda militar de 4.000 millones de dólares a Israel a fin de año",
+        "en": "Trump announces US will suspend $4 billion military aid to Israel by year end"
+      },
+      "sintesis": {
+        "es": "El País reportó que Trump afirmó haber acordado con Netanyahu suspender a fin de año los 4.000 millones de dólares de ayuda militar a Israel, aunque el pacto vigente no expira hasta 2028 y requiere aprobación del Congreso.",
+        "en": "El País reported Trump said he agreed with Netanyahu to suspend $4 billion in military aid to Israel by year end, though the current agreement does not expire until 2028 and requires Congress approval."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Donald Trump",
+        "Benjamin Netanyahu"
+      ],
+      "geo": {
+        "lat": 31.0,
+        "lon": 34.9,
+        "region": "Oriente Medio"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_1790fb2d68"
+      ],
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/ITSHTD4ZLRKOHP64G4QNTVIWNM.jpg?auth=9388b03fb0915e460dda741c75a3d81c0dd5825a15589c2ee78dde537a0d020b"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_1790fb2d68",
+          "titulo": "Trump asegura que suspenderá a final de año los 4.000 millones de dólares de ayuda militar a Israel",
+          "url": "https://elpais.com/internacional/2026-11-03/trump-dice-que-suspendera-4000-millones-de-dolares-en-ayuda-a-israel.html",
+          "fuente": "El País",
+          "fecha": "Tue, 03 Nov 2026 19:00:03 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-04_0016",
+      "fecha": "2026-11-04",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-04_0000",
+        "nd_2026-11-04_0015"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Equipo del ejército de Ruanda excluido de liga africana tras sanciones de EE. UU.",
+        "en": "Rwanda's army team removed from Africa league after US sanctions"
+      },
+      "sintesis": {
+        "es": "BBC News reportó que el equipo del ejército de Ruanda fue removido de una liga deportiva africana por la NBA, después de que EE. UU. impusiera sanciones al ejército ruandés por su papel en el conflicto en RD Congo.",
+        "en": "BBC News reported Rwanda's army team was removed from an African sports league by the NBA, after the US imposed sanctions on Rwanda's army over its role in the DR Congo conflict."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "NBA",
+        "Ejército de Ruanda"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_69e79c5571"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6062/live/1ba36940-d830-11f1-be97-417dbcdedd32.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_69e79c5571",
+          "titulo": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+          "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Wed, 04 Nov 2026 11:46:09 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0017",
+      "fecha": "2026-11-04",
       "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "India redujo en 500 millones el número de personas en pobreza extrema, aunque crece la desigualdad",
-        "en": "How India pulled 500 million people out of poverty, as inequality deepens"
+        "es": "Asedio hutí de un mes a Taiz genera crisis humanitaria en Yemen",
+        "en": "Houthis' monthlong siege on Taiz creating humanitarian crisis in Yemen"
       },
       "sintesis": {
-        "es": "Al Jazeera informa que, según el Banco Mundial, la pobreza extrema en India cayó de 27,1% a 2,6% entre 2011 y 2023, aunque persisten crecientes desigualdades.",
-        "en": "Al Jazeera reports that according to the World Bank, India's extreme poverty fell from 27.1% to 2.6% between 2011 and 2023, though inequality continues to deepen."
+        "es": "Al Jazeera reportó que el bloqueo hutí sobre Taiz, Yemen, de más de un mes genera advertencias de 'catástrofe' al impedir que lleguen alimentos, agua, combustible y suministros médicos a la ciudad.",
+        "en": "Al Jazeera reported the Houthi blockade on Taiz, Yemen, lasting over a month prompts warnings of 'catastrophe' as food, water, fuel and medical supplies cannot reach the city."
       },
-      "categoria": "demografia",
+      "categoria": "geopolitica",
       "actores": [
-        "Banco Mundial"
-      ],
-      "geo": {
-        "lat": 20.6,
-        "lon": 79.0,
-        "region": "Asia Meridional"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_d1ff764db7"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_d1ff764db7",
-          "titulo": "How India pulled 500 million people out of poverty, as inequality deepens",
-          "url": "https://www.aljazeera.com/news/2026/11/3/how-india-pulled-500-million-people-out-of-poverty-as-inequality-deepens?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Tue, 03 Nov 2026 11:30:34 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-03_0025",
-      "fecha": "2026-11-03",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-03_0020"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Desplazados de Sudán regresan a nuevos desafíos en Jartum devastada por la guerra",
-        "en": "Sudan's displaced return to new challenges in war-battered Khartoum"
-      },
-      "sintesis": {
-        "es": "Al Jazeera informa que la capital sudanesa fue una de las primeras y más afectadas zonas por la guerra entre las SAF y las RSF, y ahora recibe el regreso de desplazados ante nuevos retos.",
-        "en": "Al Jazeera reports the Sudanese capital was one of the first and worst-hit areas by the war between the SAF and the RSF, and is now receiving returning displaced people facing new challenges."
-      },
-      "categoria": "demografia",
-      "actores": [
-        "SAF",
-        "RSF"
+        "Houthis"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 45,
+      "impacto": 55,
       "fuentes": [
-        "ev_35ddb987aa"
+        "ev_1b718fcf2b"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_35ddb987aa",
-          "titulo": "Sudan’s displaced return to new challenges in war-battered Khartoum",
-          "url": "https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum?traffic_source=rss",
+          "id": "ev_1b718fcf2b",
+          "titulo": "Houthis’ monthlong siege on Taiz creating misery for trapped Yemenis",
+          "url": "https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Tue, 03 Nov 2026 09:18:48 +0000",
+          "fecha": "Wed, 04 Nov 2026 10:44:46 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-03_0026",
-      "fecha": "2026-11-03",
-      "kardashev": "K2",
+      "id": "nd_2026-11-04_0018",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Mapas y gráficos muestran patrones de voto en elecciones de medio mandato de EE. UU.",
+        "en": "How America voted in maps and charts in US midterm elections"
+      },
+      "sintesis": {
+        "es": "BBC News publicó un análisis con mapas y gráficos que muestran cómo votaron los distintos estados y demografías en las elecciones de medio mandato estadounidenses.",
+        "en": "BBC News published an analysis with maps and charts showing how different states and demographics voted in the US midterm elections."
+      },
+      "categoria": "demografia",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 35,
+      "fuentes": [
+        "ev_c9c1c8f981"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c9c1c8f981",
+          "titulo": "How America voted in maps and charts",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Wed, 04 Nov 2026 09:53:18 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0019",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Sudafricanos expresan cansancio ante mala calidad de servicios en elecciones locales",
+        "en": "South Africans express fatigue over poor services quality in local elections"
+      },
+      "sintesis": {
+        "es": "BBC News reportó que, mientras los sudafricanos votan en elecciones locales, residentes expresaron a la cadena su cansancio ante la mala calidad de los servicios públicos que reciben, presionando al ANC.",
+        "en": "BBC News reported that as South Africans vote in local elections, residents told the broadcaster they are tired of poor quality public services, pressuring the ANC."
+      },
+      "categoria": "demografia",
+      "actores": [
+        "ANC"
+      ],
+      "geo": {
+        "lat": -30.6,
+        "lon": 22.9,
+        "region": "Africa Austral"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_2c5dab65ca"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_2c5dab65ca",
+          "titulo": "ANC under pressure to reverse South Africa decline",
+          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Wed, 04 Nov 2026 11:47:44 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0020",
+      "fecha": "2026-11-04",
+      "kardashev": "K0",
       "relaciones": []
     }
   ],
-  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-03\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Alaska\", \"Atlántico occidental\", \"Bermudas\", \"California\", \"Carolina del Norte\", \"Dnipropetrovsk\", \"Estrecho de Ormuz\", \"Galápagos\", \"Isabela\", \"Isla de Qeshm\", \"Jartum\", \"Járkov\", \"Komyshuvakha\", \"Odesa\", \"Ohio\", \"Pacífico\", \"San Cristóbal\", \"Santa Cruz\", \"Sáhara Occidental\", \"Virginia Occidental\", \"Vínnitsa\", \"Washington D.C.\", \"Yorkshire del Norte\", \"Zaporiyia\", \"costa este de India\"]\npaises: [\"Arabia Saudita\", \"Australia\", \"Ecuador\", \"Estados Unidos\", \"Europa\", \"India\", \"Irán\", \"Líbano\", \"Marruecos\", \"Reino Unido\", \"Ruanda\", \"Rusia\", \"Sudáfrica\", \"Sudán\", \"Ucrania\"]\nentidades: [\"AGOA\", \"Banco Mundial\", \"Banco de Inglaterra\", \"Blackstone\", \"Brookfield\", \"Centro Nacional de Huracanes\", \"Donald Trump\", \"Drax\", \"Financial Conduct Authority\", \"Gobierno de Ecuador\", \"Gobierno de Estados Unidos\", \"Heimstaden\", \"ICE\", \"Liberty Global\", \"Minurso\", \"NASA\", \"NOAA\", \"Nasdaq-100\", \"ONU\", \"OpenAI\", \"Partido Demócrata\", \"Partido Republicano\", \"Prudential Regulation Authority\", \"RSF\", \"Radiant\", \"Reserve Bank of Australia\", \"SAF\", \"Saudi Aramco\", \"Telefónica\", \"Virgin Media O2\", \"Volodímir Zelenski\"]\ntemas: [\"El Niño\", \"Irán\", \"aranceles\", \"ataques a infraestructura\", \"ataques militares\", \"centros de datos\", \"ciberseguridad\", \"ciclón\", \"clima\", \"comercio\", \"conflicto\", \"cooperativas de crédito\", \"corrección bursátil\", \"crisis económica\", \"crisis humanitaria\", \"desarrollo\", \"desastre natural\", \"descolonización\", \"desigualdad\", \"desplazamiento\", \"deuda\", \"diplomacia\", \"economía\", \"elecciones\", \"empleo\", \"energía\", \"financiamiento\", \"guerra\", \"huracanes\", \"inflación\", \"infraestructura\", \"inmigración\", \"inmobiliario\", \"inteligencia artificial\", \"mercados\", \"mercados de materias primas\", \"midterms\", \"migración\", \"petróleo\", \"pobreza\", \"política monetaria\", \"pronóstico\", \"regulación financiera\", \"sanciones\", \"tasas de interés\", \"telecomunicaciones\", \"tifones\", \"turismo\", \"xenofobia\"]\nbucles_activos: []\ncorte: \"2026-11-03T12:26:19.494210+00:00\"\ninicio_ventana: \"2026-11-02T12:26:19.494210+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-03\n\n## Resumen del día\n\nEl día combina escalada militar (ataque de EE.UU. a la isla iraní de Qeshm, bombardeo ruso masivo a infraestructura energética y un centro de ayuda en Ucrania) con tensión política en EE.UU. por las midterms y jugadas comerciales de Washington contra Ruanda y Sudáfrica.\nEn finanzas, la Fed de Australia volvió a subir tasas y el Nasdaq-100 entró en su tercera corrección del año por dudas sobre el gasto en IA, mientras Blackstone pide más capital propio para financiar infraestructura de IA.\nEn tecnología destaca la expansión de centros de datos de IA en el Reino Unido (Drax) y recortes de empleo ligados a IA en telecomunicaciones (VMO2), junto con nuevas iniciativas de OpenAI en energía y ciberseguridad.\nEl petróleo subió tras los ataques a Qeshm, con Aramco reportando mayores ganancias por márgenes de refinación en medio de la guerra con Irán, mientras Rusia dejó sin electricidad a 180.000 personas en Ucrania.\nEn demografía, la violencia xenófoba marca las elecciones municipales de Sudáfrica y las redadas de ICE tensionan la contienda electoral en California, sin que estos hechos se conecten documentalmente con los bucles financieros del día.\n\nVentana de 24 horas hasta 2026-11-03T12:26:19.494210+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, imf, iom, unhcr, usda, bis, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_1922f3f40d\"></a>\n1. Zona de baja presión podría formarse en el Atlántico occidental cerca de Bermudas — El Centro Nacional de Huracanes de la NOAA reporta una probabilidad baja (10% en 48h, 30% en 7 días) de desarrollo subtropical de un sistema cerca de Bermudas que luego se movería hacia el este. — [NOAA · Centro Nacional de Huracanes, Tue, 03 Nov 2026 11:34:59 GMT](https://www.nhc.noaa.gov/gtwo.php?basin=atlc) · oficial.\n\n<a id=\"ev_116bac8688\"></a>\n2. Ciclón Murasu toca tierra en la costa este de India — Al Jazeera informa que la tormenta ciclónica severa Murasu arrancó árboles y derribó líneas eléctricas, días después de que otro ciclón golpeara la misma región. — [Al Jazeera, Tue, 03 Nov 2026 09:33:18 +0000](https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss) · medio.\n\n<a id=\"ev_c6a561f828\"></a>\n3. La intensa temporada de tormentas del Pacífico analizada por la NASA — NASA informa que el supertifón In-fa desarrolló un ojo inusualmente grande y los remanentes del tifón Champi se transformaron en una tormenta extratropical que afectó a Alaska. — [NASA, Tue, 03 Nov 2026 05:01:00 +0000](https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/) · oficial.\n\n<a id=\"ev_c904de0faa\"></a>\n4. Súper Niño causa desastre en Galápagos y obliga a cerrar atracciones turísticas — BBC informa que el gobierno ecuatoriano restringió el acceso a nueve playas y atractivos turísticos en las islas Santa Cruz, San Cristóbal e Isabela debido a daños causados por el fenómeno de El Niño. — [BBC Mundo, Mon, 02 Nov 2026 12:35:05 GMT](https://www.bbc.com/mundo/articles/cr3wv0pgg31vo?at_medium=RSS&at_campaign=rss) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_2e0e8cca7d\"></a>\n1. Central eléctrica contaminante de Drax albergará el mayor centro de datos de IA del Reino Unido — The Guardian informa que Drax firmó un acuerdo de 20.000 millones de libras con Brookfield y Radiant para construir un centro de datos de IA de más de 1 gigavatio en Yorkshire del Norte, operativo en 2028. — [The Guardian, Tue, 03 Nov 2026 11:55:28 GMT](https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre) · medio.\n\n<a id=\"ev_86909f2eb4\"></a>\n2. Virgin Media O2 recortará miles de empleos en plan de ahorro de 800 millones de libras vinculado a IA — The Guardian reporta que VMO2 reducirá hasta el 25% de su plantilla de 16.000 trabajadores como parte de un recorte de costos, usando más IA en atención al cliente, para enfrentar una deuda de 22.000 millones de libras. — [The Guardian, Tue, 03 Nov 2026 11:39:32 GMT](https://www.theguardian.com/business/2026/nov/03/virgin-media-o2-cut-jobs-cost-savings-telecoms-ai) · medio.\n\n<a id=\"ev_16e748e1b8\"></a>\n3. Heimstaden transforma la gestión inmobiliaria con IA de OpenAI — OpenAI anuncia que la empresa inmobiliaria Heimstaden usa ChatGPT Enterprise y Codex para transformar la gestión de propiedades, reducir costos y potenciar a empleados en Europa. — [OpenAI, Tue, 03 Nov 2026 08:00:00 GMT](https://openai.com/index/heimstaden) · oficial.\n\n<a id=\"ev_ec4e8dbe19\"></a>\n4. OpenAI lanza el Grid Protectors Program para apoyar la fiabilidad de la red eléctrica — OpenAI anuncia un programa para trabajar con compañías eléctricas y ayudar a que futuros campus de cómputo apoyen la fiabilidad de la red y protejan los costos de electricidad al consumidor. — [OpenAI, Mon, 02 Nov 2026 15:00:00 GMT](https://openai.com/index/grid-protectors-program) · oficial.\n\n<a id=\"ev_6656883eb7\"></a>\n5. OpenAI eleva recompensas de su programa de bug bounty de seguridad — OpenAI anuncia el aumento de recompensas de su Security Bug Bounty e introduce bonificaciones por calidad de reportes, lealtad y campañas prioritarias para investigadores de seguridad independientes. — [OpenAI, Mon, 02 Nov 2026 18:00:00 GMT](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties) · oficial.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_d92451fad4\"></a>\n1. Precios del petróleo suben tras ataques de EE.UU. a la isla iraní de Qeshm — CNBC informa que los precios del petróleo repuntaron un día después de que los presidentes de EE.UU. e Irán señalaran apertura a una solución diplomática para la guerra en Irán. — [CNBC, Tue, 03 Nov 2026 09:58:37 GMT](https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html) · medio.\n\n<a id=\"ev_4d54f1a69d\"></a>\n2. Estratega petrolero ve punto de inflexión en el fuerte repunte del crudo — MarketWatch reporta que el estratega petrolero Jeff Currie recomienda tomar ganancias de la subida del crudo este año, aunque considera que el superciclo estructural sigue intacto. — [MarketWatch, Tue, 03 Nov 2026 10:54:00 GMT](https://www.marketwatch.com/story/oil-has-had-a-massive-run-but-a-prominent-bull-sees-a-turning-point-on-midterm-eve-be2c5fa7?mod=mw_rss_topstories) · medio.\n\n<a id=\"ev_82a3a08b25\"></a>\n3. Ganancias de Aramco aumentan por fortalecimiento de márgenes de refinación en medio de guerra con Irán — CNBC reporta que Saudi Aramco publicó resultados del tercer trimestre con ganancias al alza, impulsadas por mejores márgenes de refinación en el contexto del conflicto con Irán. — [CNBC, Tue, 03 Nov 2026 07:24:47 GMT](https://www.cnbc.com/2026/11/03/saudi-aramcos-third-quarter-middle-east-.html) · medio.\n\n<a id=\"ev_57e1308bee\"></a>\n4. Rusia deja a 180.000 personas sin luz en nuevo ataque a infraestructura energética ucraniana — El País informa que el lanzamiento de casi 300 drones y 59 misiles rusos alcanzó cuatro centrales eléctricas en Vínnitsa, Dnipropetrovsk, Járkov y Odesa, dejando a 180.000 personas sin electricidad. — [El País, Tue, 03 Nov 2026 09:50:57 GMT](https://elpais.com/internacional/2026-11-03/rusia-deja-a-180000-personas-sin-luz-en-un-nuevo-ataque-contra-la-infraestructura-energetica-de-ucrania.html) · medio.\n\n<a id=\"ev_71bc3d72d7\"></a>\n5. Líbano corta electricidad a organismos públicos mientras se agrava la crisis energética — Al Jazeera informa que las disputas políticas y la guerra han agravado la crisis eléctrica del Líbano, con expertos señalando que son necesarias reformas más profundas. — [Al Jazeera, Tue, 03 Nov 2026 10:17:27 +0000](https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens?traffic_source=rss) · medio.\n\n## 4. Cadenas de Suministro\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 5. Geopolítica\n\n<a id=\"ev_9499bc15ec\"></a>\n1. Estadounidenses votan en elecciones de medio mandato vistas como referéndum sobre Trump — The Guardian reporta que los centros de votación abrieron en EE.UU. en comicios que definirán el control del Congreso, con la economía, Irán e inmigración como temas centrales de campaña. — [The Guardian, Tue, 03 Nov 2026 12:13:50 GMT](https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting) · medio.\n\n<a id=\"ev_76a64d8476\"></a>\n2. EE.UU. ataca la isla iraní de Qeshm en vísperas de las elecciones de medio mandato — Según BBC, funcionarios estadounidenses describieron los ataques en la isla de Qeshm como limitados y defensivos, en el marco de tensiones con Irán por el estrecho de Ormuz. — [BBC News, Tue, 03 Nov 2026 11:33:33 GMT](https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_a774fd7f32\"></a>\n3. Rusia bombardea centro de ayuda y refugio en Ucrania matando al menos 29 personas — The Guardian informa que Rusia lanzó 289 drones, 17 misiles balísticos y 59 misiles crucero sobre nueve regiones ucranianas, dañando hospitales y centrales eléctricas, según Zelenskyy. — [The Guardian, Tue, 03 Nov 2026 10:37:57 GMT](https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha) · medio.\n\n<a id=\"ev_7b1f2481ca\"></a>\n4. Trump retira a Ruanda y Sudáfrica del acuerdo comercial AGOA — BBC informa que la Administración Trump excluirá a Ruanda y Sudáfrica de los beneficios de la Ley de Crecimiento y Oportunidades para África desde 2027, tras sanciones previas al ministerio ruandés de Defensa. — [BBC News, Tue, 03 Nov 2026 10:26:26 GMT](https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_92cb8754e6\"></a>\n5. Fin de la misión de paz de la ONU en el Sáhara Occidental tras 35 años — BBC reporta que un impasse entre EE.UU. y Rusia en la ONU llevó al fin de la misión de paz Minurso en el Sáhara Occidental, un desenlace celebrado por Marruecos. — [BBC News, Tue, 03 Nov 2026 07:29:46 GMT](https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_f4d6b3a221\"></a>\n1. Banco de la Reserva de Australia sube tasas a máximo de 18 años para combatir la inflación — The Guardian informa que el RBA elevó la tasa de efectivo oficial a 4,85%, el nivel más alto desde 2008, en su quinto incremento de 2026, según la gobernadora Michele Bullock. — [The Guardian, Tue, 03 Nov 2026 07:36:42 GMT](https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia) · medio.\n\n<a id=\"ev_41b39fedba\"></a>\n2. Nasdaq-100 entra en su tercera corrección del año por temores sobre la IA — MarketWatch reporta que el índice Nasdaq-100 cayó a territorio de corrección por tercera vez en 2026, en medio de un 'tech wreck' iniciado en octubre vinculado a dudas sobre la inteligencia artificial. — [MarketWatch, Tue, 03 Nov 2026 11:56:00 GMT](https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories) · medio.\n\n<a id=\"ev_a479759e68\"></a>\n3. Presidente de Blackstone pide más capital propio para financiar expansión de IA ante riesgos de deuda — CNBC reporta que Jon Gray, presidente de Blackstone, advirtió que la infraestructura de IA necesita más financiamiento con capital propio ante riesgos de concentración en inversores de deuda. — [CNBC, Tue, 03 Nov 2026 06:46:36 GMT](https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html) · medio.\n\n<a id=\"ev_d0e3e2413d\"></a>\n4. Reguladores británicos exploran reformas para cooperativas de crédito — El Banco de Inglaterra anuncia que la Autoridad de Regulación Prudencial y la Autoridad de Conducta Financiera propusieron ideas para ayudar a las cooperativas de crédito a crecer e innovar. — [Banco de Inglaterra, Tue, 03 Nov 2026 10:00:00 Z](https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members) · oficial.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_7df9d9a698\"></a>\n1. Sudáfrica llega a elecciones municipales en medio de escalada de violencia xenófoba — El País informa que ataques contra migrantes y solicitantes de asilo obligaron a desplegar 510 militares y a tribunales a frenar marchas antiinmigración a un día de los comicios municipales. — [El País, Tue, 03 Nov 2026 04:30:01 GMT](https://elpais.com/internacional/2026-11-03/sudafrica-llega-a-las-elecciones-municipales-en-plena-escalada-de-violencia-xenofoba.html) · medio.\n\n<a id=\"ev_46a3b10e94\"></a>\n2. Redadas de ICE en aumento marcan la recta final de la contienda del Congreso de California — Al Jazeera reporta que organizaciones locales y representantes señalan que las redadas migratorias han generado miedo e incertidumbre en las comunidades de California. — [Al Jazeera, Tue, 03 Nov 2026 09:13:49 +0000](https://www.aljazeera.com/news/2026/11/3/surging-ice-raids-shadow-final-weeks-of-california-congressional-race?traffic_source=rss) · medio.\n\n<a id=\"ev_d1ff764db7\"></a>\n3. India redujo en 500 millones el número de personas en pobreza extrema, aunque crece la desigualdad — Al Jazeera informa que, según el Banco Mundial, la pobreza extrema en India cayó de 27,1% a 2,6% entre 2011 y 2023, aunque persisten crecientes desigualdades. — [Al Jazeera, Tue, 03 Nov 2026 11:30:34 +0000](https://www.aljazeera.com/news/2026/11/3/how-india-pulled-500-million-people-out-of-poverty-as-inequality-deepens?traffic_source=rss) · medio.\n\n<a id=\"ev_35ddb987aa\"></a>\n4. Desplazados de Sudán regresan a nuevos desafíos en Jartum devastada por la guerra — Al Jazeera informa que la capital sudanesa fue una de las primeras y más afectadas zonas por la guerra entre las SAF y las RSF, y ahora recibe el regreso de desplazados ante nuevos retos. — [Al Jazeera, Tue, 03 Nov 2026 09:18:48 +0000](https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum?traffic_source=rss) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Con movimiento — El ataque de EE.UU. a la isla iraní de Qeshm (geopolítica) elevó de inmediato los precios del petróleo (recursos), según CNBC, mostrando cómo la acción militar se traduce en presión directa sobre el recurso energético. [ev_76a64d8476](#ev_76a64d8476) [ev_d92451fad4](#ev_d92451fad4)\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Posibilidad de que el resultado de las elecciones de medio mandato en EE.UU. redefina el control del Congreso y afecte la agenda sobre Irán e inmigración. [ev_9499bc15ec](#ev_9499bc15ec)\n- Posibilidad de escalada adicional entre EE.UU. e Irán tras el ataque a la isla de Qeshm, con impacto en el estrecho de Ormuz y precios del crudo. [ev_76a64d8476](#ev_76a64d8476) [ev_d92451fad4](#ev_d92451fad4)\n- Posibilidad de nuevas correcciones bursátiles en tecnológicas si persisten las dudas sobre la sostenibilidad del gasto en infraestructura de IA. [ev_41b39fedba](#ev_41b39fedba) [ev_a479759e68](#ev_a479759e68)\n- Posibilidad de que la violencia xenófoba en Sudáfrica se intensifique tras las elecciones municipales, con implicaciones para la estabilidad social. [ev_7df9d9a698](#ev_7df9d9a698)\n- Posibilidad de que la exclusión de Ruanda y Sudáfrica del AGOA desde 2027 reconfigure flujos comerciales regionales con EE.UU. [ev_7b1f2481ca](#ev_7b1f2481ca)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-10-29T15:59:00+00:00 |\n| OpenAI | oficial | Disponible | 5 | 2026-11-03T08:00:00+00:00 |\n| NASA | oficial | Disponible | 8 | 2026-11-03T05:05:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 0 | 2026-10-30T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-10-30T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-02T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 0 | 2026-10-29T20:30:00+00:00 |\n| BCE | oficial | Disponible | 0 | 2026-11-02T09:30:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 3 | 2026-11-03T14:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-10-29T17:00:55+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | Disponible | 0 | 2026-11-02T08:55:00+00:00 |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-10-09T15:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-04T23:34:59+00:00 |\n| NASA · Comunicados | oficial | Disponible | 8 | 2026-11-03T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-10-29T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | No disponible | 0 | Sin fecha verificable |\n| Banco de Inglaterra | oficial | Disponible | 1 | 2026-11-03T10:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-02T05:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-10-28T15:23:22+00:00 |\n| BBC News | medio | Disponible | 23 | 2026-11-03T12:09:20+00:00 |\n| BBC Mundo | medio | Disponible | 18 | 2026-11-03T11:58:03+00:00 |\n| CNN | medio | Disponible | 136 | 2026-11-03T12:00:15.064000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-03T04:03:50+00:00 |\n| The Guardian | medio | Disponible | 24 | 2026-11-03T12:13:50+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-03T11:30:34+00:00 |\n| El País | medio | Disponible | 18 | 2026-11-03T12:08:04+00:00 |\n| CNBC | medio | Disponible | 30 | 2026-11-03T12:19:01+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-10-07T17:06:26+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-03T12:22:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 5 | 2026-11-03T11:55:28+00:00 |\n| BBC · Tecnología | medio | Disponible | 4 | 2026-11-03T11:32:47+00:00 |\n| BBC · Economía | medio | Disponible | 15 | 2026-11-03T12:07:59+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-03\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Alaska\", \"Atlántico occidental\", \"Bermudas\", \"California\", \"Carolina del Norte\", \"Dnipropetrovsk\", \"Estrecho de Ormuz\", \"Galápagos\", \"Isabela\", \"Isla de Qeshm\", \"Jartum\", \"Járkov\", \"Komyshuvakha\", \"Odesa\", \"Ohio\", \"Pacífico\", \"San Cristóbal\", \"Santa Cruz\", \"Sáhara Occidental\", \"Virginia Occidental\", \"Vínnitsa\", \"Washington D.C.\", \"Yorkshire del Norte\", \"Zaporiyia\", \"costa este de India\"]\npaises: [\"Arabia Saudita\", \"Australia\", \"Ecuador\", \"Estados Unidos\", \"Europa\", \"India\", \"Irán\", \"Líbano\", \"Marruecos\", \"Reino Unido\", \"Ruanda\", \"Rusia\", \"Sudáfrica\", \"Sudán\", \"Ucrania\"]\nentidades: [\"AGOA\", \"Banco Mundial\", \"Banco de Inglaterra\", \"Blackstone\", \"Brookfield\", \"Centro Nacional de Huracanes\", \"Donald Trump\", \"Drax\", \"Financial Conduct Authority\", \"Gobierno de Ecuador\", \"Gobierno de Estados Unidos\", \"Heimstaden\", \"ICE\", \"Liberty Global\", \"Minurso\", \"NASA\", \"NOAA\", \"Nasdaq-100\", \"ONU\", \"OpenAI\", \"Partido Demócrata\", \"Partido Republicano\", \"Prudential Regulation Authority\", \"RSF\", \"Radiant\", \"Reserve Bank of Australia\", \"SAF\", \"Saudi Aramco\", \"Telefónica\", \"Virgin Media O2\", \"Volodímir Zelenski\"]\ntemas: [\"El Niño\", \"Irán\", \"aranceles\", \"ataques a infraestructura\", \"ataques militares\", \"centros de datos\", \"ciberseguridad\", \"ciclón\", \"clima\", \"comercio\", \"conflicto\", \"cooperativas de crédito\", \"corrección bursátil\", \"crisis económica\", \"crisis humanitaria\", \"desarrollo\", \"desastre natural\", \"descolonización\", \"desigualdad\", \"desplazamiento\", \"deuda\", \"diplomacia\", \"economía\", \"elecciones\", \"empleo\", \"energía\", \"financiamiento\", \"guerra\", \"huracanes\", \"inflación\", \"infraestructura\", \"inmigración\", \"inmobiliario\", \"inteligencia artificial\", \"mercados\", \"mercados de materias primas\", \"midterms\", \"migración\", \"petróleo\", \"pobreza\", \"política monetaria\", \"pronóstico\", \"regulación financiera\", \"sanciones\", \"tasas de interés\", \"telecomunicaciones\", \"tifones\", \"turismo\", \"xenofobia\"]\nbucles_activos: []\ncorte: \"2026-11-03T12:26:19.494210+00:00\"\ninicio_ventana: \"2026-11-02T12:26:19.494210+00:00\"\nestado: \"completo\"\n```\n",
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-04\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Antártida\", \"Atlántico\", \"Bermudas\", \"Carolina del Norte\", \"Carolina del Sur\", \"Guayana Francesa\", \"Iowa\", \"Israel\", \"Kansas\", \"Londres\", \"Medio Oeste de EE.UU.\", \"Medio Oriente\", \"Ohio\", \"RD Congo\", \"Sudáfrica\", \"Taiz\", \"Texas\"]\npaises: [\"Canadá\", \"Estados Unidos\", \"Francia\", \"Israel\", \"Paraguay\", \"Reino Unido\", \"Ruanda\", \"Sudáfrica\", \"Unión Europea\", \"Yemen\"]\nentidades: [\"ANC\", \"Agencia Espacial Canadiense\", \"Agencia Espacial Europea\", \"Banco Central Europeo\", \"Benjamin Netanyahu\", \"Centro Nacional de Huracanes\", \"Donald Trump\", \"EIA\", \"Ejército de Ruanda\", \"Gadi Eisenkot\", \"Google\", \"Houthis\", \"Instituto Courtauld\", \"Kpler\", \"NASA\", \"NBA\", \"NOAA\", \"ONU\", \"Partido Demócrata\", \"Partido Republicano\", \"Reserva Federal\", \"Tesoro de EE. UU.\", \"Ueno Bank\"]\ntemas: [\"Congreso\", \"adaptación\", \"arte digital\", \"asedio\", \"astronomía\", \"ayuda militar\", \"banca\", \"bonos\", \"clima tropical\", \"conflicto\", \"conflicto armado\", \"crisis humanitaria\", \"cultura\", \"demografía electoral\", \"deshielo\", \"dólar\", \"ecosistemas polares\", \"elecciones\", \"elecciones locales\", \"energía\", \"energía solar\", \"espacio\", \"estación espacial\", \"financiamiento climático\", \"fraude electoral\", \"inflación\", \"intervención financiera\", \"mercados\", \"meteorología espacial\", \"midterms\", \"observación terrestre\", \"patrones electorales\", \"petróleo\", \"pronóstico meteorológico\", \"refinación\", \"relaciones bilaterales\", \"salarios\", \"sanciones\", \"satélites\", \"servicios públicos\", \"tasas de interés\"]\nbucles_activos: [\"Impacto Societal y Financiero\"]\ncorte: \"2026-11-04T12:38:04.951335+00:00\"\ninicio_ventana: \"2026-11-03T12:38:04.951335+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-04\n\n## Resumen del día\n\nLas elecciones de medio mandato en EE. UU. dieron el control del Congreso a los demócratas, lo que movió de inmediato los mercados: caída del dólar a mínimo de un mes y descenso de rendimientos del Tesoro ante temores de mayor regulación y menor crecimiento (The Guardian, CNBC).\nEn la eurozona la inflación subió a 4% en octubre por el componente energético, lo que eleva la probabilidad de una subida de tasas del BCE (CNBC), mientras el propio BCE publicó su rastreador salarial oficial.\nParaguay intervino Ueno Bank, uno de sus mayores bancos, congelando ahorros de millones de clientes (BBC Mundo), un evento financiero doméstico sin conexión documentada con otras dimensiones del día.\nEn geopolítica, la comisión electoral de Israel rechazó las acusaciones de fraude de Netanyahu, Trump anunció una futura suspensión de ayuda militar a Israel, y continúan las crisis humanitarias en Taiz (Yemen) y las sanciones sobre el ejército de Ruanda.\nEn clima y tecnología solo hubo monitoreo rutinario (NOAA, ESA, NASA) y un informe de la ONU sobre estancamiento del financiamiento de adaptación climática, sin vínculos verificables con otras dimensiones en los hechos del día.\n\nVentana de 24 horas hasta 2026-11-04T12:38:04.951335+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, un, imf, iom, unhcr, usda, bis, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_1922f3f40d\"></a>\n1. NOAA monitorea sistema de baja presión con potencial subtropical en el Atlántico — El Centro Nacional de Huracanes de NOAA reportó un área de baja presión al sur de Bermudas con 30% de probabilidad de formación en 48 horas y 50% en 7 días, pudiendo adquirir características subtropicales. — [NOAA · Centro Nacional de Huracanes, Wed, 04 Nov 2026 11:49:41 GMT](https://www.nhc.noaa.gov/gtwo.php?basin=atlc) · oficial.\n\n<a id=\"ev_0d8c766965\"></a>\n2. ONU advierte que financiamiento para adaptación climática en países pobres se ha estancado — Un informe de la ONU citado por The Guardian revela que los flujos de financiamiento para ayudar a países pobres a enfrentar la crisis climática han permanecido planos o cayendo desde 2022, muy por debajo de lo necesario. — [The Guardian · Medio ambiente, Wed, 04 Nov 2026 11:00:09 GMT](https://www.theguardian.com/global-development/2026/nov/04/funding-poorer-countries-climate-crisis-adaptation-un-report) · medio.\n\n<a id=\"ev_2c3e91f1ff\"></a>\n3. Estudio revela que excremento de pingüinos acelera el derretimiento de nieve antártica — The Guardian reportó un estudio que muestra que el guano de pingüinos alimenta floraciones de algas en la nieve antártica que absorben más energía solar, acelerando el derretimiento mientras las temperaturas suben. — [The Guardian · Medio ambiente, Wed, 04 Nov 2026 06:00:27 GMT](https://www.theguardian.com/environment/2026/nov/04/how-penguin-poo-is-making-antarctic-snow-melt-faster) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_bc2f3f6f2d\"></a>\n1. Google lanza proyecto 'The Art of Looking' con el Instituto Courtauld — Google anunció en su blog oficial un nuevo proyecto junto con Google Arts & Culture y el Instituto Courtauld de Arte para examinar obras de arte de nuevas maneras. — [Google, Wed, 04 Nov 2026 10:00:00 +0000](https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/) · oficial.\n\n<a id=\"ev_72371992ac\"></a>\n2. Satélite meteorológico MetOp-SG-B1 preparado para lanzamiento en Guayana Francesa — La Agencia Espacial Europea informó que el satélite MetOp Second Generation-B1 fue trasladado a una sala limpia en el Puerto Espacial de Europa, preparándose para su lanzamiento previsto hacia fin de año. — [Agencia Espacial Europea, Wed, 04 Nov 2026 10:10:00 +0100](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite) · oficial.\n\n<a id=\"ev_51f7fe3fdb\"></a>\n3. NASA publica imagen astronómica del día sobre galaxia IC 342 — NASA publicó en su Astronomy Picture of the Day una imagen de la galaxia IC 342, conocida como 'la galaxia no tan oculta', con explicación de un astrónomo profesional. — [NASA, Wed, 04 Nov 2026 05:05:00 +0000](https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/) · oficial.\n\n<a id=\"ev_8b26573de8\"></a>\n4. NASA publica imagen nocturna del medio oeste de EE.UU. desde el espacio — NASA Earth Observatory publicó una imagen tomada por astronautas mostrando las luces nocturnas del medio oeste de Estados Unidos con cielos despejados. — [NASA, Wed, 04 Nov 2026 05:01:00 +0000](https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/) · oficial.\n\n<a id=\"ev_eb56518c9d\"></a>\n5. Astronautas instalan nuevo panel solar en la Estación Espacial Internacional — NASA reportó que los astronautas Joshua Kutryk y Anil Menon instalaron un nuevo panel solar enrollable en la Estación Espacial Internacional durante una caminata espacial el 29 de octubre de 2026. — [NASA, Tue, 03 Nov 2026 16:37:42 +0000](https://www.nasa.gov/image-article/astronaut-and-earth/) · oficial.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_da539d39be\"></a>\n1. Entradas de refinación global cayeron fuertemente en segundo trimestre de 2026 por conflicto en Medio Oriente — La EIA reportó que las entradas globales de refinación de petróleo crudo cayeron 4,8 millones de barriles diarios (6%) en el segundo trimestre de 2026 tras el inicio del conflicto en Medio Oriente, con recuperación parcial de 1,8 millones b/d en el tercer trimestre. — [EIA, Tue, 3 Nov 2026  09:00:00 EST](https://www.eia.gov/todayinenergy/detail.php?id=68404) · oficial.\n\n## 4. Cadenas de Suministro\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 5. Geopolítica\n\n<a id=\"ev_0a61be3b95\"></a>\n1. Demócratas toman el control del Congreso de EE. UU. en elecciones de medio mandato — The Guardian reportó que los demócratas obtuvieron la mayoría en el Senado y la Cámara de Representantes, flipping escaños en Texas, Iowa, Kansas, Carolina del Norte, Carolina del Sur y Ohio, en un resultado calificado de 'ola azul'. — [The Guardian, Wed, 04 Nov 2026 12:24:00 GMT](https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates) · medio.\n\n<a id=\"ev_3eba771715\"></a>\n2. Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral — The Guardian reportó que la comisión electoral de Israel confirmó los resultados finales de las elecciones del 27 de octubre que despojaron a la coalición de Netanyahu de su mayoría, rechazando sus acusaciones de fraude masivo. — [The Guardian, Wed, 04 Nov 2026 12:19:18 GMT](https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud) · medio.\n\n<a id=\"ev_1790fb2d68\"></a>\n3. Trump anuncia que EE. UU. suspenderá ayuda militar de 4.000 millones de dólares a Israel a fin de año — El País reportó que Trump afirmó haber acordado con Netanyahu suspender a fin de año los 4.000 millones de dólares de ayuda militar a Israel, aunque el pacto vigente no expira hasta 2028 y requiere aprobación del Congreso. — [El País, Tue, 03 Nov 2026 19:00:03 GMT](https://elpais.com/internacional/2026-11-03/trump-dice-que-suspendera-4000-millones-de-dolares-en-ayuda-a-israel.html) · medio.\n\n<a id=\"ev_69e79c5571\"></a>\n4. Equipo del ejército de Ruanda excluido de liga africana tras sanciones de EE. UU. — BBC News reportó que el equipo del ejército de Ruanda fue removido de una liga deportiva africana por la NBA, después de que EE. UU. impusiera sanciones al ejército ruandés por su papel en el conflicto en RD Congo. — [BBC News, Wed, 04 Nov 2026 11:46:09 GMT](https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_1b718fcf2b\"></a>\n5. Asedio hutí de un mes a Taiz genera crisis humanitaria en Yemen — Al Jazeera reportó que el bloqueo hutí sobre Taiz, Yemen, de más de un mes genera advertencias de 'catástrofe' al impedir que lleguen alimentos, agua, combustible y suministros médicos a la ciudad. — [Al Jazeera, Wed, 04 Nov 2026 10:44:46 +0000](https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there?traffic_source=rss) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_5bebc8eceb\"></a>\n1. Rendimientos de bonos del Tesoro de EE. UU. caen tras victoria demócrata en midterms — CNBC informó que los rendimientos de los bonos del Tesoro bajaron el miércoles mientras los inversores evaluaban las victorias demócratas en las elecciones de medio mandato en el Senado y la Cámara. — [CNBC, Wed, 04 Nov 2026 12:25:25 GMT](https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html) · medio.\n\n<a id=\"ev_5b9e793c65\"></a>\n2. Dólar estadounidense cae tras victoria demócrata en midterms por temores de crecimiento — The Guardian reportó que el dólar cayó a un mínimo de un mes tras la victoria demócrata en el Congreso, ante temores de mayor regulación de IA y menor crecimiento económico, mientras inversores buscaron refugio en bonos del Tesoro. — [The Guardian, Wed, 04 Nov 2026 09:55:22 GMT](https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears) · medio.\n\n<a id=\"ev_efea2364bb\"></a>\n3. Inflación de la eurozona alcanza 4% por primera vez en tres años — CNBC reportó que la inflación de la eurozona llegó al 4% en octubre, impulsada por la inflación energética que superó el 20%, lo que aumenta la probabilidad de una subida de tasas por parte del BCE. — [CNBC, Wed, 04 Nov 2026 10:47:30 GMT](https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html) · medio.\n\n<a id=\"ev_c7ecae7ca3\"></a>\n4. BCE prevé crecimiento salarial ligeramente mayor en 2027 frente a 2026 — El Banco Central Europeo publicó su rastreador salarial indicando un crecimiento salarial ligeramente superior en los primeros tres trimestres de 2027 comparado con el total de 2026. — [BCE, Wed, 04 Nov 2026 01:00:00 +0100](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html) · oficial.\n\n<a id=\"ev_4a3cd99270\"></a>\n5. Paraguay interviene Ueno Bank y congela ahorros de millones de clientes — BBC Mundo reportó que Paraguay intervino Ueno Bank, uno de sus mayores bancos con 3 millones de clientes (60% de la población adulta) y más de 800 millones de dólares en fondos públicos gestionados. — [BBC Mundo, Tue, 03 Nov 2026 21:28:19 GMT](https://www.bbc.com/mundo/articles/ckx2qj89lggxo?at_medium=RSS&at_campaign=rss) · medio.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_c9c1c8f981\"></a>\n1. Mapas y gráficos muestran patrones de voto en elecciones de medio mandato de EE. UU. — BBC News publicó un análisis con mapas y gráficos que muestran cómo votaron los distintos estados y demografías en las elecciones de medio mandato estadounidenses. — [BBC News, Wed, 04 Nov 2026 09:53:18 GMT](https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_2c5dab65ca\"></a>\n2. Sudafricanos expresan cansancio ante mala calidad de servicios en elecciones locales — BBC News reportó que, mientras los sudafricanos votan en elecciones locales, residentes expresaron a la cadena su cansancio ante la mala calidad de los servicios públicos que reciben, presionando al ANC. — [BBC News, Wed, 04 Nov 2026 11:47:44 GMT](https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Sin movimiento verificado hoy\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Con movimiento — El resultado de las elecciones de medio mandato en EE. UU. (geopolítica/demografía electoral) tuvo efecto financiero directo e inmediato: caída del dólar a mínimo de un mes y descenso de los rendimientos del Tesoro, según The Guardian y CNBC, que atribuyen el movimiento de mercado explícitamente a la victoria demócrata en el Congreso. [ev_0a61be3b95](#ev_0a61be3b95) [ev_c9c1c8f981](#ev_c9c1c8f981) [ev_5bebc8eceb](#ev_5bebc8eceb) [ev_5b9e793c65](#ev_5b9e793c65)\n\n## Señales a vigilar\n\n- Posibilidad de que la nueva mayoría demócrata en el Congreso impulse mayor regulación de IA, lo que los mercados ya están descontando como riesgo para el crecimiento (The Guardian). [ev_5b9e793c65](#ev_5b9e793c65)\n- Posibilidad de que el BCE suba tasas de interés en próximas reuniones si la inflación energética de la eurozona persiste por encima del objetivo (CNBC). [ev_efea2364bb](#ev_efea2364bb)\n- Posibilidad de que la intervención de Ueno Bank en Paraguay derive en una crisis de confianza bancaria más amplia dado que afecta al 60% de la población adulta (BBC Mundo). [ev_4a3cd99270](#ev_4a3cd99270)\n- Posibilidad de que la suspensión anunciada por Trump de la ayuda militar a Israel no se concrete, dado que el acuerdo vigente no expira hasta 2028 y requiere aprobación del Congreso (El País). [ev_1790fb2d68](#ev_1790fb2d68)\n- Posibilidad de agravamiento de la crisis humanitaria en Taiz, Yemen, si el asedio hutí de más de un mes continúa bloqueando alimentos, agua y combustible (Al Jazeera). [ev_1b718fcf2b](#ev_1b718fcf2b)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-10-29T15:59:00+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-11-03T12:00:00+00:00 |\n| NASA | oficial | Disponible | 5 | 2026-11-04T05:05:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 1 | 2026-11-03T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-11-03T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-02T00:00:00+00:00 |\n| ONU | oficial | No disponible | 0 | Sin fecha verificable |\n| Reserva Federal | oficial | Disponible | 0 | 2026-10-29T20:30:00+00:00 |\n| BCE | oficial | Disponible | 1 | 2026-11-04T00:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-11-03T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 7 | 2026-11-04T10:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-10-29T17:00:55+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | Disponible | 1 | 2026-11-04T09:10:00+00:00 |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-10-09T15:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-05T23:49:41+00:00 |\n| NASA · Comunicados | oficial | Disponible | 5 | 2026-11-04T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-10-29T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | No disponible | 0 | Sin fecha verificable |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-11-03T10:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-04T08:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-10-29T14:03:04+00:00 |\n| BBC News | medio | Disponible | 20 | 2026-11-04T12:21:21+00:00 |\n| BBC Mundo | medio | Disponible | 13 | 2026-11-04T10:22:16+00:00 |\n| CNN | medio | Disponible | 113 | 2026-11-04T12:33:59.021000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-04T12:18:16+00:00 |\n| The Guardian | medio | Disponible | 29 | 2026-11-04T12:29:23+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-04T12:22:55+00:00 |\n| El País | medio | Disponible | 17 | 2026-11-04T11:08:54+00:00 |\n| CNBC | medio | Disponible | 30 | 2026-11-04T12:35:05+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-10-07T17:06:26+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-04T12:27:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 8 | 2026-11-04T11:47:33+00:00 |\n| BBC · Tecnología | medio | Disponible | 4 | 2026-11-04T00:04:35+00:00 |\n| BBC · Economía | medio | Disponible | 12 | 2026-11-04T12:20:42+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-04\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Antártida\", \"Atlántico\", \"Bermudas\", \"Carolina del Norte\", \"Carolina del Sur\", \"Guayana Francesa\", \"Iowa\", \"Israel\", \"Kansas\", \"Londres\", \"Medio Oeste de EE.UU.\", \"Medio Oriente\", \"Ohio\", \"RD Congo\", \"Sudáfrica\", \"Taiz\", \"Texas\"]\npaises: [\"Canadá\", \"Estados Unidos\", \"Francia\", \"Israel\", \"Paraguay\", \"Reino Unido\", \"Ruanda\", \"Sudáfrica\", \"Unión Europea\", \"Yemen\"]\nentidades: [\"ANC\", \"Agencia Espacial Canadiense\", \"Agencia Espacial Europea\", \"Banco Central Europeo\", \"Benjamin Netanyahu\", \"Centro Nacional de Huracanes\", \"Donald Trump\", \"EIA\", \"Ejército de Ruanda\", \"Gadi Eisenkot\", \"Google\", \"Houthis\", \"Instituto Courtauld\", \"Kpler\", \"NASA\", \"NBA\", \"NOAA\", \"ONU\", \"Partido Demócrata\", \"Partido Republicano\", \"Reserva Federal\", \"Tesoro de EE. UU.\", \"Ueno Bank\"]\ntemas: [\"Congreso\", \"adaptación\", \"arte digital\", \"asedio\", \"astronomía\", \"ayuda militar\", \"banca\", \"bonos\", \"clima tropical\", \"conflicto\", \"conflicto armado\", \"crisis humanitaria\", \"cultura\", \"demografía electoral\", \"deshielo\", \"dólar\", \"ecosistemas polares\", \"elecciones\", \"elecciones locales\", \"energía\", \"energía solar\", \"espacio\", \"estación espacial\", \"financiamiento climático\", \"fraude electoral\", \"inflación\", \"intervención financiera\", \"mercados\", \"meteorología espacial\", \"midterms\", \"observación terrestre\", \"patrones electorales\", \"petróleo\", \"pronóstico meteorológico\", \"refinación\", \"relaciones bilaterales\", \"salarios\", \"sanciones\", \"satélites\", \"servicios públicos\", \"tasas de interés\"]\nbucles_activos: [\"Impacto Societal y Financiero\"]\ncorte: \"2026-11-04T12:38:04.951335+00:00\"\ninicio_ventana: \"2026-11-03T12:38:04.951335+00:00\"\nestado: \"completo\"\n```\n",
   "nexo": {
     "resumen": [
-      "El día combina escalada militar (ataque de EE.UU. a la isla iraní de Qeshm, bombardeo ruso masivo a infraestructura energética y un centro de ayuda en Ucrania) con tensión política en EE.UU. por las midterms y jugadas comerciales de Washington contra Ruanda y Sudáfrica.",
-      "En finanzas, la Fed de Australia volvió a subir tasas y el Nasdaq-100 entró en su tercera corrección del año por dudas sobre el gasto en IA, mientras Blackstone pide más capital propio para financiar infraestructura de IA.",
-      "En tecnología destaca la expansión de centros de datos de IA en el Reino Unido (Drax) y recortes de empleo ligados a IA en telecomunicaciones (VMO2), junto con nuevas iniciativas de OpenAI en energía y ciberseguridad.",
-      "El petróleo subió tras los ataques a Qeshm, con Aramco reportando mayores ganancias por márgenes de refinación en medio de la guerra con Irán, mientras Rusia dejó sin electricidad a 180.000 personas en Ucrania.",
-      "En demografía, la violencia xenófoba marca las elecciones municipales de Sudáfrica y las redadas de ICE tensionan la contienda electoral en California, sin que estos hechos se conecten documentalmente con los bucles financieros del día."
+      "Las elecciones de medio mandato en EE. UU. dieron el control del Congreso a los demócratas, lo que movió de inmediato los mercados: caída del dólar a mínimo de un mes y descenso de rendimientos del Tesoro ante temores de mayor regulación y menor crecimiento (The Guardian, CNBC).",
+      "En la eurozona la inflación subió a 4% en octubre por el componente energético, lo que eleva la probabilidad de una subida de tasas del BCE (CNBC), mientras el propio BCE publicó su rastreador salarial oficial.",
+      "Paraguay intervino Ueno Bank, uno de sus mayores bancos, congelando ahorros de millones de clientes (BBC Mundo), un evento financiero doméstico sin conexión documentada con otras dimensiones del día.",
+      "En geopolítica, la comisión electoral de Israel rechazó las acusaciones de fraude de Netanyahu, Trump anunció una futura suspensión de ayuda militar a Israel, y continúan las crisis humanitarias en Taiz (Yemen) y las sanciones sobre el ejército de Ruanda.",
+      "En clima y tecnología solo hubo monitoreo rutinario (NOAA, ESA, NASA) y un informe de la ONU sobre estancamiento del financiamiento de adaptación climática, sin vínculos verificables con otras dimensiones en los hechos del día."
     ],
     "flujos": {
       "Presión Climática": {
@@ -1157,12 +904,9 @@
         "hechos": []
       },
       "Palanca Geopolítica": {
-        "estado": "Con movimiento",
-        "texto": "El ataque de EE.UU. a la isla iraní de Qeshm (geopolítica) elevó de inmediato los precios del petróleo (recursos), según CNBC, mostrando cómo la acción militar se traduce en presión directa sobre el recurso energético.",
-        "hechos": [
-          "ev_76a64d8476",
-          "ev_d92451fad4"
-        ]
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
       },
       "Flujos de Recursos": {
         "estado": "Sin movimiento verificado hoy",
@@ -1187,42 +931,45 @@
         "hechos": []
       },
       "Impacto Societal y Financiero": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
+        "estado": "Con movimiento",
+        "texto": "El resultado de las elecciones de medio mandato en EE. UU. (geopolítica/demografía electoral) tuvo efecto financiero directo e inmediato: caída del dólar a mínimo de un mes y descenso de los rendimientos del Tesoro, según The Guardian y CNBC, que atribuyen el movimiento de mercado explícitamente a la victoria demócrata en el Congreso.",
+        "hechos": [
+          "ev_0a61be3b95",
+          "ev_c9c1c8f981",
+          "ev_5bebc8eceb",
+          "ev_5b9e793c65"
+        ]
       }
     },
     "senales": [
       {
-        "texto": "Posibilidad de que el resultado de las elecciones de medio mandato en EE.UU. redefina el control del Congreso y afecte la agenda sobre Irán e inmigración.",
+        "texto": "Posibilidad de que la nueva mayoría demócrata en el Congreso impulse mayor regulación de IA, lo que los mercados ya están descontando como riesgo para el crecimiento (The Guardian).",
         "hechos": [
-          "ev_9499bc15ec"
+          "ev_5b9e793c65"
         ]
       },
       {
-        "texto": "Posibilidad de escalada adicional entre EE.UU. e Irán tras el ataque a la isla de Qeshm, con impacto en el estrecho de Ormuz y precios del crudo.",
+        "texto": "Posibilidad de que el BCE suba tasas de interés en próximas reuniones si la inflación energética de la eurozona persiste por encima del objetivo (CNBC).",
         "hechos": [
-          "ev_76a64d8476",
-          "ev_d92451fad4"
+          "ev_efea2364bb"
         ]
       },
       {
-        "texto": "Posibilidad de nuevas correcciones bursátiles en tecnológicas si persisten las dudas sobre la sostenibilidad del gasto en infraestructura de IA.",
+        "texto": "Posibilidad de que la intervención de Ueno Bank en Paraguay derive en una crisis de confianza bancaria más amplia dado que afecta al 60% de la población adulta (BBC Mundo).",
         "hechos": [
-          "ev_41b39fedba",
-          "ev_a479759e68"
+          "ev_4a3cd99270"
         ]
       },
       {
-        "texto": "Posibilidad de que la violencia xenófoba en Sudáfrica se intensifique tras las elecciones municipales, con implicaciones para la estabilidad social.",
+        "texto": "Posibilidad de que la suspensión anunciada por Trump de la ayuda militar a Israel no se concrete, dado que el acuerdo vigente no expira hasta 2028 y requiere aprobación del Congreso (El País).",
         "hechos": [
-          "ev_7df9d9a698"
+          "ev_1790fb2d68"
         ]
       },
       {
-        "texto": "Posibilidad de que la exclusión de Ruanda y Sudáfrica del AGOA desde 2027 reconfigure flujos comerciales regionales con EE.UU.",
+        "texto": "Posibilidad de agravamiento de la crisis humanitaria en Taiz, Yemen, si el asedio hutí de más de un mes continúa bloqueando alimentos, agua y combustible (Al Jazeera).",
         "hechos": [
-          "ev_7b1f2481ca"
+          "ev_1b718fcf2b"
         ]
       }
     ],
@@ -1240,12 +987,12 @@
     },
     "openai": {
       "ok": true,
-      "piezas": 1349,
+      "piezas": 1354,
       "fuente": "OpenAI",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-03T08:00:00+00:00",
-      "recientes": 5
+      "ultima_publicacion": "2026-11-03T12:00:00+00:00",
+      "recientes": 0
     },
     "nasa": {
       "ok": true,
@@ -1253,8 +1000,8 @@
       "fuente": "NASA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-03T05:05:00+00:00",
-      "recientes": 8
+      "ultima_publicacion": "2026-11-04T05:05:00+00:00",
+      "recientes": 5
     },
     "cisa": {
       "ok": false,
@@ -1267,20 +1014,20 @@
     },
     "eia": {
       "ok": true,
-      "piezas": 22,
+      "piezas": 23,
       "fuente": "EIA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-30T14:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-03T14:00:00+00:00",
+      "recientes": 1
     },
     "fao": {
       "ok": true,
-      "piezas": 18,
+      "piezas": 19,
       "fuente": "FAO",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-30T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-03T12:00:00+00:00",
       "recientes": 0
     },
     "wto": {
@@ -1293,12 +1040,12 @@
       "recientes": 0
     },
     "un": {
-      "ok": true,
-      "piezas": 30,
+      "ok": false,
+      "piezas": 0,
       "fuente": "ONU",
       "tipo": "oficial",
-      "error": "",
-      "ultima_publicacion": "2026-11-02T12:00:00+00:00",
+      "error": "not well-formed (invalid token): line 1, column 0",
+      "ultima_publicacion": null,
       "recientes": 0
     },
     "fed": {
@@ -1316,8 +1063,8 @@
       "fuente": "BCE",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-02T09:30:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-04T00:00:00+00:00",
+      "recientes": 1
     },
     "imf": {
       "ok": false,
@@ -1352,7 +1099,7 @@
       "fuente": "ONU (inglés)",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-02T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-03T12:00:00+00:00",
       "recientes": 0
     },
     "consilium": {
@@ -1370,8 +1117,8 @@
       "fuente": "Google",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-03T14:00:00+00:00",
-      "recientes": 3
+      "ultima_publicacion": "2026-11-04T10:00:00+00:00",
+      "recientes": 7
     },
     "microsoft": {
       "ok": true,
@@ -1415,8 +1162,8 @@
       "fuente": "Agencia Espacial Europea",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-02T08:55:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-04T09:10:00+00:00",
+      "recientes": 1
     },
     "noaa-ncei": {
       "ok": true,
@@ -1433,7 +1180,7 @@
       "fuente": "NOAA · Centro Nacional de Huracanes",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-04T23:34:59+00:00",
+      "ultima_publicacion": "2026-11-05T23:49:41+00:00",
       "recientes": 1
     },
     "nasa-releases": {
@@ -1442,8 +1189,8 @@
       "fuente": "NASA · Comunicados",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-03T05:05:00+00:00",
-      "recientes": 8
+      "ultima_publicacion": "2026-11-04T05:05:00+00:00",
+      "recientes": 5
     },
     "usda": {
       "ok": false,
@@ -1479,15 +1226,15 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-03T10:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "boj": {
       "ok": true,
-      "piezas": 42,
+      "piezas": 46,
       "fuente": "Banco de Japón",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-02T05:00:00+00:00",
+      "ultima_publicacion": "2026-11-04T08:00:00+00:00",
       "recientes": 0
     },
     "census": {
@@ -1496,7 +1243,7 @@
       "fuente": "Oficina del Censo de EE. UU.",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-28T15:23:22+00:00",
+      "ultima_publicacion": "2026-10-29T14:03:04+00:00",
       "recientes": 0
     },
     "bbc-world": {
@@ -1505,8 +1252,8 @@
       "fuente": "BBC News",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-03T12:09:20+00:00",
-      "recientes": 23
+      "ultima_publicacion": "2026-11-04T12:21:21+00:00",
+      "recientes": 20
     },
     "bbc-mundo": {
       "ok": true,
@@ -1514,17 +1261,17 @@
       "fuente": "BBC Mundo",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-03T11:58:03+00:00",
-      "recientes": 18
+      "ultima_publicacion": "2026-11-04T10:22:16+00:00",
+      "recientes": 13
     },
     "cnn": {
       "ok": true,
-      "piezas": 252,
+      "piezas": 301,
       "fuente": "CNN",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-03T12:00:15.064000+00:00",
-      "recientes": 136
+      "ultima_publicacion": "2026-11-04T12:33:59.021000+00:00",
+      "recientes": 113
     },
     "dw-es": {
       "ok": false,
@@ -1541,7 +1288,7 @@
       "fuente": "France 24",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-03T04:03:50+00:00",
+      "ultima_publicacion": "2026-11-04T12:18:16+00:00",
       "recientes": 24
     },
     "guardian": {
@@ -1550,8 +1297,8 @@
       "fuente": "The Guardian",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-03T12:13:50+00:00",
-      "recientes": 24
+      "ultima_publicacion": "2026-11-04T12:29:23+00:00",
+      "recientes": 29
     },
     "aljazeera": {
       "ok": true,
@@ -1559,17 +1306,17 @@
       "fuente": "Al Jazeera",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-03T11:30:34+00:00",
+      "ultima_publicacion": "2026-11-04T12:22:55+00:00",
       "recientes": 25
     },
     "elpais": {
       "ok": true,
-      "piezas": 24,
+      "piezas": 21,
       "fuente": "El País",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-03T12:08:04+00:00",
-      "recientes": 18
+      "ultima_publicacion": "2026-11-04T11:08:54+00:00",
+      "recientes": 17
     },
     "cnbc": {
       "ok": true,
@@ -1577,7 +1324,7 @@
       "fuente": "CNBC",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-03T12:19:01+00:00",
+      "ultima_publicacion": "2026-11-04T12:35:05+00:00",
       "recientes": 30
     },
     "reuters": {
@@ -1613,7 +1360,7 @@
       "fuente": "MarketWatch",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-03T12:22:00+00:00",
+      "ultima_publicacion": "2026-11-04T12:27:00+00:00",
       "recientes": 10
     },
     "guardian-environment": {
@@ -1622,8 +1369,8 @@
       "fuente": "The Guardian · Medio ambiente",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-03T11:55:28+00:00",
-      "recientes": 5
+      "ultima_publicacion": "2026-11-04T11:47:33+00:00",
+      "recientes": 8
     },
     "bbc-tech": {
       "ok": true,
@@ -1631,17 +1378,17 @@
       "fuente": "BBC · Tecnología",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-03T11:32:47+00:00",
+      "ultima_publicacion": "2026-11-04T00:04:35+00:00",
       "recientes": 4
     },
     "bbc-business": {
       "ok": true,
-      "piezas": 45,
+      "piezas": 44,
       "fuente": "BBC · Economía",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-03T12:07:59+00:00",
-      "recientes": 15
+      "ultima_publicacion": "2026-11-04T12:20:42+00:00",
+      "recientes": 12
     }
   }
 }

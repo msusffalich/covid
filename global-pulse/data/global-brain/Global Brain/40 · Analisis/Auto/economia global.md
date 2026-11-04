@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-11-03
-nodos: 69
+actualizado: 2026-11-04
+nodos: 68
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-03. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-04. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-69 nodos registrados en el periodo. Lo mas reciente: Banco de la Reserva de Australia sube tasas a máximo de 18 años para combatir la inflación.
+68 nodos registrados en el periodo. Lo mas reciente: Inflación de la eurozona alcanza 4% por primera vez en tres años.
 
 ## Trend summary (EN)
-69 nodes recorded in the period. Most recent: RBA hikes rates to 18-year high as it combats inflation.
+68 nodes recorded in the period. Most recent: Euro zone inflation hits 4% for first time in three years.
 
 > [!note] Estado actual
-> Banco de la Reserva de Australia sube tasas a máximo de 18 años para combatir la inflación
+> Inflación de la eurozona alcanza 4% por primera vez en tres años
 
-## Nodos recientes (69 en la ventana)
+## Nodos recientes (68 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-04 | 60 | K0 | Inflación de la eurozona alcanza 4% por primera vez en tres años |
+| 2026-11-04 | 60 | K1 | Entradas de refinación global cayeron fuertemente en segundo tri |
+| 2026-11-04 | 35 | K1 | BCE prevé crecimiento salarial ligeramente mayor en 2027 frente  |
 | 2026-11-03 | 60 | K1 | Banco de la Reserva de Australia sube tasas a máximo de 18 años  |
 | 2026-11-03 | 55 | K1 | Precios del petróleo suben tras ataques de EE.UU. a la isla iran |
 | 2026-11-03 | 45 | K1 | Súper Niño causa desastre en Galápagos y obliga a cerrar atracci |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-11-02 | 58 | K1 | Goldman Sachs proyecta petróleo promedio de 130 dólares por barr |
 | 2026-11-02 | 56 | K0 | Crudo estadounidense cae bajo los 100 dólares por esfuerzos dipl |
 | 2026-11-02 | 54 | K1 | El Súper Niño causa desastre en Galápagos y obliga a cerrar atra |
-| 2026-11-02 | 48 | K1 | Economistas prevén una desaceleración más pronunciada en Austral |
-| 2026-11-02 | 45 | K1 | BCE: Europa debe reforzar apertura y resiliencia en un mundo fra |
-| 2026-11-01 | 64 | K1 | Temores de gasto en IA provocan reversión bursátil tras resultad |
 
 [[Global Brain — Inicio|← Inicio]]

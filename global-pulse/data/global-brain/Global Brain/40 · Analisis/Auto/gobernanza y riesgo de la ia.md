@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-11-03
-nodos: 21
+actualizado: 2026-11-04
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-03. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-04. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-21 nodos registrados en el periodo. Lo mas reciente: Nasdaq-100 entra en su tercera corrección del año por temores sobre la IA.
+20 nodos registrados en el periodo. Lo mas reciente: Nasdaq-100 entra en su tercera corrección del año por temores sobre la IA.
 
 ## Trend summary (EN)
-21 nodes recorded in the period. Most recent: Nasdaq-100 tumbles into its third correction this year as AI worries mount.
+20 nodes recorded in the period. Most recent: Nasdaq-100 tumbles into its third correction this year as AI worries mount.
 
 > [!note] Estado actual
 > Nasdaq-100 entra en su tercera corrección del año por temores sobre la IA
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-03 | 65 | K1 | Nasdaq-100 entra en su tercera corrección del año por temores so |

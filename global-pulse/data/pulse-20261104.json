@@ -1,0 +1,1394 @@
+{
+  "meta": {
+    "schema": "2.0",
+    "fecha": "2026-11-04",
+    "generado": "2026-11-04T12:39:46.635651+00:00",
+    "modo": "live",
+    "motor_sintesis": "api",
+    "metricas": {
+      "nodos": 21,
+      "verificados": 21,
+      "piezas_ingeridas": 194,
+      "canales_consultados": 46,
+      "canales_disponibles": 36,
+      "documentos_recientes": 326
+    },
+    "descargo": "",
+    "corte": "2026-11-04T12:38:04.951335+00:00",
+    "reporte_sha256": "986575599f79a9bb97e650b809b1a360d566d9be89f30148d905fcb751e6dd8a",
+    "estado": "completo",
+    "politica_fuentes": "mixta-v1",
+    "reporte_archivo": "2026-11-04 — Pulso.md"
+  },
+  "nodos": [
+    {
+      "titulo": {
+        "es": "Demócratas toman el control del Congreso de EE. UU. en elecciones de medio mandato",
+        "en": "Democrats win control of US Congress in midterm elections"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó que los demócratas obtuvieron la mayoría en el Senado y la Cámara de Representantes, flipping escaños en Texas, Iowa, Kansas, Carolina del Norte, Carolina del Sur y Ohio, en un resultado calificado de 'ola azul'.",
+        "en": "The Guardian reported Democrats won majorities in the Senate and House, flipping seats in Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio, in a result described as a 'blue wave'."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Partido Demócrata",
+        "Partido Republicano",
+        "Donald Trump"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 85,
+      "fuentes": [
+        "ev_0a61be3b95"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/4ab69f763ed7999e4c40c3864e1f7c775b107016/799_0_7922_6336/master/7922.jpg?width=140&quality=85&auto=format&fit=max&s=147a0407a089310d71fd0baf88695134"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0a61be3b95",
+          "titulo": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 04 Nov 2026 12:24:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0000",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-04_0016"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Rendimientos de bonos del Tesoro de EE. UU. caen tras victoria demócrata en midterms",
+        "en": "US Treasury yields fall after Democrats win midterm elections"
+      },
+      "sintesis": {
+        "es": "CNBC informó que los rendimientos de los bonos del Tesoro bajaron el miércoles mientras los inversores evaluaban las victorias demócratas en las elecciones de medio mandato en el Senado y la Cámara.",
+        "en": "CNBC reported Treasury yields moved lower Wednesday as investors weighed Democratic wins in the Senate and House midterm elections."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Tesoro de EE. UU."
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_5bebc8eceb"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5bebc8eceb",
+          "titulo": "Treasury yields fall after Democrats win House and Senate majorities",
+          "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+          "fuente": "CNBC",
+          "fecha": "Wed, 04 Nov 2026 12:25:25 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0001",
+      "fecha": "2026-11-04",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Dólar estadounidense cae tras victoria demócrata en midterms por temores de crecimiento",
+        "en": "US dollar slides after Democrats' midterm election win as growth fears rise"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó que el dólar cayó a un mínimo de un mes tras la victoria demócrata en el Congreso, ante temores de mayor regulación de IA y menor crecimiento económico, mientras inversores buscaron refugio en bonos del Tesoro.",
+        "en": "The Guardian reported the dollar hit a one-month low after Democrats' congressional win, amid fears of greater AI regulation slowing growth, as investors moved into Treasury bonds."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Reserva Federal"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_5b9e793c65"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/6b1f011569afbc3d0e2cd5fc5417582f27adbe6a/714_28_3264_2612/master/3264.jpg?width=140&quality=85&auto=format&fit=max&s=893b0115f42782d7afa7bc67f68cf280"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5b9e793c65",
+          "titulo": "US dollar slides after Democrats’ midterm election win as growth fears rise",
+          "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 04 Nov 2026 09:55:22 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0002",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Inflación de la eurozona alcanza 4% por primera vez en tres años",
+        "en": "Euro zone inflation hits 4% for first time in three years"
+      },
+      "sintesis": {
+        "es": "CNBC reportó que la inflación de la eurozona llegó al 4% en octubre, impulsada por la inflación energética que superó el 20%, lo que aumenta la probabilidad de una subida de tasas por parte del BCE.",
+        "en": "CNBC reported euro zone inflation hit 4% in October, driven by energy inflation surging above 20%, raising the likelihood of an ECB rate hike."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Banco Central Europeo"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_efea2364bb"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_efea2364bb",
+          "titulo": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+          "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+          "fuente": "CNBC",
+          "fecha": "Wed, 04 Nov 2026 10:47:30 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0003",
+      "fecha": "2026-11-04",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-04_0004"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "BCE prevé crecimiento salarial ligeramente mayor en 2027 frente a 2026",
+        "en": "ECB wage tracker suggests slightly higher wage growth in 2027 versus 2026"
+      },
+      "sintesis": {
+        "es": "El Banco Central Europeo publicó su rastreador salarial indicando un crecimiento salarial ligeramente superior en los primeros tres trimestres de 2027 comparado con el total de 2026.",
+        "en": "The European Central Bank published its wage tracker indicating slightly higher wage growth in the first three quarters of 2027 compared with the full year of 2026."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Banco Central Europeo"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 35,
+      "fuentes": [
+        "ev_c7ecae7ca3"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c7ecae7ca3",
+          "titulo": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+          "fuente": "BCE",
+          "fecha": "Wed, 04 Nov 2026 01:00:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0004",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-04_0003"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Paraguay interviene Ueno Bank y congela ahorros de millones de clientes",
+        "en": "Paraguay intervenes Ueno Bank, freezing savings of millions of customers"
+      },
+      "sintesis": {
+        "es": "BBC Mundo reportó que Paraguay intervino Ueno Bank, uno de sus mayores bancos con 3 millones de clientes (60% de la población adulta) y más de 800 millones de dólares en fondos públicos gestionados.",
+        "en": "BBC Mundo reported Paraguay intervened Ueno Bank, one of its largest banks with 3 million customers (60% of adult population) managing over $800 million in public funds."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Ueno Bank"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_4a3cd99270"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b123/live/8c1666c0-d7ca-11f1-a719-bf3dc3a3d5b5.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_4a3cd99270",
+          "titulo": "Paraguay interviene Ueno Bank, uno de los mayores bancos del país, y deja congelados los ahorros de millones de clientes",
+          "url": "https://www.bbc.com/mundo/articles/ckx2qj89lggxo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Tue, 03 Nov 2026 21:28:19 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-04_0005",
+      "fecha": "2026-11-04",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "NOAA monitorea sistema de baja presión con potencial subtropical en el Atlántico",
+        "en": "NOAA monitors low pressure system with subtropical potential in the Atlantic"
+      },
+      "sintesis": {
+        "es": "El Centro Nacional de Huracanes de NOAA reportó un área de baja presión al sur de Bermudas con 30% de probabilidad de formación en 48 horas y 50% en 7 días, pudiendo adquirir características subtropicales.",
+        "en": "NOAA's National Hurricane Center reported a low pressure area south of Bermuda with a 30% chance of formation in 48 hours and 50% in 7 days, potentially acquiring subtropical characteristics."
+      },
+      "categoria": "clima",
+      "actores": [
+        "NOAA",
+        "Centro Nacional de Huracanes"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 30,
+      "fuentes": [
+        "ev_1922f3f40d"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_1922f3f40d",
+          "titulo": "Atlantic Tropical Weather Outlook",
+          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
+          "fuente": "NOAA · Centro Nacional de Huracanes",
+          "fecha": "Wed, 04 Nov 2026 11:49:41 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0006",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "ONU advierte que financiamiento para adaptación climática en países pobres se ha estancado",
+        "en": "UN warns climate adaptation funding for poor countries has stalled"
+      },
+      "sintesis": {
+        "es": "Un informe de la ONU citado por The Guardian revela que los flujos de financiamiento para ayudar a países pobres a enfrentar la crisis climática han permanecido planos o cayendo desde 2022, muy por debajo de lo necesario.",
+        "en": "A UN report cited by The Guardian reveals climate finance flows to help poor countries cope with the climate crisis have been flat or falling since 2022, far below what is needed."
+      },
+      "categoria": "clima",
+      "actores": [
+        "ONU"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_0d8c766965"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/72e16338c427d7da42c2b6de385062cd5585495f/1094_465_3767_3013/master/3767.jpg?width=140&quality=85&auto=format&fit=max&s=d3979c1b97ab36ac8e45bac80c7ba3c2"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0d8c766965",
+          "titulo": "Funding to help poorer countries cope with climate crisis has stalled, says UN",
+          "url": "https://www.theguardian.com/global-development/2026/nov/04/funding-poorer-countries-climate-crisis-adaptation-un-report",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Wed, 04 Nov 2026 11:00:09 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0007",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Estudio revela que excremento de pingüinos acelera el derretimiento de nieve antártica",
+        "en": "Study finds penguin poo is accelerating Antarctic snow melt"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó un estudio que muestra que el guano de pingüinos alimenta floraciones de algas en la nieve antártica que absorben más energía solar, acelerando el derretimiento mientras las temperaturas suben.",
+        "en": "The Guardian reported a study showing penguin guano feeds algal blooms in Antarctic snow that absorb more solar energy, accelerating melt as temperatures rise."
+      },
+      "categoria": "clima",
+      "actores": [],
+      "geo": {
+        "lat": 78.0,
+        "lon": 15.0,
+        "region": "Artico"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_2c3e91f1ff"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/72a81acb2bacafc0d5ce6d56f7cc099ef9b46319/328_0_5264_4210/master/5264.jpg?width=140&quality=85&auto=format&fit=max&s=4d764eb41cc96b1bd8822e95a46ae379"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_2c3e91f1ff",
+          "titulo": "How penguin poo is making Antarctic snow melt faster",
+          "url": "https://www.theguardian.com/environment/2026/nov/04/how-penguin-poo-is-making-antarctic-snow-melt-faster",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Wed, 04 Nov 2026 06:00:27 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0008",
+      "fecha": "2026-11-04",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Google lanza proyecto 'The Art of Looking' con el Instituto Courtauld",
+        "en": "Google launches 'The Art of Looking' project with the Courtauld Institute"
+      },
+      "sintesis": {
+        "es": "Google anunció en su blog oficial un nuevo proyecto junto con Google Arts & Culture y el Instituto Courtauld de Arte para examinar obras de arte de nuevas maneras.",
+        "en": "Google announced on its official blog a new project with Google Arts & Culture and the Courtauld Institute of Art to examine artworks in new ways."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Google",
+        "Instituto Courtauld"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 20,
+      "fuentes": [
+        "ev_bc2f3f6f2d"
+      ],
+      "imagenes": [
+        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Courtauld_Gallery._Photo_Be.max-600x600.format-webp.webp"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_bc2f3f6f2d",
+          "titulo": "Take a closer look at art with the Courtauld",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/",
+          "fuente": "Google",
+          "fecha": "Wed, 04 Nov 2026 10:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0009",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Satélite meteorológico MetOp-SG-B1 preparado para lanzamiento en Guayana Francesa",
+        "en": "MetOp-SG-B1 weather satellite prepared for launch in French Guiana"
+      },
+      "sintesis": {
+        "es": "La Agencia Espacial Europea informó que el satélite MetOp Second Generation-B1 fue trasladado a una sala limpia en el Puerto Espacial de Europa, preparándose para su lanzamiento previsto hacia fin de año.",
+        "en": "The European Space Agency reported the MetOp Second Generation-B1 satellite was moved to a cleanroom at Europe's Spaceport, preparing for launch planned toward the end of the year."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Agencia Espacial Europea"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 30,
+      "fuentes": [
+        "ev_72371992ac"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_72371992ac",
+          "titulo": "Time to wake up MetOp-SG-B1 weather satellite",
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite",
+          "fuente": "Agencia Espacial Europea",
+          "fecha": "Wed, 04 Nov 2026 10:10:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0010",
+      "fecha": "2026-11-04",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "NASA publica imagen astronómica del día sobre galaxia IC 342",
+        "en": "NASA publishes astronomy picture of the day featuring galaxy IC 342"
+      },
+      "sintesis": {
+        "es": "NASA publicó en su Astronomy Picture of the Day una imagen de la galaxia IC 342, conocida como 'la galaxia no tan oculta', con explicación de un astrónomo profesional.",
+        "en": "NASA published in its Astronomy Picture of the Day an image of galaxy IC 342, known as 'the not-so-hidden galaxy', with explanation from a professional astronomer."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "NASA"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 15,
+      "fuentes": [
+        "ev_51f7fe3fdb"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_51f7fe3fdb",
+          "titulo": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+          "fuente": "NASA",
+          "fecha": "Wed, 04 Nov 2026 05:05:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0011",
+      "fecha": "2026-11-04",
+      "kardashev": "K3",
+      "relaciones": [
+        "nd_2026-11-04_0012",
+        "nd_2026-11-04_0013"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "NASA publica imagen nocturna del medio oeste de EE.UU. desde el espacio",
+        "en": "NASA publishes nighttime image of US Midwest from space"
+      },
+      "sintesis": {
+        "es": "NASA Earth Observatory publicó una imagen tomada por astronautas mostrando las luces nocturnas del medio oeste de Estados Unidos con cielos despejados.",
+        "en": "NASA Earth Observatory published an image taken by astronauts showing nighttime lights of the US Midwest under clear skies."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "NASA"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 15,
+      "fuentes": [
+        "ev_8b26573de8"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8b26573de8",
+          "titulo": "Before the Dawn in America’s Heartland",
+          "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
+          "fuente": "NASA",
+          "fecha": "Wed, 04 Nov 2026 05:01:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0012",
+      "fecha": "2026-11-04",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-11-04_0011",
+        "nd_2026-11-04_0013"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Astronautas instalan nuevo panel solar en la Estación Espacial Internacional",
+        "en": "Astronauts install new solar array on the International Space Station"
+      },
+      "sintesis": {
+        "es": "NASA reportó que los astronautas Joshua Kutryk y Anil Menon instalaron un nuevo panel solar enrollable en la Estación Espacial Internacional durante una caminata espacial el 29 de octubre de 2026.",
+        "en": "NASA reported astronauts Joshua Kutryk and Anil Menon installed a new roll-out solar array on the International Space Station during an October 29, 2026 spacewalk."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "NASA",
+        "Agencia Espacial Canadiense"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 30,
+      "fuentes": [
+        "ev_eb56518c9d"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_eb56518c9d",
+          "titulo": "Astronaut and Earth",
+          "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+          "fuente": "NASA",
+          "fecha": "Tue, 03 Nov 2026 16:37:42 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0013",
+      "fecha": "2026-11-04",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-11-04_0011",
+        "nd_2026-11-04_0012"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Entradas de refinación global cayeron fuertemente en segundo trimestre de 2026 por conflicto en Medio Oriente",
+        "en": "Global refinery inputs fell sharply in Q2 2026 due to Middle East conflict"
+      },
+      "sintesis": {
+        "es": "La EIA reportó que las entradas globales de refinación de petróleo crudo cayeron 4,8 millones de barriles diarios (6%) en el segundo trimestre de 2026 tras el inicio del conflicto en Medio Oriente, con recuperación parcial de 1,8 millones b/d en el tercer trimestre.",
+        "en": "The EIA reported global crude oil refinery inputs fell by 4.8 million barrels per day (6%) in Q2 2026 following the start of Middle East conflict, with partial recovery of 1.8 million b/d in Q3."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "EIA",
+        "Kpler"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_da539d39be"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_da539d39be",
+          "titulo": "Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68404",
+          "fuente": "EIA",
+          "fecha": "Tue, 3 Nov 2026  09:00:00 EST",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0014",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral",
+        "en": "Israel's election commission rejects Netanyahu's claims of voting fraud"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó que la comisión electoral de Israel confirmó los resultados finales de las elecciones del 27 de octubre que despojaron a la coalición de Netanyahu de su mayoría, rechazando sus acusaciones de fraude masivo.",
+        "en": "The Guardian reported Israel's election commission confirmed final results of the October 27 vote that stripped Netanyahu's coalition of its majority, rejecting his claims of mass fraud."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Benjamin Netanyahu",
+        "Gadi Eisenkot"
+      ],
+      "geo": {
+        "lat": 31.0,
+        "lon": 34.9,
+        "region": "Oriente Medio"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_3eba771715"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/288a15e92c7bafcb3600eb1b2d8e20cc71573794/291_0_3027_2421/master/3027.jpg?width=140&quality=85&auto=format&fit=max&s=ea9e9485765618f79b2b7718417f1089"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_3eba771715",
+          "titulo": "Israel’s election commission rejects Netanyahu claims of voting fraud",
+          "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 04 Nov 2026 12:19:18 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0015",
+      "fecha": "2026-11-04",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-04_0016"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Trump anuncia que EE. UU. suspenderá ayuda militar de 4.000 millones de dólares a Israel a fin de año",
+        "en": "Trump announces US will suspend $4 billion military aid to Israel by year end"
+      },
+      "sintesis": {
+        "es": "El País reportó que Trump afirmó haber acordado con Netanyahu suspender a fin de año los 4.000 millones de dólares de ayuda militar a Israel, aunque el pacto vigente no expira hasta 2028 y requiere aprobación del Congreso.",
+        "en": "El País reported Trump said he agreed with Netanyahu to suspend $4 billion in military aid to Israel by year end, though the current agreement does not expire until 2028 and requires Congress approval."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Donald Trump",
+        "Benjamin Netanyahu"
+      ],
+      "geo": {
+        "lat": 31.0,
+        "lon": 34.9,
+        "region": "Oriente Medio"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_1790fb2d68"
+      ],
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/ITSHTD4ZLRKOHP64G4QNTVIWNM.jpg?auth=9388b03fb0915e460dda741c75a3d81c0dd5825a15589c2ee78dde537a0d020b"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_1790fb2d68",
+          "titulo": "Trump asegura que suspenderá a final de año los 4.000 millones de dólares de ayuda militar a Israel",
+          "url": "https://elpais.com/internacional/2026-11-03/trump-dice-que-suspendera-4000-millones-de-dolares-en-ayuda-a-israel.html",
+          "fuente": "El País",
+          "fecha": "Tue, 03 Nov 2026 19:00:03 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-04_0016",
+      "fecha": "2026-11-04",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-04_0000",
+        "nd_2026-11-04_0015"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Equipo del ejército de Ruanda excluido de liga africana tras sanciones de EE. UU.",
+        "en": "Rwanda's army team removed from Africa league after US sanctions"
+      },
+      "sintesis": {
+        "es": "BBC News reportó que el equipo del ejército de Ruanda fue removido de una liga deportiva africana por la NBA, después de que EE. UU. impusiera sanciones al ejército ruandés por su papel en el conflicto en RD Congo.",
+        "en": "BBC News reported Rwanda's army team was removed from an African sports league by the NBA, after the US imposed sanctions on Rwanda's army over its role in the DR Congo conflict."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "NBA",
+        "Ejército de Ruanda"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_69e79c5571"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6062/live/1ba36940-d830-11f1-be97-417dbcdedd32.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_69e79c5571",
+          "titulo": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
+          "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Wed, 04 Nov 2026 11:46:09 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0017",
+      "fecha": "2026-11-04",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Asedio hutí de un mes a Taiz genera crisis humanitaria en Yemen",
+        "en": "Houthis' monthlong siege on Taiz creating humanitarian crisis in Yemen"
+      },
+      "sintesis": {
+        "es": "Al Jazeera reportó que el bloqueo hutí sobre Taiz, Yemen, de más de un mes genera advertencias de 'catástrofe' al impedir que lleguen alimentos, agua, combustible y suministros médicos a la ciudad.",
+        "en": "Al Jazeera reported the Houthi blockade on Taiz, Yemen, lasting over a month prompts warnings of 'catastrophe' as food, water, fuel and medical supplies cannot reach the city."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Houthis"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_1b718fcf2b"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_1b718fcf2b",
+          "titulo": "Houthis’ monthlong siege on Taiz creating misery for trapped Yemenis",
+          "url": "https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 04 Nov 2026 10:44:46 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0018",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Mapas y gráficos muestran patrones de voto en elecciones de medio mandato de EE. UU.",
+        "en": "How America voted in maps and charts in US midterm elections"
+      },
+      "sintesis": {
+        "es": "BBC News publicó un análisis con mapas y gráficos que muestran cómo votaron los distintos estados y demografías en las elecciones de medio mandato estadounidenses.",
+        "en": "BBC News published an analysis with maps and charts showing how different states and demographics voted in the US midterm elections."
+      },
+      "categoria": "demografia",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 35,
+      "fuentes": [
+        "ev_c9c1c8f981"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125b/live/b5cca010-d6e4-11f1-93e1-3b657b665bcf.png"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c9c1c8f981",
+          "titulo": "How America voted in maps and charts",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Wed, 04 Nov 2026 09:53:18 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0019",
+      "fecha": "2026-11-04",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Sudafricanos expresan cansancio ante mala calidad de servicios en elecciones locales",
+        "en": "South Africans express fatigue over poor services quality in local elections"
+      },
+      "sintesis": {
+        "es": "BBC News reportó que, mientras los sudafricanos votan en elecciones locales, residentes expresaron a la cadena su cansancio ante la mala calidad de los servicios públicos que reciben, presionando al ANC.",
+        "en": "BBC News reported that as South Africans vote in local elections, residents told the broadcaster they are tired of poor quality public services, pressuring the ANC."
+      },
+      "categoria": "demografia",
+      "actores": [
+        "ANC"
+      ],
+      "geo": {
+        "lat": -30.6,
+        "lon": 22.9,
+        "region": "Africa Austral"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_2c5dab65ca"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_2c5dab65ca",
+          "titulo": "ANC under pressure to reverse South Africa decline",
+          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Wed, 04 Nov 2026 11:47:44 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-04_0020",
+      "fecha": "2026-11-04",
+      "kardashev": "K0",
+      "relaciones": []
+    }
+  ],
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-04\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Antártida\", \"Atlántico\", \"Bermudas\", \"Carolina del Norte\", \"Carolina del Sur\", \"Guayana Francesa\", \"Iowa\", \"Israel\", \"Kansas\", \"Londres\", \"Medio Oeste de EE.UU.\", \"Medio Oriente\", \"Ohio\", \"RD Congo\", \"Sudáfrica\", \"Taiz\", \"Texas\"]\npaises: [\"Canadá\", \"Estados Unidos\", \"Francia\", \"Israel\", \"Paraguay\", \"Reino Unido\", \"Ruanda\", \"Sudáfrica\", \"Unión Europea\", \"Yemen\"]\nentidades: [\"ANC\", \"Agencia Espacial Canadiense\", \"Agencia Espacial Europea\", \"Banco Central Europeo\", \"Benjamin Netanyahu\", \"Centro Nacional de Huracanes\", \"Donald Trump\", \"EIA\", \"Ejército de Ruanda\", \"Gadi Eisenkot\", \"Google\", \"Houthis\", \"Instituto Courtauld\", \"Kpler\", \"NASA\", \"NBA\", \"NOAA\", \"ONU\", \"Partido Demócrata\", \"Partido Republicano\", \"Reserva Federal\", \"Tesoro de EE. UU.\", \"Ueno Bank\"]\ntemas: [\"Congreso\", \"adaptación\", \"arte digital\", \"asedio\", \"astronomía\", \"ayuda militar\", \"banca\", \"bonos\", \"clima tropical\", \"conflicto\", \"conflicto armado\", \"crisis humanitaria\", \"cultura\", \"demografía electoral\", \"deshielo\", \"dólar\", \"ecosistemas polares\", \"elecciones\", \"elecciones locales\", \"energía\", \"energía solar\", \"espacio\", \"estación espacial\", \"financiamiento climático\", \"fraude electoral\", \"inflación\", \"intervención financiera\", \"mercados\", \"meteorología espacial\", \"midterms\", \"observación terrestre\", \"patrones electorales\", \"petróleo\", \"pronóstico meteorológico\", \"refinación\", \"relaciones bilaterales\", \"salarios\", \"sanciones\", \"satélites\", \"servicios públicos\", \"tasas de interés\"]\nbucles_activos: [\"Impacto Societal y Financiero\"]\ncorte: \"2026-11-04T12:38:04.951335+00:00\"\ninicio_ventana: \"2026-11-03T12:38:04.951335+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-04\n\n## Resumen del día\n\nLas elecciones de medio mandato en EE. UU. dieron el control del Congreso a los demócratas, lo que movió de inmediato los mercados: caída del dólar a mínimo de un mes y descenso de rendimientos del Tesoro ante temores de mayor regulación y menor crecimiento (The Guardian, CNBC).\nEn la eurozona la inflación subió a 4% en octubre por el componente energético, lo que eleva la probabilidad de una subida de tasas del BCE (CNBC), mientras el propio BCE publicó su rastreador salarial oficial.\nParaguay intervino Ueno Bank, uno de sus mayores bancos, congelando ahorros de millones de clientes (BBC Mundo), un evento financiero doméstico sin conexión documentada con otras dimensiones del día.\nEn geopolítica, la comisión electoral de Israel rechazó las acusaciones de fraude de Netanyahu, Trump anunció una futura suspensión de ayuda militar a Israel, y continúan las crisis humanitarias en Taiz (Yemen) y las sanciones sobre el ejército de Ruanda.\nEn clima y tecnología solo hubo monitoreo rutinario (NOAA, ESA, NASA) y un informe de la ONU sobre estancamiento del financiamiento de adaptación climática, sin vínculos verificables con otras dimensiones en los hechos del día.\n\nVentana de 24 horas hasta 2026-11-04T12:38:04.951335+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, un, imf, iom, unhcr, usda, bis, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_1922f3f40d\"></a>\n1. NOAA monitorea sistema de baja presión con potencial subtropical en el Atlántico — El Centro Nacional de Huracanes de NOAA reportó un área de baja presión al sur de Bermudas con 30% de probabilidad de formación en 48 horas y 50% en 7 días, pudiendo adquirir características subtropicales. — [NOAA · Centro Nacional de Huracanes, Wed, 04 Nov 2026 11:49:41 GMT](https://www.nhc.noaa.gov/gtwo.php?basin=atlc) · oficial.\n\n<a id=\"ev_0d8c766965\"></a>\n2. ONU advierte que financiamiento para adaptación climática en países pobres se ha estancado — Un informe de la ONU citado por The Guardian revela que los flujos de financiamiento para ayudar a países pobres a enfrentar la crisis climática han permanecido planos o cayendo desde 2022, muy por debajo de lo necesario. — [The Guardian · Medio ambiente, Wed, 04 Nov 2026 11:00:09 GMT](https://www.theguardian.com/global-development/2026/nov/04/funding-poorer-countries-climate-crisis-adaptation-un-report) · medio.\n\n<a id=\"ev_2c3e91f1ff\"></a>\n3. Estudio revela que excremento de pingüinos acelera el derretimiento de nieve antártica — The Guardian reportó un estudio que muestra que el guano de pingüinos alimenta floraciones de algas en la nieve antártica que absorben más energía solar, acelerando el derretimiento mientras las temperaturas suben. — [The Guardian · Medio ambiente, Wed, 04 Nov 2026 06:00:27 GMT](https://www.theguardian.com/environment/2026/nov/04/how-penguin-poo-is-making-antarctic-snow-melt-faster) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_bc2f3f6f2d\"></a>\n1. Google lanza proyecto 'The Art of Looking' con el Instituto Courtauld — Google anunció en su blog oficial un nuevo proyecto junto con Google Arts & Culture y el Instituto Courtauld de Arte para examinar obras de arte de nuevas maneras. — [Google, Wed, 04 Nov 2026 10:00:00 +0000](https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/) · oficial.\n\n<a id=\"ev_72371992ac\"></a>\n2. Satélite meteorológico MetOp-SG-B1 preparado para lanzamiento en Guayana Francesa — La Agencia Espacial Europea informó que el satélite MetOp Second Generation-B1 fue trasladado a una sala limpia en el Puerto Espacial de Europa, preparándose para su lanzamiento previsto hacia fin de año. — [Agencia Espacial Europea, Wed, 04 Nov 2026 10:10:00 +0100](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite) · oficial.\n\n<a id=\"ev_51f7fe3fdb\"></a>\n3. NASA publica imagen astronómica del día sobre galaxia IC 342 — NASA publicó en su Astronomy Picture of the Day una imagen de la galaxia IC 342, conocida como 'la galaxia no tan oculta', con explicación de un astrónomo profesional. — [NASA, Wed, 04 Nov 2026 05:05:00 +0000](https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/) · oficial.\n\n<a id=\"ev_8b26573de8\"></a>\n4. NASA publica imagen nocturna del medio oeste de EE.UU. desde el espacio — NASA Earth Observatory publicó una imagen tomada por astronautas mostrando las luces nocturnas del medio oeste de Estados Unidos con cielos despejados. — [NASA, Wed, 04 Nov 2026 05:01:00 +0000](https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/) · oficial.\n\n<a id=\"ev_eb56518c9d\"></a>\n5. Astronautas instalan nuevo panel solar en la Estación Espacial Internacional — NASA reportó que los astronautas Joshua Kutryk y Anil Menon instalaron un nuevo panel solar enrollable en la Estación Espacial Internacional durante una caminata espacial el 29 de octubre de 2026. — [NASA, Tue, 03 Nov 2026 16:37:42 +0000](https://www.nasa.gov/image-article/astronaut-and-earth/) · oficial.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_da539d39be\"></a>\n1. Entradas de refinación global cayeron fuertemente en segundo trimestre de 2026 por conflicto en Medio Oriente — La EIA reportó que las entradas globales de refinación de petróleo crudo cayeron 4,8 millones de barriles diarios (6%) en el segundo trimestre de 2026 tras el inicio del conflicto en Medio Oriente, con recuperación parcial de 1,8 millones b/d en el tercer trimestre. — [EIA, Tue, 3 Nov 2026  09:00:00 EST](https://www.eia.gov/todayinenergy/detail.php?id=68404) · oficial.\n\n## 4. Cadenas de Suministro\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 5. Geopolítica\n\n<a id=\"ev_0a61be3b95\"></a>\n1. Demócratas toman el control del Congreso de EE. UU. en elecciones de medio mandato — The Guardian reportó que los demócratas obtuvieron la mayoría en el Senado y la Cámara de Representantes, flipping escaños en Texas, Iowa, Kansas, Carolina del Norte, Carolina del Sur y Ohio, en un resultado calificado de 'ola azul'. — [The Guardian, Wed, 04 Nov 2026 12:24:00 GMT](https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates) · medio.\n\n<a id=\"ev_3eba771715\"></a>\n2. Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral — The Guardian reportó que la comisión electoral de Israel confirmó los resultados finales de las elecciones del 27 de octubre que despojaron a la coalición de Netanyahu de su mayoría, rechazando sus acusaciones de fraude masivo. — [The Guardian, Wed, 04 Nov 2026 12:19:18 GMT](https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud) · medio.\n\n<a id=\"ev_1790fb2d68\"></a>\n3. Trump anuncia que EE. UU. suspenderá ayuda militar de 4.000 millones de dólares a Israel a fin de año — El País reportó que Trump afirmó haber acordado con Netanyahu suspender a fin de año los 4.000 millones de dólares de ayuda militar a Israel, aunque el pacto vigente no expira hasta 2028 y requiere aprobación del Congreso. — [El País, Tue, 03 Nov 2026 19:00:03 GMT](https://elpais.com/internacional/2026-11-03/trump-dice-que-suspendera-4000-millones-de-dolares-en-ayuda-a-israel.html) · medio.\n\n<a id=\"ev_69e79c5571\"></a>\n4. Equipo del ejército de Ruanda excluido de liga africana tras sanciones de EE. UU. — BBC News reportó que el equipo del ejército de Ruanda fue removido de una liga deportiva africana por la NBA, después de que EE. UU. impusiera sanciones al ejército ruandés por su papel en el conflicto en RD Congo. — [BBC News, Wed, 04 Nov 2026 11:46:09 GMT](https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_1b718fcf2b\"></a>\n5. Asedio hutí de un mes a Taiz genera crisis humanitaria en Yemen — Al Jazeera reportó que el bloqueo hutí sobre Taiz, Yemen, de más de un mes genera advertencias de 'catástrofe' al impedir que lleguen alimentos, agua, combustible y suministros médicos a la ciudad. — [Al Jazeera, Wed, 04 Nov 2026 10:44:46 +0000](https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there?traffic_source=rss) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_5bebc8eceb\"></a>\n1. Rendimientos de bonos del Tesoro de EE. UU. caen tras victoria demócrata en midterms — CNBC informó que los rendimientos de los bonos del Tesoro bajaron el miércoles mientras los inversores evaluaban las victorias demócratas en las elecciones de medio mandato en el Senado y la Cámara. — [CNBC, Wed, 04 Nov 2026 12:25:25 GMT](https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html) · medio.\n\n<a id=\"ev_5b9e793c65\"></a>\n2. Dólar estadounidense cae tras victoria demócrata en midterms por temores de crecimiento — The Guardian reportó que el dólar cayó a un mínimo de un mes tras la victoria demócrata en el Congreso, ante temores de mayor regulación de IA y menor crecimiento económico, mientras inversores buscaron refugio en bonos del Tesoro. — [The Guardian, Wed, 04 Nov 2026 09:55:22 GMT](https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears) · medio.\n\n<a id=\"ev_efea2364bb\"></a>\n3. Inflación de la eurozona alcanza 4% por primera vez en tres años — CNBC reportó que la inflación de la eurozona llegó al 4% en octubre, impulsada por la inflación energética que superó el 20%, lo que aumenta la probabilidad de una subida de tasas por parte del BCE. — [CNBC, Wed, 04 Nov 2026 10:47:30 GMT](https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html) · medio.\n\n<a id=\"ev_c7ecae7ca3\"></a>\n4. BCE prevé crecimiento salarial ligeramente mayor en 2027 frente a 2026 — El Banco Central Europeo publicó su rastreador salarial indicando un crecimiento salarial ligeramente superior en los primeros tres trimestres de 2027 comparado con el total de 2026. — [BCE, Wed, 04 Nov 2026 01:00:00 +0100](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html) · oficial.\n\n<a id=\"ev_4a3cd99270\"></a>\n5. Paraguay interviene Ueno Bank y congela ahorros de millones de clientes — BBC Mundo reportó que Paraguay intervino Ueno Bank, uno de sus mayores bancos con 3 millones de clientes (60% de la población adulta) y más de 800 millones de dólares en fondos públicos gestionados. — [BBC Mundo, Tue, 03 Nov 2026 21:28:19 GMT](https://www.bbc.com/mundo/articles/ckx2qj89lggxo?at_medium=RSS&at_campaign=rss) · medio.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_c9c1c8f981\"></a>\n1. Mapas y gráficos muestran patrones de voto en elecciones de medio mandato de EE. UU. — BBC News publicó un análisis con mapas y gráficos que muestran cómo votaron los distintos estados y demografías en las elecciones de medio mandato estadounidenses. — [BBC News, Wed, 04 Nov 2026 09:53:18 GMT](https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_2c5dab65ca\"></a>\n2. Sudafricanos expresan cansancio ante mala calidad de servicios en elecciones locales — BBC News reportó que, mientras los sudafricanos votan en elecciones locales, residentes expresaron a la cadena su cansancio ante la mala calidad de los servicios públicos que reciben, presionando al ANC. — [BBC News, Wed, 04 Nov 2026 11:47:44 GMT](https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Sin movimiento verificado hoy\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Con movimiento — El resultado de las elecciones de medio mandato en EE. UU. (geopolítica/demografía electoral) tuvo efecto financiero directo e inmediato: caída del dólar a mínimo de un mes y descenso de los rendimientos del Tesoro, según The Guardian y CNBC, que atribuyen el movimiento de mercado explícitamente a la victoria demócrata en el Congreso. [ev_0a61be3b95](#ev_0a61be3b95) [ev_c9c1c8f981](#ev_c9c1c8f981) [ev_5bebc8eceb](#ev_5bebc8eceb) [ev_5b9e793c65](#ev_5b9e793c65)\n\n## Señales a vigilar\n\n- Posibilidad de que la nueva mayoría demócrata en el Congreso impulse mayor regulación de IA, lo que los mercados ya están descontando como riesgo para el crecimiento (The Guardian). [ev_5b9e793c65](#ev_5b9e793c65)\n- Posibilidad de que el BCE suba tasas de interés en próximas reuniones si la inflación energética de la eurozona persiste por encima del objetivo (CNBC). [ev_efea2364bb](#ev_efea2364bb)\n- Posibilidad de que la intervención de Ueno Bank en Paraguay derive en una crisis de confianza bancaria más amplia dado que afecta al 60% de la población adulta (BBC Mundo). [ev_4a3cd99270](#ev_4a3cd99270)\n- Posibilidad de que la suspensión anunciada por Trump de la ayuda militar a Israel no se concrete, dado que el acuerdo vigente no expira hasta 2028 y requiere aprobación del Congreso (El País). [ev_1790fb2d68](#ev_1790fb2d68)\n- Posibilidad de agravamiento de la crisis humanitaria en Taiz, Yemen, si el asedio hutí de más de un mes continúa bloqueando alimentos, agua y combustible (Al Jazeera). [ev_1b718fcf2b](#ev_1b718fcf2b)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-10-29T15:59:00+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-11-03T12:00:00+00:00 |\n| NASA | oficial | Disponible | 5 | 2026-11-04T05:05:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 1 | 2026-11-03T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-11-03T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-02T00:00:00+00:00 |\n| ONU | oficial | No disponible | 0 | Sin fecha verificable |\n| Reserva Federal | oficial | Disponible | 0 | 2026-10-29T20:30:00+00:00 |\n| BCE | oficial | Disponible | 1 | 2026-11-04T00:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-11-03T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 7 | 2026-11-04T10:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-10-29T17:00:55+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | Disponible | 1 | 2026-11-04T09:10:00+00:00 |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-10-09T15:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-05T23:49:41+00:00 |\n| NASA · Comunicados | oficial | Disponible | 5 | 2026-11-04T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-10-29T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | No disponible | 0 | Sin fecha verificable |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-11-03T10:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-04T08:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-10-29T14:03:04+00:00 |\n| BBC News | medio | Disponible | 20 | 2026-11-04T12:21:21+00:00 |\n| BBC Mundo | medio | Disponible | 13 | 2026-11-04T10:22:16+00:00 |\n| CNN | medio | Disponible | 113 | 2026-11-04T12:33:59.021000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-04T12:18:16+00:00 |\n| The Guardian | medio | Disponible | 29 | 2026-11-04T12:29:23+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-04T12:22:55+00:00 |\n| El País | medio | Disponible | 17 | 2026-11-04T11:08:54+00:00 |\n| CNBC | medio | Disponible | 30 | 2026-11-04T12:35:05+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-10-07T17:06:26+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-04T12:27:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 8 | 2026-11-04T11:47:33+00:00 |\n| BBC · Tecnología | medio | Disponible | 4 | 2026-11-04T00:04:35+00:00 |\n| BBC · Economía | medio | Disponible | 12 | 2026-11-04T12:20:42+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-04\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Antártida\", \"Atlántico\", \"Bermudas\", \"Carolina del Norte\", \"Carolina del Sur\", \"Guayana Francesa\", \"Iowa\", \"Israel\", \"Kansas\", \"Londres\", \"Medio Oeste de EE.UU.\", \"Medio Oriente\", \"Ohio\", \"RD Congo\", \"Sudáfrica\", \"Taiz\", \"Texas\"]\npaises: [\"Canadá\", \"Estados Unidos\", \"Francia\", \"Israel\", \"Paraguay\", \"Reino Unido\", \"Ruanda\", \"Sudáfrica\", \"Unión Europea\", \"Yemen\"]\nentidades: [\"ANC\", \"Agencia Espacial Canadiense\", \"Agencia Espacial Europea\", \"Banco Central Europeo\", \"Benjamin Netanyahu\", \"Centro Nacional de Huracanes\", \"Donald Trump\", \"EIA\", \"Ejército de Ruanda\", \"Gadi Eisenkot\", \"Google\", \"Houthis\", \"Instituto Courtauld\", \"Kpler\", \"NASA\", \"NBA\", \"NOAA\", \"ONU\", \"Partido Demócrata\", \"Partido Republicano\", \"Reserva Federal\", \"Tesoro de EE. UU.\", \"Ueno Bank\"]\ntemas: [\"Congreso\", \"adaptación\", \"arte digital\", \"asedio\", \"astronomía\", \"ayuda militar\", \"banca\", \"bonos\", \"clima tropical\", \"conflicto\", \"conflicto armado\", \"crisis humanitaria\", \"cultura\", \"demografía electoral\", \"deshielo\", \"dólar\", \"ecosistemas polares\", \"elecciones\", \"elecciones locales\", \"energía\", \"energía solar\", \"espacio\", \"estación espacial\", \"financiamiento climático\", \"fraude electoral\", \"inflación\", \"intervención financiera\", \"mercados\", \"meteorología espacial\", \"midterms\", \"observación terrestre\", \"patrones electorales\", \"petróleo\", \"pronóstico meteorológico\", \"refinación\", \"relaciones bilaterales\", \"salarios\", \"sanciones\", \"satélites\", \"servicios públicos\", \"tasas de interés\"]\nbucles_activos: [\"Impacto Societal y Financiero\"]\ncorte: \"2026-11-04T12:38:04.951335+00:00\"\ninicio_ventana: \"2026-11-03T12:38:04.951335+00:00\"\nestado: \"completo\"\n```\n",
+  "nexo": {
+    "resumen": [
+      "Las elecciones de medio mandato en EE. UU. dieron el control del Congreso a los demócratas, lo que movió de inmediato los mercados: caída del dólar a mínimo de un mes y descenso de rendimientos del Tesoro ante temores de mayor regulación y menor crecimiento (The Guardian, CNBC).",
+      "En la eurozona la inflación subió a 4% en octubre por el componente energético, lo que eleva la probabilidad de una subida de tasas del BCE (CNBC), mientras el propio BCE publicó su rastreador salarial oficial.",
+      "Paraguay intervino Ueno Bank, uno de sus mayores bancos, congelando ahorros de millones de clientes (BBC Mundo), un evento financiero doméstico sin conexión documentada con otras dimensiones del día.",
+      "En geopolítica, la comisión electoral de Israel rechazó las acusaciones de fraude de Netanyahu, Trump anunció una futura suspensión de ayuda militar a Israel, y continúan las crisis humanitarias en Taiz (Yemen) y las sanciones sobre el ejército de Ruanda.",
+      "En clima y tecnología solo hubo monitoreo rutinario (NOAA, ESA, NASA) y un informe de la ONU sobre estancamiento del financiamiento de adaptación climática, sin vínculos verificables con otras dimensiones en los hechos del día."
+    ],
+    "flujos": {
+      "Presión Climática": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      },
+      "Palanca Geopolítica": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      },
+      "Flujos de Recursos": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      },
+      "Flujos Cibernéticos y de Datos": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      }
+    },
+    "bucles": {
+      "Escasez de Recursos": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      },
+      "Armamentización de la Cadena de Suministro": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      },
+      "Impacto Societal y Financiero": {
+        "estado": "Con movimiento",
+        "texto": "El resultado de las elecciones de medio mandato en EE. UU. (geopolítica/demografía electoral) tuvo efecto financiero directo e inmediato: caída del dólar a mínimo de un mes y descenso de los rendimientos del Tesoro, según The Guardian y CNBC, que atribuyen el movimiento de mercado explícitamente a la victoria demócrata en el Congreso.",
+        "hechos": [
+          "ev_0a61be3b95",
+          "ev_c9c1c8f981",
+          "ev_5bebc8eceb",
+          "ev_5b9e793c65"
+        ]
+      }
+    },
+    "senales": [
+      {
+        "texto": "Posibilidad de que la nueva mayoría demócrata en el Congreso impulse mayor regulación de IA, lo que los mercados ya están descontando como riesgo para el crecimiento (The Guardian).",
+        "hechos": [
+          "ev_5b9e793c65"
+        ]
+      },
+      {
+        "texto": "Posibilidad de que el BCE suba tasas de interés en próximas reuniones si la inflación energética de la eurozona persiste por encima del objetivo (CNBC).",
+        "hechos": [
+          "ev_efea2364bb"
+        ]
+      },
+      {
+        "texto": "Posibilidad de que la intervención de Ueno Bank en Paraguay derive en una crisis de confianza bancaria más amplia dado que afecta al 60% de la población adulta (BBC Mundo).",
+        "hechos": [
+          "ev_4a3cd99270"
+        ]
+      },
+      {
+        "texto": "Posibilidad de que la suspensión anunciada por Trump de la ayuda militar a Israel no se concrete, dado que el acuerdo vigente no expira hasta 2028 y requiere aprobación del Congreso (El País).",
+        "hechos": [
+          "ev_1790fb2d68"
+        ]
+      },
+      {
+        "texto": "Posibilidad de agravamiento de la crisis humanitaria en Taiz, Yemen, si el asedio hutí de más de un mes continúa bloqueando alimentos, agua y combustible (Al Jazeera).",
+        "hechos": [
+          "ev_1b718fcf2b"
+        ]
+      }
+    ],
+    "correcciones": []
+  },
+  "cobertura": {
+    "noaa": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "NOAA",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-29T15:59:00+00:00",
+      "recientes": 0
+    },
+    "openai": {
+      "ok": true,
+      "piezas": 1354,
+      "fuente": "OpenAI",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-03T12:00:00+00:00",
+      "recientes": 0
+    },
+    "nasa": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "NASA",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T05:05:00+00:00",
+      "recientes": 5
+    },
+    "cisa": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "CISA",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "eia": {
+      "ok": true,
+      "piezas": 23,
+      "fuente": "EIA",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-03T14:00:00+00:00",
+      "recientes": 1
+    },
+    "fao": {
+      "ok": true,
+      "piezas": 19,
+      "fuente": "FAO",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-03T12:00:00+00:00",
+      "recientes": 0
+    },
+    "wto": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "OMC",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T00:00:00+00:00",
+      "recientes": 0
+    },
+    "un": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "ONU",
+      "tipo": "oficial",
+      "error": "not well-formed (invalid token): line 1, column 0",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "fed": {
+      "ok": true,
+      "piezas": 20,
+      "fuente": "Reserva Federal",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-29T20:30:00+00:00",
+      "recientes": 0
+    },
+    "ecb": {
+      "ok": true,
+      "piezas": 15,
+      "fuente": "BCE",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T00:00:00+00:00",
+      "recientes": 1
+    },
+    "imf": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "FMI",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "iom": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "OIM",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "unhcr": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "ACNUR",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "un-en": {
+      "ok": true,
+      "piezas": 30,
+      "fuente": "ONU (inglés)",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-03T12:00:00+00:00",
+      "recientes": 0
+    },
+    "consilium": {
+      "ok": true,
+      "piezas": 20,
+      "fuente": "Consejo de la Unión Europea",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "google": {
+      "ok": true,
+      "piezas": 20,
+      "fuente": "Google",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T10:00:00+00:00",
+      "recientes": 7
+    },
+    "microsoft": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "Microsoft",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-28T16:51:35+00:00",
+      "recientes": 0
+    },
+    "meta": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "Meta",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-29T17:00:55+00:00",
+      "recientes": 0
+    },
+    "apple": {
+      "ok": true,
+      "piezas": 20,
+      "fuente": "Apple",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "nist": {
+      "ok": true,
+      "piezas": 40,
+      "fuente": "NIST",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-02T12:00:00+00:00",
+      "recientes": 0
+    },
+    "esa": {
+      "ok": true,
+      "piezas": 9,
+      "fuente": "Agencia Espacial Europea",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T09:10:00+00:00",
+      "recientes": 1
+    },
+    "noaa-ncei": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "NOAA NCEI",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-09T15:00:00+00:00",
+      "recientes": 0
+    },
+    "noaa-nhc": {
+      "ok": true,
+      "piezas": 2,
+      "fuente": "NOAA · Centro Nacional de Huracanes",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-05T23:49:41+00:00",
+      "recientes": 1
+    },
+    "nasa-releases": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "NASA · Comunicados",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T05:05:00+00:00",
+      "recientes": 5
+    },
+    "usda": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Departamento de Agricultura de EE. UU.",
+      "tipo": "oficial",
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "ec-trade": {
+      "ok": true,
+      "piezas": 30,
+      "fuente": "Comisión Europea · Comercio",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-29T23:00:00+00:00",
+      "recientes": 0
+    },
+    "bis": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Banco de Pagos Internacionales",
+      "tipo": "oficial",
+      "error": "El canal no devolvió documentos",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "boe": {
+      "ok": true,
+      "piezas": 50,
+      "fuente": "Banco de Inglaterra",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-03T10:00:00+00:00",
+      "recientes": 0
+    },
+    "boj": {
+      "ok": true,
+      "piezas": 46,
+      "fuente": "Banco de Japón",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T08:00:00+00:00",
+      "recientes": 0
+    },
+    "census": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "Oficina del Censo de EE. UU.",
+      "tipo": "oficial",
+      "error": "",
+      "ultima_publicacion": "2026-10-29T14:03:04+00:00",
+      "recientes": 0
+    },
+    "bbc-world": {
+      "ok": true,
+      "piezas": 25,
+      "fuente": "BBC News",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T12:21:21+00:00",
+      "recientes": 20
+    },
+    "bbc-mundo": {
+      "ok": true,
+      "piezas": 34,
+      "fuente": "BBC Mundo",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T10:22:16+00:00",
+      "recientes": 13
+    },
+    "cnn": {
+      "ok": true,
+      "piezas": 301,
+      "fuente": "CNN",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T12:33:59.021000+00:00",
+      "recientes": 113
+    },
+    "dw-es": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Deutsche Welle",
+      "tipo": "medio",
+      "error": "syntax error: line 1, column 0",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "france24": {
+      "ok": true,
+      "piezas": 24,
+      "fuente": "France 24",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T12:18:16+00:00",
+      "recientes": 24
+    },
+    "guardian": {
+      "ok": true,
+      "piezas": 45,
+      "fuente": "The Guardian",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T12:29:23+00:00",
+      "recientes": 29
+    },
+    "aljazeera": {
+      "ok": true,
+      "piezas": 25,
+      "fuente": "Al Jazeera",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T12:22:55+00:00",
+      "recientes": 25
+    },
+    "elpais": {
+      "ok": true,
+      "piezas": 21,
+      "fuente": "El País",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T11:08:54+00:00",
+      "recientes": 17
+    },
+    "cnbc": {
+      "ok": true,
+      "piezas": 30,
+      "fuente": "CNBC",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T12:35:05+00:00",
+      "recientes": 30
+    },
+    "reuters": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Reuters",
+      "tipo": "agencia",
+      "error": "HTTP Error 404: Not Found",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "reuters-best": {
+      "ok": true,
+      "piezas": 12,
+      "fuente": "Reuters Best",
+      "tipo": "agencia",
+      "error": "",
+      "ultima_publicacion": "2026-10-07T17:06:26+00:00",
+      "recientes": 0
+    },
+    "efe": {
+      "ok": false,
+      "piezas": 0,
+      "fuente": "Agencia EFE",
+      "tipo": "agencia",
+      "error": "HTTP Error 500: Internal Server Error",
+      "ultima_publicacion": null,
+      "recientes": 0
+    },
+    "marketwatch": {
+      "ok": true,
+      "piezas": 10,
+      "fuente": "MarketWatch",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T12:27:00+00:00",
+      "recientes": 10
+    },
+    "guardian-environment": {
+      "ok": true,
+      "piezas": 34,
+      "fuente": "The Guardian · Medio ambiente",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T11:47:33+00:00",
+      "recientes": 8
+    },
+    "bbc-tech": {
+      "ok": true,
+      "piezas": 21,
+      "fuente": "BBC · Tecnología",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T00:04:35+00:00",
+      "recientes": 4
+    },
+    "bbc-business": {
+      "ok": true,
+      "piezas": 44,
+      "fuente": "BBC · Economía",
+      "tipo": "medio",
+      "error": "",
+      "ultima_publicacion": "2026-11-04T12:20:42+00:00",
+      "recientes": 12
+    }
+  }
+}

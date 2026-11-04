@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-03
-nodos: 45
+actualizado: 2026-11-04
+nodos: 42
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-03. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-04. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-45 nodos registrados en el periodo. Lo mas reciente: Rusia bombardea centro de ayuda y refugio en Ucrania matando al menos 29 personas.
+42 nodos registrados en el periodo. Lo mas reciente: Rusia bombardea centro de ayuda y refugio en Ucrania matando al menos 29 personas.
 
 ## Trend summary (EN)
-45 nodes recorded in the period. Most recent: Russia bombs aid centre and shelter in Ukraine, killing at least 29 people.
+42 nodes recorded in the period. Most recent: Russia bombs aid centre and shelter in Ukraine, killing at least 29 people.
 
 > [!note] Estado actual
 > Rusia bombardea centro de ayuda y refugio en Ucrania matando al menos 29 personas
 
-## Nodos recientes (45 en la ventana)
+## Nodos recientes (42 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-03 | 80 | K1 | Rusia bombardea centro de ayuda y refugio en Ucrania matando al  |
