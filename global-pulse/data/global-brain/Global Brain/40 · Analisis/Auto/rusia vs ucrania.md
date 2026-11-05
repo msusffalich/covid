@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-04
+actualizado: 2026-11-05
 nodos: 42
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-04. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-05. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-42 nodos registrados en el periodo. Lo mas reciente: Rusia bombardea centro de ayuda y refugio en Ucrania matando al menos 29 personas.
+42 nodos registrados en el periodo. Lo mas reciente: Rusia y Ucrania intercambian ataques con drones sobre infraestructura energética y logística.
 
 ## Trend summary (EN)
-42 nodes recorded in the period. Most recent: Russia bombs aid centre and shelter in Ukraine, killing at least 29 people.
+42 nodes recorded in the period. Most recent: Russia and Ukraine trade drone strikes on energy and logistics infrastructure.
 
 > [!note] Estado actual
-> Rusia bombardea centro de ayuda y refugio en Ucrania matando al menos 29 personas
+> Rusia y Ucrania intercambian ataques con drones sobre infraestructura energética y logística
 
 ## Nodos recientes (42 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-05 | 55 | K1 | Rusia y Ucrania intercambian ataques con drones sobre infraestru |
 | 2026-11-03 | 80 | K1 | Rusia bombardea centro de ayuda y refugio en Ucrania matando al  |
 | 2026-11-03 | 70 | K0 | Rusia deja a 180.000 personas sin luz en nuevo ataque a infraest |
 | 2026-11-03 | 55 | K1 | Fin de la misión de paz de la ONU en el Sáhara Occidental tras 3 |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-11-01 | 60 | K0 | Concluye evacuación de civiles de Oleshky tras tregua humanitari |
 | 2026-11-01 | 55 | K0 | Evacuados ucranianos de Oleshky se reencuentran con familiares t |
 | 2026-10-31 | 70 | K0 | EE.UU. aprueba venta de 500 misiles Patriot a Ucrania por 2.100  |
-| 2026-10-31 | 55 | K1 | Resoluciones rivales de EE.UU. y Rusia sobre el Sáhara Occidenta |
 
 [[Global Brain — Inicio|← Inicio]]

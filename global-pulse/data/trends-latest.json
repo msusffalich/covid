@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-11-04T12:40:22.591876+00:00",
+    "generado": "2026-11-05T12:51:15.931794+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 35,
-      "ultima_fecha": "2026-11-04",
+      "n_nodos": 33,
+      "ultima_fecha": "2026-11-05",
       "resumen": {
-        "es": "35 nodos registrados en el periodo. Lo mas reciente: Asedio hutí de un mes a Taiz genera crisis humanitaria en Yemen.",
-        "en": "35 nodes recorded in the period. Most recent: Houthis' monthlong siege on Taiz creating humanitarian crisis in Yemen."
+        "es": "33 nodos registrados en el periodo. Lo mas reciente: Guardian: BoE sube tasas al 4% y advierte de nueva subida por guerra en Irán.",
+        "en": "33 nodes recorded in the period. Most recent: Guardian: BoE hikes rates to 4%, warns of further rise amid Iran war."
       },
       "estado": {
-        "es": "Asedio hutí de un mes a Taiz genera crisis humanitaria en Yemen",
-        "en": "Houthis' monthlong siege on Taiz creating humanitarian crisis in Yemen"
+        "es": "Guardian: BoE sube tasas al 4% y advierte de nueva subida por guerra en Irán",
+        "en": "Guardian: BoE hikes rates to 4%, warns of further rise amid Iran war"
       },
       "serie": [
-        {
-          "fecha": "2026-10-15",
-          "max": 82,
-          "n": 5
-        },
         {
           "fecha": "2026-10-16",
           "max": 68,
@@ -98,9 +93,50 @@
           "fecha": "2026-11-04",
           "max": 55,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-05",
+          "max": 65,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "Guardian: BoE sube tasas al 4% y advierte de nueva subida por guerra en Irán",
+            "en": "Guardian: BoE hikes rates to 4%, warns of further rise amid Iran war"
+          },
+          "impacto": 65,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "Vance critica con dureza la derrota republicana y culpa a la guerra con Irán",
+            "en": "Vance sharply criticizes GOP defeat, blames Iran war"
+          },
+          "impacto": 60,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.com/mundo/articles/cxj0l66rrdz4o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo"
+        },
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "EE. UU. sanciona a firmas indias y turcas por ayudar a Irán",
+            "en": "US sanctions Indian and Turkish firms accused of helping Iran"
+          },
+          "impacto": 50,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
         {
           "fecha": "2026-11-04",
           "titulo": {
@@ -208,42 +244,6 @@
           "kardashev": "K1",
           "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
           "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "Chevron y Exxon superan expectativas por alza de márgenes de refinación de diésel",
-            "en": "Chevron and Exxon beat earnings on surging diesel refining profits"
-          },
-          "impacto": 60,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "Resurge la piratería somalí en medio de la guerra entre EE.UU. e Irán que sacude el transporte marítimo",
-            "en": "Somali piracy resurges as US-Iran war rattles shipping"
-          },
-          "impacto": 58,
-          "categoria": "cadenas",
-          "kardashev": "K1",
-          "url": "https://www.cnn.com/2026/10/30/business/video/somali-piracy-back-as-the-us-iran-war-rattles-shipping-digvid-vrtc",
-          "fuente": "CNN"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "Precios del petróleo siguen subiendo pese a recuperación de flujos tras tensión con Irán",
-            "en": "Oil prices keep rising despite recovering flows as Iran turmoil eases"
-          },
-          "impacto": 55,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
-          "fuente": "Al Jazeera"
         }
       ]
     },
@@ -255,21 +255,16 @@
       },
       "color": "#7C6FE4",
       "n_nodos": 42,
-      "ultima_fecha": "2026-11-03",
+      "ultima_fecha": "2026-11-05",
       "resumen": {
-        "es": "42 nodos registrados en el periodo. Lo mas reciente: Rusia bombardea centro de ayuda y refugio en Ucrania matando al menos 29 personas.",
-        "en": "42 nodes recorded in the period. Most recent: Russia bombs aid centre and shelter in Ukraine, killing at least 29 people."
+        "es": "42 nodos registrados en el periodo. Lo mas reciente: Rusia y Ucrania intercambian ataques con drones sobre infraestructura energética y logística.",
+        "en": "42 nodes recorded in the period. Most recent: Russia and Ukraine trade drone strikes on energy and logistics infrastructure."
       },
       "estado": {
-        "es": "Rusia bombardea centro de ayuda y refugio en Ucrania matando al menos 29 personas",
-        "en": "Russia bombs aid centre and shelter in Ukraine, killing at least 29 people"
+        "es": "Rusia y Ucrania intercambian ataques con drones sobre infraestructura energética y logística",
+        "en": "Russia and Ukraine trade drone strikes on energy and logistics infrastructure"
       },
       "serie": [
-        {
-          "fecha": "2026-10-15",
-          "max": 47,
-          "n": 1
-        },
         {
           "fecha": "2026-10-16",
           "max": 62,
@@ -354,9 +349,26 @@
           "fecha": "2026-11-03",
           "max": 80,
           "n": 3
+        },
+        {
+          "fecha": "2026-11-05",
+          "max": 55,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "Rusia y Ucrania intercambian ataques con drones sobre infraestructura energética y logística",
+            "en": "Russia and Ukraine trade drone strikes on energy and logistics infrastructure"
+          },
+          "impacto": 55,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
         {
           "fecha": "2026-11-03",
           "titulo": {
@@ -488,18 +500,6 @@
           "kardashev": "K0",
           "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News"
-        },
-        {
-          "fecha": "2026-10-31",
-          "titulo": {
-            "es": "Resoluciones rivales de EE.UU. y Rusia sobre el Sáhara Occidental fracasan en la ONU",
-            "en": "Rival US and Russian resolutions on Western Sahara fail at UN"
-          },
-          "impacto": 55,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un?traffic_source=rss",
-          "fuente": "Al Jazeera"
         }
       ]
     },
@@ -510,22 +510,17 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 23,
+      "n_nodos": 21,
       "ultima_fecha": "2026-11-04",
       "resumen": {
-        "es": "23 nodos registrados en el periodo. Lo mas reciente: Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral.",
-        "en": "23 nodes recorded in the period. Most recent: Israel's election commission rejects Netanyahu's claims of voting fraud."
+        "es": "21 nodos registrados en el periodo. Lo mas reciente: Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral.",
+        "en": "21 nodes recorded in the period. Most recent: Israel's election commission rejects Netanyahu's claims of voting fraud."
       },
       "estado": {
         "es": "Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral",
         "en": "Israel's election commission rejects Netanyahu's claims of voting fraud"
       },
       "serie": [
-        {
-          "fecha": "2026-10-15",
-          "max": 82,
-          "n": 2
-        },
         {
           "fecha": "2026-10-16",
           "max": 72,
@@ -751,22 +746,17 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 20,
-      "ultima_fecha": "2026-11-03",
+      "n_nodos": 19,
+      "ultima_fecha": "2026-11-05",
       "resumen": {
-        "es": "20 nodos registrados en el periodo. Lo mas reciente: Nasdaq-100 entra en su tercera corrección del año por temores sobre la IA.",
-        "en": "20 nodes recorded in the period. Most recent: Nasdaq-100 tumbles into its third correction this year as AI worries mount."
+        "es": "19 nodos registrados en el periodo. Lo mas reciente: OpenAI presenta marco para infraestructura de IA responsable.",
+        "en": "19 nodes recorded in the period. Most recent: OpenAI introduces framework for responsible AI infrastructure."
       },
       "estado": {
-        "es": "Nasdaq-100 entra en su tercera corrección del año por temores sobre la IA",
-        "en": "Nasdaq-100 tumbles into its third correction this year as AI worries mount"
+        "es": "OpenAI presenta marco para infraestructura de IA responsable",
+        "en": "OpenAI introduces framework for responsible AI infrastructure"
       },
       "serie": [
-        {
-          "fecha": "2026-10-15",
-          "max": 62,
-          "n": 3
-        },
         {
           "fecha": "2026-10-20",
           "max": 55,
@@ -816,9 +806,38 @@
           "fecha": "2026-11-03",
           "max": 65,
           "n": 4
+        },
+        {
+          "fecha": "2026-11-05",
+          "max": 55,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "OpenAI presenta marco para infraestructura de IA responsable",
+            "en": "OpenAI introduces framework for responsible AI infrastructure"
+          },
+          "impacto": 55,
+          "categoria": "tecnologia",
+          "kardashev": "K1",
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "fuente": "OpenAI"
+        },
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "OpenAI anuncia adquisición de Pierre Computer Company",
+            "en": "OpenAI announces acquisition of Pierre Computer Company"
+          },
+          "impacto": 40,
+          "categoria": "tecnologia",
+          "kardashev": "K1",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "fuente": "OpenAI"
+        },
         {
           "fecha": "2026-11-03",
           "titulo": {
@@ -938,30 +957,6 @@
           "kardashev": "K1",
           "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
           "fuente": "OpenAI"
-        },
-        {
-          "fecha": "2026-10-26",
-          "titulo": {
-            "es": "SoftBank planea invertir 50.000 millones de dólares en IA en Malasia",
-            "en": "SoftBank reportedly plans $50 billion AI investment in Malaysia"
-          },
-          "impacto": 55,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-24",
-          "titulo": {
-            "es": "Google actualiza su política de privacidad: Gmail y Google Photos podrían usarse para anuncios personalizados",
-            "en": "Google updates privacy policy: Gmail and Google Photos may be used for targeted ads"
-          },
-          "impacto": 40,
-          "categoria": "tecnologia",
-          "kardashev": "K2",
-          "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-          "fuente": "Ars Technica"
         }
       ]
     },
@@ -972,15 +967,15 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 25,
-      "ultima_fecha": "2026-11-04",
+      "n_nodos": 30,
+      "ultima_fecha": "2026-11-05",
       "resumen": {
-        "es": "25 nodos registrados en el periodo. Lo mas reciente: NOAA monitorea sistema de baja presión con potencial subtropical en el Atlántico.",
-        "en": "25 nodes recorded in the period. Most recent: NOAA monitors low pressure system with subtropical potential in the Atlantic."
+        "es": "30 nodos registrados en el periodo. Lo mas reciente: CNN: inundación 'catastrófica' provoca rescates y evacuaciones en Georgia y Tennessee.",
+        "en": "30 nodes recorded in the period. Most recent: CNN: 'catastrophic flood event' triggers rescues and evacuations in Georgia and Tennessee."
       },
       "estado": {
-        "es": "NOAA monitorea sistema de baja presión con potencial subtropical en el Atlántico",
-        "en": "NOAA monitors low pressure system with subtropical potential in the Atlantic"
+        "es": "CNN: inundación 'catastrófica' provoca rescates y evacuaciones en Georgia y Tennessee",
+        "en": "CNN: 'catastrophic flood event' triggers rescues and evacuations in Georgia and Tennessee"
       },
       "serie": [
         {
@@ -1057,9 +1052,74 @@
           "fecha": "2026-11-04",
           "max": 30,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-05",
+          "max": 50,
+          "n": 5
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "CNN: inundación 'catastrófica' provoca rescates y evacuaciones en Georgia y Tennessee",
+            "en": "CNN: 'catastrophic flood event' triggers rescues and evacuations in Georgia and Tennessee"
+          },
+          "impacto": 50,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
+          "fuente": "CNN"
+        },
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "Estudio: las tormentas más intensas del mundo se concentran y agravan riesgo de inundación y sequía",
+            "en": "Study: world's wettest rainstorms intensify, worsening flood and drought risk"
+          },
+          "impacto": 45,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/news/2026/nov/05/worlds-wettest-rainstorms-getting-worse-flood-drought-risk",
+          "fuente": "The Guardian · Medio ambiente"
+        },
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "NOAA: niveles del agua costera en California baten récords",
+            "en": "NOAA: California coastal water levels break records"
+          },
+          "impacto": 40,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.noaa.gov/stories/california-coastal-water-levels-break-records",
+          "fuente": "NOAA"
+        },
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "Guardian: South West Water enfrenta señalamiento por fugas en medio de sequía severa",
+            "en": "Guardian: South West Water flagged over leaks amid severe drought"
+          },
+          "impacto": 40,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/business/2026/nov/05/south-west-water-failure-fix-leaks-putting-customer-supplies-at-risk",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "NOAA: Centro Nacional de Huracanes vigila sistema subtropical en el Atlántico",
+            "en": "NOAA: National Hurricane Center monitors subtropical system in the Atlantic"
+          },
+          "impacto": 30,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
+          "fuente": "NOAA · Centro Nacional de Huracanes"
+        },
         {
           "fecha": "2026-11-04",
           "titulo": {
@@ -1143,66 +1203,6 @@
           "kardashev": "K1",
           "url": "https://news.un.org/feed/view/es/story/2026/10/1542116",
           "fuente": "ONU"
-        },
-        {
-          "fecha": "2026-10-29",
-          "titulo": {
-            "es": "La capacidad del océano para absorber CO₂ se debilita, advierte la ONU",
-            "en": "Ocean's ability to absorb CO2 is weakening, UN warns"
-          },
-          "impacto": 60,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://news.un.org/feed/view/es/story/2026/10/1542117",
-          "fuente": "ONU"
-        },
-        {
-          "fecha": "2026-10-29",
-          "titulo": {
-            "es": "NOAA no prevé formación de ciclones tropicales en el Atlántico en 7 días",
-            "en": "NOAA forecasts no tropical cyclone formation in Atlantic for 7 days"
-          },
-          "impacto": 20,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
-          "fuente": "NOAA · Centro Nacional de Huracanes"
-        },
-        {
-          "fecha": "2026-10-28",
-          "titulo": {
-            "es": "Ciclón Arnab toca tierra en Andhra Pradesh, India, con evacuación de 180.000 personas",
-            "en": "Cyclone Arnab makes landfall in India's Andhra Pradesh, 180,000 evacuated"
-          },
-          "impacto": 55,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh?traffic_source=rss",
-          "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-10-28",
-          "titulo": {
-            "es": "Gobierno británico dice que yacimiento petrolero Rosebank no violaría metas de emisiones",
-            "en": "UK government says Rosebank oilfield would not breach emission targets"
-          },
-          "impacto": 50,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/environment/2026/oct/27/rosebank-oilfield-north-sea-uk-emissions-targets-insiders",
-          "fuente": "The Guardian · Medio ambiente"
-        },
-        {
-          "fecha": "2026-10-27",
-          "titulo": {
-            "es": "Oxfam halla que súper ricos obtienen 'doble dividendo' del cambio climático",
-            "en": "Oxfam finds super-rich get 'double dividend' from climate crisis"
-          },
-          "impacto": 55,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/environment/2026/oct/27/super-rich-double-dividend-climate-crisis-oxfam",
-          "fuente": "The Guardian · Medio ambiente"
         }
       ]
     },
@@ -1213,22 +1213,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 68,
-      "ultima_fecha": "2026-11-04",
+      "n_nodos": 71,
+      "ultima_fecha": "2026-11-05",
       "resumen": {
-        "es": "68 nodos registrados en el periodo. Lo mas reciente: Inflación de la eurozona alcanza 4% por primera vez en tres años.",
-        "en": "68 nodes recorded in the period. Most recent: Euro zone inflation hits 4% for first time in three years."
+        "es": "Entre el 3 y el 5 de noviembre de 2026, los principales bancos centrales (RBA, BoE) subieron tasas de interés para contener una inflación impulsada por el encarecimiento de la energía, agravado por el conflicto en Irán que redujo la capacidad de refinación global. La eurozona registró inflación del 4%, aumentando las expectativas de que el BCE también endurezca su política, mientras la libra se fortalece y los mercados de petróleo reaccionan a señales diplomáticas sobre el conflicto en Medio Oriente.",
+        "en": "Between November 3 and 5, 2026, major central banks (RBA, BoE) raised interest rates to curb inflation driven by rising energy costs, worsened by the Iran conflict which cut global refining capacity. The eurozone recorded 4% inflation, raising expectations that the ECB will also tighten policy, while the pound strengthens and oil markets react to diplomatic signals over the Middle East conflict."
       },
       "estado": {
-        "es": "Inflación de la eurozona alcanza 4% por primera vez en tres años",
-        "en": "Euro zone inflation hits 4% for first time in three years"
+        "es": "El Banco de Inglaterra elevó su tasa al 4% y advirtió sobre posibles nuevas subidas, en un contexto de inflación global creciente ligada a la crisis energética derivada de la guerra en Irán.",
+        "en": "The Bank of England raised its rate to 4% and warned of possible further hikes, amid rising global inflation linked to the energy crisis stemming from the war in Iran."
       },
       "serie": [
-        {
-          "fecha": "2026-10-15",
-          "max": 82,
-          "n": 3
-        },
         {
           "fecha": "2026-10-16",
           "max": 68,
@@ -1318,9 +1313,86 @@
           "fecha": "2026-11-04",
           "max": 60,
           "n": 3
+        },
+        {
+          "fecha": "2026-11-05",
+          "max": 70,
+          "n": 6
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "El Banco de Inglaterra sube la tasa de interés a 4%, primera subida en más de tres años",
+            "en": "Bank of England raises rate to 4%, first hike in more than three years"
+          },
+          "impacto": 70,
+          "categoria": "finanzas",
+          "kardashev": "K0",
+          "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+          "fuente": "Banco de Inglaterra"
+        },
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "Guardian: BoE sube tasas al 4% y advierte de nueva subida por guerra en Irán",
+            "en": "Guardian: BoE hikes rates to 4%, warns of further rise amid Iran war"
+          },
+          "impacto": 65,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "La libra alcanza su nivel más alto desde el Brexit tras las elecciones en EE. UU.",
+            "en": "Pound hits highest level since Brexit vote after US midterm elections"
+          },
+          "impacto": 55,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/business/2026/nov/05/pound-hits-highest-level-since-2016-brexit-vote",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "BCE: Schnabel analiza la política monetaria en discurso oficial",
+            "en": "ECB: Schnabel discusses monetary policy in official speech"
+          },
+          "impacto": 40,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+          "fuente": "BCE"
+        },
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "BCE: Cipollone aborda el futuro del dinero en discurso oficial",
+            "en": "ECB: Cipollone addresses the future of money in official speech"
+          },
+          "impacto": 35,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+          "fuente": "BCE"
+        },
+        {
+          "fecha": "2026-11-05",
+          "titulo": {
+            "es": "Deoleo cae 18% tras acuerdo de adquisición entre rivales de aceite de oliva",
+            "en": "Deoleo plunges 18% after rivals agree to takeover deal"
+          },
+          "impacto": 35,
+          "categoria": "recursos",
+          "kardashev": "K2",
+          "url": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
+          "fuente": "CNBC"
+        },
         {
           "fecha": "2026-11-04",
           "titulo": {
@@ -1388,78 +1460,6 @@
             "en": "Super El Niño causes disaster in Galápagos, forcing closure of tourist attractions"
           },
           "impacto": 45,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cr3wv0pgg31vo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
-        },
-        {
-          "fecha": "2026-11-03",
-          "titulo": {
-            "es": "Estratega petrolero ve punto de inflexión en el fuerte repunte del crudo",
-            "en": "Oil has had a massive run, but a prominent bull sees a turning point on midterm eve"
-          },
-          "impacto": 40,
-          "categoria": "recursos",
-          "kardashev": "K0",
-          "url": "https://www.marketwatch.com/story/oil-has-had-a-massive-run-but-a-prominent-bull-sees-a-turning-point-on-midterm-eve-be2c5fa7?mod=mw_rss_topstories",
-          "fuente": "MarketWatch"
-        },
-        {
-          "fecha": "2026-11-02",
-          "titulo": {
-            "es": "Binance sufre el mayor hackeo cripto de la historia con 6.300 millones de dólares",
-            "en": "Binance suffers largest-ever crypto hack worth $6.3 billion"
-          },
-          "impacto": 68,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News"
-        },
-        {
-          "fecha": "2026-11-02",
-          "titulo": {
-            "es": "Más tráfico y ataques en el estrecho de Ormuz no bajan el precio del petróleo",
-            "en": "More traffic and attacks in Strait of Hormuz fail to lower oil prices"
-          },
-          "impacto": 65,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://elpais.com/internacional/2026-11-02/la-triple-paradoja-de-ormuz-mas-barcos-cruzando-mas-ataques-y-el-petroleo-por-las-nubes.html",
-          "fuente": "El País"
-        },
-        {
-          "fecha": "2026-11-02",
-          "titulo": {
-            "es": "Goldman Sachs proyecta petróleo promedio de 130 dólares por barril en 2027",
-            "en": "Goldman Sachs projects oil averaging $130 per barrel in 2027"
-          },
-          "impacto": 58,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
-          "fuente": "MarketWatch"
-        },
-        {
-          "fecha": "2026-11-02",
-          "titulo": {
-            "es": "Crudo estadounidense cae bajo los 100 dólares por esfuerzos diplomáticos EE.UU.-Irán",
-            "en": "US crude falls below $100 amid US-Iran diplomatic efforts"
-          },
-          "impacto": 56,
-          "categoria": "recursos",
-          "kardashev": "K0",
-          "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-11-02",
-          "titulo": {
-            "es": "El Súper Niño causa desastre en Galápagos y obliga a cerrar atracciones turísticas",
-            "en": "Super El Niño causes disaster in Galapagos, forces tourist site closures"
-          },
-          "impacto": 54,
           "categoria": "clima",
           "kardashev": "K1",
           "url": "https://www.bbc.com/mundo/articles/cr3wv0pgg31vo?at_medium=RSS&at_campaign=rss",
