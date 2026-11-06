@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-05
-nodos: 21
+actualizado: 2026-11-06
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-05. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-06. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-21 nodos registrados en el periodo. Lo mas reciente: Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral.
+20 nodos registrados en el periodo. Lo mas reciente: Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral.
 
 ## Trend summary (EN)
-21 nodes recorded in the period. Most recent: Israel's election commission rejects Netanyahu's claims of voting fraud.
+20 nodes recorded in the period. Most recent: Israel's election commission rejects Netanyahu's claims of voting fraud.
 
 > [!note] Estado actual
 > Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-04 | 65 | K0 | Comisión electoral de Israel rechaza acusaciones de Netanyahu de |

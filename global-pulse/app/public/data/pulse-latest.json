@@ -1,255 +1,38 @@
 {
   "meta": {
     "schema": "2.0",
-    "fecha": "2026-11-05",
-    "generado": "2026-11-05T12:50:42.603800+00:00",
+    "fecha": "2026-11-06",
+    "generado": "2026-11-06T12:35:02.517719+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "nodos": 23,
-      "verificados": 23,
-      "piezas_ingeridas": 192,
+      "nodos": 24,
+      "verificados": 24,
+      "piezas_ingeridas": 190,
       "canales_consultados": 46,
       "canales_disponibles": 35,
-      "documentos_recientes": 288
+      "documentos_recientes": 325
     },
     "descargo": "",
-    "corte": "2026-11-05T12:48:44.857427+00:00",
-    "reporte_sha256": "631448dc2daf22289926e60e334cb0c9f42eaff4d29c275393cce610fe69c4b8",
+    "corte": "2026-11-06T12:33:06.921691+00:00",
+    "reporte_sha256": "4f3fa11ffc174cdb1c0f6b6843e0998bc5367e94804ae301eb3ed997d079143a",
     "estado": "completo",
     "politica_fuentes": "mixta-v1",
-    "reporte_archivo": "2026-11-05 — Pulso.md"
+    "reporte_archivo": "2026-11-06 — Pulso.md"
   },
   "nodos": [
     {
       "titulo": {
-        "es": "El Banco de Inglaterra sube la tasa de interés a 4%, primera subida en más de tres años",
-        "en": "Bank of England raises rate to 4%, first hike in more than three years"
+        "es": "Más de 40 ballenas piloto mueren en varamiento masivo en Nueva Zelanda",
+        "en": "Over 40 pilot whales die in mass stranding in New Zealand"
       },
       "sintesis": {
-        "es": "El Comité de Política Monetaria del Banco de Inglaterra elevó la tasa base de 3,75% a 4%, la primera subida en tres años, citando presiones inflacionarias vinculadas al alza de costos energéticos.",
-        "en": "The Bank of England's Monetary Policy Committee raised the base rate from 3.75% to 4%, the first hike in three years, citing inflation pressures linked to rising energy costs."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Banco de Inglaterra",
-        "Monetary Policy Committee"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 70,
-      "fuentes": [
-        "ev_cf9fb2cadc"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_cf9fb2cadc",
-          "titulo": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
-          "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
-          "fuente": "Banco de Inglaterra",
-          "fecha": "Thu, 05 Nov 2026 12:00:00 Z",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-05_0000",
-      "fecha": "2026-11-05",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-05_0001",
-        "nd_2026-11-05_0004"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Guardian: BoE sube tasas al 4% y advierte de nueva subida por guerra en Irán",
-        "en": "Guardian: BoE hikes rates to 4%, warns of further rise amid Iran war"
-      },
-      "sintesis": {
-        "es": "Según The Guardian, ocho miembros del comité del Banco de Inglaterra votaron subir la tasa base a 4% para combatir la inflación provocada por el encarecimiento de la energía derivado de la guerra en Irán; un miembro pidió medio punto más.",
-        "en": "According to The Guardian, eight Bank of England committee members voted to raise the base rate to 4% to combat inflation driven by energy costs linked to the Iran war; one member sought a bigger half-point rise."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Banco de Inglaterra"
-      ],
-      "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
-      },
-      "impacto": 65,
-      "fuentes": [
-        "ev_c1241296b8"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/d6ebd9b4d868a9da787c0f6b207548c78ad7ab28/586_197_4797_3840/master/4797.jpg?width=140&quality=85&auto=format&fit=max&s=6b8dbc64af07e342604bb536b83ddf1b"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_c1241296b8",
-          "titulo": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-          "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 05 Nov 2026 12:00:31 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-05_0001",
-      "fecha": "2026-11-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-05_0000",
-        "nd_2026-11-05_0004",
-        "nd_2026-11-05_0018"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "BCE: Schnabel analiza la política monetaria en discurso oficial",
-        "en": "ECB: Schnabel discusses monetary policy in official speech"
-      },
-      "sintesis": {
-        "es": "La miembro del Comité Ejecutivo del BCE Isabel Schnabel pronunció un discurso titulado 'Navigating stormy waters: reflections on monetary policy', publicado en el sitio oficial del Banco Central Europeo.",
-        "en": "ECB Executive Board member Isabel Schnabel delivered a speech titled 'Navigating stormy waters: reflections on monetary policy', published on the European Central Bank's official site."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "BCE",
-        "Isabel Schnabel"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_329560e31b"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_329560e31b",
-          "titulo": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
-          "fuente": "BCE",
-          "fecha": "Thu, 05 Nov 2026 09:00:00 +0100",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-05_0002",
-      "fecha": "2026-11-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-05_0003"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "BCE: Cipollone aborda el futuro del dinero en discurso oficial",
-        "en": "ECB: Cipollone addresses the future of money in official speech"
-      },
-      "sintesis": {
-        "es": "El miembro del Comité Ejecutivo del BCE Piero Cipollone pronunció el discurso 'Shaping the future of money', publicado en la web oficial del Banco Central Europeo.",
-        "en": "ECB Executive Board member Piero Cipollone delivered the speech 'Shaping the future of money', published on the European Central Bank's official website."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "BCE",
-        "Piero Cipollone"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 35,
-      "fuentes": [
-        "ev_5738531a49"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_5738531a49",
-          "titulo": "Piero Cipollone: Shaping the future of money",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
-          "fuente": "BCE",
-          "fecha": "Thu, 05 Nov 2026 08:30:00 +0100",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-05_0003",
-      "fecha": "2026-11-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-05_0002"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "La libra alcanza su nivel más alto desde el Brexit tras las elecciones en EE. UU.",
-        "en": "Pound hits highest level since Brexit vote after US midterm elections"
-      },
-      "sintesis": {
-        "es": "Según The Guardian, datos del Banco de Inglaterra mostraron que la libra alcanzó su nivel más fuerte frente a una cesta de divisas desde el referéndum del Brexit de 2016, tras la caída del dólar posterior a las elecciones de medio mandato en EE. UU.",
-        "en": "According to The Guardian, Bank of England data showed the pound reached its strongest level against a basket of currencies since the 2016 Brexit referendum, following the dollar's fall after the US midterm elections."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Banco de Inglaterra"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_526d146e21"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/2b49d8c298006708feefeb53f442887e6b7d1adf/668_0_4497_3600/master/4497.jpg?width=140&quality=85&auto=format&fit=max&s=72be4bd07bd4f0a89b2f63c30a507cd1"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_526d146e21",
-          "titulo": "Pound hits highest level since its crash after 2016 Brexit vote",
-          "url": "https://www.theguardian.com/business/2026/nov/05/pound-hits-highest-level-since-2016-brexit-vote",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 05 Nov 2026 11:14:30 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-05_0004",
-      "fecha": "2026-11-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-05_0000",
-        "nd_2026-11-05_0001"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "NOAA: Centro Nacional de Huracanes vigila sistema subtropical en el Atlántico",
-        "en": "NOAA: National Hurricane Center monitors subtropical system in the Atlantic"
-      },
-      "sintesis": {
-        "es": "El Centro Nacional de Huracanes de la NOAA reportó una baja presión no tropical al sur de Bermudas con 30% de probabilidad de formación en 48 horas y 50% en 7 días, pudiendo adquirir características subtropicales este fin de semana.",
-        "en": "NOAA's National Hurricane Center reported a non-tropical low south of Bermuda with a 30% chance of formation in 48 hours and 50% in 7 days, potentially acquiring subtropical characteristics this weekend."
+        "es": "El Departamento de Conservación de Nueva Zelanda informó que 43 ballenas piloto murieron tras un varamiento masivo en la costa de Ngawi, Isla Norte, pese a esfuerzos de rescate de voluntarios.",
+        "en": "New Zealand's Department of Conservation reported 43 pilot whales died in a mass stranding along the Ngawi coast, North Island, despite rescue efforts by volunteers."
       },
       "categoria": "clima",
       "actores": [
-        "NOAA",
-        "Centro Nacional de Huracanes"
+        "Department of Conservation"
       ],
       "geo": {
         "lat": 0.0,
@@ -258,206 +41,160 @@
       },
       "impacto": 30,
       "fuentes": [
-        "ev_1922f3f40d"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1922f3f40d",
-          "titulo": "Atlantic Tropical Weather Outlook",
-          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
-          "fuente": "NOAA · Centro Nacional de Huracanes",
-          "fecha": "Thu, 05 Nov 2026 11:49:37 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-05_0005",
-      "fecha": "2026-11-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-05_0006",
-        "nd_2026-11-05_0007"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "NOAA actualiza mapas costeros en Maine para mejorar planificación ante el clima",
-        "en": "NOAA updates Maine shoreline maps to improve climate-ready coastal planning"
-      },
-      "sintesis": {
-        "es": "NOAA, junto con socios locales, actualizó los mapas de la línea costera de Maine para mejorar la planificación costera en el marco de su programa Climate-Ready Coasts, según comunicado oficial del 4 de noviembre.",
-        "en": "NOAA, with local partners, updated Maine's shoreline maps to improve coastal planning under its Climate-Ready Coasts program, according to an official statement dated November 4."
-      },
-      "categoria": "clima",
-      "actores": [
-        "NOAA"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 30,
-      "fuentes": [
-        "ev_385b4f6ef4"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_385b4f6ef4",
-          "titulo": "Maine partners update shoreline maps to improve coastal planning",
-          "url": "https://www.noaa.gov/stories/maine-partners-update-shoreline-maps-to-improve-coastal-planning",
-          "fuente": "NOAA",
-          "fecha": "Wed, 04 Nov 2026 20:01:47 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-05_0006",
-      "fecha": "2026-11-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-05_0005",
-        "nd_2026-11-05_0007"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "NOAA: niveles del agua costera en California baten récords",
-        "en": "NOAA: California coastal water levels break records"
-      },
-      "sintesis": {
-        "es": "NOAA reportó que los niveles de agua costera en California alcanzaron registros récord, en el marco de su programa Climate-Ready Coasts sobre inundaciones costeras, según comunicado oficial del 4 de noviembre.",
-        "en": "NOAA reported that California coastal water levels reached record highs, under its Climate-Ready Coasts program on coastal flooding, according to an official statement dated November 4."
-      },
-      "categoria": "clima",
-      "actores": [
-        "NOAA"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_ac527e7d06"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ac527e7d06",
-          "titulo": "California coastal water levels break records",
-          "url": "https://www.noaa.gov/stories/california-coastal-water-levels-break-records",
-          "fuente": "NOAA",
-          "fecha": "Wed, 04 Nov 2026 19:43:03 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-05_0007",
-      "fecha": "2026-11-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-05_0005",
-        "nd_2026-11-05_0006"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Estudio: las tormentas más intensas del mundo se concentran y agravan riesgo de inundación y sequía",
-        "en": "Study: world's wettest rainstorms intensify, worsening flood and drought risk"
-      },
-      "sintesis": {
-        "es": "Según The Guardian, un estudio de investigadores de la Universidad Normal de Pekín analizó mediciones de más de 19.000 pluviómetros entre 1980 y 2022 y halló que las lluvias más intensas se concentran en menos días, aumentando riesgos de inundación y sequía.",
-        "en": "According to The Guardian, a study by Beijing Normal University researchers analyzed data from over 19,000 rain gauges between 1980 and 2022 and found intense rainfall is compressing into fewer days, raising flood and drought risks."
-      },
-      "categoria": "clima",
-      "actores": [
-        "Universidad Normal de Pekín"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_b0f0daf65f"
+        "ev_5be9f51c9a"
       ],
       "imagenes": [
-        "https://i.guim.co.uk/img/media/734320651b835d9b3799fc2e85a04825ba774c5c/431_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=6f8111662bfb6371a6c553dcbb1deee4"
+        "https://i.guim.co.uk/img/media/7832835a47ae0dafc7191e12ff857c3aa6d28de7/68_0_5851_4681/master/5851.jpg?width=140&quality=85&auto=format&fit=max&s=b19c63aebbd1847909e6b6e9bbaa95a1"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_b0f0daf65f",
-          "titulo": "World’s wettest rainstorms are getting wetter, affecting flood and drought risk",
-          "url": "https://www.theguardian.com/news/2026/nov/05/worlds-wettest-rainstorms-getting-worse-flood-drought-risk",
+          "id": "ev_5be9f51c9a",
+          "titulo": "More than 40 pilot whales die after mass stranding in New Zealand’s North Island",
+          "url": "https://www.theguardian.com/world/2026/nov/06/pilot-whales-dead-stranded-new-zealand-north-island",
           "fuente": "The Guardian · Medio ambiente",
-          "fecha": "Thu, 05 Nov 2026 06:00:54 GMT",
+          "fecha": "Fri, 06 Nov 2026 04:45:33 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-05_0008",
-      "fecha": "2026-11-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-05_0015"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "CNN: inundación 'catastrófica' provoca rescates y evacuaciones en Georgia y Tennessee",
-        "en": "CNN: 'catastrophic flood event' triggers rescues and evacuations in Georgia and Tennessee"
-      },
-      "sintesis": {
-        "es": "Según CNN, rescates acuáticos y evacuaciones estaban en curso tras un evento de inundación calificado como 'catastrófico' en el norte de Georgia y el sur de Tennessee, en las localidades de McCaysville y Copperhill.",
-        "en": "According to CNN, water rescues and evacuations were underway after a flood event described as 'catastrophic' hit North Georgia and southern Tennessee, in the towns of McCaysville and Copperhill."
-      },
-      "categoria": "clima",
-      "actores": [
-        "CNN"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 50,
-      "fuentes": [
-        "ev_f86c1c28ed"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f86c1c28ed",
-          "titulo": "Water rescues, evacuations underway as ‘catastrophic flood event’ hits North Georgia and southern Tennessee",
-          "url": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
-          "fuente": "CNN",
-          "fecha": "2026-11-05T12:24:02.955Z",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-05_0009",
-      "fecha": "2026-11-05",
+      "id": "nd_2026-11-06_0000",
+      "fecha": "2026-11-06",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "OpenAI presenta marco para infraestructura de IA responsable",
-        "en": "OpenAI introduces framework for responsible AI infrastructure"
+        "es": "Árboles del Reino Unido florecen prematuramente por otoño anómalamente cálido",
+        "en": "UK trees bloom prematurely amid unusually warm autumn"
       },
       "sintesis": {
-        "es": "OpenAI presentó su 'National Community Compact' y un 'Compute Campus Policy Blueprint' para proteger recursos locales, crear empleos y guiar el desarrollo responsable de infraestructura de IA, según comunicado oficial.",
-        "en": "OpenAI introduced its 'National Community Compact' and 'Compute Campus Policy Blueprint' to protect local resources, create jobs, and guide responsible AI infrastructure development, per an official statement."
+        "es": "Expertos citados por The Guardian advierten que octubre fue el noveno mes consecutivo con temperaturas medias superiores al promedio en el Reino Unido, causando una floración de primavera fuera de temporada que podría dañar a los polinizadores.",
+        "en": "Experts cited by The Guardian warn October marked the ninth consecutive month of above-average UK temperatures, causing out-of-season spring flowering that could harm pollinators."
+      },
+      "categoria": "clima",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 25,
+      "fuentes": [
+        "ev_dd7c0e03e5"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/1a5cfd7b6922453267b672c77068483e24c0c6ad/0_769_3072_2457/master/3072.jpg?width=140&quality=85&auto=format&fit=max&s=ee38be244adb7ca35d09c809276a59b6"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_dd7c0e03e5",
+          "titulo": "‘Everything is so out of whack’: UK trees experience spring six months early",
+          "url": "https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn",
+          "fuente": "The Guardian",
+          "fecha": "Fri, 06 Nov 2026 11:00:51 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0001",
+      "fecha": "2026-11-06",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Calor fuera de temporada y tormentas severas afectan el este de EE.UU. y votación en varios estados",
+        "en": "Unseasonable heat and severe storms hit eastern US and affect voting in several states"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó temperaturas hasta 10°C por encima del promedio en Nueva York y Boston, y tormentas severas con un tornado en Keyes, Oklahoma, que obligó a reubicar un centro de votación durante las elecciones de mitad de mandato.",
+        "en": "The Guardian reported temperatures up to 10°C above average in New York and Boston, and severe storms with a tornado in Keyes, Oklahoma, forcing relocation of a polling station during midterm elections."
+      },
+      "categoria": "clima",
+      "actores": [],
+      "geo": {
+        "lat": 23.6,
+        "lon": -102.5,
+        "region": "Norteamerica"
+      },
+      "impacto": 30,
+      "fuentes": [
+        "ev_591ea8fb57"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/a7dcae1881b9409544c10f165f1a48f73083ff87/0_0_3563_2850/master/3563.jpg?width=140&quality=85&auto=format&fit=max&s=431971dd5b5626d882054c175b9843a5"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_591ea8fb57",
+          "titulo": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+          "url": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
+          "fuente": "The Guardian",
+          "fecha": "Fri, 06 Nov 2026 09:54:12 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0002",
+      "fecha": "2026-11-06",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Google lanza Omni 1.2 Flash para generar videos de IA más largos en Vids",
+        "en": "Google launches Omni 1.2 Flash for longer AI video generation in Vids"
+      },
+      "sintesis": {
+        "es": "Google anunció en su blog oficial el modelo Omni 1.2 Flash para Google Vids, que permite generar clips de 15 segundos con escenas consistentes de forma gratuita.",
+        "en": "Google announced on its official blog the Omni 1.2 Flash model for Google Vids, enabling 15-second clip generation with consistent scenes at no cost."
       },
       "categoria": "tecnologia",
       "actores": [
-        "OpenAI"
+        "Google"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 30,
+      "fuentes": [
+        "ev_cfee7a9c40"
+      ],
+      "imagenes": [
+        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pics-blog-header-2784x1566.max-600x600.format-webp.webp"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_cfee7a9c40",
+          "titulo": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+          "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
+          "fuente": "Google",
+          "fecha": "Thu, 05 Nov 2026 20:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0003",
+      "fecha": "2026-11-06",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-06_0004"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Google invierte 17.000 millones de dólares en centro de datos en Wyoming",
+        "en": "Google invests $17 billion in data center in Wyoming"
+      },
+      "sintesis": {
+        "es": "Google anunció oficialmente la construcción de su primer centro de datos en Wyoming, con una inversión de 17.000 millones de dólares en infraestructura, energía y empleo local.",
+        "en": "Google officially announced construction of its first data center in Wyoming, with a $17 billion investment in infrastructure, energy and local jobs."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Google"
       ],
       "geo": {
         "lat": 0.0,
@@ -466,166 +203,120 @@
       },
       "impacto": 55,
       "fuentes": [
-        "ev_65e3236c57"
+        "ev_053181aeba"
+      ],
+      "imagenes": [
+        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero2.max-600x600.format-webp.webp"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_053181aeba",
+          "titulo": "Investing in Wyoming’s infrastructure, energy and workforce",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
+          "fuente": "Google",
+          "fecha": "Thu, 05 Nov 2026 17:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0004",
+      "fecha": "2026-11-06",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-06_0003"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Meta añade voz y avatares expresivos a su app de IA Muse",
+        "en": "Meta adds voice and expressive avatars to its Muse AI app"
+      },
+      "sintesis": {
+        "es": "Meta anunció oficialmente que incorpora voz y avatares expresivos a su aplicación Muse, permitiendo una nueva forma de interacción natural con el asistente de IA.",
+        "en": "Meta officially announced it is adding voice and expressive avatars to its Muse app, enabling a new natural way to interact with the AI assistant."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Meta"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 25,
+      "fuentes": [
+        "ev_5131c26da3"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_65e3236c57",
-          "titulo": "Setting a new standard for responsible AI infrastructure",
-          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-          "fuente": "OpenAI",
-          "fecha": "Thu, 05 Nov 2026 02:00:00 GMT",
+          "id": "ev_5131c26da3",
+          "titulo": "Give Your Muse a Voice",
+          "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
+          "fuente": "Meta",
+          "fecha": "Thu, 05 Nov 2026 18:30:58 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-05_0010",
-      "fecha": "2026-11-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-05_0011"
-      ]
+      "id": "nd_2026-11-06_0005",
+      "fecha": "2026-11-06",
+      "kardashev": "K0",
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "OpenAI anuncia adquisición de Pierre Computer Company",
-        "en": "OpenAI announces acquisition of Pierre Computer Company"
+        "es": "OpenAI destaca uso de Codex por la empresa india Cult.fit",
+        "en": "OpenAI highlights Indian company Cult.fit's use of Codex"
       },
       "sintesis": {
-        "es": "OpenAI anunció que adquirirá Pierre Computer Company, Inc. para expandir las herramientas de Codex orientadas a construir, entender y revisar código, según comunicado oficial.",
-        "en": "OpenAI announced it will acquire Pierre Computer Company, Inc. to expand Codex's tools for building, understanding, and reviewing code, per an official statement."
+        "es": "OpenAI publicó un caso oficial sobre cómo Cult.fit usa su herramienta Codex para que equipos de distintas áreas construyan herramientas internas y aceleren procesos de trabajo.",
+        "en": "OpenAI published an official case study on how Cult.fit uses its Codex tool to let cross-functional teams build internal tools and speed up work processes."
       },
       "categoria": "tecnologia",
       "actores": [
         "OpenAI",
-        "Pierre Computer Company"
+        "Cult.fit"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 40,
+      "impacto": 15,
       "fuentes": [
-        "ev_daabf1059c"
+        "ev_eba11b4068"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_daabf1059c",
-          "titulo": "OpenAI to acquire Pierre Computer Company, Inc.",
-          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "id": "ev_eba11b4068",
+          "titulo": "Cult.fit builds operational muscle with Codex",
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
           "fuente": "OpenAI",
-          "fecha": "Wed, 04 Nov 2026 14:30:00 GMT",
+          "fecha": "Thu, 05 Nov 2026 20:00:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-05_0011",
-      "fecha": "2026-11-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-05_0010"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "NASA presenta aeronave experimental X-70 para investigación de vuelo",
-        "en": "NASA unveils X-70 experimental aircraft for flight research"
-      },
-      "sintesis": {
-        "es": "NASA presentó su nueva aeronave experimental X-70 Fractal durante el UP.Summit en el Centro Espacial Kennedy, una plataforma tripulada con tecnología de control de vuelo reconfigurable para acelerar pruebas de aviación avanzada, según comunicado oficial.",
-        "en": "NASA unveiled its new X-70 Fractal experimental aircraft during the UP.Summit at Kennedy Space Center, a crewed platform with reconfigurable flight-control technology to accelerate advanced aviation testing, per an official statement."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "NASA"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_57acc2505a"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_57acc2505a",
-          "titulo": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-          "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-          "fuente": "NASA",
-          "fecha": "Thu, 05 Nov 2026 01:43:21 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-05_0012",
-      "fecha": "2026-11-05",
+      "id": "nd_2026-11-06_0006",
+      "fecha": "2026-11-06",
       "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-11-05_0013",
-        "nd_2026-11-05_0014"
-      ]
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "NASA detalla plan acelerado para regresar a la Luna con Artemis",
-        "en": "NASA details accelerated plan to return to the Moon with Artemis"
+        "es": "Índice de precios de alimentos de la FAO cae en octubre por demanda contenida",
+        "en": "FAO Food Price Index edges down in October amid subdued demand"
       },
       "sintesis": {
-        "es": "NASA compartió actualizaciones sobre planes acelerados del programa Artemis, incluyendo el vuelo de prueba Artemis III en 2027 y la misión Artemis IV, con el objetivo de regresar astronautas estadounidenses a la superficie lunar en 2028, según comunicado oficial.",
-        "en": "NASA shared updates on accelerated Artemis program plans, including the Artemis III test flight in 2027 and the Artemis IV mission, aiming to return American astronauts to the lunar surface in 2028, per an official statement."
+        "es": "La FAO informó oficialmente que su Índice de Precios de los Alimentos disminuyó en octubre de 2026, atribuido a una demanda global subdued según el organismo.",
+        "en": "FAO officially reported its Food Price Index declined in October 2026, attributed by the agency to subdued global demand."
       },
-      "categoria": "tecnologia",
+      "categoria": "recursos",
       "actores": [
-        "NASA",
-        "Jared Isaacman"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 50,
-      "fuentes": [
-        "ev_446d842014"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_446d842014",
-          "titulo": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
-          "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
-          "fuente": "NASA",
-          "fecha": "Wed, 04 Nov 2026 21:04:10 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-05_0013",
-      "fecha": "2026-11-05",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-11-05_0012",
-        "nd_2026-11-05_0014"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "NASA selecciona tres empresas para relevo satelital en banda Ka",
-        "en": "NASA selects three companies for Ka-band satellite relay"
-      },
-      "sintesis": {
-        "es": "NASA seleccionó tres empresas para desarrollar conceptos de capacidad de relevo espacial en banda Ka compatibles con misiones actuales, buscando soluciones de extremo a extremo en comunicaciones espaciales, según comunicado oficial.",
-        "en": "NASA selected three companies to develop Ka-band space relay capability concepts compatible with current missions, seeking end-to-end space communications solutions, per an official statement."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "NASA"
+        "FAO"
       ],
       "geo": {
         "lat": 0.0,
@@ -634,126 +325,37 @@
       },
       "impacto": 35,
       "fuentes": [
-        "ev_733e363ae6"
+        "ev_fca2a6c82b"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_733e363ae6",
-          "titulo": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-          "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-          "fuente": "NASA",
-          "fecha": "Wed, 04 Nov 2026 18:00:02 +0000",
+          "id": "ev_fca2a6c82b",
+          "titulo": "FAO Food Price Index edges down in October amid subdued demand",
+          "url": "https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand/en",
+          "fuente": "FAO",
+          "fecha": "Fri, 06 Nov 2026 12:00:00 Z",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-05_0014",
-      "fecha": "2026-11-05",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-11-05_0012",
-        "nd_2026-11-05_0013"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Guardian: Reino Unido 'peligrosamente' dependiente de China en minerales críticos",
-        "en": "Guardian: UK 'dangerously' reliant on China for critical minerals"
-      },
-      "sintesis": {
-        "es": "Según The Guardian, una investigación parlamentaria británica halló que el Reino Unido depende 'peligrosamente' de China para minerales críticos necesarios para defensa, energía renovable e IA, y pidió crear un fondo de financiación de minerales críticos.",
-        "en": "According to The Guardian, a UK parliamentary inquiry found Britain is 'dangerously' dependent on China for critical minerals needed for defense, renewable energy and AI, calling for a critical minerals finance facility."
-      },
-      "categoria": "recursos",
-      "actores": [
-        "Comité de Negocios del Parlamento británico"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_81bc6b4531"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/cb4db687d218902c0710319b5c22a27ce31c84f2/446_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=0f3485761702bce981808ccca6ab31bd"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_81bc6b4531",
-          "titulo": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-          "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 05 Nov 2026 05:00:55 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-05_0015",
-      "fecha": "2026-11-05",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-11-05_0008"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Guardian: South West Water enfrenta señalamiento por fugas en medio de sequía severa",
-        "en": "Guardian: South West Water flagged over leaks amid severe drought"
-      },
-      "sintesis": {
-        "es": "Según The Guardian, reguladores británicos dieron seis semanas a South West Water para presentar un plan de acción tras fallar durante siete años en reducir fugas, mientras partes de su región siguen en sequía severa, afectando a 1,8 millones de personas.",
-        "en": "According to The Guardian, UK regulators gave South West Water six weeks to submit an action plan after seven years of failing to reduce leaks, as parts of its region remain in severe drought, affecting 1.8 million people."
-      },
-      "categoria": "recursos",
-      "actores": [
-        "South West Water"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_f1e35ef7b6"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/0c0232e6285a1ef841d586f7f6a18d7771f70cbf/680_80_2761_2209/master/2761.jpg?width=140&quality=85&auto=format&fit=max&s=d83368b15fa6d548f85af9f0690490dc"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f1e35ef7b6",
-          "titulo": "South West Water’s failure to fix leaks ‘putting customer supplies at risk’",
-          "url": "https://www.theguardian.com/business/2026/nov/05/south-west-water-failure-fix-leaks-putting-customer-supplies-at-risk",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 05 Nov 2026 10:00:02 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-05_0016",
-      "fecha": "2026-11-05",
+      "id": "nd_2026-11-06_0007",
+      "fecha": "2026-11-06",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Deoleo cae 18% tras acuerdo de adquisición entre rivales de aceite de oliva",
-        "en": "Deoleo plunges 18% after rivals agree to takeover deal"
+        "es": "Refinerías de EE.UU. reducen producción de gasolina a favor de destilados medios",
+        "en": "US refineries shift production from gasoline to middle distillates"
       },
       "sintesis": {
-        "es": "Según CNBC, Deoleo, la mayor empresa de aceite de oliva del mundo, cayó 18% en bolsa tras anunciarse que dos de sus rivales planean adquirirla, en medio de la consolidación del sector alimentario.",
-        "en": "According to CNBC, Deoleo, the world's largest olive oil company, dropped 18% after two rivals announced plans to acquire it, amid food sector consolidation."
+        "es": "La EIA reportó que datos hasta agosto de 2026 muestran que las refinerías estadounidenses redujeron significativamente el rendimiento de gasolina para aumentar la producción de combustible diésel y combustible de aviación.",
+        "en": "The EIA reported data through August 2026 showing US refineries significantly decreased gasoline yields to boost production of distillate fuel oil and jet fuel."
       },
       "categoria": "recursos",
       "actores": [
-        "Deoleo",
-        "DCOOP",
-        "Acesur"
+        "EIA"
       ],
       "geo": {
         "lat": 0.0,
@@ -762,126 +364,232 @@
       },
       "impacto": 35,
       "fuentes": [
-        "ev_211b842564"
+        "ev_c4238f204e"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_211b842564",
-          "titulo": "World's largest olive oil company plummets 18% after rivals agree to takeover deal",
-          "url": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
-          "fuente": "CNBC",
-          "fecha": "Thu, 05 Nov 2026 11:42:28 GMT",
+          "id": "ev_c4238f204e",
+          "titulo": "Refineries have shifted production away from gasoline to middle distillates",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68424",
+          "fuente": "EIA",
+          "fecha": "Thu, 5 Nov 2026  09:00:00 EST",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-05_0017",
-      "fecha": "2026-11-05",
-      "kardashev": "K2",
+      "id": "nd_2026-11-06_0008",
+      "fecha": "2026-11-06",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Trump acepta resultados de las elecciones de medio mandato tras barrida demócrata",
-        "en": "Trump accepts midterm election results after Democratic sweep"
+        "es": "Analista prevé que tensión EE.UU.-Irán podría llevar el petróleo por encima de 100 dólares",
+        "en": "Analyst predicts US-Iran tension could push oil above $100"
       },
       "sintesis": {
-        "es": "Según The Guardian, Donald Trump aceptó los resultados de las elecciones de medio mandato en EE. UU. tras una 'ola azul' demócrata, pese a los esfuerzos previos de su administración por sembrar dudas sobre el proceso electoral.",
-        "en": "According to The Guardian, Donald Trump accepted the US midterm election results following a Democratic 'blue wave', despite earlier efforts by his administration to sow doubt about the electoral process."
+        "es": "Bob McNally de Rapidan Energy dijo a CNBC que el crudo Brent y WTI podrían superar los 100 dólares por barril si se reaviva la tensión entre EE.UU. e Irán tras las elecciones de mitad de mandato.",
+        "en": "Bob McNally of Rapidan Energy told CNBC that Brent and WTI crude could surpass $100 per barrel if US-Iran tensions reignite after the midterm elections."
       },
-      "categoria": "geopolitica",
+      "categoria": "recursos",
       "actores": [
-        "Donald Trump",
-        "Partido Demócrata"
+        "Rapidan Energy"
       ],
       "geo": {
         "lat": 32.4,
         "lon": 53.7,
         "region": "Oriente Medio"
       },
-      "impacto": 75,
+      "impacto": 40,
       "fuentes": [
-        "ev_b7dd099d97"
+        "ev_de3e30e2b4"
       ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/bc0c045b42ae94c29f26e88819f4272b31d26a2c/1684_863_6100_4880/master/6100.jpg?width=140&quality=85&auto=format&fit=max&s=6ba45d0e03b25a0858a0d84f1f425345"
-      ],
+      "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_b7dd099d97",
-          "titulo": "Trump accepts election results as Republicans face midterm reckoning | First Thing",
-          "url": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 05 Nov 2026 12:35:11 GMT",
+          "id": "ev_de3e30e2b4",
+          "titulo": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
+          "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 06 Nov 2026 05:27:24 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-05_0018",
-      "fecha": "2026-11-05",
-      "kardashev": "K1",
+      "id": "nd_2026-11-06_0009",
+      "fecha": "2026-11-06",
+      "kardashev": "K0",
       "relaciones": [
-        "nd_2026-11-05_0001",
-        "nd_2026-11-05_0019",
-        "nd_2026-11-05_0020"
+        "nd_2026-11-06_0017"
       ]
     },
     {
       "titulo": {
-        "es": "Demócratas arrasan en elecciones de medio mandato de 2026 en EE. UU.",
-        "en": "Democrats sweep 2026 US midterm elections"
+        "es": "Comisión Europea inicia investigación de salvaguardia sobre importaciones de resina PET",
+        "en": "European Commission initiates safeguard investigation into PET resin imports"
       },
       "sintesis": {
-        "es": "Según CNBC, los demócratas voltearon siete escaños del Senado, cerca de 30 distritos de la Cámara, cinco gobernaciones y hasta 12 cámaras legislativas estatales, mientras los republicanos no voltearon ningún escaño, en un resultado histórico.",
-        "en": "According to CNBC, Democrats flipped seven Senate seats, nearly 30 House districts, five governorships and up to 12 state legislative chambers, while Republicans flipped none, in a historic result."
+        "es": "La Comisión Europea anunció oficialmente el inicio de una investigación de salvaguardia para evaluar si se necesitan medidas que protejan a la industria de la UE ante un aumento significativo de importaciones de resina PET.",
+        "en": "The European Commission officially announced a safeguard investigation to assess whether measures are needed to protect EU industry from a significant surge in PET resin imports."
       },
-      "categoria": "geopolitica",
+      "categoria": "cadenas",
       "actores": [
-        "Partido Demócrata",
-        "Partido Republicano"
+        "Comisión Europea"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 80,
+      "impacto": 35,
       "fuentes": [
-        "ev_45fa6802f2"
+        "ev_7abf50e4ed"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_45fa6802f2",
-          "titulo": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
-          "url": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
-          "fuente": "CNBC",
-          "fecha": "Wed, 04 Nov 2026 23:44:18 GMT",
+          "id": "ev_7abf50e4ed",
+          "titulo": "Commission initiates safeguard investigation into imports of PET resin chemicals",
+          "url": "https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-pet-resin-chemicals-2026-11-06_en",
+          "fuente": "Comisión Europea · Comercio",
+          "fecha": "Fri, 06 Nov 2026 00:00:00 +0100",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-05_0019",
-      "fecha": "2026-11-05",
+      "id": "nd_2026-11-06_0010",
+      "fecha": "2026-11-06",
       "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-05_0018"
-      ]
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "Vance critica con dureza la derrota republicana y culpa a la guerra con Irán",
-        "en": "Vance sharply criticizes GOP defeat, blames Iran war"
+        "es": "Pequeños minoristas de EE.UU. enfrentan fuerte alza en costos de envío para la temporada navideña",
+        "en": "Small US retailers face steep shipping cost rise for holiday season"
       },
       "sintesis": {
-        "es": "Según BBC Mundo, el vicepresidente JD Vance hizo una valoración contundente sobre la derrota electoral republicana atribuyéndola a la guerra con Irán, marcando una de las rupturas más notorias con un presidente en ejercicio.",
-        "en": "According to BBC Mundo, Vice President JD Vance sharply assessed the Republican election defeat, blaming the Iran war, in one of the most notable breaks with a sitting president."
+        "es": "CNBC reportó que minoristas pequeños y medianos en EE.UU. enfrentan un 'gran golpe' en la temporada navideña debido al aumento de costos de envío impulsado por altos precios de combustible.",
+        "en": "CNBC reported small and medium US retailers face a 'huge hit' this holiday season due to rising shipping costs driven by high fuel prices."
+      },
+      "categoria": "cadenas",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 30,
+      "fuentes": [
+        "ev_ae4d820471"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_ae4d820471",
+          "titulo": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
+          "url": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 06 Nov 2026 12:00:01 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0011",
+      "fecha": "2026-11-06",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Singapore Airlines invierte más de 2.000 millones en nueva experiencia de cabina",
+        "en": "Singapore Airlines invests over $2 billion in new cabin experience"
+      },
+      "sintesis": {
+        "es": "CNBC informó que Singapore Airlines renovará asientos, servicio y entretenimiento a bordo como parte de una inversión superior a 2.000 millones de dólares singapurenses.",
+        "en": "CNBC reported Singapore Airlines will overhaul seating, dining and entertainment as part of an investment exceeding S$2 billion."
+      },
+      "categoria": "cadenas",
+      "actores": [
+        "Singapore Airlines"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 20,
+      "fuentes": [
+        "ev_8c32e1f7ac"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8c32e1f7ac",
+          "titulo": "The 'World's Best Airline' is updating its business and first-class experience",
+          "url": "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 06 Nov 2026 07:32:26 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0012",
+      "fecha": "2026-11-06",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Amenazas de bomba falsas provocan desvíos de al menos 35 aviones en Europa",
+        "en": "Hoax bomb threats cause diversion of at least 35 planes across Europe"
+      },
+      "sintesis": {
+        "es": "Al Jazeera y otros medios reportaron que inspecciones de seguridad no hallaron explosivos tras una ola de amenazas de bomba que afectó al menos 35 vuelos en Europa esta semana, con cazas escoltando aeronaves.",
+        "en": "Al Jazeera and other outlets reported security inspections found no explosives after a wave of hoax bomb threats affected at least 35 flights across Europe this week, with fighter jets escorting planes."
+      },
+      "categoria": "cadenas",
+      "actores": [
+        "Tarom"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_dc330fd2a8"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_dc330fd2a8",
+          "titulo": "Hoax or bomb threats? What we know about flight disruptions across Europe",
+          "url": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Fri, 06 Nov 2026 11:18:02 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0013",
+      "fecha": "2026-11-06",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Presidente de Paraguay renuncia tras crisis bancaria de Ueno Bank",
+        "en": "Paraguay's president resigns after Ueno Bank crisis"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó que el presidente paraguayo Santiago Peña renunció tras el colapso del sistema bancario provocado por Ueno Bank, entidad que llegó a tener como clientes al 60% de la población adulta del país.",
+        "en": "The Guardian reported Paraguayan President Santiago Peña resigned after a banking system collapse caused by Ueno Bank, which had reportedly reached 60% of the country's adult population as customers."
       },
       "categoria": "geopolitica",
       "actores": [
-        "JD Vance",
-        "Donald Trump"
+        "Ueno Bank"
       ],
       "geo": {
         "lat": 0.0,
@@ -890,114 +598,399 @@
       },
       "impacto": 60,
       "fuentes": [
-        "ev_e1abc6d7f9"
+        "ev_3bd4594b89"
       ],
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49dd/live/1c72f9f0-d90f-11f1-94c6-3f8050561bf5.jpg"
+        "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_e1abc6d7f9",
-          "titulo": "El vicepresidente JD Vance, en la cuerda floja con Trump tras su feroz crítica por la derrota republicana en las elecciones",
-          "url": "https://www.bbc.com/mundo/articles/cxj0l66rrdz4o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 05 Nov 2026 11:31:25 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-05_0020",
-      "fecha": "2026-11-05",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-05_0018"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "EE. UU. sanciona a firmas indias y turcas por ayudar a Irán",
-        "en": "US sanctions Indian and Turkish firms accused of helping Iran"
-      },
-      "sintesis": {
-        "es": "Según Al Jazeera, el Tesoro de EE. UU. anunció sanciones contra una pareja india acusada de falsificar registros de buques para países como Guyana y Laos con el fin de ayudar a petroleros iraníes a evadir restricciones.",
-        "en": "According to Al Jazeera, the US Treasury announced sanctions against an Indian couple accused of faking ship registries for countries including Guyana and Laos to help Iranian tankers evade restrictions."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Departamento del Tesoro de EE. UU."
-      ],
-      "geo": {
-        "lat": 20.6,
-        "lon": 79.0,
-        "region": "Asia Meridional"
-      },
-      "impacto": 50,
-      "fuentes": [
-        "ev_c8034369dc"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_c8034369dc",
-          "titulo": "US sanctions Indian and Turkish firms accused of helping Iran",
-          "url": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Thu, 05 Nov 2026 09:57:04 +0000",
+          "id": "ev_3bd4594b89",
+          "titulo": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+          "fuente": "The Guardian",
+          "fecha": "Fri, 06 Nov 2026 06:16:22 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-05_0021",
-      "fecha": "2026-11-05",
+      "id": "nd_2026-11-06_0014",
+      "fecha": "2026-11-06",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Congreso de Paraguay inicia juicio político contra Peña pese a su renuncia",
+        "en": "Paraguay's Congress initiates impeachment against Peña despite his resignation"
+      },
+      "sintesis": {
+        "es": "BBC Mundo informó que el Congreso paraguayo decidió iniciar un juicio político contra Santiago Peña por el caso Ueno Bank, tras presión de legisladores opositores y de su propio partido.",
+        "en": "BBC Mundo reported Paraguay's Congress decided to initiate impeachment proceedings against Santiago Peña over the Ueno Bank case, after pressure from opposition and his own party's legislators."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Congreso de Paraguay"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_31cae29960"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c1d/live/ca13cd00-d937-11f1-8bce-2396c9c50357.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_31cae29960",
+          "titulo": "El Congreso de Paraguay inicia un juicio político contra Santiago Peña por el caso Ueno Bank pese a su renuncia a la presidencia",
+          "url": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Thu, 05 Nov 2026 22:50:27 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-06_0015",
+      "fecha": "2026-11-06",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Rusia y Ucrania intercambian ataques con drones sobre infraestructura energética y logística",
-        "en": "Russia and Ukraine trade drone strikes on energy and logistics infrastructure"
+        "es": "Mercados globales caen por temores a freno de la IA tras victoria demócrata en EE.UU.",
+        "en": "Global markets plunge on AI slowdown fears after Democratic midterm win"
       },
       "sintesis": {
-        "es": "Según Al Jazeera, Rusia afirmó haber alcanzado un centro postal ucraniano y un barco, mientras Ucrania atacó Ryazán, en intercambios nocturnos de ataques con drones sobre instalaciones energéticas y logísticas, con heridos en ambos bandos.",
-        "en": "According to Al Jazeera, Russia said it hit a Ukrainian postal hub and a ship, while Ukraine struck Ryazan, in overnight drone strike exchanges on energy and logistics sites, with injuries reported on both sides."
+        "es": "The Guardian reportó que mercados asiáticos y europeos cayeron tras un desplome en Wall Street, luego de que la victoria demócrata en las elecciones de mitad de mandato generara temores de mayor regulación a la industria de IA.",
+        "en": "The Guardian reported Asian and European markets fell after a Wall Street rout, following the Democratic midterm victory sparking fears of tighter AI industry regulation."
       },
       "categoria": "geopolitica",
       "actores": [],
       "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
       },
-      "impacto": 55,
+      "impacto": 65,
       "fuentes": [
-        "ev_ede14ee1c2"
+        "ev_fa2f8c0fd4"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_fa2f8c0fd4",
+          "titulo": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
+          "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+          "fuente": "The Guardian",
+          "fecha": "Fri, 06 Nov 2026 08:58:22 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0016",
+      "fecha": "2026-11-06",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Imágenes satelitales muestran construcción cerca de bases de misiles de Irán",
+        "en": "Satellite images show major construction near Iran missile bases"
+      },
+      "sintesis": {
+        "es": "BBC News reportó que imágenes satelitales tomadas en noviembre muestran evidencia de excavación y nuevas edificaciones cerca de bases de misiles iraníes.",
+        "en": "BBC News reported satellite imagery taken in November shows evidence of digging and new buildings near Iranian missile bases."
+      },
+      "categoria": "geopolitica",
+      "actores": [],
+      "geo": {
+        "lat": 32.4,
+        "lon": 53.7,
+        "region": "Oriente Medio"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_aba9689fda"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5589/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_aba9689fda",
+          "titulo": "Major construction ongoing near Iran missile bases, satellite images suggest",
+          "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Fri, 06 Nov 2026 07:33:41 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0017",
+      "fecha": "2026-11-06",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-11-06_0009"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán",
+        "en": "Rocket launcher deal deepens Russia-Iran relations"
+      },
+      "sintesis": {
+        "es": "Al Jazeera informó sobre un reporte de un acuerdo de lanzacohetes entre Rusia e Irán, coincidiendo con conversaciones del funcionario de seguridad iraní Mohsen Rezaei con Putin sobre un tratado de cooperación.",
+        "en": "Al Jazeera reported on a deal for rocket launchers between Russia and Iran, coinciding with talks between Iranian security official Mohsen Rezaei and Putin on a cooperation treaty."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Mohsen Rezaei",
+        "Vladimir Putin"
+      ],
+      "geo": {
+        "lat": 61.5,
+        "lon": 105.3,
+        "region": "Rusia"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_233f1b157b"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_ede14ee1c2",
-          "titulo": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
-          "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
+          "id": "ev_233f1b157b",
+          "titulo": "Rocket launcher deal illustrates deepening Russia-Iran relations",
+          "url": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss",
           "fuente": "Al Jazeera",
-          "fecha": "Thu, 05 Nov 2026 09:13:35 +0000",
+          "fecha": "Fri, 06 Nov 2026 11:28:38 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-05_0022",
-      "fecha": "2026-11-05",
+      "id": "nd_2026-11-06_0018",
+      "fecha": "2026-11-06",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "BCE publica datos bancarios consolidados a cierre de junio de 2026",
+        "en": "ECB publishes consolidated banking data for end-June 2026"
+      },
+      "sintesis": {
+        "es": "El Banco Central Europeo publicó oficialmente sus datos bancarios consolidados correspondientes al cierre de junio de 2026 para el sector bancario de la eurozona.",
+        "en": "The European Central Bank officially published its consolidated banking data for end-June 2026 covering the eurozone banking sector."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "BCE"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 30,
+      "fuentes": [
+        "ev_5e76621429"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5e76621429",
+          "titulo": "ECB publishes consolidated banking data for end-June 2026",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+          "fuente": "BCE",
+          "fecha": "Fri, 06 Nov 2026 10:00:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0019",
+      "fecha": "2026-11-06",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Reserva Federal pone fin a acciones de supervisión contra tres entidades financieras",
+        "en": "Federal Reserve terminates enforcement actions against three financial entities"
+      },
+      "sintesis": {
+        "es": "La Junta de la Reserva Federal anunció oficialmente la terminación de acciones de cumplimiento contra Allegiant United Holdings, Nano Financial Holdings y Nano Banc.",
+        "en": "The Federal Reserve Board officially announced the termination of enforcement actions against Allegiant United Holdings, Nano Financial Holdings and Nano Banc."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Reserva Federal",
+        "Allegiant United Holdings",
+        "Nano Financial Holdings",
+        "Nano Banc"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 20,
+      "fuentes": [
+        "ev_1c4174c8b8"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_1c4174c8b8",
+          "titulo": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+          "fuente": "Reserva Federal",
+          "fecha": "Thu, 5 Nov 2026 16:00:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0020",
+      "fecha": "2026-11-06",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Banco de Inglaterra eleva tasa de interés a 4%, primer aumento en más de tres años",
+        "en": "Bank of England raises interest rate to 4%, first hike in over three years"
+      },
+      "sintesis": {
+        "es": "BBC reportó que el Banco de Inglaterra subió su tasa de interés de 3.75% a 4%, el primer aumento en más de tres años, en línea con lo previsto por la mayoría de analistas.",
+        "en": "BBC reported the Bank of England raised its interest rate from 3.75% to 4%, the first hike in over three years, in line with most analysts' expectations."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Banco de Inglaterra"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_892ea2bf53"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_892ea2bf53",
+          "titulo": "Interest rates hiked to 4% in first increase in over three years",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC · Economía",
+          "fecha": "Thu, 05 Nov 2026 17:09:55 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0021",
+      "fecha": "2026-11-06",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Wall Street sufre peor liquidación desde el shock arancelario de 2025",
+        "en": "Wall Street suffers worst selloff since 2025 tariff shock"
+      },
+      "sintesis": {
+        "es": "MarketWatch reportó que la liquidación bursátil en Wall Street se extendió más allá de las acciones de IA, marcando la peor caída desde el shock arancelario de 2025, según la publicación.",
+        "en": "MarketWatch reported the Wall Street selloff spread beyond AI stocks, marking the worst decline since the 2025 tariff shock, according to the outlet."
+      },
+      "categoria": "finanzas",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_60267edbd5"
+      ],
+      "imagenes": [
+        "https://images.mktw.net/im-52976475"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_60267edbd5",
+          "titulo": "After Wall Street’s worst selloff since the 2025 tariff shock, here’s what investors need to watch next",
+          "url": "https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Fri, 06 Nov 2026 12:14:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0022",
+      "fecha": "2026-11-06",
       "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Tesla y SpaceX de Elon Musk pierden más de 420.000 millones de dólares en valor de mercado",
+        "en": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap"
+      },
+      "sintesis": {
+        "es": "CNBC reportó que Tesla y SpaceX perdieron en conjunto más de 420.000 millones de dólares en capitalización de mercado tras los resultados de las elecciones de mitad de mandato en EE.UU.",
+        "en": "CNBC reported Tesla and SpaceX lost a combined over $420 billion in market capitalization following the US midterm election results."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Tesla",
+        "SpaceX",
+        "Elon Musk"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_dc19c204ef"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_dc19c204ef",
+          "titulo": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+          "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 06 Nov 2026 03:20:43 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-06_0023",
+      "fecha": "2026-11-06",
+      "kardashev": "K2",
       "relaciones": []
     }
   ],
-  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-05\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Atlántico\", \"Bermudas\", \"California\", \"Centro Espacial Kennedy\", \"Copperhill\", \"Florida\", \"Georgia\", \"Londres\", \"Luna\", \"Maine\", \"McCaysville\", \"Ryazán\", \"Tennessee\", \"Washington\", \"suroeste de Inglaterra\"]\npaises: [\"Alemania\", \"China\", \"España\", \"Estados Unidos\", \"Guyana\", \"India\", \"Irán\", \"Laos\", \"Reino Unido\", \"Rusia\", \"Turquía\", \"Ucrania\"]\nentidades: [\"Acesur\", \"BCE\", \"Banco de Inglaterra\", \"CNN\", \"Centro Nacional de Huracanes\", \"Comité de Negocios del Parlamento británico\", \"DCOOP\", \"Deoleo\", \"Departamento del Tesoro de EE. UU.\", \"Donald Trump\", \"Isabel Schnabel\", \"JD Vance\", \"Jared Isaacman\", \"Monetary Policy Committee\", \"NASA\", \"NOAA\", \"OpenAI\", \"Partido Demócrata\", \"Partido Republicano\", \"Piero Cipollone\", \"Pierre Computer Company\", \"South West Water\", \"Universidad Normal de Pekín\"]\ntemas: [\"Brexit\", \"Irán\", \"aceite de oliva\", \"adquisiciones\", \"aeronáutica\", \"agua\", \"alimentos\", \"ataques con drones\", \"banca central\", \"cambio climático\", \"centros de datos\", \"ciclones\", \"comercio marítimo\", \"comunicaciones espaciales\", \"dependencia de China\", \"dinero digital\", \"divisas\", \"elecciones\", \"elecciones EE.UU.\", \"emergencia climática\", \"energía\", \"exploración espacial\", \"fusiones\", \"guerra Rusia-Ucrania\", \"guerra con Irán\", \"inflación\", \"infraestructura\", \"infraestructura energética\", \"inteligencia artificial\", \"inundaciones\", \"inundaciones costeras\", \"lluvias extremas\", \"medio mandato\", \"minerales críticos\", \"planificación costera\", \"política interna\", \"política monetaria\", \"programa Artemis\", \"pronóstico meteorológico\", \"regulación\", \"sanciones\", \"satélites\", \"sequía\", \"software\", \"tasas de interés\", \"tecnología espacial\", \"tierras raras\"]\nbucles_activos: [\"Impacto Societal y Financiero\"]\ncorte: \"2026-11-05T12:48:44.857427+00:00\"\ninicio_ventana: \"2026-11-04T12:48:44.857427+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-05\n\n## Resumen del día\n\nEl Banco de Inglaterra subió su tasa base a 4% citando presiones inflacionarias por costos energéticos, mientras la libra tocó su nivel más alto desde el Brexit tras la caída del dólar post-elecciones en EE. UU.\nEn geopolítica, Trump aceptó los resultados de las elecciones de medio mandato tras una barrida demócrata, y el vicepresidente Vance atribuyó la derrota republicana a la guerra con Irán.\nRusia y Ucrania intercambiaron ataques con drones sobre infraestructura energética y logística, en continuidad con la escalada bélica.\nEn clima, NOAA vigiló un sistema subtropical en el Atlántico y reportó inundaciones costeras récord en California, además de un evento calificado 'catastrófico' en Georgia y Tennessee según CNN.\nEn tecnología, OpenAI y NASA publicaron múltiples anuncios oficiales sobre infraestructura de IA, adquisiciones y exploración espacial, sin que se documentara cruce directo con otras dimensiones.\n\nVentana de 24 horas hasta 2026-11-05T12:48:44.857427+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, imf, iom, unhcr, un-en, esa, usda, bis, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_1922f3f40d\"></a>\n1. NOAA: Centro Nacional de Huracanes vigila sistema subtropical en el Atlántico — El Centro Nacional de Huracanes de la NOAA reportó una baja presión no tropical al sur de Bermudas con 30% de probabilidad de formación en 48 horas y 50% en 7 días, pudiendo adquirir características subtropicales este fin de semana. — [NOAA · Centro Nacional de Huracanes, Thu, 05 Nov 2026 11:49:37 GMT](https://www.nhc.noaa.gov/gtwo.php?basin=atlc) · oficial.\n\n<a id=\"ev_385b4f6ef4\"></a>\n2. NOAA actualiza mapas costeros en Maine para mejorar planificación ante el clima — NOAA, junto con socios locales, actualizó los mapas de la línea costera de Maine para mejorar la planificación costera en el marco de su programa Climate-Ready Coasts, según comunicado oficial del 4 de noviembre. — [NOAA, Wed, 04 Nov 2026 20:01:47 +0000](https://www.noaa.gov/stories/maine-partners-update-shoreline-maps-to-improve-coastal-planning) · oficial.\n\n<a id=\"ev_ac527e7d06\"></a>\n3. NOAA: niveles del agua costera en California baten récords — NOAA reportó que los niveles de agua costera en California alcanzaron registros récord, en el marco de su programa Climate-Ready Coasts sobre inundaciones costeras, según comunicado oficial del 4 de noviembre. — [NOAA, Wed, 04 Nov 2026 19:43:03 +0000](https://www.noaa.gov/stories/california-coastal-water-levels-break-records) · oficial.\n\n<a id=\"ev_b0f0daf65f\"></a>\n4. Estudio: las tormentas más intensas del mundo se concentran y agravan riesgo de inundación y sequía — Según The Guardian, un estudio de investigadores de la Universidad Normal de Pekín analizó mediciones de más de 19.000 pluviómetros entre 1980 y 2022 y halló que las lluvias más intensas se concentran en menos días, aumentando riesgos de inundación y sequía. — [The Guardian · Medio ambiente, Thu, 05 Nov 2026 06:00:54 GMT](https://www.theguardian.com/news/2026/nov/05/worlds-wettest-rainstorms-getting-worse-flood-drought-risk) · medio.\n\n<a id=\"ev_f86c1c28ed\"></a>\n5. CNN: inundación 'catastrófica' provoca rescates y evacuaciones en Georgia y Tennessee — Según CNN, rescates acuáticos y evacuaciones estaban en curso tras un evento de inundación calificado como 'catastrófico' en el norte de Georgia y el sur de Tennessee, en las localidades de McCaysville y Copperhill. — [CNN, 2026-11-05T12:24:02.955Z](https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_65e3236c57\"></a>\n1. OpenAI presenta marco para infraestructura de IA responsable — OpenAI presentó su 'National Community Compact' y un 'Compute Campus Policy Blueprint' para proteger recursos locales, crear empleos y guiar el desarrollo responsable de infraestructura de IA, según comunicado oficial. — [OpenAI, Thu, 05 Nov 2026 02:00:00 GMT](https://openai.com/index/setting-new-standard-responsible-ai-infrastructure) · oficial.\n\n<a id=\"ev_daabf1059c\"></a>\n2. OpenAI anuncia adquisición de Pierre Computer Company — OpenAI anunció que adquirirá Pierre Computer Company, Inc. para expandir las herramientas de Codex orientadas a construir, entender y revisar código, según comunicado oficial. — [OpenAI, Wed, 04 Nov 2026 14:30:00 GMT](https://openai.com/index/openai-to-acquire-pierre) · oficial.\n\n<a id=\"ev_57acc2505a\"></a>\n3. NASA presenta aeronave experimental X-70 para investigación de vuelo — NASA presentó su nueva aeronave experimental X-70 Fractal durante el UP.Summit en el Centro Espacial Kennedy, una plataforma tripulada con tecnología de control de vuelo reconfigurable para acelerar pruebas de aviación avanzada, según comunicado oficial. — [NASA, Thu, 05 Nov 2026 01:43:21 +0000](https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/) · oficial.\n\n<a id=\"ev_446d842014\"></a>\n4. NASA detalla plan acelerado para regresar a la Luna con Artemis — NASA compartió actualizaciones sobre planes acelerados del programa Artemis, incluyendo el vuelo de prueba Artemis III en 2027 y la misión Artemis IV, con el objetivo de regresar astronautas estadounidenses a la superficie lunar en 2028, según comunicado oficial. — [NASA, Wed, 04 Nov 2026 21:04:10 +0000](https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/) · oficial.\n\n<a id=\"ev_733e363ae6\"></a>\n5. NASA selecciona tres empresas para relevo satelital en banda Ka — NASA seleccionó tres empresas para desarrollar conceptos de capacidad de relevo espacial en banda Ka compatibles con misiones actuales, buscando soluciones de extremo a extremo en comunicaciones espaciales, según comunicado oficial. — [NASA, Wed, 04 Nov 2026 18:00:02 +0000](https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/) · oficial.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_81bc6b4531\"></a>\n1. Guardian: Reino Unido 'peligrosamente' dependiente de China en minerales críticos — Según The Guardian, una investigación parlamentaria británica halló que el Reino Unido depende 'peligrosamente' de China para minerales críticos necesarios para defensa, energía renovable e IA, y pidió crear un fondo de financiación de minerales críticos. — [The Guardian, Thu, 05 Nov 2026 05:00:55 GMT](https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy) · medio.\n\n<a id=\"ev_f1e35ef7b6\"></a>\n2. Guardian: South West Water enfrenta señalamiento por fugas en medio de sequía severa — Según The Guardian, reguladores británicos dieron seis semanas a South West Water para presentar un plan de acción tras fallar durante siete años en reducir fugas, mientras partes de su región siguen en sequía severa, afectando a 1,8 millones de personas. — [The Guardian, Thu, 05 Nov 2026 10:00:02 GMT](https://www.theguardian.com/business/2026/nov/05/south-west-water-failure-fix-leaks-putting-customer-supplies-at-risk) · medio.\n\n<a id=\"ev_211b842564\"></a>\n3. Deoleo cae 18% tras acuerdo de adquisición entre rivales de aceite de oliva — Según CNBC, Deoleo, la mayor empresa de aceite de oliva del mundo, cayó 18% en bolsa tras anunciarse que dos de sus rivales planean adquirirla, en medio de la consolidación del sector alimentario. — [CNBC, Thu, 05 Nov 2026 11:42:28 GMT](https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html) · medio.\n\n## 4. Cadenas de Suministro\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 5. Geopolítica\n\n<a id=\"ev_b7dd099d97\"></a>\n1. Trump acepta resultados de las elecciones de medio mandato tras barrida demócrata — Según The Guardian, Donald Trump aceptó los resultados de las elecciones de medio mandato en EE. UU. tras una 'ola azul' demócrata, pese a los esfuerzos previos de su administración por sembrar dudas sobre el proceso electoral. — [The Guardian, Thu, 05 Nov 2026 12:35:11 GMT](https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results) · medio.\n\n<a id=\"ev_45fa6802f2\"></a>\n2. Demócratas arrasan en elecciones de medio mandato de 2026 en EE. UU. — Según CNBC, los demócratas voltearon siete escaños del Senado, cerca de 30 distritos de la Cámara, cinco gobernaciones y hasta 12 cámaras legislativas estatales, mientras los republicanos no voltearon ningún escaño, en un resultado histórico. — [CNBC, Wed, 04 Nov 2026 23:44:18 GMT](https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html) · medio.\n\n<a id=\"ev_e1abc6d7f9\"></a>\n3. Vance critica con dureza la derrota republicana y culpa a la guerra con Irán — Según BBC Mundo, el vicepresidente JD Vance hizo una valoración contundente sobre la derrota electoral republicana atribuyéndola a la guerra con Irán, marcando una de las rupturas más notorias con un presidente en ejercicio. — [BBC Mundo, Thu, 05 Nov 2026 11:31:25 GMT](https://www.bbc.com/mundo/articles/cxj0l66rrdz4o?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_c8034369dc\"></a>\n4. EE. UU. sanciona a firmas indias y turcas por ayudar a Irán — Según Al Jazeera, el Tesoro de EE. UU. anunció sanciones contra una pareja india acusada de falsificar registros de buques para países como Guyana y Laos con el fin de ayudar a petroleros iraníes a evadir restricciones. — [Al Jazeera, Thu, 05 Nov 2026 09:57:04 +0000](https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss) · medio.\n\n<a id=\"ev_ede14ee1c2\"></a>\n5. Rusia y Ucrania intercambian ataques con drones sobre infraestructura energética y logística — Según Al Jazeera, Rusia afirmó haber alcanzado un centro postal ucraniano y un barco, mientras Ucrania atacó Ryazán, en intercambios nocturnos de ataques con drones sobre instalaciones energéticas y logísticas, con heridos en ambos bandos. — [Al Jazeera, Thu, 05 Nov 2026 09:13:35 +0000](https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_cf9fb2cadc\"></a>\n1. El Banco de Inglaterra sube la tasa de interés a 4%, primera subida en más de tres años — El Comité de Política Monetaria del Banco de Inglaterra elevó la tasa base de 3,75% a 4%, la primera subida en tres años, citando presiones inflacionarias vinculadas al alza de costos energéticos. — [Banco de Inglaterra, Thu, 05 Nov 2026 12:00:00 Z](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026) · oficial.\n\n<a id=\"ev_c1241296b8\"></a>\n2. Guardian: BoE sube tasas al 4% y advierte de nueva subida por guerra en Irán — Según The Guardian, ocho miembros del comité del Banco de Inglaterra votaron subir la tasa base a 4% para combatir la inflación provocada por el encarecimiento de la energía derivado de la guerra en Irán; un miembro pidió medio punto más. — [The Guardian, Thu, 05 Nov 2026 12:00:31 GMT](https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years) · medio.\n\n<a id=\"ev_329560e31b\"></a>\n3. BCE: Schnabel analiza la política monetaria en discurso oficial — La miembro del Comité Ejecutivo del BCE Isabel Schnabel pronunció un discurso titulado 'Navigating stormy waters: reflections on monetary policy', publicado en el sitio oficial del Banco Central Europeo. — [BCE, Thu, 05 Nov 2026 09:00:00 +0100](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html) · oficial.\n\n<a id=\"ev_5738531a49\"></a>\n4. BCE: Cipollone aborda el futuro del dinero en discurso oficial — El miembro del Comité Ejecutivo del BCE Piero Cipollone pronunció el discurso 'Shaping the future of money', publicado en la web oficial del Banco Central Europeo. — [BCE, Thu, 05 Nov 2026 08:30:00 +0100](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html) · oficial.\n\n<a id=\"ev_526d146e21\"></a>\n5. La libra alcanza su nivel más alto desde el Brexit tras las elecciones en EE. UU. — Según The Guardian, datos del Banco de Inglaterra mostraron que la libra alcanzó su nivel más fuerte frente a una cesta de divisas desde el referéndum del Brexit de 2016, tras la caída del dólar posterior a las elecciones de medio mandato en EE. UU. — [The Guardian, Thu, 05 Nov 2026 11:14:30 GMT](https://www.theguardian.com/business/2026/nov/05/pound-hits-highest-level-since-2016-brexit-vote) · medio.\n\n## 7. Demografía y Migraciones\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Sin movimiento verificado hoy\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Con movimiento — Los hechos del día documentan un vínculo entre geopolítica y finanzas: la libra alcanzó su nivel más alto desde el Brexit tras la caída del dólar provocada por el resultado de las elecciones de medio mandato en EE. UU., evidenciando cómo un evento político (geopolítica) movió directamente los mercados de divisas (finanzas). No hay evidencia en los hechos del día que vincule demografía con estas dos dimensiones. [ev_526d146e21](#ev_526d146e21) [ev_b7dd099d97](#ev_b7dd099d97) [ev_45fa6802f2](#ev_45fa6802f2)\n\n## Señales a vigilar\n\n- Posibilidad de que el sistema subtropical cerca de Bermudas evolucione en los próximos días, según el Centro Nacional de Huracanes de la NOAA. [ev_1922f3f40d](#ev_1922f3f40d)\n- Posibilidad de nueva subida de tasas del Banco de Inglaterra si persisten las presiones inflacionarias por energía vinculadas a la guerra en Irán, según The Guardian. [ev_c1241296b8](#ev_c1241296b8)\n- Posibilidad de que el Reino Unido cree un fondo de financiación de minerales críticos tras la advertencia parlamentaria sobre dependencia de China, según The Guardian. [ev_81bc6b4531](#ev_81bc6b4531)\n- Posibilidad de que South West Water enfrente sanciones si no presenta plan de acción en seis semanas sobre fugas y sequía, según The Guardian. [ev_f1e35ef7b6](#ev_f1e35ef7b6)\n- Posibilidad de consolidación mayor en el sector de aceite de oliva tras la caída bursátil de Deoleo ante la oferta de adquisición, según CNBC. [ev_211b842564](#ev_211b842564)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 2 | 2026-11-04T20:01:47+00:00 |\n| OpenAI | oficial | Disponible | 2 | 2026-11-05T02:00:00+00:00 |\n| NASA | oficial | Disponible | 8 | 2026-11-05T05:05:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 0 | 2026-11-03T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-11-03T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-04T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-04T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 0 | 2026-10-29T20:30:00+00:00 |\n| BCE | oficial | Disponible | 2 | 2026-11-05T08:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | No disponible | 0 | Sin fecha verificable |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 2 | 2026-11-04T18:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-10-29T17:00:55+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-10-09T15:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-06T23:49:37+00:00 |\n| NASA · Comunicados | oficial | Disponible | 8 | 2026-11-05T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-10-29T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | No disponible | 0 | Sin fecha verificable |\n| Banco de Inglaterra | oficial | Disponible | 2 | 2026-11-05T12:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 3 | 2026-11-05T07:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-02T22:50:54+00:00 |\n| BBC News | medio | Disponible | 14 | 2026-11-05T12:32:52+00:00 |\n| BBC Mundo | medio | Disponible | 13 | 2026-11-05T11:56:53+00:00 |\n| CNN | medio | Disponible | 76 | 2026-11-05T12:42:30.334000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-05T12:39:14+00:00 |\n| The Guardian | medio | Disponible | 29 | 2026-11-05T12:35:11+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-05T12:04:00+00:00 |\n| El País | medio | Disponible | 15 | 2026-11-05T09:30:00+00:00 |\n| CNBC | medio | Disponible | 30 | 2026-11-05T12:37:57+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-10-07T17:06:26+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-05T12:43:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 6 | 2026-11-05T12:00:23+00:00 |\n| BBC · Tecnología | medio | Disponible | 2 | 2026-11-04T21:41:15+00:00 |\n| BBC · Economía | medio | Disponible | 14 | 2026-11-05T12:17:47+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-05\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Atlántico\", \"Bermudas\", \"California\", \"Centro Espacial Kennedy\", \"Copperhill\", \"Florida\", \"Georgia\", \"Londres\", \"Luna\", \"Maine\", \"McCaysville\", \"Ryazán\", \"Tennessee\", \"Washington\", \"suroeste de Inglaterra\"]\npaises: [\"Alemania\", \"China\", \"España\", \"Estados Unidos\", \"Guyana\", \"India\", \"Irán\", \"Laos\", \"Reino Unido\", \"Rusia\", \"Turquía\", \"Ucrania\"]\nentidades: [\"Acesur\", \"BCE\", \"Banco de Inglaterra\", \"CNN\", \"Centro Nacional de Huracanes\", \"Comité de Negocios del Parlamento británico\", \"DCOOP\", \"Deoleo\", \"Departamento del Tesoro de EE. UU.\", \"Donald Trump\", \"Isabel Schnabel\", \"JD Vance\", \"Jared Isaacman\", \"Monetary Policy Committee\", \"NASA\", \"NOAA\", \"OpenAI\", \"Partido Demócrata\", \"Partido Republicano\", \"Piero Cipollone\", \"Pierre Computer Company\", \"South West Water\", \"Universidad Normal de Pekín\"]\ntemas: [\"Brexit\", \"Irán\", \"aceite de oliva\", \"adquisiciones\", \"aeronáutica\", \"agua\", \"alimentos\", \"ataques con drones\", \"banca central\", \"cambio climático\", \"centros de datos\", \"ciclones\", \"comercio marítimo\", \"comunicaciones espaciales\", \"dependencia de China\", \"dinero digital\", \"divisas\", \"elecciones\", \"elecciones EE.UU.\", \"emergencia climática\", \"energía\", \"exploración espacial\", \"fusiones\", \"guerra Rusia-Ucrania\", \"guerra con Irán\", \"inflación\", \"infraestructura\", \"infraestructura energética\", \"inteligencia artificial\", \"inundaciones\", \"inundaciones costeras\", \"lluvias extremas\", \"medio mandato\", \"minerales críticos\", \"planificación costera\", \"política interna\", \"política monetaria\", \"programa Artemis\", \"pronóstico meteorológico\", \"regulación\", \"sanciones\", \"satélites\", \"sequía\", \"software\", \"tasas de interés\", \"tecnología espacial\", \"tierras raras\"]\nbucles_activos: [\"Impacto Societal y Financiero\"]\ncorte: \"2026-11-05T12:48:44.857427+00:00\"\ninicio_ventana: \"2026-11-04T12:48:44.857427+00:00\"\nestado: \"completo\"\n```\n",
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-06\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Asunción\", \"Boston\", \"Bucarest\", \"Dinamarca\", \"Estados Unidos\", \"Estrecho de Ormuz\", \"Francia\", \"India\", \"Irán\", \"Isla Norte\", \"Keyes, Oklahoma\", \"Londres\", \"Ngawi\", \"Nueva York\", \"Portugal\", \"Praga\", \"Reino Unido\", \"República Checa\", \"Singapur\", \"Unión Europea\", \"Wall Street\", \"Wyoming\"]\npaises: [\"Canadá\", \"Dinamarca\", \"Estados Unidos\", \"Francia\", \"India\", \"Irán\", \"Nueva Zelanda\", \"Paraguay\", \"Portugal\", \"Reino Unido\", \"República Checa\", \"Rumania\", \"Rusia\", \"Singapur\", \"Unión Europea\"]\nentidades: [\"Allegiant United Holdings\", \"BCE\", \"Banco de Inglaterra\", \"Comisión Europea\", \"Congreso de Paraguay\", \"Cult.fit\", \"Department of Conservation\", \"EIA\", \"Elon Musk\", \"FAO\", \"Google\", \"Meta\", \"Mohsen Rezaei\", \"Nano Banc\", \"Nano Financial Holdings\", \"OpenAI\", \"Rapidan Energy\", \"Reserva Federal\", \"Singapore Airlines\", \"SpaceX\", \"Tarom\", \"Tesla\", \"Ueno Bank\", \"Vladimir Putin\"]\ntemas: [\"amenazas de bomba\", \"armamento\", \"asistentes virtuales\", \"aviación\", \"banca\", \"centros de datos\", \"clima extremo\", \"combustibles\", \"comercio\", \"comercio minorista\", \"cooperación militar\", \"costos de envío\", \"crisis bancaria\", \"crisis institucional\", \"datos financieros\", \"defensa\", \"elecciones\", \"fauna marina\", \"floración\", \"geopolítica energética\", \"infraestructura\", \"inteligencia artificial\", \"inteligencia satelital\", \"inversión\", \"juicio político\", \"logística\", \"mercados\", \"mercados bursátiles\", \"misiles\", \"petróleo\", \"polinizadores\", \"política monetaria\", \"precios de alimentos\", \"precios del petróleo\", \"productividad\", \"química\", \"refinación\", \"regulación bancaria\", \"renuncia presidencial\", \"salvaguardias\", \"sector tecnológico\", \"seguridad\", \"seguridad alimentaria\", \"supervisión financiera\", \"tasas de interés\", \"temperatura\", \"tornado\", \"transporte aéreo\", \"varamiento\", \"video generativo\", \"volatilidad\"]\nbucles_activos: [\"Armamentización de la Cadena de Suministro\"]\ncorte: \"2026-11-06T12:33:06.921691+00:00\"\ninicio_ventana: \"2026-11-05T12:33:06.921691+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-06\n\n## Resumen del día\n\nEl día combina volatilidad financiera tras las elecciones de EE.UU., crisis institucional en Paraguay por el colapso de Ueno Bank, y riesgo geopolítico en Irán con posible impacto petrolero.\nEn tecnología, Google y Meta anuncian avances de IA e infraestructura, mientras en recursos la FAO reporta caída de precios de alimentos y la EIA documenta un giro en la refinación de EE.UU. hacia destilados.\nEn cadenas de suministro, la UE abre investigación de salvaguardia sobre PET y Europa enfrenta una ola de amenazas de bomba que desvió decenas de vuelos.\nEl clima mostró eventos puntuales (varamiento de ballenas, calor anómalo en Reino Unido y EE.UU.) sin vínculo documentado con otras dimensiones en los hechos del día.\nNo se registró evidencia que conecte demografía con otras dimensiones, por lo que el bucle Impacto Societal y Financiero no puede confirmarse con los hechos disponibles.\n\nVentana de 24 horas hasta 2026-11-06T12:33:06.921691+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, un, imf, iom, unhcr, esa, usda, bis, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_5be9f51c9a\"></a>\n1. Más de 40 ballenas piloto mueren en varamiento masivo en Nueva Zelanda — El Departamento de Conservación de Nueva Zelanda informó que 43 ballenas piloto murieron tras un varamiento masivo en la costa de Ngawi, Isla Norte, pese a esfuerzos de rescate de voluntarios. — [The Guardian · Medio ambiente, Fri, 06 Nov 2026 04:45:33 GMT](https://www.theguardian.com/world/2026/nov/06/pilot-whales-dead-stranded-new-zealand-north-island) · medio.\n\n<a id=\"ev_dd7c0e03e5\"></a>\n2. Árboles del Reino Unido florecen prematuramente por otoño anómalamente cálido — Expertos citados por The Guardian advierten que octubre fue el noveno mes consecutivo con temperaturas medias superiores al promedio en el Reino Unido, causando una floración de primavera fuera de temporada que podría dañar a los polinizadores. — [The Guardian, Fri, 06 Nov 2026 11:00:51 GMT](https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn) · medio.\n\n<a id=\"ev_591ea8fb57\"></a>\n3. Calor fuera de temporada y tormentas severas afectan el este de EE.UU. y votación en varios estados — The Guardian reportó temperaturas hasta 10°C por encima del promedio en Nueva York y Boston, y tormentas severas con un tornado en Keyes, Oklahoma, que obligó a reubicar un centro de votación durante las elecciones de mitad de mandato. — [The Guardian, Fri, 06 Nov 2026 09:54:12 GMT](https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_cfee7a9c40\"></a>\n1. Google lanza Omni 1.2 Flash para generar videos de IA más largos en Vids — Google anunció en su blog oficial el modelo Omni 1.2 Flash para Google Vids, que permite generar clips de 15 segundos con escenas consistentes de forma gratuita. — [Google, Thu, 05 Nov 2026 20:00:00 +0000](https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/) · oficial.\n\n<a id=\"ev_053181aeba\"></a>\n2. Google invierte 17.000 millones de dólares en centro de datos en Wyoming — Google anunció oficialmente la construcción de su primer centro de datos en Wyoming, con una inversión de 17.000 millones de dólares en infraestructura, energía y empleo local. — [Google, Thu, 05 Nov 2026 17:00:00 +0000](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/) · oficial.\n\n<a id=\"ev_5131c26da3\"></a>\n3. Meta añade voz y avatares expresivos a su app de IA Muse — Meta anunció oficialmente que incorpora voz y avatares expresivos a su aplicación Muse, permitiendo una nueva forma de interacción natural con el asistente de IA. — [Meta, Thu, 05 Nov 2026 18:30:58 +0000](https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/) · oficial.\n\n<a id=\"ev_eba11b4068\"></a>\n4. OpenAI destaca uso de Codex por la empresa india Cult.fit — OpenAI publicó un caso oficial sobre cómo Cult.fit usa su herramienta Codex para que equipos de distintas áreas construyan herramientas internas y aceleren procesos de trabajo. — [OpenAI, Thu, 05 Nov 2026 20:00:00 GMT](https://openai.com/index/cultfit-builds-with-codex) · oficial.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_fca2a6c82b\"></a>\n1. Índice de precios de alimentos de la FAO cae en octubre por demanda contenida — La FAO informó oficialmente que su Índice de Precios de los Alimentos disminuyó en octubre de 2026, atribuido a una demanda global subdued según el organismo. — [FAO, Fri, 06 Nov 2026 12:00:00 Z](https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand/en) · oficial.\n\n<a id=\"ev_c4238f204e\"></a>\n2. Refinerías de EE.UU. reducen producción de gasolina a favor de destilados medios — La EIA reportó que datos hasta agosto de 2026 muestran que las refinerías estadounidenses redujeron significativamente el rendimiento de gasolina para aumentar la producción de combustible diésel y combustible de aviación. — [EIA, Thu, 5 Nov 2026  09:00:00 EST](https://www.eia.gov/todayinenergy/detail.php?id=68424) · oficial.\n\n<a id=\"ev_de3e30e2b4\"></a>\n3. Analista prevé que tensión EE.UU.-Irán podría llevar el petróleo por encima de 100 dólares — Bob McNally de Rapidan Energy dijo a CNBC que el crudo Brent y WTI podrían superar los 100 dólares por barril si se reaviva la tensión entre EE.UU. e Irán tras las elecciones de mitad de mandato. — [CNBC, Fri, 06 Nov 2026 05:27:24 GMT](https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html) · medio.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_7abf50e4ed\"></a>\n1. Comisión Europea inicia investigación de salvaguardia sobre importaciones de resina PET — La Comisión Europea anunció oficialmente el inicio de una investigación de salvaguardia para evaluar si se necesitan medidas que protejan a la industria de la UE ante un aumento significativo de importaciones de resina PET. — [Comisión Europea · Comercio, Fri, 06 Nov 2026 00:00:00 +0100](https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-pet-resin-chemicals-2026-11-06_en) · oficial.\n\n<a id=\"ev_ae4d820471\"></a>\n2. Pequeños minoristas de EE.UU. enfrentan fuerte alza en costos de envío para la temporada navideña — CNBC reportó que minoristas pequeños y medianos en EE.UU. enfrentan un 'gran golpe' en la temporada navideña debido al aumento de costos de envío impulsado por altos precios de combustible. — [CNBC, Fri, 06 Nov 2026 12:00:01 GMT](https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html) · medio.\n\n<a id=\"ev_8c32e1f7ac\"></a>\n3. Singapore Airlines invierte más de 2.000 millones en nueva experiencia de cabina — CNBC informó que Singapore Airlines renovará asientos, servicio y entretenimiento a bordo como parte de una inversión superior a 2.000 millones de dólares singapurenses. — [CNBC, Fri, 06 Nov 2026 07:32:26 GMT](https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html) · medio.\n\n<a id=\"ev_dc330fd2a8\"></a>\n4. Amenazas de bomba falsas provocan desvíos de al menos 35 aviones en Europa — Al Jazeera y otros medios reportaron que inspecciones de seguridad no hallaron explosivos tras una ola de amenazas de bomba que afectó al menos 35 vuelos en Europa esta semana, con cazas escoltando aeronaves. — [Al Jazeera, Fri, 06 Nov 2026 11:18:02 +0000](https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss) · medio.\n\n## 5. Geopolítica\n\n<a id=\"ev_3bd4594b89\"></a>\n1. Presidente de Paraguay renuncia tras crisis bancaria de Ueno Bank — The Guardian reportó que el presidente paraguayo Santiago Peña renunció tras el colapso del sistema bancario provocado por Ueno Bank, entidad que llegó a tener como clientes al 60% de la población adulta del país. — [The Guardian, Fri, 06 Nov 2026 06:16:22 GMT](https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns) · medio.\n\n<a id=\"ev_31cae29960\"></a>\n2. Congreso de Paraguay inicia juicio político contra Peña pese a su renuncia — BBC Mundo informó que el Congreso paraguayo decidió iniciar un juicio político contra Santiago Peña por el caso Ueno Bank, tras presión de legisladores opositores y de su propio partido. — [BBC Mundo, Thu, 05 Nov 2026 22:50:27 GMT](https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_fa2f8c0fd4\"></a>\n3. Mercados globales caen por temores a freno de la IA tras victoria demócrata en EE.UU. — The Guardian reportó que mercados asiáticos y europeos cayeron tras un desplome en Wall Street, luego de que la victoria demócrata en las elecciones de mitad de mandato generara temores de mayor regulación a la industria de IA. — [The Guardian, Fri, 06 Nov 2026 08:58:22 GMT](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph) · medio.\n\n<a id=\"ev_aba9689fda\"></a>\n4. Imágenes satelitales muestran construcción cerca de bases de misiles de Irán — BBC News reportó que imágenes satelitales tomadas en noviembre muestran evidencia de excavación y nuevas edificaciones cerca de bases de misiles iraníes. — [BBC News, Fri, 06 Nov 2026 07:33:41 GMT](https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_233f1b157b\"></a>\n5. Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán — Al Jazeera informó sobre un reporte de un acuerdo de lanzacohetes entre Rusia e Irán, coincidiendo con conversaciones del funcionario de seguridad iraní Mohsen Rezaei con Putin sobre un tratado de cooperación. — [Al Jazeera, Fri, 06 Nov 2026 11:28:38 +0000](https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_5e76621429\"></a>\n1. BCE publica datos bancarios consolidados a cierre de junio de 2026 — El Banco Central Europeo publicó oficialmente sus datos bancarios consolidados correspondientes al cierre de junio de 2026 para el sector bancario de la eurozona. — [BCE, Fri, 06 Nov 2026 10:00:00 +0100](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html) · oficial.\n\n<a id=\"ev_1c4174c8b8\"></a>\n2. Reserva Federal pone fin a acciones de supervisión contra tres entidades financieras — La Junta de la Reserva Federal anunció oficialmente la terminación de acciones de cumplimiento contra Allegiant United Holdings, Nano Financial Holdings y Nano Banc. — [Reserva Federal, Thu, 5 Nov 2026 16:00:00 GMT](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm) · oficial.\n\n<a id=\"ev_892ea2bf53\"></a>\n3. Banco de Inglaterra eleva tasa de interés a 4%, primer aumento en más de tres años — BBC reportó que el Banco de Inglaterra subió su tasa de interés de 3.75% a 4%, el primer aumento en más de tres años, en línea con lo previsto por la mayoría de analistas. — [BBC · Economía, Thu, 05 Nov 2026 17:09:55 GMT](https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_60267edbd5\"></a>\n4. Wall Street sufre peor liquidación desde el shock arancelario de 2025 — MarketWatch reportó que la liquidación bursátil en Wall Street se extendió más allá de las acciones de IA, marcando la peor caída desde el shock arancelario de 2025, según la publicación. — [MarketWatch, Fri, 06 Nov 2026 12:14:00 GMT](https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories) · medio.\n\n<a id=\"ev_dc19c204ef\"></a>\n5. Tesla y SpaceX de Elon Musk pierden más de 420.000 millones de dólares en valor de mercado — CNBC reportó que Tesla y SpaceX perdieron en conjunto más de 420.000 millones de dólares en capitalización de mercado tras los resultados de las elecciones de mitad de mandato en EE.UU. — [CNBC, Fri, 06 Nov 2026 03:20:43 GMT](https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html) · medio.\n\n## 7. Demografía y Migraciones\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Con movimiento — La posibilidad de que la tensión EE.UU.-Irán reavive el precio del petróleo por encima de 100 dólares (geopolítica-recursos) se vincula con el contexto de alza en costos de envío que ya afecta a minoristas de EE.UU. por precios de combustible elevados (cadenas). [ev_de3e30e2b4](#ev_de3e30e2b4) [ev_ae4d820471](#ev_ae4d820471)\n- Flujos de Recursos: Con movimiento — El giro de las refinerías de EE.UU. hacia destilados medios (recursos) coincide con el alza de costos de envío que presiona a minoristas por precios de combustible (cadenas). [ev_c4238f204e](#ev_c4238f204e) [ev_ae4d820471](#ev_ae4d820471)\n- Flujos Cibernéticos y de Datos: Con movimiento — La ola de amenazas de bomba que desvió al menos 35 vuelos en Europa (cadenas) ocurre en paralelo a la tensión geopolítica regional documentada en los hechos de Irán y Rusia, aunque no hay confirmación oficial de un vínculo causal entre ambos tipos de incidentes; se registra como coincidencia temporal entre tecnología/seguridad de infraestructura de transporte (cadenas) y el contexto geopolítico del día (geopolítica). [ev_dc330fd2a8](#ev_dc330fd2a8) [ev_aba9689fda](#ev_aba9689fda)\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Con movimiento — La investigación de salvaguardia de la Comisión Europea sobre importaciones de resina PET (cadenas) se produce en un contexto geopolítico de tensión por el acuerdo de lanzacohetes entre Rusia e Irán (geopolítica), ilustrando el uso de instrumentos comerciales y militares como palancas de poder, aunque los hechos no documentan una conexión directa entre ambos eventos. [ev_7abf50e4ed](#ev_7abf50e4ed) [ev_233f1b157b](#ev_233f1b157b)\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Posibilidad de que el crudo supere los 100 dólares por barril si se reaviva la tensión EE.UU.-Irán tras las elecciones de mitad de mandato, según analista citado. [ev_de3e30e2b4](#ev_de3e30e2b4)\n- Posibilidad de que el juicio político contra el presidente paraguayo Peña profundice la crisis institucional derivada del colapso de Ueno Bank. [ev_31cae29960](#ev_31cae29960) [ev_3bd4594b89](#ev_3bd4594b89)\n- Posibilidad de que la construcción detectada cerca de bases de misiles iraníes escale la tensión militar en la región. [ev_aba9689fda](#ev_aba9689fda)\n- Posibilidad de que la investigación de salvaguardia de la UE sobre PET derive en medidas comerciales que afecten las cadenas de suministro químicas. [ev_7abf50e4ed](#ev_7abf50e4ed)\n- Posibilidad de que la volatilidad bursátil tras las elecciones de EE.UU. y los temores regulatorios a la IA se extiendan a otros mercados globales. [ev_fa2f8c0fd4](#ev_fa2f8c0fd4) [ev_60267edbd5](#ev_60267edbd5)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 2 | 2026-11-06T11:59:56+00:00 |\n| OpenAI | oficial | Disponible | 2 | 2026-11-05T20:00:00+00:00 |\n| NASA | oficial | Disponible | 5 | 2026-11-06T05:05:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 1 | 2026-11-05T14:00:00+00:00 |\n| FAO | oficial | Disponible | 1 | 2026-11-06T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-05T00:00:00+00:00 |\n| ONU | oficial | No disponible | 0 | Sin fecha verificable |\n| Reserva Federal | oficial | Disponible | 1 | 2026-11-05T16:00:00+00:00 |\n| BCE | oficial | Disponible | 1 | 2026-11-06T09:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-11-05T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 5 | 2026-11-05T20:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 2 | 2026-11-05T18:30:58+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-10-09T15:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-07T23:37:22+00:00 |\n| NASA · Comunicados | oficial | Disponible | 5 | 2026-11-06T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 1 | 2026-11-05T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | No disponible | 0 | Sin fecha verificable |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-11-05T12:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-06T07:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-10-30T01:08:48+00:00 |\n| BBC News | medio | Disponible | 24 | 2026-11-06T12:27:33+00:00 |\n| BBC Mundo | medio | Disponible | 8 | 2026-11-06T11:32:45+00:00 |\n| CNN | medio | Disponible | 107 | 2026-11-06T12:31:21.001000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-06T12:08:03+00:00 |\n| The Guardian | medio | Disponible | 28 | 2026-11-06T12:17:38+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-06T11:59:40+00:00 |\n| El País | medio | Disponible | 15 | 2026-11-06T12:19:12+00:00 |\n| CNBC | medio | Disponible | 30 | 2026-11-06T12:30:40+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-06T12:31:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 8 | 2026-11-06T12:00:42+00:00 |\n| BBC · Tecnología | medio | Disponible | 3 | 2026-11-06T11:20:10+00:00 |\n| BBC · Economía | medio | Disponible | 16 | 2026-11-06T11:40:35+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-06\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Asunción\", \"Boston\", \"Bucarest\", \"Dinamarca\", \"Estados Unidos\", \"Estrecho de Ormuz\", \"Francia\", \"India\", \"Irán\", \"Isla Norte\", \"Keyes, Oklahoma\", \"Londres\", \"Ngawi\", \"Nueva York\", \"Portugal\", \"Praga\", \"Reino Unido\", \"República Checa\", \"Singapur\", \"Unión Europea\", \"Wall Street\", \"Wyoming\"]\npaises: [\"Canadá\", \"Dinamarca\", \"Estados Unidos\", \"Francia\", \"India\", \"Irán\", \"Nueva Zelanda\", \"Paraguay\", \"Portugal\", \"Reino Unido\", \"República Checa\", \"Rumania\", \"Rusia\", \"Singapur\", \"Unión Europea\"]\nentidades: [\"Allegiant United Holdings\", \"BCE\", \"Banco de Inglaterra\", \"Comisión Europea\", \"Congreso de Paraguay\", \"Cult.fit\", \"Department of Conservation\", \"EIA\", \"Elon Musk\", \"FAO\", \"Google\", \"Meta\", \"Mohsen Rezaei\", \"Nano Banc\", \"Nano Financial Holdings\", \"OpenAI\", \"Rapidan Energy\", \"Reserva Federal\", \"Singapore Airlines\", \"SpaceX\", \"Tarom\", \"Tesla\", \"Ueno Bank\", \"Vladimir Putin\"]\ntemas: [\"amenazas de bomba\", \"armamento\", \"asistentes virtuales\", \"aviación\", \"banca\", \"centros de datos\", \"clima extremo\", \"combustibles\", \"comercio\", \"comercio minorista\", \"cooperación militar\", \"costos de envío\", \"crisis bancaria\", \"crisis institucional\", \"datos financieros\", \"defensa\", \"elecciones\", \"fauna marina\", \"floración\", \"geopolítica energética\", \"infraestructura\", \"inteligencia artificial\", \"inteligencia satelital\", \"inversión\", \"juicio político\", \"logística\", \"mercados\", \"mercados bursátiles\", \"misiles\", \"petróleo\", \"polinizadores\", \"política monetaria\", \"precios de alimentos\", \"precios del petróleo\", \"productividad\", \"química\", \"refinación\", \"regulación bancaria\", \"renuncia presidencial\", \"salvaguardias\", \"sector tecnológico\", \"seguridad\", \"seguridad alimentaria\", \"supervisión financiera\", \"tasas de interés\", \"temperatura\", \"tornado\", \"transporte aéreo\", \"varamiento\", \"video generativo\", \"volatilidad\"]\nbucles_activos: [\"Armamentización de la Cadena de Suministro\"]\ncorte: \"2026-11-06T12:33:06.921691+00:00\"\ninicio_ventana: \"2026-11-05T12:33:06.921691+00:00\"\nestado: \"completo\"\n```\n",
   "nexo": {
     "resumen": [
-      "El Banco de Inglaterra subió su tasa base a 4% citando presiones inflacionarias por costos energéticos, mientras la libra tocó su nivel más alto desde el Brexit tras la caída del dólar post-elecciones en EE. UU.",
-      "En geopolítica, Trump aceptó los resultados de las elecciones de medio mandato tras una barrida demócrata, y el vicepresidente Vance atribuyó la derrota republicana a la guerra con Irán.",
-      "Rusia y Ucrania intercambiaron ataques con drones sobre infraestructura energética y logística, en continuidad con la escalada bélica.",
-      "En clima, NOAA vigiló un sistema subtropical en el Atlántico y reportó inundaciones costeras récord en California, además de un evento calificado 'catastrófico' en Georgia y Tennessee según CNN.",
-      "En tecnología, OpenAI y NASA publicaron múltiples anuncios oficiales sobre infraestructura de IA, adquisiciones y exploración espacial, sin que se documentara cruce directo con otras dimensiones."
+      "El día combina volatilidad financiera tras las elecciones de EE.UU., crisis institucional en Paraguay por el colapso de Ueno Bank, y riesgo geopolítico en Irán con posible impacto petrolero.",
+      "En tecnología, Google y Meta anuncian avances de IA e infraestructura, mientras en recursos la FAO reporta caída de precios de alimentos y la EIA documenta un giro en la refinación de EE.UU. hacia destilados.",
+      "En cadenas de suministro, la UE abre investigación de salvaguardia sobre PET y Europa enfrenta una ola de amenazas de bomba que desvió decenas de vuelos.",
+      "El clima mostró eventos puntuales (varamiento de ballenas, calor anómalo en Reino Unido y EE.UU.) sin vínculo documentado con otras dimensiones en los hechos del día.",
+      "No se registró evidencia que conecte demografía con otras dimensiones, por lo que el bucle Impacto Societal y Financiero no puede confirmarse con los hechos disponibles."
     ],
     "flujos": {
       "Presión Climática": {
@@ -1006,19 +999,28 @@
         "hechos": []
       },
       "Palanca Geopolítica": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
+        "estado": "Con movimiento",
+        "texto": "La posibilidad de que la tensión EE.UU.-Irán reavive el precio del petróleo por encima de 100 dólares (geopolítica-recursos) se vincula con el contexto de alza en costos de envío que ya afecta a minoristas de EE.UU. por precios de combustible elevados (cadenas).",
+        "hechos": [
+          "ev_de3e30e2b4",
+          "ev_ae4d820471"
+        ]
       },
       "Flujos de Recursos": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
+        "estado": "Con movimiento",
+        "texto": "El giro de las refinerías de EE.UU. hacia destilados medios (recursos) coincide con el alza de costos de envío que presiona a minoristas por precios de combustible (cadenas).",
+        "hechos": [
+          "ev_c4238f204e",
+          "ev_ae4d820471"
+        ]
       },
       "Flujos Cibernéticos y de Datos": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
+        "estado": "Con movimiento",
+        "texto": "La ola de amenazas de bomba que desvió al menos 35 vuelos en Europa (cadenas) ocurre en paralelo a la tensión geopolítica regional documentada en los hechos de Irán y Rusia, aunque no hay confirmación oficial de un vínculo causal entre ambos tipos de incidentes; se registra como coincidencia temporal entre tecnología/seguridad de infraestructura de transporte (cadenas) y el contexto geopolítico del día (geopolítica).",
+        "hechos": [
+          "ev_dc330fd2a8",
+          "ev_aba9689fda"
+        ]
       }
     },
     "bucles": {
@@ -1028,49 +1030,50 @@
         "hechos": []
       },
       "Armamentización de la Cadena de Suministro": {
+        "estado": "Con movimiento",
+        "texto": "La investigación de salvaguardia de la Comisión Europea sobre importaciones de resina PET (cadenas) se produce en un contexto geopolítico de tensión por el acuerdo de lanzacohetes entre Rusia e Irán (geopolítica), ilustrando el uso de instrumentos comerciales y militares como palancas de poder, aunque los hechos no documentan una conexión directa entre ambos eventos.",
+        "hechos": [
+          "ev_7abf50e4ed",
+          "ev_233f1b157b"
+        ]
+      },
+      "Impacto Societal y Financiero": {
         "estado": "Sin movimiento verificado hoy",
         "texto": "",
         "hechos": []
-      },
-      "Impacto Societal y Financiero": {
-        "estado": "Con movimiento",
-        "texto": "Los hechos del día documentan un vínculo entre geopolítica y finanzas: la libra alcanzó su nivel más alto desde el Brexit tras la caída del dólar provocada por el resultado de las elecciones de medio mandato en EE. UU., evidenciando cómo un evento político (geopolítica) movió directamente los mercados de divisas (finanzas). No hay evidencia en los hechos del día que vincule demografía con estas dos dimensiones.",
-        "hechos": [
-          "ev_526d146e21",
-          "ev_b7dd099d97",
-          "ev_45fa6802f2"
-        ]
       }
     },
     "senales": [
       {
-        "texto": "Posibilidad de que el sistema subtropical cerca de Bermudas evolucione en los próximos días, según el Centro Nacional de Huracanes de la NOAA.",
+        "texto": "Posibilidad de que el crudo supere los 100 dólares por barril si se reaviva la tensión EE.UU.-Irán tras las elecciones de mitad de mandato, según analista citado.",
         "hechos": [
-          "ev_1922f3f40d"
+          "ev_de3e30e2b4"
         ]
       },
       {
-        "texto": "Posibilidad de nueva subida de tasas del Banco de Inglaterra si persisten las presiones inflacionarias por energía vinculadas a la guerra en Irán, según The Guardian.",
+        "texto": "Posibilidad de que el juicio político contra el presidente paraguayo Peña profundice la crisis institucional derivada del colapso de Ueno Bank.",
         "hechos": [
-          "ev_c1241296b8"
+          "ev_31cae29960",
+          "ev_3bd4594b89"
         ]
       },
       {
-        "texto": "Posibilidad de que el Reino Unido cree un fondo de financiación de minerales críticos tras la advertencia parlamentaria sobre dependencia de China, según The Guardian.",
+        "texto": "Posibilidad de que la construcción detectada cerca de bases de misiles iraníes escale la tensión militar en la región.",
         "hechos": [
-          "ev_81bc6b4531"
+          "ev_aba9689fda"
         ]
       },
       {
-        "texto": "Posibilidad de que South West Water enfrente sanciones si no presenta plan de acción en seis semanas sobre fugas y sequía, según The Guardian.",
+        "texto": "Posibilidad de que la investigación de salvaguardia de la UE sobre PET derive en medidas comerciales que afecten las cadenas de suministro químicas.",
         "hechos": [
-          "ev_f1e35ef7b6"
+          "ev_7abf50e4ed"
         ]
       },
       {
-        "texto": "Posibilidad de consolidación mayor en el sector de aceite de oliva tras la caída bursátil de Deoleo ante la oferta de adquisición, según CNBC.",
+        "texto": "Posibilidad de que la volatilidad bursátil tras las elecciones de EE.UU. y los temores regulatorios a la IA se extiendan a otros mercados globales.",
         "hechos": [
-          "ev_211b842564"
+          "ev_fa2f8c0fd4",
+          "ev_60267edbd5"
         ]
       }
     ],
@@ -1083,16 +1086,16 @@
       "fuente": "NOAA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-04T20:01:47+00:00",
+      "ultima_publicacion": "2026-11-06T11:59:56+00:00",
       "recientes": 2
     },
     "openai": {
       "ok": true,
-      "piezas": 1360,
+      "piezas": 1366,
       "fuente": "OpenAI",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-05T02:00:00+00:00",
+      "ultima_publicacion": "2026-11-05T20:00:00+00:00",
       "recientes": 2
     },
     "nasa": {
@@ -1101,8 +1104,8 @@
       "fuente": "NASA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-05T05:05:00+00:00",
-      "recientes": 8
+      "ultima_publicacion": "2026-11-06T05:05:00+00:00",
+      "recientes": 5
     },
     "cisa": {
       "ok": false,
@@ -1115,21 +1118,21 @@
     },
     "eia": {
       "ok": true,
-      "piezas": 23,
+      "piezas": 24,
       "fuente": "EIA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-03T14:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-05T14:00:00+00:00",
+      "recientes": 1
     },
     "fao": {
       "ok": true,
-      "piezas": 19,
+      "piezas": 21,
       "fuente": "FAO",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-03T12:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-06T12:00:00+00:00",
+      "recientes": 1
     },
     "wto": {
       "ok": true,
@@ -1137,16 +1140,16 @@
       "fuente": "OMC",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-04T00:00:00+00:00",
+      "ultima_publicacion": "2026-11-05T00:00:00+00:00",
       "recientes": 0
     },
     "un": {
-      "ok": true,
-      "piezas": 30,
+      "ok": false,
+      "piezas": 0,
       "fuente": "ONU",
       "tipo": "oficial",
-      "error": "",
-      "ultima_publicacion": "2026-11-04T12:00:00+00:00",
+      "error": "not well-formed (invalid token): line 1, column 0",
+      "ultima_publicacion": null,
       "recientes": 0
     },
     "fed": {
@@ -1155,8 +1158,8 @@
       "fuente": "Reserva Federal",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-29T20:30:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-05T16:00:00+00:00",
+      "recientes": 1
     },
     "ecb": {
       "ok": true,
@@ -1164,8 +1167,8 @@
       "fuente": "BCE",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-05T08:00:00+00:00",
-      "recientes": 2
+      "ultima_publicacion": "2026-11-06T09:00:00+00:00",
+      "recientes": 1
     },
     "imf": {
       "ok": false,
@@ -1190,17 +1193,17 @@
       "piezas": 0,
       "fuente": "ACNUR",
       "tipo": "oficial",
-      "error": "HTTP Error 404: Not Found",
+      "error": "HTTP Error 403: Forbidden",
       "ultima_publicacion": null,
       "recientes": 0
     },
     "un-en": {
-      "ok": false,
-      "piezas": 0,
+      "ok": true,
+      "piezas": 30,
       "fuente": "ONU (inglés)",
       "tipo": "oficial",
-      "error": "not well-formed (invalid token): line 1, column 0",
-      "ultima_publicacion": null,
+      "error": "",
+      "ultima_publicacion": "2026-11-05T12:00:00+00:00",
       "recientes": 0
     },
     "consilium": {
@@ -1218,8 +1221,8 @@
       "fuente": "Google",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-04T18:00:00+00:00",
-      "recientes": 2
+      "ultima_publicacion": "2026-11-05T20:00:00+00:00",
+      "recientes": 5
     },
     "microsoft": {
       "ok": true,
@@ -1236,8 +1239,8 @@
       "fuente": "Meta",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-29T17:00:55+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-05T18:30:58+00:00",
+      "recientes": 2
     },
     "apple": {
       "ok": true,
@@ -1281,7 +1284,7 @@
       "fuente": "NOAA · Centro Nacional de Huracanes",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-06T23:49:37+00:00",
+      "ultima_publicacion": "2026-11-07T23:37:22+00:00",
       "recientes": 1
     },
     "nasa-releases": {
@@ -1290,8 +1293,8 @@
       "fuente": "NASA · Comunicados",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-05T05:05:00+00:00",
-      "recientes": 8
+      "ultima_publicacion": "2026-11-06T05:05:00+00:00",
+      "recientes": 5
     },
     "usda": {
       "ok": false,
@@ -1308,8 +1311,8 @@
       "fuente": "Comisión Europea · Comercio",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-29T23:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-05T23:00:00+00:00",
+      "recientes": 1
     },
     "bis": {
       "ok": false,
@@ -1327,16 +1330,16 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-05T12:00:00+00:00",
-      "recientes": 2
+      "recientes": 0
     },
     "boj": {
       "ok": true,
-      "piezas": 49,
+      "piezas": 47,
       "fuente": "Banco de Japón",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-05T07:00:00+00:00",
-      "recientes": 3
+      "ultima_publicacion": "2026-11-06T07:00:00+00:00",
+      "recientes": 0
     },
     "census": {
       "ok": true,
@@ -1344,17 +1347,17 @@
       "fuente": "Oficina del Censo de EE. UU.",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-02T22:50:54+00:00",
+      "ultima_publicacion": "2026-10-30T01:08:48+00:00",
       "recientes": 0
     },
     "bbc-world": {
       "ok": true,
-      "piezas": 20,
+      "piezas": 26,
       "fuente": "BBC News",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-05T12:32:52+00:00",
-      "recientes": 14
+      "ultima_publicacion": "2026-11-06T12:27:33+00:00",
+      "recientes": 24
     },
     "bbc-mundo": {
       "ok": true,
@@ -1362,17 +1365,17 @@
       "fuente": "BBC Mundo",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-05T11:56:53+00:00",
-      "recientes": 13
+      "ultima_publicacion": "2026-11-06T11:32:45+00:00",
+      "recientes": 8
     },
     "cnn": {
       "ok": true,
-      "piezas": 242,
+      "piezas": 229,
       "fuente": "CNN",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-05T12:42:30.334000+00:00",
-      "recientes": 76
+      "ultima_publicacion": "2026-11-06T12:31:21.001000+00:00",
+      "recientes": 107
     },
     "dw-es": {
       "ok": false,
@@ -1389,7 +1392,7 @@
       "fuente": "France 24",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-05T12:39:14+00:00",
+      "ultima_publicacion": "2026-11-06T12:08:03+00:00",
       "recientes": 24
     },
     "guardian": {
@@ -1398,8 +1401,8 @@
       "fuente": "The Guardian",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-05T12:35:11+00:00",
-      "recientes": 29
+      "ultima_publicacion": "2026-11-06T12:17:38+00:00",
+      "recientes": 28
     },
     "aljazeera": {
       "ok": true,
@@ -1407,16 +1410,16 @@
       "fuente": "Al Jazeera",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-05T12:04:00+00:00",
+      "ultima_publicacion": "2026-11-06T11:59:40+00:00",
       "recientes": 25
     },
     "elpais": {
       "ok": true,
-      "piezas": 22,
+      "piezas": 23,
       "fuente": "El País",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-05T09:30:00+00:00",
+      "ultima_publicacion": "2026-11-06T12:19:12+00:00",
       "recientes": 15
     },
     "cnbc": {
@@ -1425,7 +1428,7 @@
       "fuente": "CNBC",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-05T12:37:57+00:00",
+      "ultima_publicacion": "2026-11-06T12:30:40+00:00",
       "recientes": 30
     },
     "reuters": {
@@ -1443,7 +1446,7 @@
       "fuente": "Reuters Best",
       "tipo": "agencia",
       "error": "",
-      "ultima_publicacion": "2026-10-07T17:06:26+00:00",
+      "ultima_publicacion": "2026-11-04T09:13:55+00:00",
       "recientes": 0
     },
     "efe": {
@@ -1461,7 +1464,7 @@
       "fuente": "MarketWatch",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-05T12:43:00+00:00",
+      "ultima_publicacion": "2026-11-06T12:31:00+00:00",
       "recientes": 10
     },
     "guardian-environment": {
@@ -1470,8 +1473,8 @@
       "fuente": "The Guardian · Medio ambiente",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-05T12:00:23+00:00",
-      "recientes": 6
+      "ultima_publicacion": "2026-11-06T12:00:42+00:00",
+      "recientes": 8
     },
     "bbc-tech": {
       "ok": true,
@@ -1479,17 +1482,17 @@
       "fuente": "BBC · Tecnología",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-04T21:41:15+00:00",
-      "recientes": 2
+      "ultima_publicacion": "2026-11-06T11:20:10+00:00",
+      "recientes": 3
     },
     "bbc-business": {
       "ok": true,
-      "piezas": 47,
+      "piezas": 54,
       "fuente": "BBC · Economía",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-05T12:17:47+00:00",
-      "recientes": 14
+      "ultima_publicacion": "2026-11-06T11:40:35+00:00",
+      "recientes": 16
     }
   }
 }

@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-11-05
-nodos: 30
+actualizado: 2026-11-06
+nodos: 29
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-05. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-06. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-30 nodos registrados en el periodo. Lo mas reciente: CNN: inundación 'catastrófica' provoca rescates y evacuaciones en Georgia y Tennessee.
+29 nodos registrados en el periodo. Lo mas reciente: CNN: inundación 'catastrófica' provoca rescates y evacuaciones en Georgia y Tennessee.
 
 ## Trend summary (EN)
-30 nodes recorded in the period. Most recent: CNN: 'catastrophic flood event' triggers rescues and evacuations in Georgia and Tennessee.
+29 nodes recorded in the period. Most recent: CNN: 'catastrophic flood event' triggers rescues and evacuations in Georgia and Tennessee.
 
 > [!note] Estado actual
 > CNN: inundación 'catastrófica' provoca rescates y evacuaciones en Georgia y Tennessee
 
-## Nodos recientes (30 en la ventana)
+## Nodos recientes (29 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-05 | 50 | K1 | CNN: inundación 'catastrófica' provoca rescates y evacuaciones e |

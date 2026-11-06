@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-11-05
-nodos: 33
+actualizado: 2026-11-06
+nodos: 35
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-05. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-06. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-33 nodos registrados en el periodo. Lo mas reciente: Guardian: BoE sube tasas al 4% y advierte de nueva subida por guerra en Irán.
+35 nodos registrados en el periodo. Lo mas reciente: Imágenes satelitales muestran construcción cerca de bases de misiles de Irán.
 
 ## Trend summary (EN)
-33 nodes recorded in the period. Most recent: Guardian: BoE hikes rates to 4%, warns of further rise amid Iran war.
+35 nodes recorded in the period. Most recent: Satellite images show major construction near Iran missile bases.
 
 > [!note] Estado actual
-> Guardian: BoE sube tasas al 4% y advierte de nueva subida por guerra en Irán
+> Imágenes satelitales muestran construcción cerca de bases de misiles de Irán
 
-## Nodos recientes (33 en la ventana)
+## Nodos recientes (35 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-06 | 45 | K2 | Imágenes satelitales muestran construcción cerca de bases de mis |
+| 2026-11-06 | 45 | K2 | Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán |
+| 2026-11-06 | 40 | K0 | Analista prevé que tensión EE.UU.-Irán podría llevar el petróleo |
 | 2026-11-05 | 65 | K1 | Guardian: BoE sube tasas al 4% y advierte de nueva subida por gu |
 | 2026-11-05 | 60 | K1 | Vance critica con dureza la derrota republicana y culpa a la gue |
 | 2026-11-05 | 50 | K1 | EE. UU. sanciona a firmas indias y turcas por ayudar a Irán |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-11-03 | 55 | K1 | Precios del petróleo suben tras ataques de EE.UU. a la isla iran |
 | 2026-11-03 | 45 | K0 | Ganancias de Aramco aumentan por fortalecimiento de márgenes de  |
 | 2026-11-02 | 65 | K1 | Más tráfico y ataques en el estrecho de Ormuz no bajan el precio |
-| 2026-11-02 | 56 | K0 | Crudo estadounidense cae bajo los 100 dólares por esfuerzos dipl |
-| 2026-10-31 | 65 | K0 | Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada  |
-| 2026-10-30 | 68 | K1 | Irán afirma que cuatro petroleros chocaron con minas en el estre |
 
 [[Global Brain — Inicio|← Inicio]]

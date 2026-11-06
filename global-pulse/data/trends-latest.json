@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-11-05T12:51:15.931794+00:00",
+    "generado": "2026-11-06T12:35:34.429499+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 33,
-      "ultima_fecha": "2026-11-05",
+      "n_nodos": 35,
+      "ultima_fecha": "2026-11-06",
       "resumen": {
-        "es": "33 nodos registrados en el periodo. Lo mas reciente: Guardian: BoE sube tasas al 4% y advierte de nueva subida por guerra en Irán.",
-        "en": "33 nodes recorded in the period. Most recent: Guardian: BoE hikes rates to 4%, warns of further rise amid Iran war."
+        "es": "35 nodos registrados en el periodo. Lo mas reciente: Imágenes satelitales muestran construcción cerca de bases de misiles de Irán.",
+        "en": "35 nodes recorded in the period. Most recent: Satellite images show major construction near Iran missile bases."
       },
       "estado": {
-        "es": "Guardian: BoE sube tasas al 4% y advierte de nueva subida por guerra en Irán",
-        "en": "Guardian: BoE hikes rates to 4%, warns of further rise amid Iran war"
+        "es": "Imágenes satelitales muestran construcción cerca de bases de misiles de Irán",
+        "en": "Satellite images show major construction near Iran missile bases"
       },
       "serie": [
-        {
-          "fecha": "2026-10-16",
-          "max": 68,
-          "n": 1
-        },
         {
           "fecha": "2026-10-20",
           "max": 65,
@@ -98,9 +93,50 @@
           "fecha": "2026-11-05",
           "max": 65,
           "n": 3
+        },
+        {
+          "fecha": "2026-11-06",
+          "max": 45,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-06",
+          "titulo": {
+            "es": "Imágenes satelitales muestran construcción cerca de bases de misiles de Irán",
+            "en": "Satellite images show major construction near Iran missile bases"
+          },
+          "impacto": 45,
+          "categoria": "geopolitica",
+          "kardashev": "K2",
+          "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News"
+        },
+        {
+          "fecha": "2026-11-06",
+          "titulo": {
+            "es": "Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán",
+            "en": "Rocket launcher deal deepens Russia-Iran relations"
+          },
+          "impacto": 45,
+          "categoria": "geopolitica",
+          "kardashev": "K2",
+          "url": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
+        {
+          "fecha": "2026-11-06",
+          "titulo": {
+            "es": "Analista prevé que tensión EE.UU.-Irán podría llevar el petróleo por encima de 100 dólares",
+            "en": "Analyst predicts US-Iran tension could push oil above $100"
+          },
+          "impacto": 40,
+          "categoria": "recursos",
+          "kardashev": "K0",
+          "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
+          "fuente": "CNBC"
+        },
         {
           "fecha": "2026-11-05",
           "titulo": {
@@ -208,42 +244,6 @@
           "kardashev": "K1",
           "url": "https://elpais.com/internacional/2026-11-02/la-triple-paradoja-de-ormuz-mas-barcos-cruzando-mas-ataques-y-el-petroleo-por-las-nubes.html",
           "fuente": "El País"
-        },
-        {
-          "fecha": "2026-11-02",
-          "titulo": {
-            "es": "Crudo estadounidense cae bajo los 100 dólares por esfuerzos diplomáticos EE.UU.-Irán",
-            "en": "US crude falls below $100 amid US-Iran diplomatic efforts"
-          },
-          "impacto": 56,
-          "categoria": "recursos",
-          "kardashev": "K0",
-          "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-31",
-          "titulo": {
-            "es": "Petroleros siguen cruzando el Estrecho de Ormuz pese a escalada de ataques iraníes",
-            "en": "Tankers defy escalation of Iranian attacks to keep oil flowing through Strait of Hormuz"
-          },
-          "impacto": 65,
-          "categoria": "cadenas",
-          "kardashev": "K0",
-          "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-10-30",
-          "titulo": {
-            "es": "Irán afirma que cuatro petroleros chocaron con minas en el estrecho de Ormuz",
-            "en": "Iran claims four tankers struck mines in Strait of Hormuz"
-          },
-          "impacto": 68,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
-          "fuente": "CNBC"
         }
       ]
     },
@@ -255,21 +255,16 @@
       },
       "color": "#7C6FE4",
       "n_nodos": 42,
-      "ultima_fecha": "2026-11-05",
+      "ultima_fecha": "2026-11-06",
       "resumen": {
-        "es": "42 nodos registrados en el periodo. Lo mas reciente: Rusia y Ucrania intercambian ataques con drones sobre infraestructura energética y logística.",
-        "en": "42 nodes recorded in the period. Most recent: Russia and Ukraine trade drone strikes on energy and logistics infrastructure."
+        "es": "42 nodos registrados en el periodo. Lo mas reciente: Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán.",
+        "en": "42 nodes recorded in the period. Most recent: Rocket launcher deal deepens Russia-Iran relations."
       },
       "estado": {
-        "es": "Rusia y Ucrania intercambian ataques con drones sobre infraestructura energética y logística",
-        "en": "Russia and Ukraine trade drone strikes on energy and logistics infrastructure"
+        "es": "Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán",
+        "en": "Rocket launcher deal deepens Russia-Iran relations"
       },
       "serie": [
-        {
-          "fecha": "2026-10-16",
-          "max": 62,
-          "n": 1
-        },
         {
           "fecha": "2026-10-17",
           "max": 70,
@@ -354,9 +349,26 @@
           "fecha": "2026-11-05",
           "max": 55,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-06",
+          "max": 45,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-06",
+          "titulo": {
+            "es": "Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán",
+            "en": "Rocket launcher deal deepens Russia-Iran relations"
+          },
+          "impacto": 45,
+          "categoria": "geopolitica",
+          "kardashev": "K2",
+          "url": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
         {
           "fecha": "2026-11-05",
           "titulo": {
@@ -488,18 +500,6 @@
           "kardashev": "K0",
           "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News"
-        },
-        {
-          "fecha": "2026-10-31",
-          "titulo": {
-            "es": "EE.UU. aprueba venta de 500 misiles Patriot a Ucrania por 2.100 millones de dólares",
-            "en": "US approves sale of 500 Patriot missiles to Ukraine for $2.1bn"
-          },
-          "impacto": 70,
-          "categoria": "geopolitica",
-          "kardashev": "K0",
-          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News"
         }
       ]
     },
@@ -510,22 +510,17 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 21,
+      "n_nodos": 20,
       "ultima_fecha": "2026-11-04",
       "resumen": {
-        "es": "21 nodos registrados en el periodo. Lo mas reciente: Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral.",
-        "en": "21 nodes recorded in the period. Most recent: Israel's election commission rejects Netanyahu's claims of voting fraud."
+        "es": "20 nodos registrados en el periodo. Lo mas reciente: Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral.",
+        "en": "20 nodes recorded in the period. Most recent: Israel's election commission rejects Netanyahu's claims of voting fraud."
       },
       "estado": {
         "es": "Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral",
         "en": "Israel's election commission rejects Netanyahu's claims of voting fraud"
       },
       "serie": [
-        {
-          "fecha": "2026-10-16",
-          "max": 72,
-          "n": 1
-        },
         {
           "fecha": "2026-10-18",
           "max": 62,
@@ -746,15 +741,15 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 19,
-      "ultima_fecha": "2026-11-05",
+      "n_nodos": 20,
+      "ultima_fecha": "2026-11-06",
       "resumen": {
-        "es": "19 nodos registrados en el periodo. Lo mas reciente: OpenAI presenta marco para infraestructura de IA responsable.",
-        "en": "19 nodes recorded in the period. Most recent: OpenAI introduces framework for responsible AI infrastructure."
+        "es": "20 nodos registrados en el periodo. Lo mas reciente: OpenAI destaca uso de Codex por la empresa india Cult.fit.",
+        "en": "20 nodes recorded in the period. Most recent: OpenAI highlights Indian company Cult.fit's use of Codex."
       },
       "estado": {
-        "es": "OpenAI presenta marco para infraestructura de IA responsable",
-        "en": "OpenAI introduces framework for responsible AI infrastructure"
+        "es": "OpenAI destaca uso de Codex por la empresa india Cult.fit",
+        "en": "OpenAI highlights Indian company Cult.fit's use of Codex"
       },
       "serie": [
         {
@@ -811,9 +806,26 @@
           "fecha": "2026-11-05",
           "max": 55,
           "n": 2
+        },
+        {
+          "fecha": "2026-11-06",
+          "max": 15,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-06",
+          "titulo": {
+            "es": "OpenAI destaca uso de Codex por la empresa india Cult.fit",
+            "en": "OpenAI highlights Indian company Cult.fit's use of Codex"
+          },
+          "impacto": 15,
+          "categoria": "tecnologia",
+          "kardashev": "K2",
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "fuente": "OpenAI"
+        },
         {
           "fecha": "2026-11-05",
           "titulo": {
@@ -945,18 +957,6 @@
           "kardashev": "K0",
           "url": "https://openai.com/index/updated-model-spec",
           "fuente": "OpenAI"
-        },
-        {
-          "fecha": "2026-10-28",
-          "titulo": {
-            "es": "OpenAI anuncia colaboración con Legora para automatizar trabajo legal con IA",
-            "en": "OpenAI announces collaboration with Legora to automate legal work with AI"
-          },
-          "impacto": 40,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-          "fuente": "OpenAI"
         }
       ]
     },
@@ -967,22 +967,17 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 30,
+      "n_nodos": 29,
       "ultima_fecha": "2026-11-05",
       "resumen": {
-        "es": "30 nodos registrados en el periodo. Lo mas reciente: CNN: inundación 'catastrófica' provoca rescates y evacuaciones en Georgia y Tennessee.",
-        "en": "30 nodes recorded in the period. Most recent: CNN: 'catastrophic flood event' triggers rescues and evacuations in Georgia and Tennessee."
+        "es": "29 nodos registrados en el periodo. Lo mas reciente: CNN: inundación 'catastrófica' provoca rescates y evacuaciones en Georgia y Tennessee.",
+        "en": "29 nodes recorded in the period. Most recent: CNN: 'catastrophic flood event' triggers rescues and evacuations in Georgia and Tennessee."
       },
       "estado": {
         "es": "CNN: inundación 'catastrófica' provoca rescates y evacuaciones en Georgia y Tennessee",
         "en": "CNN: 'catastrophic flood event' triggers rescues and evacuations in Georgia and Tennessee"
       },
       "serie": [
-        {
-          "fecha": "2026-10-16",
-          "max": 38,
-          "n": 1
-        },
         {
           "fecha": "2026-10-17",
           "max": 45,
@@ -1213,22 +1208,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 71,
-      "ultima_fecha": "2026-11-05",
+      "n_nodos": 74,
+      "ultima_fecha": "2026-11-06",
       "resumen": {
-        "es": "Entre el 3 y el 5 de noviembre de 2026, los principales bancos centrales (RBA, BoE) subieron tasas de interés para contener una inflación impulsada por el encarecimiento de la energía, agravado por el conflicto en Irán que redujo la capacidad de refinación global. La eurozona registró inflación del 4%, aumentando las expectativas de que el BCE también endurezca su política, mientras la libra se fortalece y los mercados de petróleo reaccionan a señales diplomáticas sobre el conflicto en Medio Oriente.",
-        "en": "Between November 3 and 5, 2026, major central banks (RBA, BoE) raised interest rates to curb inflation driven by rising energy costs, worsened by the Iran conflict which cut global refining capacity. The eurozone recorded 4% inflation, raising expectations that the ECB will also tighten policy, while the pound strengthens and oil markets react to diplomatic signals over the Middle East conflict."
+        "es": "74 nodos registrados en el periodo. Lo mas reciente: Wall Street sufre peor liquidación desde el shock arancelario de 2025.",
+        "en": "74 nodes recorded in the period. Most recent: Wall Street suffers worst selloff since 2025 tariff shock."
       },
       "estado": {
-        "es": "El Banco de Inglaterra elevó su tasa al 4% y advirtió sobre posibles nuevas subidas, en un contexto de inflación global creciente ligada a la crisis energética derivada de la guerra en Irán.",
-        "en": "The Bank of England raised its rate to 4% and warned of possible further hikes, amid rising global inflation linked to the energy crisis stemming from the war in Iran."
+        "es": "Wall Street sufre peor liquidación desde el shock arancelario de 2025",
+        "en": "Wall Street suffers worst selloff since 2025 tariff shock"
       },
       "serie": [
-        {
-          "fecha": "2026-10-16",
-          "max": 68,
-          "n": 2
-        },
         {
           "fecha": "2026-10-19",
           "max": 78,
@@ -1318,9 +1308,74 @@
           "fecha": "2026-11-05",
           "max": 70,
           "n": 6
+        },
+        {
+          "fecha": "2026-11-06",
+          "max": 55,
+          "n": 5
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-06",
+          "titulo": {
+            "es": "Wall Street sufre peor liquidación desde el shock arancelario de 2025",
+            "en": "Wall Street suffers worst selloff since 2025 tariff shock"
+          },
+          "impacto": 55,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories",
+          "fuente": "MarketWatch"
+        },
+        {
+          "fecha": "2026-11-06",
+          "titulo": {
+            "es": "Analista prevé que tensión EE.UU.-Irán podría llevar el petróleo por encima de 100 dólares",
+            "en": "Analyst predicts US-Iran tension could push oil above $100"
+          },
+          "impacto": 40,
+          "categoria": "recursos",
+          "kardashev": "K0",
+          "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-11-06",
+          "titulo": {
+            "es": "Refinerías de EE.UU. reducen producción de gasolina a favor de destilados medios",
+            "en": "US refineries shift production from gasoline to middle distillates"
+          },
+          "impacto": 35,
+          "categoria": "recursos",
+          "kardashev": "K0",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68424",
+          "fuente": "EIA"
+        },
+        {
+          "fecha": "2026-11-06",
+          "titulo": {
+            "es": "BCE publica datos bancarios consolidados a cierre de junio de 2026",
+            "en": "ECB publishes consolidated banking data for end-June 2026"
+          },
+          "impacto": 30,
+          "categoria": "finanzas",
+          "kardashev": "K0",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+          "fuente": "BCE"
+        },
+        {
+          "fecha": "2026-11-06",
+          "titulo": {
+            "es": "Reserva Federal pone fin a acciones de supervisión contra tres entidades financieras",
+            "en": "Federal Reserve terminates enforcement actions against three financial entities"
+          },
+          "impacto": 20,
+          "categoria": "finanzas",
+          "kardashev": "K0",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+          "fuente": "Reserva Federal"
+        },
         {
           "fecha": "2026-11-05",
           "titulo": {
@@ -1404,66 +1459,6 @@
           "kardashev": "K0",
           "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
           "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-11-04",
-          "titulo": {
-            "es": "Entradas de refinación global cayeron fuertemente en segundo trimestre de 2026 por conflicto en Medio Oriente",
-            "en": "Global refinery inputs fell sharply in Q2 2026 due to Middle East conflict"
-          },
-          "impacto": 60,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68404",
-          "fuente": "EIA"
-        },
-        {
-          "fecha": "2026-11-04",
-          "titulo": {
-            "es": "BCE prevé crecimiento salarial ligeramente mayor en 2027 frente a 2026",
-            "en": "ECB wage tracker suggests slightly higher wage growth in 2027 versus 2026"
-          },
-          "impacto": 35,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
-          "fuente": "BCE"
-        },
-        {
-          "fecha": "2026-11-03",
-          "titulo": {
-            "es": "Banco de la Reserva de Australia sube tasas a máximo de 18 años para combatir la inflación",
-            "en": "RBA hikes rates to 18-year high as it combats inflation"
-          },
-          "impacto": 60,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia",
-          "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-11-03",
-          "titulo": {
-            "es": "Precios del petróleo suben tras ataques de EE.UU. a la isla iraní de Qeshm",
-            "en": "Oil prices climb after US strikes Iran's Qeshm Island"
-          },
-          "impacto": 55,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-11-03",
-          "titulo": {
-            "es": "Súper Niño causa desastre en Galápagos y obliga a cerrar atracciones turísticas",
-            "en": "Super El Niño causes disaster in Galápagos, forcing closure of tourist attractions"
-          },
-          "impacto": 45,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.bbc.com/mundo/articles/cr3wv0pgg31vo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo"
         }
       ]
     }
