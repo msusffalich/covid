@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-06
-nodos: 42
+actualizado: 2026-11-07
+nodos: 39
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-06. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-07. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-42 nodos registrados en el periodo. Lo mas reciente: Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán.
+39 nodos registrados en el periodo. Lo mas reciente: Petroleros rusos cambian de rumbo y no llegan a EE.UU. pese a acuerdo diésel Trump-Putin.
 
 ## Trend summary (EN)
-42 nodes recorded in the period. Most recent: Rocket launcher deal deepens Russia-Iran relations.
+39 nodes recorded in the period. Most recent: Russian oil tankers divert, fail to reach US despite Trump-Putin diesel deal.
 
 > [!note] Estado actual
-> Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán
+> Petroleros rusos cambian de rumbo y no llegan a EE.UU. pese a acuerdo diésel Trump-Putin
 
-## Nodos recientes (42 en la ventana)
+## Nodos recientes (39 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-07 | 58 | K1 | Petroleros rusos cambian de rumbo y no llegan a EE.UU. pese a ac |
 | 2026-11-06 | 45 | K2 | Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán |
 | 2026-11-05 | 55 | K1 | Rusia y Ucrania intercambian ataques con drones sobre infraestru |
 | 2026-11-03 | 80 | K1 | Rusia bombardea centro de ayuda y refugio en Ucrania matando al  |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-11-02 | 57 | K1 | La ONU ordena desmantelar la misión Minurso en el Sáhara Occiden |
 | 2026-11-01 | 72 | K1 | EE.UU. aprueba venta de misiles Patriot a Ucrania y culmina evac |
 | 2026-11-01 | 60 | K0 | Concluye evacuación de civiles de Oleshky tras tregua humanitari |
-| 2026-11-01 | 55 | K0 | Evacuados ucranianos de Oleshky se reencuentran con familiares t |
 
 [[Global Brain — Inicio|← Inicio]]

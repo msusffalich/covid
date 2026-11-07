@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-11-06
-nodos: 35
+actualizado: 2026-11-07
+nodos: 37
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-06. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-07. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-35 nodos registrados en el periodo. Lo mas reciente: Imágenes satelitales muestran construcción cerca de bases de misiles de Irán.
+37 nodos registrados en el periodo. Lo mas reciente: EE.UU. confirma nuevos ataques 'menores' contra Irán en isla Qeshm.
 
 ## Trend summary (EN)
-35 nodes recorded in the period. Most recent: Satellite images show major construction near Iran missile bases.
+37 nodes recorded in the period. Most recent: US confirms new 'minor' strikes on Iran at Qeshm Island.
 
 > [!note] Estado actual
-> Imágenes satelitales muestran construcción cerca de bases de misiles de Irán
+> EE.UU. confirma nuevos ataques 'menores' contra Irán en isla Qeshm
 
-## Nodos recientes (35 en la ventana)
+## Nodos recientes (37 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-07 | 68 | K1 | EE.UU. confirma nuevos ataques 'menores' contra Irán en isla Qes |
+| 2026-11-07 | 62 | K1 | Catar media para permitir inspecciones nucleares de la ONU en si |
 | 2026-11-06 | 45 | K2 | Imágenes satelitales muestran construcción cerca de bases de mis |
 | 2026-11-06 | 45 | K2 | Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán |
 | 2026-11-06 | 40 | K0 | Analista prevé que tensión EE.UU.-Irán podría llevar el petróleo |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-11-03 | 75 | K1 | EE.UU. ataca la isla iraní de Qeshm en vísperas de las eleccione |
 | 2026-11-03 | 70 | K0 | Estadounidenses votan en elecciones de medio mandato vistas como |
 | 2026-11-03 | 55 | K1 | Precios del petróleo suben tras ataques de EE.UU. a la isla iran |
-| 2026-11-03 | 45 | K0 | Ganancias de Aramco aumentan por fortalecimiento de márgenes de  |
-| 2026-11-02 | 65 | K1 | Más tráfico y ataques en el estrecho de Ormuz no bajan el precio |
 
 [[Global Brain — Inicio|← Inicio]]

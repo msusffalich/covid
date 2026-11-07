@@ -1,201 +1,350 @@
 {
   "meta": {
     "schema": "2.0",
-    "fecha": "2026-11-06",
-    "generado": "2026-11-06T12:35:02.517719+00:00",
+    "fecha": "2026-11-07",
+    "generado": "2026-11-07T11:24:45.765998+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "nodos": 24,
-      "verificados": 24,
-      "piezas_ingeridas": 190,
+      "nodos": 25,
+      "verificados": 25,
+      "piezas_ingeridas": 187,
       "canales_consultados": 46,
-      "canales_disponibles": 35,
-      "documentos_recientes": 325
+      "canales_disponibles": 36,
+      "documentos_recientes": 295
     },
     "descargo": "",
-    "corte": "2026-11-06T12:33:06.921691+00:00",
-    "reporte_sha256": "4f3fa11ffc174cdb1c0f6b6843e0998bc5367e94804ae301eb3ed997d079143a",
+    "corte": "2026-11-07T11:22:55.259822+00:00",
+    "reporte_sha256": "cdafe372acbf4a41cec7271c5c30ef99f0ba56b995c3edb055a8963449d0024a",
     "estado": "completo",
     "politica_fuentes": "mixta-v1",
-    "reporte_archivo": "2026-11-06 — Pulso.md"
+    "reporte_archivo": "2026-11-07 — Pulso.md"
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Más de 40 ballenas piloto mueren en varamiento masivo en Nueva Zelanda",
-        "en": "Over 40 pilot whales die in mass stranding in New Zealand"
+        "es": "Presidente de Paraguay destituido y detenido tras colapso bancario de Ueno Bank",
+        "en": "Paraguay's president impeached and detained after Ueno Bank collapse"
       },
       "sintesis": {
-        "es": "El Departamento de Conservación de Nueva Zelanda informó que 43 ballenas piloto murieron tras un varamiento masivo en la costa de Ngawi, Isla Norte, pese a esfuerzos de rescate de voluntarios.",
-        "en": "New Zealand's Department of Conservation reported 43 pilot whales died in a mass stranding along the Ngawi coast, North Island, despite rescue efforts by volunteers."
+        "es": "El Senado paraguayo destituyó por unanimidad a Santiago Peña, quien fue detenido horas después, en medio de una crisis bancaria que dejó a millones sin acceso a sus fondos. Pedro Alliana asumió la presidencia.",
+        "en": "Paraguay's Senate unanimously impeached Santiago Peña, who was detained hours later amid a banking crisis that left millions unable to access their funds. Pedro Alliana was sworn in as president."
       },
-      "categoria": "clima",
+      "categoria": "geopolitica",
       "actores": [
-        "Department of Conservation"
+        "Santiago Peña",
+        "Pedro Alliana",
+        "Ueno Bank",
+        "Senado de Paraguay"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 30,
+      "impacto": 72,
       "fuentes": [
-        "ev_5be9f51c9a"
+        "ev_ccbb919349"
       ],
       "imagenes": [
-        "https://i.guim.co.uk/img/media/7832835a47ae0dafc7191e12ff857c3aa6d28de7/68_0_5851_4681/master/5851.jpg?width=140&quality=85&auto=format&fit=max&s=b19c63aebbd1847909e6b6e9bbaa95a1"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_5be9f51c9a",
-          "titulo": "More than 40 pilot whales die after mass stranding in New Zealand’s North Island",
-          "url": "https://www.theguardian.com/world/2026/nov/06/pilot-whales-dead-stranded-new-zealand-north-island",
-          "fuente": "The Guardian · Medio ambiente",
-          "fecha": "Fri, 06 Nov 2026 04:45:33 GMT",
+          "id": "ev_ccbb919349",
+          "titulo": "Paraguay's president impeached and under house arrest after bank collapse",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Sat, 07 Nov 2026 07:20:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-06_0000",
-      "fecha": "2026-11-06",
+      "id": "nd_2026-11-07_0000",
+      "fecha": "2026-11-07",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Árboles del Reino Unido florecen prematuramente por otoño anómalamente cálido",
-        "en": "UK trees bloom prematurely amid unusually warm autumn"
+        "es": "Trump nombra a Stephen Miller jefe de gabinete de la Casa Blanca tras derrota en midterms",
+        "en": "Trump names Stephen Miller White House chief of staff after midterm defeat"
       },
       "sintesis": {
-        "es": "Expertos citados por The Guardian advierten que octubre fue el noveno mes consecutivo con temperaturas medias superiores al promedio en el Reino Unido, causando una floración de primavera fuera de temporada que podría dañar a los polinizadores.",
-        "en": "Experts cited by The Guardian warn October marked the ninth consecutive month of above-average UK temperatures, causing out-of-season spring flowering that could harm pollinators."
+        "es": "Donald Trump anunció que Stephen Miller, arquitecto de su política migratoria, reemplazará a Susie Wiles como jefe de gabinete, días después de que los republicanos perdieran el control del Congreso en las elecciones de medio mandato.",
+        "en": "Donald Trump announced that Stephen Miller, architect of his immigration policy, will replace Susie Wiles as chief of staff, days after Republicans lost control of Congress in midterm elections."
       },
-      "categoria": "clima",
-      "actores": [],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 25,
-      "fuentes": [
-        "ev_dd7c0e03e5"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/1a5cfd7b6922453267b672c77068483e24c0c6ad/0_769_3072_2457/master/3072.jpg?width=140&quality=85&auto=format&fit=max&s=ee38be244adb7ca35d09c809276a59b6"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_dd7c0e03e5",
-          "titulo": "‘Everything is so out of whack’: UK trees experience spring six months early",
-          "url": "https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn",
-          "fuente": "The Guardian",
-          "fecha": "Fri, 06 Nov 2026 11:00:51 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0001",
-      "fecha": "2026-11-06",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Calor fuera de temporada y tormentas severas afectan el este de EE.UU. y votación en varios estados",
-        "en": "Unseasonable heat and severe storms hit eastern US and affect voting in several states"
-      },
-      "sintesis": {
-        "es": "The Guardian reportó temperaturas hasta 10°C por encima del promedio en Nueva York y Boston, y tormentas severas con un tornado en Keyes, Oklahoma, que obligó a reubicar un centro de votación durante las elecciones de mitad de mandato.",
-        "en": "The Guardian reported temperatures up to 10°C above average in New York and Boston, and severe storms with a tornado in Keyes, Oklahoma, forcing relocation of a polling station during midterm elections."
-      },
-      "categoria": "clima",
-      "actores": [],
-      "geo": {
-        "lat": 23.6,
-        "lon": -102.5,
-        "region": "Norteamerica"
-      },
-      "impacto": 30,
-      "fuentes": [
-        "ev_591ea8fb57"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/a7dcae1881b9409544c10f165f1a48f73083ff87/0_0_3563_2850/master/3563.jpg?width=140&quality=85&auto=format&fit=max&s=431971dd5b5626d882054c175b9843a5"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_591ea8fb57",
-          "titulo": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
-          "url": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
-          "fuente": "The Guardian",
-          "fecha": "Fri, 06 Nov 2026 09:54:12 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0002",
-      "fecha": "2026-11-06",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Google lanza Omni 1.2 Flash para generar videos de IA más largos en Vids",
-        "en": "Google launches Omni 1.2 Flash for longer AI video generation in Vids"
-      },
-      "sintesis": {
-        "es": "Google anunció en su blog oficial el modelo Omni 1.2 Flash para Google Vids, que permite generar clips de 15 segundos con escenas consistentes de forma gratuita.",
-        "en": "Google announced on its official blog the Omni 1.2 Flash model for Google Vids, enabling 15-second clip generation with consistent scenes at no cost."
-      },
-      "categoria": "tecnologia",
+      "categoria": "geopolitica",
       "actores": [
-        "Google"
+        "Stephen Miller",
+        "Donald Trump",
+        "Susie Wiles"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 30,
+      "impacto": 65,
       "fuentes": [
-        "ev_cfee7a9c40"
+        "ev_7771dd364f"
       ],
       "imagenes": [
-        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pics-blog-header-2784x1566.max-600x600.format-webp.webp"
+        "https://i.guim.co.uk/img/media/7552719b6e61497ac6f0d01918dab460fe3474ac/355_276_6105_4888/master/6105.jpg?width=140&quality=85&auto=format&fit=max&s=382eca2e5db5d80dbe342d5d79e76753"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_cfee7a9c40",
-          "titulo": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
-          "url": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/",
-          "fuente": "Google",
-          "fecha": "Thu, 05 Nov 2026 20:00:00 +0000",
+          "id": "ev_7771dd364f",
+          "titulo": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+          "fuente": "The Guardian",
+          "fecha": "Sat, 07 Nov 2026 01:38:06 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-06_0003",
-      "fecha": "2026-11-06",
+      "id": "nd_2026-11-07_0001",
+      "fecha": "2026-11-07",
       "kardashev": "K0",
       "relaciones": [
-        "nd_2026-11-06_0004"
+        "nd_2026-11-07_0002",
+        "nd_2026-11-07_0018"
       ]
     },
     {
       "titulo": {
-        "es": "Google invierte 17.000 millones de dólares en centro de datos en Wyoming",
-        "en": "Google invests $17 billion in data center in Wyoming"
+        "es": "EE.UU. confirma nuevos ataques 'menores' contra Irán en isla Qeshm",
+        "en": "US confirms new 'minor' strikes on Iran at Qeshm Island"
       },
       "sintesis": {
-        "es": "Google anunció oficialmente la construcción de su primer centro de datos en Wyoming, con una inversión de 17.000 millones de dólares en infraestructura, energía y empleo local.",
-        "en": "Google officially announced construction of its first data center in Wyoming, with a $17 billion investment in infrastructure, energy and local jobs."
+        "es": "Trump dijo que el ejército estadounidense realizó un nuevo ataque limitado contra un sistema de defensa aéreo en Irán, en la isla Qeshm cerca del estrecho de Ormuz, calificándolo de 'menor', mientras continúan esfuerzos diplomáticos para terminar el conflicto.",
+        "en": "Trump said the US military carried out a new limited strike on an air defense system in Iran at Qeshm Island near the Strait of Hormuz, calling it 'minor', as diplomatic efforts to end the conflict continue."
       },
-      "categoria": "tecnologia",
+      "categoria": "geopolitica",
       "actores": [
-        "Google"
+        "Donald Trump"
       ],
+      "geo": {
+        "lat": 32.4,
+        "lon": 53.7,
+        "region": "Oriente Medio"
+      },
+      "impacto": 68,
+      "fuentes": [
+        "ev_adc8812bef"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/25f4aae3e6af6bcaedf563ee3e0b174bd7a2de94/466_0_4645_3718/master/4645.jpg?width=140&quality=85&auto=format&fit=max&s=43a5ac1a97cd0bf0f1ee113a55feaeea"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_adc8812bef",
+          "titulo": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+          "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+          "fuente": "The Guardian",
+          "fecha": "Sat, 07 Nov 2026 03:07:01 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0002",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-07_0001",
+        "nd_2026-11-07_0003",
+        "nd_2026-11-07_0004",
+        "nd_2026-11-07_0018",
+        "nd_2026-11-07_0024"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Catar media para permitir inspecciones nucleares de la ONU en sitios bombardeados de Irán",
+        "en": "Qatar mediates to allow UN nuclear inspections at bombed Iran sites"
+      },
+      "sintesis": {
+        "es": "Catar busca persuadir a Teherán de permitir inspectores nucleares de la ONU visitar los sitios nucleares bombardeados de Irán, incluyendo el almacén de uranio altamente enriquecido, sin exigir su remoción del país.",
+        "en": "Qatar is seeking to persuade Tehran to allow UN nuclear inspectors to visit Iran's bombed nuclear sites, including its stockpile of highly enriched uranium, without requiring its removal from the country."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "ONU"
+      ],
+      "geo": {
+        "lat": 32.4,
+        "lon": 53.7,
+        "region": "Oriente Medio"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_0e38f46139"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/e3e106cee8c7a119858472afd76f5d130e4d43b6/1722_527_3180_2545/master/3180.jpg?width=140&quality=85&auto=format&fit=max&s=c72bd7888aaa9fe83477f32594d1988a"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0e38f46139",
+          "titulo": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+          "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+          "fuente": "The Guardian",
+          "fecha": "Sat, 07 Nov 2026 07:00:04 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0003",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-07_0002",
+        "nd_2026-11-07_0004",
+        "nd_2026-11-07_0013",
+        "nd_2026-11-07_0014",
+        "nd_2026-11-07_0015",
+        "nd_2026-11-07_0024"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Victoria demócrata en EE.UU. podría facilitar coalición opositora para desplazar a Netanyahu",
+        "en": "US Democratic sweep may help unite Israeli coalition to unseat Netanyahu"
+      },
+      "sintesis": {
+        "es": "La victoria demócrata en el Congreso estadounidense podría facilitar que la oposición israelí, dividida, forme una coalición para desplazar a Benjamin Netanyahu, estrechamente aliado con los republicanos de Trump.",
+        "en": "The Democratic sweep of the US Congress may make it easier for Israel's divided opposition to form a coalition to unseat Benjamin Netanyahu, closely allied with Trump's Republicans."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Benjamin Netanyahu"
+      ],
+      "geo": {
+        "lat": 31.0,
+        "lon": 34.9,
+        "region": "Oriente Medio"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_d2e472889f"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/26ca01f978ce01c4b69b4f2cf325f6776851a3c5/750_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=04e915bd6dd19b7cb3e3556f13fb5777"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d2e472889f",
+          "titulo": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+          "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+          "fuente": "The Guardian",
+          "fecha": "Sat, 07 Nov 2026 06:00:04 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0004",
+      "fecha": "2026-11-07",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-07_0002",
+        "nd_2026-11-07_0003",
+        "nd_2026-11-07_0024"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Victoria demócrata en midterms provoca caída de más de 5,5% en Nasdaq",
+        "en": "Democratic midterm victory triggers over 5.5% Nasdaq drop"
+      },
+      "sintesis": {
+        "es": "La victoria demócrata en las elecciones de medio mandato provocó una ola de ventas tecnológicas que llevó al Nasdaq a caer más de 5,5%, su peor jornada desde abril de 2025, en medio de dudas sobre futuras regulaciones a centros de datos e IA.",
+        "en": "The Democratic midterm victory triggered a tech selloff that drove the Nasdaq down more than 5.5%, its worst day since April 2025, amid doubts over future regulation of data centers and AI."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Nasdaq"
+      ],
+      "geo": {
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_fba0770481"
+      ],
+      "imagenes": [
+        "https://s.france24.com/media/display/83ad7952-da3a-11f1-8e35-bf1914cabd52/w:1024/p:16x9/WEB-IVS-NOT-PORTADA-WEB-V2.png"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_fba0770481",
+          "titulo": "¿Regulación o burbuja? Qué hay detrás de la caída de las tecnológicas luego de las midterms en EE. UU.",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261107-regulaci%C3%B3n-o-burbuja-qu%C3%A9-hay-detr%C3%A1s-de-la-ca%C3%ADda-de-las-tecnol%C3%B3gicas-luego-de-las-midterms-en-ee-uu",
+          "fuente": "France 24",
+          "fecha": "Sat, 07 Nov 2026 00:21:59 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-07_0005",
+      "fecha": "2026-11-07",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-07_0018",
+        "nd_2026-11-07_0023"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Mercados globales caen por temores de desaceleración de IA tras triunfo demócrata",
+        "en": "Global stocks plunge on AI slowdown fears after Democratic midterm triumph"
+      },
+      "sintesis": {
+        "es": "Mercados asiáticos y europeos siguieron la caída de las tecnológicas estadounidenses tras la victoria demócrata en las midterms, con Londres cerca de su peor jornada desde marzo, por temor a mayor escrutinio sobre centros de datos e IA.",
+        "en": "Asian and European markets followed the US tech rout after the Democratic midterm victory, with London nearing its worst day since March, amid fears of tougher scrutiny on data centers and AI."
+      },
+      "categoria": "finanzas",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_c7287e5ce8"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c7287e5ce8",
+          "titulo": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+          "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+          "fuente": "The Guardian",
+          "fecha": "Fri, 06 Nov 2026 21:23:54 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0006",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Acciones de IA se recuperan tras pérdida de billones en valor de mercado",
+        "en": "AI stocks climb after trillions wiped from market values"
+      },
+      "sintesis": {
+        "es": "Inversores habían vendido acciones tecnológicas por temor a que la victoria demócrata significara un desarrollo más lento de la IA, aunque las acciones del sector mostraron signos de recuperación posteriormente.",
+        "en": "Investors had been selling off tech shares partly over concerns the Democratic election victory would slow AI development, though sector stocks later showed signs of recovery."
+      },
+      "categoria": "finanzas",
+      "actores": [],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
@@ -203,116 +352,409 @@
       },
       "impacto": 55,
       "fuentes": [
-        "ev_053181aeba"
+        "ev_4644cfb1d2"
       ],
       "imagenes": [
-        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero2.max-600x600.format-webp.webp"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_053181aeba",
-          "titulo": "Investing in Wyoming’s infrastructure, energy and workforce",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/",
-          "fuente": "Google",
-          "fecha": "Thu, 05 Nov 2026 17:00:00 +0000",
+          "id": "ev_4644cfb1d2",
+          "titulo": "AI stocks climb after trillions wiped from market values",
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Fri, 06 Nov 2026 21:06:25 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-06_0004",
-      "fecha": "2026-11-06",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-06_0003"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Meta añade voz y avatares expresivos a su app de IA Muse",
-        "en": "Meta adds voice and expressive avatars to its Muse AI app"
-      },
-      "sintesis": {
-        "es": "Meta anunció oficialmente que incorpora voz y avatares expresivos a su aplicación Muse, permitiendo una nueva forma de interacción natural con el asistente de IA.",
-        "en": "Meta officially announced it is adding voice and expressive avatars to its Muse app, enabling a new natural way to interact with the AI assistant."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Meta"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 25,
-      "fuentes": [
-        "ev_5131c26da3"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_5131c26da3",
-          "titulo": "Give Your Muse a Voice",
-          "url": "https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/",
-          "fuente": "Meta",
-          "fecha": "Thu, 05 Nov 2026 18:30:58 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0005",
-      "fecha": "2026-11-06",
-      "kardashev": "K0",
+      "id": "nd_2026-11-07_0007",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "OpenAI destaca uso de Codex por la empresa india Cult.fit",
-        "en": "OpenAI highlights Indian company Cult.fit's use of Codex"
+        "es": "OpenAI mantendrá inversión en centros de datos de IA pese a resultados electorales",
+        "en": "OpenAI will keep investing in AI data centers despite election results"
       },
       "sintesis": {
-        "es": "OpenAI publicó un caso oficial sobre cómo Cult.fit usa su herramienta Codex para que equipos de distintas áreas construyan herramientas internas y aceleren procesos de trabajo.",
-        "en": "OpenAI published an official case study on how Cult.fit uses its Codex tool to let cross-functional teams build internal tools and speed up work processes."
+        "es": "El director financiero de OpenAI afirmó que la empresa continuará invirtiendo en centros de datos de IA pese a que votantes respaldaron a candidatos que proponen restringir su desarrollo tras las elecciones del martes.",
+        "en": "OpenAI's CFO said the company will keep investing in AI data centers despite voters backing candidates who pledged to restrict their development after Tuesday's elections."
       },
       "categoria": "tecnologia",
       "actores": [
-        "OpenAI",
-        "Cult.fit"
+        "OpenAI"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 15,
+      "impacto": 58,
       "fuentes": [
-        "ev_eba11b4068"
+        "ev_98ee81b7fe"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_eba11b4068",
-          "titulo": "Cult.fit builds operational muscle with Codex",
-          "url": "https://openai.com/index/cultfit-builds-with-codex",
-          "fuente": "OpenAI",
-          "fecha": "Thu, 05 Nov 2026 20:00:00 GMT",
+          "id": "ev_98ee81b7fe",
+          "titulo": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+          "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 06 Nov 2026 22:25:58 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-06_0006",
-      "fecha": "2026-11-06",
+      "id": "nd_2026-11-07_0008",
+      "fecha": "2026-11-07",
       "kardashev": "K2",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Índice de precios de alimentos de la FAO cae en octubre por demanda contenida",
+        "es": "Microsoft reduce número de 'neoclouds' en medio de señales de estrés en expansión de IA",
+        "en": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain"
+      },
+      "sintesis": {
+        "es": "Microsoft está reduciendo el número de proveedores de nube 'neocloud' que considera socios, concentrándose en proveedores clave y en sus propios centros de datos, en medio de señales de tensión en la expansión de infraestructura de IA.",
+        "en": "Microsoft is reducing the number of 'neocloud' providers it counts as partners, focusing on key suppliers and its own data centers, amid signs of strain in AI infrastructure buildout."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Microsoft"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 52,
+      "fuentes": [
+        "ev_b56c5e655c"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_b56c5e655c",
+          "titulo": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+          "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 06 Nov 2026 18:40:58 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0009",
+      "fecha": "2026-11-07",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Centro de datos de IA en Lanarkshire dependerá de red nacional pese a promesa renovable",
+        "en": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim"
+      },
+      "sintesis": {
+        "es": "DataVita admitió que su proyecto de centro de datos de IA cerca de Glasgow, que prometía 1GW de energía renovable, será abastecido enteramente por la red nacional eléctrica, contradiciendo su promesa original.",
+        "en": "DataVita admitted its AI data center project near Glasgow, which had promised 1GW of renewable energy, will be entirely powered by the National Grid, contradicting its original pledge."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "DataVita",
+        "National Grid"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 48,
+      "fuentes": [
+        "ev_ab4356aab5"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/c1b8eb2d05fbcf3925b8a30a9e3d4612d3eaa8c7/1365_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=3ef7aa4b0036b9e0fb5e9137ca280cb4"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_ab4356aab5",
+          "titulo": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
+          "fuente": "The Guardian",
+          "fecha": "Sat, 07 Nov 2026 10:00:08 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0010",
+      "fecha": "2026-11-07",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Inversores anticipan valoración menor de Anthropic ante enfriamiento del mercado de IA",
+        "en": "Investors brace for lower Anthropic valuation amid AI market cooldown"
+      },
+      "sintesis": {
+        "es": "Inversores prevén que Anthropic podría salir a bolsa por debajo de una valoración de 1,5 billones de dólares, inferior a expectativas previas, mientras el mercado de IA pierde fuerza en Wall Street.",
+        "en": "Investors expect Anthropic could list below a $1.5 trillion valuation, below prior expectations, as the AI trade cools on Wall Street."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Anthropic"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_a06568b101"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a06568b101",
+          "titulo": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+          "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 06 Nov 2026 21:07:07 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0011",
+      "fecha": "2026-11-07",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Guerra y cambio climático agravan desnutrición infantil en Sudán",
+        "en": "Sudan war and climate change worsen child malnutrition"
+      },
+      "sintesis": {
+        "es": "La guerra, la pobreza y el cambio climático están afectando a la población sudanesa, con un aumento de casos de desnutrición infantil según reporta Al Jazeera.",
+        "en": "War, poverty and climate change are affecting Sudanese people, with increasing cases of child malnutrition, Al Jazeera reports."
+      },
+      "categoria": "demografia",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_bb678a087d"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_bb678a087d",
+          "titulo": "Sudan war and climate change see parents struggle to feed their children",
+          "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 07 Nov 2026 10:36:32 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0012",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Equipos de ayuda alertan sobre sufrimiento masivo en Sudán por guerra continua",
+        "en": "Aid teams warn of Sudan's suffering as brutal war continues"
+      },
+      "sintesis": {
+        "es": "Equipos de ayuda humanitaria pidieron más asistencia internacional para millones de desplazados por la guerra en Sudán, ante escasez de fondos, almacenes vacíos y necesidades desbordantes, según la ONU.",
+        "en": "Aid teams working to help millions displaced by Sudan's war appealed for more international assistance amid funding shortages, empty warehouses and overwhelming needs, according to the UN."
+      },
+      "categoria": "demografia",
+      "actores": [
+        "ONU"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_5a768a388c"
+      ],
+      "imagenes": [
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/30-09-2026-IOM-Sudan-03.jpg/image560x340cropped.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5a768a388c",
+          "titulo": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168753",
+          "fuente": "ONU (inglés)",
+          "fecha": "Fri, 06 Nov 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0013",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-07_0003",
+        "nd_2026-11-07_0014",
+        "nd_2026-11-07_0015"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "ONU: tres de cada cuatro refugiados enfrentan alta exposición a riesgos climáticos",
+        "en": "UN: three in four refugees face high exposure to climate hazards"
+      },
+      "sintesis": {
+        "es": "La ONU reportó que casi 90 millones de refugiados, tres de cada cuatro, viven en países con exposición alta a severa a riesgos como sequías, inundaciones y calor extremo, calificando la crisis climática como emergencia inmediata para refugiados.",
+        "en": "The UN reported that nearly 90 million refugees, three in four, live in countries facing high to severe exposure to hazards such as drought, floods and extreme heat, calling the climate emergency an immediate crisis for refugees."
+      },
+      "categoria": "demografia",
+      "actores": [
+        "ONU",
+        "ACNUR"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_4898ba53bb"
+      ],
+      "imagenes": [
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/23-10-2026-IOM-Somalia-flooding-03.jpg/image560x340cropped.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_4898ba53bb",
+          "titulo": "‘No Escape’ for refugees on the frontlines of the climate crisis",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168752",
+          "fuente": "ONU (inglés)",
+          "fecha": "Fri, 06 Nov 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0014",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-07_0003",
+        "nd_2026-11-07_0013",
+        "nd_2026-11-07_0015"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Afganistán enfrenta crisis humanitaria profunda bajo restricciones de derechos",
+        "en": "Afghanistan faces deepening humanitarian crisis amid rights restrictions"
+      },
+      "sintesis": {
+        "es": "Un alto funcionario de la ONU indicó que Afganistán atraviesa una 'encrucijada difícil' más de cinco años después del retorno talibán, con economía frágil, restricciones de derechos y necesidades humanitarias agudas.",
+        "en": "A senior UN official said Afghanistan is at a 'difficult crossroad' more than five years after the Taliban's return, with a fragile economy, sweeping rights restrictions and acute humanitarian needs."
+      },
+      "categoria": "demografia",
+      "actores": [
+        "ONU",
+        "Talibán"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 58,
+      "fuentes": [
+        "ev_8ba7881406"
+      ],
+      "imagenes": [
+        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/13-07-2026-UNICEF-Afghanistan-02.jpg/image560x340cropped.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8ba7881406",
+          "titulo": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+          "fuente": "ONU (inglés)",
+          "fecha": "Fri, 06 Nov 2026 12:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0015",
+      "fecha": "2026-11-07",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-11-07_0003",
+        "nd_2026-11-07_0013",
+        "nd_2026-11-07_0014"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Importaciones de crudo venezolano a EE.UU. alcanzan máximo desde 2017 en julio",
+        "en": "US crude oil imports from Venezuela in July highest since 2017"
+      },
+      "sintesis": {
+        "es": "En julio de 2026, las importaciones de crudo venezolano a EE.UU. promediaron 701.000 barriles diarios, el nivel más alto desde mayo de 2017, antes de bajar a 655.000 b/d en agosto, según datos de la EIA.",
+        "en": "In July 2026, US crude oil imports from Venezuela averaged 701,000 barrels per day, the highest since May 2017, before decreasing to 655,000 b/d in August, according to EIA data."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "EIA"
+      ],
+      "geo": {
+        "lat": 6.4,
+        "lon": -66.6,
+        "region": "Sudamerica"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_41becbcf05"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_41becbcf05",
+          "titulo": "U.S. crude oil imports from Venezuela in July were highest since 2017",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
+          "fuente": "EIA",
+          "fecha": "Fri, 6 Nov 2026  09:00:00 EST",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0016",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-07_0021"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Índice FAO de precios de alimentos baja en octubre por demanda moderada",
         "en": "FAO Food Price Index edges down in October amid subdued demand"
       },
       "sintesis": {
-        "es": "La FAO informó oficialmente que su Índice de Precios de los Alimentos disminuyó en octubre de 2026, atribuido a una demanda global subdued según el organismo.",
-        "en": "FAO officially reported its Food Price Index declined in October 2026, attributed by the agency to subdued global demand."
+        "es": "La FAO informó que su Índice de Precios de los Alimentos descendió en octubre de 2026, atribuyendo la caída a una demanda global moderada.",
+        "en": "FAO reported its Food Price Index declined in October 2026, attributing the drop to subdued global demand."
       },
       "categoria": "recursos",
       "actores": [
@@ -323,7 +765,7 @@
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 35,
+      "impacto": 45,
       "fuentes": [
         "ev_fca2a6c82b"
       ],
@@ -339,623 +781,108 @@
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-06_0007",
-      "fecha": "2026-11-06",
+      "id": "nd_2026-11-07_0017",
+      "fecha": "2026-11-07",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Refinerías de EE.UU. reducen producción de gasolina a favor de destilados medios",
-        "en": "US refineries shift production from gasoline to middle distillates"
+        "es": "Petroleros rusos cambian de rumbo y no llegan a EE.UU. pese a acuerdo diésel Trump-Putin",
+        "en": "Russian oil tankers divert, fail to reach US despite Trump-Putin diesel deal"
       },
       "sintesis": {
-        "es": "La EIA reportó que datos hasta agosto de 2026 muestran que las refinerías estadounidenses redujeron significativamente el rendimiento de gasolina para aumentar la producción de combustible diésel y combustible de aviación.",
-        "en": "The EIA reported data through August 2026 showing US refineries significantly decreased gasoline yields to boost production of distillate fuel oil and jet fuel."
-      },
-      "categoria": "recursos",
-      "actores": [
-        "EIA"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 35,
-      "fuentes": [
-        "ev_c4238f204e"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_c4238f204e",
-          "titulo": "Refineries have shifted production away from gasoline to middle distillates",
-          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68424",
-          "fuente": "EIA",
-          "fecha": "Thu, 5 Nov 2026  09:00:00 EST",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0008",
-      "fecha": "2026-11-06",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Analista prevé que tensión EE.UU.-Irán podría llevar el petróleo por encima de 100 dólares",
-        "en": "Analyst predicts US-Iran tension could push oil above $100"
-      },
-      "sintesis": {
-        "es": "Bob McNally de Rapidan Energy dijo a CNBC que el crudo Brent y WTI podrían superar los 100 dólares por barril si se reaviva la tensión entre EE.UU. e Irán tras las elecciones de mitad de mandato.",
-        "en": "Bob McNally of Rapidan Energy told CNBC that Brent and WTI crude could surpass $100 per barrel if US-Iran tensions reignite after the midterm elections."
-      },
-      "categoria": "recursos",
-      "actores": [
-        "Rapidan Energy"
-      ],
-      "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_de3e30e2b4"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_de3e30e2b4",
-          "titulo": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
-          "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
-          "fuente": "CNBC",
-          "fecha": "Fri, 06 Nov 2026 05:27:24 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0009",
-      "fecha": "2026-11-06",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-06_0017"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Comisión Europea inicia investigación de salvaguardia sobre importaciones de resina PET",
-        "en": "European Commission initiates safeguard investigation into PET resin imports"
-      },
-      "sintesis": {
-        "es": "La Comisión Europea anunció oficialmente el inicio de una investigación de salvaguardia para evaluar si se necesitan medidas que protejan a la industria de la UE ante un aumento significativo de importaciones de resina PET.",
-        "en": "The European Commission officially announced a safeguard investigation to assess whether measures are needed to protect EU industry from a significant surge in PET resin imports."
+        "es": "Los primeros petroleros que debían entregar diésel ruso a Estados Unidos bajo un acuerdo entre Trump y Putin cambiaron de rumbo, lo que supone probablemente el fin del pacto anunciado antes de las elecciones de medio mandato.",
+        "en": "The first tankers meant to deliver Russian diesel to the US under a Trump-Putin deal have changed course, likely ending the pact announced before the midterm elections."
       },
       "categoria": "cadenas",
       "actores": [
-        "Comisión Europea"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 35,
-      "fuentes": [
-        "ev_7abf50e4ed"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_7abf50e4ed",
-          "titulo": "Commission initiates safeguard investigation into imports of PET resin chemicals",
-          "url": "https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-pet-resin-chemicals-2026-11-06_en",
-          "fuente": "Comisión Europea · Comercio",
-          "fecha": "Fri, 06 Nov 2026 00:00:00 +0100",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0010",
-      "fecha": "2026-11-06",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Pequeños minoristas de EE.UU. enfrentan fuerte alza en costos de envío para la temporada navideña",
-        "en": "Small US retailers face steep shipping cost rise for holiday season"
-      },
-      "sintesis": {
-        "es": "CNBC reportó que minoristas pequeños y medianos en EE.UU. enfrentan un 'gran golpe' en la temporada navideña debido al aumento de costos de envío impulsado por altos precios de combustible.",
-        "en": "CNBC reported small and medium US retailers face a 'huge hit' this holiday season due to rising shipping costs driven by high fuel prices."
-      },
-      "categoria": "cadenas",
-      "actores": [],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 30,
-      "fuentes": [
-        "ev_ae4d820471"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ae4d820471",
-          "titulo": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
-          "url": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
-          "fuente": "CNBC",
-          "fecha": "Fri, 06 Nov 2026 12:00:01 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0011",
-      "fecha": "2026-11-06",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Singapore Airlines invierte más de 2.000 millones en nueva experiencia de cabina",
-        "en": "Singapore Airlines invests over $2 billion in new cabin experience"
-      },
-      "sintesis": {
-        "es": "CNBC informó que Singapore Airlines renovará asientos, servicio y entretenimiento a bordo como parte de una inversión superior a 2.000 millones de dólares singapurenses.",
-        "en": "CNBC reported Singapore Airlines will overhaul seating, dining and entertainment as part of an investment exceeding S$2 billion."
-      },
-      "categoria": "cadenas",
-      "actores": [
-        "Singapore Airlines"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 20,
-      "fuentes": [
-        "ev_8c32e1f7ac"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_8c32e1f7ac",
-          "titulo": "The 'World's Best Airline' is updating its business and first-class experience",
-          "url": "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html",
-          "fuente": "CNBC",
-          "fecha": "Fri, 06 Nov 2026 07:32:26 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0012",
-      "fecha": "2026-11-06",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Amenazas de bomba falsas provocan desvíos de al menos 35 aviones en Europa",
-        "en": "Hoax bomb threats cause diversion of at least 35 planes across Europe"
-      },
-      "sintesis": {
-        "es": "Al Jazeera y otros medios reportaron que inspecciones de seguridad no hallaron explosivos tras una ola de amenazas de bomba que afectó al menos 35 vuelos en Europa esta semana, con cazas escoltando aeronaves.",
-        "en": "Al Jazeera and other outlets reported security inspections found no explosives after a wave of hoax bomb threats affected at least 35 flights across Europe this week, with fighter jets escorting planes."
-      },
-      "categoria": "cadenas",
-      "actores": [
-        "Tarom"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_dc330fd2a8"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_dc330fd2a8",
-          "titulo": "Hoax or bomb threats? What we know about flight disruptions across Europe",
-          "url": "https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 06 Nov 2026 11:18:02 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0013",
-      "fecha": "2026-11-06",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Presidente de Paraguay renuncia tras crisis bancaria de Ueno Bank",
-        "en": "Paraguay's president resigns after Ueno Bank crisis"
-      },
-      "sintesis": {
-        "es": "The Guardian reportó que el presidente paraguayo Santiago Peña renunció tras el colapso del sistema bancario provocado por Ueno Bank, entidad que llegó a tener como clientes al 60% de la población adulta del país.",
-        "en": "The Guardian reported Paraguayan President Santiago Peña resigned after a banking system collapse caused by Ueno Bank, which had reportedly reached 60% of the country's adult population as customers."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Ueno Bank"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_3bd4594b89"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_3bd4594b89",
-          "titulo": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-          "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-          "fuente": "The Guardian",
-          "fecha": "Fri, 06 Nov 2026 06:16:22 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0014",
-      "fecha": "2026-11-06",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Congreso de Paraguay inicia juicio político contra Peña pese a su renuncia",
-        "en": "Paraguay's Congress initiates impeachment against Peña despite his resignation"
-      },
-      "sintesis": {
-        "es": "BBC Mundo informó que el Congreso paraguayo decidió iniciar un juicio político contra Santiago Peña por el caso Ueno Bank, tras presión de legisladores opositores y de su propio partido.",
-        "en": "BBC Mundo reported Paraguay's Congress decided to initiate impeachment proceedings against Santiago Peña over the Ueno Bank case, after pressure from opposition and his own party's legislators."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Congreso de Paraguay"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 50,
-      "fuentes": [
-        "ev_31cae29960"
-      ],
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c1d/live/ca13cd00-d937-11f1-8bce-2396c9c50357.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_31cae29960",
-          "titulo": "El Congreso de Paraguay inicia un juicio político contra Santiago Peña por el caso Ueno Bank pese a su renuncia a la presidencia",
-          "url": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Thu, 05 Nov 2026 22:50:27 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-06_0015",
-      "fecha": "2026-11-06",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Mercados globales caen por temores a freno de la IA tras victoria demócrata en EE.UU.",
-        "en": "Global markets plunge on AI slowdown fears after Democratic midterm win"
-      },
-      "sintesis": {
-        "es": "The Guardian reportó que mercados asiáticos y europeos cayeron tras un desplome en Wall Street, luego de que la victoria demócrata en las elecciones de mitad de mandato generara temores de mayor regulación a la industria de IA.",
-        "en": "The Guardian reported Asian and European markets fell after a Wall Street rout, following the Democratic midterm victory sparking fears of tighter AI industry regulation."
-      },
-      "categoria": "geopolitica",
-      "actores": [],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 65,
-      "fuentes": [
-        "ev_fa2f8c0fd4"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/133fcf307a659f484d60938a125776efe501ba4e/407_0_3025_2422/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=89a44d686b06b49ef9bf9404d834f126"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_fa2f8c0fd4",
-          "titulo": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
-          "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-          "fuente": "The Guardian",
-          "fecha": "Fri, 06 Nov 2026 08:58:22 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0016",
-      "fecha": "2026-11-06",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Imágenes satelitales muestran construcción cerca de bases de misiles de Irán",
-        "en": "Satellite images show major construction near Iran missile bases"
-      },
-      "sintesis": {
-        "es": "BBC News reportó que imágenes satelitales tomadas en noviembre muestran evidencia de excavación y nuevas edificaciones cerca de bases de misiles iraníes.",
-        "en": "BBC News reported satellite imagery taken in November shows evidence of digging and new buildings near Iranian missile bases."
-      },
-      "categoria": "geopolitica",
-      "actores": [],
-      "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_aba9689fda"
-      ],
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5589/live/461d3e00-d879-11f1-b441-2b33b063138f.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_aba9689fda",
-          "titulo": "Major construction ongoing near Iran missile bases, satellite images suggest",
-          "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "fecha": "Fri, 06 Nov 2026 07:33:41 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0017",
-      "fecha": "2026-11-06",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-11-06_0009"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán",
-        "en": "Rocket launcher deal deepens Russia-Iran relations"
-      },
-      "sintesis": {
-        "es": "Al Jazeera informó sobre un reporte de un acuerdo de lanzacohetes entre Rusia e Irán, coincidiendo con conversaciones del funcionario de seguridad iraní Mohsen Rezaei con Putin sobre un tratado de cooperación.",
-        "en": "Al Jazeera reported on a deal for rocket launchers between Russia and Iran, coinciding with talks between Iranian security official Mohsen Rezaei and Putin on a cooperation treaty."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Mohsen Rezaei",
+        "Donald Trump",
         "Vladimir Putin"
       ],
       "geo": {
-        "lat": 61.5,
-        "lon": 105.3,
-        "region": "Rusia"
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
       },
-      "impacto": 45,
+      "impacto": 58,
       "fuentes": [
-        "ev_233f1b157b"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_233f1b157b",
-          "titulo": "Rocket launcher deal illustrates deepening Russia-Iran relations",
-          "url": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Fri, 06 Nov 2026 11:28:38 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0018",
-      "fecha": "2026-11-06",
-      "kardashev": "K2",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "BCE publica datos bancarios consolidados a cierre de junio de 2026",
-        "en": "ECB publishes consolidated banking data for end-June 2026"
-      },
-      "sintesis": {
-        "es": "El Banco Central Europeo publicó oficialmente sus datos bancarios consolidados correspondientes al cierre de junio de 2026 para el sector bancario de la eurozona.",
-        "en": "The European Central Bank officially published its consolidated banking data for end-June 2026 covering the eurozone banking sector."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "BCE"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 30,
-      "fuentes": [
-        "ev_5e76621429"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_5e76621429",
-          "titulo": "ECB publishes consolidated banking data for end-June 2026",
-          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
-          "fuente": "BCE",
-          "fecha": "Fri, 06 Nov 2026 10:00:00 +0100",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0019",
-      "fecha": "2026-11-06",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Reserva Federal pone fin a acciones de supervisión contra tres entidades financieras",
-        "en": "Federal Reserve terminates enforcement actions against three financial entities"
-      },
-      "sintesis": {
-        "es": "La Junta de la Reserva Federal anunció oficialmente la terminación de acciones de cumplimiento contra Allegiant United Holdings, Nano Financial Holdings y Nano Banc.",
-        "en": "The Federal Reserve Board officially announced the termination of enforcement actions against Allegiant United Holdings, Nano Financial Holdings and Nano Banc."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Reserva Federal",
-        "Allegiant United Holdings",
-        "Nano Financial Holdings",
-        "Nano Banc"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 20,
-      "fuentes": [
-        "ev_1c4174c8b8"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1c4174c8b8",
-          "titulo": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-          "fuente": "Reserva Federal",
-          "fecha": "Thu, 5 Nov 2026 16:00:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-06_0020",
-      "fecha": "2026-11-06",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Banco de Inglaterra eleva tasa de interés a 4%, primer aumento en más de tres años",
-        "en": "Bank of England raises interest rate to 4%, first hike in over three years"
-      },
-      "sintesis": {
-        "es": "BBC reportó que el Banco de Inglaterra subió su tasa de interés de 3.75% a 4%, el primer aumento en más de tres años, en línea con lo previsto por la mayoría de analistas.",
-        "en": "BBC reported the Bank of England raised its interest rate from 3.75% to 4%, the first hike in over three years, in line with most analysts' expectations."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Banco de Inglaterra"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_892ea2bf53"
+        "ev_87f5642397"
       ],
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg"
+        "https://s.france24.com/media/display/583fe45e-d93a-11f1-9d4e-bf1914cabd52/w:1024/p:16x9/image-tanker-diesel3.png"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_892ea2bf53",
-          "titulo": "Interest rates hiked to 4% in first increase in over three years",
-          "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC · Economía",
-          "fecha": "Thu, 05 Nov 2026 17:09:55 GMT",
-          "idioma": "en"
+          "id": "ev_87f5642397",
+          "titulo": "El fallido acuerdo de Trump sobre el diésel: ¿por qué los petroleros rusos no se dirigen a EE. UU.?",
+          "url": "https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20261107-el-fallido-acuerdo-de-trump-sobre-el-di%C3%A9sel-por-qu%C3%A9-los-petroleros-rusos-no-se-dirigen-a-ee-uu",
+          "fuente": "France 24",
+          "fecha": "Sat, 07 Nov 2026 00:00:11 GMT",
+          "idioma": "es"
         }
       ],
-      "id": "nd_2026-11-06_0021",
-      "fecha": "2026-11-06",
-      "kardashev": "K0",
-      "relaciones": []
+      "id": "nd_2026-11-07_0018",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-07_0001",
+        "nd_2026-11-07_0002",
+        "nd_2026-11-07_0005",
+        "nd_2026-11-07_0023"
+      ]
     },
     {
       "titulo": {
-        "es": "Wall Street sufre peor liquidación desde el shock arancelario de 2025",
-        "en": "Wall Street suffers worst selloff since 2025 tariff shock"
+        "es": "Oleada de amenazas de bomba desafía a aerolíneas europeas",
+        "en": "Spate of bomb threats poses serious challenge to airline industry"
       },
       "sintesis": {
-        "es": "MarketWatch reportó que la liquidación bursátil en Wall Street se extendió más allá de las acciones de IA, marcando la peor caída desde el shock arancelario de 2025, según la publicación.",
-        "en": "MarketWatch reported the Wall Street selloff spread beyond AI stocks, marking the worst decline since the 2025 tariff shock, according to the outlet."
+        "es": "Tras una semana de disrupciones por amenazas de bomba contra decenas de vuelos europeos, las aerolíneas enfrentan preocupaciones tanto de seguridad como financieras, según BBC.",
+        "en": "After a week of disruption from bomb threats against dozens of European flights, airlines face both safety and financial concerns, BBC reports."
       },
-      "categoria": "finanzas",
+      "categoria": "cadenas",
       "actores": [],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 55,
+      "impacto": 52,
       "fuentes": [
-        "ev_60267edbd5"
+        "ev_40b0231bc0"
       ],
       "imagenes": [
-        "https://images.mktw.net/im-52976475"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f23/live/39514eb0-d9f9-11f1-93e1-3b657b665bcf.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_60267edbd5",
-          "titulo": "After Wall Street’s worst selloff since the 2025 tariff shock, here’s what investors need to watch next",
-          "url": "https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Fri, 06 Nov 2026 12:14:00 GMT",
+          "id": "ev_40b0231bc0",
+          "titulo": "Spate of bomb threats poses serious challenge to airline industry",
+          "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Fri, 06 Nov 2026 16:18:44 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-06_0022",
-      "fecha": "2026-11-06",
+      "id": "nd_2026-11-07_0019",
+      "fecha": "2026-11-07",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Tesla y SpaceX de Elon Musk pierden más de 420.000 millones de dólares en valor de mercado",
-        "en": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap"
+        "es": "Oleada de amenazas de bomba desafía a autoridades aéreas europeas",
+        "en": "Wave of bomb threats challenges Europe's aviation authorities"
       },
       "sintesis": {
-        "es": "CNBC reportó que Tesla y SpaceX perdieron en conjunto más de 420.000 millones de dólares en capitalización de mercado tras los resultados de las elecciones de mitad de mandato en EE.UU.",
-        "en": "CNBC reported Tesla and SpaceX lost a combined over $420 billion in market capitalization following the US midterm election results."
+        "es": "Analistas señalan que el punto más débil de la aviación es atacarla en pleno vuelo, lo que complica la respuesta de las autoridades europeas ante la ola de amenazas de bomba, según CNBC.",
+        "en": "Analysts say the weakest point of aviation is targeting it in-flight, complicating the response of European authorities to the wave of bomb threats, CNBC reports."
       },
-      "categoria": "finanzas",
-      "actores": [
-        "Tesla",
-        "SpaceX",
-        "Elon Musk"
-      ],
+      "categoria": "cadenas",
+      "actores": [],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
@@ -963,34 +890,203 @@
       },
       "impacto": 50,
       "fuentes": [
-        "ev_dc19c204ef"
+        "ev_37d08e3da5"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_dc19c204ef",
-          "titulo": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
-          "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+          "id": "ev_37d08e3da5",
+          "titulo": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+          "url": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
           "fuente": "CNBC",
-          "fecha": "Fri, 06 Nov 2026 03:20:43 GMT",
+          "fecha": "Sat, 07 Nov 2026 09:01:57 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-06_0023",
-      "fecha": "2026-11-06",
-      "kardashev": "K2",
+      "id": "nd_2026-11-07_0020",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
       "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Diez años después del Acuerdo de París, meta de temperatura incumplida pese a negociaciones continuas",
+        "en": "Ten years after Paris treaty, temperature goal missed despite ongoing climate talks"
+      },
+      "sintesis": {
+        "es": "Expertos señalan que la meta clave de temperatura del Acuerdo de París no se ha cumplido, aunque el pacto sigue sirviendo como referencia moral para el progreso climático, según análisis de The Guardian sobre las negociaciones post-Belém.",
+        "en": "Experts say the Paris agreement's key temperature goal has been missed, though the pact still serves as a moral compass for climate progress, per Guardian analysis of post-Belém negotiations."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Acuerdo de París"
+      ],
+      "geo": {
+        "lat": -14.2,
+        "lon": -51.9,
+        "region": "Sudamerica"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_0e24dc848e"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/ab150660e1c0941c2982524b3f3d02283867ef5d/350_0_2943_2354/master/2943.jpg?width=140&quality=85&auto=format&fit=max&s=947cd67326b78e5e24874e61dd562574"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0e24dc848e",
+          "titulo": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+          "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+          "fuente": "The Guardian",
+          "fecha": "Sat, 07 Nov 2026 05:00:02 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0021",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-07_0016"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Encuesta YouGov: europeos quieren acción climática pero con límites en sacrificios",
+        "en": "YouGov poll: Europeans want climate action but not at any cost"
+      },
+      "sintesis": {
+        "es": "Una encuesta de YouGov en seis países europeos mostró que entre 69% (Alemania) y 80% (Francia) creen que el clima cambia por actividad humana, pero hay resistencia a medidas como impuestos a viajes aéreos y combustibles.",
+        "en": "A YouGov survey across six European countries found between 69% (Germany) and 80% (France) believe climate change is human-caused, though there is resistance to measures like air travel and fuel taxes."
+      },
+      "categoria": "clima",
+      "actores": [
+        "YouGov"
+      ],
+      "geo": {
+        "lat": 51.2,
+        "lon": 10.4,
+        "region": "Europa"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_86681d50ef"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/be71ae395bd4e392d9a022f94aa37e4f2ac6e1d0/785_0_4124_3301/master/4124.jpg?width=140&quality=85&auto=format&fit=max&s=f52616c1a6ddb9606f1bcce6695a1cf4"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_86681d50ef",
+          "titulo": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
+          "url": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Fri, 06 Nov 2026 12:27:54 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0022",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Formación rocosa de Nuevo México destruida tras lluvias torrenciales de El Niño",
+        "en": "Famous New Mexico rock formation destroyed after torrential El Niño rains"
+      },
+      "sintesis": {
+        "es": "Autoridades investigarán si las tormentas del 'super El Niño' en el suroeste de EE.UU. dañaron las formaciones rocosas 'Alien Throne', encontradas destruidas tras lluvias torrenciales, según The Guardian.",
+        "en": "Officials will investigate whether super El Niño storms in the US southwest damaged the 'Alien Throne' rock spires, found destroyed after torrential rains, according to The Guardian."
+      },
+      "categoria": "clima",
+      "actores": [],
+      "geo": {
+        "lat": 23.6,
+        "lon": -102.5,
+        "region": "Norteamerica"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_dc29b8b15e"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/40eb09e62b483bf78ae11851a7c7889f5f68bdb6/171_0_1707_1366/master/1707.jpg?width=140&quality=85&auto=format&fit=max&s=17d1f677fc085e38f53287c2bab0ebd4"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_dc29b8b15e",
+          "titulo": "Famous New Mexico rock formation destroyed after torrential El Niño rains",
+          "url": "https://www.theguardian.com/environment/2026/nov/06/new-mexico-alien-throne-collapse-el-nino-rain",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Fri, 06 Nov 2026 19:23:03 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0023",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-07_0005",
+        "nd_2026-11-07_0018"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Lluvias inundan miles de tiendas de desplazados en Gaza",
+        "en": "Rains flood thousands of displaced families' tents in Gaza"
+      },
+      "sintesis": {
+        "es": "La Defensa Civil de Gaza recibió 1.500 llamadas de emergencia en 10 horas tras una tormenta que afectó campamentos de desplazados, según Al Jazeera.",
+        "en": "Gaza's Civil Defence received 1,500 distress calls in 10 hours after a storm swept through displacement camps, Al Jazeera reports."
+      },
+      "categoria": "demografia",
+      "actores": [
+        "Defensa Civil de Gaza"
+      ],
+      "geo": {
+        "lat": 31.4,
+        "lon": 34.4,
+        "region": "Oriente Medio"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_ad45d1273b"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_ad45d1273b",
+          "titulo": "Rains flood thousands of displaced families’ tents in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Sat, 07 Nov 2026 11:10:02 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-07_0024",
+      "fecha": "2026-11-07",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-07_0002",
+        "nd_2026-11-07_0003",
+        "nd_2026-11-07_0004"
+      ]
     }
   ],
-  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-06\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Asunción\", \"Boston\", \"Bucarest\", \"Dinamarca\", \"Estados Unidos\", \"Estrecho de Ormuz\", \"Francia\", \"India\", \"Irán\", \"Isla Norte\", \"Keyes, Oklahoma\", \"Londres\", \"Ngawi\", \"Nueva York\", \"Portugal\", \"Praga\", \"Reino Unido\", \"República Checa\", \"Singapur\", \"Unión Europea\", \"Wall Street\", \"Wyoming\"]\npaises: [\"Canadá\", \"Dinamarca\", \"Estados Unidos\", \"Francia\", \"India\", \"Irán\", \"Nueva Zelanda\", \"Paraguay\", \"Portugal\", \"Reino Unido\", \"República Checa\", \"Rumania\", \"Rusia\", \"Singapur\", \"Unión Europea\"]\nentidades: [\"Allegiant United Holdings\", \"BCE\", \"Banco de Inglaterra\", \"Comisión Europea\", \"Congreso de Paraguay\", \"Cult.fit\", \"Department of Conservation\", \"EIA\", \"Elon Musk\", \"FAO\", \"Google\", \"Meta\", \"Mohsen Rezaei\", \"Nano Banc\", \"Nano Financial Holdings\", \"OpenAI\", \"Rapidan Energy\", \"Reserva Federal\", \"Singapore Airlines\", \"SpaceX\", \"Tarom\", \"Tesla\", \"Ueno Bank\", \"Vladimir Putin\"]\ntemas: [\"amenazas de bomba\", \"armamento\", \"asistentes virtuales\", \"aviación\", \"banca\", \"centros de datos\", \"clima extremo\", \"combustibles\", \"comercio\", \"comercio minorista\", \"cooperación militar\", \"costos de envío\", \"crisis bancaria\", \"crisis institucional\", \"datos financieros\", \"defensa\", \"elecciones\", \"fauna marina\", \"floración\", \"geopolítica energética\", \"infraestructura\", \"inteligencia artificial\", \"inteligencia satelital\", \"inversión\", \"juicio político\", \"logística\", \"mercados\", \"mercados bursátiles\", \"misiles\", \"petróleo\", \"polinizadores\", \"política monetaria\", \"precios de alimentos\", \"precios del petróleo\", \"productividad\", \"química\", \"refinación\", \"regulación bancaria\", \"renuncia presidencial\", \"salvaguardias\", \"sector tecnológico\", \"seguridad\", \"seguridad alimentaria\", \"supervisión financiera\", \"tasas de interés\", \"temperatura\", \"tornado\", \"transporte aéreo\", \"varamiento\", \"video generativo\", \"volatilidad\"]\nbucles_activos: [\"Armamentización de la Cadena de Suministro\"]\ncorte: \"2026-11-06T12:33:06.921691+00:00\"\ninicio_ventana: \"2026-11-05T12:33:06.921691+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-06\n\n## Resumen del día\n\nEl día combina volatilidad financiera tras las elecciones de EE.UU., crisis institucional en Paraguay por el colapso de Ueno Bank, y riesgo geopolítico en Irán con posible impacto petrolero.\nEn tecnología, Google y Meta anuncian avances de IA e infraestructura, mientras en recursos la FAO reporta caída de precios de alimentos y la EIA documenta un giro en la refinación de EE.UU. hacia destilados.\nEn cadenas de suministro, la UE abre investigación de salvaguardia sobre PET y Europa enfrenta una ola de amenazas de bomba que desvió decenas de vuelos.\nEl clima mostró eventos puntuales (varamiento de ballenas, calor anómalo en Reino Unido y EE.UU.) sin vínculo documentado con otras dimensiones en los hechos del día.\nNo se registró evidencia que conecte demografía con otras dimensiones, por lo que el bucle Impacto Societal y Financiero no puede confirmarse con los hechos disponibles.\n\nVentana de 24 horas hasta 2026-11-06T12:33:06.921691+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, un, imf, iom, unhcr, esa, usda, bis, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_5be9f51c9a\"></a>\n1. Más de 40 ballenas piloto mueren en varamiento masivo en Nueva Zelanda — El Departamento de Conservación de Nueva Zelanda informó que 43 ballenas piloto murieron tras un varamiento masivo en la costa de Ngawi, Isla Norte, pese a esfuerzos de rescate de voluntarios. — [The Guardian · Medio ambiente, Fri, 06 Nov 2026 04:45:33 GMT](https://www.theguardian.com/world/2026/nov/06/pilot-whales-dead-stranded-new-zealand-north-island) · medio.\n\n<a id=\"ev_dd7c0e03e5\"></a>\n2. Árboles del Reino Unido florecen prematuramente por otoño anómalamente cálido — Expertos citados por The Guardian advierten que octubre fue el noveno mes consecutivo con temperaturas medias superiores al promedio en el Reino Unido, causando una floración de primavera fuera de temporada que podría dañar a los polinizadores. — [The Guardian, Fri, 06 Nov 2026 11:00:51 GMT](https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn) · medio.\n\n<a id=\"ev_591ea8fb57\"></a>\n3. Calor fuera de temporada y tormentas severas afectan el este de EE.UU. y votación en varios estados — The Guardian reportó temperaturas hasta 10°C por encima del promedio en Nueva York y Boston, y tormentas severas con un tornado en Keyes, Oklahoma, que obligó a reubicar un centro de votación durante las elecciones de mitad de mandato. — [The Guardian, Fri, 06 Nov 2026 09:54:12 GMT](https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_cfee7a9c40\"></a>\n1. Google lanza Omni 1.2 Flash para generar videos de IA más largos en Vids — Google anunció en su blog oficial el modelo Omni 1.2 Flash para Google Vids, que permite generar clips de 15 segundos con escenas consistentes de forma gratuita. — [Google, Thu, 05 Nov 2026 20:00:00 +0000](https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/) · oficial.\n\n<a id=\"ev_053181aeba\"></a>\n2. Google invierte 17.000 millones de dólares en centro de datos en Wyoming — Google anunció oficialmente la construcción de su primer centro de datos en Wyoming, con una inversión de 17.000 millones de dólares en infraestructura, energía y empleo local. — [Google, Thu, 05 Nov 2026 17:00:00 +0000](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/) · oficial.\n\n<a id=\"ev_5131c26da3\"></a>\n3. Meta añade voz y avatares expresivos a su app de IA Muse — Meta anunció oficialmente que incorpora voz y avatares expresivos a su aplicación Muse, permitiendo una nueva forma de interacción natural con el asistente de IA. — [Meta, Thu, 05 Nov 2026 18:30:58 +0000](https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/) · oficial.\n\n<a id=\"ev_eba11b4068\"></a>\n4. OpenAI destaca uso de Codex por la empresa india Cult.fit — OpenAI publicó un caso oficial sobre cómo Cult.fit usa su herramienta Codex para que equipos de distintas áreas construyan herramientas internas y aceleren procesos de trabajo. — [OpenAI, Thu, 05 Nov 2026 20:00:00 GMT](https://openai.com/index/cultfit-builds-with-codex) · oficial.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_fca2a6c82b\"></a>\n1. Índice de precios de alimentos de la FAO cae en octubre por demanda contenida — La FAO informó oficialmente que su Índice de Precios de los Alimentos disminuyó en octubre de 2026, atribuido a una demanda global subdued según el organismo. — [FAO, Fri, 06 Nov 2026 12:00:00 Z](https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand/en) · oficial.\n\n<a id=\"ev_c4238f204e\"></a>\n2. Refinerías de EE.UU. reducen producción de gasolina a favor de destilados medios — La EIA reportó que datos hasta agosto de 2026 muestran que las refinerías estadounidenses redujeron significativamente el rendimiento de gasolina para aumentar la producción de combustible diésel y combustible de aviación. — [EIA, Thu, 5 Nov 2026  09:00:00 EST](https://www.eia.gov/todayinenergy/detail.php?id=68424) · oficial.\n\n<a id=\"ev_de3e30e2b4\"></a>\n3. Analista prevé que tensión EE.UU.-Irán podría llevar el petróleo por encima de 100 dólares — Bob McNally de Rapidan Energy dijo a CNBC que el crudo Brent y WTI podrían superar los 100 dólares por barril si se reaviva la tensión entre EE.UU. e Irán tras las elecciones de mitad de mandato. — [CNBC, Fri, 06 Nov 2026 05:27:24 GMT](https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html) · medio.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_7abf50e4ed\"></a>\n1. Comisión Europea inicia investigación de salvaguardia sobre importaciones de resina PET — La Comisión Europea anunció oficialmente el inicio de una investigación de salvaguardia para evaluar si se necesitan medidas que protejan a la industria de la UE ante un aumento significativo de importaciones de resina PET. — [Comisión Europea · Comercio, Fri, 06 Nov 2026 00:00:00 +0100](https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-pet-resin-chemicals-2026-11-06_en) · oficial.\n\n<a id=\"ev_ae4d820471\"></a>\n2. Pequeños minoristas de EE.UU. enfrentan fuerte alza en costos de envío para la temporada navideña — CNBC reportó que minoristas pequeños y medianos en EE.UU. enfrentan un 'gran golpe' en la temporada navideña debido al aumento de costos de envío impulsado por altos precios de combustible. — [CNBC, Fri, 06 Nov 2026 12:00:01 GMT](https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html) · medio.\n\n<a id=\"ev_8c32e1f7ac\"></a>\n3. Singapore Airlines invierte más de 2.000 millones en nueva experiencia de cabina — CNBC informó que Singapore Airlines renovará asientos, servicio y entretenimiento a bordo como parte de una inversión superior a 2.000 millones de dólares singapurenses. — [CNBC, Fri, 06 Nov 2026 07:32:26 GMT](https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html) · medio.\n\n<a id=\"ev_dc330fd2a8\"></a>\n4. Amenazas de bomba falsas provocan desvíos de al menos 35 aviones en Europa — Al Jazeera y otros medios reportaron que inspecciones de seguridad no hallaron explosivos tras una ola de amenazas de bomba que afectó al menos 35 vuelos en Europa esta semana, con cazas escoltando aeronaves. — [Al Jazeera, Fri, 06 Nov 2026 11:18:02 +0000](https://www.aljazeera.com/news/2026/11/6/hoax-or-bomb-threats-what-we-know-about-flight-disruptions-across-europe?traffic_source=rss) · medio.\n\n## 5. Geopolítica\n\n<a id=\"ev_3bd4594b89\"></a>\n1. Presidente de Paraguay renuncia tras crisis bancaria de Ueno Bank — The Guardian reportó que el presidente paraguayo Santiago Peña renunció tras el colapso del sistema bancario provocado por Ueno Bank, entidad que llegó a tener como clientes al 60% de la población adulta del país. — [The Guardian, Fri, 06 Nov 2026 06:16:22 GMT](https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns) · medio.\n\n<a id=\"ev_31cae29960\"></a>\n2. Congreso de Paraguay inicia juicio político contra Peña pese a su renuncia — BBC Mundo informó que el Congreso paraguayo decidió iniciar un juicio político contra Santiago Peña por el caso Ueno Bank, tras presión de legisladores opositores y de su propio partido. — [BBC Mundo, Thu, 05 Nov 2026 22:50:27 GMT](https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_fa2f8c0fd4\"></a>\n3. Mercados globales caen por temores a freno de la IA tras victoria demócrata en EE.UU. — The Guardian reportó que mercados asiáticos y europeos cayeron tras un desplome en Wall Street, luego de que la victoria demócrata en las elecciones de mitad de mandato generara temores de mayor regulación a la industria de IA. — [The Guardian, Fri, 06 Nov 2026 08:58:22 GMT](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph) · medio.\n\n<a id=\"ev_aba9689fda\"></a>\n4. Imágenes satelitales muestran construcción cerca de bases de misiles de Irán — BBC News reportó que imágenes satelitales tomadas en noviembre muestran evidencia de excavación y nuevas edificaciones cerca de bases de misiles iraníes. — [BBC News, Fri, 06 Nov 2026 07:33:41 GMT](https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_233f1b157b\"></a>\n5. Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán — Al Jazeera informó sobre un reporte de un acuerdo de lanzacohetes entre Rusia e Irán, coincidiendo con conversaciones del funcionario de seguridad iraní Mohsen Rezaei con Putin sobre un tratado de cooperación. — [Al Jazeera, Fri, 06 Nov 2026 11:28:38 +0000](https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_5e76621429\"></a>\n1. BCE publica datos bancarios consolidados a cierre de junio de 2026 — El Banco Central Europeo publicó oficialmente sus datos bancarios consolidados correspondientes al cierre de junio de 2026 para el sector bancario de la eurozona. — [BCE, Fri, 06 Nov 2026 10:00:00 +0100](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html) · oficial.\n\n<a id=\"ev_1c4174c8b8\"></a>\n2. Reserva Federal pone fin a acciones de supervisión contra tres entidades financieras — La Junta de la Reserva Federal anunció oficialmente la terminación de acciones de cumplimiento contra Allegiant United Holdings, Nano Financial Holdings y Nano Banc. — [Reserva Federal, Thu, 5 Nov 2026 16:00:00 GMT](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm) · oficial.\n\n<a id=\"ev_892ea2bf53\"></a>\n3. Banco de Inglaterra eleva tasa de interés a 4%, primer aumento en más de tres años — BBC reportó que el Banco de Inglaterra subió su tasa de interés de 3.75% a 4%, el primer aumento en más de tres años, en línea con lo previsto por la mayoría de analistas. — [BBC · Economía, Thu, 05 Nov 2026 17:09:55 GMT](https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_60267edbd5\"></a>\n4. Wall Street sufre peor liquidación desde el shock arancelario de 2025 — MarketWatch reportó que la liquidación bursátil en Wall Street se extendió más allá de las acciones de IA, marcando la peor caída desde el shock arancelario de 2025, según la publicación. — [MarketWatch, Fri, 06 Nov 2026 12:14:00 GMT](https://www.marketwatch.com/story/after-wall-streets-worst-selloff-since-the-2025-tariff-shock-heres-what-investors-need-to-watch-next-6e2e629a?mod=mw_rss_topstories) · medio.\n\n<a id=\"ev_dc19c204ef\"></a>\n5. Tesla y SpaceX de Elon Musk pierden más de 420.000 millones de dólares en valor de mercado — CNBC reportó que Tesla y SpaceX perdieron en conjunto más de 420.000 millones de dólares en capitalización de mercado tras los resultados de las elecciones de mitad de mandato en EE.UU. — [CNBC, Fri, 06 Nov 2026 03:20:43 GMT](https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html) · medio.\n\n## 7. Demografía y Migraciones\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Con movimiento — La posibilidad de que la tensión EE.UU.-Irán reavive el precio del petróleo por encima de 100 dólares (geopolítica-recursos) se vincula con el contexto de alza en costos de envío que ya afecta a minoristas de EE.UU. por precios de combustible elevados (cadenas). [ev_de3e30e2b4](#ev_de3e30e2b4) [ev_ae4d820471](#ev_ae4d820471)\n- Flujos de Recursos: Con movimiento — El giro de las refinerías de EE.UU. hacia destilados medios (recursos) coincide con el alza de costos de envío que presiona a minoristas por precios de combustible (cadenas). [ev_c4238f204e](#ev_c4238f204e) [ev_ae4d820471](#ev_ae4d820471)\n- Flujos Cibernéticos y de Datos: Con movimiento — La ola de amenazas de bomba que desvió al menos 35 vuelos en Europa (cadenas) ocurre en paralelo a la tensión geopolítica regional documentada en los hechos de Irán y Rusia, aunque no hay confirmación oficial de un vínculo causal entre ambos tipos de incidentes; se registra como coincidencia temporal entre tecnología/seguridad de infraestructura de transporte (cadenas) y el contexto geopolítico del día (geopolítica). [ev_dc330fd2a8](#ev_dc330fd2a8) [ev_aba9689fda](#ev_aba9689fda)\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Con movimiento — La investigación de salvaguardia de la Comisión Europea sobre importaciones de resina PET (cadenas) se produce en un contexto geopolítico de tensión por el acuerdo de lanzacohetes entre Rusia e Irán (geopolítica), ilustrando el uso de instrumentos comerciales y militares como palancas de poder, aunque los hechos no documentan una conexión directa entre ambos eventos. [ev_7abf50e4ed](#ev_7abf50e4ed) [ev_233f1b157b](#ev_233f1b157b)\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Posibilidad de que el crudo supere los 100 dólares por barril si se reaviva la tensión EE.UU.-Irán tras las elecciones de mitad de mandato, según analista citado. [ev_de3e30e2b4](#ev_de3e30e2b4)\n- Posibilidad de que el juicio político contra el presidente paraguayo Peña profundice la crisis institucional derivada del colapso de Ueno Bank. [ev_31cae29960](#ev_31cae29960) [ev_3bd4594b89](#ev_3bd4594b89)\n- Posibilidad de que la construcción detectada cerca de bases de misiles iraníes escale la tensión militar en la región. [ev_aba9689fda](#ev_aba9689fda)\n- Posibilidad de que la investigación de salvaguardia de la UE sobre PET derive en medidas comerciales que afecten las cadenas de suministro químicas. [ev_7abf50e4ed](#ev_7abf50e4ed)\n- Posibilidad de que la volatilidad bursátil tras las elecciones de EE.UU. y los temores regulatorios a la IA se extiendan a otros mercados globales. [ev_fa2f8c0fd4](#ev_fa2f8c0fd4) [ev_60267edbd5](#ev_60267edbd5)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 2 | 2026-11-06T11:59:56+00:00 |\n| OpenAI | oficial | Disponible | 2 | 2026-11-05T20:00:00+00:00 |\n| NASA | oficial | Disponible | 5 | 2026-11-06T05:05:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 1 | 2026-11-05T14:00:00+00:00 |\n| FAO | oficial | Disponible | 1 | 2026-11-06T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-05T00:00:00+00:00 |\n| ONU | oficial | No disponible | 0 | Sin fecha verificable |\n| Reserva Federal | oficial | Disponible | 1 | 2026-11-05T16:00:00+00:00 |\n| BCE | oficial | Disponible | 1 | 2026-11-06T09:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-11-05T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 5 | 2026-11-05T20:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 2 | 2026-11-05T18:30:58+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-10-09T15:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-07T23:37:22+00:00 |\n| NASA · Comunicados | oficial | Disponible | 5 | 2026-11-06T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 1 | 2026-11-05T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | No disponible | 0 | Sin fecha verificable |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-11-05T12:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-06T07:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-10-30T01:08:48+00:00 |\n| BBC News | medio | Disponible | 24 | 2026-11-06T12:27:33+00:00 |\n| BBC Mundo | medio | Disponible | 8 | 2026-11-06T11:32:45+00:00 |\n| CNN | medio | Disponible | 107 | 2026-11-06T12:31:21.001000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-06T12:08:03+00:00 |\n| The Guardian | medio | Disponible | 28 | 2026-11-06T12:17:38+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-06T11:59:40+00:00 |\n| El País | medio | Disponible | 15 | 2026-11-06T12:19:12+00:00 |\n| CNBC | medio | Disponible | 30 | 2026-11-06T12:30:40+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-06T12:31:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 8 | 2026-11-06T12:00:42+00:00 |\n| BBC · Tecnología | medio | Disponible | 3 | 2026-11-06T11:20:10+00:00 |\n| BBC · Economía | medio | Disponible | 16 | 2026-11-06T11:40:35+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-06\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Asunción\", \"Boston\", \"Bucarest\", \"Dinamarca\", \"Estados Unidos\", \"Estrecho de Ormuz\", \"Francia\", \"India\", \"Irán\", \"Isla Norte\", \"Keyes, Oklahoma\", \"Londres\", \"Ngawi\", \"Nueva York\", \"Portugal\", \"Praga\", \"Reino Unido\", \"República Checa\", \"Singapur\", \"Unión Europea\", \"Wall Street\", \"Wyoming\"]\npaises: [\"Canadá\", \"Dinamarca\", \"Estados Unidos\", \"Francia\", \"India\", \"Irán\", \"Nueva Zelanda\", \"Paraguay\", \"Portugal\", \"Reino Unido\", \"República Checa\", \"Rumania\", \"Rusia\", \"Singapur\", \"Unión Europea\"]\nentidades: [\"Allegiant United Holdings\", \"BCE\", \"Banco de Inglaterra\", \"Comisión Europea\", \"Congreso de Paraguay\", \"Cult.fit\", \"Department of Conservation\", \"EIA\", \"Elon Musk\", \"FAO\", \"Google\", \"Meta\", \"Mohsen Rezaei\", \"Nano Banc\", \"Nano Financial Holdings\", \"OpenAI\", \"Rapidan Energy\", \"Reserva Federal\", \"Singapore Airlines\", \"SpaceX\", \"Tarom\", \"Tesla\", \"Ueno Bank\", \"Vladimir Putin\"]\ntemas: [\"amenazas de bomba\", \"armamento\", \"asistentes virtuales\", \"aviación\", \"banca\", \"centros de datos\", \"clima extremo\", \"combustibles\", \"comercio\", \"comercio minorista\", \"cooperación militar\", \"costos de envío\", \"crisis bancaria\", \"crisis institucional\", \"datos financieros\", \"defensa\", \"elecciones\", \"fauna marina\", \"floración\", \"geopolítica energética\", \"infraestructura\", \"inteligencia artificial\", \"inteligencia satelital\", \"inversión\", \"juicio político\", \"logística\", \"mercados\", \"mercados bursátiles\", \"misiles\", \"petróleo\", \"polinizadores\", \"política monetaria\", \"precios de alimentos\", \"precios del petróleo\", \"productividad\", \"química\", \"refinación\", \"regulación bancaria\", \"renuncia presidencial\", \"salvaguardias\", \"sector tecnológico\", \"seguridad\", \"seguridad alimentaria\", \"supervisión financiera\", \"tasas de interés\", \"temperatura\", \"tornado\", \"transporte aéreo\", \"varamiento\", \"video generativo\", \"volatilidad\"]\nbucles_activos: [\"Armamentización de la Cadena de Suministro\"]\ncorte: \"2026-11-06T12:33:06.921691+00:00\"\ninicio_ventana: \"2026-11-05T12:33:06.921691+00:00\"\nestado: \"completo\"\n```\n",
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-07\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Asunción\", \"Belém\", \"Chapelhall\", \"Estrecho de Ormuz\", \"Gaza\", \"Glasgow\", \"Isla Qeshm\", \"Jerusalén\", \"Lanarkshire\", \"Londres\", \"Nueva York\", \"Nuevo México\", \"Wall Street\", \"Washington\"]\npaises: [\"Afganistán\", \"Alemania\", \"Brasil\", \"Catar\", \"España\", \"Estados Unidos\", \"Francia\", \"Irlanda\", \"Irán\", \"Israel\", \"Palestina\", \"Paraguay\", \"Reino Unido\", \"Rusia\", \"Sudán\", \"Venezuela\"]\nentidades: [\"ACNUR\", \"Acuerdo de París\", \"Anthropic\", \"Benjamin Netanyahu\", \"DataVita\", \"Defensa Civil de Gaza\", \"Donald Trump\", \"EIA\", \"FAO\", \"Microsoft\", \"Nasdaq\", \"National Grid\", \"ONU\", \"OpenAI\", \"Pedro Alliana\", \"Santiago Peña\", \"Senado de Paraguay\", \"Stephen Miller\", \"Susie Wiles\", \"Talibán\", \"Ueno Bank\", \"Vladimir Putin\", \"YouGov\"]\ntemas: [\"El Niño\", \"Irán\", \"alianzas\", \"aviación\", \"cambio climático\", \"centros de datos\", \"coalición política\", \"comercio energético\", \"conflicto militar\", \"corrupción\", \"crisis bancaria\", \"crisis humanitaria\", \"derechos humanos\", \"desnutrición infantil\", \"desplazamiento forzado\", \"destitución presidencial\", \"elecciones\", \"emisiones\", \"energía renovable\", \"estrecho de Ormuz\", \"eventos extremos\", \"gabinete presidencial\", \"guerra\", \"infraestructura de IA\", \"inteligencia artificial\", \"inversión\", \"mediación diplomática\", \"mercados bursátiles\", \"midterms\", \"negociaciones climáticas\", \"no proliferación nuclear\", \"opinión pública\", \"petróleo\", \"política migratoria\", \"precios de alimentos\", \"refugiados\", \"regulación tecnológica\", \"sanciones\", \"seguridad alimentaria\", \"seguridad aérea\", \"valoración de mercado\"]\nbucles_activos: [\"Impacto Societal y Financiero\"]\ncorte: \"2026-11-07T11:22:55.259822+00:00\"\ninicio_ventana: \"2026-11-06T11:22:55.259822+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-07\n\n## Resumen del día\n\nParaguay vivió una ruptura institucional con la destitución y detención del presidente Peña tras el colapso de Ueno Bank, mientras EE.UU. reconfigura su gabinete tras la derrota republicana en midterms.\nLos mercados globales sufrieron una fuerte caída (Nasdaq -5,5%, contagio a Londres y Asia) ante temores de mayor regulación de IA y centros de datos tras el triunfo demócrata.\nPese a la corrección bursátil, OpenAI reafirmó su apuesta por seguir invirtiendo en centros de datos, mientras Microsoft ajusta su red de proveedores 'neocloud' ante señales de tensión en la expansión de infraestructura de IA.\nEn el plano humanitario, la ONU documentó que casi 90 millones de refugiados enfrentan alta exposición a riesgos climáticos, y Sudán y Gaza registraron nuevos episodios de crisis agravados por clima y conflicto.\nEn geopolítica, continúan los ataques limitados de EE.UU. contra Irán y la mediación catarí para inspecciones nucleares, sin que estos hechos se conecten documentalmente con movimientos en cadenas de suministro o ciberseguridad.\n\nVentana de 24 horas hasta 2026-11-07T11:22:55.259822+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, imf, iom, unhcr, esa, usda, bis, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_0e24dc848e\"></a>\n1. Diez años después del Acuerdo de París, meta de temperatura incumplida pese a negociaciones continuas — Expertos señalan que la meta clave de temperatura del Acuerdo de París no se ha cumplido, aunque el pacto sigue sirviendo como referencia moral para el progreso climático, según análisis de The Guardian sobre las negociaciones post-Belém. — [The Guardian, Sat, 07 Nov 2026 05:00:02 GMT](https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere) · medio.\n\n<a id=\"ev_86681d50ef\"></a>\n2. Encuesta YouGov: europeos quieren acción climática pero con límites en sacrificios — Una encuesta de YouGov en seis países europeos mostró que entre 69% (Alemania) y 80% (Francia) creen que el clima cambia por actividad humana, pero hay resistencia a medidas como impuestos a viajes aéreos y combustibles. — [The Guardian · Medio ambiente, Fri, 06 Nov 2026 12:27:54 GMT](https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll) · medio.\n\n<a id=\"ev_dc29b8b15e\"></a>\n3. Formación rocosa de Nuevo México destruida tras lluvias torrenciales de El Niño — Autoridades investigarán si las tormentas del 'super El Niño' en el suroeste de EE.UU. dañaron las formaciones rocosas 'Alien Throne', encontradas destruidas tras lluvias torrenciales, según The Guardian. — [The Guardian · Medio ambiente, Fri, 06 Nov 2026 19:23:03 GMT](https://www.theguardian.com/environment/2026/nov/06/new-mexico-alien-throne-collapse-el-nino-rain) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_98ee81b7fe\"></a>\n1. OpenAI mantendrá inversión en centros de datos de IA pese a resultados electorales — El director financiero de OpenAI afirmó que la empresa continuará invirtiendo en centros de datos de IA pese a que votantes respaldaron a candidatos que proponen restringir su desarrollo tras las elecciones del martes. — [CNBC, Fri, 06 Nov 2026 22:25:58 GMT](https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html) · medio.\n\n<a id=\"ev_b56c5e655c\"></a>\n2. Microsoft reduce número de 'neoclouds' en medio de señales de estrés en expansión de IA — Microsoft está reduciendo el número de proveedores de nube 'neocloud' que considera socios, concentrándose en proveedores clave y en sus propios centros de datos, en medio de señales de tensión en la expansión de infraestructura de IA. — [CNBC, Fri, 06 Nov 2026 18:40:58 GMT](https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html) · medio.\n\n<a id=\"ev_ab4356aab5\"></a>\n3. Centro de datos de IA en Lanarkshire dependerá de red nacional pese a promesa renovable — DataVita admitió que su proyecto de centro de datos de IA cerca de Glasgow, que prometía 1GW de energía renovable, será abastecido enteramente por la red nacional eléctrica, contradiciendo su promesa original. — [The Guardian, Sat, 07 Nov 2026 10:00:08 GMT](https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy) · medio.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_41becbcf05\"></a>\n1. Importaciones de crudo venezolano a EE.UU. alcanzan máximo desde 2017 en julio — En julio de 2026, las importaciones de crudo venezolano a EE.UU. promediaron 701.000 barriles diarios, el nivel más alto desde mayo de 2017, antes de bajar a 655.000 b/d en agosto, según datos de la EIA. — [EIA, Fri, 6 Nov 2026  09:00:00 EST](https://www.eia.gov/todayinenergy/detail.php?id=68425) · oficial.\n\n<a id=\"ev_fca2a6c82b\"></a>\n2. Índice FAO de precios de alimentos baja en octubre por demanda moderada — La FAO informó que su Índice de Precios de los Alimentos descendió en octubre de 2026, atribuyendo la caída a una demanda global moderada. — [FAO, Fri, 06 Nov 2026 12:00:00 Z](https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand/en) · oficial.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_87f5642397\"></a>\n1. Petroleros rusos cambian de rumbo y no llegan a EE.UU. pese a acuerdo diésel Trump-Putin — Los primeros petroleros que debían entregar diésel ruso a Estados Unidos bajo un acuerdo entre Trump y Putin cambiaron de rumbo, lo que supone probablemente el fin del pacto anunciado antes de las elecciones de medio mandato. — [France 24, Sat, 07 Nov 2026 00:00:11 GMT](https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20261107-el-fallido-acuerdo-de-trump-sobre-el-di%C3%A9sel-por-qu%C3%A9-los-petroleros-rusos-no-se-dirigen-a-ee-uu) · medio.\n\n<a id=\"ev_40b0231bc0\"></a>\n2. Oleada de amenazas de bomba desafía a aerolíneas europeas — Tras una semana de disrupciones por amenazas de bomba contra decenas de vuelos europeos, las aerolíneas enfrentan preocupaciones tanto de seguridad como financieras, según BBC. — [BBC News, Fri, 06 Nov 2026 16:18:44 GMT](https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_37d08e3da5\"></a>\n3. Oleada de amenazas de bomba desafía a autoridades aéreas europeas — Analistas señalan que el punto más débil de la aviación es atacarla en pleno vuelo, lo que complica la respuesta de las autoridades europeas ante la ola de amenazas de bomba, según CNBC. — [CNBC, Sat, 07 Nov 2026 09:01:57 GMT](https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html) · medio.\n\n## 5. Geopolítica\n\n<a id=\"ev_ccbb919349\"></a>\n1. Presidente de Paraguay destituido y detenido tras colapso bancario de Ueno Bank — El Senado paraguayo destituyó por unanimidad a Santiago Peña, quien fue detenido horas después, en medio de una crisis bancaria que dejó a millones sin acceso a sus fondos. Pedro Alliana asumió la presidencia. — [BBC News, Sat, 07 Nov 2026 07:20:00 GMT](https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_7771dd364f\"></a>\n2. Trump nombra a Stephen Miller jefe de gabinete de la Casa Blanca tras derrota en midterms — Donald Trump anunció que Stephen Miller, arquitecto de su política migratoria, reemplazará a Susie Wiles como jefe de gabinete, días después de que los republicanos perdieran el control del Congreso en las elecciones de medio mandato. — [The Guardian, Sat, 07 Nov 2026 01:38:06 GMT](https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump) · medio.\n\n<a id=\"ev_adc8812bef\"></a>\n3. EE.UU. confirma nuevos ataques 'menores' contra Irán en isla Qeshm — Trump dijo que el ejército estadounidense realizó un nuevo ataque limitado contra un sistema de defensa aéreo en Irán, en la isla Qeshm cerca del estrecho de Ormuz, calificándolo de 'menor', mientras continúan esfuerzos diplomáticos para terminar el conflicto. — [The Guardian, Sat, 07 Nov 2026 03:07:01 GMT](https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says) · medio.\n\n<a id=\"ev_0e38f46139\"></a>\n4. Catar media para permitir inspecciones nucleares de la ONU en sitios bombardeados de Irán — Catar busca persuadir a Teherán de permitir inspectores nucleares de la ONU visitar los sitios nucleares bombardeados de Irán, incluyendo el almacén de uranio altamente enriquecido, sin exigir su remoción del país. — [The Guardian, Sat, 07 Nov 2026 07:00:04 GMT](https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections) · medio.\n\n<a id=\"ev_d2e472889f\"></a>\n5. Victoria demócrata en EE.UU. podría facilitar coalición opositora para desplazar a Netanyahu — La victoria demócrata en el Congreso estadounidense podría facilitar que la oposición israelí, dividida, forme una coalición para desplazar a Benjamin Netanyahu, estrechamente aliado con los republicanos de Trump. — [The Guardian, Sat, 07 Nov 2026 06:00:04 GMT](https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_fba0770481\"></a>\n1. Victoria demócrata en midterms provoca caída de más de 5,5% en Nasdaq — La victoria demócrata en las elecciones de medio mandato provocó una ola de ventas tecnológicas que llevó al Nasdaq a caer más de 5,5%, su peor jornada desde abril de 2025, en medio de dudas sobre futuras regulaciones a centros de datos e IA. — [France 24, Sat, 07 Nov 2026 00:21:59 GMT](https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261107-regulaci%C3%B3n-o-burbuja-qu%C3%A9-hay-detr%C3%A1s-de-la-ca%C3%ADda-de-las-tecnol%C3%B3gicas-luego-de-las-midterms-en-ee-uu) · medio.\n\n<a id=\"ev_c7287e5ce8\"></a>\n2. Mercados globales caen por temores de desaceleración de IA tras triunfo demócrata — Mercados asiáticos y europeos siguieron la caída de las tecnológicas estadounidenses tras la victoria demócrata en las midterms, con Londres cerca de su peor jornada desde marzo, por temor a mayor escrutinio sobre centros de datos e IA. — [The Guardian, Fri, 06 Nov 2026 21:23:54 GMT](https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph) · medio.\n\n<a id=\"ev_4644cfb1d2\"></a>\n3. Acciones de IA se recuperan tras pérdida de billones en valor de mercado — Inversores habían vendido acciones tecnológicas por temor a que la victoria demócrata significara un desarrollo más lento de la IA, aunque las acciones del sector mostraron signos de recuperación posteriormente. — [BBC News, Fri, 06 Nov 2026 21:06:25 GMT](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_a06568b101\"></a>\n4. Inversores anticipan valoración menor de Anthropic ante enfriamiento del mercado de IA — Inversores prevén que Anthropic podría salir a bolsa por debajo de una valoración de 1,5 billones de dólares, inferior a expectativas previas, mientras el mercado de IA pierde fuerza en Wall Street. — [CNBC, Fri, 06 Nov 2026 21:07:07 GMT](https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html) · medio.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_bb678a087d\"></a>\n1. Guerra y cambio climático agravan desnutrición infantil en Sudán — La guerra, la pobreza y el cambio climático están afectando a la población sudanesa, con un aumento de casos de desnutrición infantil según reporta Al Jazeera. — [Al Jazeera, Sat, 07 Nov 2026 10:36:32 +0000](https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss) · medio.\n\n<a id=\"ev_5a768a388c\"></a>\n2. Equipos de ayuda alertan sobre sufrimiento masivo en Sudán por guerra continua — Equipos de ayuda humanitaria pidieron más asistencia internacional para millones de desplazados por la guerra en Sudán, ante escasez de fondos, almacenes vacíos y necesidades desbordantes, según la ONU. — [ONU (inglés), Fri, 06 Nov 2026 12:00:00 +0000](https://news.un.org/feed/view/en/story/2026/11/1168753) · oficial.\n\n<a id=\"ev_4898ba53bb\"></a>\n3. ONU: tres de cada cuatro refugiados enfrentan alta exposición a riesgos climáticos — La ONU reportó que casi 90 millones de refugiados, tres de cada cuatro, viven en países con exposición alta a severa a riesgos como sequías, inundaciones y calor extremo, calificando la crisis climática como emergencia inmediata para refugiados. — [ONU (inglés), Fri, 06 Nov 2026 12:00:00 +0000](https://news.un.org/feed/view/en/story/2026/11/1168752) · oficial.\n\n<a id=\"ev_8ba7881406\"></a>\n4. Afganistán enfrenta crisis humanitaria profunda bajo restricciones de derechos — Un alto funcionario de la ONU indicó que Afganistán atraviesa una 'encrucijada difícil' más de cinco años después del retorno talibán, con economía frágil, restricciones de derechos y necesidades humanitarias agudas. — [ONU (inglés), Fri, 06 Nov 2026 12:00:00 +0000](https://news.un.org/feed/view/en/story/2026/11/1168758) · oficial.\n\n<a id=\"ev_ad45d1273b\"></a>\n5. Lluvias inundan miles de tiendas de desplazados en Gaza — La Defensa Civil de Gaza recibió 1.500 llamadas de emergencia en 10 horas tras una tormenta que afectó campamentos de desplazados, según Al Jazeera. — [Al Jazeera, Sat, 07 Nov 2026 11:10:02 +0000](https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Sin movimiento verificado hoy\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Con movimiento — La destitución del presidente paraguayo Peña tras el colapso bancario de Ueno Bank (geopolítica) coincide con el desplome de mercados globales por temores regulatorios a la IA (finanzas), mostrando cómo la inestabilidad política y financiera se entrelazan en el mismo ciclo de 24 horas, aunque documentado en países distintos. [ev_ccbb919349](#ev_ccbb919349) [ev_fba0770481](#ev_fba0770481)\n\n## Señales a vigilar\n\n- Posible fin definitivo del acuerdo de diésel Trump-Putin si los petroleros rusos continúan desviándose de EE.UU., según France 24. [ev_87f5642397](#ev_87f5642397)\n- Posible recomposición de la coalición opositora israelí para desplazar a Netanyahu tras la victoria demócrata en EE.UU., según The Guardian. [ev_d2e472889f](#ev_d2e472889f)\n- Posible salida a bolsa de Anthropic por debajo de 1,5 billones de dólares si el enfriamiento del mercado de IA persiste, según CNBC. [ev_a06568b101](#ev_a06568b101)\n- Posible avance en inspecciones nucleares de la ONU en sitios bombardeados de Irán si la mediación catarí prospera, según The Guardian. [ev_0e38f46139](#ev_0e38f46139)\n- Posible agravamiento de la crisis humanitaria en Sudán si no se moviliza financiamiento internacional adicional, según ONU. [ev_5a768a388c](#ev_5a768a388c)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 2 | 2026-11-06T11:59:56+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-11-06T08:00:00+00:00 |\n| NASA | oficial | Disponible | 3 | 2026-11-07T05:05:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 1 | 2026-11-06T14:00:00+00:00 |\n| FAO | oficial | Disponible | 1 | 2026-11-06T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-06T00:00:00+00:00 |\n| ONU | oficial | Disponible | 3 | 2026-11-06T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 0 | 2026-11-05T16:00:00+00:00 |\n| BCE | oficial | Disponible | 0 | 2026-11-06T09:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 5 | 2026-11-06T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 0 | 2026-11-05T20:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 1 | 2026-11-06T18:00:58+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-10-09T15:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-08T17:26:00+00:00 |\n| NASA · Comunicados | oficial | Disponible | 3 | 2026-11-07T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-11-05T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | No disponible | 0 | Sin fecha verificable |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-11-05T12:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-06T16:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-05T15:27:25+00:00 |\n| BBC News | medio | Disponible | 20 | 2026-11-07T07:20:00+00:00 |\n| BBC Mundo | medio | Disponible | 15 | 2026-11-07T10:59:54+00:00 |\n| CNN | medio | Disponible | 91 | 2026-11-07T11:00:16.768000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 23 | 2026-11-07T03:07:40+00:00 |\n| The Guardian | medio | Disponible | 30 | 2026-11-07T11:09:32+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-07T11:10:02+00:00 |\n| El País | medio | Disponible | 12 | 2026-11-07T09:56:40+00:00 |\n| CNBC | medio | Disponible | 29 | 2026-11-07T09:01:57+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-06T21:45:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 6 | 2026-11-07T08:30:05+00:00 |\n| BBC · Tecnología | medio | Disponible | 4 | 2026-11-06T21:49:50+00:00 |\n| BBC · Economía | medio | Disponible | 10 | 2026-11-07T01:41:36+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-07\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Asunción\", \"Belém\", \"Chapelhall\", \"Estrecho de Ormuz\", \"Gaza\", \"Glasgow\", \"Isla Qeshm\", \"Jerusalén\", \"Lanarkshire\", \"Londres\", \"Nueva York\", \"Nuevo México\", \"Wall Street\", \"Washington\"]\npaises: [\"Afganistán\", \"Alemania\", \"Brasil\", \"Catar\", \"España\", \"Estados Unidos\", \"Francia\", \"Irlanda\", \"Irán\", \"Israel\", \"Palestina\", \"Paraguay\", \"Reino Unido\", \"Rusia\", \"Sudán\", \"Venezuela\"]\nentidades: [\"ACNUR\", \"Acuerdo de París\", \"Anthropic\", \"Benjamin Netanyahu\", \"DataVita\", \"Defensa Civil de Gaza\", \"Donald Trump\", \"EIA\", \"FAO\", \"Microsoft\", \"Nasdaq\", \"National Grid\", \"ONU\", \"OpenAI\", \"Pedro Alliana\", \"Santiago Peña\", \"Senado de Paraguay\", \"Stephen Miller\", \"Susie Wiles\", \"Talibán\", \"Ueno Bank\", \"Vladimir Putin\", \"YouGov\"]\ntemas: [\"El Niño\", \"Irán\", \"alianzas\", \"aviación\", \"cambio climático\", \"centros de datos\", \"coalición política\", \"comercio energético\", \"conflicto militar\", \"corrupción\", \"crisis bancaria\", \"crisis humanitaria\", \"derechos humanos\", \"desnutrición infantil\", \"desplazamiento forzado\", \"destitución presidencial\", \"elecciones\", \"emisiones\", \"energía renovable\", \"estrecho de Ormuz\", \"eventos extremos\", \"gabinete presidencial\", \"guerra\", \"infraestructura de IA\", \"inteligencia artificial\", \"inversión\", \"mediación diplomática\", \"mercados bursátiles\", \"midterms\", \"negociaciones climáticas\", \"no proliferación nuclear\", \"opinión pública\", \"petróleo\", \"política migratoria\", \"precios de alimentos\", \"refugiados\", \"regulación tecnológica\", \"sanciones\", \"seguridad alimentaria\", \"seguridad aérea\", \"valoración de mercado\"]\nbucles_activos: [\"Impacto Societal y Financiero\"]\ncorte: \"2026-11-07T11:22:55.259822+00:00\"\ninicio_ventana: \"2026-11-06T11:22:55.259822+00:00\"\nestado: \"completo\"\n```\n",
   "nexo": {
     "resumen": [
-      "El día combina volatilidad financiera tras las elecciones de EE.UU., crisis institucional en Paraguay por el colapso de Ueno Bank, y riesgo geopolítico en Irán con posible impacto petrolero.",
-      "En tecnología, Google y Meta anuncian avances de IA e infraestructura, mientras en recursos la FAO reporta caída de precios de alimentos y la EIA documenta un giro en la refinación de EE.UU. hacia destilados.",
-      "En cadenas de suministro, la UE abre investigación de salvaguardia sobre PET y Europa enfrenta una ola de amenazas de bomba que desvió decenas de vuelos.",
-      "El clima mostró eventos puntuales (varamiento de ballenas, calor anómalo en Reino Unido y EE.UU.) sin vínculo documentado con otras dimensiones en los hechos del día.",
-      "No se registró evidencia que conecte demografía con otras dimensiones, por lo que el bucle Impacto Societal y Financiero no puede confirmarse con los hechos disponibles."
+      "Paraguay vivió una ruptura institucional con la destitución y detención del presidente Peña tras el colapso de Ueno Bank, mientras EE.UU. reconfigura su gabinete tras la derrota republicana en midterms.",
+      "Los mercados globales sufrieron una fuerte caída (Nasdaq -5,5%, contagio a Londres y Asia) ante temores de mayor regulación de IA y centros de datos tras el triunfo demócrata.",
+      "Pese a la corrección bursátil, OpenAI reafirmó su apuesta por seguir invirtiendo en centros de datos, mientras Microsoft ajusta su red de proveedores 'neocloud' ante señales de tensión en la expansión de infraestructura de IA.",
+      "En el plano humanitario, la ONU documentó que casi 90 millones de refugiados enfrentan alta exposición a riesgos climáticos, y Sudán y Gaza registraron nuevos episodios de crisis agravados por clima y conflicto.",
+      "En geopolítica, continúan los ataques limitados de EE.UU. contra Irán y la mediación catarí para inspecciones nucleares, sin que estos hechos se conecten documentalmente con movimientos en cadenas de suministro o ciberseguridad."
     ],
     "flujos": {
       "Presión Climática": {
@@ -999,28 +1095,19 @@
         "hechos": []
       },
       "Palanca Geopolítica": {
-        "estado": "Con movimiento",
-        "texto": "La posibilidad de que la tensión EE.UU.-Irán reavive el precio del petróleo por encima de 100 dólares (geopolítica-recursos) se vincula con el contexto de alza en costos de envío que ya afecta a minoristas de EE.UU. por precios de combustible elevados (cadenas).",
-        "hechos": [
-          "ev_de3e30e2b4",
-          "ev_ae4d820471"
-        ]
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
       },
       "Flujos de Recursos": {
-        "estado": "Con movimiento",
-        "texto": "El giro de las refinerías de EE.UU. hacia destilados medios (recursos) coincide con el alza de costos de envío que presiona a minoristas por precios de combustible (cadenas).",
-        "hechos": [
-          "ev_c4238f204e",
-          "ev_ae4d820471"
-        ]
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
       },
       "Flujos Cibernéticos y de Datos": {
-        "estado": "Con movimiento",
-        "texto": "La ola de amenazas de bomba que desvió al menos 35 vuelos en Europa (cadenas) ocurre en paralelo a la tensión geopolítica regional documentada en los hechos de Irán y Rusia, aunque no hay confirmación oficial de un vínculo causal entre ambos tipos de incidentes; se registra como coincidencia temporal entre tecnología/seguridad de infraestructura de transporte (cadenas) y el contexto geopolítico del día (geopolítica).",
-        "hechos": [
-          "ev_dc330fd2a8",
-          "ev_aba9689fda"
-        ]
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
       }
     },
     "bucles": {
@@ -1030,50 +1117,48 @@
         "hechos": []
       },
       "Armamentización de la Cadena de Suministro": {
-        "estado": "Con movimiento",
-        "texto": "La investigación de salvaguardia de la Comisión Europea sobre importaciones de resina PET (cadenas) se produce en un contexto geopolítico de tensión por el acuerdo de lanzacohetes entre Rusia e Irán (geopolítica), ilustrando el uso de instrumentos comerciales y militares como palancas de poder, aunque los hechos no documentan una conexión directa entre ambos eventos.",
-        "hechos": [
-          "ev_7abf50e4ed",
-          "ev_233f1b157b"
-        ]
-      },
-      "Impacto Societal y Financiero": {
         "estado": "Sin movimiento verificado hoy",
         "texto": "",
         "hechos": []
+      },
+      "Impacto Societal y Financiero": {
+        "estado": "Con movimiento",
+        "texto": "La destitución del presidente paraguayo Peña tras el colapso bancario de Ueno Bank (geopolítica) coincide con el desplome de mercados globales por temores regulatorios a la IA (finanzas), mostrando cómo la inestabilidad política y financiera se entrelazan en el mismo ciclo de 24 horas, aunque documentado en países distintos.",
+        "hechos": [
+          "ev_ccbb919349",
+          "ev_fba0770481"
+        ]
       }
     },
     "senales": [
       {
-        "texto": "Posibilidad de que el crudo supere los 100 dólares por barril si se reaviva la tensión EE.UU.-Irán tras las elecciones de mitad de mandato, según analista citado.",
+        "texto": "Posible fin definitivo del acuerdo de diésel Trump-Putin si los petroleros rusos continúan desviándose de EE.UU., según France 24.",
         "hechos": [
-          "ev_de3e30e2b4"
+          "ev_87f5642397"
         ]
       },
       {
-        "texto": "Posibilidad de que el juicio político contra el presidente paraguayo Peña profundice la crisis institucional derivada del colapso de Ueno Bank.",
+        "texto": "Posible recomposición de la coalición opositora israelí para desplazar a Netanyahu tras la victoria demócrata en EE.UU., según The Guardian.",
         "hechos": [
-          "ev_31cae29960",
-          "ev_3bd4594b89"
+          "ev_d2e472889f"
         ]
       },
       {
-        "texto": "Posibilidad de que la construcción detectada cerca de bases de misiles iraníes escale la tensión militar en la región.",
+        "texto": "Posible salida a bolsa de Anthropic por debajo de 1,5 billones de dólares si el enfriamiento del mercado de IA persiste, según CNBC.",
         "hechos": [
-          "ev_aba9689fda"
+          "ev_a06568b101"
         ]
       },
       {
-        "texto": "Posibilidad de que la investigación de salvaguardia de la UE sobre PET derive en medidas comerciales que afecten las cadenas de suministro químicas.",
+        "texto": "Posible avance en inspecciones nucleares de la ONU en sitios bombardeados de Irán si la mediación catarí prospera, según The Guardian.",
         "hechos": [
-          "ev_7abf50e4ed"
+          "ev_0e38f46139"
         ]
       },
       {
-        "texto": "Posibilidad de que la volatilidad bursátil tras las elecciones de EE.UU. y los temores regulatorios a la IA se extiendan a otros mercados globales.",
+        "texto": "Posible agravamiento de la crisis humanitaria en Sudán si no se moviliza financiamiento internacional adicional, según ONU.",
         "hechos": [
-          "ev_fa2f8c0fd4",
-          "ev_60267edbd5"
+          "ev_5a768a388c"
         ]
       }
     ],
@@ -1091,12 +1176,12 @@
     },
     "openai": {
       "ok": true,
-      "piezas": 1366,
+      "piezas": 1368,
       "fuente": "OpenAI",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-05T20:00:00+00:00",
-      "recientes": 2
+      "ultima_publicacion": "2026-11-06T08:00:00+00:00",
+      "recientes": 0
     },
     "nasa": {
       "ok": true,
@@ -1104,8 +1189,8 @@
       "fuente": "NASA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-06T05:05:00+00:00",
-      "recientes": 5
+      "ultima_publicacion": "2026-11-07T05:05:00+00:00",
+      "recientes": 3
     },
     "cisa": {
       "ok": false,
@@ -1118,16 +1203,16 @@
     },
     "eia": {
       "ok": true,
-      "piezas": 24,
+      "piezas": 25,
       "fuente": "EIA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-05T14:00:00+00:00",
+      "ultima_publicacion": "2026-11-06T14:00:00+00:00",
       "recientes": 1
     },
     "fao": {
       "ok": true,
-      "piezas": 21,
+      "piezas": 20,
       "fuente": "FAO",
       "tipo": "oficial",
       "error": "",
@@ -1140,17 +1225,17 @@
       "fuente": "OMC",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-05T00:00:00+00:00",
+      "ultima_publicacion": "2026-11-06T00:00:00+00:00",
       "recientes": 0
     },
     "un": {
-      "ok": false,
-      "piezas": 0,
+      "ok": true,
+      "piezas": 30,
       "fuente": "ONU",
       "tipo": "oficial",
-      "error": "not well-formed (invalid token): line 1, column 0",
-      "ultima_publicacion": null,
-      "recientes": 0
+      "error": "",
+      "ultima_publicacion": "2026-11-06T12:00:00+00:00",
+      "recientes": 3
     },
     "fed": {
       "ok": true,
@@ -1159,7 +1244,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-05T16:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "ecb": {
       "ok": true,
@@ -1168,7 +1253,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-06T09:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "imf": {
       "ok": false,
@@ -1203,8 +1288,8 @@
       "fuente": "ONU (inglés)",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-05T12:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-06T12:00:00+00:00",
+      "recientes": 5
     },
     "consilium": {
       "ok": true,
@@ -1222,7 +1307,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-05T20:00:00+00:00",
-      "recientes": 5
+      "recientes": 0
     },
     "microsoft": {
       "ok": true,
@@ -1239,8 +1324,8 @@
       "fuente": "Meta",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-05T18:30:58+00:00",
-      "recientes": 2
+      "ultima_publicacion": "2026-11-06T18:00:58+00:00",
+      "recientes": 1
     },
     "apple": {
       "ok": true,
@@ -1284,7 +1369,7 @@
       "fuente": "NOAA · Centro Nacional de Huracanes",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-07T23:37:22+00:00",
+      "ultima_publicacion": "2026-11-08T17:26:00+00:00",
       "recientes": 1
     },
     "nasa-releases": {
@@ -1293,8 +1378,8 @@
       "fuente": "NASA · Comunicados",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-06T05:05:00+00:00",
-      "recientes": 5
+      "ultima_publicacion": "2026-11-07T05:05:00+00:00",
+      "recientes": 3
     },
     "usda": {
       "ok": false,
@@ -1312,7 +1397,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-05T23:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "bis": {
       "ok": false,
@@ -1334,11 +1419,11 @@
     },
     "boj": {
       "ok": true,
-      "piezas": 47,
+      "piezas": 48,
       "fuente": "Banco de Japón",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-06T07:00:00+00:00",
+      "ultima_publicacion": "2026-11-06T16:00:00+00:00",
       "recientes": 0
     },
     "census": {
@@ -1347,35 +1432,35 @@
       "fuente": "Oficina del Censo de EE. UU.",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-30T01:08:48+00:00",
+      "ultima_publicacion": "2026-11-05T15:27:25+00:00",
       "recientes": 0
     },
     "bbc-world": {
       "ok": true,
-      "piezas": 26,
+      "piezas": 22,
       "fuente": "BBC News",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-06T12:27:33+00:00",
-      "recientes": 24
+      "ultima_publicacion": "2026-11-07T07:20:00+00:00",
+      "recientes": 20
     },
     "bbc-mundo": {
       "ok": true,
-      "piezas": 34,
+      "piezas": 33,
       "fuente": "BBC Mundo",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-06T11:32:45+00:00",
-      "recientes": 8
+      "ultima_publicacion": "2026-11-07T10:59:54+00:00",
+      "recientes": 15
     },
     "cnn": {
       "ok": true,
-      "piezas": 229,
+      "piezas": 239,
       "fuente": "CNN",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-06T12:31:21.001000+00:00",
-      "recientes": 107
+      "ultima_publicacion": "2026-11-07T11:00:16.768000+00:00",
+      "recientes": 91
     },
     "dw-es": {
       "ok": false,
@@ -1392,8 +1477,8 @@
       "fuente": "France 24",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-06T12:08:03+00:00",
-      "recientes": 24
+      "ultima_publicacion": "2026-11-07T03:07:40+00:00",
+      "recientes": 23
     },
     "guardian": {
       "ok": true,
@@ -1401,8 +1486,8 @@
       "fuente": "The Guardian",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-06T12:17:38+00:00",
-      "recientes": 28
+      "ultima_publicacion": "2026-11-07T11:09:32+00:00",
+      "recientes": 30
     },
     "aljazeera": {
       "ok": true,
@@ -1410,17 +1495,17 @@
       "fuente": "Al Jazeera",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-06T11:59:40+00:00",
+      "ultima_publicacion": "2026-11-07T11:10:02+00:00",
       "recientes": 25
     },
     "elpais": {
       "ok": true,
-      "piezas": 23,
+      "piezas": 24,
       "fuente": "El País",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-06T12:19:12+00:00",
-      "recientes": 15
+      "ultima_publicacion": "2026-11-07T09:56:40+00:00",
+      "recientes": 12
     },
     "cnbc": {
       "ok": true,
@@ -1428,8 +1513,8 @@
       "fuente": "CNBC",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-06T12:30:40+00:00",
-      "recientes": 30
+      "ultima_publicacion": "2026-11-07T09:01:57+00:00",
+      "recientes": 29
     },
     "reuters": {
       "ok": false,
@@ -1464,7 +1549,7 @@
       "fuente": "MarketWatch",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-06T12:31:00+00:00",
+      "ultima_publicacion": "2026-11-06T21:45:00+00:00",
       "recientes": 10
     },
     "guardian-environment": {
@@ -1473,8 +1558,8 @@
       "fuente": "The Guardian · Medio ambiente",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-06T12:00:42+00:00",
-      "recientes": 8
+      "ultima_publicacion": "2026-11-07T08:30:05+00:00",
+      "recientes": 6
     },
     "bbc-tech": {
       "ok": true,
@@ -1482,8 +1567,8 @@
       "fuente": "BBC · Tecnología",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-06T11:20:10+00:00",
-      "recientes": 3
+      "ultima_publicacion": "2026-11-06T21:49:50+00:00",
+      "recientes": 4
     },
     "bbc-business": {
       "ok": true,
@@ -1491,8 +1576,8 @@
       "fuente": "BBC · Economía",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-06T11:40:35+00:00",
-      "recientes": 16
+      "ultima_publicacion": "2026-11-07T01:41:36+00:00",
+      "recientes": 10
     }
   }
 }
