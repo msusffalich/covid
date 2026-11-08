@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-07
-nodos: 39
+actualizado: 2026-11-08
+nodos: 38
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-07. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-08. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-39 nodos registrados en el periodo. Lo mas reciente: Petroleros rusos cambian de rumbo y no llegan a EE.UU. pese a acuerdo diésel Trump-Putin.
+38 nodos registrados en el periodo. Lo mas reciente: Victoria demócrata en el Congreso de EE UU podría reforzar apoyo a Ucrania.
 
 ## Trend summary (EN)
-39 nodes recorded in the period. Most recent: Russian oil tankers divert, fail to reach US despite Trump-Putin diesel deal.
+38 nodes recorded in the period. Most recent: Democrats' congressional win could strengthen support for Ukraine.
 
 > [!note] Estado actual
-> Petroleros rusos cambian de rumbo y no llegan a EE.UU. pese a acuerdo diésel Trump-Putin
+> Victoria demócrata en el Congreso de EE UU podría reforzar apoyo a Ucrania
 
-## Nodos recientes (39 en la ventana)
+## Nodos recientes (38 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-08 | 55 | K1 | Victoria demócrata en el Congreso de EE UU podría reforzar apoyo |
+| 2026-11-08 | 48 | K0 | Canciller italiano denuncia filtración de datos personales por h |
 | 2026-11-07 | 58 | K1 | Petroleros rusos cambian de rumbo y no llegan a EE.UU. pese a ac |
 | 2026-11-06 | 45 | K2 | Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán |
 | 2026-11-05 | 55 | K1 | Rusia y Ucrania intercambian ataques con drones sobre infraestru |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-11-02 | 60 | K1 | Hackers envían falsa alerta de ataque nuclear a la app de emerge |
 | 2026-11-02 | 60 | K0 | Turquía propone a Ucrania acoger nueva ronda de negociaciones co |
 | 2026-11-02 | 57 | K1 | La ONU ordena desmantelar la misión Minurso en el Sáhara Occiden |
-| 2026-11-01 | 72 | K1 | EE.UU. aprueba venta de misiles Patriot a Ucrania y culmina evac |
-| 2026-11-01 | 60 | K0 | Concluye evacuación de civiles de Oleshky tras tregua humanitari |
 
 [[Global Brain — Inicio|← Inicio]]
