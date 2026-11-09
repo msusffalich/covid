@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-11-08
+actualizado: 2026-11-09
 nodos: 83
 origen: global-pulse
 ---
@@ -10,20 +10,23 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-08. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-09. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-83 nodos registrados en el periodo. Lo mas reciente: Salida a bolsa de Anthropic enfrenta rechazo público tras elecciones en EE UU.
+83 nodos registrados en el periodo. Lo mas reciente: Acciones de Nvidia caen 5% tras investigación sobre el CEO Jensen Huang por presunto espionaje chino.
 
 ## Trend summary (EN)
-83 nodes recorded in the period. Most recent: Anthropic IPO meets backlash after US midterms.
+83 nodes recorded in the period. Most recent: Nvidia shares fall 5% after investigation into CEO Jensen Huang over alleged Chinese espionage.
 
 > [!note] Estado actual
-> Salida a bolsa de Anthropic enfrenta rechazo público tras elecciones en EE UU
+> Acciones de Nvidia caen 5% tras investigación sobre el CEO Jensen Huang por presunto espionaje chino
 
 ## Nodos recientes (83 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-09 | 70 | K1 | Acciones de Nvidia caen 5% tras investigación sobre el CEO Jense |
+| 2026-11-09 | 55 | K0 | Ataques con drones incendian la segunda mayor refinería de petró |
+| 2026-11-09 | 50 | K1 | Inflación mayorista de China alcanza su nivel más alto en más de |
 | 2026-11-08 | 50 | K2 | Salida a bolsa de Anthropic enfrenta rechazo público tras elecci |
 | 2026-11-08 | 50 | K0 | Banco Central de Paraguay restituye fondos a 1,2 millones de cli |
 | 2026-11-08 | 44 | K0 | Berkshire Hathaway duplica recompra de acciones pese a caída de  |
@@ -33,8 +36,5 @@ origen: global-pulse
 | 2026-11-07 | 55 | K1 | Acciones de IA se recuperan tras pérdida de billones en valor de |
 | 2026-11-07 | 55 | K1 | Importaciones de crudo venezolano a EE.UU. alcanzan máximo desde |
 | 2026-11-07 | 50 | K0 | Inversores anticipan valoración menor de Anthropic ante enfriami |
-| 2026-11-06 | 55 | K1 | Wall Street sufre peor liquidación desde el shock arancelario de |
-| 2026-11-06 | 40 | K0 | Analista prevé que tensión EE.UU.-Irán podría llevar el petróleo |
-| 2026-11-06 | 35 | K0 | Refinerías de EE.UU. reducen producción de gasolina a favor de d |
 
 [[Global Brain — Inicio|← Inicio]]

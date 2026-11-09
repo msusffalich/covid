@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-11-08
-nodos: 39
+actualizado: 2026-11-09
+nodos: 41
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-08. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-09. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-39 nodos registrados en el periodo. Lo mas reciente: Ataque hutí daña oficinas de Saudi Aramco en Riad.
+41 nodos registrados en el periodo. Lo mas reciente: Primer ministro de Catar se reúne con Trump en medio de estancamiento en negociaciones con Irán.
 
 ## Trend summary (EN)
-39 nodes recorded in the period. Most recent: Houthi attack damages Saudi Aramco offices in Riyadh.
+41 nodes recorded in the period. Most recent: Qatar PM to meet Trump amid stalled US-Iran negotiations.
 
 > [!note] Estado actual
-> Ataque hutí daña oficinas de Saudi Aramco en Riad
+> Primer ministro de Catar se reúne con Trump en medio de estancamiento en negociaciones con Irán
 
-## Nodos recientes (39 en la ventana)
+## Nodos recientes (41 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-09 | 55 | K1 | Primer ministro de Catar se reúne con Trump en medio de estancam |
+| 2026-11-09 | 45 | K1 | Tormentas provocan inundaciones mortales en Irak e Irán mientras |
 | 2026-11-08 | 60 | K1 | Ataque hutí daña oficinas de Saudi Aramco en Riad |
 | 2026-11-08 | 58 | K1 | Hutíes afirman que un ataque saudí mató a al menos 33 personas e |
 | 2026-11-07 | 68 | K1 | EE.UU. confirma nuevos ataques 'menores' contra Irán en isla Qes |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-11-05 | 65 | K1 | Guardian: BoE sube tasas al 4% y advierte de nueva subida por gu |
 | 2026-11-05 | 60 | K1 | Vance critica con dureza la derrota republicana y culpa a la gue |
 | 2026-11-05 | 50 | K1 | EE. UU. sanciona a firmas indias y turcas por ayudar a Irán |
-| 2026-11-04 | 55 | K1 | Asedio hutí de un mes a Taiz genera crisis humanitaria en Yemen |
-| 2026-11-03 | 75 | K1 | EE.UU. ataca la isla iraní de Qeshm en vísperas de las eleccione |
 
 [[Global Brain — Inicio|← Inicio]]

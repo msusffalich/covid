@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-08
+actualizado: 2026-11-09
 nodos: 24
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-08. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-09. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-24 nodos registrados en el periodo. Lo mas reciente: Presidente de Israel encarga a Eisenkot formar nuevo gobierno.
+24 nodos registrados en el periodo. Lo mas reciente: Deslizamiento de tierra mata a cinco personas en campamento de desplazados en Gaza.
 
 ## Trend summary (EN)
-24 nodes recorded in the period. Most recent: Israel's president tasks Eisenkot with forming new government.
+24 nodes recorded in the period. Most recent: Mudslide kills five people at displaced persons camp in Gaza.
 
 > [!note] Estado actual
-> Presidente de Israel encarga a Eisenkot formar nuevo gobierno
+> Deslizamiento de tierra mata a cinco personas en campamento de desplazados en Gaza
 
 ## Nodos recientes (24 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-09 | 55 | K1 | Deslizamiento de tierra mata a cinco personas en campamento de d |
 | 2026-11-08 | 57 | K1 | Presidente de Israel encarga a Eisenkot formar nuevo gobierno |
 | 2026-11-08 | 52 | K1 | Inundaciones en Gaza dejan a decenas de miles sin refugio |
 | 2026-11-08 | 50 | K0 | Lluvias intensas inundan campamentos de desplazados en Gaza |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-10-31 | 70 | K1 | ONU advierte sobre 'pesadilla' de desplazamiento creciente en Ga |
 | 2026-10-30 | 68 | K1 | Israel enfrenta semanas de negociaciones de coalición tras elecc |
 | 2026-10-30 | 62 | K1 | Más de 25 sindicatos portuarios en 22 países convocan huelga glo |
-| 2026-10-29 | 65 | K1 | Bloque de Netanyahu lidera elecciones israelíes sin mayoría abso |
 
 [[Global Brain — Inicio|← Inicio]]
