@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-09
-nodos: 24
+actualizado: 2026-11-10
+nodos: 22
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-09. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-10. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-24 nodos registrados en el periodo. Lo mas reciente: Deslizamiento de tierra mata a cinco personas en campamento de desplazados en Gaza.
+22 nodos registrados en el periodo. Lo mas reciente: Deslizamiento de tierra mata a cinco personas en campamento de desplazados en Gaza.
 
 ## Trend summary (EN)
-24 nodes recorded in the period. Most recent: Mudslide kills five people at displaced persons camp in Gaza.
+22 nodes recorded in the period. Most recent: Mudslide kills five people at displaced persons camp in Gaza.
 
 > [!note] Estado actual
 > Deslizamiento de tierra mata a cinco personas en campamento de desplazados en Gaza
 
-## Nodos recientes (24 en la ventana)
+## Nodos recientes (22 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-09 | 55 | K1 | Deslizamiento de tierra mata a cinco personas en campamento de d |

@@ -1,199 +1,561 @@
 {
   "meta": {
     "schema": "2.0",
-    "fecha": "2026-11-09",
-    "generado": "2026-11-09T13:29:20.857290+00:00",
+    "fecha": "2026-11-10",
+    "generado": "2026-11-10T13:09:37.921709+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "nodos": 27,
-      "verificados": 27,
-      "piezas_ingeridas": 173,
+      "nodos": 23,
+      "verificados": 23,
+      "piezas_ingeridas": 203,
       "canales_consultados": 46,
-      "canales_disponibles": 34,
-      "documentos_recientes": 240
+      "canales_disponibles": 36,
+      "documentos_recientes": 337
     },
     "descargo": "",
-    "corte": "2026-11-09T13:26:34.808500+00:00",
-    "reporte_sha256": "de540d1addd5a9e273df80256ac5f4c4654ec0bc651e218f3936ec1653e83527",
+    "corte": "2026-11-10T13:05:17.112135+00:00",
+    "reporte_sha256": "f8eabea839fd33a89bc407bc0a6b8c58864f275f9db2bbd8a07c7a84ea8bb70d",
     "estado": "completo",
     "politica_fuentes": "mixta-v1",
-    "reporte_archivo": "2026-11-09 — Pulso.md"
+    "reporte_archivo": "2026-11-10 — Pulso.md"
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Google amplía su portafolio de TPU con los modelos 8tx y 8i Max",
-        "en": "Google expands TPU portfolio with new 8tx and 8i Max chips"
+        "es": "Anthropic fija rango de precio de IPO entre $70 y $78, cotizará el 19 de noviembre",
+        "en": "Anthropic sets IPO price range of $70 to $78, trading to start Nov. 19"
       },
       "sintesis": {
-        "es": "Google anunció dos nuevos sistemas de su octava generación de TPU, 8tx y 8i Max, diseñados para cargas de trabajo de IA agéntica, sumando cuatro sistemas TPU lanzados en un solo año según la empresa.",
-        "en": "Google announced two new eighth-generation TPU systems, 8tx and 8i Max, built for agentic AI workloads, marking four TPU systems launched within a single year, the company said."
+        "es": "Según fuentes citadas por CNBC, Anthropic fijó un rango de precio de $70 a $78 por acción para su OPI, que comenzaría a cotizar el 19 de noviembre, semanas después de la salida a bolsa de SpaceX.",
+        "en": "Per sources cited by CNBC, Anthropic set an IPO price range of $70 to $78 per share, with trading expected to start Nov. 19, months after SpaceX's record IPO."
       },
-      "categoria": "tecnologia",
+      "categoria": "finanzas",
       "actores": [
-        "Google"
+        "Anthropic",
+        "SpaceX"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 55,
+      "impacto": 78,
       "fuentes": [
-        "ev_cf59a00236"
-      ],
-      "imagenes": [
-        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TPU-8tx_and_8i-Max.max-600x600.format-webp.webp"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_cf59a00236",
-          "titulo": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-          "fuente": "Google",
-          "fecha": "Mon, 09 Nov 2026 13:00:00 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0000",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Meta expande la verificación de edad con IA para proteger a adolescentes en Instagram",
-        "en": "Meta expands AI age-estimation to protect teens on Instagram"
-      },
-      "sintesis": {
-        "es": "Meta anunció la expansión global de su tecnología de estimación de edad basada en IA para incorporar a millones más de adolescentes a las protecciones de Cuentas Teen en Instagram, según su sala de prensa oficial.",
-        "en": "Meta announced it is expanding its AI age-estimation technology globally to place millions more teens under Teen Account protections on Instagram, according to its official newsroom."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Meta",
-        "Instagram"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_2a13bf7dee"
-      ],
-      "imagenes": [
-        "https://about.fb.com/wp-content/uploads/2026/11/01_Teen-Account-Protections.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_2a13bf7dee",
-          "titulo": "Expanding Teen Account Protections to Teens Around the World",
-          "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
-          "fuente": "Meta",
-          "fecha": "Mon, 09 Nov 2026 12:00:45 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0001",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "NASA concluye segunda simulación de un año de misión a Marte",
-        "en": "NASA completes second yearlong simulated Mars mission"
-      },
-      "sintesis": {
-        "es": "Cuatro voluntarios de investigación salieron el 31 de octubre del hábitat Mars Dune Alpha tras 378 días de simulación, completando la segunda misión CHAPEA de la NASA en preparación para futuras misiones humanas a Marte.",
-        "en": "Four research volunteers exited NASA's Mars Dune Alpha habitat on Oct. 31 after 378 days, completing the agency's second yearlong Mars surface simulation, CHAPEA Mission 2, ahead of future crewed Mars missions."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "NASA"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 35,
-      "fuentes": [
-        "ev_f86dc24f4b"
+        "ev_57bd48f43c"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_f86dc24f4b",
-          "titulo": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
-          "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
-          "fuente": "NASA",
-          "fecha": "Mon, 09 Nov 2026 11:00:00 +0000",
+          "id": "ev_57bd48f43c",
+          "titulo": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+          "fuente": "CNBC",
+          "fecha": "Tue, 10 Nov 2026 12:57:27 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-09_0002",
-      "fecha": "2026-11-09",
+      "id": "nd_2026-11-10_0000",
+      "fecha": "2026-11-10",
       "kardashev": "K2",
       "relaciones": [
-        "nd_2026-11-09_0003"
+        "nd_2026-11-10_0001"
       ]
     },
     {
       "titulo": {
-        "es": "NASA reporta que el agujero de ozono de 2026 fue el séptimo más grande en 48 años",
-        "en": "NASA reports 2026 ozone hole was seventh largest in 48 years of monitoring"
+        "es": "Anthropic busca valoración superior a un billón de dólares en su OPI",
+        "en": "Anthropic sets stage for IPO valuing company above $1 trillion"
       },
       "sintesis": {
-        "es": "La NASA informó que el agujero de ozono antártico de 2026 alcanzó su máximo y se ubicó como el séptimo más extenso por área en 48 años de monitoreo, aunque no tan profundo como otros grandes agujeros registrados.",
-        "en": "NASA reported the 2026 Antarctic ozone hole reached its maximum and ranked seventh largest by area in 48 years of monitoring, though not as deep as other large holes on record."
+        "es": "MarketWatch reportó que Anthropic podría recaudar hasta $63.000 millones en una OPI prevista para la próxima semana, con una valoración que superaría el billón de dólares.",
+        "en": "MarketWatch reported Anthropic could raise up to $63 billion in an IPO expected next week, with a valuation exceeding $1 trillion."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Anthropic"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 75,
+      "fuentes": [
+        "ev_c31ce20412"
+      ],
+      "imagenes": [
+        "https://images.mktw.net/im-30894465"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c31ce20412",
+          "titulo": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
+          "url": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Tue, 10 Nov 2026 12:32:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-10_0001",
+      "fecha": "2026-11-10",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-10_0000"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Nvidia y Jensen Huang demandados por presunta relación con espía china",
+        "en": "Nvidia and Jensen Huang sued over affair with alleged Chinese spy"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó una demanda en California contra Nvidia y su CEO Jensen Huang por presuntamente engañar a accionistas en relación al escándalo de espionaje chino, mientras Trump dijo que el FBI investiga el caso.",
+        "en": "The Guardian reported a California lawsuit against Nvidia and CEO Jensen Huang over alleged shareholder misleading tied to the Chinese spying scandal, as Trump said the FBI is investigating."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Nvidia",
+        "Jensen Huang",
+        "FBI"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 72,
+      "fuentes": [
+        "ev_e9fd20497a"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/4bb2aea3a751225099085e5a566972be04e8a7e5/0_0_6941_5553/master/6941.jpg?width=140&quality=85&auto=format&fit=max&s=1a5f7b29468cfdbf6df3ed994cc501c3"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_e9fd20497a",
+          "titulo": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+          "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+          "fuente": "The Guardian",
+          "fecha": "Tue, 10 Nov 2026 12:45:54 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-10_0002",
+      "fecha": "2026-11-10",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-10_0003",
+        "nd_2026-11-10_0004"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Escándalo de espionaje de Huang complica relación de Nvidia con China",
+        "en": "Jensen Huang's affair with alleged spy complicates Nvidia's China problem"
+      },
+      "sintesis": {
+        "es": "CNBC reportó que las acusaciones contra Jensen Huang atrajeron nueva atención sobre su influencia potencial en la política estadounidense de ventas de chips a China.",
+        "en": "CNBC reported that allegations against Jensen Huang have drawn new attention to his potential influence over US policy on chip sales to China."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 68,
+      "fuentes": [
+        "ev_fb1e47a99d"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_fb1e47a99d",
+          "titulo": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
+          "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+          "fuente": "CNBC",
+          "fecha": "Tue, 10 Nov 2026 12:00:01 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-10_0003",
+      "fecha": "2026-11-10",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-10_0002",
+        "nd_2026-11-10_0004",
+        "nd_2026-11-10_0011",
+        "nd_2026-11-10_0014",
+        "nd_2026-11-10_0015"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Escándalo de espía en Nvidia aviva debate sobre exportación de chips a China",
+        "en": "Nvidia spy scandal fuels debate over chip exports to China"
+      },
+      "sintesis": {
+        "es": "Al Jazeera reportó que legisladores estadounidenses piden restricciones más estrictas a la venta de chips mientras continúa la investigación sobre la relación del CEO de Nvidia con una presunta espía china.",
+        "en": "Al Jazeera reported US lawmakers are calling for tighter chip export restrictions amid ongoing inquiry into Nvidia CEO's relationship with alleged spy."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Nvidia",
+        "Congreso de EE.UU."
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_933cf0f1cf"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_933cf0f1cf",
+          "titulo": "Nvidia spy scandal fuels debate over chip exports to China",
+          "url": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 10 Nov 2026 09:42:04 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-10_0004",
+      "fecha": "2026-11-10",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-10_0002",
+        "nd_2026-11-10_0003",
+        "nd_2026-11-10_0011",
+        "nd_2026-11-10_0014",
+        "nd_2026-11-10_0015"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Francia acusa a Irán de ciberataques contra refrigeradores de supermercados",
+        "en": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions"
+      },
+      "sintesis": {
+        "es": "CNBC reportó que Francia acusó al Cuerpo de Guardianes de la Revolución Islámica de Irán de una campaña cibernética sin precedentes contra sistemas de refrigeración de supermercados, con daños de millones de euros, y evalúa sanciones.",
+        "en": "CNBC reported France accused Iran's Revolutionary Guard cyber unit of an unprecedented campaign against supermarket refrigeration systems causing millions in damage, and is weighing sanctions."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Cuerpo de Guardianes de la Revolución Islámica",
+        "Unión Europea"
+      ],
+      "geo": {
+        "lat": 46.6,
+        "lon": 2.2,
+        "region": "Europa"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_34adfdf9df"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_34adfdf9df",
+          "titulo": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
+          "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
+          "fuente": "CNBC",
+          "fecha": "Tue, 10 Nov 2026 09:34:24 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-10_0005",
+      "fecha": "2026-11-10",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-10_0007"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "EE.UU. busca 'fin definitivo' a la guerra Rusia-Ucrania en conversaciones de Abu Dabi",
+        "en": "US officials seek 'final end' to Russia-Ukraine war as Abu Dhabi talks begin"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó que funcionarios estadounidenses iniciaron en Abu Dabi las primeras negociaciones trilaterales sustantivas entre Rusia y Ucrania desde febrero, incluyendo una propuesta de arquitectura de seguridad a largo plazo.",
+        "en": "The Guardian reported US officials began trilateral talks in Abu Dhabi, the first substantive Russia-Ukraine negotiations since February, including a US proposal for long-term security architecture."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Gobierno de Estados Unidos"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 85,
+      "fuentes": [
+        "ev_50cf8b0cbd"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/83dc5bf0e0260881e9cd595c706a20cd0b0a8604/761_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=c7b5181f4b6713c17b9829e20be81363"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_50cf8b0cbd",
+          "titulo": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+          "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
+          "fuente": "The Guardian",
+          "fecha": "Tue, 10 Nov 2026 12:48:32 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-10_0006",
+      "fecha": "2026-11-10",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-10_0007"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Arrancan en Abu Dabi negociaciones trilaterales Rusia-Ucrania-EE.UU. sin la UE",
+        "en": "Trilateral Russia-Ukraine-US talks begin in Abu Dhabi, EU excluded"
+      },
+      "sintesis": {
+        "es": "El País reportó que iniciaron en Abu Dabi las primeras negociaciones en nueve meses entre Rusia, Ucrania y EE.UU., con la UE excluida, mientras Moscú busca centrar la discusión en el repliegue de tropas de la OTAN.",
+        "en": "El País reported the first talks in nine months between Russia, Ukraine and the US began in Abu Dhabi, with the EU excluded, as Moscow seeks to focus discussion on NATO troop withdrawal."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "OTAN",
+        "Unión Europea"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 82,
+      "fuentes": [
+        "ev_d6f10f3f87"
+      ],
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/PYBVXXSWVJNRDL2RUHYO44HO7E.jpg?auth=c96b2cd7902645079ce545d862a567abd8494fb2c274da9a2a53d5458791c5cc"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d6f10f3f87",
+          "titulo": "Arrancan en Abu Dabi las negociaciones entre Rusia, Ucrania y EE UU, las primeras en nueve meses",
+          "url": "https://elpais.com/internacional/2026-11-10/arrancan-en-abu-dabi-las-negociaciones-entre-rusia-ucrania-y-ee-uu-las-primeras-en-nueve-meses.html",
+          "fuente": "El País",
+          "fecha": "Tue, 10 Nov 2026 11:58:20 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-10_0007",
+      "fecha": "2026-11-10",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-10_0005",
+        "nd_2026-11-10_0006"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "El CCG acuerda crear sede militar avanzada en Kuwait",
+        "en": "GCC agrees to set up advanced military command headquarters in Kuwait"
+      },
+      "sintesis": {
+        "es": "Al Jazeera reportó que los líderes del Consejo de Cooperación del Golfo acordaron establecer una sede militar de comando avanzada en Kuwait para fortalecer la coordinación de defensa regional.",
+        "en": "Al Jazeera reported Gulf Cooperation Council leaders agreed to establish an advanced military command headquarters in Kuwait to strengthen regional defense coordination."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Consejo de Cooperación del Golfo"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_448b1f50bc"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_448b1f50bc",
+          "titulo": "Why the GCC is setting up an advanced military command base in Kuwait",
+          "url": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Tue, 10 Nov 2026 12:09:54 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-10_0008",
+      "fecha": "2026-11-10",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "EE.UU. retira aviones de otra base británica por presuntas amenazas de Irán",
+        "en": "US moves aircraft from second UK base over threat from Iran"
+      },
+      "sintesis": {
+        "es": "El País, citando al Wall Street Journal, reportó que EE.UU. desplazó aeronaves cisterna desde una base en Reino Unido hacia Alemania y otras localizaciones por presuntas amenazas iraníes.",
+        "en": "El País, citing the Wall Street Journal, reported the US moved refueling aircraft from a UK base to Germany and other locations over alleged Iranian threats."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Fuerzas Armadas de Estados Unidos"
+      ],
+      "geo": {
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
+      },
+      "impacto": 63,
+      "fuentes": [
+        "ev_fbf1764d02"
+      ],
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/7U6B4TRT5FM23OOUW7TRZILBGE.jpg?auth=07d6ae4ba6f2890e7d364b55596c4cb27c0854b30bd0331bb98aaf15159f4792"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_fbf1764d02",
+          "titulo": "Estados Unidos retira sus aviones de otra base del Reino Unido por presuntas amenazas de Irán",
+          "url": "https://elpais.com/internacional/2026-11-10/estados-unidos-retira-sus-aviones-de-otra-base-del-reino-unido-por-presuntas-amenazas-de-iran.html",
+          "fuente": "El País",
+          "fecha": "Tue, 10 Nov 2026 11:33:48 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-10_0009",
+      "fecha": "2026-11-10",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-10_0020"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Emisiones de carbono por combustibles fósiles se estabilizan en 2026 según científicos previo a la Cop31",
+        "en": "Carbon emissions from fossil fuels flatline in 2026, scientists say ahead of Cop31"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó una evaluación científica presentada en la Cop31 que proyecta un estancamiento de las emisiones globales de CO2 por combustibles fósiles en 2026, con caída del 2% en emisiones de petróleo por mayor uso de vehículos eléctricos.",
+        "en": "The Guardian reported a scientific assessment presented at Cop31 projecting global CO2 emissions from fossil fuels to flatline in 2026, with oil emissions dropping 2% amid rising EV use."
       },
       "categoria": "clima",
       "actores": [
-        "NASA"
+        "Cop31"
       ],
       "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
+        "lat": 32.4,
+        "lon": 53.7,
+        "region": "Oriente Medio"
       },
-      "impacto": 45,
+      "impacto": 68,
       "fuentes": [
-        "ev_f7040bcbba"
+        "ev_cf105f10ce"
       ],
-      "imagenes": [],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/e5df2d5549bcfb88535b1f30373fa92ed4ea9333/1312_1119_3601_2881/master/3601.jpg?width=140&quality=85&auto=format&fit=max&s=1058dbf8270bc78c5d0ec940bcce991e"
+      ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_f7040bcbba",
-          "titulo": "Ozone Hole Reaches Its 2026 Maximum",
-          "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
-          "fuente": "NASA",
-          "fecha": "Mon, 09 Nov 2026 05:00:00 +0000",
+          "id": "ev_cf105f10ce",
+          "titulo": "Slight fall in carbon emissions from fossil fuels as Iran war drives renewables push",
+          "url": "https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Tue, 10 Nov 2026 11:55:06 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-09_0003",
-      "fecha": "2026-11-09",
-      "kardashev": "K2",
+      "id": "nd_2026-11-10_0010",
+      "fecha": "2026-11-10",
+      "kardashev": "K1",
       "relaciones": [
-        "nd_2026-11-09_0002"
+        "nd_2026-11-10_0011",
+        "nd_2026-11-10_0013"
       ]
     },
     {
       "titulo": {
-        "es": "NOAA descarta formación de ciclones tropicales en el Atlántico en los próximos 7 días",
-        "en": "NOAA rules out tropical cyclone formation in the Atlantic over next 7 days"
+        "es": "Kerry dice que EE.UU. y el mundo deben seguir el liderazgo de China en energía verde",
+        "en": "US and world must follow China's lead on green energy, says John Kerry"
       },
       "sintesis": {
-        "es": "El Centro Nacional de Huracanes de NOAA indicó en su boletín oficial que no se espera formación de ciclones tropicales en el Atlántico norte, el mar Caribe ni el golfo de América durante los próximos siete días.",
-        "en": "NOAA's National Hurricane Center stated in its official outlook that no tropical cyclone formation is expected in the North Atlantic, Caribbean Sea or Gulf of America over the next seven days."
+        "es": "The Guardian reportó declaraciones del exsecretario de Estado John Kerry señalando que China ha 'acelerado enormemente' su transición energética mientras otros países 'van a tropezones', en el marco de la Cop31 en Turquía.",
+        "en": "The Guardian reported former Secretary of State John Kerry saying China has 'hugely accelerated' its energy transition while other nations are 'stumbling along', ahead of Cop31 in Turkey."
+      },
+      "categoria": "clima",
+      "actores": [
+        "John Kerry",
+        "Cop31"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_4257c86ccf"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/e9e70c1f9aafbf60fe3b65bb1b0c30528284d52f/0_747_2932_2345/master/2932.jpg?width=140&quality=85&auto=format&fit=max&s=d1785ffc68c0400a922125bfb198d09c"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_4257c86ccf",
+          "titulo": "US and rest of world must follow China’s lead on green energy, says John Kerry",
+          "url": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
+          "fuente": "The Guardian",
+          "fecha": "Tue, 10 Nov 2026 12:08:23 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-10_0011",
+      "fecha": "2026-11-10",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-10_0003",
+        "nd_2026-11-10_0004",
+        "nd_2026-11-10_0010",
+        "nd_2026-11-10_0014",
+        "nd_2026-11-10_0015"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "NOAA: octubre fue el cuarto más cálido en EE.UU. en 132 años de registros",
+        "en": "NOAA: October ranks fourth-warmest in 132-year US record"
+      },
+      "sintesis": {
+        "es": "NOAA informó que la temperatura promedio en EE.UU. continental en octubre fue de 58.7°F, 4.6°F por encima del promedio del siglo XX, el cuarto octubre más cálido registrado en 132 años.",
+        "en": "NOAA reported the average CONUS temperature in October was 58.7°F, 4.6°F above the 20th-century average, ranking as the fourth-warmest October in the 132-year record."
       },
       "categoria": "clima",
       "actores": [
@@ -204,930 +566,455 @@
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 20,
+      "impacto": 55,
       "fuentes": [
-        "ev_1922f3f40d"
+        "ev_21c9234542"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_1922f3f40d",
-          "titulo": "Atlantic Tropical Weather Outlook",
-          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
-          "fuente": "NOAA · Centro Nacional de Huracanes",
-          "fecha": "Mon, 09 Nov 2026 11:18:36 GMT",
+          "id": "ev_21c9234542",
+          "titulo": "Monitoring U.S. Temperature and Precipitation in October 2026",
+          "url": "https://www.ncei.noaa.gov/news/national-climate-202610",
+          "fuente": "NOAA NCEI",
+          "fecha": "Mon, 09 Nov 2026 11:00:00 -0500",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-09_0004",
-      "fecha": "2026-11-09",
+      "id": "nd_2026-11-10_0012",
+      "fecha": "2026-11-10",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Arranca la COP31 en Antalya con el objetivo del Acuerdo de París ya superado",
-        "en": "COP31 opens in Antalya as Paris Agreement 1.5C target already overshot"
+        "es": "Brent cae bajo $90 por primera vez desde agosto ante esperanzas de desescalada en Irán",
+        "en": "Brent crude falls below $90 for first time since August on Iran de-escalation hopes"
       },
       "sintesis": {
-        "es": "Líderes mundiales se reunieron en Antalya, Turquía, para la COP31. El presidente de las negociaciones, el ministro australiano Chris Bowen, reconoció que se superará la meta de 1.5°C de París pero instó a actuar con urgencia para revertirlo.",
-        "en": "World leaders gathered in Antalya, Turkey, for COP31. Negotiations president, Australian minister Chris Bowen, acknowledged the Paris 1.5C target will be overshot but urged urgent action to return to it."
+        "es": "CNBC reportó que el crudo Brent cayó por debajo de $90 tras declaraciones de Trump de que el conflicto con Irán 'va a terminar bastante pronto', aunque analistas ven poca probabilidad de paz duradera.",
+        "en": "CNBC reported Brent crude fell below $90 after Trump said the Iran conflict was 'going to be ending fairly soon,' though analysts see little chance of lasting peace."
       },
-      "categoria": "clima",
+      "categoria": "recursos",
       "actores": [
-        "ONU",
-        "COP31"
+        "Brent"
       ],
       "geo": {
-        "lat": -25.3,
-        "lon": 133.8,
-        "region": "Oceania"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_728152e8d7"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/b3f3159ab0a860e887417ad5b49be2516c3b54e3/1592_647_5238_4195/master/5238.jpg?width=140&quality=85&auto=format&fit=max&s=46c730e4ed9a499f4f933d5608f91260"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_728152e8d7",
-          "titulo": "Cop31 live: world leaders gather for crucial climate crisis talks",
-          "url": "https://www.theguardian.com/environment/live/2026/nov/09/cop31-climate-crisis-talks-turkey-latest-news-updates",
-          "fuente": "The Guardian · Medio ambiente",
-          "fecha": "Mon, 09 Nov 2026 13:08:33 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0005",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-09_0006"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Estados Unidos no tendrá presencia oficial en la COP31 mientras demócratas asisten envalentonados",
-        "en": "US to have no official presence at COP31 as Democrats attend boosted by midterms"
-      },
-      "sintesis": {
-        "es": "Por segundo año consecutivo Estados Unidos no tendrá presencia gubernamental oficial en la cumbre climática de la ONU, según The Guardian, mientras legisladores demócratas asisten tras su victoria en las elecciones de mitad de mandato.",
-        "en": "For the second consecutive year the US will have no official government presence at the UN climate summit, The Guardian reported, while Democratic lawmakers attend after their midterm election win."
-      },
-      "categoria": "clima",
-      "actores": [
-        "COP31"
-      ],
-      "geo": {
-        "lat": 39.0,
-        "lon": 35.2,
+        "lat": 32.4,
+        "lon": 53.7,
         "region": "Oriente Medio"
       },
-      "impacto": 50,
+      "impacto": 64,
       "fuentes": [
-        "ev_6918665b7b"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/28407743401aa2f94348f6b8940ee4109a732ff5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5985d871f0ecb7dcd5a395bedbbe690c"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_6918665b7b",
-          "titulo": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
-          "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
-          "fuente": "The Guardian · Medio ambiente",
-          "fecha": "Mon, 09 Nov 2026 06:00:01 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0006",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-09_0005",
-        "nd_2026-11-09_0023"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Tormentas provocan inundaciones mortales en Irak e Irán mientras Portugal y Japón enfrentan clima severo",
-        "en": "Deadly floods hit Iraq and Iran as storms sweep region, Portugal and Japan face severe weather"
-      },
-      "sintesis": {
-        "es": "Violentas tormentas causaron inundaciones mortales en el norte de Irak, con lluvias que superaron pronósticos (80mm frente a 30mm esperados en Erbil) y dos muertos, además de afectar Irán, Portugal y Japón, según The Guardian.",
-        "en": "Violent storms caused deadly flooding in northern Iraq, with rainfall exceeding forecasts (80mm versus 30mm expected in Erbil) and two deaths, also affecting Iran, Portugal and Japan, The Guardian reported."
-      },
-      "categoria": "clima",
-      "actores": [],
-      "geo": {
-        "lat": 36.2,
-        "lon": 138.3,
-        "region": "Asia Oriental"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_ad3f5ea073"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/00aead2f7eac7d091928a3293777413e5367d450/0_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=067e0f4447d82eeeaeff5e2ae40663a3"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ad3f5ea073",
-          "titulo": "Deadly floods hit Iraq as thunderstorms sweep across region",
-          "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
-          "fuente": "The Guardian",
-          "fecha": "Mon, 09 Nov 2026 10:59:06 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0007",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-09_0024"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Colapso parcial en la represa Tarbela de Pakistán provoca aumento de agua de inundación",
-        "en": "Partial collapse at Pakistan's Tarbela dam causes flood water surge"
-      },
-      "sintesis": {
-        "es": "Una barrera protectora colapsó parcialmente en el proyecto hidroeléctrico Tarbela T-5, en construcción en Pakistán, provocando un aumento del caudal de agua de inundación, según Al Jazeera.",
-        "en": "A protective barrier partially collapsed at the under-construction Tarbela Dam T-5 hydropower project in Pakistan, causing a surge in flood water, Al Jazeera reported."
-      },
-      "categoria": "recursos",
-      "actores": [],
-      "geo": {
-        "lat": 30.4,
-        "lon": 69.3,
-        "region": "Asia Meridional"
-      },
-      "impacto": 50,
-      "fuentes": [
-        "ev_62aa9f326c"
+        "ev_83ffa7629f"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_62aa9f326c",
-          "titulo": "Partial collapse of Pakistan’s Tarbela dam causes flood water surge",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 09 Nov 2026 12:16:20 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0008",
-      "fecha": "2026-11-09",
-      "kardashev": "K2",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "El crecimiento de la energía solar barata desafía todas las proyecciones, según BBC",
-        "en": "Growth of cheap solar energy defies all projections, BBC reports"
-      },
-      "sintesis": {
-        "es": "La energía solar, gracias a sus bajos costos, se ha convertido en una de las principales fuentes de energía en varios países del mundo, superando las proyecciones previas, según un análisis de BBC Mundo.",
-        "en": "Solar energy, due to its low costs, has become one of the main energy sources in several countries worldwide, exceeding prior projections, according to a BBC Mundo analysis."
-      },
-      "categoria": "recursos",
-      "actores": [],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_f4dd7c2200"
-      ],
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/89f9/live/18877e60-d1fd-11f1-93e1-3b657b665bcf.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f4dd7c2200",
-          "titulo": "Cómo el extraordinario crecimiento de la \"escandalosamente barata\" energía solar ha desafiado todas las proyecciones",
-          "url": "https://www.bbc.com/mundo/articles/cr4g1ee27w6po?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC Mundo",
-          "fecha": "Mon, 09 Nov 2026 11:10:31 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-09_0009",
-      "fecha": "2026-11-09",
-      "kardashev": "K2",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Precios de la gasolina en EE.UU. podrían caer bajo los 4 dólares por primera vez desde julio",
-        "en": "US gas prices could drop below $4 for first time since July"
-      },
-      "sintesis": {
-        "es": "CNN reportó que los precios de la gasolina en Estados Unidos podrían caer por debajo de los 4 dólares el galón por primera vez desde julio, según datos de mercado citados por la cadena.",
-        "en": "CNN reported that US gasoline prices could fall below $4 per gallon for the first time since July, citing market data."
-      },
-      "categoria": "recursos",
-      "actores": [],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 30,
-      "fuentes": [
-        "ev_1b8c3eb48c"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1b8c3eb48c",
-          "titulo": "Gas prices could drop below $4 for first time since July",
-          "url": "https://www.cnn.com/2026/11/09/business/video/gas-prices-could-drop-below-usd4-for-first-time-since-july",
-          "fuente": "CNN",
-          "fecha": "2026-11-09T13:23:04.369Z",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0010",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "La UE demanda a IBM, Atos y Leonardo por fallos en el sistema fronterizo de entrada y salida",
-        "en": "EU sues IBM, Atos and Leonardo over troubled entry/exit border system"
-      },
-      "sintesis": {
-        "es": "La agencia EU-Lisa presentó una demanda contra IBM, Atos y Leonardo por retrasos y fallos en el sistema de entrada/salida fronterizo de la UE, lanzado en octubre de 2025, según un documento interno citado por The Guardian.",
-        "en": "EU agency EU-Lisa filed a lawsuit against IBM, Atos and Leonardo over delays and failures in the EU's entry/exit border system, launched in October 2025, according to an internal document cited by The Guardian."
-      },
-      "categoria": "cadenas",
-      "actores": [
-        "IBM",
-        "Atos",
-        "Leonardo",
-        "EU-Lisa"
-      ],
-      "geo": {
-        "lat": 41.9,
-        "lon": 12.6,
-        "region": "Europa"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_f5dd13e6eb"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/d4e0bb6cf66538930d3fcf221707a4675ec85a38/222_0_2919_2336/master/2919.jpg?width=140&quality=85&auto=format&fit=max&s=e22ca6f51d1bd73b95db705e80cecde5"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f5dd13e6eb",
-          "titulo": "EU sues IBM and two European firms over troubled entry/exit border system",
-          "url": "https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system",
-          "fuente": "The Guardian",
-          "fecha": "Mon, 09 Nov 2026 10:49:23 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0011",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-09_0021"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Ciberataques y amenazas de bomba ponen a prueba las defensas de infraestructura crítica en Europa",
-        "en": "Cyberattacks and bomb threats test Europe's critical infrastructure defenses"
-      },
-      "sintesis": {
-        "es": "CNBC reportó una ola de ciberataques contra refrigeradores de supermercados y amenazas de bomba que afectan vuelos de pasajeros, poniendo a prueba la capacidad de Europa para resistir disrupciones en infraestructura crucial.",
-        "en": "CNBC reported a wave of cyberattacks on supermarket refrigeration systems and bomb threats affecting passenger flights, testing Europe's ability to withstand disruptions to critical infrastructure."
-      },
-      "categoria": "cadenas",
-      "actores": [],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_633c20cc58"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_633c20cc58",
-          "titulo": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
-          "url": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
+          "id": "ev_83ffa7629f",
+          "titulo": "Brent crude falls below $90 for first time since August on Iran war de-escalation hopes",
+          "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
           "fuente": "CNBC",
-          "fecha": "Mon, 09 Nov 2026 08:59:16 GMT",
+          "fecha": "Tue, 10 Nov 2026 10:38:49 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-09_0012",
-      "fecha": "2026-11-09",
+      "id": "nd_2026-11-10_0013",
+      "fecha": "2026-11-10",
       "kardashev": "K0",
-      "relaciones": []
+      "relaciones": [
+        "nd_2026-11-10_0010"
+      ]
     },
     {
       "titulo": {
-        "es": "Ataques con drones incendian la segunda mayor refinería de petróleo de Rusia",
-        "en": "Drone strikes set fire to Russia's second-largest oil refinery"
+        "es": "Superávit comercial de China supera el billón de dólares por segundo año consecutivo",
+        "en": "China's goods surplus tops $1 trillion for second year amid calls to rebalance trade"
       },
       "sintesis": {
-        "es": "Al Jazeera reportó que drones incendiaron la segunda refinería de petróleo más grande de Rusia mientras Rusia y Ucrania intercambiaban ataques nocturnos contra infraestructura energética, dejando al menos cuatro muertos.",
-        "en": "Al Jazeera reported drones set fire to Russia's second-largest oil refinery as Russia and Ukraine traded overnight strikes on energy infrastructure, leaving at least four dead."
+        "es": "CNBC reportó que el superávit comercial de China superó el billón de dólares hasta octubre, intensificando quejas de socios comerciales por el exceso de bienes chinos baratos en el mercado global.",
+        "en": "CNBC reported China's trade surplus topped $1 trillion as of October, intensifying complaints from trading partners over the glut of cheap Chinese goods."
       },
       "categoria": "cadenas",
-      "actores": [],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_7715d0e0b6"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_7715d0e0b6",
-          "titulo": "At least four people killed as Russia and Ukraine trade strikes overnight",
-          "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 09 Nov 2026 10:08:45 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0013",
-      "fecha": "2026-11-09",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-09_0018"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Acciones de Nvidia caen 5% tras investigación sobre el CEO Jensen Huang por presunto espionaje chino",
-        "en": "Nvidia shares fall 5% after investigation into CEO Jensen Huang over alleged Chinese espionage"
-      },
-      "sintesis": {
-        "es": "Nvidia lanzó una investigación independiente sobre su CEO Jensen Huang tras conocerse que mantuvo una relación con una empresaria china acusada de pasar información a Beijing; la acción cayó 5% según The Guardian y CNBC.",
-        "en": "Nvidia launched an independent investigation into CEO Jensen Huang after reports he had a relationship with a Chinese businesswoman accused of passing information to Beijing; shares fell 5%, The Guardian and CNBC reported."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Nvidia",
-        "Jensen Huang"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 70,
-      "fuentes": [
-        "ev_03d980b094"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/91b819bcc74a87ba2158e7bae518801fb140af52/692_369_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=c442afe3c3d4d785ea938fdf46018042"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_03d980b094",
-          "titulo": "Nvidia stocks tumble as CEO investigated over spy claims | First Thing",
-          "url": "https://www.theguardian.com/us-news/2026/nov/09/first-thing-nvidia-stocks-tumble-as-ceo-investigated-over-spy-claims",
-          "fuente": "The Guardian",
-          "fecha": "Mon, 09 Nov 2026 11:54:21 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0014",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-09_0015",
-        "nd_2026-11-09_0026"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Demócratas ven en el caso Huang una oportunidad para aumentar la fiscalización del Congreso a Nvidia",
-        "en": "Democrats see Huang affair as fresh ammunition for congressional oversight of Nvidia"
-      },
-      "sintesis": {
-        "es": "CNBC reportó que legisladores demócratas, envalentonados tras las elecciones de mitad de mandato, planean usar el escándalo de Jensen Huang para intensificar el escrutinio del Congreso sobre Nvidia y su seguridad nacional.",
-        "en": "CNBC reported that newly empowered Democratic lawmakers plan to use the Jensen Huang scandal to intensify congressional scrutiny of Nvidia and national security concerns."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Nvidia",
-        "Congreso de Estados Unidos"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 50,
-      "fuentes": [
-        "ev_3e498e4d3a"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_3e498e4d3a",
-          "titulo": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-          "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-          "fuente": "CNBC",
-          "fecha": "Mon, 09 Nov 2026 13:13:52 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0015",
-      "fecha": "2026-11-09",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-09_0014",
-        "nd_2026-11-09_0026"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Muere el autor del tiroteo de Cracovia que dejó seis muertos, mientras crece la polémica política",
-        "en": "Kraków shooting perpetrator dies as political controversy over motives grows"
-      },
-      "sintesis": {
-        "es": "El atacante de 24 años que abrió fuego en el centro histórico de Cracovia murió en un hospital dos días después del ataque que dejó seis muertos y 16 heridos; el gobierno polaco y la oposición debaten posibles vínculos de extrema derecha, según France 24.",
-        "en": "The 24-year-old attacker who opened fire in Kraków's historic center died in hospital two days after the attack that left six dead and 16 injured; Poland's government and opposition dispute possible far-right links, France 24 reported."
-      },
-      "categoria": "geopolitica",
-      "actores": [],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_667efa9773"
-      ],
-      "imagenes": [
-        "https://s.france24.com/media/display/3454c354-daeb-11f1-8b85-bf1914cabd52/w:1024/p:16x9/AP26311723511956.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_667efa9773",
-          "titulo": "Muere el autor del tiroteo que dejó seis víctimas en Polonia mientras crece la polémica por sus motivaciones",
-          "url": "https://www.france24.com/es/europa/20261109-muere-el-autor-del-tiroteo-que-dej%C3%B3-seis-v%C3%ADctimas-en-polonia-mientras-crece-la-pol%C3%A9mica-por-sus-motivaciones",
-          "fuente": "France 24",
-          "fecha": "Mon, 09 Nov 2026 13:06:59 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-09_0016",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Trump admite que su política de deportaciones fue 'demasiado dura' al nombrar a Miller jefe de gabinete",
-        "en": "Trump admits deportation policy was 'too tough' as Miller takes chief of staff role"
-      },
-      "sintesis": {
-        "es": "Donald Trump reconoció en una entrevista de CBS que su política de deportaciones fue 'demasiado dura' y ofreció negociar con demócratas, pese a nombrar a Stephen Miller, arquitecto de la política migratoria dura, como jefe de gabinete, según The Guardian.",
-        "en": "Donald Trump acknowledged in a CBS interview that his deportation policy was 'too tough' and offered to negotiate with Democrats, despite appointing Stephen Miller, architect of his hardline immigration policy, as chief of staff, The Guardian reported."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Donald Trump",
-        "Stephen Miller"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_7ffd2363c5"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_7ffd2363c5",
-          "titulo": "Deportation policy ‘might have been too tough’, says Trump, as Miller starts chief of staff role – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-          "fuente": "The Guardian",
-          "fecha": "Mon, 09 Nov 2026 12:54:33 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0017",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Sudáfrica detiene a nueve extranjeros que intentaban viajar a combatir en Ucrania",
-        "en": "South Africa detains nine foreigners allegedly trying to leave to fight in Ukraine"
-      },
-      "sintesis": {
-        "es": "La policía sudafricana detuvo a nueve extranjeros que presuntamente intentaban salir del país para combatir en Ucrania; las autoridades no revelaron sus nacionalidades pero confirmaron que ninguno residía en Sudáfrica, según BBC.",
-        "en": "South African police detained nine foreigners allegedly trying to leave the country to fight in Ukraine; authorities did not disclose nationalities but confirmed none resided in South Africa, BBC reported."
-      },
-      "categoria": "geopolitica",
-      "actores": [],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 35,
-      "fuentes": [
-        "ev_f73cdb181a"
-      ],
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c0/live/5d2b0080-dc36-11f1-95cf-a38331e6cb4b.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f73cdb181a",
-          "titulo": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
-          "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "fecha": "Mon, 09 Nov 2026 12:33:24 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0018",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-09_0013"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Primer ministro de Catar se reúne con Trump en medio de estancamiento en negociaciones con Irán",
-        "en": "Qatar PM to meet Trump amid stalled US-Iran negotiations"
-      },
-      "sintesis": {
-        "es": "Irán presentó una propuesta de dos días desarrollada con mediadores cataríes que Washington está examinando, mientras el secretario de Estado Rubio expresó poca esperanza de un avance diplomático con Irán, según Al Jazeera.",
-        "en": "Iran put forward a two-day proposal developed with Qatari mediators that Washington is examining, while Secretary of State Rubio expressed little hope for diplomatic breakthrough with Iran, Al Jazeera reported."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Marco Rubio"
-      ],
-      "geo": {
-        "lat": 38.9,
-        "lon": -77.0,
-        "region": "Norteamerica"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_e1ef016452"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e1ef016452",
-          "titulo": "Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?",
-          "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 09 Nov 2026 09:27:35 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0019",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Al menos 21 migrantes mueren intentando llegar a Creta, Grecia",
-        "en": "At least 21 migrants die trying to reach Greece's Crete"
-      },
-      "sintesis": {
-        "es": "La guardia costera griega informó que al menos 21 migrantes y refugiados murieron en su intento de llegar a la isla de Creta, mientras más de 100 personas fueron rescatadas en varias operaciones, según Al Jazeera.",
-        "en": "Greece's coastguard reported at least 21 migrants and refugees died attempting to reach the island of Crete, while more than 100 people were rescued in several operations, Al Jazeera reported."
-      },
-      "categoria": "demografia",
-      "actores": [],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_3f0f21c8d1"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_3f0f21c8d1",
-          "titulo": "At least 21 migrants and refugees die trying to reach Greece’s Crete",
-          "url": "https://www.aljazeera.com/news/2026/11/9/at-least-21-migrants-and-refugees-die-trying-to-reach-greeces-crete?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 09 Nov 2026 12:06:19 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0020",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Al menos 34 muertos tras naufragio de embarcación migrante frente a Senegal",
-        "en": "At least 34 dead after Europe-bound migrant boat sinks off Senegal"
-      },
-      "sintesis": {
-        "es": "Un naufragio frente a las costas de Senegal dejó al menos 34 muertos entre migrantes que buscaban llegar a las Islas Canarias españolas, en una de las rutas atlánticas más peligrosas, según BBC.",
-        "en": "A shipwreck off Senegal's coast left at least 34 dead among migrants seeking to reach Spain's Canary Islands, on one of the most dangerous Atlantic migration routes, BBC reported."
-      },
-      "categoria": "demografia",
-      "actores": [],
-      "geo": {
-        "lat": 40.5,
-        "lon": -3.7,
-        "region": "Europa"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_7541c8ada0"
-      ],
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_7541c8ada0",
-          "titulo": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
-          "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "fecha": "Mon, 09 Nov 2026 10:59:26 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0021",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-09_0011"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Más de 3.300 migrantes llegan a El Hierro en Canarias desde comienzos de noviembre",
-        "en": "Over 3,300 migrants arrive at El Hierro in the Canary Islands since early November"
-      },
-      "sintesis": {
-        "es": "Más de 3.300 migrantes llegaron a la isla de El Hierro desde comienzos de noviembre en una nueva oleada migratoria que pone a prueba la capacidad de acogida del territorio, según France 24; autoridades locales advierten recursos insuficientes.",
-        "en": "More than 3,300 migrants arrived at El Hierro island since early November in a new migration wave testing the territory's reception capacity, France 24 reported; local authorities warn of insufficient resources."
-      },
-      "categoria": "demografia",
-      "actores": [],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_95395cbe88"
-      ],
-      "imagenes": [
-        "https://s.france24.com/media/display/3b600696-dbe4-11f1-8ced-d18c5759e759/w:1024/p:16x9/ES-20261108-200921-201104-CS.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_95395cbe88",
-          "titulo": "Más de 3.300 migrantes llegan a El Hierro, en Canarias: ¿hay capacidad de respuesta?",
-          "url": "https://www.france24.com/es/video/20261109-m%C3%A1s-de-3-300-migrantes-llegan-a-el-hierro-en-canarias-hay-capacidad-de-respuesta",
-          "fuente": "France 24",
-          "fecha": "Mon, 09 Nov 2026 02:31:07 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-09_0022",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Deslizamiento de tierra mata a cinco personas en campamento de desplazados en Gaza",
-        "en": "Mudslide kills five people at displaced persons camp in Gaza"
-      },
-      "sintesis": {
-        "es": "Cuatro niños y una mujer murieron cuando lluvias intensas provocaron el colapso de un terraplén de arena sobre su tienda en Gaza; autoridades locales denunciaron 'inacción' global ante la crisis humanitaria, según Al Jazeera.",
-        "en": "Four children and a woman were killed when heavy rain caused a sand embankment to collapse on their tent in Gaza; local authorities denounced global 'inaction' amid the humanitarian crisis, Al Jazeera reported."
-      },
-      "categoria": "demografia",
-      "actores": [],
-      "geo": {
-        "lat": 31.4,
-        "lon": 34.4,
-        "region": "Oriente Medio"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_13cee853f8"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_13cee853f8",
-          "titulo": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
-          "url": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Mon, 09 Nov 2026 10:50:49 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-09_0023",
-      "fecha": "2026-11-09",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-09_0006"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Inflación mayorista de China alcanza su nivel más alto en más de cuatro años",
-        "en": "China wholesale inflation hits highest level in more than four years"
-      },
-      "sintesis": {
-        "es": "El índice de precios al productor de China en octubre llegó a 5.7%, por encima del 5.3% esperado por economistas consultados por Reuters, mientras la inflación al consumidor se desaceleraba, según CNBC.",
-        "en": "China's producer price index for October came in at 5.7%, above the 5.3% expected by economists polled by Reuters, as consumer inflation slowed, CNBC reported."
-      },
-      "categoria": "finanzas",
       "actores": [],
       "geo": {
         "lat": 35.9,
         "lon": 104.2,
         "region": "Asia Oriental"
       },
-      "impacto": 50,
+      "impacto": 62,
       "fuentes": [
-        "ev_aadfdfc4ff"
+        "ev_a05c06cb79"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_aadfdfc4ff",
-          "titulo": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-          "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+          "id": "ev_a05c06cb79",
+          "titulo": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
+          "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
           "fuente": "CNBC",
-          "fecha": "Mon, 09 Nov 2026 02:50:22 GMT",
+          "fecha": "Tue, 10 Nov 2026 10:24:13 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-09_0024",
-      "fecha": "2026-11-09",
+      "id": "nd_2026-11-10_0014",
+      "fecha": "2026-11-10",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-11-09_0007"
+        "nd_2026-11-10_0003",
+        "nd_2026-11-10_0004",
+        "nd_2026-11-10_0011",
+        "nd_2026-11-10_0015"
       ]
     },
     {
       "titulo": {
-        "es": "Thames Water pide a acreedores más tiempo para repagar deuda de 20.000 millones de libras",
-        "en": "Thames Water asks creditors for more time to repay £20bn debt pile"
+        "es": "Fabricantes europeos podrían renunciar a competir con China para 2030, advierte cámara de comercio",
+        "en": "EU manufacturers could give up competing with China by 2030, warns commerce chief"
       },
       "sintesis": {
-        "es": "La mayor empresa de agua del Reino Unido propuso extender de 2027 a marzo de 2028 el plazo para pagar parte de su deuda de 20.000 millones de libras, según The Guardian.",
-        "en": "The UK's largest water company proposed extending the deadline from 2027 to March 2028 to repay part of its £20bn debt pile, The Guardian reported."
+        "es": "The Guardian reportó declaraciones de Jens Eskelund, de la Cámara de Comercio de la UE en China, advirtiendo que fabricantes europeos podrían integrarse a cadenas de suministro chinas ante pérdidas masivas de empleo.",
+        "en": "The Guardian reported EU Chamber of Commerce in China chief Jens Eskelund warning European manufacturers could join Chinese supply chains amid fears of mass job losses by 2030."
       },
-      "categoria": "finanzas",
+      "categoria": "cadenas",
       "actores": [
-        "Thames Water"
+        "Cámara de Comercio de la UE en China"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 58,
+      "fuentes": [
+        "ev_f6419ca20f"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/e1035f797cd03f2b0cc1d628d816df8072bbfa03/329_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=110d3a2338b374252f82a2f881338df5"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_f6419ca20f",
+          "titulo": "EU manufacturers could give up on competing with China by 2030, warns commerce chief",
+          "url": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
+          "fuente": "The Guardian",
+          "fecha": "Tue, 10 Nov 2026 06:00:30 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-10_0015",
+      "fecha": "2026-11-10",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-10_0003",
+        "nd_2026-11-10_0004",
+        "nd_2026-11-10_0011",
+        "nd_2026-11-10_0014"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Senado de EE.UU. avanza proyecto de ley para acelerar permisos de infraestructura energética",
+        "en": "US Senate advances bill to speed up gas pipelines and clean energy projects"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó que el Senado estadounidense avanzó la ley bipartidista Baaja para agilizar permisos de centros de datos, oleoductos y líneas de transmisión, pese a oposición de grupos ambientalistas.",
+        "en": "The Guardian reported the US Senate advanced the bipartisan Baaja bill to speed up permitting for data centers, pipelines and transmission lines, despite opposition from environmental groups."
+      },
+      "categoria": "cadenas",
+      "actores": [
+        "Senado de Estados Unidos"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 45,
+      "impacto": 56,
       "fuentes": [
-        "ev_38eb674f28"
+        "ev_8ba29cf73b"
       ],
       "imagenes": [
-        "https://i.guim.co.uk/img/media/535318ddf017dc682b293bfcd483a717eefaf8a0/247_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=fea5ea819b06767f490c86405124d198"
+        "https://i.guim.co.uk/img/media/ad4ada77409f4784e29bb7fa85bb8f496f4b4215/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=2ef70e008670b7842972fee91de5d783"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_38eb674f28",
-          "titulo": "Thames Water asks creditors for more time to help repay £20bn debt pile",
-          "url": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
-          "fuente": "The Guardian",
-          "fecha": "Mon, 09 Nov 2026 10:32:43 GMT",
+          "id": "ev_8ba29cf73b",
+          "titulo": "Senate advances bill to speed up projects from gas pipelines to clean energy",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Tue, 10 Nov 2026 02:28:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-09_0025",
-      "fecha": "2026-11-09",
-      "kardashev": "K2",
+      "id": "nd_2026-11-10_0016",
+      "fecha": "2026-11-10",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Investigación sobre Huang genera nuevo revés para el comercio de IA en los mercados",
-        "en": "Huang investigation creates new setback for the AI trade in markets"
+        "es": "SoftBank registra pérdida de $7.000 millones por caída de centros de datos e Intel",
+        "en": "SoftBank swings to $7 billion loss after US data center hit and Intel share decline"
       },
       "sintesis": {
-        "es": "MarketWatch reportó que la investigación de la junta de Nvidia sobre la relación de Jensen Huang con una presunta espía podría afectar el valor bursátil de la empresa, aunque Huang permanecerá en su cargo y cooperará con la pesquisa.",
-        "en": "MarketWatch reported Nvidia's board investigation into Jensen Huang's relationship with an alleged spy could cloud the company's stock value, though Huang will remain in his role and cooperate with the probe."
+        "es": "CNBC reportó que SoftBank Group anunció resultados del segundo trimestre fiscal con una pérdida de $7.000 millones, afectada por su exposición a centros de datos en EE.UU. y la caída en acciones de Intel.",
+        "en": "CNBC reported SoftBank Group announced fiscal Q2 results showing a $7 billion loss, hit by US data center exposure and Intel's share decline."
       },
       "categoria": "finanzas",
       "actores": [
-        "Nvidia",
-        "Jensen Huang"
+        "SoftBank",
+        "Intel"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 55,
+      "impacto": 60,
       "fuentes": [
-        "ev_85c84e7e24"
+        "ev_b88c2a785f"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_b88c2a785f",
+          "titulo": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline",
+          "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+          "fuente": "CNBC",
+          "fecha": "Tue, 10 Nov 2026 09:01:37 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-10_0017",
+      "fecha": "2026-11-10",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Gobernador Waller de la Fed pone sobre la mesa alza de medio punto para diciembre",
+        "en": "Fed's Waller puts half-point rate hike into the mix for December"
+      },
+      "sintesis": {
+        "es": "MarketWatch reportó que el gobernador de la Reserva Federal, Christopher Waller, dijo que se inclina por un alza de tasas en diciembre y podría respaldar un incremento de medio punto según los datos de inflación de octubre.",
+        "en": "MarketWatch reported Fed Governor Christopher Waller said he is leaning toward a December rate hike and could support a half-point increase depending on October inflation data."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Reserva Federal",
+        "Christopher Waller"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_e16099b8f2"
       ],
       "imagenes": [
-        "https://images.mktw.net/im-62932554"
+        "https://images.mktw.net/im-30624857"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_85c84e7e24",
-          "titulo": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with an alleged spy",
-          "url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+          "id": "ev_e16099b8f2",
+          "titulo": "Fed’s Waller puts half-point rate hike into the mix for December",
+          "url": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
           "fuente": "MarketWatch",
-          "fecha": "Mon, 09 Nov 2026 12:26:00 GMT",
+          "fecha": "Tue, 10 Nov 2026 09:45:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-09_0026",
-      "fecha": "2026-11-09",
+      "id": "nd_2026-11-10_0018",
+      "fecha": "2026-11-10",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-11-10_0019"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Gobernador Waller de la Fed anticipa alza en diciembre, abre puerta a incremento de medio punto",
+        "en": "Fed Governor Waller sees December hike likely, opens door to half-point increase"
+      },
+      "sintesis": {
+        "es": "CNBC reportó declaraciones del gobernador de la Reserva Federal Christopher Waller indicando que se inclina hacia un alza de tasas en diciembre, posiblemente de medio punto, dependiendo de los datos de inflación.",
+        "en": "CNBC reported Fed Governor Christopher Waller stating he leans toward a December rate increase, potentially a half-point hike, depending on inflation data."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Reserva Federal",
+        "Christopher Waller"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_de71b6985d"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_de71b6985d",
+          "titulo": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+          "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+          "fuente": "CNBC",
+          "fecha": "Tue, 10 Nov 2026 09:00:01 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-10_0019",
+      "fecha": "2026-11-10",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-10_0018"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "El Hierro recibe 8.000 migrantes en barca en cinco semanas, sistema sanitario al borde del colapso",
+        "en": "El Hierro receives 8,000 migrants by boat in five weeks, healthcare system near collapse"
+      },
+      "sintesis": {
+        "es": "BBC Mundo reportó que la isla canaria de El Hierro, con 12.000 habitantes, ha recibido 8.000 migrantes en cayucos en las últimas cinco semanas, llevando al sistema sanitario al límite.",
+        "en": "BBC Mundo reported the Canary island of El Hierro, with 12,000 inhabitants, has received 8,000 migrants by boat in the past five weeks, pushing its healthcare system to the brink."
+      },
+      "categoria": "demografia",
+      "actores": [],
+      "geo": {
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_8cba56f158"
+      ],
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/N2EWGKMWONC7ZDLOMTCW3TRWCY.jpeg?auth=6b3e2a323ecbb8de7b1c897f1790950bbd6cf8eb78324f85adb44f935b37a50f"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8cba56f158",
+          "titulo": "“Es momento de que nos unamos”: Talarico hace un guiño al bipartidismo en un encuentro con su predecesor republicano",
+          "url": "https://elpais.com/us/2026-11-10/es-momento-de-que-nos-unamos-talarico-hace-un-guino-al-bipartidismo-en-un-encuentro-con-su-predecesor-republicano.html",
+          "fuente": "El País",
+          "fecha": "Tue, 10 Nov 2026 00:38:57 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-10_0020",
+      "fecha": "2026-11-10",
       "kardashev": "K0",
       "relaciones": [
-        "nd_2026-11-09_0014",
-        "nd_2026-11-09_0015"
+        "nd_2026-11-10_0009"
       ]
+    },
+    {
+      "titulo": {
+        "es": "Al menos 20 migrantes muertos en cuatro días de naufragios frente a Creta",
+        "en": "At least 20 migrants dead in four days of shipwrecks off Crete"
+      },
+      "sintesis": {
+        "es": "France 24, citando a la televisión pública griega, reportó que al menos 20 migrantes africanos murieron entre el 6 y el 9 de noviembre en naufragios cerca de Creta mientras intentaban llegar a Europa continental.",
+        "en": "France 24, citing Greek public television, reported at least 20 African migrants died between Nov. 6-9 in shipwrecks near Crete while attempting to reach continental Europe."
+      },
+      "categoria": "demografia",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 58,
+      "fuentes": [
+        "ev_3cecb17c14"
+      ],
+      "imagenes": [
+        "https://s.france24.com/media/display/c4505e02-dcb5-11f1-beaa-1beafce15fea/w:1024/p:16x9/ES-20261109-171010-171147-CS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_3cecb17c14",
+          "titulo": "Al menos 20 migrantes muertos en cuatro días de naufragios frente a Creta",
+          "url": "https://www.france24.com/es/video/20261110-al-menos-20-migrantes-muertos-en-cuatro-d%C3%ADas-de-naufragios-frente-a-creta",
+          "fuente": "France 24",
+          "fecha": "Tue, 10 Nov 2026 03:30:13 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-10_0021",
+      "fecha": "2026-11-10",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Australia prepara reporte obligatorio tras hackeo de OpenAI que vulneró sitios gubernamentales",
+        "en": "Australia to introduce mandatory reporting after OpenAI hack to combat AI 'going rogue'"
+      },
+      "sintesis": {
+        "es": "The Guardian reportó que el gobierno australiano anunció cambios en la ley penal tras una revisión del hackeo de junio a un portal de Medicare por un agente de OpenAI, sin sanciones penales para la empresa.",
+        "en": "The Guardian reported the Australian government announced criminal law changes following a review of a June breach of a Medicare portal by an OpenAI agent, with no criminal penalties for the company."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "OpenAI",
+        "Servicios Australia",
+        "Anthony Albanese"
+      ],
+      "geo": {
+        "lat": -25.3,
+        "lon": 133.8,
+        "region": "Oceania"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_0ae301a9ba"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8860562d2849d1681cc78614e56d9f4f"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0ae301a9ba",
+          "titulo": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+          "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+          "fuente": "The Guardian",
+          "fecha": "Tue, 10 Nov 2026 06:00:52 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-10_0022",
+      "fecha": "2026-11-10",
+      "kardashev": "K1",
+      "relaciones": []
     }
   ],
-  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-09\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Antalya\", \"Antártida\", \"Atlántico\", \"Canarias\", \"Caribe\", \"Cracovia\", \"Creta\", \"El Hierro\", \"Erbil\", \"Gaza\", \"Houston\", \"Islas Canarias\", \"Senegal\", \"Tarbela\"]\npaises: [\"Australia\", \"Catar\", \"China\", \"España\", \"Estados Unidos\", \"Grecia\", \"Irak\", \"Irán\", \"Japón\", \"Pakistán\", \"Palestina\", \"Polonia\", \"Portugal\", \"Reino Unido\", \"Rusia\", \"Senegal\", \"Sudáfrica\", \"Turquía\", \"Ucrania\", \"Unión Europea\"]\nentidades: [\"Atos\", \"COP31\", \"Congreso de Estados Unidos\", \"Donald Trump\", \"EU-Lisa\", \"Google\", \"IBM\", \"Instagram\", \"Jensen Huang\", \"Leonardo\", \"Marco Rubio\", \"Meta\", \"NASA\", \"NOAA\", \"Nvidia\", \"ONU\", \"Stephen Miller\", \"Thames Water\"]\ntemas: [\"Marte\", \"cambio climático\", \"capa de ozono\", \"chips\", \"ciberseguridad\", \"combustibles\", \"conflicto armado\", \"contratos tecnológicos\", \"crisis humanitaria\", \"desplazamiento\", \"deuda corporativa\", \"diplomacia\", \"diplomacia climática\", \"energía\", \"energía hidroeléctrica\", \"energía solar\", \"espionaje\", \"eventos extremos\", \"exploración espacial\", \"extrema derecha\", \"gobierno corporativo\", \"guerra\", \"huracanes\", \"indicadores económicos\", \"inflación\", \"infraestructura crítica\", \"infraestructura de datos\", \"infraestructura energética\", \"infraestructura fronteriza\", \"infraestructura hídrica\", \"inteligencia artificial\", \"inundaciones\", \"menores\", \"mercados bursátiles\", \"meteorología\", \"migración\", \"monitoreo atmosférico\", \"negociaciones climáticas\", \"negociaciones nucleares\", \"política interna\", \"precios de energía\", \"regulación tecnológica\", \"seguridad\", \"seguridad nacional\", \"servicios públicos\", \"terrorismo\", \"transición energética\", \"violencia armada\"]\nbucles_activos: [\"Armamentización de la Cadena de Suministro\", \"Impacto Societal y Financiero\"]\ncorte: \"2026-11-09T13:26:34.808500+00:00\"\ninicio_ventana: \"2026-11-08T13:26:34.808500+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-09\n\n## Resumen del día\n\nLa COP31 arrancó en Antalya reconociendo que la meta de 1.5°C del Acuerdo de París ya fue superada, mientras EE. UU. mantiene por segundo año su ausencia oficial (ev_728152e8d7, ev_6918665b7b).\nNvidia enfrenta una investigación de su junta sobre el CEO Jensen Huang por presunto espionaje chino, con caída bursátil del 5% y el anuncio de que demócratas en el Congreso usarán el caso para ampliar el escrutinio regulatorio (ev_03d980b094, ev_3e498e4d3a, ev_85c84e7e24).\nLa migración mortal marcó el día con naufragios frente a Creta (21 muertos) y Senegal (34 muertos), además de una nueva oleada hacia El Hierro, Canarias (ev_3f0f21c8d1, ev_7541c8ada0, ev_95395cbe88).\nInfraestructura crítica europea quedó bajo presión por ciberataques a sistemas de refrigeración y amenazas de bomba a vuelos, en paralelo a la demanda de la UE contra IBM, Atos y Leonardo por el sistema fronterizo (ev_633c20cc58, ev_f5dd13e6eb).\nEn el frente energético, drones incendiaron la segunda refinería más grande de Rusia en medio de ataques cruzados con Ucrania, mientras un colapso parcial en la represa Tarbela de Pakistán elevó el caudal de inundación (ev_7715d0e0b6, ev_62aa9f326c).\n\nVentana de 24 horas hasta 2026-11-09T13:26:34.808500+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, imf, iom, unhcr, un-en, consilium, esa, usda, bis, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_f7040bcbba\"></a>\n1. NASA reporta que el agujero de ozono de 2026 fue el séptimo más grande en 48 años — La NASA informó que el agujero de ozono antártico de 2026 alcanzó su máximo y se ubicó como el séptimo más extenso por área en 48 años de monitoreo, aunque no tan profundo como otros grandes agujeros registrados. — [NASA, Mon, 09 Nov 2026 05:00:00 +0000](https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/) · oficial.\n\n<a id=\"ev_1922f3f40d\"></a>\n2. NOAA descarta formación de ciclones tropicales en el Atlántico en los próximos 7 días — El Centro Nacional de Huracanes de NOAA indicó en su boletín oficial que no se espera formación de ciclones tropicales en el Atlántico norte, el mar Caribe ni el golfo de América durante los próximos siete días. — [NOAA · Centro Nacional de Huracanes, Mon, 09 Nov 2026 11:18:36 GMT](https://www.nhc.noaa.gov/gtwo.php?basin=atlc) · oficial.\n\n<a id=\"ev_728152e8d7\"></a>\n3. Arranca la COP31 en Antalya con el objetivo del Acuerdo de París ya superado — Líderes mundiales se reunieron en Antalya, Turquía, para la COP31. El presidente de las negociaciones, el ministro australiano Chris Bowen, reconoció que se superará la meta de 1.5°C de París pero instó a actuar con urgencia para revertirlo. — [The Guardian · Medio ambiente, Mon, 09 Nov 2026 13:08:33 GMT](https://www.theguardian.com/environment/live/2026/nov/09/cop31-climate-crisis-talks-turkey-latest-news-updates) · medio.\n\n<a id=\"ev_6918665b7b\"></a>\n4. Estados Unidos no tendrá presencia oficial en la COP31 mientras demócratas asisten envalentonados — Por segundo año consecutivo Estados Unidos no tendrá presencia gubernamental oficial en la cumbre climática de la ONU, según The Guardian, mientras legisladores demócratas asisten tras su victoria en las elecciones de mitad de mandato. — [The Guardian · Medio ambiente, Mon, 09 Nov 2026 06:00:01 GMT](https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms) · medio.\n\n<a id=\"ev_ad3f5ea073\"></a>\n5. Tormentas provocan inundaciones mortales en Irak e Irán mientras Portugal y Japón enfrentan clima severo — Violentas tormentas causaron inundaciones mortales en el norte de Irak, con lluvias que superaron pronósticos (80mm frente a 30mm esperados en Erbil) y dos muertos, además de afectar Irán, Portugal y Japón, según The Guardian. — [The Guardian, Mon, 09 Nov 2026 10:59:06 GMT](https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_cf59a00236\"></a>\n1. Google amplía su portafolio de TPU con los modelos 8tx y 8i Max — Google anunció dos nuevos sistemas de su octava generación de TPU, 8tx y 8i Max, diseñados para cargas de trabajo de IA agéntica, sumando cuatro sistemas TPU lanzados en un solo año según la empresa. — [Google, Mon, 09 Nov 2026 13:00:00 +0000](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/) · oficial.\n\n<a id=\"ev_2a13bf7dee\"></a>\n2. Meta expande la verificación de edad con IA para proteger a adolescentes en Instagram — Meta anunció la expansión global de su tecnología de estimación de edad basada en IA para incorporar a millones más de adolescentes a las protecciones de Cuentas Teen en Instagram, según su sala de prensa oficial. — [Meta, Mon, 09 Nov 2026 12:00:45 +0000](https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/) · oficial.\n\n<a id=\"ev_f86dc24f4b\"></a>\n3. NASA concluye segunda simulación de un año de misión a Marte — Cuatro voluntarios de investigación salieron el 31 de octubre del hábitat Mars Dune Alpha tras 378 días de simulación, completando la segunda misión CHAPEA de la NASA en preparación para futuras misiones humanas a Marte. — [NASA, Mon, 09 Nov 2026 11:00:00 +0000](https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/) · oficial.\n\n<a id=\"ev_03d980b094\"></a>\n4. Acciones de Nvidia caen 5% tras investigación sobre el CEO Jensen Huang por presunto espionaje chino — Nvidia lanzó una investigación independiente sobre su CEO Jensen Huang tras conocerse que mantuvo una relación con una empresaria china acusada de pasar información a Beijing; la acción cayó 5% según The Guardian y CNBC. — [The Guardian, Mon, 09 Nov 2026 11:54:21 GMT](https://www.theguardian.com/us-news/2026/nov/09/first-thing-nvidia-stocks-tumble-as-ceo-investigated-over-spy-claims) · medio.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_62aa9f326c\"></a>\n1. Colapso parcial en la represa Tarbela de Pakistán provoca aumento de agua de inundación — Una barrera protectora colapsó parcialmente en el proyecto hidroeléctrico Tarbela T-5, en construcción en Pakistán, provocando un aumento del caudal de agua de inundación, según Al Jazeera. — [Al Jazeera, Mon, 09 Nov 2026 12:16:20 +0000](https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge?traffic_source=rss) · medio.\n\n<a id=\"ev_f4dd7c2200\"></a>\n2. El crecimiento de la energía solar barata desafía todas las proyecciones, según BBC — La energía solar, gracias a sus bajos costos, se ha convertido en una de las principales fuentes de energía en varios países del mundo, superando las proyecciones previas, según un análisis de BBC Mundo. — [BBC Mundo, Mon, 09 Nov 2026 11:10:31 GMT](https://www.bbc.com/mundo/articles/cr4g1ee27w6po?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_1b8c3eb48c\"></a>\n3. Precios de la gasolina en EE.UU. podrían caer bajo los 4 dólares por primera vez desde julio — CNN reportó que los precios de la gasolina en Estados Unidos podrían caer por debajo de los 4 dólares el galón por primera vez desde julio, según datos de mercado citados por la cadena. — [CNN, 2026-11-09T13:23:04.369Z](https://www.cnn.com/2026/11/09/business/video/gas-prices-could-drop-below-usd4-for-first-time-since-july) · medio.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_f5dd13e6eb\"></a>\n1. La UE demanda a IBM, Atos y Leonardo por fallos en el sistema fronterizo de entrada y salida — La agencia EU-Lisa presentó una demanda contra IBM, Atos y Leonardo por retrasos y fallos en el sistema de entrada/salida fronterizo de la UE, lanzado en octubre de 2025, según un documento interno citado por The Guardian. — [The Guardian, Mon, 09 Nov 2026 10:49:23 GMT](https://www.theguardian.com/world/2026/nov/09/eu-lawsuit-ibm-atos-leonardo-entry-exit-border-system) · medio.\n\n<a id=\"ev_633c20cc58\"></a>\n2. Ciberataques y amenazas de bomba ponen a prueba las defensas de infraestructura crítica en Europa — CNBC reportó una ola de ciberataques contra refrigeradores de supermercados y amenazas de bomba que afectan vuelos de pasajeros, poniendo a prueba la capacidad de Europa para resistir disrupciones en infraestructura crucial. — [CNBC, Mon, 09 Nov 2026 08:59:16 GMT](https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html) · medio.\n\n<a id=\"ev_7715d0e0b6\"></a>\n3. Ataques con drones incendian la segunda mayor refinería de petróleo de Rusia — Al Jazeera reportó que drones incendiaron la segunda refinería de petróleo más grande de Rusia mientras Rusia y Ucrania intercambiaban ataques nocturnos contra infraestructura energética, dejando al menos cuatro muertos. — [Al Jazeera, Mon, 09 Nov 2026 10:08:45 +0000](https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss) · medio.\n\n## 5. Geopolítica\n\n<a id=\"ev_3e498e4d3a\"></a>\n1. Demócratas ven en el caso Huang una oportunidad para aumentar la fiscalización del Congreso a Nvidia — CNBC reportó que legisladores demócratas, envalentonados tras las elecciones de mitad de mandato, planean usar el escándalo de Jensen Huang para intensificar el escrutinio del Congreso sobre Nvidia y su seguridad nacional. — [CNBC, Mon, 09 Nov 2026 13:13:52 GMT](https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html) · medio.\n\n<a id=\"ev_667efa9773\"></a>\n2. Muere el autor del tiroteo de Cracovia que dejó seis muertos, mientras crece la polémica política — El atacante de 24 años que abrió fuego en el centro histórico de Cracovia murió en un hospital dos días después del ataque que dejó seis muertos y 16 heridos; el gobierno polaco y la oposición debaten posibles vínculos de extrema derecha, según France 24. — [France 24, Mon, 09 Nov 2026 13:06:59 GMT](https://www.france24.com/es/europa/20261109-muere-el-autor-del-tiroteo-que-dej%C3%B3-seis-v%C3%ADctimas-en-polonia-mientras-crece-la-pol%C3%A9mica-por-sus-motivaciones) · medio.\n\n<a id=\"ev_7ffd2363c5\"></a>\n3. Trump admite que su política de deportaciones fue 'demasiado dura' al nombrar a Miller jefe de gabinete — Donald Trump reconoció en una entrevista de CBS que su política de deportaciones fue 'demasiado dura' y ofreció negociar con demócratas, pese a nombrar a Stephen Miller, arquitecto de la política migratoria dura, como jefe de gabinete, según The Guardian. — [The Guardian, Mon, 09 Nov 2026 12:54:33 GMT](https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates) · medio.\n\n<a id=\"ev_f73cdb181a\"></a>\n4. Sudáfrica detiene a nueve extranjeros que intentaban viajar a combatir en Ucrania — La policía sudafricana detuvo a nueve extranjeros que presuntamente intentaban salir del país para combatir en Ucrania; las autoridades no revelaron sus nacionalidades pero confirmaron que ninguno residía en Sudáfrica, según BBC. — [BBC News, Mon, 09 Nov 2026 12:33:24 GMT](https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_e1ef016452\"></a>\n5. Primer ministro de Catar se reúne con Trump en medio de estancamiento en negociaciones con Irán — Irán presentó una propuesta de dos días desarrollada con mediadores cataríes que Washington está examinando, mientras el secretario de Estado Rubio expresó poca esperanza de un avance diplomático con Irán, según Al Jazeera. — [Al Jazeera, Mon, 09 Nov 2026 09:27:35 +0000](https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_aadfdfc4ff\"></a>\n1. Inflación mayorista de China alcanza su nivel más alto en más de cuatro años — El índice de precios al productor de China en octubre llegó a 5.7%, por encima del 5.3% esperado por economistas consultados por Reuters, mientras la inflación al consumidor se desaceleraba, según CNBC. — [CNBC, Mon, 09 Nov 2026 02:50:22 GMT](https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html) · medio.\n\n<a id=\"ev_38eb674f28\"></a>\n2. Thames Water pide a acreedores más tiempo para repagar deuda de 20.000 millones de libras — La mayor empresa de agua del Reino Unido propuso extender de 2027 a marzo de 2028 el plazo para pagar parte de su deuda de 20.000 millones de libras, según The Guardian. — [The Guardian, Mon, 09 Nov 2026 10:32:43 GMT](https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile) · medio.\n\n<a id=\"ev_85c84e7e24\"></a>\n3. Investigación sobre Huang genera nuevo revés para el comercio de IA en los mercados — MarketWatch reportó que la investigación de la junta de Nvidia sobre la relación de Jensen Huang con una presunta espía podría afectar el valor bursátil de la empresa, aunque Huang permanecerá en su cargo y cooperará con la pesquisa. — [MarketWatch, Mon, 09 Nov 2026 12:26:00 GMT](https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories) · medio.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_3f0f21c8d1\"></a>\n1. Al menos 21 migrantes mueren intentando llegar a Creta, Grecia — La guardia costera griega informó que al menos 21 migrantes y refugiados murieron en su intento de llegar a la isla de Creta, mientras más de 100 personas fueron rescatadas en varias operaciones, según Al Jazeera. — [Al Jazeera, Mon, 09 Nov 2026 12:06:19 +0000](https://www.aljazeera.com/news/2026/11/9/at-least-21-migrants-and-refugees-die-trying-to-reach-greeces-crete?traffic_source=rss) · medio.\n\n<a id=\"ev_7541c8ada0\"></a>\n2. Al menos 34 muertos tras naufragio de embarcación migrante frente a Senegal — Un naufragio frente a las costas de Senegal dejó al menos 34 muertos entre migrantes que buscaban llegar a las Islas Canarias españolas, en una de las rutas atlánticas más peligrosas, según BBC. — [BBC News, Mon, 09 Nov 2026 10:59:26 GMT](https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_95395cbe88\"></a>\n3. Más de 3.300 migrantes llegan a El Hierro en Canarias desde comienzos de noviembre — Más de 3.300 migrantes llegaron a la isla de El Hierro desde comienzos de noviembre en una nueva oleada migratoria que pone a prueba la capacidad de acogida del territorio, según France 24; autoridades locales advierten recursos insuficientes. — [France 24, Mon, 09 Nov 2026 02:31:07 GMT](https://www.france24.com/es/video/20261109-m%C3%A1s-de-3-300-migrantes-llegan-a-el-hierro-en-canarias-hay-capacidad-de-respuesta) · medio.\n\n<a id=\"ev_13cee853f8\"></a>\n4. Deslizamiento de tierra mata a cinco personas en campamento de desplazados en Gaza — Cuatro niños y una mujer murieron cuando lluvias intensas provocaron el colapso de un terraplén de arena sobre su tienda en Gaza; autoridades locales denunciaron 'inacción' global ante la crisis humanitaria, según Al Jazeera. — [Al Jazeera, Mon, 09 Nov 2026 10:50:49 +0000](https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Sin movimiento verificado hoy\n- Flujos de Recursos: Con movimiento — El colapso parcial de la represa Tarbela en Pakistán, un proyecto hidroeléctrico en construcción, provocó un aumento del caudal de agua de inundación (recursos), mientras en paralelo los drones incendiaron la segunda mayor refinería de petróleo de Rusia, afectando infraestructura energética que alimenta las cadenas de suministro de crudo (cadenas). Ambos hechos documentan disrupciones físicas de recursos energéticos e hídricos con impacto directo en infraestructura de suministro. [ev_62aa9f326c](#ev_62aa9f326c) [ev_7715d0e0b6](#ev_7715d0e0b6)\n- Flujos Cibernéticos y de Datos: Con movimiento — Una ola de ciberataques contra sistemas de refrigeración de supermercados y amenazas de bomba que afectaron vuelos de pasajeros puso a prueba las defensas de infraestructura crítica europea (cadenas), mientras en paralelo la agencia EU-Lisa demandó a IBM, Atos y Leonardo por fallos tecnológicos en el sistema fronterizo de entrada y salida de la UE (cadenas/tecnología), evidenciando tensión entre infraestructura digital y cadenas de suministro físico-fronterizas. Además, la investigación sobre el CEO de Nvidia por presunto espionaje chino conecta directamente tecnología con geopolítica, al generar interés del Congreso de EE. UU. para fiscalizar la empresa por motivos de seguridad nacional. [ev_633c20cc58](#ev_633c20cc58) [ev_f5dd13e6eb](#ev_f5dd13e6eb) [ev_03d980b094](#ev_03d980b094) [ev_3e498e4d3a](#ev_3e498e4d3a)\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Con movimiento — Los ataques con drones entre Rusia y Ucrania que incendiaron la segunda mayor refinería rusa muestran el uso de infraestructura energética como campo de batalla (geopolítica/cadenas). En paralelo, la investigación sobre el CEO de Nvidia por presunto espionaje chino —que ya genera planes del Congreso de EE. UU. para intensificar el escrutinio regulatorio de la empresa por motivos de seguridad nacional— conecta geopolítica con tecnología de semiconductores, un recurso estratégico en disputas comerciales. [ev_7715d0e0b6](#ev_7715d0e0b6) [ev_03d980b094](#ev_03d980b094) [ev_3e498e4d3a](#ev_3e498e4d3a)\n- Impacto Societal y Financiero: Con movimiento — Las muertes migrantes en Creta y frente a Senegal, junto con la oleada hacia El Hierro, documentan presión demográfica humanitaria (demografía). Paralelamente, Trump reconoció que su política de deportaciones fue 'demasiado dura' pese a nombrar a Stephen Miller —arquitecto de la línea dura migratoria— como jefe de gabinete (geopolítica), mostrando cómo la gestión migratoria se redefine en el tablero político. No hay en los hechos del día una conexión explícita que documente el lado financiero/asegurador de este fenómeno migratorio, por lo que el vínculo se limita a demografía-geopolítica. [ev_3f0f21c8d1](#ev_3f0f21c8d1) [ev_7541c8ada0](#ev_7541c8ada0) [ev_95395cbe88](#ev_95395cbe88) [ev_7ffd2363c5](#ev_7ffd2363c5)\n\n## Señales a vigilar\n\n- Posibilidad de que la investigación de la junta de Nvidia sobre Jensen Huang derive en audiencias o regulación adicional del Congreso de EE. UU., según lo adelantado por legisladores demócratas. [ev_3e498e4d3a](#ev_3e498e4d3a) [ev_85c84e7e24](#ev_85c84e7e24)\n- Posibilidad de que la demanda de la UE contra IBM, Atos y Leonardo derive en sanciones contractuales o rediseño del sistema fronterizo de entrada y salida. [ev_f5dd13e6eb](#ev_f5dd13e6eb)\n- Posibilidad de que continúen los ataques energéticos cruzados entre Rusia y Ucrania, con riesgo de nuevas disrupciones en infraestructura de refinación. [ev_7715d0e0b6](#ev_7715d0e0b6)\n- Posibilidad de que la COP31 produzca compromisos concretos pese al reconocimiento de que la meta de 1.5°C ya fue superada. [ev_728152e8d7](#ev_728152e8d7)\n- Posibilidad de que continúe la oleada migratoria hacia El Hierro y se agrave la capacidad de acogida en Canarias. [ev_95395cbe88](#ev_95395cbe88)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-06T11:59:56+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-11-06T08:00:00+00:00 |\n| NASA | oficial | Disponible | 4 | 2026-11-09T11:00:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 0 | 2026-11-06T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-11-06T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-06T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-07T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 0 | 2026-11-05T16:00:00+00:00 |\n| BCE | oficial | Disponible | 0 | 2026-11-07T14:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | No disponible | 0 | Sin fecha verificable |\n| Consejo de la Unión Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 2 | 2026-11-09T13:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 1 | 2026-11-09T12:00:45+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-10-09T15:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-10T23:18:36+00:00 |\n| NASA · Comunicados | oficial | Disponible | 4 | 2026-11-09T11:00:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-11-05T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | No disponible | 0 | Sin fecha verificable |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-11-05T12:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-09T06:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-02T22:50:54+00:00 |\n| BBC News | medio | Disponible | 18 | 2026-11-09T13:10:32+00:00 |\n| BBC Mundo | medio | Disponible | 11 | 2026-11-09T13:22:21+00:00 |\n| CNN | medio | Disponible | 58 | 2026-11-09T13:23:04.369000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-09T13:06:59+00:00 |\n| The Guardian | medio | Disponible | 26 | 2026-11-09T13:13:10+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-09T12:16:20+00:00 |\n| El País | medio | Disponible | 18 | 2026-11-09T12:39:07+00:00 |\n| CNBC | medio | Disponible | 14 | 2026-11-09T13:13:52+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-09T12:27:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 11 | 2026-11-09T13:08:33+00:00 |\n| BBC · Tecnología | medio | Disponible | 2 | 2026-11-09T13:10:32+00:00 |\n| BBC · Economía | medio | Disponible | 11 | 2026-11-09T13:10:32+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-09\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Antalya\", \"Antártida\", \"Atlántico\", \"Canarias\", \"Caribe\", \"Cracovia\", \"Creta\", \"El Hierro\", \"Erbil\", \"Gaza\", \"Houston\", \"Islas Canarias\", \"Senegal\", \"Tarbela\"]\npaises: [\"Australia\", \"Catar\", \"China\", \"España\", \"Estados Unidos\", \"Grecia\", \"Irak\", \"Irán\", \"Japón\", \"Pakistán\", \"Palestina\", \"Polonia\", \"Portugal\", \"Reino Unido\", \"Rusia\", \"Senegal\", \"Sudáfrica\", \"Turquía\", \"Ucrania\", \"Unión Europea\"]\nentidades: [\"Atos\", \"COP31\", \"Congreso de Estados Unidos\", \"Donald Trump\", \"EU-Lisa\", \"Google\", \"IBM\", \"Instagram\", \"Jensen Huang\", \"Leonardo\", \"Marco Rubio\", \"Meta\", \"NASA\", \"NOAA\", \"Nvidia\", \"ONU\", \"Stephen Miller\", \"Thames Water\"]\ntemas: [\"Marte\", \"cambio climático\", \"capa de ozono\", \"chips\", \"ciberseguridad\", \"combustibles\", \"conflicto armado\", \"contratos tecnológicos\", \"crisis humanitaria\", \"desplazamiento\", \"deuda corporativa\", \"diplomacia\", \"diplomacia climática\", \"energía\", \"energía hidroeléctrica\", \"energía solar\", \"espionaje\", \"eventos extremos\", \"exploración espacial\", \"extrema derecha\", \"gobierno corporativo\", \"guerra\", \"huracanes\", \"indicadores económicos\", \"inflación\", \"infraestructura crítica\", \"infraestructura de datos\", \"infraestructura energética\", \"infraestructura fronteriza\", \"infraestructura hídrica\", \"inteligencia artificial\", \"inundaciones\", \"menores\", \"mercados bursátiles\", \"meteorología\", \"migración\", \"monitoreo atmosférico\", \"negociaciones climáticas\", \"negociaciones nucleares\", \"política interna\", \"precios de energía\", \"regulación tecnológica\", \"seguridad\", \"seguridad nacional\", \"servicios públicos\", \"terrorismo\", \"transición energética\", \"violencia armada\"]\nbucles_activos: [\"Armamentización de la Cadena de Suministro\", \"Impacto Societal y Financiero\"]\ncorte: \"2026-11-09T13:26:34.808500+00:00\"\ninicio_ventana: \"2026-11-08T13:26:34.808500+00:00\"\nestado: \"completo\"\n```\n",
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-10\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Abu Dabi\", \"California\", \"Creta\", \"El Hierro\", \"Estados Unidos\", \"Kuwait\", \"Reino Unido\", \"Turquía\"]\npaises: [\"Alemania\", \"Australia\", \"China\", \"Emiratos Árabes Unidos\", \"España\", \"Estados Unidos\", \"Francia\", \"Grecia\", \"Irán\", \"Japón\", \"Kuwait\", \"Reino Unido\", \"Rusia\", \"Turquía\", \"Ucrania\", \"Unión Europea\"]\nentidades: [\"Anthony Albanese\", \"Anthropic\", \"Brent\", \"Christopher Waller\", \"Congreso de EE.UU.\", \"Consejo de Cooperación del Golfo\", \"Cop31\", \"Cuerpo de Guardianes de la Revolución Islámica\", \"Cámara de Comercio de la UE en China\", \"FBI\", \"Fuerzas Armadas de Estados Unidos\", \"Gobierno de Estados Unidos\", \"Intel\", \"Jensen Huang\", \"John Kerry\", \"NOAA\", \"Nvidia\", \"OTAN\", \"OpenAI\", \"Reserva Federal\", \"Senado de Estados Unidos\", \"Servicios Australia\", \"SoftBank\", \"SpaceX\", \"Unión Europea\"]\ntemas: [\"Canarias\", \"China\", \"Golfo\", \"IPO\", \"Irán\", \"OTAN\", \"bases militares\", \"cadenas de suministro\", \"cambio climático\", \"centros de datos\", \"ciberataques\", \"ciberseguridad\", \"clima\", \"combustibles fósiles\", \"comercio\", \"competitividad\", \"controles de exportación\", \"crisis humanitaria\", \"defensa\", \"desbalance comercial\", \"diplomacia\", \"emisiones de carbono\", \"energía\", \"energía verde\", \"espionaje\", \"gobierno corporativo\", \"gobierno digital\", \"guerra en Ucrania\", \"inflación\", \"infraestructura\", \"infraestructura crítica\", \"inteligencia artificial\", \"manufactura\", \"mercados\", \"migración\", \"naufragios\", \"negociaciones de paz\", \"permisos regulatorios\", \"política monetaria\", \"precio del petróleo\", \"regulación de IA\", \"resultados financieros\", \"récords climáticos\", \"sanciones\", \"seguridad nacional\", \"seguridad regional\", \"semiconductores\", \"superávit comercial\", \"tasas de interés\", \"tecnología\", \"temperatura\", \"tensión militar\", \"transición energética\", \"valoración\"]\nbucles_activos: []\ncorte: \"2026-11-10T13:05:17.112135+00:00\"\ninicio_ventana: \"2026-11-09T13:05:17.112135+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-10\n\n## Resumen del día\n\nLas negociaciones trilaterales Rusia-Ucrania-EE.UU. en Abu Dabi marcan el primer acercamiento diplomático sustantivo desde febrero, sin participación de la UE.\nEl escándalo de espionaje vinculado a Jensen Huang se extiende de lo corporativo a lo geopolítico, reabriendo el debate sobre controles de exportación de chips a China.\nFrancia acusa a Irán de ciberataques contra infraestructura de refrigeración comercial y evalúa sanciones, mientras persisten tensiones militares en bases de EE.UU. en Reino Unido.\nAnthropic avanza hacia una OPI que podría valorarla en más de un billón de dólares, en paralelo a señales mixtas en la Fed sobre una posible alza de tasas en diciembre.\nCrisis migratorias simultáneas en El Hierro (España) y frente a Creta (Grecia) evidencian presión sostenida sobre rutas de migración hacia Europa.\n\nVentana de 24 horas hasta 2026-11-10T13:05:17.112135+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, imf, iom, unhcr, un-en, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_cf105f10ce\"></a>\n1. Emisiones de carbono por combustibles fósiles se estabilizan en 2026 según científicos previo a la Cop31 — The Guardian reportó una evaluación científica presentada en la Cop31 que proyecta un estancamiento de las emisiones globales de CO2 por combustibles fósiles en 2026, con caída del 2% en emisiones de petróleo por mayor uso de vehículos eléctricos. — [The Guardian · Medio ambiente, Tue, 10 Nov 2026 11:55:06 GMT](https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push) · medio.\n\n<a id=\"ev_4257c86ccf\"></a>\n2. Kerry dice que EE.UU. y el mundo deben seguir el liderazgo de China en energía verde — The Guardian reportó declaraciones del exsecretario de Estado John Kerry señalando que China ha 'acelerado enormemente' su transición energética mientras otros países 'van a tropezones', en el marco de la Cop31 en Turquía. — [The Guardian, Tue, 10 Nov 2026 12:08:23 GMT](https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31) · medio.\n\n<a id=\"ev_21c9234542\"></a>\n3. NOAA: octubre fue el cuarto más cálido en EE.UU. en 132 años de registros — NOAA informó que la temperatura promedio en EE.UU. continental en octubre fue de 58.7°F, 4.6°F por encima del promedio del siglo XX, el cuarto octubre más cálido registrado en 132 años. — [NOAA NCEI, Mon, 09 Nov 2026 11:00:00 -0500](https://www.ncei.noaa.gov/news/national-climate-202610) · oficial.\n\n## 2. Tecnología\n\n<a id=\"ev_e9fd20497a\"></a>\n1. Nvidia y Jensen Huang demandados por presunta relación con espía china — The Guardian reportó una demanda en California contra Nvidia y su CEO Jensen Huang por presuntamente engañar a accionistas en relación al escándalo de espionaje chino, mientras Trump dijo que el FBI investiga el caso. — [The Guardian, Tue, 10 Nov 2026 12:45:54 GMT](https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi) · medio.\n\n<a id=\"ev_fb1e47a99d\"></a>\n2. Escándalo de espionaje de Huang complica relación de Nvidia con China — CNBC reportó que las acusaciones contra Jensen Huang atrajeron nueva atención sobre su influencia potencial en la política estadounidense de ventas de chips a China. — [CNBC, Tue, 10 Nov 2026 12:00:01 GMT](https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html) · medio.\n\n<a id=\"ev_933cf0f1cf\"></a>\n3. Escándalo de espía en Nvidia aviva debate sobre exportación de chips a China — Al Jazeera reportó que legisladores estadounidenses piden restricciones más estrictas a la venta de chips mientras continúa la investigación sobre la relación del CEO de Nvidia con una presunta espía china. — [Al Jazeera, Tue, 10 Nov 2026 09:42:04 +0000](https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss) · medio.\n\n<a id=\"ev_0ae301a9ba\"></a>\n4. Australia prepara reporte obligatorio tras hackeo de OpenAI que vulneró sitios gubernamentales — The Guardian reportó que el gobierno australiano anunció cambios en la ley penal tras una revisión del hackeo de junio a un portal de Medicare por un agente de OpenAI, sin sanciones penales para la empresa. — [The Guardian, Tue, 10 Nov 2026 06:00:52 GMT](https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack) · medio.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_83ffa7629f\"></a>\n1. Brent cae bajo $90 por primera vez desde agosto ante esperanzas de desescalada en Irán — CNBC reportó que el crudo Brent cayó por debajo de $90 tras declaraciones de Trump de que el conflicto con Irán 'va a terminar bastante pronto', aunque analistas ven poca probabilidad de paz duradera. — [CNBC, Tue, 10 Nov 2026 10:38:49 GMT](https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html) · medio.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_a05c06cb79\"></a>\n1. Superávit comercial de China supera el billón de dólares por segundo año consecutivo — CNBC reportó que el superávit comercial de China superó el billón de dólares hasta octubre, intensificando quejas de socios comerciales por el exceso de bienes chinos baratos en el mercado global. — [CNBC, Tue, 10 Nov 2026 10:24:13 GMT](https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html) · medio.\n\n<a id=\"ev_f6419ca20f\"></a>\n2. Fabricantes europeos podrían renunciar a competir con China para 2030, advierte cámara de comercio — The Guardian reportó declaraciones de Jens Eskelund, de la Cámara de Comercio de la UE en China, advirtiendo que fabricantes europeos podrían integrarse a cadenas de suministro chinas ante pérdidas masivas de empleo. — [The Guardian, Tue, 10 Nov 2026 06:00:30 GMT](https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund) · medio.\n\n<a id=\"ev_8ba29cf73b\"></a>\n3. Senado de EE.UU. avanza proyecto de ley para acelerar permisos de infraestructura energética — The Guardian reportó que el Senado estadounidense avanzó la ley bipartidista Baaja para agilizar permisos de centros de datos, oleoductos y líneas de transmisión, pese a oposición de grupos ambientalistas. — [The Guardian · Medio ambiente, Tue, 10 Nov 2026 02:28:00 GMT](https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote) · medio.\n\n## 5. Geopolítica\n\n<a id=\"ev_34adfdf9df\"></a>\n1. Francia acusa a Irán de ciberataques contra refrigeradores de supermercados — CNBC reportó que Francia acusó al Cuerpo de Guardianes de la Revolución Islámica de Irán de una campaña cibernética sin precedentes contra sistemas de refrigeración de supermercados, con daños de millones de euros, y evalúa sanciones. — [CNBC, Tue, 10 Nov 2026 09:34:24 GMT](https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html) · medio.\n\n<a id=\"ev_50cf8b0cbd\"></a>\n2. EE.UU. busca 'fin definitivo' a la guerra Rusia-Ucrania en conversaciones de Abu Dabi — The Guardian reportó que funcionarios estadounidenses iniciaron en Abu Dabi las primeras negociaciones trilaterales sustantivas entre Rusia y Ucrania desde febrero, incluyendo una propuesta de arquitectura de seguridad a largo plazo. — [The Guardian, Tue, 10 Nov 2026 12:48:32 GMT](https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks) · medio.\n\n<a id=\"ev_d6f10f3f87\"></a>\n3. Arrancan en Abu Dabi negociaciones trilaterales Rusia-Ucrania-EE.UU. sin la UE — El País reportó que iniciaron en Abu Dabi las primeras negociaciones en nueve meses entre Rusia, Ucrania y EE.UU., con la UE excluida, mientras Moscú busca centrar la discusión en el repliegue de tropas de la OTAN. — [El País, Tue, 10 Nov 2026 11:58:20 GMT](https://elpais.com/internacional/2026-11-10/arrancan-en-abu-dabi-las-negociaciones-entre-rusia-ucrania-y-ee-uu-las-primeras-en-nueve-meses.html) · medio.\n\n<a id=\"ev_448b1f50bc\"></a>\n4. El CCG acuerda crear sede militar avanzada en Kuwait — Al Jazeera reportó que los líderes del Consejo de Cooperación del Golfo acordaron establecer una sede militar de comando avanzada en Kuwait para fortalecer la coordinación de defensa regional. — [Al Jazeera, Tue, 10 Nov 2026 12:09:54 +0000](https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss) · medio.\n\n<a id=\"ev_fbf1764d02\"></a>\n5. EE.UU. retira aviones de otra base británica por presuntas amenazas de Irán — El País, citando al Wall Street Journal, reportó que EE.UU. desplazó aeronaves cisterna desde una base en Reino Unido hacia Alemania y otras localizaciones por presuntas amenazas iraníes. — [El País, Tue, 10 Nov 2026 11:33:48 GMT](https://elpais.com/internacional/2026-11-10/estados-unidos-retira-sus-aviones-de-otra-base-del-reino-unido-por-presuntas-amenazas-de-iran.html) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_57bd48f43c\"></a>\n1. Anthropic fija rango de precio de IPO entre $70 y $78, cotizará el 19 de noviembre — Según fuentes citadas por CNBC, Anthropic fijó un rango de precio de $70 a $78 por acción para su OPI, que comenzaría a cotizar el 19 de noviembre, semanas después de la salida a bolsa de SpaceX. — [CNBC, Tue, 10 Nov 2026 12:57:27 GMT](https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html) · medio.\n\n<a id=\"ev_c31ce20412\"></a>\n2. Anthropic busca valoración superior a un billón de dólares en su OPI — MarketWatch reportó que Anthropic podría recaudar hasta $63.000 millones en una OPI prevista para la próxima semana, con una valoración que superaría el billón de dólares. — [MarketWatch, Tue, 10 Nov 2026 12:32:00 GMT](https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories) · medio.\n\n<a id=\"ev_b88c2a785f\"></a>\n3. SoftBank registra pérdida de $7.000 millones por caída de centros de datos e Intel — CNBC reportó que SoftBank Group anunció resultados del segundo trimestre fiscal con una pérdida de $7.000 millones, afectada por su exposición a centros de datos en EE.UU. y la caída en acciones de Intel. — [CNBC, Tue, 10 Nov 2026 09:01:37 GMT](https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html) · medio.\n\n<a id=\"ev_e16099b8f2\"></a>\n4. Gobernador Waller de la Fed pone sobre la mesa alza de medio punto para diciembre — MarketWatch reportó que el gobernador de la Reserva Federal, Christopher Waller, dijo que se inclina por un alza de tasas en diciembre y podría respaldar un incremento de medio punto según los datos de inflación de octubre. — [MarketWatch, Tue, 10 Nov 2026 09:45:00 GMT](https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories) · medio.\n\n<a id=\"ev_de71b6985d\"></a>\n5. Gobernador Waller de la Fed anticipa alza en diciembre, abre puerta a incremento de medio punto — CNBC reportó declaraciones del gobernador de la Reserva Federal Christopher Waller indicando que se inclina hacia un alza de tasas en diciembre, posiblemente de medio punto, dependiendo de los datos de inflación. — [CNBC, Tue, 10 Nov 2026 09:00:01 GMT](https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html) · medio.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_8cba56f158\"></a>\n1. El Hierro recibe 8.000 migrantes en barca en cinco semanas, sistema sanitario al borde del colapso — BBC Mundo reportó que la isla canaria de El Hierro, con 12.000 habitantes, ha recibido 8.000 migrantes en cayucos en las últimas cinco semanas, llevando al sistema sanitario al límite. — [El País, Tue, 10 Nov 2026 00:38:57 GMT](https://elpais.com/us/2026-11-10/es-momento-de-que-nos-unamos-talarico-hace-un-guino-al-bipartidismo-en-un-encuentro-con-su-predecesor-republicano.html) · medio.\n\n<a id=\"ev_3cecb17c14\"></a>\n2. Al menos 20 migrantes muertos en cuatro días de naufragios frente a Creta — France 24, citando a la televisión pública griega, reportó que al menos 20 migrantes africanos murieron entre el 6 y el 9 de noviembre en naufragios cerca de Creta mientras intentaban llegar a Europa continental. — [France 24, Tue, 10 Nov 2026 03:30:13 GMT](https://www.france24.com/es/video/20261110-al-menos-20-migrantes-muertos-en-cuatro-d%C3%ADas-de-naufragios-frente-a-creta) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Con movimiento — La caída del Brent por debajo de $90 (recursos) se vincula directamente a declaraciones de Trump sobre una desescalada 'bastante pronto' del conflicto con Irán, en el contexto de las negociaciones trilaterales Rusia-Ucrania-EE.UU. iniciadas en Abu Dabi (geopolítica), mostrando cómo la dinámica diplomática mueve el precio de los recursos energéticos. [ev_83ffa7629f](#ev_83ffa7629f) [ev_50cf8b0cbd](#ev_50cf8b0cbd) [ev_d6f10f3f87](#ev_d6f10f3f87)\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Posibilidad de sanciones francesas contra Irán por los ciberataques a sistemas de refrigeración, lo que podría escalar la tensión bilateral. [ev_34adfdf9df](#ev_34adfdf9df)\n- Posible ampliación de restricciones legislativas en EE.UU. a la exportación de chips a China si avanza la investigación sobre Jensen Huang. [ev_933cf0f1cf](#ev_933cf0f1cf) [ev_fb1e47a99d](#ev_fb1e47a99d)\n- Posible acuerdo de seguridad de largo plazo entre Rusia, Ucrania y EE.UU. si las conversaciones de Abu Dabi progresan en próximas rondas. [ev_50cf8b0cbd](#ev_50cf8b0cbd) [ev_d6f10f3f87](#ev_d6f10f3f87)\n- Posible alza de tasas de medio punto por parte de la Fed en diciembre, condicionada a los datos de inflación de octubre según Waller. [ev_e16099b8f2](#ev_e16099b8f2) [ev_de71b6985d](#ev_de71b6985d)\n- Posible profundización de la crisis sanitaria en El Hierro si continúa el ritmo de llegadas migratorias. [ev_8cba56f158](#ev_8cba56f158)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-06T11:59:56+00:00 |\n| OpenAI | oficial | Disponible | 3 | 2026-11-10T12:00:00+00:00 |\n| NASA | oficial | Disponible | 10 | 2026-11-10T05:05:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 0 | 2026-11-06T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-11-06T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-09T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-09T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 1 | 2026-11-09T21:00:00+00:00 |\n| BCE | oficial | Disponible | 0 | 2026-11-07T14:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | No disponible | 0 | Sin fecha verificable |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 3 | 2026-11-10T13:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-11-09T12:00:45+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 1 | 2026-11-09T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-11T23:23:52+00:00 |\n| NASA · Comunicados | oficial | Disponible | 10 | 2026-11-10T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-11-05T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 1 | 2026-11-10T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 1 | 2026-11-10T12:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-09T23:50:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-05T15:27:25+00:00 |\n| BBC News | medio | Disponible | 28 | 2026-11-10T13:01:03+00:00 |\n| BBC Mundo | medio | Disponible | 14 | 2026-11-10T11:58:04+00:00 |\n| CNN | medio | Disponible | 97 | 2026-11-10T13:00:15.222000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-10T12:29:44+00:00 |\n| The Guardian | medio | Disponible | 25 | 2026-11-10T12:52:06+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-10T12:56:41+00:00 |\n| El País | medio | Disponible | 18 | 2026-11-10T12:48:01+00:00 |\n| CNBC | medio | Disponible | 30 | 2026-11-10T13:00:01+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-10T12:33:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 5 | 2026-11-10T12:47:35+00:00 |\n| BBC · Tecnología | medio | Disponible | 8 | 2026-11-10T13:01:03+00:00 |\n| BBC · Economía | medio | Disponible | 22 | 2026-11-10T13:01:03+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-10\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Abu Dabi\", \"California\", \"Creta\", \"El Hierro\", \"Estados Unidos\", \"Kuwait\", \"Reino Unido\", \"Turquía\"]\npaises: [\"Alemania\", \"Australia\", \"China\", \"Emiratos Árabes Unidos\", \"España\", \"Estados Unidos\", \"Francia\", \"Grecia\", \"Irán\", \"Japón\", \"Kuwait\", \"Reino Unido\", \"Rusia\", \"Turquía\", \"Ucrania\", \"Unión Europea\"]\nentidades: [\"Anthony Albanese\", \"Anthropic\", \"Brent\", \"Christopher Waller\", \"Congreso de EE.UU.\", \"Consejo de Cooperación del Golfo\", \"Cop31\", \"Cuerpo de Guardianes de la Revolución Islámica\", \"Cámara de Comercio de la UE en China\", \"FBI\", \"Fuerzas Armadas de Estados Unidos\", \"Gobierno de Estados Unidos\", \"Intel\", \"Jensen Huang\", \"John Kerry\", \"NOAA\", \"Nvidia\", \"OTAN\", \"OpenAI\", \"Reserva Federal\", \"Senado de Estados Unidos\", \"Servicios Australia\", \"SoftBank\", \"SpaceX\", \"Unión Europea\"]\ntemas: [\"Canarias\", \"China\", \"Golfo\", \"IPO\", \"Irán\", \"OTAN\", \"bases militares\", \"cadenas de suministro\", \"cambio climático\", \"centros de datos\", \"ciberataques\", \"ciberseguridad\", \"clima\", \"combustibles fósiles\", \"comercio\", \"competitividad\", \"controles de exportación\", \"crisis humanitaria\", \"defensa\", \"desbalance comercial\", \"diplomacia\", \"emisiones de carbono\", \"energía\", \"energía verde\", \"espionaje\", \"gobierno corporativo\", \"gobierno digital\", \"guerra en Ucrania\", \"inflación\", \"infraestructura\", \"infraestructura crítica\", \"inteligencia artificial\", \"manufactura\", \"mercados\", \"migración\", \"naufragios\", \"negociaciones de paz\", \"permisos regulatorios\", \"política monetaria\", \"precio del petróleo\", \"regulación de IA\", \"resultados financieros\", \"récords climáticos\", \"sanciones\", \"seguridad nacional\", \"seguridad regional\", \"semiconductores\", \"superávit comercial\", \"tasas de interés\", \"tecnología\", \"temperatura\", \"tensión militar\", \"transición energética\", \"valoración\"]\nbucles_activos: []\ncorte: \"2026-11-10T13:05:17.112135+00:00\"\ninicio_ventana: \"2026-11-09T13:05:17.112135+00:00\"\nestado: \"completo\"\n```\n",
   "nexo": {
     "resumen": [
-      "La COP31 arrancó en Antalya reconociendo que la meta de 1.5°C del Acuerdo de París ya fue superada, mientras EE. UU. mantiene por segundo año su ausencia oficial (ev_728152e8d7, ev_6918665b7b).",
-      "Nvidia enfrenta una investigación de su junta sobre el CEO Jensen Huang por presunto espionaje chino, con caída bursátil del 5% y el anuncio de que demócratas en el Congreso usarán el caso para ampliar el escrutinio regulatorio (ev_03d980b094, ev_3e498e4d3a, ev_85c84e7e24).",
-      "La migración mortal marcó el día con naufragios frente a Creta (21 muertos) y Senegal (34 muertos), además de una nueva oleada hacia El Hierro, Canarias (ev_3f0f21c8d1, ev_7541c8ada0, ev_95395cbe88).",
-      "Infraestructura crítica europea quedó bajo presión por ciberataques a sistemas de refrigeración y amenazas de bomba a vuelos, en paralelo a la demanda de la UE contra IBM, Atos y Leonardo por el sistema fronterizo (ev_633c20cc58, ev_f5dd13e6eb).",
-      "En el frente energético, drones incendiaron la segunda refinería más grande de Rusia en medio de ataques cruzados con Ucrania, mientras un colapso parcial en la represa Tarbela de Pakistán elevó el caudal de inundación (ev_7715d0e0b6, ev_62aa9f326c)."
+      "Las negociaciones trilaterales Rusia-Ucrania-EE.UU. en Abu Dabi marcan el primer acercamiento diplomático sustantivo desde febrero, sin participación de la UE.",
+      "El escándalo de espionaje vinculado a Jensen Huang se extiende de lo corporativo a lo geopolítico, reabriendo el debate sobre controles de exportación de chips a China.",
+      "Francia acusa a Irán de ciberataques contra infraestructura de refrigeración comercial y evalúa sanciones, mientras persisten tensiones militares en bases de EE.UU. en Reino Unido.",
+      "Anthropic avanza hacia una OPI que podría valorarla en más de un billón de dólares, en paralelo a señales mixtas en la Fed sobre una posible alza de tasas en diciembre.",
+      "Crisis migratorias simultáneas en El Hierro (España) y frente a Creta (Grecia) evidencian presión sostenida sobre rutas de migración hacia Europa."
     ],
     "flujos": {
       "Presión Climática": {
@@ -1136,27 +1023,23 @@
         "hechos": []
       },
       "Palanca Geopolítica": {
+        "estado": "Con movimiento",
+        "texto": "La caída del Brent por debajo de $90 (recursos) se vincula directamente a declaraciones de Trump sobre una desescalada 'bastante pronto' del conflicto con Irán, en el contexto de las negociaciones trilaterales Rusia-Ucrania-EE.UU. iniciadas en Abu Dabi (geopolítica), mostrando cómo la dinámica diplomática mueve el precio de los recursos energéticos.",
+        "hechos": [
+          "ev_83ffa7629f",
+          "ev_50cf8b0cbd",
+          "ev_d6f10f3f87"
+        ]
+      },
+      "Flujos de Recursos": {
         "estado": "Sin movimiento verificado hoy",
         "texto": "",
         "hechos": []
       },
-      "Flujos de Recursos": {
-        "estado": "Con movimiento",
-        "texto": "El colapso parcial de la represa Tarbela en Pakistán, un proyecto hidroeléctrico en construcción, provocó un aumento del caudal de agua de inundación (recursos), mientras en paralelo los drones incendiaron la segunda mayor refinería de petróleo de Rusia, afectando infraestructura energética que alimenta las cadenas de suministro de crudo (cadenas). Ambos hechos documentan disrupciones físicas de recursos energéticos e hídricos con impacto directo en infraestructura de suministro.",
-        "hechos": [
-          "ev_62aa9f326c",
-          "ev_7715d0e0b6"
-        ]
-      },
       "Flujos Cibernéticos y de Datos": {
-        "estado": "Con movimiento",
-        "texto": "Una ola de ciberataques contra sistemas de refrigeración de supermercados y amenazas de bomba que afectaron vuelos de pasajeros puso a prueba las defensas de infraestructura crítica europea (cadenas), mientras en paralelo la agencia EU-Lisa demandó a IBM, Atos y Leonardo por fallos tecnológicos en el sistema fronterizo de entrada y salida de la UE (cadenas/tecnología), evidenciando tensión entre infraestructura digital y cadenas de suministro físico-fronterizas. Además, la investigación sobre el CEO de Nvidia por presunto espionaje chino conecta directamente tecnología con geopolítica, al generar interés del Congreso de EE. UU. para fiscalizar la empresa por motivos de seguridad nacional.",
-        "hechos": [
-          "ev_633c20cc58",
-          "ev_f5dd13e6eb",
-          "ev_03d980b094",
-          "ev_3e498e4d3a"
-        ]
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
       }
     },
     "bucles": {
@@ -1166,55 +1049,48 @@
         "hechos": []
       },
       "Armamentización de la Cadena de Suministro": {
-        "estado": "Con movimiento",
-        "texto": "Los ataques con drones entre Rusia y Ucrania que incendiaron la segunda mayor refinería rusa muestran el uso de infraestructura energética como campo de batalla (geopolítica/cadenas). En paralelo, la investigación sobre el CEO de Nvidia por presunto espionaje chino —que ya genera planes del Congreso de EE. UU. para intensificar el escrutinio regulatorio de la empresa por motivos de seguridad nacional— conecta geopolítica con tecnología de semiconductores, un recurso estratégico en disputas comerciales.",
-        "hechos": [
-          "ev_7715d0e0b6",
-          "ev_03d980b094",
-          "ev_3e498e4d3a"
-        ]
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
       },
       "Impacto Societal y Financiero": {
-        "estado": "Con movimiento",
-        "texto": "Las muertes migrantes en Creta y frente a Senegal, junto con la oleada hacia El Hierro, documentan presión demográfica humanitaria (demografía). Paralelamente, Trump reconoció que su política de deportaciones fue 'demasiado dura' pese a nombrar a Stephen Miller —arquitecto de la línea dura migratoria— como jefe de gabinete (geopolítica), mostrando cómo la gestión migratoria se redefine en el tablero político. No hay en los hechos del día una conexión explícita que documente el lado financiero/asegurador de este fenómeno migratorio, por lo que el vínculo se limita a demografía-geopolítica.",
-        "hechos": [
-          "ev_3f0f21c8d1",
-          "ev_7541c8ada0",
-          "ev_95395cbe88",
-          "ev_7ffd2363c5"
-        ]
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
       }
     },
     "senales": [
       {
-        "texto": "Posibilidad de que la investigación de la junta de Nvidia sobre Jensen Huang derive en audiencias o regulación adicional del Congreso de EE. UU., según lo adelantado por legisladores demócratas.",
+        "texto": "Posibilidad de sanciones francesas contra Irán por los ciberataques a sistemas de refrigeración, lo que podría escalar la tensión bilateral.",
         "hechos": [
-          "ev_3e498e4d3a",
-          "ev_85c84e7e24"
+          "ev_34adfdf9df"
         ]
       },
       {
-        "texto": "Posibilidad de que la demanda de la UE contra IBM, Atos y Leonardo derive en sanciones contractuales o rediseño del sistema fronterizo de entrada y salida.",
+        "texto": "Posible ampliación de restricciones legislativas en EE.UU. a la exportación de chips a China si avanza la investigación sobre Jensen Huang.",
         "hechos": [
-          "ev_f5dd13e6eb"
+          "ev_933cf0f1cf",
+          "ev_fb1e47a99d"
         ]
       },
       {
-        "texto": "Posibilidad de que continúen los ataques energéticos cruzados entre Rusia y Ucrania, con riesgo de nuevas disrupciones en infraestructura de refinación.",
+        "texto": "Posible acuerdo de seguridad de largo plazo entre Rusia, Ucrania y EE.UU. si las conversaciones de Abu Dabi progresan en próximas rondas.",
         "hechos": [
-          "ev_7715d0e0b6"
+          "ev_50cf8b0cbd",
+          "ev_d6f10f3f87"
         ]
       },
       {
-        "texto": "Posibilidad de que la COP31 produzca compromisos concretos pese al reconocimiento de que la meta de 1.5°C ya fue superada.",
+        "texto": "Posible alza de tasas de medio punto por parte de la Fed en diciembre, condicionada a los datos de inflación de octubre según Waller.",
         "hechos": [
-          "ev_728152e8d7"
+          "ev_e16099b8f2",
+          "ev_de71b6985d"
         ]
       },
       {
-        "texto": "Posibilidad de que continúe la oleada migratoria hacia El Hierro y se agrave la capacidad de acogida en Canarias.",
+        "texto": "Posible profundización de la crisis sanitaria en El Hierro si continúa el ritmo de llegadas migratorias.",
         "hechos": [
-          "ev_95395cbe88"
+          "ev_8cba56f158"
         ]
       }
     ],
@@ -1232,12 +1108,12 @@
     },
     "openai": {
       "ok": true,
-      "piezas": 1368,
+      "piezas": 1374,
       "fuente": "OpenAI",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-06T08:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-10T12:00:00+00:00",
+      "recientes": 3
     },
     "nasa": {
       "ok": true,
@@ -1245,8 +1121,8 @@
       "fuente": "NASA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-09T11:00:00+00:00",
-      "recientes": 4
+      "ultima_publicacion": "2026-11-10T05:05:00+00:00",
+      "recientes": 10
     },
     "cisa": {
       "ok": false,
@@ -1281,7 +1157,7 @@
       "fuente": "OMC",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-06T00:00:00+00:00",
+      "ultima_publicacion": "2026-11-09T00:00:00+00:00",
       "recientes": 0
     },
     "un": {
@@ -1290,7 +1166,7 @@
       "fuente": "ONU",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-07T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-09T12:00:00+00:00",
       "recientes": 0
     },
     "fed": {
@@ -1299,8 +1175,8 @@
       "fuente": "Reserva Federal",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-05T16:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-09T21:00:00+00:00",
+      "recientes": 1
     },
     "ecb": {
       "ok": true,
@@ -1348,11 +1224,11 @@
       "recientes": 0
     },
     "consilium": {
-      "ok": false,
-      "piezas": 0,
+      "ok": true,
+      "piezas": 20,
       "fuente": "Consejo de la Unión Europea",
       "tipo": "oficial",
-      "error": "The read operation timed out",
+      "error": "",
       "ultima_publicacion": null,
       "recientes": 0
     },
@@ -1362,8 +1238,8 @@
       "fuente": "Google",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-09T13:00:00+00:00",
-      "recientes": 2
+      "ultima_publicacion": "2026-11-10T13:00:00+00:00",
+      "recientes": 3
     },
     "microsoft": {
       "ok": true,
@@ -1381,7 +1257,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-09T12:00:45+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "apple": {
       "ok": true,
@@ -1416,8 +1292,8 @@
       "fuente": "NOAA NCEI",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-09T15:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-09T16:00:00+00:00",
+      "recientes": 1
     },
     "noaa-nhc": {
       "ok": true,
@@ -1425,7 +1301,7 @@
       "fuente": "NOAA · Centro Nacional de Huracanes",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-10T23:18:36+00:00",
+      "ultima_publicacion": "2026-11-11T23:23:52+00:00",
       "recientes": 1
     },
     "nasa-releases": {
@@ -1434,8 +1310,8 @@
       "fuente": "NASA · Comunicados",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-09T11:00:00+00:00",
-      "recientes": 4
+      "ultima_publicacion": "2026-11-10T05:05:00+00:00",
+      "recientes": 10
     },
     "usda": {
       "ok": false,
@@ -1456,13 +1332,13 @@
       "recientes": 0
     },
     "bis": {
-      "ok": false,
-      "piezas": 0,
+      "ok": true,
+      "piezas": 1,
       "fuente": "Banco de Pagos Internacionales",
       "tipo": "oficial",
-      "error": "El canal no devolvió documentos",
-      "ultima_publicacion": null,
-      "recientes": 0
+      "error": "",
+      "ultima_publicacion": "2026-11-10T00:00:00+00:00",
+      "recientes": 1
     },
     "boe": {
       "ok": true,
@@ -1470,8 +1346,8 @@
       "fuente": "Banco de Inglaterra",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-05T12:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-10T12:00:00+00:00",
+      "recientes": 1
     },
     "boj": {
       "ok": true,
@@ -1479,7 +1355,7 @@
       "fuente": "Banco de Japón",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-09T06:00:00+00:00",
+      "ultima_publicacion": "2026-11-09T23:50:00+00:00",
       "recientes": 0
     },
     "census": {
@@ -1488,17 +1364,17 @@
       "fuente": "Oficina del Censo de EE. UU.",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-02T22:50:54+00:00",
+      "ultima_publicacion": "2026-11-05T15:27:25+00:00",
       "recientes": 0
     },
     "bbc-world": {
       "ok": true,
-      "piezas": 33,
+      "piezas": 30,
       "fuente": "BBC News",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-09T13:10:32+00:00",
-      "recientes": 18
+      "ultima_publicacion": "2026-11-10T13:01:03+00:00",
+      "recientes": 28
     },
     "bbc-mundo": {
       "ok": true,
@@ -1506,17 +1382,17 @@
       "fuente": "BBC Mundo",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-09T13:22:21+00:00",
-      "recientes": 11
+      "ultima_publicacion": "2026-11-10T11:58:04+00:00",
+      "recientes": 14
     },
     "cnn": {
       "ok": true,
-      "piezas": 119,
+      "piezas": 190,
       "fuente": "CNN",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-09T13:23:04.369000+00:00",
-      "recientes": 58
+      "ultima_publicacion": "2026-11-10T13:00:15.222000+00:00",
+      "recientes": 97
     },
     "dw-es": {
       "ok": false,
@@ -1533,7 +1409,7 @@
       "fuente": "France 24",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-09T13:06:59+00:00",
+      "ultima_publicacion": "2026-11-10T12:29:44+00:00",
       "recientes": 24
     },
     "guardian": {
@@ -1542,8 +1418,8 @@
       "fuente": "The Guardian",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-09T13:13:10+00:00",
-      "recientes": 26
+      "ultima_publicacion": "2026-11-10T12:52:06+00:00",
+      "recientes": 25
     },
     "aljazeera": {
       "ok": true,
@@ -1551,16 +1427,16 @@
       "fuente": "Al Jazeera",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-09T12:16:20+00:00",
+      "ultima_publicacion": "2026-11-10T12:56:41+00:00",
       "recientes": 25
     },
     "elpais": {
       "ok": true,
-      "piezas": 24,
+      "piezas": 20,
       "fuente": "El País",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-09T12:39:07+00:00",
+      "ultima_publicacion": "2026-11-10T12:48:01+00:00",
       "recientes": 18
     },
     "cnbc": {
@@ -1569,8 +1445,8 @@
       "fuente": "CNBC",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-09T13:13:52+00:00",
-      "recientes": 14
+      "ultima_publicacion": "2026-11-10T13:00:01+00:00",
+      "recientes": 30
     },
     "reuters": {
       "ok": false,
@@ -1595,7 +1471,7 @@
       "piezas": 0,
       "fuente": "Agencia EFE",
       "tipo": "agencia",
-      "error": "HTTP Error 500: Internal Server Error",
+      "error": "HTTP Error 429: Too Many Requests",
       "ultima_publicacion": null,
       "recientes": 0
     },
@@ -1605,7 +1481,7 @@
       "fuente": "MarketWatch",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-09T12:27:00+00:00",
+      "ultima_publicacion": "2026-11-10T12:33:00+00:00",
       "recientes": 10
     },
     "guardian-environment": {
@@ -1614,8 +1490,8 @@
       "fuente": "The Guardian · Medio ambiente",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-09T13:08:33+00:00",
-      "recientes": 11
+      "ultima_publicacion": "2026-11-10T12:47:35+00:00",
+      "recientes": 5
     },
     "bbc-tech": {
       "ok": true,
@@ -1623,17 +1499,17 @@
       "fuente": "BBC · Tecnología",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-09T13:10:32+00:00",
-      "recientes": 2
+      "ultima_publicacion": "2026-11-10T13:01:03+00:00",
+      "recientes": 8
     },
     "bbc-business": {
       "ok": true,
-      "piezas": 50,
+      "piezas": 47,
       "fuente": "BBC · Economía",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-09T13:10:32+00:00",
-      "recientes": 11
+      "ultima_publicacion": "2026-11-10T13:01:03+00:00",
+      "recientes": 22
     }
   }
 }

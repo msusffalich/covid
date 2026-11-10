@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-09
-nodos: 38
+actualizado: 2026-11-10
+nodos: 39
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-09. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-10. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-38 nodos registrados en el periodo. Lo mas reciente: Ataques con drones incendian la segunda mayor refinería de petróleo de Rusia.
+39 nodos registrados en el periodo. Lo mas reciente: EE.UU. busca 'fin definitivo' a la guerra Rusia-Ucrania en conversaciones de Abu Dabi.
 
 ## Trend summary (EN)
-38 nodes recorded in the period. Most recent: Drone strikes set fire to Russia's second-largest oil refinery.
+39 nodes recorded in the period. Most recent: US officials seek 'final end' to Russia-Ukraine war as Abu Dhabi talks begin.
 
 > [!note] Estado actual
-> Ataques con drones incendian la segunda mayor refinería de petróleo de Rusia
+> EE.UU. busca 'fin definitivo' a la guerra Rusia-Ucrania en conversaciones de Abu Dabi
 
-## Nodos recientes (38 en la ventana)
+## Nodos recientes (39 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-10 | 85 | K0 | EE.UU. busca 'fin definitivo' a la guerra Rusia-Ucrania en conve |
+| 2026-11-10 | 82 | K0 | Arrancan en Abu Dabi negociaciones trilaterales Rusia-Ucrania-EE |
 | 2026-11-09 | 55 | K0 | Ataques con drones incendian la segunda mayor refinería de petró |
 | 2026-11-09 | 35 | K1 | Sudáfrica detiene a nueve extranjeros que intentaban viajar a co |
 | 2026-11-08 | 55 | K1 | Victoria demócrata en el Congreso de EE UU podría reforzar apoyo |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-11-03 | 80 | K1 | Rusia bombardea centro de ayuda y refugio en Ucrania matando al  |
 | 2026-11-03 | 70 | K0 | Rusia deja a 180.000 personas sin luz en nuevo ataque a infraest |
 | 2026-11-03 | 55 | K1 | Fin de la misión de paz de la ONU en el Sáhara Occidental tras 3 |
-| 2026-11-02 | 64 | K0 | Rusia y Ucrania se acusan de ciberataques tras el fin de una tre |
-| 2026-11-02 | 60 | K1 | Hackers envían falsa alerta de ataque nuclear a la app de emerge |
 
 [[Global Brain — Inicio|← Inicio]]
