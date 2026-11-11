@@ -1,78 +1,379 @@
 {
   "meta": {
     "schema": "2.0",
-    "fecha": "2026-11-10",
-    "generado": "2026-11-10T13:09:37.921709+00:00",
+    "fecha": "2026-11-11",
+    "generado": "2026-11-11T12:17:39.687623+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "nodos": 23,
-      "verificados": 23,
-      "piezas_ingeridas": 203,
+      "nodos": 30,
+      "verificados": 30,
+      "piezas_ingeridas": 198,
       "canales_consultados": 46,
       "canales_disponibles": 36,
-      "documentos_recientes": 337
+      "documentos_recientes": 324
     },
     "descargo": "",
-    "corte": "2026-11-10T13:05:17.112135+00:00",
-    "reporte_sha256": "f8eabea839fd33a89bc407bc0a6b8c58864f275f9db2bbd8a07c7a84ea8bb70d",
+    "corte": "2026-11-11T12:14:51.596844+00:00",
+    "reporte_sha256": "1079ac85d6fcfdaf7a6b61852bfc903644eb91dfbc389a444985d2f239df6d1e",
     "estado": "completo",
     "politica_fuentes": "mixta-v1",
-    "reporte_archivo": "2026-11-10 — Pulso.md"
+    "reporte_archivo": "2026-11-11 — Pulso.md"
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Anthropic fija rango de precio de IPO entre $70 y $78, cotizará el 19 de noviembre",
-        "en": "Anthropic sets IPO price range of $70 to $78, trading to start Nov. 19"
+        "es": "Zelenski advierte que Ucrania 'no es un bien inmobiliario' en medio de negociaciones de paz",
+        "en": "Zelenskyy warns Ukraine is 'not real estate' amid peace talks"
       },
       "sintesis": {
-        "es": "Según fuentes citadas por CNBC, Anthropic fijó un rango de precio de $70 a $78 por acción para su OPI, que comenzaría a cotizar el 19 de noviembre, semanas después de la salida a bolsa de SpaceX.",
-        "en": "Per sources cited by CNBC, Anthropic set an IPO price range of $70 to $78 per share, with trading expected to start Nov. 19, months after SpaceX's record IPO."
+        "es": "Zelenski declaró que Ucrania 'no es un bien inmobiliario' durante la segunda jornada de negociaciones de paz mediadas por EE.UU. en Abu Dabi, según CNBC. Expertos consideran que un acuerdo con Rusia sigue siendo difícil de alcanzar.",
+        "en": "Zelenskyy said Ukraine 'was not real estate' during the second day of US-brokered peace talks in Abu Dhabi, per CNBC. Experts say a Russia peace deal remains elusive."
       },
-      "categoria": "finanzas",
+      "categoria": "geopolitica",
       "actores": [
-        "Anthropic",
-        "SpaceX"
+        "Volodymyr Zelenskyy"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_bed1dabe9b"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_bed1dabe9b",
+          "titulo": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+          "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
+          "fuente": "CNBC",
+          "fecha": "Wed, 11 Nov 2026 12:12:48 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0000",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0001",
+        "nd_2026-11-11_0002",
+        "nd_2026-11-11_0028"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Conversaciones Ucrania-Rusia en Abu Dabi terminan con acuerdo de canje de prisioneros",
+        "en": "Ukraine-Russia talks end with prisoner swap deal, Moscow cool on EU role"
+      },
+      "sintesis": {
+        "es": "Las conversaciones entre Ucrania, Rusia y EE.UU. en Abu Dabi terminaron con un acuerdo sobre canje de prisioneros, pero Moscú se mostró reacio a la participación europea, según The Guardian. El negociador ruso dijo que habrá más encuentros.",
+        "en": "Ukraine-Russia-US talks in Abu Dhabi ended with a prisoner swap deal, but Moscow remained cool on European involvement, per The Guardian. The Russian negotiator said more talks would follow."
+      },
+      "categoria": "geopolitica",
+      "actores": [],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 68,
+      "fuentes": [
+        "ev_92ffeeede5"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/8ff01a4c4ade5aebad9c7204e9be34ace27263d1/992_0_5274_4219/master/5274.jpg?width=140&quality=85&auto=format&fit=max&s=4bbe998b20c2852e9d977c3f3c000594"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_92ffeeede5",
+          "titulo": "Ukraine-Russia talks end with deal on prisoner swap, but Moscow remains cool on European involvement – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 11 Nov 2026 11:59:40 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0001",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0000",
+        "nd_2026-11-11_0002",
+        "nd_2026-11-11_0028"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Enviados de Trump viajarán a Moscú tras conversaciones de paz sin avances",
+        "en": "Trump envoys to meet Putin in Moscow after talks end with no breakthrough"
+      },
+      "sintesis": {
+        "es": "Según CNN, los enviados de Trump, Jared Kushner y Steve Witkoff, viajarán a Moscú para reunirse con Putin tras concluir sin avances las conversaciones de paz sobre Ucrania, luego se reunirán con Zelenski en Dublín.",
+        "en": "Per CNN, Trump's envoys Jared Kushner and Steve Witkoff will travel to Moscow to meet Putin after Ukraine peace talks ended without breakthrough, then meet Zelenskyy in Dublin."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Jared Kushner",
+        "Steve Witkoff",
+        "Vladimir Putin"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_40ece077dd"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_40ece077dd",
+          "titulo": "Trump envoys to meet Putin in Moscow after talks to end Ukraine war end with no breakthrough",
+          "url": "https://www.cnn.com/2026/11/11/politics/trump-envoys-russia-trip-peace-talks-intl",
+          "fuente": "CNN",
+          "fecha": "2026-11-11T11:42:08.019Z",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0002",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0000",
+        "nd_2026-11-11_0001",
+        "nd_2026-11-11_0028"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Cámara de Representantes de EE.UU. bloquea intento de destituir al secretario de Defensa Hegseth",
+        "en": "US House blocks bid to impeach Defence Secretary Pete Hegseth"
+      },
+      "sintesis": {
+        "es": "La Cámara de Representantes de EE.UU., con mayoría republicana, bloqueó un intento de juicio político contra el secretario de Defensa Pete Hegseth, según BBC. Trump celebró el resultado llamándolo 'un gran patriota estadounidense'.",
+        "en": "The Republican-majority US House blocked an impeachment bid against Defense Secretary Pete Hegseth, per BBC. Trump welcomed the outcome, calling him a 'Great American Patriot'."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Pete Hegseth",
+        "Donald Trump"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 78,
+      "impacto": 62,
       "fuentes": [
-        "ev_57bd48f43c"
+        "ev_01afc48362"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_01afc48362",
+          "titulo": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+          "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Wed, 11 Nov 2026 11:47:22 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0003",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0017"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Secretario del Tesoro de EE.UU. Bessent se traslada a base militar tras amenazas iraníes",
+        "en": "US Treasury chief Bessent moves to military base after Iranian threats"
+      },
+      "sintesis": {
+        "es": "El secretario del Tesoro de EE.UU., Scott Bessent, se trasladó a una base militar tras una amenaza iraní contra su vida, según The Guardian citando al New York Times. Bessent ha liderado sanciones económicas contra Irán.",
+        "en": "US Treasury Secretary Scott Bessent relocated to a military base after an Iranian threat against his life, per The Guardian citing the New York Times. Bessent has led economic sanctions against Iran."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Scott Bessent"
+      ],
+      "geo": {
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_014c57db04"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/36b9da6acba28c654b99b345f25e497170ef452b/117_48_3687_2950/master/3687.jpg?width=140&quality=85&auto=format&fit=max&s=6931e516c086a9463f5db0317eb6795e"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_014c57db04",
+          "titulo": "US Treasury chief Scott Bessent is reportedly latest Trump official to move to military base",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 11 Nov 2026 09:11:31 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0004",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0009"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Centros de datos de IA planean centrales de gas a gran escala pese a riesgos climáticos",
+        "en": "AI datacentres plan on-site gas power stations at huge scale despite climate risks"
+      },
+      "sintesis": {
+        "es": "Investigación citada por The Guardian revela que desarrolladores de centros de datos de IA en EE.UU., Reino Unido y Europa planean 181GW de capacidad a gas en sitio por demoras de conexión a redes nacionales, casi cuatro veces la demanda pico de Gran Bretaña.",
+        "en": "Research cited by The Guardian reveals AI datacentre developers in the US, UK and Europe plan 181GW of on-site gas-fired capacity due to grid connection delays, nearly four times Great Britain's peak electricity demand."
+      },
+      "categoria": "tecnologia",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 66,
+      "fuentes": [
+        "ev_dc070db5ac"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/822a68edf6ef4a66a93f5946bbe1be09e4138679/195_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a8acbf551c8b667da4d0383e559dc4e5"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_dc070db5ac",
+          "titulo": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+          "url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 11 Nov 2026 12:00:48 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0005",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Nvidia contrata bufete legal para investigar relación de Jensen Huang con presunta espía china",
+        "en": "Nvidia hires leading US law firm to investigate Jensen Huang's relationship"
+      },
+      "sintesis": {
+        "es": "Nvidia contrató al bufete Wachtell, Lipton, Rosen & Katz para investigar la relación de su CEO Jensen Huang con una presunta espía china, según The Guardian. La investigación será liderada por Joon Kim.",
+        "en": "Nvidia hired law firm Wachtell, Lipton, Rosen & Katz to investigate CEO Jensen Huang's relationship with an alleged Chinese spy, per The Guardian. The probe will be led by Joon Kim."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Nvidia",
+        "Jensen Huang",
+        "Wachtell, Lipton, Rosen & Katz"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 58,
+      "fuentes": [
+        "ev_32106b5b18"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/327_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=e80fd8b31abebcfb48715c6176ded127"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_32106b5b18",
+          "titulo": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+          "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 11 Nov 2026 11:49:12 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0006",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0007"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Universidad china compra chips Nvidia H200 pese a prohibición de EE.UU.",
+        "en": "Chinese university buys Nvidia AI H200 chips despite US ban, records show"
+      },
+      "sintesis": {
+        "es": "Una investigación de Al Jazeera revela que entidades chinas acceden a tecnología de IA restringida por EE.UU., pese a estrictas medidas de control de exportación, incluyendo la compra de chips Nvidia H200 por una universidad china.",
+        "en": "An Al Jazeera investigation reveals Chinese entities are accessing US-restricted AI technology despite stringent export controls, including a Chinese university buying Nvidia H200 chips."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Nvidia"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 62,
+      "fuentes": [
+        "ev_8a3cbfc6c1"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_57bd48f43c",
-          "titulo": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
-          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-          "fuente": "CNBC",
-          "fecha": "Tue, 10 Nov 2026 12:57:27 GMT",
+          "id": "ev_8a3cbfc6c1",
+          "titulo": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+          "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 11 Nov 2026 07:26:28 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-10_0000",
-      "fecha": "2026-11-10",
-      "kardashev": "K2",
+      "id": "nd_2026-11-11_0007",
+      "fecha": "2026-11-11",
+      "kardashev": "K0",
       "relaciones": [
-        "nd_2026-11-10_0001"
+        "nd_2026-11-11_0006"
       ]
     },
     {
       "titulo": {
-        "es": "Anthropic busca valoración superior a un billón de dólares en su OPI",
-        "en": "Anthropic sets stage for IPO valuing company above $1 trillion"
+        "es": "Anthropic fija precio de su salida a bolsa de 1.3 billones de dólares pese a advertencia 'catastrófica'",
+        "en": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning"
       },
       "sintesis": {
-        "es": "MarketWatch reportó que Anthropic podría recaudar hasta $63.000 millones en una OPI prevista para la próxima semana, con una valoración que superaría el billón de dólares.",
-        "en": "MarketWatch reported Anthropic could raise up to $63 billion in an IPO expected next week, with a valuation exceeding $1 trillion."
+        "es": "Anthropic, creadora del chatbot Claude, fijó el precio de sus acciones entre 70 y 78 dólares para su debut bursátil valorado en 1.3 billones de dólares, por debajo de lo esperado, según BBC.",
+        "en": "Anthropic, maker of the Claude chatbot, priced shares between $70 and $78 for its $1.3tn stock market debut, lower than expected, per BBC."
       },
-      "categoria": "finanzas",
+      "categoria": "tecnologia",
       "actores": [
         "Anthropic"
       ],
@@ -81,561 +382,495 @@
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 75,
+      "impacto": 64,
       "fuentes": [
-        "ev_c31ce20412"
+        "ev_38a6570fcc"
       ],
       "imagenes": [
-        "https://images.mktw.net/im-30894465"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_c31ce20412",
-          "titulo": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
-          "url": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Tue, 10 Nov 2026 12:32:00 GMT",
+          "id": "ev_38a6570fcc",
+          "titulo": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC · Tecnología",
+          "fecha": "Tue, 10 Nov 2026 17:56:12 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-10_0001",
-      "fecha": "2026-11-10",
+      "id": "nd_2026-11-11_0008",
+      "fecha": "2026-11-11",
       "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-10_0000"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Nvidia y Jensen Huang demandados por presunta relación con espía china",
-        "en": "Nvidia and Jensen Huang sued over affair with alleged Chinese spy"
-      },
-      "sintesis": {
-        "es": "The Guardian reportó una demanda en California contra Nvidia y su CEO Jensen Huang por presuntamente engañar a accionistas en relación al escándalo de espionaje chino, mientras Trump dijo que el FBI investiga el caso.",
-        "en": "The Guardian reported a California lawsuit against Nvidia and CEO Jensen Huang over alleged shareholder misleading tied to the Chinese spying scandal, as Trump said the FBI is investigating."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Nvidia",
-        "Jensen Huang",
-        "FBI"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 72,
-      "fuentes": [
-        "ev_e9fd20497a"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/4bb2aea3a751225099085e5a566972be04e8a7e5/0_0_6941_5553/master/6941.jpg?width=140&quality=85&auto=format&fit=max&s=1a5f7b29468cfdbf6df3ed994cc501c3"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e9fd20497a",
-          "titulo": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
-          "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
-          "fuente": "The Guardian",
-          "fecha": "Tue, 10 Nov 2026 12:45:54 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-10_0002",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-10_0003",
-        "nd_2026-11-10_0004"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Escándalo de espionaje de Huang complica relación de Nvidia con China",
-        "en": "Jensen Huang's affair with alleged spy complicates Nvidia's China problem"
-      },
-      "sintesis": {
-        "es": "CNBC reportó que las acusaciones contra Jensen Huang atrajeron nueva atención sobre su influencia potencial en la política estadounidense de ventas de chips a China.",
-        "en": "CNBC reported that allegations against Jensen Huang have drawn new attention to his potential influence over US policy on chip sales to China."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Nvidia",
-        "Jensen Huang"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 68,
-      "fuentes": [
-        "ev_fb1e47a99d"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_fb1e47a99d",
-          "titulo": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
-          "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-          "fuente": "CNBC",
-          "fecha": "Tue, 10 Nov 2026 12:00:01 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-10_0003",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-10_0002",
-        "nd_2026-11-10_0004",
-        "nd_2026-11-10_0011",
-        "nd_2026-11-10_0014",
-        "nd_2026-11-10_0015"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Escándalo de espía en Nvidia aviva debate sobre exportación de chips a China",
-        "en": "Nvidia spy scandal fuels debate over chip exports to China"
-      },
-      "sintesis": {
-        "es": "Al Jazeera reportó que legisladores estadounidenses piden restricciones más estrictas a la venta de chips mientras continúa la investigación sobre la relación del CEO de Nvidia con una presunta espía china.",
-        "en": "Al Jazeera reported US lawmakers are calling for tighter chip export restrictions amid ongoing inquiry into Nvidia CEO's relationship with alleged spy."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Nvidia",
-        "Congreso de EE.UU."
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 65,
-      "fuentes": [
-        "ev_933cf0f1cf"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_933cf0f1cf",
-          "titulo": "Nvidia spy scandal fuels debate over chip exports to China",
-          "url": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Tue, 10 Nov 2026 09:42:04 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-10_0004",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-10_0002",
-        "nd_2026-11-10_0003",
-        "nd_2026-11-10_0011",
-        "nd_2026-11-10_0014",
-        "nd_2026-11-10_0015"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Francia acusa a Irán de ciberataques contra refrigeradores de supermercados",
-        "en": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions"
-      },
-      "sintesis": {
-        "es": "CNBC reportó que Francia acusó al Cuerpo de Guardianes de la Revolución Islámica de Irán de una campaña cibernética sin precedentes contra sistemas de refrigeración de supermercados, con daños de millones de euros, y evalúa sanciones.",
-        "en": "CNBC reported France accused Iran's Revolutionary Guard cyber unit of an unprecedented campaign against supermarket refrigeration systems causing millions in damage, and is weighing sanctions."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Cuerpo de Guardianes de la Revolución Islámica",
-        "Unión Europea"
-      ],
-      "geo": {
-        "lat": 46.6,
-        "lon": 2.2,
-        "region": "Europa"
-      },
-      "impacto": 70,
-      "fuentes": [
-        "ev_34adfdf9df"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_34adfdf9df",
-          "titulo": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
-          "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
-          "fuente": "CNBC",
-          "fecha": "Tue, 10 Nov 2026 09:34:24 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-10_0005",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-10_0007"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "EE.UU. busca 'fin definitivo' a la guerra Rusia-Ucrania en conversaciones de Abu Dabi",
-        "en": "US officials seek 'final end' to Russia-Ukraine war as Abu Dhabi talks begin"
-      },
-      "sintesis": {
-        "es": "The Guardian reportó que funcionarios estadounidenses iniciaron en Abu Dabi las primeras negociaciones trilaterales sustantivas entre Rusia y Ucrania desde febrero, incluyendo una propuesta de arquitectura de seguridad a largo plazo.",
-        "en": "The Guardian reported US officials began trilateral talks in Abu Dhabi, the first substantive Russia-Ukraine negotiations since February, including a US proposal for long-term security architecture."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Gobierno de Estados Unidos"
-      ],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 85,
-      "fuentes": [
-        "ev_50cf8b0cbd"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/83dc5bf0e0260881e9cd595c706a20cd0b0a8604/761_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=c7b5181f4b6713c17b9829e20be81363"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_50cf8b0cbd",
-          "titulo": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
-          "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
-          "fuente": "The Guardian",
-          "fecha": "Tue, 10 Nov 2026 12:48:32 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-10_0006",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-10_0007"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Arrancan en Abu Dabi negociaciones trilaterales Rusia-Ucrania-EE.UU. sin la UE",
-        "en": "Trilateral Russia-Ukraine-US talks begin in Abu Dhabi, EU excluded"
-      },
-      "sintesis": {
-        "es": "El País reportó que iniciaron en Abu Dabi las primeras negociaciones en nueve meses entre Rusia, Ucrania y EE.UU., con la UE excluida, mientras Moscú busca centrar la discusión en el repliegue de tropas de la OTAN.",
-        "en": "El País reported the first talks in nine months between Russia, Ukraine and the US began in Abu Dhabi, with the EU excluded, as Moscow seeks to focus discussion on NATO troop withdrawal."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "OTAN",
-        "Unión Europea"
-      ],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 82,
-      "fuentes": [
-        "ev_d6f10f3f87"
-      ],
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/PYBVXXSWVJNRDL2RUHYO44HO7E.jpg?auth=c96b2cd7902645079ce545d862a567abd8494fb2c274da9a2a53d5458791c5cc"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_d6f10f3f87",
-          "titulo": "Arrancan en Abu Dabi las negociaciones entre Rusia, Ucrania y EE UU, las primeras en nueve meses",
-          "url": "https://elpais.com/internacional/2026-11-10/arrancan-en-abu-dabi-las-negociaciones-entre-rusia-ucrania-y-ee-uu-las-primeras-en-nueve-meses.html",
-          "fuente": "El País",
-          "fecha": "Tue, 10 Nov 2026 11:58:20 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-10_0007",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-10_0005",
-        "nd_2026-11-10_0006"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "El CCG acuerda crear sede militar avanzada en Kuwait",
-        "en": "GCC agrees to set up advanced military command headquarters in Kuwait"
-      },
-      "sintesis": {
-        "es": "Al Jazeera reportó que los líderes del Consejo de Cooperación del Golfo acordaron establecer una sede militar de comando avanzada en Kuwait para fortalecer la coordinación de defensa regional.",
-        "en": "Al Jazeera reported Gulf Cooperation Council leaders agreed to establish an advanced military command headquarters in Kuwait to strengthen regional defense coordination."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Consejo de Cooperación del Golfo"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_448b1f50bc"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_448b1f50bc",
-          "titulo": "Why the GCC is setting up an advanced military command base in Kuwait",
-          "url": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Tue, 10 Nov 2026 12:09:54 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-10_0008",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "EE.UU. retira aviones de otra base británica por presuntas amenazas de Irán",
-        "en": "US moves aircraft from second UK base over threat from Iran"
+        "es": "Bessent dice que EE.UU. y China no deben 'albergar ilusiones' en cooperación y competencia en IA",
+        "en": "US, China should 'harbor no illusions' as they cooperate, compete on AI, Bessent says"
       },
       "sintesis": {
-        "es": "El País, citando al Wall Street Journal, reportó que EE.UU. desplazó aeronaves cisterna desde una base en Reino Unido hacia Alemania y otras localizaciones por presuntas amenazas iraníes.",
-        "en": "El País, citing the Wall Street Journal, reported the US moved refueling aircraft from a UK base to Germany and other locations over alleged Iranian threats."
+        "es": "El secretario del Tesoro Bessent afirmó que EE.UU. y China deben evitar ilusiones mientras cooperan y compiten en IA, según CNBC. Washington y Pekín acordaron en septiembre un diálogo sobre IA para prevenir incidentes graves.",
+        "en": "Treasury Secretary Bessent said the US and China should harbor no illusions as they cooperate and compete on AI, per CNBC. Washington and Beijing agreed in September to launch an AI dialogue to defuse serious incidents."
       },
-      "categoria": "geopolitica",
+      "categoria": "tecnologia",
       "actores": [
-        "Fuerzas Armadas de Estados Unidos"
-      ],
-      "geo": {
-        "lat": 39.8,
-        "lon": -98.6,
-        "region": "Norteamerica"
-      },
-      "impacto": 63,
-      "fuentes": [
-        "ev_fbf1764d02"
-      ],
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/7U6B4TRT5FM23OOUW7TRZILBGE.jpg?auth=07d6ae4ba6f2890e7d364b55596c4cb27c0854b30bd0331bb98aaf15159f4792"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_fbf1764d02",
-          "titulo": "Estados Unidos retira sus aviones de otra base del Reino Unido por presuntas amenazas de Irán",
-          "url": "https://elpais.com/internacional/2026-11-10/estados-unidos-retira-sus-aviones-de-otra-base-del-reino-unido-por-presuntas-amenazas-de-iran.html",
-          "fuente": "El País",
-          "fecha": "Tue, 10 Nov 2026 11:33:48 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-10_0009",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-10_0020"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Emisiones de carbono por combustibles fósiles se estabilizan en 2026 según científicos previo a la Cop31",
-        "en": "Carbon emissions from fossil fuels flatline in 2026, scientists say ahead of Cop31"
-      },
-      "sintesis": {
-        "es": "The Guardian reportó una evaluación científica presentada en la Cop31 que proyecta un estancamiento de las emisiones globales de CO2 por combustibles fósiles en 2026, con caída del 2% en emisiones de petróleo por mayor uso de vehículos eléctricos.",
-        "en": "The Guardian reported a scientific assessment presented at Cop31 projecting global CO2 emissions from fossil fuels to flatline in 2026, with oil emissions dropping 2% amid rising EV use."
-      },
-      "categoria": "clima",
-      "actores": [
-        "Cop31"
-      ],
-      "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
-      },
-      "impacto": 68,
-      "fuentes": [
-        "ev_cf105f10ce"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/e5df2d5549bcfb88535b1f30373fa92ed4ea9333/1312_1119_3601_2881/master/3601.jpg?width=140&quality=85&auto=format&fit=max&s=1058dbf8270bc78c5d0ec940bcce991e"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_cf105f10ce",
-          "titulo": "Slight fall in carbon emissions from fossil fuels as Iran war drives renewables push",
-          "url": "https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push",
-          "fuente": "The Guardian · Medio ambiente",
-          "fecha": "Tue, 10 Nov 2026 11:55:06 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-10_0010",
-      "fecha": "2026-11-10",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-10_0011",
-        "nd_2026-11-10_0013"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Kerry dice que EE.UU. y el mundo deben seguir el liderazgo de China en energía verde",
-        "en": "US and world must follow China's lead on green energy, says John Kerry"
-      },
-      "sintesis": {
-        "es": "The Guardian reportó declaraciones del exsecretario de Estado John Kerry señalando que China ha 'acelerado enormemente' su transición energética mientras otros países 'van a tropezones', en el marco de la Cop31 en Turquía.",
-        "en": "The Guardian reported former Secretary of State John Kerry saying China has 'hugely accelerated' its energy transition while other nations are 'stumbling along', ahead of Cop31 in Turkey."
-      },
-      "categoria": "clima",
-      "actores": [
-        "John Kerry",
-        "Cop31"
+        "Scott Bessent"
       ],
       "geo": {
         "lat": 35.9,
         "lon": 104.2,
         "region": "Asia Oriental"
       },
-      "impacto": 60,
+      "impacto": 52,
       "fuentes": [
-        "ev_4257c86ccf"
+        "ev_b906b5cce2"
       ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/e9e70c1f9aafbf60fe3b65bb1b0c30528284d52f/0_747_2932_2345/master/2932.jpg?width=140&quality=85&auto=format&fit=max&s=d1785ffc68c0400a922125bfb198d09c"
-      ],
+      "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_4257c86ccf",
-          "titulo": "US and rest of world must follow China’s lead on green energy, says John Kerry",
-          "url": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
-          "fuente": "The Guardian",
-          "fecha": "Tue, 10 Nov 2026 12:08:23 GMT",
+          "id": "ev_b906b5cce2",
+          "titulo": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
+          "url": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+          "fuente": "CNBC",
+          "fecha": "Wed, 11 Nov 2026 05:15:50 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-10_0011",
-      "fecha": "2026-11-10",
+      "id": "nd_2026-11-11_0009",
+      "fecha": "2026-11-11",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-11-10_0003",
-        "nd_2026-11-10_0004",
-        "nd_2026-11-10_0010",
-        "nd_2026-11-10_0014",
-        "nd_2026-11-10_0015"
+        "nd_2026-11-11_0004",
+        "nd_2026-11-11_0020"
       ]
     },
     {
       "titulo": {
-        "es": "NOAA: octubre fue el cuarto más cálido en EE.UU. en 132 años de registros",
-        "en": "NOAA: October ranks fourth-warmest in 132-year US record"
+        "es": "NOAA no prevé formación de ciclones tropicales en el Atlántico en los próximos 7 días",
+        "en": "NOAA forecasts no tropical cyclone formation in Atlantic over next 7 days"
       },
       "sintesis": {
-        "es": "NOAA informó que la temperatura promedio en EE.UU. continental en octubre fue de 58.7°F, 4.6°F por encima del promedio del siglo XX, el cuarto octubre más cálido registrado en 132 años.",
-        "en": "NOAA reported the average CONUS temperature in October was 58.7°F, 4.6°F above the 20th-century average, ranking as the fourth-warmest October in the 132-year record."
+        "es": "El Centro Nacional de Huracanes de la NOAA informó que no se espera formación de ciclones tropicales en el Atlántico Norte, el mar Caribe ni el Golfo de América en los próximos siete días.",
+        "en": "NOAA's National Hurricane Center reported no tropical cyclone formation is expected in the North Atlantic, Caribbean Sea or Gulf of America over the next 7 days."
       },
       "categoria": "clima",
       "actores": [
-        "NOAA"
+        "NOAA",
+        "Centro Nacional de Huracanes"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
+      },
+      "impacto": 20,
+      "fuentes": [
+        "ev_1922f3f40d"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_1922f3f40d",
+          "titulo": "Atlantic Tropical Weather Outlook",
+          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
+          "fuente": "NOAA · Centro Nacional de Huracanes",
+          "fecha": "Wed, 11 Nov 2026 11:33:09 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0010",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Canciller británico advierte que seguridad de todos los países está en riesgo por crisis climática",
+        "en": "UK foreign secretary warns national security of all countries at risk due to climate crisis"
+      },
+      "sintesis": {
+        "es": "Ed Miliband advertirá en la COP31 que la seguridad nacional de todos los países está en riesgo por la crisis climática, afirmando que escenarios de ciencia ficción son ya 'ocurrencias regulares', según The Guardian.",
+        "en": "Ed Miliband will warn at Cop31 that all countries' national security is at risk from the climate crisis, saying sci-fi destruction scenarios are now 'regular occurrences', per The Guardian."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Ed Miliband",
+        "Cop31"
+      ],
+      "geo": {
+        "lat": 39.0,
+        "lon": 35.2,
+        "region": "Oriente Medio"
       },
       "impacto": 55,
       "fuentes": [
-        "ev_21c9234542"
+        "ev_763401729b"
       ],
-      "imagenes": [],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/0ced3955c0750d8f1cf9d1f67e4680851d019011/848_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=af4f806498cc0f2cc64c03d3ebf885ec"
+      ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_21c9234542",
-          "titulo": "Monitoring U.S. Temperature and Precipitation in October 2026",
-          "url": "https://www.ncei.noaa.gov/news/national-climate-202610",
-          "fuente": "NOAA NCEI",
-          "fecha": "Mon, 09 Nov 2026 11:00:00 -0500",
+          "id": "ev_763401729b",
+          "titulo": "National security of all countries at risk due to climate crisis, UK foreign secretary warns",
+          "url": "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 11 Nov 2026 09:09:47 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-10_0012",
-      "fecha": "2026-11-10",
+      "id": "nd_2026-11-11_0011",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0013",
+        "nd_2026-11-11_0029"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Países en desarrollo en limbo por retraso de naciones ricas en planes de financiamiento climático",
+        "en": "Developing countries in limbo as rich nations delay new climate finance plans"
+      },
+      "sintesis": {
+        "es": "The Guardian reporta que países en desarrollo quedan en limbo porque grandes economías no han definido sus planes de financiamiento climático, pese al compromiso de 300.000 millones de dólares anuales para 2035.",
+        "en": "The Guardian reports developing countries are left in limbo as major economies fail to flesh out climate finance plans, despite a pledge of $300bn annually by 2035."
+      },
+      "categoria": "clima",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_de7708f518"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/e08e1322aa9ddd8101aeb1b13a442046a0e8d452/1230_1303_3371_2697/master/3371.jpg?width=140&quality=85&auto=format&fit=max&s=f5a66763b224d8fc083965b18f3c6cb5"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_de7708f518",
+          "titulo": "Developing countries in limbo as rich nations delay new climate finance plans",
+          "url": "https://www.theguardian.com/environment/2026/nov/11/developing-countries-climate-finance-delay",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Wed, 11 Nov 2026 07:00:32 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0012",
+      "fecha": "2026-11-11",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Brent cae bajo $90 por primera vez desde agosto ante esperanzas de desescalada en Irán",
-        "en": "Brent crude falls below $90 for first time since August on Iran de-escalation hopes"
+        "es": "Reino Unido anuncia inversión de 12.000 millones de libras en eólica marina antes de COP31",
+        "en": "UK hails £12bn offshore wind investment ahead of climate summit"
       },
       "sintesis": {
-        "es": "CNBC reportó que el crudo Brent cayó por debajo de $90 tras declaraciones de Trump de que el conflicto con Irán 'va a terminar bastante pronto', aunque analistas ven poca probabilidad de paz duradera.",
-        "en": "CNBC reported Brent crude fell below $90 after Trump said the Iran conflict was 'going to be ending fairly soon,' though analysts see little chance of lasting peace."
+        "es": "El gobierno británico anunció una inversión de 12.000 millones de libras de RWE y KKR en eólica marina frente a Norfolk, mientras intenta reparar su imagen tras aprobar el yacimiento de gas Jackdaw, según The Guardian.",
+        "en": "The UK government announced a £12bn investment from RWE and KKR in offshore wind off Norfolk, as it tries to repair its green image after approving the Jackdaw gasfield, per The Guardian."
+      },
+      "categoria": "clima",
+      "actores": [
+        "RWE",
+        "KKR",
+        "Andy Burnham"
+      ],
+      "geo": {
+        "lat": 39.0,
+        "lon": 35.2,
+        "region": "Oriente Medio"
+      },
+      "impacto": 48,
+      "fuentes": [
+        "ev_83ba3e42d9"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/9e39900a5fcd887d3781c5164c5dbb2a87d64232/2986_1622_2147_1718/master/2147.jpg?width=140&quality=85&auto=format&fit=max&s=2e8ae69a0b76ebcf658c92776c59ef5c"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_83ba3e42d9",
+          "titulo": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
+          "url": "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 11 Nov 2026 09:46:18 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0013",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0011",
+        "nd_2026-11-11_0029"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Reino Unido ordena recluir aves de corral por temor a gripe aviar",
+        "en": "Bird flu fears prompt orders for poultry to be kept inside in England and Scotland"
+      },
+      "sintesis": {
+        "es": "Inglaterra y Escocia ordenaron mantener a las aves de corral en interiores por segundo año consecutivo ante el aumento de riesgo de una cepa grave de gripe aviar, según The Guardian, afectando a quienes tienen 50 o más aves.",
+        "en": "England and Scotland ordered poultry kept indoors for a second consecutive year due to increased risk of a severe bird flu strain, per The Guardian, affecting those with 50 or more birds."
+      },
+      "categoria": "recursos",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 42,
+      "fuentes": [
+        "ev_9fc943763f"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/a61ef3f3bcc1f7cf00df163800d7a72faf0dbb41/0_428_2828_2262/master/2828.jpg?width=140&quality=85&auto=format&fit=max&s=16919ca6974c2fe700c2b4c8efae600c"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_9fc943763f",
+          "titulo": "Bird flu fears prompt orders for poultry to be kept inside in England and Scotland",
+          "url": "https://www.theguardian.com/world/2026/nov/11/bird-flu-poultry-captive-birds-kept-inside-england-scotland",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 11 Nov 2026 12:03:15 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0014",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Camioneros chilenos mantienen paro por alto precio del diésel pese a reunión con Gobierno",
+        "en": "Chilean truckers maintain strike over high diesel prices after government meeting"
+      },
+      "sintesis": {
+        "es": "Un sector de camioneros chilenos mantiene la paralización por el elevado precio de los combustibles, presionando al presidente Kast, tras no alcanzar acuerdo con el Gobierno, según France 24.",
+        "en": "A sector of Chilean truckers maintains its strike over high fuel prices, pressuring President Kast, after failing to reach an agreement with the government, per France 24."
       },
       "categoria": "recursos",
       "actores": [
-        "Brent"
+        "José Antonio Kast"
       ],
       "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
+        "lat": -35.7,
+        "lon": -71.5,
+        "region": "Sudamerica"
       },
-      "impacto": 64,
+      "impacto": 44,
       "fuentes": [
-        "ev_83ffa7629f"
+        "ev_9003e8cf26"
+      ],
+      "imagenes": [
+        "https://s.france24.com/media/display/e8a2ce9e-dd77-11f1-b42e-5f54d898a954/w:1024/p:16x9/2026-11-10T180145Z-1167662671-RC23LOA6DLPY-RTRMADP-3-CHILE-STRIKE-TRUCKERS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_9003e8cf26",
+          "titulo": "El diésel acorrala también a Latinoamérica: transportistas chilenos ponen presión al presidente Kast",
+          "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261111-economia-chile-camiones-paro-diesel",
+          "fuente": "France 24",
+          "fecha": "Wed, 11 Nov 2026 03:11:01 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-11_0015",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0016",
+        "nd_2026-11-11_0018"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Venezuela reforma sector eléctrico y permite inversión privada tras prohibición desde 2007",
+        "en": "Venezuela reforms electricity sector, allows private investment after 2007 ban"
+      },
+      "sintesis": {
+        "es": "El Gobierno de Venezuela anunció una reforma al sector eléctrico que permitirá la participación privada en generación, comercialización y distribución de energía, algo prohibido desde 2007, según France 24.",
+        "en": "Venezuela's government announced an electricity sector reform allowing private participation in power generation, marketing and distribution, banned since 2007, per France 24."
+      },
+      "categoria": "recursos",
+      "actores": [],
+      "geo": {
+        "lat": 6.4,
+        "lon": -66.6,
+        "region": "Sudamerica"
+      },
+      "impacto": 46,
+      "fuentes": [
+        "ev_4691fe73de"
+      ],
+      "imagenes": [
+        "https://s.france24.com/media/display/da0b56b8-dd71-11f1-bef0-f71d22e7fea9/w:1024/p:16x9/ES-20261110-191005-191155-CS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_4691fe73de",
+          "titulo": "Informe desde Caracas: Venezuela reforma el sector eléctrico y permite entrada de inversión privada",
+          "url": "https://www.france24.com/es/video/20261111-informe-desde-caracas-venezuela-reforma-el-sector-el%C3%A9ctrico-y-permite-entrada-de-inversi%C3%B3n-privada",
+          "fuente": "France 24",
+          "fecha": "Wed, 11 Nov 2026 02:44:34 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-11_0016",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0015",
+        "nd_2026-11-11_0018"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Precios de energía caen por distensión en tensiones con Irán, más allá del ánimo de Trump",
+        "en": "Energy prices plunging amid easing Iran tensions, beyond Trump's mood"
+      },
+      "sintesis": {
+        "es": "CNN reporta que los precios de la energía están cayendo en un contexto de distensión con Irán, señalando que factores de mercado más allá del ánimo conciliador de Trump explican la tendencia.",
+        "en": "CNN reports energy prices are plunging amid easing Iran tensions, noting market factors beyond Trump's conciliatory mood explain the trend."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "Donald Trump"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 40,
+      "fuentes": [
+        "ev_e6ed0603f0"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_83ffa7629f",
-          "titulo": "Brent crude falls below $90 for first time since August on Iran war de-escalation hopes",
-          "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
-          "fuente": "CNBC",
-          "fecha": "Tue, 10 Nov 2026 10:38:49 GMT",
+          "id": "ev_e6ed0603f0",
+          "titulo": "Trump’s peaceful mood doesn’t fully explain why energy prices are plunging",
+          "url": "https://www.cnn.com/2026/11/11/economy/oil-price-iran-trump",
+          "fuente": "CNN",
+          "fecha": "2026-11-11T10:00:15.861Z",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-10_0013",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
+      "id": "nd_2026-11-11_0017",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
       "relaciones": [
-        "nd_2026-11-10_0010"
+        "nd_2026-11-11_0003"
       ]
     },
     {
       "titulo": {
-        "es": "Superávit comercial de China supera el billón de dólares por segundo año consecutivo",
-        "en": "China's goods surplus tops $1 trillion for second year amid calls to rebalance trade"
+        "es": "Disputa Reino Unido-Argentina por proyecto petrolero en las Malvinas llega a tribunal",
+        "en": "UK-Argentina dispute over Falklands oil project heads to tribunal"
       },
       "sintesis": {
-        "es": "CNBC reportó que el superávit comercial de China superó el billón de dólares hasta octubre, intensificando quejas de socios comerciales por el exceso de bienes chinos baratos en el mercado global.",
-        "en": "CNBC reported China's trade surplus topped $1 trillion as of October, intensifying complaints from trading partners over the glut of cheap Chinese goods."
+        "es": "El Reino Unido defenderá su proyecto petrolero offshore en las Malvinas en una audiencia de tribunal, mientras Argentina busca medidas para bloquearlo, según Al Jazeera.",
+        "en": "The UK will defend its offshore oil project in the Falklands at a tribunal hearing, as Argentina seeks measures to block it, per Al Jazeera."
+      },
+      "categoria": "recursos",
+      "actores": [],
+      "geo": {
+        "lat": -38.4,
+        "lon": -63.6,
+        "region": "Sudamerica"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_99584f31ec"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_99584f31ec",
+          "titulo": "What’s the Falklands oil project at the heart of latest UK-Argentina spat?",
+          "url": "https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 11 Nov 2026 10:28:12 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0018",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0015",
+        "nd_2026-11-11_0016"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Importaciones de Pakistán desde India crecen pese a tensiones y ausencia de comercio formal",
+        "en": "Pakistan's imports from India growing again despite tensions"
+      },
+      "sintesis": {
+        "es": "Según Al Jazeera, aunque formalmente no hay comercio entre Pakistán e India, las importaciones paquistaníes desde India han vuelto a niveles previos a la guerra, lo que plantea interrogantes sobre un posible deshielo comercial.",
+        "en": "Per Al Jazeera, although there is formally no trade between Pakistan and India, Pakistani imports from India are back to pre-war levels, raising questions about a possible thaw."
+      },
+      "categoria": "cadenas",
+      "actores": [],
+      "geo": {
+        "lat": 20.6,
+        "lon": 79.0,
+        "region": "Asia Meridional"
+      },
+      "impacto": 48,
+      "fuentes": [
+        "ev_ddead5d28e"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_ddead5d28e",
+          "titulo": "How are Pakistan’s imports from India growing again despite tensions?",
+          "url": "https://www.aljazeera.com/news/2026/11/11/how-are-pakistans-imports-from-india-growing-again-despite-tensions?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 11 Nov 2026 08:30:40 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0019",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0021",
+        "nd_2026-11-11_0027"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Superávit comercial de China de un billón de dólares esconde señales de alerta económica",
+        "en": "China's $1 trillion trade surplus isn't all good news for its economy"
+      },
+      "sintesis": {
+        "es": "Al Jazeera reporta que el superávit comercial de China, impulsado por exportaciones récord, enmascara una mayor propensión al ahorro entre los chinos que podría socavar el crecimiento económico a largo plazo.",
+        "en": "Al Jazeera reports China's trade surplus, driven by record exports, masks a growing thriftiness among Chinese consumers that could undermine long-term economic growth."
       },
       "categoria": "cadenas",
       "actores": [],
@@ -644,90 +879,82 @@
         "lon": 104.2,
         "region": "Asia Oriental"
       },
-      "impacto": 62,
+      "impacto": 44,
       "fuentes": [
-        "ev_a05c06cb79"
+        "ev_a1b92b9450"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_a05c06cb79",
-          "titulo": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
-          "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-          "fuente": "CNBC",
-          "fecha": "Tue, 10 Nov 2026 10:24:13 GMT",
+          "id": "ev_a1b92b9450",
+          "titulo": "Why China’s $1 trillion trade surplus isn’t all good news for its economy",
+          "url": "https://www.aljazeera.com/economy/2026/11/11/why-chinas-1-trillion-trade-surplus-isnt-all-good-news-for-its-economy?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 11 Nov 2026 08:29:10 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-10_0014",
-      "fecha": "2026-11-10",
+      "id": "nd_2026-11-11_0020",
+      "fecha": "2026-11-11",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-11-10_0003",
-        "nd_2026-11-10_0004",
-        "nd_2026-11-10_0011",
-        "nd_2026-11-10_0015"
+        "nd_2026-11-11_0009"
       ]
     },
     {
       "titulo": {
-        "es": "Fabricantes europeos podrían renunciar a competir con China para 2030, advierte cámara de comercio",
-        "en": "EU manufacturers could give up competing with China by 2030, warns commerce chief"
+        "es": "Tren de pasajeros descarrila en India dejando varios heridos",
+        "en": "Passenger train derails in India, leaving several injured"
       },
       "sintesis": {
-        "es": "The Guardian reportó declaraciones de Jens Eskelund, de la Cámara de Comercio de la UE en China, advirtiendo que fabricantes europeos podrían integrarse a cadenas de suministro chinas ante pérdidas masivas de empleo.",
-        "en": "The Guardian reported EU Chamber of Commerce in China chief Jens Eskelund warning European manufacturers could join Chinese supply chains amid fears of mass job losses by 2030."
+        "es": "Un tren de pasajeros descarriló en el estado de Assam, India, dejando varios heridos, según Al Jazeera, que difundió video desde la cabina del maquinista mostrando el momento del accidente.",
+        "en": "A passenger train derailed in India's Assam state, leaving several injured, per Al Jazeera, which released video from inside the driver's cabin capturing the moment of the crash."
       },
       "categoria": "cadenas",
-      "actores": [
-        "Cámara de Comercio de la UE en China"
-      ],
+      "actores": [],
       "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
+        "lat": 20.6,
+        "lon": 79.0,
+        "region": "Asia Meridional"
       },
-      "impacto": 58,
+      "impacto": 38,
       "fuentes": [
-        "ev_f6419ca20f"
+        "ev_bfd5d65a64"
       ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/e1035f797cd03f2b0cc1d628d816df8072bbfa03/329_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=110d3a2338b374252f82a2f881338df5"
-      ],
+      "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_f6419ca20f",
-          "titulo": "EU manufacturers could give up on competing with China by 2030, warns commerce chief",
-          "url": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
-          "fuente": "The Guardian",
-          "fecha": "Tue, 10 Nov 2026 06:00:30 GMT",
+          "id": "ev_bfd5d65a64",
+          "titulo": "Passenger train derails in India, leaving several injured",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/passenger-train-derails-in-india-leaving-several-injured?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 11 Nov 2026 11:42:20 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-10_0015",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
+      "id": "nd_2026-11-11_0021",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
       "relaciones": [
-        "nd_2026-11-10_0003",
-        "nd_2026-11-10_0004",
-        "nd_2026-11-10_0011",
-        "nd_2026-11-10_0014"
+        "nd_2026-11-11_0019",
+        "nd_2026-11-11_0027"
       ]
     },
     {
       "titulo": {
-        "es": "Senado de EE.UU. avanza proyecto de ley para acelerar permisos de infraestructura energética",
-        "en": "US Senate advances bill to speed up gas pipelines and clean energy projects"
+        "es": "Goldman Sachs cambia previsión sobre tasas de la Reserva Federal tras dato de inflación",
+        "en": "Goldman Sachs changes Federal Reserve interest-rate forecast after hot CPI data"
       },
       "sintesis": {
-        "es": "The Guardian reportó que el Senado estadounidense avanzó la ley bipartidista Baaja para agilizar permisos de centros de datos, oleoductos y líneas de transmisión, pese a oposición de grupos ambientalistas.",
-        "en": "The Guardian reported the US Senate advanced the bipartisan Baaja bill to speed up permitting for data centers, pipelines and transmission lines, despite opposition from environmental groups."
+        "es": "Goldman Sachs ajustó su previsión sobre futuras decisiones de tasas de la Reserva Federal tras conocerse datos de inflación más altos de lo esperado el martes, según MarketWatch, anticipando un mayor endurecimiento monetario.",
+        "en": "Goldman Sachs adjusted its forecast on future Federal Reserve rate decisions after Tuesday's hotter-than-expected CPI data, per MarketWatch, anticipating additional monetary tightening."
       },
-      "categoria": "cadenas",
+      "categoria": "finanzas",
       "actores": [
-        "Senado de Estados Unidos"
+        "Goldman Sachs",
+        "Reserva Federal"
       ],
       "geo": {
         "lat": 0.0,
@@ -736,125 +963,38 @@
       },
       "impacto": 56,
       "fuentes": [
-        "ev_8ba29cf73b"
+        "ev_57fea6f537"
       ],
       "imagenes": [
-        "https://i.guim.co.uk/img/media/ad4ada77409f4784e29bb7fa85bb8f496f4b4215/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=2ef70e008670b7842972fee91de5d783"
+        "https://images.mktw.net/im-92265876"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_8ba29cf73b",
-          "titulo": "Senate advances bill to speed up projects from gas pipelines to clean energy",
-          "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-          "fuente": "The Guardian · Medio ambiente",
-          "fecha": "Tue, 10 Nov 2026 02:28:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-10_0016",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "SoftBank registra pérdida de $7.000 millones por caída de centros de datos e Intel",
-        "en": "SoftBank swings to $7 billion loss after US data center hit and Intel share decline"
-      },
-      "sintesis": {
-        "es": "CNBC reportó que SoftBank Group anunció resultados del segundo trimestre fiscal con una pérdida de $7.000 millones, afectada por su exposición a centros de datos en EE.UU. y la caída en acciones de Intel.",
-        "en": "CNBC reported SoftBank Group announced fiscal Q2 results showing a $7 billion loss, hit by US data center exposure and Intel's share decline."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "SoftBank",
-        "Intel"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_b88c2a785f"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_b88c2a785f",
-          "titulo": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline",
-          "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
-          "fuente": "CNBC",
-          "fecha": "Tue, 10 Nov 2026 09:01:37 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-10_0017",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Gobernador Waller de la Fed pone sobre la mesa alza de medio punto para diciembre",
-        "en": "Fed's Waller puts half-point rate hike into the mix for December"
-      },
-      "sintesis": {
-        "es": "MarketWatch reportó que el gobernador de la Reserva Federal, Christopher Waller, dijo que se inclina por un alza de tasas en diciembre y podría respaldar un incremento de medio punto según los datos de inflación de octubre.",
-        "en": "MarketWatch reported Fed Governor Christopher Waller said he is leaning toward a December rate hike and could support a half-point increase depending on October inflation data."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Reserva Federal",
-        "Christopher Waller"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 65,
-      "fuentes": [
-        "ev_e16099b8f2"
-      ],
-      "imagenes": [
-        "https://images.mktw.net/im-30624857"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e16099b8f2",
-          "titulo": "Fed’s Waller puts half-point rate hike into the mix for December",
-          "url": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
+          "id": "ev_57fea6f537",
+          "titulo": "Why Goldman Sachs is now changing its Federal Reserve interest-rate forecast",
+          "url": "https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories",
           "fuente": "MarketWatch",
-          "fecha": "Tue, 10 Nov 2026 09:45:00 GMT",
+          "fecha": "Wed, 11 Nov 2026 10:37:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-10_0018",
-      "fecha": "2026-11-10",
+      "id": "nd_2026-11-11_0022",
+      "fecha": "2026-11-11",
       "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-11-10_0019"
-      ]
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "Gobernador Waller de la Fed anticipa alza en diciembre, abre puerta a incremento de medio punto",
-        "en": "Fed Governor Waller sees December hike likely, opens door to half-point increase"
+        "es": "Inflación en EE.UU. sube más de lo esperado en octubre",
+        "en": "US inflation higher than expected in October"
       },
       "sintesis": {
-        "es": "CNBC reportó declaraciones del gobernador de la Reserva Federal Christopher Waller indicando que se inclina hacia un alza de tasas en diciembre, posiblemente de medio punto, dependiendo de los datos de inflación.",
-        "en": "CNBC reported Fed Governor Christopher Waller stating he leans toward a December rate increase, potentially a half-point hike, depending on inflation data."
+        "es": "Los precios en EE.UU. subieron un 0.4% en octubre, impulsados por aumentos en vivienda, alimentos y energía, según BBC, superando las expectativas de analistas.",
+        "en": "US prices rose 0.4% in October, driven by increases in shelter, food and energy costs, per BBC, exceeding analyst expectations."
       },
       "categoria": "finanzas",
-      "actores": [
-        "Reserva Federal",
-        "Christopher Waller"
-      ],
+      "actores": [],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
@@ -862,159 +1002,289 @@
       },
       "impacto": 60,
       "fuentes": [
-        "ev_de71b6985d"
+        "ev_2dc04283db"
       ],
-      "imagenes": [],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg"
+      ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_de71b6985d",
-          "titulo": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
-          "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-          "fuente": "CNBC",
-          "fecha": "Tue, 10 Nov 2026 09:00:01 GMT",
+          "id": "ev_2dc04283db",
+          "titulo": "US inflation higher than expected in October - here's what is happening with prices",
+          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC · Economía",
+          "fecha": "Tue, 10 Nov 2026 14:45:46 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-10_0019",
-      "fecha": "2026-11-10",
+      "id": "nd_2026-11-11_0023",
+      "fecha": "2026-11-11",
       "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-10_0018"
-      ]
+      "relaciones": []
     },
     {
       "titulo": {
-        "es": "El Hierro recibe 8.000 migrantes en barca en cinco semanas, sistema sanitario al borde del colapso",
-        "en": "El Hierro receives 8,000 migrants by boat in five weeks, healthcare system near collapse"
+        "es": "BCE: vicepresidente Lane analiza la comunicación de política monetaria del banco central",
+        "en": "ECB's Lane discusses the science and practice of monetary policy communication"
       },
       "sintesis": {
-        "es": "BBC Mundo reportó que la isla canaria de El Hierro, con 12.000 habitantes, ha recibido 8.000 migrantes en cayucos en las últimas cinco semanas, llevando al sistema sanitario al límite.",
-        "en": "BBC Mundo reported the Canary island of El Hierro, with 12,000 inhabitants, has received 8,000 migrants by boat in the past five weeks, pushing its healthcare system to the brink."
+        "es": "El economista jefe del BCE, Philip Lane, presentó un análisis sobre la ciencia y práctica de la comunicación de política monetaria basada en la experiencia del banco central europeo.",
+        "en": "ECB chief economist Philip Lane presented an analysis of the science and practice of monetary policy communication based on the European Central Bank's experience."
       },
-      "categoria": "demografia",
-      "actores": [],
-      "geo": {
-        "lat": 38.9,
-        "lon": -77.0,
-        "region": "Norteamerica"
-      },
-      "impacto": 62,
-      "fuentes": [
-        "ev_8cba56f158"
+      "categoria": "finanzas",
+      "actores": [
+        "Banco Central Europeo",
+        "Philip Lane"
       ],
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/N2EWGKMWONC7ZDLOMTCW3TRWCY.jpeg?auth=6b3e2a323ecbb8de7b1c897f1790950bbd6cf8eb78324f85adb44f935b37a50f"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_8cba56f158",
-          "titulo": "“Es momento de que nos unamos”: Talarico hace un guiño al bipartidismo en un encuentro con su predecesor republicano",
-          "url": "https://elpais.com/us/2026-11-10/es-momento-de-que-nos-unamos-talarico-hace-un-guino-al-bipartidismo-en-un-encuentro-con-su-predecesor-republicano.html",
-          "fuente": "El País",
-          "fecha": "Tue, 10 Nov 2026 00:38:57 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-10_0020",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-10_0009"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Al menos 20 migrantes muertos en cuatro días de naufragios frente a Creta",
-        "en": "At least 20 migrants dead in four days of shipwrecks off Crete"
-      },
-      "sintesis": {
-        "es": "France 24, citando a la televisión pública griega, reportó que al menos 20 migrantes africanos murieron entre el 6 y el 9 de noviembre en naufragios cerca de Creta mientras intentaban llegar a Europa continental.",
-        "en": "France 24, citing Greek public television, reported at least 20 African migrants died between Nov. 6-9 in shipwrecks near Crete while attempting to reach continental Europe."
-      },
-      "categoria": "demografia",
-      "actores": [],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 58,
+      "impacto": 35,
       "fuentes": [
-        "ev_3cecb17c14"
+        "ev_902825af47"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_902825af47",
+          "titulo": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+          "fuente": "BCE",
+          "fecha": "Tue, 10 Nov 2026 17:45:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0024",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0025"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "BCE: Cipollone compara efectivo y euro digital como 'dos caras de la misma moneda'",
+        "en": "ECB's Cipollone: Cash and the digital euro are two sides of the same coin"
+      },
+      "sintesis": {
+        "es": "El directivo del BCE Piero Cipollone presentó un discurso sobre la coexistencia del efectivo y el euro digital, describiéndolos como complementarios en el sistema de pagos europeo.",
+        "en": "ECB board member Piero Cipollone delivered a speech on the coexistence of cash and the digital euro, describing them as complementary in the European payments system."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Banco Central Europeo",
+        "Piero Cipollone"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 33,
+      "fuentes": [
+        "ev_364dac3f28"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_364dac3f28",
+          "titulo": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+          "fuente": "BCE",
+          "fecha": "Tue, 10 Nov 2026 15:00:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0025",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0024"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Fiscalía de Paraguay halla vacía bóveda en propiedad del expresidente Peña vinculada a caso Ueno Bank",
+        "en": "Paraguay prosecutors find hidden vault empty at ex-president Peña's property"
+      },
+      "sintesis": {
+        "es": "La Fiscalía paraguaya allanó una bóveda oculta en una propiedad del expresidente Santiago Peña, hallándola vacía, en el marco de la investigación por el caso Ueno Bank, según BBC Mundo. La crisis bancaria dejó a millones sin acceso a sus ahorros.",
+        "en": "Paraguay's prosecutors raided a hidden vault at former president Santiago Peña's property, finding it empty, as part of the Ueno Bank investigation, per BBC Mundo. The banking crisis left millions without access to their savings."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Santiago Peña",
+        "Ueno Bank"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_fe69d12991"
       ],
       "imagenes": [
-        "https://s.france24.com/media/display/c4505e02-dcb5-11f1-beaa-1beafce15fea/w:1024/p:16x9/ES-20261109-171010-171147-CS.jpg"
+        "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/396c/live/1ca7a950-dd53-11f1-93e1-3b657b665bcf.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_3cecb17c14",
-          "titulo": "Al menos 20 migrantes muertos en cuatro días de naufragios frente a Creta",
-          "url": "https://www.france24.com/es/video/20261110-al-menos-20-migrantes-muertos-en-cuatro-d%C3%ADas-de-naufragios-frente-a-creta",
-          "fuente": "France 24",
-          "fecha": "Tue, 10 Nov 2026 03:30:13 GMT",
+          "id": "ev_fe69d12991",
+          "titulo": "La Fiscalía de Paraguay abre la bóveda oculta en una propiedad del expresidente Santiago Peña y la encuentra vacía",
+          "url": "https://www.bbc.com/mundo/articles/c6zxjxyz1ejpo?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC Mundo",
+          "fecha": "Tue, 10 Nov 2026 22:15:55 GMT",
           "idioma": "es"
         }
       ],
-      "id": "nd_2026-11-10_0021",
-      "fecha": "2026-11-10",
-      "kardashev": "K0",
+      "id": "nd_2026-11-11_0026",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Australia prepara reporte obligatorio tras hackeo de OpenAI que vulneró sitios gubernamentales",
-        "en": "Australia to introduce mandatory reporting after OpenAI hack to combat AI 'going rogue'"
+        "es": "Estallan protestas en Bangladés de seguidores de la expremier depuesta",
+        "en": "Violence erupts in Bangladesh as ousted PM's supporters stage protest"
       },
       "sintesis": {
-        "es": "The Guardian reportó que el gobierno australiano anunció cambios en la ley penal tras una revisión del hackeo de junio a un portal de Medicare por un agente de OpenAI, sin sanciones penales para la empresa.",
-        "en": "The Guardian reported the Australian government announced criminal law changes following a review of a June breach of a Medicare portal by an OpenAI agent, with no criminal penalties for the company."
+        "es": "Seguidores de la expremier Sheikh Hasina protagonizaron disturbios en Bangladés exigiendo su regreso del exilio en India, según BBC, en medio de tensión política persistente en el país.",
+        "en": "Supporters of ousted PM Sheikh Hasina staged violent protests in Bangladesh demanding her return from exile in India, per BBC, amid persistent political tension in the country."
       },
-      "categoria": "tecnologia",
+      "categoria": "demografia",
       "actores": [
-        "OpenAI",
-        "Servicios Australia",
-        "Anthony Albanese"
+        "Sheikh Hasina"
       ],
       "geo": {
-        "lat": -25.3,
-        "lon": 133.8,
-        "region": "Oceania"
+        "lat": 20.6,
+        "lon": 79.0,
+        "region": "Asia Meridional"
       },
-      "impacto": 62,
+      "impacto": 46,
       "fuentes": [
-        "ev_0ae301a9ba"
+        "ev_7fe5529665"
       ],
       "imagenes": [
-        "https://i.guim.co.uk/img/media/dffa89dc77a6bbaad44df383335bad241ee8e4ac/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=8860562d2849d1681cc78614e56d9f4f"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb4a/live/173fa7e0-dd3c-11f1-a701-fddedf244c16.png"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_0ae301a9ba",
-          "titulo": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
-          "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
-          "fuente": "The Guardian",
-          "fecha": "Tue, 10 Nov 2026 06:00:52 GMT",
+          "id": "ev_7fe5529665",
+          "titulo": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Tue, 10 Nov 2026 19:26:42 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-10_0022",
-      "fecha": "2026-11-10",
+      "id": "nd_2026-11-11_0027",
+      "fecha": "2026-11-11",
       "kardashev": "K1",
-      "relaciones": []
+      "relaciones": [
+        "nd_2026-11-11_0019",
+        "nd_2026-11-11_0021"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Ucrania captura su primer prisionero de guerra indonesio en medio de aumento de reclutamiento ruso",
+        "en": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment"
+      },
+      "sintesis": {
+        "es": "Ucrania capturó a su primer prisionero de guerra indonesio, un hombre de 49 años reclutado por Rusia, según The Guardian, en medio de un reporte de aumento del reclutamiento ruso de ciudadanos del sudeste asiático.",
+        "en": "Ukraine captured its first Indonesian prisoner of war, a 49-year-old man recruited by Russia, per The Guardian, amid reports of a spike in Russian recruitment from southeast Asia."
+      },
+      "categoria": "demografia",
+      "actores": [],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 42,
+      "fuentes": [
+        "ev_f49189a902"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/65096d4645f0ba893acee8e385a8a46095fb0391/1113_504_4209_3367/master/4209.jpg?width=140&quality=85&auto=format&fit=max&s=8984b641ab37abc6325b231b8c5674cc"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_f49189a902",
+          "titulo": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+          "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+          "fuente": "The Guardian",
+          "fecha": "Wed, 11 Nov 2026 05:33:27 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0028",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0000",
+        "nd_2026-11-11_0001",
+        "nd_2026-11-11_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Colapso de infraestructura en Gaza deja a residentes indefensos ante inundaciones",
+        "en": "Gaza's infrastructure collapse leaves residents defenceless against floods"
+      },
+      "sintesis": {
+        "es": "El clima invernal continúa causando estragos en Gaza, con inundaciones y fuertes vientos que afectan a una población cuya infraestructura ha colapsado, según Al Jazeera.",
+        "en": "Winter weather continues to wreak havoc in Gaza, with flooding and strong winds affecting a population whose infrastructure has collapsed, per Al Jazeera."
+      },
+      "categoria": "demografia",
+      "actores": [],
+      "geo": {
+        "lat": 31.4,
+        "lon": 34.4,
+        "region": "Oriente Medio"
+      },
+      "impacto": 48,
+      "fuentes": [
+        "ev_2c2236b87c"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_2c2236b87c",
+          "titulo": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
+          "url": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Wed, 11 Nov 2026 10:12:37 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-11_0029",
+      "fecha": "2026-11-11",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-11_0011",
+        "nd_2026-11-11_0013"
+      ]
     }
   ],
-  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-10\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Abu Dabi\", \"California\", \"Creta\", \"El Hierro\", \"Estados Unidos\", \"Kuwait\", \"Reino Unido\", \"Turquía\"]\npaises: [\"Alemania\", \"Australia\", \"China\", \"Emiratos Árabes Unidos\", \"España\", \"Estados Unidos\", \"Francia\", \"Grecia\", \"Irán\", \"Japón\", \"Kuwait\", \"Reino Unido\", \"Rusia\", \"Turquía\", \"Ucrania\", \"Unión Europea\"]\nentidades: [\"Anthony Albanese\", \"Anthropic\", \"Brent\", \"Christopher Waller\", \"Congreso de EE.UU.\", \"Consejo de Cooperación del Golfo\", \"Cop31\", \"Cuerpo de Guardianes de la Revolución Islámica\", \"Cámara de Comercio de la UE en China\", \"FBI\", \"Fuerzas Armadas de Estados Unidos\", \"Gobierno de Estados Unidos\", \"Intel\", \"Jensen Huang\", \"John Kerry\", \"NOAA\", \"Nvidia\", \"OTAN\", \"OpenAI\", \"Reserva Federal\", \"Senado de Estados Unidos\", \"Servicios Australia\", \"SoftBank\", \"SpaceX\", \"Unión Europea\"]\ntemas: [\"Canarias\", \"China\", \"Golfo\", \"IPO\", \"Irán\", \"OTAN\", \"bases militares\", \"cadenas de suministro\", \"cambio climático\", \"centros de datos\", \"ciberataques\", \"ciberseguridad\", \"clima\", \"combustibles fósiles\", \"comercio\", \"competitividad\", \"controles de exportación\", \"crisis humanitaria\", \"defensa\", \"desbalance comercial\", \"diplomacia\", \"emisiones de carbono\", \"energía\", \"energía verde\", \"espionaje\", \"gobierno corporativo\", \"gobierno digital\", \"guerra en Ucrania\", \"inflación\", \"infraestructura\", \"infraestructura crítica\", \"inteligencia artificial\", \"manufactura\", \"mercados\", \"migración\", \"naufragios\", \"negociaciones de paz\", \"permisos regulatorios\", \"política monetaria\", \"precio del petróleo\", \"regulación de IA\", \"resultados financieros\", \"récords climáticos\", \"sanciones\", \"seguridad nacional\", \"seguridad regional\", \"semiconductores\", \"superávit comercial\", \"tasas de interés\", \"tecnología\", \"temperatura\", \"tensión militar\", \"transición energética\", \"valoración\"]\nbucles_activos: []\ncorte: \"2026-11-10T13:05:17.112135+00:00\"\ninicio_ventana: \"2026-11-09T13:05:17.112135+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-10\n\n## Resumen del día\n\nLas negociaciones trilaterales Rusia-Ucrania-EE.UU. en Abu Dabi marcan el primer acercamiento diplomático sustantivo desde febrero, sin participación de la UE.\nEl escándalo de espionaje vinculado a Jensen Huang se extiende de lo corporativo a lo geopolítico, reabriendo el debate sobre controles de exportación de chips a China.\nFrancia acusa a Irán de ciberataques contra infraestructura de refrigeración comercial y evalúa sanciones, mientras persisten tensiones militares en bases de EE.UU. en Reino Unido.\nAnthropic avanza hacia una OPI que podría valorarla en más de un billón de dólares, en paralelo a señales mixtas en la Fed sobre una posible alza de tasas en diciembre.\nCrisis migratorias simultáneas en El Hierro (España) y frente a Creta (Grecia) evidencian presión sostenida sobre rutas de migración hacia Europa.\n\nVentana de 24 horas hasta 2026-11-10T13:05:17.112135+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, imf, iom, unhcr, un-en, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_cf105f10ce\"></a>\n1. Emisiones de carbono por combustibles fósiles se estabilizan en 2026 según científicos previo a la Cop31 — The Guardian reportó una evaluación científica presentada en la Cop31 que proyecta un estancamiento de las emisiones globales de CO2 por combustibles fósiles en 2026, con caída del 2% en emisiones de petróleo por mayor uso de vehículos eléctricos. — [The Guardian · Medio ambiente, Tue, 10 Nov 2026 11:55:06 GMT](https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push) · medio.\n\n<a id=\"ev_4257c86ccf\"></a>\n2. Kerry dice que EE.UU. y el mundo deben seguir el liderazgo de China en energía verde — The Guardian reportó declaraciones del exsecretario de Estado John Kerry señalando que China ha 'acelerado enormemente' su transición energética mientras otros países 'van a tropezones', en el marco de la Cop31 en Turquía. — [The Guardian, Tue, 10 Nov 2026 12:08:23 GMT](https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31) · medio.\n\n<a id=\"ev_21c9234542\"></a>\n3. NOAA: octubre fue el cuarto más cálido en EE.UU. en 132 años de registros — NOAA informó que la temperatura promedio en EE.UU. continental en octubre fue de 58.7°F, 4.6°F por encima del promedio del siglo XX, el cuarto octubre más cálido registrado en 132 años. — [NOAA NCEI, Mon, 09 Nov 2026 11:00:00 -0500](https://www.ncei.noaa.gov/news/national-climate-202610) · oficial.\n\n## 2. Tecnología\n\n<a id=\"ev_e9fd20497a\"></a>\n1. Nvidia y Jensen Huang demandados por presunta relación con espía china — The Guardian reportó una demanda en California contra Nvidia y su CEO Jensen Huang por presuntamente engañar a accionistas en relación al escándalo de espionaje chino, mientras Trump dijo que el FBI investiga el caso. — [The Guardian, Tue, 10 Nov 2026 12:45:54 GMT](https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi) · medio.\n\n<a id=\"ev_fb1e47a99d\"></a>\n2. Escándalo de espionaje de Huang complica relación de Nvidia con China — CNBC reportó que las acusaciones contra Jensen Huang atrajeron nueva atención sobre su influencia potencial en la política estadounidense de ventas de chips a China. — [CNBC, Tue, 10 Nov 2026 12:00:01 GMT](https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html) · medio.\n\n<a id=\"ev_933cf0f1cf\"></a>\n3. Escándalo de espía en Nvidia aviva debate sobre exportación de chips a China — Al Jazeera reportó que legisladores estadounidenses piden restricciones más estrictas a la venta de chips mientras continúa la investigación sobre la relación del CEO de Nvidia con una presunta espía china. — [Al Jazeera, Tue, 10 Nov 2026 09:42:04 +0000](https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss) · medio.\n\n<a id=\"ev_0ae301a9ba\"></a>\n4. Australia prepara reporte obligatorio tras hackeo de OpenAI que vulneró sitios gubernamentales — The Guardian reportó que el gobierno australiano anunció cambios en la ley penal tras una revisión del hackeo de junio a un portal de Medicare por un agente de OpenAI, sin sanciones penales para la empresa. — [The Guardian, Tue, 10 Nov 2026 06:00:52 GMT](https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack) · medio.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_83ffa7629f\"></a>\n1. Brent cae bajo $90 por primera vez desde agosto ante esperanzas de desescalada en Irán — CNBC reportó que el crudo Brent cayó por debajo de $90 tras declaraciones de Trump de que el conflicto con Irán 'va a terminar bastante pronto', aunque analistas ven poca probabilidad de paz duradera. — [CNBC, Tue, 10 Nov 2026 10:38:49 GMT](https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html) · medio.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_a05c06cb79\"></a>\n1. Superávit comercial de China supera el billón de dólares por segundo año consecutivo — CNBC reportó que el superávit comercial de China superó el billón de dólares hasta octubre, intensificando quejas de socios comerciales por el exceso de bienes chinos baratos en el mercado global. — [CNBC, Tue, 10 Nov 2026 10:24:13 GMT](https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html) · medio.\n\n<a id=\"ev_f6419ca20f\"></a>\n2. Fabricantes europeos podrían renunciar a competir con China para 2030, advierte cámara de comercio — The Guardian reportó declaraciones de Jens Eskelund, de la Cámara de Comercio de la UE en China, advirtiendo que fabricantes europeos podrían integrarse a cadenas de suministro chinas ante pérdidas masivas de empleo. — [The Guardian, Tue, 10 Nov 2026 06:00:30 GMT](https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund) · medio.\n\n<a id=\"ev_8ba29cf73b\"></a>\n3. Senado de EE.UU. avanza proyecto de ley para acelerar permisos de infraestructura energética — The Guardian reportó que el Senado estadounidense avanzó la ley bipartidista Baaja para agilizar permisos de centros de datos, oleoductos y líneas de transmisión, pese a oposición de grupos ambientalistas. — [The Guardian · Medio ambiente, Tue, 10 Nov 2026 02:28:00 GMT](https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote) · medio.\n\n## 5. Geopolítica\n\n<a id=\"ev_34adfdf9df\"></a>\n1. Francia acusa a Irán de ciberataques contra refrigeradores de supermercados — CNBC reportó que Francia acusó al Cuerpo de Guardianes de la Revolución Islámica de Irán de una campaña cibernética sin precedentes contra sistemas de refrigeración de supermercados, con daños de millones de euros, y evalúa sanciones. — [CNBC, Tue, 10 Nov 2026 09:34:24 GMT](https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html) · medio.\n\n<a id=\"ev_50cf8b0cbd\"></a>\n2. EE.UU. busca 'fin definitivo' a la guerra Rusia-Ucrania en conversaciones de Abu Dabi — The Guardian reportó que funcionarios estadounidenses iniciaron en Abu Dabi las primeras negociaciones trilaterales sustantivas entre Rusia y Ucrania desde febrero, incluyendo una propuesta de arquitectura de seguridad a largo plazo. — [The Guardian, Tue, 10 Nov 2026 12:48:32 GMT](https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks) · medio.\n\n<a id=\"ev_d6f10f3f87\"></a>\n3. Arrancan en Abu Dabi negociaciones trilaterales Rusia-Ucrania-EE.UU. sin la UE — El País reportó que iniciaron en Abu Dabi las primeras negociaciones en nueve meses entre Rusia, Ucrania y EE.UU., con la UE excluida, mientras Moscú busca centrar la discusión en el repliegue de tropas de la OTAN. — [El País, Tue, 10 Nov 2026 11:58:20 GMT](https://elpais.com/internacional/2026-11-10/arrancan-en-abu-dabi-las-negociaciones-entre-rusia-ucrania-y-ee-uu-las-primeras-en-nueve-meses.html) · medio.\n\n<a id=\"ev_448b1f50bc\"></a>\n4. El CCG acuerda crear sede militar avanzada en Kuwait — Al Jazeera reportó que los líderes del Consejo de Cooperación del Golfo acordaron establecer una sede militar de comando avanzada en Kuwait para fortalecer la coordinación de defensa regional. — [Al Jazeera, Tue, 10 Nov 2026 12:09:54 +0000](https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss) · medio.\n\n<a id=\"ev_fbf1764d02\"></a>\n5. EE.UU. retira aviones de otra base británica por presuntas amenazas de Irán — El País, citando al Wall Street Journal, reportó que EE.UU. desplazó aeronaves cisterna desde una base en Reino Unido hacia Alemania y otras localizaciones por presuntas amenazas iraníes. — [El País, Tue, 10 Nov 2026 11:33:48 GMT](https://elpais.com/internacional/2026-11-10/estados-unidos-retira-sus-aviones-de-otra-base-del-reino-unido-por-presuntas-amenazas-de-iran.html) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_57bd48f43c\"></a>\n1. Anthropic fija rango de precio de IPO entre $70 y $78, cotizará el 19 de noviembre — Según fuentes citadas por CNBC, Anthropic fijó un rango de precio de $70 a $78 por acción para su OPI, que comenzaría a cotizar el 19 de noviembre, semanas después de la salida a bolsa de SpaceX. — [CNBC, Tue, 10 Nov 2026 12:57:27 GMT](https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html) · medio.\n\n<a id=\"ev_c31ce20412\"></a>\n2. Anthropic busca valoración superior a un billón de dólares en su OPI — MarketWatch reportó que Anthropic podría recaudar hasta $63.000 millones en una OPI prevista para la próxima semana, con una valoración que superaría el billón de dólares. — [MarketWatch, Tue, 10 Nov 2026 12:32:00 GMT](https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories) · medio.\n\n<a id=\"ev_b88c2a785f\"></a>\n3. SoftBank registra pérdida de $7.000 millones por caída de centros de datos e Intel — CNBC reportó que SoftBank Group anunció resultados del segundo trimestre fiscal con una pérdida de $7.000 millones, afectada por su exposición a centros de datos en EE.UU. y la caída en acciones de Intel. — [CNBC, Tue, 10 Nov 2026 09:01:37 GMT](https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html) · medio.\n\n<a id=\"ev_e16099b8f2\"></a>\n4. Gobernador Waller de la Fed pone sobre la mesa alza de medio punto para diciembre — MarketWatch reportó que el gobernador de la Reserva Federal, Christopher Waller, dijo que se inclina por un alza de tasas en diciembre y podría respaldar un incremento de medio punto según los datos de inflación de octubre. — [MarketWatch, Tue, 10 Nov 2026 09:45:00 GMT](https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories) · medio.\n\n<a id=\"ev_de71b6985d\"></a>\n5. Gobernador Waller de la Fed anticipa alza en diciembre, abre puerta a incremento de medio punto — CNBC reportó declaraciones del gobernador de la Reserva Federal Christopher Waller indicando que se inclina hacia un alza de tasas en diciembre, posiblemente de medio punto, dependiendo de los datos de inflación. — [CNBC, Tue, 10 Nov 2026 09:00:01 GMT](https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html) · medio.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_8cba56f158\"></a>\n1. El Hierro recibe 8.000 migrantes en barca en cinco semanas, sistema sanitario al borde del colapso — BBC Mundo reportó que la isla canaria de El Hierro, con 12.000 habitantes, ha recibido 8.000 migrantes en cayucos en las últimas cinco semanas, llevando al sistema sanitario al límite. — [El País, Tue, 10 Nov 2026 00:38:57 GMT](https://elpais.com/us/2026-11-10/es-momento-de-que-nos-unamos-talarico-hace-un-guino-al-bipartidismo-en-un-encuentro-con-su-predecesor-republicano.html) · medio.\n\n<a id=\"ev_3cecb17c14\"></a>\n2. Al menos 20 migrantes muertos en cuatro días de naufragios frente a Creta — France 24, citando a la televisión pública griega, reportó que al menos 20 migrantes africanos murieron entre el 6 y el 9 de noviembre en naufragios cerca de Creta mientras intentaban llegar a Europa continental. — [France 24, Tue, 10 Nov 2026 03:30:13 GMT](https://www.france24.com/es/video/20261110-al-menos-20-migrantes-muertos-en-cuatro-d%C3%ADas-de-naufragios-frente-a-creta) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Con movimiento — La caída del Brent por debajo de $90 (recursos) se vincula directamente a declaraciones de Trump sobre una desescalada 'bastante pronto' del conflicto con Irán, en el contexto de las negociaciones trilaterales Rusia-Ucrania-EE.UU. iniciadas en Abu Dabi (geopolítica), mostrando cómo la dinámica diplomática mueve el precio de los recursos energéticos. [ev_83ffa7629f](#ev_83ffa7629f) [ev_50cf8b0cbd](#ev_50cf8b0cbd) [ev_d6f10f3f87](#ev_d6f10f3f87)\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Posibilidad de sanciones francesas contra Irán por los ciberataques a sistemas de refrigeración, lo que podría escalar la tensión bilateral. [ev_34adfdf9df](#ev_34adfdf9df)\n- Posible ampliación de restricciones legislativas en EE.UU. a la exportación de chips a China si avanza la investigación sobre Jensen Huang. [ev_933cf0f1cf](#ev_933cf0f1cf) [ev_fb1e47a99d](#ev_fb1e47a99d)\n- Posible acuerdo de seguridad de largo plazo entre Rusia, Ucrania y EE.UU. si las conversaciones de Abu Dabi progresan en próximas rondas. [ev_50cf8b0cbd](#ev_50cf8b0cbd) [ev_d6f10f3f87](#ev_d6f10f3f87)\n- Posible alza de tasas de medio punto por parte de la Fed en diciembre, condicionada a los datos de inflación de octubre según Waller. [ev_e16099b8f2](#ev_e16099b8f2) [ev_de71b6985d](#ev_de71b6985d)\n- Posible profundización de la crisis sanitaria en El Hierro si continúa el ritmo de llegadas migratorias. [ev_8cba56f158](#ev_8cba56f158)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-06T11:59:56+00:00 |\n| OpenAI | oficial | Disponible | 3 | 2026-11-10T12:00:00+00:00 |\n| NASA | oficial | Disponible | 10 | 2026-11-10T05:05:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 0 | 2026-11-06T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-11-06T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-09T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-09T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 1 | 2026-11-09T21:00:00+00:00 |\n| BCE | oficial | Disponible | 0 | 2026-11-07T14:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | No disponible | 0 | Sin fecha verificable |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 3 | 2026-11-10T13:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-11-09T12:00:45+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 1 | 2026-11-09T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-11T23:23:52+00:00 |\n| NASA · Comunicados | oficial | Disponible | 10 | 2026-11-10T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-11-05T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 1 | 2026-11-10T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 1 | 2026-11-10T12:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-09T23:50:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-05T15:27:25+00:00 |\n| BBC News | medio | Disponible | 28 | 2026-11-10T13:01:03+00:00 |\n| BBC Mundo | medio | Disponible | 14 | 2026-11-10T11:58:04+00:00 |\n| CNN | medio | Disponible | 97 | 2026-11-10T13:00:15.222000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-10T12:29:44+00:00 |\n| The Guardian | medio | Disponible | 25 | 2026-11-10T12:52:06+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-10T12:56:41+00:00 |\n| El País | medio | Disponible | 18 | 2026-11-10T12:48:01+00:00 |\n| CNBC | medio | Disponible | 30 | 2026-11-10T13:00:01+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-10T12:33:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 5 | 2026-11-10T12:47:35+00:00 |\n| BBC · Tecnología | medio | Disponible | 8 | 2026-11-10T13:01:03+00:00 |\n| BBC · Economía | medio | Disponible | 22 | 2026-11-10T13:01:03+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-10\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Abu Dabi\", \"California\", \"Creta\", \"El Hierro\", \"Estados Unidos\", \"Kuwait\", \"Reino Unido\", \"Turquía\"]\npaises: [\"Alemania\", \"Australia\", \"China\", \"Emiratos Árabes Unidos\", \"España\", \"Estados Unidos\", \"Francia\", \"Grecia\", \"Irán\", \"Japón\", \"Kuwait\", \"Reino Unido\", \"Rusia\", \"Turquía\", \"Ucrania\", \"Unión Europea\"]\nentidades: [\"Anthony Albanese\", \"Anthropic\", \"Brent\", \"Christopher Waller\", \"Congreso de EE.UU.\", \"Consejo de Cooperación del Golfo\", \"Cop31\", \"Cuerpo de Guardianes de la Revolución Islámica\", \"Cámara de Comercio de la UE en China\", \"FBI\", \"Fuerzas Armadas de Estados Unidos\", \"Gobierno de Estados Unidos\", \"Intel\", \"Jensen Huang\", \"John Kerry\", \"NOAA\", \"Nvidia\", \"OTAN\", \"OpenAI\", \"Reserva Federal\", \"Senado de Estados Unidos\", \"Servicios Australia\", \"SoftBank\", \"SpaceX\", \"Unión Europea\"]\ntemas: [\"Canarias\", \"China\", \"Golfo\", \"IPO\", \"Irán\", \"OTAN\", \"bases militares\", \"cadenas de suministro\", \"cambio climático\", \"centros de datos\", \"ciberataques\", \"ciberseguridad\", \"clima\", \"combustibles fósiles\", \"comercio\", \"competitividad\", \"controles de exportación\", \"crisis humanitaria\", \"defensa\", \"desbalance comercial\", \"diplomacia\", \"emisiones de carbono\", \"energía\", \"energía verde\", \"espionaje\", \"gobierno corporativo\", \"gobierno digital\", \"guerra en Ucrania\", \"inflación\", \"infraestructura\", \"infraestructura crítica\", \"inteligencia artificial\", \"manufactura\", \"mercados\", \"migración\", \"naufragios\", \"negociaciones de paz\", \"permisos regulatorios\", \"política monetaria\", \"precio del petróleo\", \"regulación de IA\", \"resultados financieros\", \"récords climáticos\", \"sanciones\", \"seguridad nacional\", \"seguridad regional\", \"semiconductores\", \"superávit comercial\", \"tasas de interés\", \"tecnología\", \"temperatura\", \"tensión militar\", \"transición energética\", \"valoración\"]\nbucles_activos: []\ncorte: \"2026-11-10T13:05:17.112135+00:00\"\ninicio_ventana: \"2026-11-09T13:05:17.112135+00:00\"\nestado: \"completo\"\n```\n",
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-11\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Abu Dabi\", \"Assam\", \"Atlántico Norte\", \"Bangladés\", \"Caracas\", \"Caribe\", \"Chile\", \"China\", \"Dublín\", \"Escocia\", \"Estados Unidos\", \"Europa\", \"Gaza\", \"Golfo de América\", \"Inglaterra\", \"Islas Malvinas\", \"Mar del Norte\", \"Moscú\", \"Norfolk\", \"Nueva York\", \"Paraguay\", \"Reino Unido\", \"Turquía\", \"Washington\", \"Zaporiyia\"]\npaises: [\"Argentina\", \"Bangladés\", \"Chile\", \"China\", \"Estados Unidos\", \"India\", \"Indonesia\", \"Irán\", \"Pakistán\", \"Palestina\", \"Paraguay\", \"Reino Unido\", \"Rusia\", \"Ucrania\", \"Unión Europea\", \"Venezuela\"]\nentidades: [\"Andy Burnham\", \"Anthropic\", \"Banco Central Europeo\", \"Centro Nacional de Huracanes\", \"Cop31\", \"Donald Trump\", \"Ed Miliband\", \"Goldman Sachs\", \"Jared Kushner\", \"Jensen Huang\", \"José Antonio Kast\", \"KKR\", \"NOAA\", \"Nvidia\", \"Pete Hegseth\", \"Philip Lane\", \"Piero Cipollone\", \"RWE\", \"Reserva Federal\", \"Santiago Peña\", \"Scott Bessent\", \"Sheikh Hasina\", \"Steve Witkoff\", \"Ueno Bank\", \"Vladimir Putin\", \"Volodymyr Zelenskyy\", \"Wachtell, Lipton, Rosen & Katz\"]\ntemas: [\"IA\", \"IPO\", \"accidente ferroviario\", \"centros de datos\", \"chips IA\", \"comercio bilateral\", \"comercio exterior\", \"comunicación de bancos centrales\", \"controles de exportación\", \"corrupción\", \"costo de vida\", \"crecimiento económico\", \"crisis bancaria\", \"crisis humanitaria\", \"cumbre climática\", \"diplomacia\", \"disputa territorial\", \"disturbios\", \"energía\", \"energía eléctrica\", \"energía eólica\", \"euro digital\", \"exilio político\", \"financiamiento climático\", \"gas natural\", \"gobierno corporativo\", \"gripe aviar\", \"guerra Ucrania-Rusia\", \"huracanes\", \"impeachment\", \"inflación\", \"infraestructura\", \"inteligencia artificial\", \"inversión privada\", \"negociaciones de paz\", \"pagos\", \"petróleo\", \"petróleo offshore\", \"política interna\", \"política monetaria\", \"precio del diésel\", \"precios de energía\", \"pronóstico tropical\", \"reclutamiento militar\", \"relaciones EE.UU.-China\", \"sanciones\", \"sanciones comerciales\", \"seguridad alimentaria\", \"seguridad climática\", \"seguridad nacional\", \"transporte\"]\nbucles_activos: []\ncorte: \"2026-11-11T12:14:51.596844+00:00\"\ninicio_ventana: \"2026-11-10T12:14:51.596844+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-11\n\n## Resumen del día\n\nLas negociaciones trilaterales Rusia-Ucrania-EE.UU. en Abu Dabi cerraron con un acuerdo de canje de prisioneros pero sin avances sustantivos, según CNBC y The Guardian; Kushner y Witkoff viajarán a Moscú y luego a Dublín, per CNN.\nEl sector tecnológico mostró tensiones simultáneas: planes de centros de datos de IA con generación a gas a gran escala (The Guardian), investigación interna de Nvidia sobre su CEO (The Guardian) y evasión de controles de exportación de chips hacia China (Al Jazeera).\nEn finanzas, la inflación de octubre en EE.UU. subió más de lo esperado (BBC), llevando a Goldman Sachs a ajustar su previsión sobre tasas de la Reserva Federal (MarketWatch).\nEn clima, no hubo riesgo de ciclones tropicales según NOAA, mientras el Reino Unido anunció inversión en eólica marina y advertencias sobre seguridad climática se plantearon de cara a la COP31 (The Guardian).\nNo se documentó vínculo verificable entre dimensiones para los bucles de Escasez de Recursos ni de Armamentización de la Cadena de Suministro en los hechos del día.\n\nVentana de 24 horas hasta 2026-11-11T12:14:51.596844+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar cisa, un, imf, iom, unhcr, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_1922f3f40d\"></a>\n1. NOAA no prevé formación de ciclones tropicales en el Atlántico en los próximos 7 días — El Centro Nacional de Huracanes de la NOAA informó que no se espera formación de ciclones tropicales en el Atlántico Norte, el mar Caribe ni el Golfo de América en los próximos siete días. — [NOAA · Centro Nacional de Huracanes, Wed, 11 Nov 2026 11:33:09 GMT](https://www.nhc.noaa.gov/gtwo.php?basin=atlc) · oficial.\n\n<a id=\"ev_763401729b\"></a>\n2. Canciller británico advierte que seguridad de todos los países está en riesgo por crisis climática — Ed Miliband advertirá en la COP31 que la seguridad nacional de todos los países está en riesgo por la crisis climática, afirmando que escenarios de ciencia ficción son ya 'ocurrencias regulares', según The Guardian. — [The Guardian, Wed, 11 Nov 2026 09:09:47 GMT](https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31) · medio.\n\n<a id=\"ev_de7708f518\"></a>\n3. Países en desarrollo en limbo por retraso de naciones ricas en planes de financiamiento climático — The Guardian reporta que países en desarrollo quedan en limbo porque grandes economías no han definido sus planes de financiamiento climático, pese al compromiso de 300.000 millones de dólares anuales para 2035. — [The Guardian · Medio ambiente, Wed, 11 Nov 2026 07:00:32 GMT](https://www.theguardian.com/environment/2026/nov/11/developing-countries-climate-finance-delay) · medio.\n\n<a id=\"ev_83ba3e42d9\"></a>\n4. Reino Unido anuncia inversión de 12.000 millones de libras en eólica marina antes de COP31 — El gobierno británico anunció una inversión de 12.000 millones de libras de RWE y KKR en eólica marina frente a Norfolk, mientras intenta reparar su imagen tras aprobar el yacimiento de gas Jackdaw, según The Guardian. — [The Guardian, Wed, 11 Nov 2026 09:46:18 GMT](https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_dc070db5ac\"></a>\n1. Centros de datos de IA planean centrales de gas a gran escala pese a riesgos climáticos — Investigación citada por The Guardian revela que desarrolladores de centros de datos de IA en EE.UU., Reino Unido y Europa planean 181GW de capacidad a gas en sitio por demoras de conexión a redes nacionales, casi cuatro veces la demanda pico de Gran Bretaña. — [The Guardian, Wed, 11 Nov 2026 12:00:48 GMT](https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations) · medio.\n\n<a id=\"ev_32106b5b18\"></a>\n2. Nvidia contrata bufete legal para investigar relación de Jensen Huang con presunta espía china — Nvidia contrató al bufete Wachtell, Lipton, Rosen & Katz para investigar la relación de su CEO Jensen Huang con una presunta espía china, según The Guardian. La investigación será liderada por Joon Kim. — [The Guardian, Wed, 11 Nov 2026 11:49:12 GMT](https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship) · medio.\n\n<a id=\"ev_8a3cbfc6c1\"></a>\n3. Universidad china compra chips Nvidia H200 pese a prohibición de EE.UU. — Una investigación de Al Jazeera revela que entidades chinas acceden a tecnología de IA restringida por EE.UU., pese a estrictas medidas de control de exportación, incluyendo la compra de chips Nvidia H200 por una universidad china. — [Al Jazeera, Wed, 11 Nov 2026 07:26:28 +0000](https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss) · medio.\n\n<a id=\"ev_38a6570fcc\"></a>\n4. Anthropic fija precio de su salida a bolsa de 1.3 billones de dólares pese a advertencia 'catastrófica' — Anthropic, creadora del chatbot Claude, fijó el precio de sus acciones entre 70 y 78 dólares para su debut bursátil valorado en 1.3 billones de dólares, por debajo de lo esperado, según BBC. — [BBC · Tecnología, Tue, 10 Nov 2026 17:56:12 GMT](https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_b906b5cce2\"></a>\n5. Bessent dice que EE.UU. y China no deben 'albergar ilusiones' en cooperación y competencia en IA — El secretario del Tesoro Bessent afirmó que EE.UU. y China deben evitar ilusiones mientras cooperan y compiten en IA, según CNBC. Washington y Pekín acordaron en septiembre un diálogo sobre IA para prevenir incidentes graves. — [CNBC, Wed, 11 Nov 2026 05:15:50 GMT](https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html) · medio.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_9fc943763f\"></a>\n1. Reino Unido ordena recluir aves de corral por temor a gripe aviar — Inglaterra y Escocia ordenaron mantener a las aves de corral en interiores por segundo año consecutivo ante el aumento de riesgo de una cepa grave de gripe aviar, según The Guardian, afectando a quienes tienen 50 o más aves. — [The Guardian, Wed, 11 Nov 2026 12:03:15 GMT](https://www.theguardian.com/world/2026/nov/11/bird-flu-poultry-captive-birds-kept-inside-england-scotland) · medio.\n\n<a id=\"ev_9003e8cf26\"></a>\n2. Camioneros chilenos mantienen paro por alto precio del diésel pese a reunión con Gobierno — Un sector de camioneros chilenos mantiene la paralización por el elevado precio de los combustibles, presionando al presidente Kast, tras no alcanzar acuerdo con el Gobierno, según France 24. — [France 24, Wed, 11 Nov 2026 03:11:01 GMT](https://www.france24.com/es/programas/econom%C3%ADa/20261111-economia-chile-camiones-paro-diesel) · medio.\n\n<a id=\"ev_4691fe73de\"></a>\n3. Venezuela reforma sector eléctrico y permite inversión privada tras prohibición desde 2007 — El Gobierno de Venezuela anunció una reforma al sector eléctrico que permitirá la participación privada en generación, comercialización y distribución de energía, algo prohibido desde 2007, según France 24. — [France 24, Wed, 11 Nov 2026 02:44:34 GMT](https://www.france24.com/es/video/20261111-informe-desde-caracas-venezuela-reforma-el-sector-el%C3%A9ctrico-y-permite-entrada-de-inversi%C3%B3n-privada) · medio.\n\n<a id=\"ev_e6ed0603f0\"></a>\n4. Precios de energía caen por distensión en tensiones con Irán, más allá del ánimo de Trump — CNN reporta que los precios de la energía están cayendo en un contexto de distensión con Irán, señalando que factores de mercado más allá del ánimo conciliador de Trump explican la tendencia. — [CNN, 2026-11-11T10:00:15.861Z](https://www.cnn.com/2026/11/11/economy/oil-price-iran-trump) · medio.\n\n<a id=\"ev_99584f31ec\"></a>\n5. Disputa Reino Unido-Argentina por proyecto petrolero en las Malvinas llega a tribunal — El Reino Unido defenderá su proyecto petrolero offshore en las Malvinas en una audiencia de tribunal, mientras Argentina busca medidas para bloquearlo, según Al Jazeera. — [Al Jazeera, Wed, 11 Nov 2026 10:28:12 +0000](https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss) · medio.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_ddead5d28e\"></a>\n1. Importaciones de Pakistán desde India crecen pese a tensiones y ausencia de comercio formal — Según Al Jazeera, aunque formalmente no hay comercio entre Pakistán e India, las importaciones paquistaníes desde India han vuelto a niveles previos a la guerra, lo que plantea interrogantes sobre un posible deshielo comercial. — [Al Jazeera, Wed, 11 Nov 2026 08:30:40 +0000](https://www.aljazeera.com/news/2026/11/11/how-are-pakistans-imports-from-india-growing-again-despite-tensions?traffic_source=rss) · medio.\n\n<a id=\"ev_a1b92b9450\"></a>\n2. Superávit comercial de China de un billón de dólares esconde señales de alerta económica — Al Jazeera reporta que el superávit comercial de China, impulsado por exportaciones récord, enmascara una mayor propensión al ahorro entre los chinos que podría socavar el crecimiento económico a largo plazo. — [Al Jazeera, Wed, 11 Nov 2026 08:29:10 +0000](https://www.aljazeera.com/economy/2026/11/11/why-chinas-1-trillion-trade-surplus-isnt-all-good-news-for-its-economy?traffic_source=rss) · medio.\n\n<a id=\"ev_bfd5d65a64\"></a>\n3. Tren de pasajeros descarrila en India dejando varios heridos — Un tren de pasajeros descarriló en el estado de Assam, India, dejando varios heridos, según Al Jazeera, que difundió video desde la cabina del maquinista mostrando el momento del accidente. — [Al Jazeera, Wed, 11 Nov 2026 11:42:20 +0000](https://www.aljazeera.com/video/newsfeed/2026/11/11/passenger-train-derails-in-india-leaving-several-injured?traffic_source=rss) · medio.\n\n## 5. Geopolítica\n\n<a id=\"ev_bed1dabe9b\"></a>\n1. Zelenski advierte que Ucrania 'no es un bien inmobiliario' en medio de negociaciones de paz — Zelenski declaró que Ucrania 'no es un bien inmobiliario' durante la segunda jornada de negociaciones de paz mediadas por EE.UU. en Abu Dabi, según CNBC. Expertos consideran que un acuerdo con Rusia sigue siendo difícil de alcanzar. — [CNBC, Wed, 11 Nov 2026 12:12:48 GMT](https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html) · medio.\n\n<a id=\"ev_92ffeeede5\"></a>\n2. Conversaciones Ucrania-Rusia en Abu Dabi terminan con acuerdo de canje de prisioneros — Las conversaciones entre Ucrania, Rusia y EE.UU. en Abu Dabi terminaron con un acuerdo sobre canje de prisioneros, pero Moscú se mostró reacio a la participación europea, según The Guardian. El negociador ruso dijo que habrá más encuentros. — [The Guardian, Wed, 11 Nov 2026 11:59:40 GMT](https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates) · medio.\n\n<a id=\"ev_40ece077dd\"></a>\n3. Enviados de Trump viajarán a Moscú tras conversaciones de paz sin avances — Según CNN, los enviados de Trump, Jared Kushner y Steve Witkoff, viajarán a Moscú para reunirse con Putin tras concluir sin avances las conversaciones de paz sobre Ucrania, luego se reunirán con Zelenski en Dublín. — [CNN, 2026-11-11T11:42:08.019Z](https://www.cnn.com/2026/11/11/politics/trump-envoys-russia-trip-peace-talks-intl) · medio.\n\n<a id=\"ev_01afc48362\"></a>\n4. Cámara de Representantes de EE.UU. bloquea intento de destituir al secretario de Defensa Hegseth — La Cámara de Representantes de EE.UU., con mayoría republicana, bloqueó un intento de juicio político contra el secretario de Defensa Pete Hegseth, según BBC. Trump celebró el resultado llamándolo 'un gran patriota estadounidense'. — [BBC News, Wed, 11 Nov 2026 11:47:22 GMT](https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_014c57db04\"></a>\n5. Secretario del Tesoro de EE.UU. Bessent se traslada a base militar tras amenazas iraníes — El secretario del Tesoro de EE.UU., Scott Bessent, se trasladó a una base militar tras una amenaza iraní contra su vida, según The Guardian citando al New York Times. Bessent ha liderado sanciones económicas contra Irán. — [The Guardian, Wed, 11 Nov 2026 09:11:31 GMT](https://www.theguardian.com/us-news/2026/nov/11/us-treasury-chief-scott-bessent-moves-military-base-iran-threats) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_57fea6f537\"></a>\n1. Goldman Sachs cambia previsión sobre tasas de la Reserva Federal tras dato de inflación — Goldman Sachs ajustó su previsión sobre futuras decisiones de tasas de la Reserva Federal tras conocerse datos de inflación más altos de lo esperado el martes, según MarketWatch, anticipando un mayor endurecimiento monetario. — [MarketWatch, Wed, 11 Nov 2026 10:37:00 GMT](https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories) · medio.\n\n<a id=\"ev_2dc04283db\"></a>\n2. Inflación en EE.UU. sube más de lo esperado en octubre — Los precios en EE.UU. subieron un 0.4% en octubre, impulsados por aumentos en vivienda, alimentos y energía, según BBC, superando las expectativas de analistas. — [BBC · Economía, Tue, 10 Nov 2026 14:45:46 GMT](https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_902825af47\"></a>\n3. BCE: vicepresidente Lane analiza la comunicación de política monetaria del banco central — El economista jefe del BCE, Philip Lane, presentó un análisis sobre la ciencia y práctica de la comunicación de política monetaria basada en la experiencia del banco central europeo. — [BCE, Tue, 10 Nov 2026 17:45:00 +0100](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html) · oficial.\n\n<a id=\"ev_364dac3f28\"></a>\n4. BCE: Cipollone compara efectivo y euro digital como 'dos caras de la misma moneda' — El directivo del BCE Piero Cipollone presentó un discurso sobre la coexistencia del efectivo y el euro digital, describiéndolos como complementarios en el sistema de pagos europeo. — [BCE, Tue, 10 Nov 2026 15:00:00 +0100](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html) · oficial.\n\n<a id=\"ev_fe69d12991\"></a>\n5. Fiscalía de Paraguay halla vacía bóveda en propiedad del expresidente Peña vinculada a caso Ueno Bank — La Fiscalía paraguaya allanó una bóveda oculta en una propiedad del expresidente Santiago Peña, hallándola vacía, en el marco de la investigación por el caso Ueno Bank, según BBC Mundo. La crisis bancaria dejó a millones sin acceso a sus ahorros. — [BBC Mundo, Tue, 10 Nov 2026 22:15:55 GMT](https://www.bbc.com/mundo/articles/c6zxjxyz1ejpo?at_medium=RSS&at_campaign=rss) · medio.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_7fe5529665\"></a>\n1. Estallan protestas en Bangladés de seguidores de la expremier depuesta — Seguidores de la expremier Sheikh Hasina protagonizaron disturbios en Bangladés exigiendo su regreso del exilio en India, según BBC, en medio de tensión política persistente en el país. — [BBC News, Tue, 10 Nov 2026 19:26:42 GMT](https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_f49189a902\"></a>\n2. Ucrania captura su primer prisionero de guerra indonesio en medio de aumento de reclutamiento ruso — Ucrania capturó a su primer prisionero de guerra indonesio, un hombre de 49 años reclutado por Rusia, según The Guardian, en medio de un reporte de aumento del reclutamiento ruso de ciudadanos del sudeste asiático. — [The Guardian, Wed, 11 Nov 2026 05:33:27 GMT](https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia) · medio.\n\n<a id=\"ev_2c2236b87c\"></a>\n3. Colapso de infraestructura en Gaza deja a residentes indefensos ante inundaciones — El clima invernal continúa causando estragos en Gaza, con inundaciones y fuertes vientos que afectan a una población cuya infraestructura ha colapsado, según Al Jazeera. — [Al Jazeera, Wed, 11 Nov 2026 10:12:37 +0000](https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Sin movimiento verificado hoy\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Posibilidad de nuevo encuentro diplomático Rusia-Ucrania-EE.UU. tras la visita de Kushner y Witkoff a Moscú y Dublín, según lo anunciado por CNN. [ev_40ece077dd](#ev_40ece077dd)\n- Posibilidad de escalada regulatoria sobre Nvidia si la investigación sobre Jensen Huang arroja hallazgos adicionales, según The Guardian. [ev_32106b5b18](#ev_32106b5b18)\n- Posibilidad de mayor escrutinio sobre controles de exportación de chips de IA a China tras revelarse compras de universidades chinas, según Al Jazeera. [ev_8a3cbfc6c1](#ev_8a3cbfc6c1)\n- Posibilidad de ajuste al alza en las tasas de la Reserva Federal en próximas reuniones si persiste la tendencia inflacionaria, según previsión de Goldman Sachs citada por MarketWatch. [ev_57fea6f537](#ev_57fea6f537) [ev_2dc04283db](#ev_2dc04283db)\n- Posibilidad de nuevas revelaciones en la causa Ueno Bank en Paraguay tras el hallazgo de la bóveda vacía en la propiedad del expresidente Peña, según BBC Mundo. [ev_fe69d12991](#ev_fe69d12991)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-06T11:59:56+00:00 |\n| OpenAI | oficial | Disponible | 1 | 2026-11-12T00:00:00+00:00 |\n| NASA | oficial | Disponible | 6 | 2026-11-11T05:05:00+00:00 |\n| CISA | oficial | No disponible | 0 | Sin fecha verificable |\n| EIA | oficial | Disponible | 0 | 2026-11-06T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-11-10T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-09T00:00:00+00:00 |\n| ONU | oficial | No disponible | 0 | Sin fecha verificable |\n| Reserva Federal | oficial | Disponible | 0 | 2026-11-09T21:00:00+00:00 |\n| BCE | oficial | Disponible | 2 | 2026-11-10T16:45:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-11-10T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 12 | 2026-11-11T09:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-11-09T12:00:45+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-11-09T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-12T23:33:09+00:00 |\n| NASA · Comunicados | oficial | Disponible | 6 | 2026-11-11T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-11-05T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-11-10T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-11-10T12:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-10T23:50:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-05T15:27:25+00:00 |\n| BBC News | medio | Disponible | 23 | 2026-11-11T12:14:12+00:00 |\n| BBC Mundo | medio | Disponible | 12 | 2026-11-11T11:33:18+00:00 |\n| CNN | medio | Disponible | 102 | 2026-11-11T12:00:15.581000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-11T11:46:26+00:00 |\n| The Guardian | medio | Disponible | 28 | 2026-11-11T12:09:30+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-11T11:42:20+00:00 |\n| El País | medio | Disponible | 11 | 2026-11-11T04:40:00+00:00 |\n| CNBC | medio | Disponible | 30 | 2026-11-11T12:12:48+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-11T12:00:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 9 | 2026-11-11T11:40:02+00:00 |\n| BBC · Tecnología | medio | Disponible | 6 | 2026-11-11T11:33:24+00:00 |\n| BBC · Economía | medio | Disponible | 16 | 2026-11-11T10:03:34+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-11\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Abu Dabi\", \"Assam\", \"Atlántico Norte\", \"Bangladés\", \"Caracas\", \"Caribe\", \"Chile\", \"China\", \"Dublín\", \"Escocia\", \"Estados Unidos\", \"Europa\", \"Gaza\", \"Golfo de América\", \"Inglaterra\", \"Islas Malvinas\", \"Mar del Norte\", \"Moscú\", \"Norfolk\", \"Nueva York\", \"Paraguay\", \"Reino Unido\", \"Turquía\", \"Washington\", \"Zaporiyia\"]\npaises: [\"Argentina\", \"Bangladés\", \"Chile\", \"China\", \"Estados Unidos\", \"India\", \"Indonesia\", \"Irán\", \"Pakistán\", \"Palestina\", \"Paraguay\", \"Reino Unido\", \"Rusia\", \"Ucrania\", \"Unión Europea\", \"Venezuela\"]\nentidades: [\"Andy Burnham\", \"Anthropic\", \"Banco Central Europeo\", \"Centro Nacional de Huracanes\", \"Cop31\", \"Donald Trump\", \"Ed Miliband\", \"Goldman Sachs\", \"Jared Kushner\", \"Jensen Huang\", \"José Antonio Kast\", \"KKR\", \"NOAA\", \"Nvidia\", \"Pete Hegseth\", \"Philip Lane\", \"Piero Cipollone\", \"RWE\", \"Reserva Federal\", \"Santiago Peña\", \"Scott Bessent\", \"Sheikh Hasina\", \"Steve Witkoff\", \"Ueno Bank\", \"Vladimir Putin\", \"Volodymyr Zelenskyy\", \"Wachtell, Lipton, Rosen & Katz\"]\ntemas: [\"IA\", \"IPO\", \"accidente ferroviario\", \"centros de datos\", \"chips IA\", \"comercio bilateral\", \"comercio exterior\", \"comunicación de bancos centrales\", \"controles de exportación\", \"corrupción\", \"costo de vida\", \"crecimiento económico\", \"crisis bancaria\", \"crisis humanitaria\", \"cumbre climática\", \"diplomacia\", \"disputa territorial\", \"disturbios\", \"energía\", \"energía eléctrica\", \"energía eólica\", \"euro digital\", \"exilio político\", \"financiamiento climático\", \"gas natural\", \"gobierno corporativo\", \"gripe aviar\", \"guerra Ucrania-Rusia\", \"huracanes\", \"impeachment\", \"inflación\", \"infraestructura\", \"inteligencia artificial\", \"inversión privada\", \"negociaciones de paz\", \"pagos\", \"petróleo\", \"petróleo offshore\", \"política interna\", \"política monetaria\", \"precio del diésel\", \"precios de energía\", \"pronóstico tropical\", \"reclutamiento militar\", \"relaciones EE.UU.-China\", \"sanciones\", \"sanciones comerciales\", \"seguridad alimentaria\", \"seguridad climática\", \"seguridad nacional\", \"transporte\"]\nbucles_activos: []\ncorte: \"2026-11-11T12:14:51.596844+00:00\"\ninicio_ventana: \"2026-11-10T12:14:51.596844+00:00\"\nestado: \"completo\"\n```\n",
   "nexo": {
     "resumen": [
-      "Las negociaciones trilaterales Rusia-Ucrania-EE.UU. en Abu Dabi marcan el primer acercamiento diplomático sustantivo desde febrero, sin participación de la UE.",
-      "El escándalo de espionaje vinculado a Jensen Huang se extiende de lo corporativo a lo geopolítico, reabriendo el debate sobre controles de exportación de chips a China.",
-      "Francia acusa a Irán de ciberataques contra infraestructura de refrigeración comercial y evalúa sanciones, mientras persisten tensiones militares en bases de EE.UU. en Reino Unido.",
-      "Anthropic avanza hacia una OPI que podría valorarla en más de un billón de dólares, en paralelo a señales mixtas en la Fed sobre una posible alza de tasas en diciembre.",
-      "Crisis migratorias simultáneas en El Hierro (España) y frente a Creta (Grecia) evidencian presión sostenida sobre rutas de migración hacia Europa."
+      "Las negociaciones trilaterales Rusia-Ucrania-EE.UU. en Abu Dabi cerraron con un acuerdo de canje de prisioneros pero sin avances sustantivos, según CNBC y The Guardian; Kushner y Witkoff viajarán a Moscú y luego a Dublín, per CNN.",
+      "El sector tecnológico mostró tensiones simultáneas: planes de centros de datos de IA con generación a gas a gran escala (The Guardian), investigación interna de Nvidia sobre su CEO (The Guardian) y evasión de controles de exportación de chips hacia China (Al Jazeera).",
+      "En finanzas, la inflación de octubre en EE.UU. subió más de lo esperado (BBC), llevando a Goldman Sachs a ajustar su previsión sobre tasas de la Reserva Federal (MarketWatch).",
+      "En clima, no hubo riesgo de ciclones tropicales según NOAA, mientras el Reino Unido anunció inversión en eólica marina y advertencias sobre seguridad climática se plantearon de cara a la COP31 (The Guardian).",
+      "No se documentó vínculo verificable entre dimensiones para los bucles de Escasez de Recursos ni de Armamentización de la Cadena de Suministro en los hechos del día."
     ],
     "flujos": {
       "Presión Climática": {
@@ -1023,13 +1293,9 @@
         "hechos": []
       },
       "Palanca Geopolítica": {
-        "estado": "Con movimiento",
-        "texto": "La caída del Brent por debajo de $90 (recursos) se vincula directamente a declaraciones de Trump sobre una desescalada 'bastante pronto' del conflicto con Irán, en el contexto de las negociaciones trilaterales Rusia-Ucrania-EE.UU. iniciadas en Abu Dabi (geopolítica), mostrando cómo la dinámica diplomática mueve el precio de los recursos energéticos.",
-        "hechos": [
-          "ev_83ffa7629f",
-          "ev_50cf8b0cbd",
-          "ev_d6f10f3f87"
-        ]
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
       },
       "Flujos de Recursos": {
         "estado": "Sin movimiento verificado hoy",
@@ -1061,36 +1327,34 @@
     },
     "senales": [
       {
-        "texto": "Posibilidad de sanciones francesas contra Irán por los ciberataques a sistemas de refrigeración, lo que podría escalar la tensión bilateral.",
+        "texto": "Posibilidad de nuevo encuentro diplomático Rusia-Ucrania-EE.UU. tras la visita de Kushner y Witkoff a Moscú y Dublín, según lo anunciado por CNN.",
         "hechos": [
-          "ev_34adfdf9df"
+          "ev_40ece077dd"
         ]
       },
       {
-        "texto": "Posible ampliación de restricciones legislativas en EE.UU. a la exportación de chips a China si avanza la investigación sobre Jensen Huang.",
+        "texto": "Posibilidad de escalada regulatoria sobre Nvidia si la investigación sobre Jensen Huang arroja hallazgos adicionales, según The Guardian.",
         "hechos": [
-          "ev_933cf0f1cf",
-          "ev_fb1e47a99d"
+          "ev_32106b5b18"
         ]
       },
       {
-        "texto": "Posible acuerdo de seguridad de largo plazo entre Rusia, Ucrania y EE.UU. si las conversaciones de Abu Dabi progresan en próximas rondas.",
+        "texto": "Posibilidad de mayor escrutinio sobre controles de exportación de chips de IA a China tras revelarse compras de universidades chinas, según Al Jazeera.",
         "hechos": [
-          "ev_50cf8b0cbd",
-          "ev_d6f10f3f87"
+          "ev_8a3cbfc6c1"
         ]
       },
       {
-        "texto": "Posible alza de tasas de medio punto por parte de la Fed en diciembre, condicionada a los datos de inflación de octubre según Waller.",
+        "texto": "Posibilidad de ajuste al alza en las tasas de la Reserva Federal en próximas reuniones si persiste la tendencia inflacionaria, según previsión de Goldman Sachs citada por MarketWatch.",
         "hechos": [
-          "ev_e16099b8f2",
-          "ev_de71b6985d"
+          "ev_57fea6f537",
+          "ev_2dc04283db"
         ]
       },
       {
-        "texto": "Posible profundización de la crisis sanitaria en El Hierro si continúa el ritmo de llegadas migratorias.",
+        "texto": "Posibilidad de nuevas revelaciones en la causa Ueno Bank en Paraguay tras el hallazgo de la bóveda vacía en la propiedad del expresidente Peña, según BBC Mundo.",
         "hechos": [
-          "ev_8cba56f158"
+          "ev_fe69d12991"
         ]
       }
     ],
@@ -1108,12 +1372,12 @@
     },
     "openai": {
       "ok": true,
-      "piezas": 1374,
+      "piezas": 1380,
       "fuente": "OpenAI",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-10T12:00:00+00:00",
-      "recientes": 3
+      "ultima_publicacion": "2026-11-12T00:00:00+00:00",
+      "recientes": 1
     },
     "nasa": {
       "ok": true,
@@ -1121,8 +1385,8 @@
       "fuente": "NASA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-10T05:05:00+00:00",
-      "recientes": 10
+      "ultima_publicacion": "2026-11-11T05:05:00+00:00",
+      "recientes": 6
     },
     "cisa": {
       "ok": false,
@@ -1144,11 +1408,11 @@
     },
     "fao": {
       "ok": true,
-      "piezas": 17,
+      "piezas": 19,
       "fuente": "FAO",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-06T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-10T12:00:00+00:00",
       "recientes": 0
     },
     "wto": {
@@ -1161,12 +1425,12 @@
       "recientes": 0
     },
     "un": {
-      "ok": true,
-      "piezas": 30,
+      "ok": false,
+      "piezas": 0,
       "fuente": "ONU",
       "tipo": "oficial",
-      "error": "",
-      "ultima_publicacion": "2026-11-09T12:00:00+00:00",
+      "error": "not well-formed (invalid token): line 1, column 0",
+      "ultima_publicacion": null,
       "recientes": 0
     },
     "fed": {
@@ -1176,7 +1440,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-09T21:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "ecb": {
       "ok": true,
@@ -1184,8 +1448,8 @@
       "fuente": "BCE",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-07T14:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-10T16:45:00+00:00",
+      "recientes": 2
     },
     "imf": {
       "ok": false,
@@ -1215,12 +1479,12 @@
       "recientes": 0
     },
     "un-en": {
-      "ok": false,
-      "piezas": 0,
+      "ok": true,
+      "piezas": 30,
       "fuente": "ONU (inglés)",
       "tipo": "oficial",
-      "error": "not well-formed (invalid token): line 1, column 0",
-      "ultima_publicacion": null,
+      "error": "",
+      "ultima_publicacion": "2026-11-10T12:00:00+00:00",
       "recientes": 0
     },
     "consilium": {
@@ -1238,8 +1502,8 @@
       "fuente": "Google",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-10T13:00:00+00:00",
-      "recientes": 3
+      "ultima_publicacion": "2026-11-11T09:00:00+00:00",
+      "recientes": 12
     },
     "microsoft": {
       "ok": true,
@@ -1293,7 +1557,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-09T16:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "noaa-nhc": {
       "ok": true,
@@ -1301,7 +1565,7 @@
       "fuente": "NOAA · Centro Nacional de Huracanes",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-11T23:23:52+00:00",
+      "ultima_publicacion": "2026-11-12T23:33:09+00:00",
       "recientes": 1
     },
     "nasa-releases": {
@@ -1310,8 +1574,8 @@
       "fuente": "NASA · Comunicados",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-10T05:05:00+00:00",
-      "recientes": 10
+      "ultima_publicacion": "2026-11-11T05:05:00+00:00",
+      "recientes": 6
     },
     "usda": {
       "ok": false,
@@ -1338,7 +1602,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-10T00:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "boe": {
       "ok": true,
@@ -1347,15 +1611,15 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-10T12:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "boj": {
       "ok": true,
-      "piezas": 45,
+      "piezas": 46,
       "fuente": "Banco de Japón",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-09T23:50:00+00:00",
+      "ultima_publicacion": "2026-11-10T23:50:00+00:00",
       "recientes": 0
     },
     "census": {
@@ -1369,30 +1633,30 @@
     },
     "bbc-world": {
       "ok": true,
-      "piezas": 30,
+      "piezas": 24,
       "fuente": "BBC News",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-10T13:01:03+00:00",
-      "recientes": 28
+      "ultima_publicacion": "2026-11-11T12:14:12+00:00",
+      "recientes": 23
     },
     "bbc-mundo": {
       "ok": true,
-      "piezas": 34,
+      "piezas": 33,
       "fuente": "BBC Mundo",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-10T11:58:04+00:00",
-      "recientes": 14
+      "ultima_publicacion": "2026-11-11T11:33:18+00:00",
+      "recientes": 12
     },
     "cnn": {
       "ok": true,
-      "piezas": 190,
+      "piezas": 235,
       "fuente": "CNN",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-10T13:00:15.222000+00:00",
-      "recientes": 97
+      "ultima_publicacion": "2026-11-11T12:00:15.581000+00:00",
+      "recientes": 102
     },
     "dw-es": {
       "ok": false,
@@ -1409,7 +1673,7 @@
       "fuente": "France 24",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-10T12:29:44+00:00",
+      "ultima_publicacion": "2026-11-11T11:46:26+00:00",
       "recientes": 24
     },
     "guardian": {
@@ -1418,8 +1682,8 @@
       "fuente": "The Guardian",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-10T12:52:06+00:00",
-      "recientes": 25
+      "ultima_publicacion": "2026-11-11T12:09:30+00:00",
+      "recientes": 28
     },
     "aljazeera": {
       "ok": true,
@@ -1427,17 +1691,17 @@
       "fuente": "Al Jazeera",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-10T12:56:41+00:00",
+      "ultima_publicacion": "2026-11-11T11:42:20+00:00",
       "recientes": 25
     },
     "elpais": {
       "ok": true,
-      "piezas": 20,
+      "piezas": 21,
       "fuente": "El País",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-10T12:48:01+00:00",
-      "recientes": 18
+      "ultima_publicacion": "2026-11-11T04:40:00+00:00",
+      "recientes": 11
     },
     "cnbc": {
       "ok": true,
@@ -1445,7 +1709,7 @@
       "fuente": "CNBC",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-10T13:00:01+00:00",
+      "ultima_publicacion": "2026-11-11T12:12:48+00:00",
       "recientes": 30
     },
     "reuters": {
@@ -1471,7 +1735,7 @@
       "piezas": 0,
       "fuente": "Agencia EFE",
       "tipo": "agencia",
-      "error": "HTTP Error 429: Too Many Requests",
+      "error": "HTTP Error 500: Internal Server Error",
       "ultima_publicacion": null,
       "recientes": 0
     },
@@ -1481,7 +1745,7 @@
       "fuente": "MarketWatch",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-10T12:33:00+00:00",
+      "ultima_publicacion": "2026-11-11T12:00:00+00:00",
       "recientes": 10
     },
     "guardian-environment": {
@@ -1490,8 +1754,8 @@
       "fuente": "The Guardian · Medio ambiente",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-10T12:47:35+00:00",
-      "recientes": 5
+      "ultima_publicacion": "2026-11-11T11:40:02+00:00",
+      "recientes": 9
     },
     "bbc-tech": {
       "ok": true,
@@ -1499,17 +1763,17 @@
       "fuente": "BBC · Tecnología",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-10T13:01:03+00:00",
-      "recientes": 8
+      "ultima_publicacion": "2026-11-11T11:33:24+00:00",
+      "recientes": 6
     },
     "bbc-business": {
       "ok": true,
-      "piezas": 47,
+      "piezas": 52,
       "fuente": "BBC · Economía",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-10T13:01:03+00:00",
-      "recientes": 22
+      "ultima_publicacion": "2026-11-11T10:03:34+00:00",
+      "recientes": 16
     }
   }
 }

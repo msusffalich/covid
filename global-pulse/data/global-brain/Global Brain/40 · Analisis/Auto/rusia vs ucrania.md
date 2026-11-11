@@ -2,28 +2,32 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-10
-nodos: 39
+actualizado: 2026-11-11
+nodos: 42
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-10. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-11. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-39 nodos registrados en el periodo. Lo mas reciente: EE.UU. busca 'fin definitivo' a la guerra Rusia-Ucrania en conversaciones de Abu Dabi.
+42 nodos registrados en el periodo. Lo mas reciente: Zelenski advierte que Ucrania 'no es un bien inmobiliario' en medio de negociaciones de paz.
 
 ## Trend summary (EN)
-39 nodes recorded in the period. Most recent: US officials seek 'final end' to Russia-Ukraine war as Abu Dhabi talks begin.
+42 nodes recorded in the period. Most recent: Zelenskyy warns Ukraine is 'not real estate' amid peace talks.
 
 > [!note] Estado actual
-> EE.UU. busca 'fin definitivo' a la guerra Rusia-Ucrania en conversaciones de Abu Dabi
+> Zelenski advierte que Ucrania 'no es un bien inmobiliario' en medio de negociaciones de paz
 
-## Nodos recientes (39 en la ventana)
+## Nodos recientes (42 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-11 | 70 | K1 | Zelenski advierte que Ucrania 'no es un bien inmobiliario' en me |
+| 2026-11-11 | 68 | K1 | Conversaciones Ucrania-Rusia en Abu Dabi terminan con acuerdo de |
+| 2026-11-11 | 65 | K1 | Enviados de Trump viajarán a Moscú tras conversaciones de paz si |
+| 2026-11-11 | 42 | K1 | Ucrania captura su primer prisionero de guerra indonesio en medi |
 | 2026-11-10 | 85 | K0 | EE.UU. busca 'fin definitivo' a la guerra Rusia-Ucrania en conve |
 | 2026-11-10 | 82 | K0 | Arrancan en Abu Dabi negociaciones trilaterales Rusia-Ucrania-EE |
 | 2026-11-09 | 55 | K0 | Ataques con drones incendian la segunda mayor refinería de petró |
@@ -32,9 +36,5 @@ origen: global-pulse
 | 2026-11-08 | 48 | K0 | Canciller italiano denuncia filtración de datos personales por h |
 | 2026-11-07 | 58 | K1 | Petroleros rusos cambian de rumbo y no llegan a EE.UU. pese a ac |
 | 2026-11-06 | 45 | K2 | Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán |
-| 2026-11-05 | 55 | K1 | Rusia y Ucrania intercambian ataques con drones sobre infraestru |
-| 2026-11-03 | 80 | K1 | Rusia bombardea centro de ayuda y refugio en Ucrania matando al  |
-| 2026-11-03 | 70 | K0 | Rusia deja a 180.000 personas sin luz en nuevo ataque a infraest |
-| 2026-11-03 | 55 | K1 | Fin de la misión de paz de la ONU en el Sáhara Occidental tras 3 |
 
 [[Global Brain — Inicio|← Inicio]]
