@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 nodos: 44
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-11. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-44 nodos registrados en el periodo. Lo mas reciente: Enviados de Trump viajarán a Moscú tras conversaciones de paz sin avances.
+44 nodos registrados en el periodo. Lo mas reciente: Trump dice que EE. UU. 'no necesita un acuerdo' con Irán.
 
 ## Trend summary (EN)
-44 nodes recorded in the period. Most recent: Trump envoys to meet Putin in Moscow after talks end with no breakthrough.
+44 nodes recorded in the period. Most recent: Trump says US 'doesn't need a deal' with Iran.
 
 > [!note] Estado actual
-> Enviados de Trump viajarán a Moscú tras conversaciones de paz sin avances
+> Trump dice que EE. UU. 'no necesita un acuerdo' con Irán
 
 ## Nodos recientes (44 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-12 | 55 | K1 | Trump dice que EE. UU. 'no necesita un acuerdo' con Irán |
 | 2026-11-11 | 65 | K1 | Enviados de Trump viajarán a Moscú tras conversaciones de paz si |
 | 2026-11-11 | 60 | K1 | Secretario del Tesoro de EE.UU. Bessent se traslada a base milit |
 | 2026-11-11 | 40 | K1 | Precios de energía caen por distensión en tensiones con Irán, má |
@@ -35,6 +36,5 @@ origen: global-pulse
 | 2026-11-08 | 60 | K1 | Ataque hutí daña oficinas de Saudi Aramco en Riad |
 | 2026-11-08 | 58 | K1 | Hutíes afirman que un ataque saudí mató a al menos 33 personas e |
 | 2026-11-07 | 68 | K1 | EE.UU. confirma nuevos ataques 'menores' contra Irán en isla Qes |
-| 2026-11-07 | 62 | K1 | Catar media para permitir inspecciones nucleares de la ONU en si |
 
 [[Global Brain — Inicio|← Inicio]]

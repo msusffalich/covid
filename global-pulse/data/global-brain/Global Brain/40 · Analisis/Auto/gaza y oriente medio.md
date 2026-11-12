@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-11
+actualizado: 2026-11-12
 nodos: 23
 origen: global-pulse
 ---
@@ -10,7 +10,7 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-11. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
 23 nodos registrados en el periodo. Lo mas reciente: Colapso de infraestructura en Gaza deja a residentes indefensos ante inundaciones.

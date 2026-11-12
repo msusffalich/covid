@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-11-11T12:18:11.866228+00:00",
+    "generado": "2026-11-12T13:23:51.936762+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -14,21 +14,16 @@
       },
       "color": "#E4634F",
       "n_nodos": 44,
-      "ultima_fecha": "2026-11-11",
+      "ultima_fecha": "2026-11-12",
       "resumen": {
-        "es": "44 nodos registrados en el periodo. Lo mas reciente: Enviados de Trump viajarán a Moscú tras conversaciones de paz sin avances.",
-        "en": "44 nodes recorded in the period. Most recent: Trump envoys to meet Putin in Moscow after talks end with no breakthrough."
+        "es": "44 nodos registrados en el periodo. Lo mas reciente: Trump dice que EE. UU. 'no necesita un acuerdo' con Irán.",
+        "en": "44 nodes recorded in the period. Most recent: Trump says US 'doesn't need a deal' with Iran."
       },
       "estado": {
-        "es": "Enviados de Trump viajarán a Moscú tras conversaciones de paz sin avances",
-        "en": "Trump envoys to meet Putin in Moscow after talks end with no breakthrough"
+        "es": "Trump dice que EE. UU. 'no necesita un acuerdo' con Irán",
+        "en": "Trump says US 'doesn't need a deal' with Iran"
       },
       "serie": [
-        {
-          "fecha": "2026-10-22",
-          "max": 50,
-          "n": 1
-        },
         {
           "fecha": "2026-10-23",
           "max": 78,
@@ -113,9 +108,26 @@
           "fecha": "2026-11-11",
           "max": 65,
           "n": 3
+        },
+        {
+          "fecha": "2026-11-12",
+          "max": 55,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-12",
+          "titulo": {
+            "es": "Trump dice que EE. UU. 'no necesita un acuerdo' con Irán",
+            "en": "Trump says US 'doesn't need a deal' with Iran"
+          },
+          "impacto": 55,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+          "fuente": "CNBC"
+        },
         {
           "fecha": "2026-11-11",
           "titulo": {
@@ -247,18 +259,6 @@
           "kardashev": "K1",
           "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
           "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-11-07",
-          "titulo": {
-            "es": "Catar media para permitir inspecciones nucleares de la ONU en sitios bombardeados de Irán",
-            "en": "Qatar mediates to allow UN nuclear inspections at bombed Iran sites"
-          },
-          "impacto": 62,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
-          "fuente": "The Guardian"
         }
       ]
     },
@@ -269,15 +269,15 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 42,
-      "ultima_fecha": "2026-11-11",
+      "n_nodos": 44,
+      "ultima_fecha": "2026-11-12",
       "resumen": {
-        "es": "42 nodos registrados en el periodo. Lo mas reciente: Zelenski advierte que Ucrania 'no es un bien inmobiliario' en medio de negociaciones de paz.",
-        "en": "42 nodes recorded in the period. Most recent: Zelenskyy warns Ukraine is 'not real estate' amid peace talks."
+        "es": "44 nodos registrados en el periodo. Lo mas reciente: Enviados de EE. UU. se reúnen con Putin mientras Zelenski denuncia nueva interrupción de Starlink.",
+        "en": "44 nodes recorded in the period. Most recent: US envoys meet Putin as Zelensky says Starlink disrupted again."
       },
       "estado": {
-        "es": "Zelenski advierte que Ucrania 'no es un bien inmobiliario' en medio de negociaciones de paz",
-        "en": "Zelenskyy warns Ukraine is 'not real estate' amid peace talks"
+        "es": "Enviados de EE. UU. se reúnen con Putin mientras Zelenski denuncia nueva interrupción de Starlink",
+        "en": "US envoys meet Putin as Zelensky says Starlink disrupted again"
       },
       "serie": [
         {
@@ -369,9 +369,38 @@
           "fecha": "2026-11-11",
           "max": 70,
           "n": 4
+        },
+        {
+          "fecha": "2026-11-12",
+          "max": 68,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-12",
+          "titulo": {
+            "es": "Enviados de EE. UU. se reúnen con Putin mientras Zelenski denuncia nueva interrupción de Starlink",
+            "en": "US envoys meet Putin as Zelensky says Starlink disrupted again"
+          },
+          "impacto": 68,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-11-12",
+          "titulo": {
+            "es": "Startup ucraniana de tecnología de defensa UFORCE alcanza valoración de 6.000 millones",
+            "en": "Ukrainian defense tech startup UFORCE hits $6 billion valuation"
+          },
+          "impacto": 48,
+          "categoria": "tecnologia",
+          "kardashev": "K1",
+          "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
+          "fuente": "CNBC"
+        },
         {
           "fecha": "2026-11-11",
           "titulo": {
@@ -491,30 +520,6 @@
           "kardashev": "K0",
           "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News"
-        },
-        {
-          "fecha": "2026-11-07",
-          "titulo": {
-            "es": "Petroleros rusos cambian de rumbo y no llegan a EE.UU. pese a acuerdo diésel Trump-Putin",
-            "en": "Russian oil tankers divert, fail to reach US despite Trump-Putin diesel deal"
-          },
-          "impacto": 58,
-          "categoria": "cadenas",
-          "kardashev": "K1",
-          "url": "https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20261107-el-fallido-acuerdo-de-trump-sobre-el-di%C3%A9sel-por-qu%C3%A9-los-petroleros-rusos-no-se-dirigen-a-ee-uu",
-          "fuente": "France 24"
-        },
-        {
-          "fecha": "2026-11-06",
-          "titulo": {
-            "es": "Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán",
-            "en": "Rocket launcher deal deepens Russia-Iran relations"
-          },
-          "impacto": 45,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://www.aljazeera.com/news/2026/11/6/rocket-launcher-deal-illustrates-deepening-russia-iran-relations?traffic_source=rss",
-          "fuente": "Al Jazeera"
         }
       ]
     },
@@ -762,21 +767,16 @@
       },
       "color": "#3D9BE4",
       "n_nodos": 20,
-      "ultima_fecha": "2026-11-11",
+      "ultima_fecha": "2026-11-12",
       "resumen": {
-        "es": "20 nodos registrados en el periodo. Lo mas reciente: Anthropic fija precio de su salida a bolsa de 1.3 billones de dólares pese a advertencia 'catastrófica'.",
-        "en": "20 nodes recorded in the period. Most recent: Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning."
+        "es": "20 nodos registrados en el periodo. Lo mas reciente: Escándalo de Huang reaviva presión para endurecer exportación de chips de IA a China.",
+        "en": "20 nodes recorded in the period. Most recent: Huang affair fuels push to tighten AI chip export controls to China."
       },
       "estado": {
-        "es": "Anthropic fija precio de su salida a bolsa de 1.3 billones de dólares pese a advertencia 'catastrófica'",
-        "en": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning"
+        "es": "Escándalo de Huang reaviva presión para endurecer exportación de chips de IA a China",
+        "en": "Huang affair fuels push to tighten AI chip export controls to China"
       },
       "serie": [
-        {
-          "fecha": "2026-10-22",
-          "max": 66,
-          "n": 1
-        },
         {
           "fecha": "2026-10-24",
           "max": 40,
@@ -841,9 +841,26 @@
           "fecha": "2026-11-11",
           "max": 64,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-12",
+          "max": 62,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-12",
+          "titulo": {
+            "es": "Escándalo de Huang reaviva presión para endurecer exportación de chips de IA a China",
+            "en": "Huang affair fuels push to tighten AI chip export controls to China"
+          },
+          "impacto": 62,
+          "categoria": "tecnologia",
+          "kardashev": "K1",
+          "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
+          "fuente": "CNBC"
+        },
         {
           "fecha": "2026-11-11",
           "titulo": {
@@ -975,18 +992,6 @@
           "kardashev": "K1",
           "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
           "fuente": "OpenAI"
-        },
-        {
-          "fecha": "2026-11-02",
-          "titulo": {
-            "es": "Corea del Sur destina presupuesto récord a IA soberana para 2027",
-            "en": "South Korea allocates record budget for sovereign AI in 2027"
-          },
-          "impacto": 55,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
-          "fuente": "CNBC"
         }
       ]
     },
@@ -997,15 +1002,15 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 46,
-      "ultima_fecha": "2026-11-11",
+      "n_nodos": 50,
+      "ultima_fecha": "2026-11-12",
       "resumen": {
-        "es": "46 nodos registrados en el periodo. Lo mas reciente: Canciller británico advierte que seguridad de todos los países está en riesgo por crisis climática.",
-        "en": "46 nodes recorded in the period. Most recent: UK foreign secretary warns national security of all countries at risk due to climate crisis."
+        "es": "50 nodos registrados en el periodo. Lo mas reciente: Kerry llama a Trump 'el mayor perdedor' por abandonar la acción climática.",
+        "en": "50 nodes recorded in the period. Most recent: Kerry calls Trump 'biggest loser' for scrapping climate action."
       },
       "estado": {
-        "es": "Canciller británico advierte que seguridad de todos los países está en riesgo por crisis climática",
-        "en": "UK foreign secretary warns national security of all countries at risk due to climate crisis"
+        "es": "Kerry llama a Trump 'el mayor perdedor' por abandonar la acción climática",
+        "en": "Kerry calls Trump 'biggest loser' for scrapping climate action"
       },
       "serie": [
         {
@@ -1092,9 +1097,62 @@
           "fecha": "2026-11-11",
           "max": 55,
           "n": 5
+        },
+        {
+          "fecha": "2026-11-12",
+          "max": 52,
+          "n": 4
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-12",
+          "titulo": {
+            "es": "Kerry llama a Trump 'el mayor perdedor' por abandonar la acción climática",
+            "en": "Kerry calls Trump 'biggest loser' for scrapping climate action"
+          },
+          "impacto": 52,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-11-12",
+          "titulo": {
+            "es": "Greta Thunberg advierte en la COP31 que 'nadie viene a rescatarnos'",
+            "en": "Greta Thunberg warns at COP31 that 'no one is coming to rescue us'"
+          },
+          "impacto": 50,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
+          "fuente": "The Guardian · Medio ambiente"
+        },
+        {
+          "fecha": "2026-11-12",
+          "titulo": {
+            "es": "ONU lanza plataforma de financiamiento de riesgo de desastres en la COP31",
+            "en": "UN launches Disaster Risk Financing Platform at COP31"
+          },
+          "impacto": 40,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://www.fao.org/newsroom/detail/un-launches-disaster-risk-financing-platform-at-cop31-to-make-humanitarian-responses-faster-and-more-predictable/en",
+          "fuente": "FAO"
+        },
+        {
+          "fecha": "2026-11-12",
+          "titulo": {
+            "es": "NOAA no prevé formación de ciclones tropicales en el Atlántico",
+            "en": "NOAA forecasts no tropical cyclone formation in the Atlantic"
+          },
+          "impacto": 20,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
+          "fuente": "NOAA · Centro Nacional de Huracanes"
+        },
         {
           "fecha": "2026-11-11",
           "titulo": {
@@ -1144,18 +1202,6 @@
           "fuente": "Al Jazeera"
         },
         {
-          "fecha": "2026-11-11",
-          "titulo": {
-            "es": "NOAA no prevé formación de ciclones tropicales en el Atlántico en los próximos 7 días",
-            "en": "NOAA forecasts no tropical cyclone formation in Atlantic over next 7 days"
-          },
-          "impacto": 20,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
-          "fuente": "NOAA · Centro Nacional de Huracanes"
-        },
-        {
           "fecha": "2026-11-10",
           "titulo": {
             "es": "Emisiones de carbono por combustibles fósiles se estabilizan en 2026 según científicos previo a la Cop31",
@@ -1202,42 +1248,6 @@
           "kardashev": "K1",
           "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-democrats-midterms",
           "fuente": "The Guardian · Medio ambiente"
-        },
-        {
-          "fecha": "2026-11-09",
-          "titulo": {
-            "es": "Colapso parcial en la represa Tarbela de Pakistán provoca aumento de agua de inundación",
-            "en": "Partial collapse at Pakistan's Tarbela dam causes flood water surge"
-          },
-          "impacto": 50,
-          "categoria": "recursos",
-          "kardashev": "K2",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/partial-collapse-of-pakistans-tarbela-dam-causes-flood-water-surge?traffic_source=rss",
-          "fuente": "Al Jazeera"
-        },
-        {
-          "fecha": "2026-11-09",
-          "titulo": {
-            "es": "Tormentas provocan inundaciones mortales en Irak e Irán mientras Portugal y Japón enfrentan clima severo",
-            "en": "Deadly floods hit Iraq and Iran as storms sweep region, Portugal and Japan face severe weather"
-          },
-          "impacto": 45,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
-          "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-11-09",
-          "titulo": {
-            "es": "NOAA descarta formación de ciclones tropicales en el Atlántico en los próximos 7 días",
-            "en": "NOAA rules out tropical cyclone formation in the Atlantic over next 7 days"
-          },
-          "impacto": 20,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
-          "fuente": "NOAA · Centro Nacional de Huracanes"
         }
       ]
     },
@@ -1248,22 +1258,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 89,
-      "ultima_fecha": "2026-11-11",
+      "n_nodos": 91,
+      "ultima_fecha": "2026-11-12",
       "resumen": {
-        "es": "89 nodos registrados en el periodo. Lo mas reciente: Anthropic fija precio de su salida a bolsa de 1.3 billones de dólares pese a advertencia 'catastrófica'.",
-        "en": "89 nodes recorded in the period. Most recent: Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning."
+        "es": "91 nodos registrados en el periodo. Lo mas reciente: Junta de Nvidia evalúa el futuro del CEO Jensen Huang.",
+        "en": "91 nodes recorded in the period. Most recent: Nvidia board weighs CEO Jensen Huang's future."
       },
       "estado": {
-        "es": "Anthropic fija precio de su salida a bolsa de 1.3 billones de dólares pese a advertencia 'catastrófica'",
-        "en": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning"
+        "es": "Junta de Nvidia evalúa el futuro del CEO Jensen Huang",
+        "en": "Nvidia board weighs CEO Jensen Huang's future"
       },
       "serie": [
-        {
-          "fecha": "2026-10-22",
-          "max": 60,
-          "n": 1
-        },
         {
           "fecha": "2026-10-23",
           "max": 78,
@@ -1363,9 +1368,50 @@
           "fecha": "2026-11-11",
           "max": 64,
           "n": 6
+        },
+        {
+          "fecha": "2026-11-12",
+          "max": 70,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-12",
+          "titulo": {
+            "es": "Junta de Nvidia evalúa el futuro del CEO Jensen Huang",
+            "en": "Nvidia board weighs CEO Jensen Huang's future"
+          },
+          "impacto": 70,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-11-12",
+          "titulo": {
+            "es": "Economía del Reino Unido crece al ritmo más rápido en más de dos años",
+            "en": "UK economy grows at fastest rate in more than two years"
+          },
+          "impacto": 48,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC · Economía"
+        },
+        {
+          "fecha": "2026-11-12",
+          "titulo": {
+            "es": "Metro Bank se pone en venta con ganancia potencial de 420 millones de libras para su inversor",
+            "en": "Metro Bank up for sale with potential £420m windfall for investor"
+          },
+          "impacto": 40,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall",
+          "fuente": "The Guardian"
+        },
         {
           "fecha": "2026-11-11",
           "titulo": {
@@ -1473,42 +1519,6 @@
           "kardashev": "K2",
           "url": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
           "fuente": "MarketWatch"
-        },
-        {
-          "fecha": "2026-11-10",
-          "titulo": {
-            "es": "SoftBank registra pérdida de $7.000 millones por caída de centros de datos e Intel",
-            "en": "SoftBank swings to $7 billion loss after US data center hit and Intel share decline"
-          },
-          "impacto": 60,
-          "categoria": "finanzas",
-          "kardashev": "K0",
-          "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-11-10",
-          "titulo": {
-            "es": "Gobernador Waller de la Fed anticipa alza en diciembre, abre puerta a incremento de medio punto",
-            "en": "Fed Governor Waller sees December hike likely, opens door to half-point increase"
-          },
-          "impacto": 60,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-11-09",
-          "titulo": {
-            "es": "Acciones de Nvidia caen 5% tras investigación sobre el CEO Jensen Huang por presunto espionaje chino",
-            "en": "Nvidia shares fall 5% after investigation into CEO Jensen Huang over alleged Chinese espionage"
-          },
-          "impacto": 70,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/us-news/2026/nov/09/first-thing-nvidia-stocks-tumble-as-ceo-investigated-over-spy-claims",
-          "fuente": "The Guardian"
         }
       ]
     }

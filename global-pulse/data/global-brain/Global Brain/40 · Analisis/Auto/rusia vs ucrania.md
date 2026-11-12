@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-11
-nodos: 42
+actualizado: 2026-11-12
+nodos: 44
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-11. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-42 nodos registrados en el periodo. Lo mas reciente: Zelenski advierte que Ucrania 'no es un bien inmobiliario' en medio de negociaciones de paz.
+44 nodos registrados en el periodo. Lo mas reciente: Enviados de EE. UU. se reúnen con Putin mientras Zelenski denuncia nueva interrupción de Starlink.
 
 ## Trend summary (EN)
-42 nodes recorded in the period. Most recent: Zelenskyy warns Ukraine is 'not real estate' amid peace talks.
+44 nodes recorded in the period. Most recent: US envoys meet Putin as Zelensky says Starlink disrupted again.
 
 > [!note] Estado actual
-> Zelenski advierte que Ucrania 'no es un bien inmobiliario' en medio de negociaciones de paz
+> Enviados de EE. UU. se reúnen con Putin mientras Zelenski denuncia nueva interrupción de Starlink
 
-## Nodos recientes (42 en la ventana)
+## Nodos recientes (44 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-12 | 68 | K1 | Enviados de EE. UU. se reúnen con Putin mientras Zelenski denunc |
+| 2026-11-12 | 48 | K1 | Startup ucraniana de tecnología de defensa UFORCE alcanza valora |
 | 2026-11-11 | 70 | K1 | Zelenski advierte que Ucrania 'no es un bien inmobiliario' en me |
 | 2026-11-11 | 68 | K1 | Conversaciones Ucrania-Rusia en Abu Dabi terminan con acuerdo de |
 | 2026-11-11 | 65 | K1 | Enviados de Trump viajarán a Moscú tras conversaciones de paz si |
@@ -34,7 +36,5 @@ origen: global-pulse
 | 2026-11-09 | 35 | K1 | Sudáfrica detiene a nueve extranjeros que intentaban viajar a co |
 | 2026-11-08 | 55 | K1 | Victoria demócrata en el Congreso de EE UU podría reforzar apoyo |
 | 2026-11-08 | 48 | K0 | Canciller italiano denuncia filtración de datos personales por h |
-| 2026-11-07 | 58 | K1 | Petroleros rusos cambian de rumbo y no llegan a EE.UU. pese a ac |
-| 2026-11-06 | 45 | K2 | Acuerdo de lanzacohetes profundiza relaciones entre Rusia e Irán |
 
 [[Global Brain — Inicio|← Inicio]]
