@@ -46,3 +46,5 @@ Git Credential Manager authenticated outside sandbox; OPENAI_API_KEY secret conf
 Anthropic until remote daily cycle and any deployed research backend use OpenAI successfully.
 
 Validation: 17 unittest checks + 7 existing functional pipeline checks passed. All five live OpenAI routes passed (research, Nexo facts, Nexo analysis, cluster, trends). Responses JSON mode requires system instructions inside input messages; verified live. Remote rollout and daily workflow verification pending.
+
+Production verification: first run 43256780163 passed tests and live OpenAI auth, then exposed missing estado in a real trend JSON response. Fixed with strict JSON Schema requiring bilingual resumen/estado and local shape validation inside the fallback boundary. Added malformed-output coverage. All five live route checks passed again. Railway confirmed successful static-only deployment, no provider variables or research backend in production.

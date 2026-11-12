@@ -102,10 +102,19 @@ def _synth_api(theme: dict, nodes: list[dict], api_key: str) -> dict:
     items = [{"fecha": n["fecha"], "impacto": n.get("impacto"),
               "titulo": n["titulo"]["es"], "sintesis": n["sintesis"]["es"]}
              for n in nodes[:14]]
+    bilingual = {"type": "object", "properties": {lang: {"type": "string"} for lang in ("es", "en")},
+                 "required": ["es", "en"], "additionalProperties": False}
+    schema = {"type": "object", "properties": {k: bilingual for k in ("resumen", "estado")},
+              "required": ["resumen", "estado"], "additionalProperties": False}
     text = respond(TREND_PROMPT,
         json.dumps({"tema": theme["nombre"]["es"], "nodos": items}, ensure_ascii=False),
-        api_key=api_key, max_tokens=500, timeout=60, cache_key="global-pulse-trends")
-    return json.loads(text)
+        api_key=api_key, max_tokens=500, timeout=60, cache_key="global-pulse-trends", json_schema=schema)
+    value = json.loads(text)
+    if not isinstance(value, dict) or any(
+        not isinstance(value.get(k), dict) or any(not isinstance(value[k].get(lang), str)
+            for lang in ("es", "en")) for k in ("resumen", "estado")):
+        raise ValueError("La tendencia no contiene resumen y estado bilingües")
+    return value
 
 
 def _synth_heuristic(theme: dict, nodes: list[dict], total: int = None) -> dict:

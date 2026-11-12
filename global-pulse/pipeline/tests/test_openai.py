@@ -72,9 +72,13 @@ class OpenAITests(unittest.TestCase):
             self.assertIn('titulo', synthesize.synth_api({'piezas': [piece]}, 'fake'))
             self.assertEqual(json.loads(send.call_args.args[0].data)['max_output_tokens'], 900)
         node = dict(fecha='2026-11-12', titulo={'es': 'Prueba'}, sintesis={'es': 'Resumen'})
-        with patch('urllib.request.urlopen', return_value=response({'resumen': {}, 'estado': {}})) as send:
+        bilingual = {'es': 'Prueba', 'en': 'Test'}
+        with patch('urllib.request.urlopen', return_value=response({'resumen': bilingual, 'estado': bilingual})) as send:
             self.assertIn('resumen', trends._synth_api({'nombre': {'es': 'Tema'}}, [node], 'fake'))
             self.assertEqual(json.loads(send.call_args.args[0].data)['max_output_tokens'], 500)
+            self.assertTrue(json.loads(send.call_args.args[0].data)['text']['format']['strict'])
+        with patch('urllib.request.urlopen', return_value=response({'resumen': bilingual})), self.assertRaises(ValueError):
+            trends._synth_api({'nombre': {'es': 'Tema'}}, [node], 'fake')
 
     def test_research_progress_and_session_persistence(self):
         result = {'executive_summary': 'Summary', 'sources': [{'url': 'https://example.org'}], 'sections': []}

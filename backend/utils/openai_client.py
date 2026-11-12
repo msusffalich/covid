@@ -6,7 +6,7 @@ import urllib.request
 
 
 def respond(system, content, *, api_key=None, max_tokens=900, timeout=90,
-            schema=None, cache_key="global-pulse"):
+            schema=None, json_schema=None, cache_key="global-pulse"):
     key = api_key or os.environ.get("OPENAI_API_KEY", "")
     if not key:
         raise RuntimeError("OPENAI_API_KEY no configurada: análisis pendiente")
@@ -19,6 +19,9 @@ def respond(system, content, *, api_key=None, max_tokens=900, timeout=90,
     }
     if payload["model"].startswith("gpt-4.1"):
         payload["prompt_cache_key"] = cache_key
+    if json_schema:
+        payload["text"]["format"] = {"type": "json_schema", "name": "resultado",
+                                      "strict": True, "schema": json_schema}
     if schema:
         # Existing Nexo schemas include open analysis objects. Non-strict function
         # schemas preserve that contract without inventing a narrower schema.
