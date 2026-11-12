@@ -45,6 +45,15 @@ Production: GitHub Actions must receive OPENAI_API_KEY and updated committed cod
 Git Credential Manager authenticated outside sandbox; OPENAI_API_KEY secret configured securely in Actions. Do not revoke
 Anthropic until remote daily cycle and any deployed research backend use OpenAI successfully.
 
-Validation: 17 unittest checks + 7 existing functional pipeline checks passed. All five live OpenAI routes passed (research, Nexo facts, Nexo analysis, cluster, trends). Responses JSON mode requires system instructions inside input messages; verified live. Remote rollout and daily workflow verification pending.
+Validation: 17 unittest checks + 7 existing functional pipeline checks passed. All five live OpenAI routes passed (research, Nexo facts, Nexo analysis, cluster, trends). Responses JSON mode requires system instructions inside input messages; verified live. Remote rollout and daily workflow verification completed; see final evidence below.
 
 Production verification: first run 43256780163 passed tests and live OpenAI auth, then exposed missing estado in a real trend JSON response. Fixed with strict JSON Schema requiring bilingual resumen/estado and local shape validation inside the fallback boundary. Added malformed-output coverage. All five live route checks passed again. Railway confirmed successful static-only deployment, no provider variables or research backend in production.
+
+## Completed rollout
+- Commits 96f501b79 and 867edd072 published to the existing default branch.
+- GitHub Actions run 43257626610 completed successfully: 17 unit/integration checks, 7 functional checks, live Responses authentication, daily orchestration, six OpenAI trends and publication. No trend fallback errors.
+- Existing completed daily facts/report were preserved by checkpoint policy; full facts and analysis transports were tested live separately without publishing synthetic data.
+- Railway deployed migration code successfully; subsequent data deployment eaa85af69 serves byte-equivalent JSON objects to the committed OpenAI-generated trends (public HTTP check passed).
+- Production service is static nginx with no provider variables; all active AI runs in Actions using OPENAI_API_KEY. Local research loads the approved backend/.env.
+- No active runtime references to ANTHROPIC_API_KEY remain. Old GitHub secret has not been deleted and is unused. Anthropic key can be revoked for this application; other applications sharing it are outside this migration.
+- Approved migration complete. No additional approved stages remain.
