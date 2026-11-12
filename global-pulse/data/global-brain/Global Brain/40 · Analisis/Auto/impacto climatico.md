@@ -13,13 +13,13 @@ origen: global-pulse
 > Actualizado: 2026-11-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-50 nodos registrados en el periodo. Lo mas reciente: Kerry llama a Trump 'el mayor perdedor' por abandonar la acción climática.
+Durante el periodo previo y durante la COP31, el enfoque ha estado en la creciente preocupación por la crisis climática y la necesidad de liderazgo global en energía limpia, destacándose el papel de China y la ausencia oficial de Estados Unidos. Se presentan avances, como la estabilización de emisiones de carbono y nuevas inversiones en energía renovable, pero también advertencias sobre riesgos de seguridad y desastres climáticos que afectan a poblaciones vulnerables. La cumbre refleja tanto urgencia como tensiones políticas y desafíos en la cooperación internacional.
 
 ## Trend summary (EN)
-50 nodes recorded in the period. Most recent: Kerry calls Trump 'biggest loser' for scrapping climate action.
+Throughout the period leading up to and during COP31, the focus has been on the growing concern about the climate crisis and the need for global leadership in clean energy, highlighting China's role and the official absence of the United States. Advances such as stabilized carbon emissions and new investments in renewable energy coexist with warnings about security risks and climate disasters affecting vulnerable populations. The summit reflects both urgency and political tensions as well as challenges in international cooperation.
 
 > [!note] Estado actual
-> Kerry llama a Trump 'el mayor perdedor' por abandonar la acción climática
+> En la jornada más reciente de la COP31, se destacan críticas al liderazgo climático de EE.UU. y un llamado a seguir el impulso de China en energía verde, junto con iniciativas como la plataforma de financiamiento para desastres presentada por la ONU.
 
 ## Nodos recientes (50 en la ventana)
 | Fecha | Impacto | K | Nodo |

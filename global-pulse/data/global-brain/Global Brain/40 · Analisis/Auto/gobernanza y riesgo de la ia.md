@@ -13,13 +13,13 @@ origen: global-pulse
 > Actualizado: 2026-11-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-20 nodos registrados en el periodo. Lo mas reciente: Escándalo de Huang reaviva presión para endurecer exportación de chips de IA a China.
+Durante el período, el tema de la gobernanza y riesgo de la IA mostró una creciente complejidad con tensiones geopolíticas, como el escándalo sobre la exportación de chips a China, y un aumento en la regulación y respuesta a incidentes de seguridad, como el hackeo a OpenAI. Paralelamente, las empresas líderes como Anthropic y OpenAI siguen impulsando inversiones y estrategias para ampliar el desarrollo de IA, aunque enfrentan rechazo público y desafíos regulatorios. En conjunto, la evolución denota un equilibrio entre avance tecnológico, incertidumbre económica y una presión creciente por establecer marcos responsables y seguros para el despliegue de IA.
 
 ## Trend summary (EN)
-20 nodes recorded in the period. Most recent: Huang affair fuels push to tighten AI chip export controls to China.
+During this period, the topic of AI governance and risk exhibited growing complexity with geopolitical tensions, including the scandal over chip exports to China, and increased regulation and responses to security incidents like the OpenAI hack. Meanwhile, leading companies like Anthropic and OpenAI continue to push investments and strategies to expand AI development, despite facing public pushback and regulatory challenges. Overall, the evolution reflects a balance between technological advancement, economic uncertainty, and rising pressure to establish responsible and secure frameworks for AI deployment.
 
 > [!note] Estado actual
-> Escándalo de Huang reaviva presión para endurecer exportación de chips de IA a China
+> El estado más reciente muestra una fuerte presión política para endurecer controles sobre la exportación de chips de IA a China tras el escándalo de Huang.
 
 ## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |

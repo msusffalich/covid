@@ -13,13 +13,13 @@ origen: global-pulse
 > Actualizado: 2026-11-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-44 nodos registrados en el periodo. Lo mas reciente: Trump dice que EE. UU. 'no necesita un acuerdo' con Irán.
+Durante el período, la dinámica entre Irán y Estados Unidos ha mostrado una combinación de tensiones militares y esfuerzos diplomáticos sin avances significativos. Estados Unidos ha llevado a cabo ataques limitados contra objetivos iraníes y ha reforzado la seguridad ante amenazas directas, mientras que las conversaciones de paz permanecen estancadas y las sanciones económicas se mantienen vigentes. A pesar de ciertas señales de distensión, como la caída en los precios de la energía, la relación sigue caracterizándose por la desconfianza y la incertidumbre sobre un acuerdo futuro.
 
 ## Trend summary (EN)
-44 nodes recorded in the period. Most recent: Trump says US 'doesn't need a deal' with Iran.
+During the period, the dynamics between Iran and the United States have reflected a mix of military tensions and diplomatic efforts without significant progress. The U.S. has conducted limited attacks on Iranian targets and increased security in response to direct threats, while peace talks have stalled and economic sanctions remain in place. Despite some signs of easing tensions, such as falling energy prices, the relationship is still marked by distrust and uncertainty regarding a future agreement.
 
 > [!note] Estado actual
-> Trump dice que EE. UU. 'no necesita un acuerdo' con Irán
+> El estado más reciente es que el presidente Trump afirma que EE. UU. 'no necesita un acuerdo' con Irán mientras continúan las tensiones y sanciones sin avances en las negociaciones.
 
 ## Nodos recientes (44 en la ventana)
 | Fecha | Impacto | K | Nodo |

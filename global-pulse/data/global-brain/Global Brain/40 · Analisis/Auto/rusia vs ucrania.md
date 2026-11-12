@@ -13,13 +13,13 @@ origen: global-pulse
 > Actualizado: 2026-11-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-44 nodos registrados en el periodo. Lo mas reciente: Enviados de EE. UU. se reúnen con Putin mientras Zelenski denuncia nueva interrupción de Starlink.
+Durante este periodo, el conflicto entre Rusia y Ucrania mostró signos de negociación con encuentros en Abu Dabi auspiciados por EE.UU., aunque sin avances contundentes hacia la paz. Mientras tanto, Ucrania mantiene su defensa activa, destacando innovaciones tecnológicas propias y capturas de prisioneros, al tiempo que Rusia enfrenta ataques estratégicos y busca concentrar las conversaciones en temas de seguridad sin involucrar a la UE. La situación general sigue siendo tensa con una mezcla de diplomacia y confrontación militar.
 
 ## Trend summary (EN)
-44 nodes recorded in the period. Most recent: US envoys meet Putin as Zelensky says Starlink disrupted again.
+During this period, the Russia-Ukraine conflict exhibited signs of negotiation through US-mediated talks in Abu Dhabi, though no significant peace breakthroughs occurred. Meanwhile, Ukraine continues active defense efforts, highlighting technological innovations and prisoner captures, while Russia faces strategic attacks and aims to focus discussions on security matters excluding the EU. The overall situation remains tense, marked by a blend of diplomacy and military confrontation.
 
 > [!note] Estado actual
-> Enviados de EE. UU. se reúnen con Putin mientras Zelenski denuncia nueva interrupción de Starlink
+> Las conversaciones de paz continúan sin avances significativos, con intercambios limitados como acuerdos de canje de prisioneros mientras persiste la confrontación militar.
 
 ## Nodos recientes (44 en la ventana)
 | Fecha | Impacto | K | Nodo |

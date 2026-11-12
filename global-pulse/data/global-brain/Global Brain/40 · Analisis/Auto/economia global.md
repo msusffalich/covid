@@ -13,13 +13,13 @@ origen: global-pulse
 > Actualizado: 2026-11-12. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-91 nodos registrados en el periodo. Lo mas reciente: Junta de Nvidia evalúa el futuro del CEO Jensen Huang.
+Durante los últimos días, se ha observado una fuerte atención en la economía global por los movimientos en los mercados financieros y las decisiones de política monetaria, destacando la posible elevación de tasas por la Reserva Federal ante una inflación estadounidense más alta de lo previsto. Mientras tanto, empresas tecnológicas como Anthropic y Nvidia enfrentan momentos críticos con salidas a bolsa y evaluaciones internas, respectivamente. Paralelamente, el Reino Unido muestra señales sólidas de crecimiento económico, aunque persisten tensiones geopolíticas, como la disputa sobre recursos petroleros en las Malvinas.
 
 ## Trend summary (EN)
-91 nodes recorded in the period. Most recent: Nvidia board weighs CEO Jensen Huang's future.
+In recent days, global economic focus has been on financial market shifts and monetary policy decisions, with the Federal Reserve considering rate hikes amid higher-than-expected US inflation. Meanwhile, tech companies like Anthropic and Nvidia face critical moments with IPO pricing and internal board assessments. Concurrently, the UK shows robust economic growth, though geopolitical tensions persist, notably over oil projects in the Falklands.
 
 > [!note] Estado actual
-> Junta de Nvidia evalúa el futuro del CEO Jensen Huang
+> Los datos más recientes indican que la Reserva Federal de EE.UU. podría incrementar las tasas en diciembre, y el Reino Unido reporta su crecimiento económico más rápido en más de dos años.
 
 ## Nodos recientes (91 en la ventana)
 | Fecha | Impacto | K | Nodo |
