@@ -5,6 +5,7 @@ import os
 import re
 import urllib.request
 from datetime import datetime, timedelta, timezone
+from .openai_client import respond
 from . import collect, config, normalize, publish, validate
 from .official import DIMENSIONS, RSS_SOURCES, BY_ID, admit, publication_time
 
@@ -46,9 +47,9 @@ def decode_json(text):
 
 
 def ask(system, payload):
-    key = os.environ.get('ANTHROPIC_API_KEY')
+    key = os.environ.get('OPENAI_API_KEY')
     if not key:
-        raise RuntimeError('ANTHROPIC_API_KEY no configurada: análisis pendiente')
+        raise RuntimeError('OPENAI_API_KEY no configurada: análisis pendiente')
     policy = (config.ROOT / 'pipeline/prompts/nexo.md').read_text(encoding='utf-8')
     policy += '''\nACTUALIZACIÓN EXPRESA DEL USUARIO: las fuentes permitidas incluyen medios
 y agencias como Reuters, CNN, BBC, DW, France 24, The Guardian y Al Jazeera.
@@ -68,35 +69,10 @@ La falta de documentos recolectados es cobertura insuficiente, no ausencia de no
         'flujos': {'type': 'object'}, 'bucles': {'type': 'object'},
         'senales': {'type': 'array', 'items': {'type': 'object'}},
         'correcciones': {'type': 'array', 'items': {'type': 'object'}}})
-    req = urllib.request.Request(config.ANTHROPIC_URL,
-        data=json.dumps({'model': config.ANTHROPIC_MODEL, 'max_tokens': 16000,
-                         'tools': [{'name': 'entregar_resultado',
-                            'description': 'Entrega la selección de hechos o el análisis solicitado con todos los campos del contrato. No escribe archivos ni ejecuta acciones; solo devuelve los datos estructurados para su validación.',
-                            'input_schema': {'type': 'object', 'properties': properties, 'required': list(properties), 'additionalProperties': False}}],
-                         'tool_choice': {'type': 'tool', 'name': 'entregar_resultado'},
-                         'system': policy + '\n\nContrato técnico de esta etapa (salida JSON):\n' + system,
-                         'messages': [{'role': 'user', 'content': json.dumps(payload, ensure_ascii=False)}]}).encode(),
-        headers={'content-type': 'application/json', 'x-api-key': key, 'anthropic-version': '2023-06-01'})
-    with urllib.request.urlopen(req, timeout=150) as response:
-        result = json.load(response)
-    if result.get('stop_reason') == 'max_tokens':
-        raise ValueError('Respuesta truncada')
-    for block in result['content']:
-        if block.get('type') == 'tool_use' and block.get('name') == 'entregar_resultado':
-            value = block['input']
-            value = json.loads(value) if isinstance(value, str) else value
-            # Some API-compatible responses wrap the complete JSON in one string field.
-            for field in value.values():
-                if isinstance(field, str):
-                    try:
-                        inner = decode_json(field)
-                        if set(properties).issubset(inner):
-                            return inner
-                    except ValueError:
-                        pass
-            return value
-    text = ''.join(b.get('text', '') for b in result['content'])
-    return decode_json(text)
+    return respond(policy + '\n\nContrato técnico de esta etapa (salida JSON):\n' + system,
+        json.dumps(payload, ensure_ascii=False), api_key=key, max_tokens=16000, timeout=150,
+        schema={'type': 'object', 'properties': properties, 'required': list(properties), 'additionalProperties': False},
+        cache_key="global-pulse-nexo-facts" if isinstance(payload, list) else "global-pulse-nexo-analysis")
 
 
 def facts_for(pieces):

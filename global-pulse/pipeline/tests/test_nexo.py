@@ -80,9 +80,9 @@ class NexoTests(unittest.TestCase):
             daily.decode_json('No se entregó un objeto estructurado')
 
     def test_native_structured_result_without_text_block(self):
-        response = {'stop_reason': 'tool_use', 'content': [
-            {'type': 'tool_use', 'name': 'entregar_resultado', 'input': {'hechos': []}}]}
-        with patch.dict('os.environ', {'ANTHROPIC_API_KEY': 'test-placeholder'}), patch(
+        response = {'status': 'completed', 'output': [
+            {'type': 'function_call', 'name': 'entregar_resultado', 'arguments': '{\"hechos\": []}'}]}
+        with patch.dict('os.environ', {'OPENAI_API_KEY': 'test-placeholder'}), patch(
                 'urllib.request.urlopen', return_value=io.BytesIO(json.dumps(response).encode())):
             self.assertEqual(daily.ask('Return facts', []), {'hechos': []})
 

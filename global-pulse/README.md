@@ -15,7 +15,7 @@ noise into actionable knowledge and weaves it into your second brain
 | Capa | Implementación | Dónde |
 |------|----------------|-------|
 | **Capa 1 — Pulso Visual** | PWA React (mapa D3 + grafo de fuerzas, ES/EN, TTS, offline) | `app/` |
-| **Capa 2 — Síntesis Contextual** | Motor híbrido: LLM (Anthropic) con *prompt maestro* + heurístico de respaldo | `pipeline/gp/synthesize.py` |
+| **Capa 2 — Síntesis Contextual** | Motor híbrido: LLM (OpenAI) con *prompt maestro* + heurístico de respaldo | `pipeline/gp/synthesize.py` |
 | **Capa 3 — Validación y Fuente** | Evidencia por hash de contenido + regla de oro de trazabilidad | `pipeline/gp/validate.py`, `data/evidence/` |
 | **Ingesta (transversal)** | RSS (BBC, DW, El País, Guardian, France24) + GDELT 2.0, sin claves | `pipeline/gp/collect.py` |
 | **Orquestación (sin n8n)** | Orquestador propio con reintentos, fallo aislado y métricas, dirigido por Claude Code / cron / GitHub Actions | `pipeline/orchestrator.py`, `.github/workflows/global-pulse-daily.yml` |
@@ -34,7 +34,7 @@ cd pipeline
 # Demo sin red (fixture con eventos documentados) / offline demo
 python orchestrator.py run --mode fixture --synth heuristic
 
-# Ingesta real / live ingestion  (opcional: export ANTHROPIC_API_KEY=...)
+# Ingesta real / live ingestion  (opcional: export OPENAI_API_KEY=...)
 python orchestrator.py run --mode live --synth auto
 
 # Tests
@@ -51,8 +51,8 @@ en Obsidian y activa el plugin Obsidian Git (auto-pull) — se actualiza sola
 cada día. Ver `docs/MANUAL.md`, sección 9.
 
 ### Motor de síntesis híbrido / Hybrid synthesis engine
-- `--synth auto` — usa la API de Anthropic si `ANTHROPIC_API_KEY` está definida;
-  si no, cae al heurístico. / Uses the Anthropic API when `ANTHROPIC_API_KEY`
+- `--synth auto` — usa la API de OpenAI si `OPENAI_API_KEY` está definida;
+  si no, cae al heurístico. / Uses the OpenAI API when `OPENAI_API_KEY`
   is set; falls back to the heuristic engine otherwise.
 - **Regla de oro:** ningún nodo es `verificado` sin al menos una pieza de
   evidencia en la Capa 3; sin evidencia → `sin_verificar` e `impacto: null`.
@@ -83,8 +83,15 @@ Nodo de impacto (schema 1.1): `id`, `titulo{es,en}`, `sintesis{es,en}`,
 
 `.github/workflows/global-pulse-daily.yml` ejecuta el ciclo cada día a las
 05:00 UTC (o manualmente con `workflow_dispatch`), corre los tests y publica
-el pulso por commit. Configura el secreto `ANTHROPIC_API_KEY` en el repositorio
-para activar la síntesis LLM; sin él, el heurístico mantiene el pulso vivo.
+el pulso por commit. Configura el secreto `OPENAI_API_KEY` en el repositorio
+para activar la síntesis LLM. El ciclo Nexo requiere esta clave: si falta, deja
+el análisis pendiente; los modos heredados conservan su respaldo heurístico.
+
+OpenAI usa la API Responses con `store: false` y `gpt-4.1-mini` como modelo
+predeterminado. `OPENAI_MODEL` permite cambiarlo en el entorno de ejecución.
+Para desarrollo local, ambos componentes leen `backend/.env` (excluido de Git).
+En GitHub Actions se utiliza el secreto `OPENAI_API_KEY`; no se usa la clave
+de Anthropic. La ausencia de almacenamiento de respuestas no implica ZDR.
 
 > El pulso incluido en el repositorio se generó en **modo fixture** (demo sin
 > red, eventos basados en cobertura pública documentada de 2025). Ejecuta el

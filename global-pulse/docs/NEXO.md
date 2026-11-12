@@ -37,7 +37,7 @@ citas desconocidas, estados inválidos y movimientos sin evidencia de al menos
 dos dimensiones del flujo o bucle. Una relación causal sigue siendo una
 interpretación del modelo; la presencia de citas no garantiza por sí sola su corrección.
 
-Requiere el secreto existente `ANTHROPIC_API_KEY`. La síntesis no cae al
+Requiere el secreto existente `OPENAI_API_KEY`. La síntesis no cae al
 motor heurístico. El modo `fixture` queda para pruebas
 locales y no publica mediante el workflow diario.
 

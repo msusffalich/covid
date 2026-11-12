@@ -72,7 +72,7 @@ def run_cycle(mode: str, synth_mode: str) -> dict:
     }
     engine = ("api" if synth_mode == "api" else
               "heuristic" if synth_mode == "heuristic" else
-              ("api" if __import__("os").environ.get("ANTHROPIC_API_KEY")
+              ("api" if __import__("os").environ.get("OPENAI_API_KEY")
                else "heuristic"))
     pulse = publish.run(nodes, mode, engine, metrics, log)
     promovidas = promote.run(pulse, log)

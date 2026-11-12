@@ -3,6 +3,12 @@ import os
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
+_env_file = ROOT.parent / "backend" / ".env"
+if _env_file.exists():
+    for _line in _env_file.read_text(encoding="utf-8").splitlines():
+        _name, _sep, _value = _line.partition("=")
+        if _sep and _name.strip() in {"OPENAI_API_KEY", "OPENAI_MODEL"}:
+            os.environ.setdefault(_name.strip(), _value.strip().strip("\"'"))
 DATA_DIR = ROOT / "data"
 EVIDENCE_DIR = DATA_DIR / "evidence"
 APP_DATA_DIR = ROOT / "app" / "public" / "data"
@@ -98,8 +104,7 @@ GDELT_URL = ("https://api.gdeltproject.org/api/v2/doc/doc"
 GDELT_QUERIES = ["crisis OR summit OR breakthrough OR disaster OR election"]
 
 # ---- Sintesis --------------------------------------------------------------
-ANTHROPIC_MODEL = "claude-sonnet-5"
-ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
+OPENAI_MODEL = os.environ.get("OPENAI_MODEL", "gpt-4.1-mini")
 
 # Umbrales
 MIN_CLUSTER_SIZE = 1          # piezas minimas para sintetizar un cluster

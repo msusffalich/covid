@@ -2,7 +2,7 @@
 Research Agent
 ==============
 
-Orchestrates a LangChain agent that:
+Orchestrates an OpenAI research pipeline that:
   1. Searches the web for real, cited information (Tavily → DuckDuckGo fallback)
   2. Synthesises findings, refusing to include unverified claims
   3. Structures the data into sections ready for any output format
@@ -22,11 +22,10 @@ System-prompt engineering principles applied
 import json
 import os
 from typing import AsyncGenerator
+from pathlib import Path
 
 from dotenv import load_dotenv
-from langchain_anthropic import ChatAnthropic
-from langchain_core.messages import HumanMessage, SystemMessage
-from langchain_core.output_parsers import JsonOutputParser
+from utils.openai_client import respond
 from tenacity import (
     retry,
     retry_if_exception_type,
@@ -36,18 +35,11 @@ from tenacity import (
 
 from utils.session_store import update_session
 
-load_dotenv()
+load_dotenv(Path(__file__).resolve().parents[1] / ".env")
 
 # ---------------------------------------------------------------------------
 # LLM setup
 # ---------------------------------------------------------------------------
-
-_llm = ChatAnthropic(
-    model="claude-sonnet-4-6",
-    anthropic_api_key=os.getenv("ANTHROPIC_API_KEY", ""),
-    max_tokens=8192,
-    temperature=0.2,       # low temp → factual, deterministic output
-)
 
 # ---------------------------------------------------------------------------
 # Master System Prompt (the "brain")
@@ -219,8 +211,8 @@ def _web_search(query: str, max_results: int = 8) -> list[dict]:
     reraise=True,
 )
 def _call_llm(messages: list) -> str:
-    response = _llm.invoke(messages)
-    return str(response.content)
+    return respond(messages[0]["content"], messages[1]["content"],
+                   max_tokens=8192, timeout=150, cache_key="global-brain-research")
 
 
 # ---------------------------------------------------------------------------
@@ -295,8 +287,8 @@ async def run_research(
     yield {"event": "progress", "data": {"step": 3, "total": 4, "detail": step_label}}
 
     messages = [
-        SystemMessage(content=system_prompt),
-        HumanMessage(content=user_msg),
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": user_msg},
     ]
 
     raw_output = _call_llm(messages)

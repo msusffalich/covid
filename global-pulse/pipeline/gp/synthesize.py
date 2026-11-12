@@ -1,14 +1,15 @@
 """Etapa 5 — Sintesis (Capa 2). Motor hibrido:
 
-  - modo 'api'       : LLM (Anthropic) con el prompt maestro y salida JSON validada.
+  - modo 'api'       : LLM (OpenAI) con el prompt maestro y salida JSON validada.
   - modo 'heuristic' : sintetizador extractivo por reglas (sin dependencias).
-  - modo 'auto'      : usa 'api' si hay ANTHROPIC_API_KEY; si no, 'heuristic'.
+  - modo 'auto'      : usa 'api' si hay OPENAI_API_KEY; si no, 'heuristic'.
 """
 import json
 import os
 import re
 import urllib.request
 
+from .openai_client import respond
 from . import config
 from .config import CATEGORY_KEYWORDS, GAZETTEER
 from .topics import keyword_present
@@ -112,35 +113,15 @@ def synth_heuristic(cluster: dict) -> dict:
 
 
 # ---------------------------------------------------------------------------
-# API (Anthropic)
+# API (OpenAI)
 # ---------------------------------------------------------------------------
 def synth_api(cluster: dict, api_key: str) -> dict:
-    payload = {
-        "model": config.ANTHROPIC_MODEL,
-        "max_tokens": 900,
-        # sin 'temperature': los modelos actuales lo rechazan como obsoleto
-        "system": MASTER_PROMPT.format(cats="\n".join(
-            f"   - {c}: {d}" for c, d in config.CATEGORY_DEFS.items())),
-        "messages": [{"role": "user", "content": json.dumps(
-            [{k: p[k] for k in ("id", "titulo", "cuerpo", "fuente", "idioma",
-                                "fecha_pub")} for p in cluster["piezas"]],
-            ensure_ascii=False)}],
-    }
-    req = urllib.request.Request(
-        config.ANTHROPIC_URL, data=json.dumps(payload).encode(),
-        headers={"content-type": "application/json", "x-api-key": api_key,
-                 "anthropic-version": "2023-06-01"})
-    try:
-        with urllib.request.urlopen(req, timeout=90) as r:
-            resp = json.loads(r.read())
-    except urllib.error.HTTPError as e:
-        # Superficie el mensaje real de la API (p. ej. credito insuficiente,
-        # modelo invalido) en lugar de un 400 opaco.
-        detail = e.read().decode("utf-8", "replace")[:300]
-        raise RuntimeError(f"HTTP {e.code}: {detail}") from None
-    text = resp["content"][0]["text"]
-    m = re.search(r"\{.*\}", text, re.S)
-    return json.loads(m.group(0))
+    text = respond(MASTER_PROMPT.format(cats="\n".join(
+        f"   - {c}: {d}" for c, d in config.CATEGORY_DEFS.items())),
+        json.dumps([{k: p[k] for k in ("id", "titulo", "cuerpo", "fuente", "idioma", "fecha_pub")}
+                    for p in cluster["piezas"]], ensure_ascii=False),
+        api_key=api_key, max_tokens=900, cache_key="global-pulse-synthesis")
+    return json.loads(text)
 
 
 REQUIRED = {"titulo", "sintesis", "categoria", "actores", "geo", "impacto", "fuentes"}
@@ -156,7 +137,7 @@ def validate_node_shape(node: dict) -> bool:
 
 
 def run(clusters: list[dict], mode: str = "auto", log=print) -> list[dict]:
-    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+    api_key = os.environ.get("OPENAI_API_KEY", "")
     if mode == "auto":
         mode = "api" if api_key else "heuristic"
     log(f"[5/8] Sintesis (motor {mode})")

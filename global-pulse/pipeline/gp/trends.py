@@ -18,6 +18,7 @@ import unicodedata
 import urllib.request
 from datetime import datetime, timezone
 
+from .openai_client import respond
 from . import config
 
 WINDOW_DAYS = 21
@@ -101,21 +102,10 @@ def _synth_api(theme: dict, nodes: list[dict], api_key: str) -> dict:
     items = [{"fecha": n["fecha"], "impacto": n.get("impacto"),
               "titulo": n["titulo"]["es"], "sintesis": n["sintesis"]["es"]}
              for n in nodes[:14]]
-    payload = {
-        "model": config.ANTHROPIC_MODEL, "max_tokens": 500,
-        "system": TREND_PROMPT,
-        "messages": [{"role": "user", "content": json.dumps(
-            {"tema": theme["nombre"]["es"], "nodos": items}, ensure_ascii=False)}],
-    }
-    req = urllib.request.Request(
-        config.ANTHROPIC_URL, data=json.dumps(payload).encode(),
-        headers={"content-type": "application/json", "x-api-key": api_key,
-                 "anthropic-version": "2023-06-01"})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        resp = json.loads(r.read())
-    text = resp["content"][0]["text"]
-    m = re.search(r"\{.*\}", text, re.S)
-    return json.loads(m.group(0))
+    text = respond(TREND_PROMPT,
+        json.dumps({"tema": theme["nombre"]["es"], "nodos": items}, ensure_ascii=False),
+        api_key=api_key, max_tokens=500, timeout=60, cache_key="global-pulse-trends")
+    return json.loads(text)
 
 
 def _synth_heuristic(theme: dict, nodes: list[dict], total: int = None) -> dict:
@@ -143,7 +133,7 @@ def _series(nodes_by_day: dict) -> list[dict]:
 
 def run(mode: str, log=print) -> dict:
     log("[9/9] Seguidor de tendencias por tema")
-    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+    api_key = os.environ.get("OPENAI_API_KEY", "")
     engine = "api" if api_key else "heuristic"
     pulses = _load_history(log)
 
