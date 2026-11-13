@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-12
-nodos: 44
+actualizado: 2026-11-13
+nodos: 43
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-12. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-13. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante este periodo, el conflicto entre Rusia y Ucrania mostró signos de negociación con encuentros en Abu Dabi auspiciados por EE.UU., aunque sin avances contundentes hacia la paz. Mientras tanto, Ucrania mantiene su defensa activa, destacando innovaciones tecnológicas propias y capturas de prisioneros, al tiempo que Rusia enfrenta ataques estratégicos y busca concentrar las conversaciones en temas de seguridad sin involucrar a la UE. La situación general sigue siendo tensa con una mezcla de diplomacia y confrontación militar.
+Durante este periodo, las negociaciones de paz entre Rusia y Ucrania han avanzado parcialmente, destacándose conversaciones trilaterales en Abu Dabi mediadas por EE.UU., con acuerdos limitados como canjes de prisioneros y sin inclusión de la UE. Mientras tanto, Ucrania continúa fortaleciendo su capacidad militar tecnológica con apoyo desde EE.UU., y los enfrentamientos incluyen ataques con drones contra infraestructura crítica rusa y un aumento en el reclutamiento internacional para las fuerzas rusas. La situación sigue siendo compleja, con esfuerzos diplomáticos y confrontaciones en simultáneo, y sin un acuerdo definitivo a la vista.
 
 ## Trend summary (EN)
-During this period, the Russia-Ukraine conflict exhibited signs of negotiation through US-mediated talks in Abu Dhabi, though no significant peace breakthroughs occurred. Meanwhile, Ukraine continues active defense efforts, highlighting technological innovations and prisoner captures, while Russia faces strategic attacks and aims to focus discussions on security matters excluding the EU. The overall situation remains tense, marked by a blend of diplomacy and military confrontation.
+During this period, peace talks between Russia and Ukraine have made partial progress, highlighted by trilateral negotiations in Abu Dhabi mediated by the U.S., resulting in limited agreements such as prisoner exchanges and excluding the EU. Meanwhile, Ukraine continues to strengthen its military technological capabilities with U.S. support, and the conflict includes drone attacks on critical Russian infrastructure and increased international recruitment for Russian forces. The situation remains complex, with simultaneous diplomatic efforts and confrontations, and no definitive agreement in sight.
 
 > [!note] Estado actual
-> Las conversaciones de paz continúan sin avances significativos, con intercambios limitados como acuerdos de canje de prisioneros mientras persiste la confrontación militar.
+> Las negociaciones recientes entre Rusia, Ucrania y EE.UU. en Abu Dabi concluyeron con un acuerdo sobre el canje de prisioneros, pero persiste la renuencia de Moscú hacia la participación europea y se anticipan más encuentros.
 
-## Nodos recientes (44 en la ventana)
+## Nodos recientes (43 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-12 | 68 | K1 | Enviados de EE. UU. se reúnen con Putin mientras Zelenski denunc |

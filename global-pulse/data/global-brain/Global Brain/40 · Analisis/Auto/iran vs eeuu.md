@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-11-12
-nodos: 44
+actualizado: 2026-11-13
+nodos: 41
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-12. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-13. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el período, la dinámica entre Irán y Estados Unidos ha mostrado una combinación de tensiones militares y esfuerzos diplomáticos sin avances significativos. Estados Unidos ha llevado a cabo ataques limitados contra objetivos iraníes y ha reforzado la seguridad ante amenazas directas, mientras que las conversaciones de paz permanecen estancadas y las sanciones económicas se mantienen vigentes. A pesar de ciertas señales de distensión, como la caída en los precios de la energía, la relación sigue caracterizándose por la desconfianza y la incertidumbre sobre un acuerdo futuro.
+Durante los últimos días, la tensión entre Irán y Estados Unidos ha experimentado fluctuaciones significativas. A pesar de recientes ataques limitados por parte de EE.UU. y amenazas iraníes que han provocado movimientos estratégicos militares estadounidenses, también se han observado señales de posible distensión, como la caída en los precios de la energía y propuestas de diálogo mediadas por Catar. Sin embargo, las declaraciones de líderes estadounidenses indican una postura firme, rechazando la necesidad de un acuerdo, mientras que incidentes como ciberataques atribuidos a Irán y daños en infraestructuras añaden complejidad al panorama.
 
 ## Trend summary (EN)
-During the period, the dynamics between Iran and the United States have reflected a mix of military tensions and diplomatic efforts without significant progress. The U.S. has conducted limited attacks on Iranian targets and increased security in response to direct threats, while peace talks have stalled and economic sanctions remain in place. Despite some signs of easing tensions, such as falling energy prices, the relationship is still marked by distrust and uncertainty regarding a future agreement.
+In recent days, tensions between Iran and the United States have seen significant fluctuations. Despite limited U.S. attacks and Iranian threats prompting strategic U.S. military adjustments, there are signs of potential de-escalation, including falling energy prices and dialogue proposals mediated by Qatar. However, statements from U.S. leaders reflect a firm stance rejecting the need for an agreement, while incidents such as cyberattacks attributed to Iran and damage to infrastructure add complexity to the situation.
 
 > [!note] Estado actual
-> El estado más reciente es que el presidente Trump afirma que EE. UU. 'no necesita un acuerdo' con Irán mientras continúan las tensiones y sanciones sin avances en las negociaciones.
+> El estado más reciente muestra una postura firme de EE.UU. con declaraciones de Trump negando la necesidad de un acuerdo y confirmando nuevos ataques limitados contra Irán.
 
-## Nodos recientes (44 en la ventana)
+## Nodos recientes (41 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-12 | 55 | K1 | Trump dice que EE. UU. 'no necesita un acuerdo' con Irán |

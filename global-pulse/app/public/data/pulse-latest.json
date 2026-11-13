@@ -1,257 +1,198 @@
 {
   "meta": {
     "schema": "2.0",
-    "fecha": "2026-11-12",
-    "generado": "2026-11-12T13:23:17.893259+00:00",
+    "fecha": "2026-11-13",
+    "generado": "2026-11-13T12:45:52.309358+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "nodos": 24,
-      "verificados": 24,
-      "piezas_ingeridas": 195,
+      "nodos": 16,
+      "verificados": 16,
+      "piezas_ingeridas": 216,
       "canales_consultados": 46,
-      "canales_disponibles": 38,
-      "documentos_recientes": 296
+      "canales_disponibles": 37,
+      "documentos_recientes": 337
     },
     "descargo": "",
-    "corte": "2026-11-12T13:21:22.607700+00:00",
-    "reporte_sha256": "57928ca8ca562e1be18a034cde69ff6fd20b254c77d36f02079b5421a2da855e",
-    "estado": "completo",
+    "corte": "2026-11-13T12:41:04.177664+00:00",
+    "reporte_sha256": "4d328370d09f015b42b31d3cf2cbd9b84eed54be8e2a958d4f024ba3e4ceca17",
+    "estado": "análisis pendiente",
     "politica_fuentes": "mixta-v1",
-    "reporte_archivo": "2026-11-12 — Pulso.md"
+    "reporte_archivo": "2026-11-13 — Pulso.md"
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Trump dice que EE. UU. 'no necesita un acuerdo' con Irán",
-        "en": "Trump says US 'doesn't need a deal' with Iran"
+        "es": "Negociaciones sobre la crisis climática avanzan en la COP31 mientras se cuestionan permisos petroleros en Noruega",
+        "en": "Climate crisis negotiations progress at COP31 amid scrutiny of oil permits in Norway"
       },
       "sintesis": {
-        "es": "El presidente Trump afirmó que Estados Unidos no necesita un acuerdo con Irán, en declaraciones sobre tensiones en el estrecho de Ormuz, según CNBC.",
-        "en": "President Trump said the US does not need a deal with Iran, in remarks on tensions in the Strait of Hormuz, according to CNBC."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Donald Trump"
-      ],
-      "geo": {
-        "lat": 32.4,
-        "lon": 53.7,
-        "region": "Oriente Medio"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_cff194cff8"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_cff194cff8",
-          "titulo": "Trump says ‘we don’t need a deal with Iran’",
-          "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-          "fuente": "CNBC",
-          "fecha": "Thu, 12 Nov 2026 13:20:39 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0000",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-12_0006"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Senador Cotton pide prohibir a la china CXMT en EE. UU.",
-        "en": "Senator Cotton urges US ban on Chinese chipmaker CXMT"
-      },
-      "sintesis": {
-        "es": "El senador Tom Cotton instó al secretario de Comercio a incluir a CXMT en la 'Entity List' ante su expansión en memoria DRAM y HBM, según CNBC.",
-        "en": "Senator Tom Cotton urged the Commerce secretary to add CXMT to the Entity List as the Chinese memory maker expands in DRAM and HBM, per CNBC."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Tom Cotton",
-        "CXMT",
-        "Comercio de EE. UU."
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 58,
-      "fuentes": [
-        "ev_5fe9705287"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_5fe9705287",
-          "titulo": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
-          "url": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
-          "fuente": "CNBC",
-          "fecha": "Thu, 12 Nov 2026 13:20:12 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0001",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Junta de Nvidia evalúa el futuro del CEO Jensen Huang",
-        "en": "Nvidia board weighs CEO Jensen Huang's future"
-      },
-      "sintesis": {
-        "es": "Las acciones de Nvidia caen en premercado tras reportes de una segunda relación extramarital de Huang; la junta evalúa si lo destituye, según The Guardian.",
-        "en": "Nvidia shares fall pre-market after reports of Huang's second affair; the board is weighing whether to oust him, according to The Guardian."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Nvidia",
-        "Jensen Huang"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 70,
-      "fuentes": [
-        "ev_23ff0c3630"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_23ff0c3630",
-          "titulo": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-          "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 12 Nov 2026 13:14:49 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0002",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-12_0011",
-        "nd_2026-11-12_0012",
-        "nd_2026-11-12_0017"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Xi Jinping invoca a Sun Yat-sen para reclamar soberanía sobre Taiwán",
-        "en": "Xi Jinping invokes Sun Yat-sen to claim sovereignty over Taiwan"
-      },
-      "sintesis": {
-        "es": "El presidente chino defendió la 'reunificación completa' como 'tarea histórica irrenunciable' del Partido Comunista, según El País.",
-        "en": "China's president defended 'complete reunification' as an 'unrenounceable historic task' of the Communist Party, according to El País."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Xi Jinping",
-        "Partido Comunista Chino"
-      ],
-      "geo": {
-        "lat": 23.7,
-        "lon": 121.0,
-        "region": "Asia Oriental"
-      },
-      "impacto": 65,
-      "fuentes": [
-        "ev_df247a8191"
-      ],
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/DCLOF76UXJLQPM5FUXIFPA6JMM.jpg?auth=d5a94d5dc357d949811e8f9a63448003d8a6131f43be23574e60c8588e05a93a"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_df247a8191",
-          "titulo": "El presidente chino invoca al líder revolucionario Sun Yat-sen para reclamar la soberanía sobre Taiwán",
-          "url": "https://elpais.com/internacional/2026-11-12/el-presidente-chino-invoca-al-lider-revolucionario-sun-yat-sen-para-reclamar-la-soberania-sobre-taiwan.html",
-          "fuente": "El País",
-          "fecha": "Thu, 12 Nov 2026 12:52:44 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-12_0003",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-12_0006",
-        "nd_2026-11-12_0011",
-        "nd_2026-11-12_0012"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Enviados de EE. UU. se reúnen con Putin mientras Zelenski denuncia nueva interrupción de Starlink",
-        "en": "US envoys meet Putin as Zelensky says Starlink disrupted again"
-      },
-      "sintesis": {
-        "es": "Restricciones a Starshield 'afectan directamente' la capacidad de interceptar drones rusos, dijo Zelenski, mientras enviados de EE. UU. se reunían con Putin en Moscú, según The Guardian.",
-        "en": "Starshield restrictions 'directly affect' the ability to intercept Russian drones, Zelensky said, as US envoys met Putin in Moscow, per The Guardian."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Vladímir Putin",
-        "Volodímir Zelenski",
-        "Jared Kushner",
-        "Steve Witkoff"
-      ],
-      "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
-      },
-      "impacto": 68,
-      "fuentes": [
-        "ev_dd3cda036c"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/8a139431f84b32f3591eca48664c0707ca0905d2/202_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=8dee47e8be485e3afb7797d2ff04992d"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_dd3cda036c",
-          "titulo": "US envoys meet Putin as Zelenskyy says Starlink disrupted for Ukraine’s military again - Europe live",
-          "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 12 Nov 2026 13:04:18 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0004",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Greta Thunberg advierte en la COP31 que 'nadie viene a rescatarnos'",
-        "en": "Greta Thunberg warns at COP31 that 'no one is coming to rescue us'"
-      },
-      "sintesis": {
-        "es": "En la cumbre climática COP31, Thunberg lanzó una advertencia mientras líderes como el primer ministro británico Andy Burnham hablaban, según The Guardian.",
-        "en": "At the COP31 climate summit, Thunberg issued a warning as leaders including UK PM Andy Burnham addressed the gathering, according to The Guardian."
+        "es": "En la COP31 en Turquía, continúan las negociaciones sobre ciencia del clima y transición energética. La corte suprema de Noruega anuló permisos para campos petroleros, obligando a tener en cuenta daños ambientales.",
+        "en": "At COP31 in Turkey, climate science and energy transition talks continue. Norway’s supreme court invalidated oil field permits, requiring consideration of environmental harm."
       },
       "categoria": "clima",
       "actores": [
-        "Greta Thunberg",
-        "Andy Burnham"
+        "Corte Suprema de Noruega"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 80,
+      "fuentes": [
+        "ev_16e57271bb"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/8a5f636992a4066c88a9a0a48c1326c5603c8898/668_0_6679_5346/master/6679.jpg?width=140&quality=85&auto=format&fit=max&s=f7bb07f1e290b4309adc1a90cb22c45a"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_16e57271bb",
+          "titulo": "Cop31 live: Climate crisis negotiations heat up on fifth day of talks",
+          "url": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Fri, 13 Nov 2026 12:19:35 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-13_0000",
+      "fecha": "2026-11-13",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "La tormenta Charles causa inundaciones y cancelaciones de vuelos en el sur de Europa",
+        "en": "Storm Charles causes floods and flight cancellations in Southern Europe"
+      },
+      "sintesis": {
+        "es": "La tormenta Charles produjo fuertes lluvias y vientos en la península ibérica, Italia y los Balcanes, causando daños, inundaciones y afectaciones en el tráfico aéreo.",
+        "en": "Storm Charles brought heavy rain and winds to the Iberian Peninsula, Italy, and the Balkans, causing damage, floods, and disruptions to air traffic."
+      },
+      "categoria": "clima",
+      "actores": [],
+      "geo": {
+        "lat": 46.6,
+        "lon": 2.2,
+        "region": "Europa"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_bc37b2744a"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/dd799d5cd22d85bdbac03ed558d6c0d812d92a01/327_0_3561_2849/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=a9e33b7f66c619f9d04fac50f6351d5e"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_bc37b2744a",
+          "titulo": "Storm Charles causes floods and flight cancellations across southern Europe",
+          "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
+          "fuente": "The Guardian",
+          "fecha": "Fri, 13 Nov 2026 08:49:19 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-13_0001",
+      "fecha": "2026-11-13",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Un fenómeno super El Niño afecta la costa de California con impactos en la vida marina",
+        "en": "Super El Niño impacts California coast with marine life effects"
+      },
+      "sintesis": {
+        "es": "Un super El Niño provoca temperaturas elevadas, mareas altas y la desaparición de especies clave, causando la muerte de fauna marina en la bahía de Monterey.",
+        "en": "A super El Niño causes high temperatures, high tides, and disappearance of key species, resulting in marine wildlife deaths in Monterey Bay."
+      },
+      "categoria": "clima",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 75,
+      "fuentes": [
+        "ev_8bcd3caa25"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/4c83e9108430ac54db7734e9eb8276e8a668f6d8/980_691_3466_2773/master/3466.jpg?width=140&quality=85&auto=format&fit=max&s=82a02550e0e4b45cb1928d583a188ded"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8bcd3caa25",
+          "titulo": "A super El Niño brings life and death to the California coast: ‘Like nothing we’ve ever seen’",
+          "url": "https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Fri, 13 Nov 2026 12:00:19 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-13_0002",
+      "fecha": "2026-11-13",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "El Niño aumentará el riesgo de muerte en el parto para millones en zonas de crisis",
+        "en": "El Niño to increase risk of childbirth death for millions in crisis areas"
+      },
+      "sintesis": {
+        "es": "Las condiciones climáticas extremas agravarán el riesgo de mortalidad materna y neonatal en zonas vulnerables, con cortes de acceso a los hospitales esperados.",
+        "en": "Extreme weather conditions will worsen maternal and newborn mortality risks in vulnerable areas, with expected hospital access disruptions."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Unión Internacional de Matronas"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 80,
+      "fuentes": [
+        "ev_6405d64924"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/bb8e40dbab3cd113ca4102dc6a07312f0852079e/947_0_6627_5304/master/6627.jpg?width=140&quality=85&auto=format&fit=max&s=729bb69e4e5ad648895bc725d483b36f"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_6405d64924",
+          "titulo": "El Niño will increase risk of death in childbirth for millions, say midwives",
+          "url": "https://www.theguardian.com/global-development/2026/nov/13/el-nino-death-in-childbirth-millions-midwives-cop31-extreme-weather-maternal-newborn-death-rates",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Fri, 13 Nov 2026 12:00:18 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-13_0003",
+      "fecha": "2026-11-13",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "NGC 206 y las nubes estelares de Andrómeda destacadas por NASA",
+        "en": "NGC 206 and the star clouds of Andromeda featured by NASA"
+      },
+      "sintesis": {
+        "es": "La NASA muestra imágenes de NGC 206 y las nubes estelares de la galaxia Andrómeda, ampliando el conocimiento del cosmos.",
+        "en": "NASA showcases images of NGC 206 and star clouds in the Andromeda galaxy, expanding cosmic knowledge."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "NASA"
       ],
       "geo": {
         "lat": 0.0,
@@ -260,506 +201,39 @@
       },
       "impacto": 50,
       "fuentes": [
-        "ev_c87ebf6596"
+        "ev_6b8dafde29"
       ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/314a310756f9e5747210ab28b8608e38e80fc95f/429_0_6573_5258/master/6573.jpg?width=140&quality=85&auto=format&fit=max&s=476eef8b5cbe754c89ac539c8d56e9b3"
-      ],
+      "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_c87ebf6596",
-          "titulo": "Cop31 live: ‘No one is coming to rescue us,’ Greta Thunberg tells climate summit",
-          "url": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
-          "fuente": "The Guardian · Medio ambiente",
-          "fecha": "Thu, 12 Nov 2026 13:09:30 GMT",
+          "id": "ev_6b8dafde29",
+          "titulo": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+          "fuente": "NASA",
+          "fecha": "Fri, 13 Nov 2026 05:05:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-12_0005",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Kerry llama a Trump 'el mayor perdedor' por abandonar la acción climática",
-        "en": "Kerry calls Trump 'biggest loser' for scrapping climate action"
-      },
-      "sintesis": {
-        "es": "El exsecretario de Estado John Kerry criticó en la COP31 a Trump por ceder el liderazgo en energía limpia a China y retirar a EE. UU. del proceso climático, según The Guardian.",
-        "en": "Former Secretary of State John Kerry criticized Trump at COP31 for ceding clean-energy leadership to China and withdrawing the US from climate talks, per The Guardian."
-      },
-      "categoria": "clima",
-      "actores": [
-        "John Kerry",
-        "Donald Trump"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 52,
-      "fuentes": [
-        "ev_cd10dfb2fb"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/32fe1f2eeb72c44b90ada00f0318f0c0c6262cf9/302_0_3013_2411/master/3013.jpg?width=140&quality=85&auto=format&fit=max&s=990b959e58b895488acae001c37bd63c"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_cd10dfb2fb",
-          "titulo": "Trump the ‘biggest loser’ for scrapping climate action, John Kerry says at Cop31",
-          "url": "https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 12 Nov 2026 11:00:48 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0006",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
+      "id": "nd_2026-11-13_0004",
+      "fecha": "2026-11-13",
+      "kardashev": "K3",
       "relaciones": [
-        "nd_2026-11-12_0000",
-        "nd_2026-11-12_0003",
-        "nd_2026-11-12_0011",
-        "nd_2026-11-12_0012"
+        "nd_2026-11-13_0005"
       ]
     },
     {
       "titulo": {
-        "es": "Análisis advierte de 'desbordamiento irrecuperable' de umbrales de temperatura global",
-        "en": "Analysis warns of 'irrecoverable overshoot' of global temperature thresholds"
+        "es": "Recuperación global de manglares documentada por NASA",
+        "en": "Global rebound of mangroves documented by NASA"
       },
       "sintesis": {
-        "es": "Bajo políticas actuales el planeta se calentaría 2,7°C de media hacia fin de siglo, según el informe de Climate Action Tracker citado por The Guardian, frente al 2,6°C del año anterior.",
-        "en": "Under current policies the planet would warm 2.7C on average by century's end, per Climate Action Tracker's report cited by The Guardian, up from 2.6C last year."
-      },
-      "categoria": "clima",
-      "actores": [
-        "Climate Action Tracker"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_1c999a0a1e"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/271f520cba8e63ed53c5fb1ca5b7ea3e969f2a12/477_0_6149_4917/master/6149.jpg?width=140&quality=85&auto=format&fit=max&s=bb44226c441bc7f9727aa51b93793b0c"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1c999a0a1e",
-          "titulo": "World heading for ‘irrevocable overshoot’ of global temperature thresholds, analysis warns",
-          "url": "https://www.theguardian.com/environment/2026/nov/12/world-heading-for-irrevocable-overshoot-of-global-temperature-thresholds-analysis-warns",
-          "fuente": "The Guardian · Medio ambiente",
-          "fecha": "Thu, 12 Nov 2026 03:00:06 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0007",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Primeras directrices sobre geoingeniería oceánica para remoción de carbono",
-        "en": "First guidelines on ocean geoengineering for carbon removal"
-      },
-      "sintesis": {
-        "es": "En Halifax, Canadá, se desarrolla remoción de carbono oceánico mediante alcalinización, mientras surgen las primeras directrices para esta industria emergente, según The Guardian.",
-        "en": "In Halifax, Canada, ocean alkalinity enhancement for carbon removal is underway as first industry guidelines emerge, according to The Guardian."
-      },
-      "categoria": "clima",
-      "actores": [
-        "Planetary Technologies"
-      ],
-      "geo": {
-        "lat": 56.1,
-        "lon": -106.3,
-        "region": "Norteamerica"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_f36b7352cf"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/3c561805685030208ac5f4bb8e73a9cc273ad328/1034_0_6251_5000/master/6251.jpg?width=140&quality=85&auto=format&fit=max&s=1eb17a5695d4a9d96236985c9f534ec6"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f36b7352cf",
-          "titulo": "First guidelines on attempts to manipulate the ocean put spotlight on geoengineering industry",
-          "url": "https://www.theguardian.com/environment/2026/nov/12/canada-climate-geoengineering-marine-carbon-credits-biology-ocean-alkalinity-enhancement",
-          "fuente": "The Guardian · Medio ambiente",
-          "fecha": "Thu, 12 Nov 2026 11:00:47 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0008",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "NOAA no prevé formación de ciclones tropicales en el Atlántico",
-        "en": "NOAA forecasts no tropical cyclone formation in the Atlantic"
-      },
-      "sintesis": {
-        "es": "El Centro Nacional de Huracanes de NOAA informó que no se espera formación de ciclones tropicales en el Atlántico Norte, Caribe y Golfo durante los próximos 7 días.",
-        "en": "NOAA's National Hurricane Center reported no tropical cyclone formation is expected in the North Atlantic, Caribbean and Gulf over the next 7 days."
-      },
-      "categoria": "clima",
-      "actores": [
-        "NOAA",
-        "Centro Nacional de Huracanes"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 20,
-      "fuentes": [
-        "ev_1922f3f40d"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1922f3f40d",
-          "titulo": "Atlantic Tropical Weather Outlook",
-          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
-          "fuente": "NOAA · Centro Nacional de Huracanes",
-          "fecha": "Thu, 12 Nov 2026 11:21:53 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0009",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Meta anuncia acuerdos de manufactura limpia para su cadena de centros de datos",
-        "en": "Meta announces clean manufacturing agreements for data center supply chain"
-      },
-      "sintesis": {
-        "es": "Meta firmó acuerdos de compra a largo plazo con productores bajos en carbono para su cadena de suministro de centros de datos, según su sala de prensa oficial.",
-        "en": "Meta entered long-term purchase agreements with low-carbon producers for its data center supply chain, according to its official newsroom."
+        "es": "La NASA reporta un repunte global de los manglares, ecosistemas cruciales para la protección costera y la biodiversidad marina.",
+        "en": "NASA reports a global comeback of mangroves, ecosystems critical for coastal protection and marine biodiversity."
       },
       "categoria": "tecnologia",
       "actores": [
-        "Meta"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_3cf13e1496"
-      ],
-      "imagenes": [
-        "https://about.fb.com/wp-content/uploads/2026/11/How-Meta-is-Helping-Bring-Clean-Industry-to-Commercial-Scale_Header.jpg?fit=1920%2C1080"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_3cf13e1496",
-          "titulo": "Meta’s New Agreements Bring Clean Manufacturing to Data Center Supply Chains",
-          "url": "https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains/",
-          "fuente": "Meta",
-          "fecha": "Thu, 12 Nov 2026 12:00:07 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0010",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Escándalo de Huang reaviva presión para endurecer exportación de chips de IA a China",
-        "en": "Huang affair fuels push to tighten AI chip export controls to China"
-      },
-      "sintesis": {
-        "es": "Huang se oponía a controles estrictos de exportación de chips de IA a China, lo que generó fricción con legisladores republicanos, mientras crecen llamados a su renuncia, según CNBC.",
-        "en": "Huang had opposed strict AI chip export controls to China, drawing friction with congressional hawks, as resignation calls grow, per CNBC."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Jensen Huang",
-        "Nvidia",
-        "Congreso de EE. UU."
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 62,
-      "fuentes": [
-        "ev_f58bce00f2"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f58bce00f2",
-          "titulo": "Jensen Huang affair in DC: Resignation calls and moves to tighten Nvidia China exports",
-          "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
-          "fuente": "CNBC",
-          "fecha": "Thu, 12 Nov 2026 12:03:39 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0011",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-12_0002",
-        "nd_2026-11-12_0003",
-        "nd_2026-11-12_0006",
-        "nd_2026-11-12_0012",
-        "nd_2026-11-12_0017"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "China acusa a EE. UU. de 'fabricar' acusaciones de espionaje contra Nvidia",
-        "en": "China says US 'fabricating' Nvidia spy claims"
-      },
-      "sintesis": {
-        "es": "Beijing rechazó las acusaciones de espionaje vinculadas al CEO de Nvidia, calificándolas de pretexto para un 'bloqueo' tecnológico contra China, según Al Jazeera.",
-        "en": "Beijing rejected espionage claims tied to Nvidia's CEO, calling them a pretext for a tech 'blockade' against China, according to Al Jazeera."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Nvidia",
-        "Jensen Huang"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 55,
-      "fuentes": [
-        "ev_006b506f43"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_006b506f43",
-          "titulo": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
-          "url": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Thu, 12 Nov 2026 10:49:41 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0012",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-12_0002",
-        "nd_2026-11-12_0003",
-        "nd_2026-11-12_0006",
-        "nd_2026-11-12_0011",
-        "nd_2026-11-12_0017"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Gobierno australiano publica guía de IA ante riesgo de burnout y vigilancia laboral",
-        "en": "Australian government issues AI workplace guide amid burnout, surveillance risk"
-      },
-      "sintesis": {
-        "es": "La ministra Amanda Rishworth lanzó una guía sobre adopción de IA tras recortes de empleo en Qantas y Canva, advirtiendo sobre automatización de puestos de nivel inicial, según The Guardian.",
-        "en": "Minister Amanda Rishworth launched an AI adoption guide after Qantas and Canva job cuts, warning entry-level jobs face automation first, per The Guardian."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Amanda Rishworth",
-        "Qantas",
-        "Canva"
-      ],
-      "geo": {
-        "lat": -25.3,
-        "lon": 133.8,
-        "region": "Oceania"
-      },
-      "impacto": 42,
-      "fuentes": [
-        "ev_bcde6c710b"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/88f866d6c520f3ee449d59a96f327fcbd089d492/420_0_4200_3360/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=12ff34a009b7acaf088f4b450b3e1c93"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_bcde6c710b",
-          "titulo": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
-          "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 12 Nov 2026 06:55:44 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0013",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Startup ucraniana de tecnología de defensa UFORCE alcanza valoración de 6.000 millones",
-        "en": "Ukrainian defense tech startup UFORCE hits $6 billion valuation"
-      },
-      "sintesis": {
-        "es": "Los drones NEMESIS de UFORCE han completado 300.000 vuelos de combate y sus naves MAGURA contribuyeron a destruir buques rusos, según CNBC.",
-        "en": "UFORCE's NEMESIS drones have completed 300,000 combat flights and its MAGURA vessels have helped destroy Russian warships, per CNBC."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "UFORCE"
-      ],
-      "geo": {
-        "lat": 61.5,
-        "lon": 105.3,
-        "region": "Rusia"
-      },
-      "impacto": 48,
-      "fuentes": [
-        "ev_d43cf200f4"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_d43cf200f4",
-          "titulo": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
-          "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
-          "fuente": "CNBC",
-          "fecha": "Thu, 12 Nov 2026 09:05:22 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0014",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Metro Bank se pone en venta con ganancia potencial de 420 millones de libras para su inversor",
-        "en": "Metro Bank up for sale with potential £420m windfall for investor"
-      },
-      "sintesis": {
-        "es": "Metro Bank anunció que está abierto a ofertas de compra, lo que elevó su acción un 7% y podría dar al inversor colombiano Jaime Gilinski Bacal una ganancia de 420 millones de libras, según The Guardian.",
-        "en": "Metro Bank announced it is open to takeover bids, lifting shares 7% and potentially netting Colombian investor Jaime Gilinski Bacal a £420m windfall, per The Guardian."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Metro Bank",
-        "Jaime Gilinski Bacal"
-      ],
-      "geo": {
-        "lat": 4.6,
-        "lon": -74.3,
-        "region": "Sudamerica"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_8f27eb9d92"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/8dd2e9e59b6d92f8f011307fd95746c3cdabf54c/412_112_6540_5232/master/6540.jpg?width=140&quality=85&auto=format&fit=max&s=3a3852314fd0894c454b6f4720a977af"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_8f27eb9d92",
-          "titulo": "Metro Bank up for sale, with billionaire investor in line for £420m windfall",
-          "url": "https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 12 Nov 2026 12:43:49 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0015",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Economía del Reino Unido crece al ritmo más rápido en más de dos años",
-        "en": "UK economy grows at fastest rate in more than two years"
-      },
-      "sintesis": {
-        "es": "El PIB británico creció 0,7% en el tercer trimestre, según cifras oficiales citadas por la BBC, la expansión más rápida en dos años y medio.",
-        "en": "UK GDP grew 0.7% in the third quarter, according to official figures cited by the BBC, the fastest expansion in two and a half years."
-      },
-      "categoria": "finanzas",
-      "actores": [],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 48,
-      "fuentes": [
-        "ev_aa5b716c31"
-      ],
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_aa5b716c31",
-          "titulo": "UK economy grows at fastest rate for more than two years",
-          "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC · Economía",
-          "fecha": "Thu, 12 Nov 2026 11:20:25 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0016",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Analistas evalúan si Nvidia es 'demasiado grande para caer' por su red de financiamiento de IA",
-        "en": "Analysts weigh if Nvidia is 'too big to fail' amid AI financing web"
-      },
-      "sintesis": {
-        "es": "La red de vínculos financieros de Nvidia con otras empresas eleva el riesgo de daño económico de gran alcance ante la crisis de su CEO, según CNBC.",
-        "en": "Nvidia's web of financial ties to other companies raises the risk of far-reaching economic damage amid its CEO crisis, according to CNBC."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Nvidia",
-        "Jensen Huang"
+        "NASA"
       ],
       "geo": {
         "lat": 0.0,
@@ -768,165 +242,125 @@
       },
       "impacto": 65,
       "fuentes": [
-        "ev_a60fbc96ae"
+        "ev_bd70071ca3"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_a60fbc96ae",
-          "titulo": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
-          "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-          "fuente": "CNBC",
-          "fecha": "Wed, 11 Nov 2026 22:59:33 GMT",
+          "id": "ev_bd70071ca3",
+          "titulo": "A Global Rebound for Mangroves",
+          "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+          "fuente": "NASA",
+          "fecha": "Fri, 13 Nov 2026 05:01:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-12_0017",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
+      "id": "nd_2026-11-13_0005",
+      "fecha": "2026-11-13",
+      "kardashev": "K2",
       "relaciones": [
-        "nd_2026-11-12_0002",
-        "nd_2026-11-12_0011",
-        "nd_2026-11-12_0012"
+        "nd_2026-11-13_0004"
       ]
     },
     {
       "titulo": {
-        "es": "Nebius cae 10% tras prever mayor gasto de capital en 2026 y perspectivas débiles",
-        "en": "Nebius falls 10% on higher 2026 capex expectations, weak outlook"
+        "es": "Google impulsa mejoras rápidas en productos con IA gracias a Gemini 4 Hydrogen",
+        "en": "Google speeds product improvements with AI using Gemini 4 Hydrogen"
       },
       "sintesis": {
-        "es": "El informe de resultados de Nebius llega tras resultados mejores de lo esperado de IREN y CoreWeave en la semana previa, según CNBC.",
-        "en": "Nebius' earnings report follows better-than-expected results from fellow neoclouds IREN and CoreWeave in the past week, per CNBC."
+        "es": "Con el modelo Gemini 4 Hydrogen, Google permite a equipos acelerar desarrollo y depuración de software con integración de IA.",
+        "en": "Using Gemini 4 Hydrogen, Google enables teams to speed up software development and debugging with AI integration."
       },
-      "categoria": "finanzas",
+      "categoria": "tecnologia",
       "actores": [
-        "Nebius",
-        "IREN",
-        "CoreWeave"
+        "Google"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 38,
+      "impacto": 70,
       "fuentes": [
-        "ev_1c6f90656f"
+        "ev_0c70a89ee2"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_1c6f90656f",
-          "titulo": "Nebius falls 10% as company expects increased 2026 capex spend, issues weak outlook",
-          "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
-          "fuente": "CNBC",
-          "fecha": "Thu, 12 Nov 2026 13:06:08 GMT",
+          "id": "ev_0c70a89ee2",
+          "titulo": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "fuente": "OpenAI",
+          "fecha": "Thu, 12 Nov 2026 20:00:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-12_0018",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": []
+      "id": "nd_2026-11-13_0006",
+      "fecha": "2026-11-13",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-11-13_0007",
+        "nd_2026-11-13_0008"
+      ]
     },
     {
       "titulo": {
-        "es": "Súper ricos aumentan inversiones alternativas a 60% de sus carteras, según BNY Wealth",
-        "en": "Super-rich raise alternative investments to 60% of portfolios, BNY Wealth says"
+        "es": "Google presenta Gemini 4 Hydrogen para flujos de trabajo agenticos diarios",
+        "en": "Google introduces Gemini 4 Hydrogen for daily agentic workflows"
       },
       "sintesis": {
-        "es": "Las inversiones alternativas superan por primera vez a los activos tradicionales en carteras de family offices, según un informe de BNY Wealth citado por CNBC.",
-        "en": "Alternative investments now surpass traditional assets for the first time in single-family office portfolios, according to a BNY Wealth report cited by CNBC."
+        "es": "Google lanza Gemini 4 Hydrogen, nuevo modelo para facilitar codificación y depuración eficiente en flujos de trabajo con IA.",
+        "en": "Google launches Gemini 4 Hydrogen, a new model facilitating efficient coding and debugging in AI-driven workflows."
       },
-      "categoria": "finanzas",
+      "categoria": "tecnologia",
       "actores": [
-        "BNY Wealth"
+        "Google"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 35,
+      "impacto": 60,
       "fuentes": [
-        "ev_856f44ed7c"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_856f44ed7c",
-          "titulo": "The world's super-rich are piling into alternative investments. Here's why",
-          "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-          "fuente": "CNBC",
-          "fecha": "Thu, 12 Nov 2026 03:36:44 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-12_0019",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "ONU: más de 1.000 muertos en Haití entre julio y septiembre",
-        "en": "UN: more than 1,000 killed in Haiti between July and September"
-      },
-      "sintesis": {
-        "es": "Bandas armadas siguen aterrorizando a la población en Puerto Príncipe y otras zonas, según el último informe de derechos humanos del equipo de la ONU en Haití.",
-        "en": "Armed gangs continue to terrorize the population in Port-au-Prince and beyond, according to the latest human rights report by the UN team in Haiti."
-      },
-      "categoria": "demografia",
-      "actores": [
-        "ONU"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 58,
-      "fuentes": [
-        "ev_4ea16a2999"
+        "ev_a8a719d993"
       ],
       "imagenes": [
-        "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/03-11-2026-UNOCHA-Haiti-03.jpg/image560x340cropped.jpg"
+        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_4ea16a2999",
-          "titulo": "Haiti: More than 1,000 killed between July and September, UN report reveals",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
-          "fuente": "ONU (inglés)",
-          "fecha": "Thu, 12 Nov 2026 12:00:00 +0000",
+          "id": "ev_a8a719d993",
+          "titulo": "Introducing Gemini 4 Hydrogen",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+          "fuente": "Google",
+          "fecha": "Thu, 12 Nov 2026 18:00:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-12_0020",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
+      "id": "nd_2026-11-13_0007",
+      "fecha": "2026-11-13",
+      "kardashev": "K2",
       "relaciones": [
-        "nd_2026-11-12_0021",
-        "nd_2026-11-12_0023"
+        "nd_2026-11-13_0006",
+        "nd_2026-11-13_0008"
       ]
     },
     {
       "titulo": {
-        "es": "Analista: 1,5 millones de haitianos desplazados por la violencia",
-        "en": "Analyst: 1.5 million Haitians displaced by violence"
+        "es": "Gemini 4 Hydrogen: codificación eficiente para desarrolladores",
+        "en": "Gemini 4 Hydrogen: efficient coding for developers"
       },
       "sintesis": {
-        "es": "Tras el informe trimestral de la ONU sobre Haití, que reportó 1.167 muertos entre julio y septiembre, un analista estimó en 1,5 millones los desplazados por la violencia, según France 24.",
-        "en": "Following the UN's quarterly Haiti report, which found 1,167 deaths between July and September, an analyst estimated 1.5 million people displaced by violence, per France 24."
+        "es": "Gemini 4 Hydrogen de Google mejora la codificación y depuración automática para desarrolladores, agilizando la producción.",
+        "en": "Google’s Gemini 4 Hydrogen improves automated coding and debugging for developers, speeding up production."
       },
-      "categoria": "demografia",
+      "categoria": "tecnologia",
       "actores": [
-        "ONU"
+        "Google"
       ],
       "geo": {
         "lat": 0.0,
@@ -935,83 +369,80 @@
       },
       "impacto": 55,
       "fuentes": [
-        "ev_5ff1ff1107"
+        "ev_f921b57445"
       ],
       "imagenes": [
-        "https://s.france24.com/media/display/b989dd20-de47-11f1-b5c4-5f54d898a954/w:1024/p:16x9/ES-20261111-203725-204211-CS.jpg"
+        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_5ff1ff1107",
-          "titulo": "Diego Da Rin: \"Alrededor de 1.5 millones de haitianos están desplazados por la violencia\"",
-          "url": "https://www.france24.com/es/video/20261112-diego-da-rin-alrededor-de-1-5-millones-de-haitianos-est%C3%A1n-desplazados-por-la-violencia",
-          "fuente": "France 24",
-          "fecha": "Thu, 12 Nov 2026 03:29:45 GMT",
-          "idioma": "es"
+          "id": "ev_f921b57445",
+          "titulo": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+          "fuente": "Google",
+          "fecha": "Thu, 12 Nov 2026 18:00:00 +0000",
+          "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-12_0021",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
+      "id": "nd_2026-11-13_0008",
+      "fecha": "2026-11-13",
+      "kardashev": "K2",
       "relaciones": [
-        "nd_2026-11-12_0020",
-        "nd_2026-11-12_0023"
+        "nd_2026-11-13_0006",
+        "nd_2026-11-13_0007"
       ]
     },
     {
       "titulo": {
-        "es": "MSF advierte de desvío de fondos para el ébola mientras el virus se propaga",
-        "en": "MSF warns millions in Ebola funds going missing as virus spreads"
+        "es": "Irlanda contribuye con 200.000 EUR para fortalecer oportunidades comerciales en países en desarrollo",
+        "en": "Ireland contributes EUR 200,000 to strengthen trade opportunities in developing countries"
       },
       "sintesis": {
-        "es": "Personal médico no recibe pago, carece de capacitación adecuada y enfrenta escasez de insumos esenciales, según la organización médica Médicos Sin Fronteras, citada por la BBC.",
-        "en": "Medical staff are going unpaid, lack proper training and face shortages of essential supplies, warns medical charity MSF, cited by the BBC."
+        "es": "Irlanda aporta 200.000 EUR a la STDF para mejorar capacidad sanitaria y fitosanitaria y facilitar el comercio inclusivo.",
+        "en": "Ireland contributes EUR 200,000 to STDF to enhance sanitary and phytosanitary capacity and facilitate inclusive trade."
       },
-      "categoria": "demografia",
+      "categoria": "cadenas",
       "actores": [
-        "MSF"
+        "OMC"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 52,
+      "impacto": 50,
       "fuentes": [
-        "ev_a06ac431e5"
+        "ev_d6746edc58"
       ],
-      "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg"
-      ],
+      "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_a06ac431e5",
-          "titulo": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
-          "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "fecha": "Thu, 12 Nov 2026 13:02:37 GMT",
+          "id": "ev_d6746edc58",
+          "titulo": "Ireland contributes EUR 200,000 to strengthen trade opportunities in developing countries",
+          "url": "https://www.wto.org/english/news_e/pres26_e/pr998_551_e.htm",
+          "fuente": "OMC",
+          "fecha": "Fri, 13 Nov 2026 00:00:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-12_0022",
-      "fecha": "2026-11-12",
-      "kardashev": "K1",
+      "id": "nd_2026-11-13_0009",
+      "fecha": "2026-11-13",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "ONU lanza plataforma de financiamiento de riesgo de desastres en la COP31",
-        "en": "UN launches Disaster Risk Financing Platform at COP31"
+        "es": "Conflicto y brotes de enfermedades agravan crisis alimentaria en la RDC",
+        "en": "Conflict and disease outbreaks worsen food crisis in DR Congo"
       },
       "sintesis": {
-        "es": "La ONU presentó en la COP31 una nueva plataforma destinada a hacer más rápidas y predecibles las respuestas humanitarias ante desastres, según FAO.",
-        "en": "The UN unveiled at COP31 a new platform aimed at making humanitarian disaster responses faster and more predictable, according to FAO."
+        "es": "La FAO advierte que conflictos y enfermedades elevan la inseguridad alimentaria aguda a niveles récord en la República Democrática del Congo.",
+        "en": "FAO warns that conflict and diseases increase acute food insecurity to record levels in the Democratic Republic of Congo."
       },
       "categoria": "recursos",
       "actores": [
-        "ONU",
         "FAO"
       ],
       "geo": {
@@ -1019,123 +450,232 @@
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 40,
+      "impacto": 80,
       "fuentes": [
-        "ev_44a5108fc5"
+        "ev_7229ed4415"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_44a5108fc5",
-          "titulo": "UN launches Disaster Risk Financing Platform at COP31 to make humanitarian responses faster and more predictable",
-          "url": "https://www.fao.org/newsroom/detail/un-launches-disaster-risk-financing-platform-at-cop31-to-make-humanitarian-responses-faster-and-more-predictable/en",
+          "id": "ev_7229ed4415",
+          "titulo": "Conflict and disease outbreaks deepen DR Congo’s hunger crisis as record numbers are projected to face acute food insecurity",
+          "url": "https://www.fao.org/newsroom/detail/conflict-and-disease-outbreaks-deepen-dr-congo-s-hunger-crisis-as-record-numbers-are-projected-to-face-acute-food-insecurity/en",
           "fuente": "FAO",
-          "fecha": "Thu, 12 Nov 2026 12:00:00 Z",
+          "fecha": "Fri, 13 Nov 2026 12:00:00 Z",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-12_0023",
-      "fecha": "2026-11-12",
+      "id": "nd_2026-11-13_0010",
+      "fecha": "2026-11-13",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Producción de crudo en Alaska crecerá un 13 % en 2027, dice la EIA",
+        "en": "Alaskan crude oil production to grow 13% in 2027, says EIA"
+      },
+      "sintesis": {
+        "es": "La EIA proyecta un aumento del 13% en la producción de crudo de Alaska en 2027, impulsado por nuevos proyectos en la región norte.",
+        "en": "EIA projects a 13% increase in Alaskan crude production in 2027, driven by new projects in the northern region."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "EIA"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_72d57d6b37"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_72d57d6b37",
+          "titulo": "EIA forecasts Alaskan crude oil production to grow 13% in 2027",
+          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
+          "fuente": "EIA",
+          "fecha": "Thu, 12 Nov 2026  09:00:00 EST",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-13_0011",
+      "fecha": "2026-11-13",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "EE. UU. incauta criptomonedas por $1.2 mil millones robadas de Binance en esquema norcoreano",
+        "en": "U.S. seizes $1.2 billion in stolen cryptocurrency from Binance in North Korean scheme"
+      },
+      "sintesis": {
+        "es": "El Departamento de Justicia de EE.UU. anunció la incautación de 1.200 millones de dólares en criptomonedas robadas utilizadas para financiar al régimen de Corea del Norte.",
+        "en": "U.S. Department of Justice announces seizure of $1.2 billion in stolen cryptocurrencies used to finance North Korea's regime."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Departamento de Justicia de EE. UU."
+      ],
+      "geo": {
+        "lat": 40.3,
+        "lon": 127.5,
+        "region": "Asia Oriental"
+      },
+      "impacto": 85,
+      "fuentes": [
+        "ev_651d2932e5"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_651d2932e5",
+          "titulo": "U.S. seizes $1.2 billion in cryptocurrency stolen from Binance",
+          "url": "https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 13 Nov 2026 12:03:24 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-13_0012",
+      "fecha": "2026-11-13",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Banque de Inglaterra, MAS y Banco de Tailandia anuncian proyecto conjunto Meridian FX APAC",
+        "en": "Bank of England, MAS, and Bank of Thailand announce joint project Meridian FX APAC"
+      },
+      "sintesis": {
+        "es": "Banque de Inglaterra, MAS y Banco de Tailandia colaboran en el proyecto Meridian FX APAC para servicios financieros y cambio de divisas.",
+        "en": "Bank of England, MAS, and Bank of Thailand collaborate on Meridian FX APAC for financial and foreign exchange services."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Banco de Inglaterra",
+        "Monetary Authority of Singapore",
+        "Banco de Tailandia"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_97b1e6015a"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_97b1e6015a",
+          "titulo": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+          "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
+          "fuente": "Banco de Inglaterra",
+          "fecha": "Fri, 13 Nov 2026 09:00:00 Z",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-13_0013",
+      "fecha": "2026-11-13",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Reserva Federal anuncia precios y ajustes para servicios de pagos en 2027",
+        "en": "Federal Reserve announces pricing and adjustments for payment services in 2027"
+      },
+      "sintesis": {
+        "es": "La Reserva Federal comunica nuevas tarifas y cambios en servicios de pagos para bancos y cooperativas de crédito desde el 1 de enero de 2027.",
+        "en": "Federal Reserve announces new rates and changes in payment services for banks and credit unions effective January 1, 2027."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Reserva Federal"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_cb1cf38505"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_cb1cf38505",
+          "titulo": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+          "fuente": "Reserva Federal",
+          "fecha": "Thu, 12 Nov 2026 18:30:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-13_0014",
+      "fecha": "2026-11-13",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-13_0015"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Reserva Federal emite acción ejecutiva contra ex empleado de United Community Bank",
+        "en": "Federal Reserve issues enforcement action against former United Community Bank employee"
+      },
+      "sintesis": {
+        "es": "La Reserva Federal toma medidas regulatorias contra un ex empleado del United Community Bank.",
+        "en": "Federal Reserve takes regulatory action against a former United Community Bank employee."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Reserva Federal",
+        "United Community Bank"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_4bab524e82"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_4bab524e82",
+          "titulo": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+          "fuente": "Reserva Federal",
+          "fecha": "Thu, 12 Nov 2026 17:45:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-13_0015",
+      "fecha": "2026-11-13",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-11-12_0020",
-        "nd_2026-11-12_0021"
+        "nd_2026-11-13_0014"
       ]
     }
   ],
-  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-12\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Antalya\", \"Caribe\", \"Dublín\", \"Estrecho de Ormuz\", \"Golfo de México\", \"Haití\", \"Halifax\", \"Moscú\", \"Nueva Escocia\", \"Puerto Príncipe\", \"Reino Unido\", \"Taiwán\"]\npaises: [\"Australia\", \"Canadá\", \"China\", \"Colombia\", \"Estados Unidos\", \"Haití\", \"Irán\", \"Reino Unido\", \"Rusia\", \"Taiwán\", \"Turquía\", \"Ucrania\"]\nentidades: [\"Amanda Rishworth\", \"Andy Burnham\", \"BNY Wealth\", \"CXMT\", \"Canva\", \"Centro Nacional de Huracanes\", \"Climate Action Tracker\", \"Comercio de EE. UU.\", \"Congreso de EE. UU.\", \"CoreWeave\", \"Donald Trump\", \"FAO\", \"Greta Thunberg\", \"IREN\", \"Jaime Gilinski Bacal\", \"Jared Kushner\", \"Jensen Huang\", \"John Kerry\", \"MSF\", \"Meta\", \"Metro Bank\", \"NOAA\", \"Nebius\", \"Nvidia\", \"ONU\", \"Partido Comunista Chino\", \"Planetary Technologies\", \"Qantas\", \"Steve Witkoff\", \"Tom Cotton\", \"UFORCE\", \"Vladímir Putin\", \"Volodímir Zelenski\", \"Xi Jinping\"]\ntemas: [\"COP31\", \"IA\", \"PIB\", \"Starlink\", \"automatización\", \"banca\", \"calentamiento global\", \"centros de datos\", \"controles de exportación\", \"crecimiento económico\", \"crisis humanitaria\", \"derechos humanos\", \"desastres naturales\", \"desplazamiento\", \"diplomacia\", \"drones\", \"emisiones\", \"empleo\", \"energía\", \"energía limpia\", \"espionaje\", \"family offices\", \"financiamiento de riesgo\", \"financiamiento humanitario\", \"fusiones y adquisiciones\", \"geoingeniería\", \"gobierno corporativo\", \"guerra en Ucrania\", \"huracanes\", \"inversión\", \"manufactura limpia\", \"mercados\", \"política climática\", \"pronóstico\", \"remoción de carbono\", \"riesgo sistémico\", \"salud pública\", \"semiconductores\", \"soberanía\", \"tecnología militar\", \"tensión regional\", \"violencia\", \"ébola\"]\nbucles_activos: [\"Armamentización de la Cadena de Suministro\"]\ncorte: \"2026-11-12T13:21:22.607700+00:00\"\ninicio_ventana: \"2026-11-11T13:21:22.607700+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-12\n\n## Resumen del día\n\nEl día estuvo marcado por la crisis en Nvidia: el futuro de Jensen Huang como CEO está en evaluación por parte de la junta tras reportes de una segunda relación extramarital, con caída de acciones y riesgo sistémico señalado por analistas.\nEn paralelo, el escándalo reaviva la disputa geopolítica sobre controles de exportación de chips de IA a China, con un senador pidiendo sancionar a CXMT y Beijing acusando a EE. UU. de fabricar pretextos de espionaje.\nEn Ucrania, enviados de EE. UU. se reunieron con Putin en Moscú mientras Zelenski denunció restricciones a Starlink que afectan la intercepción de drones rusos.\nLa COP31 avanzó con advertencias sobre el calentamiento global (proyección de 2,7°C según Climate Action Tracker) y críticas cruzadas entre Kerry y Trump sobre liderazgo climático.\nEn demografía, la ONU reportó más de 1.000 muertos en Haití entre julio y septiembre por violencia de bandas armadas.\n\nVentana de 24 horas hasta 2026-11-12T13:21:22.607700+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar imf, iom, unhcr, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_c87ebf6596\"></a>\n1. Greta Thunberg advierte en la COP31 que 'nadie viene a rescatarnos' — En la cumbre climática COP31, Thunberg lanzó una advertencia mientras líderes como el primer ministro británico Andy Burnham hablaban, según The Guardian. — [The Guardian · Medio ambiente, Thu, 12 Nov 2026 13:09:30 GMT](https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit) · medio.\n\n<a id=\"ev_cd10dfb2fb\"></a>\n2. Kerry llama a Trump 'el mayor perdedor' por abandonar la acción climática — El exsecretario de Estado John Kerry criticó en la COP31 a Trump por ceder el liderazgo en energía limpia a China y retirar a EE. UU. del proceso climático, según The Guardian. — [The Guardian, Thu, 12 Nov 2026 11:00:48 GMT](https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31) · medio.\n\n<a id=\"ev_1c999a0a1e\"></a>\n3. Análisis advierte de 'desbordamiento irrecuperable' de umbrales de temperatura global — Bajo políticas actuales el planeta se calentaría 2,7°C de media hacia fin de siglo, según el informe de Climate Action Tracker citado por The Guardian, frente al 2,6°C del año anterior. — [The Guardian · Medio ambiente, Thu, 12 Nov 2026 03:00:06 GMT](https://www.theguardian.com/environment/2026/nov/12/world-heading-for-irrevocable-overshoot-of-global-temperature-thresholds-analysis-warns) · medio.\n\n<a id=\"ev_f36b7352cf\"></a>\n4. Primeras directrices sobre geoingeniería oceánica para remoción de carbono — En Halifax, Canadá, se desarrolla remoción de carbono oceánico mediante alcalinización, mientras surgen las primeras directrices para esta industria emergente, según The Guardian. — [The Guardian · Medio ambiente, Thu, 12 Nov 2026 11:00:47 GMT](https://www.theguardian.com/environment/2026/nov/12/canada-climate-geoengineering-marine-carbon-credits-biology-ocean-alkalinity-enhancement) · medio.\n\n<a id=\"ev_1922f3f40d\"></a>\n5. NOAA no prevé formación de ciclones tropicales en el Atlántico — El Centro Nacional de Huracanes de NOAA informó que no se espera formación de ciclones tropicales en el Atlántico Norte, Caribe y Golfo durante los próximos 7 días. — [NOAA · Centro Nacional de Huracanes, Thu, 12 Nov 2026 11:21:53 GMT](https://www.nhc.noaa.gov/gtwo.php?basin=atlc) · oficial.\n\n## 2. Tecnología\n\n<a id=\"ev_3cf13e1496\"></a>\n1. Meta anuncia acuerdos de manufactura limpia para su cadena de centros de datos — Meta firmó acuerdos de compra a largo plazo con productores bajos en carbono para su cadena de suministro de centros de datos, según su sala de prensa oficial. — [Meta, Thu, 12 Nov 2026 12:00:07 +0000](https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains/) · oficial.\n\n<a id=\"ev_f58bce00f2\"></a>\n2. Escándalo de Huang reaviva presión para endurecer exportación de chips de IA a China — Huang se oponía a controles estrictos de exportación de chips de IA a China, lo que generó fricción con legisladores republicanos, mientras crecen llamados a su renuncia, según CNBC. — [CNBC, Thu, 12 Nov 2026 12:03:39 GMT](https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html) · medio.\n\n<a id=\"ev_006b506f43\"></a>\n3. China acusa a EE. UU. de 'fabricar' acusaciones de espionaje contra Nvidia — Beijing rechazó las acusaciones de espionaje vinculadas al CEO de Nvidia, calificándolas de pretexto para un 'bloqueo' tecnológico contra China, según Al Jazeera. — [Al Jazeera, Thu, 12 Nov 2026 10:49:41 +0000](https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss) · medio.\n\n<a id=\"ev_bcde6c710b\"></a>\n4. Gobierno australiano publica guía de IA ante riesgo de burnout y vigilancia laboral — La ministra Amanda Rishworth lanzó una guía sobre adopción de IA tras recortes de empleo en Qantas y Canva, advirtiendo sobre automatización de puestos de nivel inicial, según The Guardian. — [The Guardian, Thu, 12 Nov 2026 06:55:44 GMT](https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai) · medio.\n\n<a id=\"ev_d43cf200f4\"></a>\n5. Startup ucraniana de tecnología de defensa UFORCE alcanza valoración de 6.000 millones — Los drones NEMESIS de UFORCE han completado 300.000 vuelos de combate y sus naves MAGURA contribuyeron a destruir buques rusos, según CNBC. — [CNBC, Thu, 12 Nov 2026 09:05:22 GMT](https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html) · medio.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_44a5108fc5\"></a>\n1. ONU lanza plataforma de financiamiento de riesgo de desastres en la COP31 — La ONU presentó en la COP31 una nueva plataforma destinada a hacer más rápidas y predecibles las respuestas humanitarias ante desastres, según FAO. — [FAO, Thu, 12 Nov 2026 12:00:00 Z](https://www.fao.org/newsroom/detail/un-launches-disaster-risk-financing-platform-at-cop31-to-make-humanitarian-responses-faster-and-more-predictable/en) · oficial.\n\n## 4. Cadenas de Suministro\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 5. Geopolítica\n\n<a id=\"ev_cff194cff8\"></a>\n1. Trump dice que EE. UU. 'no necesita un acuerdo' con Irán — El presidente Trump afirmó que Estados Unidos no necesita un acuerdo con Irán, en declaraciones sobre tensiones en el estrecho de Ormuz, según CNBC. — [CNBC, Thu, 12 Nov 2026 13:20:39 GMT](https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html) · medio.\n\n<a id=\"ev_5fe9705287\"></a>\n2. Senador Cotton pide prohibir a la china CXMT en EE. UU. — El senador Tom Cotton instó al secretario de Comercio a incluir a CXMT en la 'Entity List' ante su expansión en memoria DRAM y HBM, según CNBC. — [CNBC, Thu, 12 Nov 2026 13:20:12 GMT](https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html) · medio.\n\n<a id=\"ev_23ff0c3630\"></a>\n3. Junta de Nvidia evalúa el futuro del CEO Jensen Huang — Las acciones de Nvidia caen en premercado tras reportes de una segunda relación extramarital de Huang; la junta evalúa si lo destituye, según The Guardian. — [The Guardian, Thu, 12 Nov 2026 13:14:49 GMT](https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest) · medio.\n\n<a id=\"ev_df247a8191\"></a>\n4. Xi Jinping invoca a Sun Yat-sen para reclamar soberanía sobre Taiwán — El presidente chino defendió la 'reunificación completa' como 'tarea histórica irrenunciable' del Partido Comunista, según El País. — [El País, Thu, 12 Nov 2026 12:52:44 GMT](https://elpais.com/internacional/2026-11-12/el-presidente-chino-invoca-al-lider-revolucionario-sun-yat-sen-para-reclamar-la-soberania-sobre-taiwan.html) · medio.\n\n<a id=\"ev_dd3cda036c\"></a>\n5. Enviados de EE. UU. se reúnen con Putin mientras Zelenski denuncia nueva interrupción de Starlink — Restricciones a Starshield 'afectan directamente' la capacidad de interceptar drones rusos, dijo Zelenski, mientras enviados de EE. UU. se reunían con Putin en Moscú, según The Guardian. — [The Guardian, Thu, 12 Nov 2026 13:04:18 GMT](https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_8f27eb9d92\"></a>\n1. Metro Bank se pone en venta con ganancia potencial de 420 millones de libras para su inversor — Metro Bank anunció que está abierto a ofertas de compra, lo que elevó su acción un 7% y podría dar al inversor colombiano Jaime Gilinski Bacal una ganancia de 420 millones de libras, según The Guardian. — [The Guardian, Thu, 12 Nov 2026 12:43:49 GMT](https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall) · medio.\n\n<a id=\"ev_aa5b716c31\"></a>\n2. Economía del Reino Unido crece al ritmo más rápido en más de dos años — El PIB británico creció 0,7% en el tercer trimestre, según cifras oficiales citadas por la BBC, la expansión más rápida en dos años y medio. — [BBC · Economía, Thu, 12 Nov 2026 11:20:25 GMT](https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_a60fbc96ae\"></a>\n3. Analistas evalúan si Nvidia es 'demasiado grande para caer' por su red de financiamiento de IA — La red de vínculos financieros de Nvidia con otras empresas eleva el riesgo de daño económico de gran alcance ante la crisis de su CEO, según CNBC. — [CNBC, Wed, 11 Nov 2026 22:59:33 GMT](https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html) · medio.\n\n<a id=\"ev_1c6f90656f\"></a>\n4. Nebius cae 10% tras prever mayor gasto de capital en 2026 y perspectivas débiles — El informe de resultados de Nebius llega tras resultados mejores de lo esperado de IREN y CoreWeave en la semana previa, según CNBC. — [CNBC, Thu, 12 Nov 2026 13:06:08 GMT](https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html) · medio.\n\n<a id=\"ev_856f44ed7c\"></a>\n5. Súper ricos aumentan inversiones alternativas a 60% de sus carteras, según BNY Wealth — Las inversiones alternativas superan por primera vez a los activos tradicionales en carteras de family offices, según un informe de BNY Wealth citado por CNBC. — [CNBC, Thu, 12 Nov 2026 03:36:44 GMT](https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html) · medio.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_4ea16a2999\"></a>\n1. ONU: más de 1.000 muertos en Haití entre julio y septiembre — Bandas armadas siguen aterrorizando a la población en Puerto Príncipe y otras zonas, según el último informe de derechos humanos del equipo de la ONU en Haití. — [ONU (inglés), Thu, 12 Nov 2026 12:00:00 +0000](https://news.un.org/feed/view/en/story/2026/11/1168789) · oficial.\n\n<a id=\"ev_5ff1ff1107\"></a>\n2. Analista: 1,5 millones de haitianos desplazados por la violencia — Tras el informe trimestral de la ONU sobre Haití, que reportó 1.167 muertos entre julio y septiembre, un analista estimó en 1,5 millones los desplazados por la violencia, según France 24. — [France 24, Thu, 12 Nov 2026 03:29:45 GMT](https://www.france24.com/es/video/20261112-diego-da-rin-alrededor-de-1-5-millones-de-haitianos-est%C3%A1n-desplazados-por-la-violencia) · medio.\n\n<a id=\"ev_a06ac431e5\"></a>\n3. MSF advierte de desvío de fondos para el ébola mientras el virus se propaga — Personal médico no recibe pago, carece de capacitación adecuada y enfrenta escasez de insumos esenciales, según la organización médica Médicos Sin Fronteras, citada por la BBC. — [BBC News, Thu, 12 Nov 2026 13:02:37 GMT](https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Sin movimiento verificado hoy\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Con movimiento — La crisis en torno a Jensen Huang conecta tecnología y geopolítica: el senador Tom Cotton pidió al Departamento de Comercio incluir a la china CXMT en la Entity List por controles de exportación, mientras Beijing acusó a Washington de fabricar acusaciones de espionaje contra Nvidia y su CEO para justificar un 'bloqueo' tecnológico. Ambos hechos documentan el vínculo directo entre la dimensión tecnológica (controles de exportación de semiconductores) y la geopolítica (tensión EE. UU.-China). [ev_5fe9705287](#ev_5fe9705287) [ev_006b506f43](#ev_006b506f43) [ev_f58bce00f2](#ev_f58bce00f2)\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Con movimiento — El bucle geopolítica-tecnología se activa por el mismo conflicto de controles de exportación: la petición del senador Cotton de sancionar a CXMT y la respuesta china sobre un presunto 'bloqueo' tecnológico muestran cómo los controles de exportación de semiconductores se usan como instrumento de poder entre EE. UU. y China. [ev_5fe9705287](#ev_5fe9705287) [ev_006b506f43](#ev_006b506f43) [ev_f58bce00f2](#ev_f58bce00f2)\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Posibilidad de que la junta de Nvidia destituya a Jensen Huang, con efectos en mercados y en la política de controles de exportación de chips de IA a China, según The Guardian y CNBC. [ev_23ff0c3630](#ev_23ff0c3630) [ev_f58bce00f2](#ev_f58bce00f2) [ev_a60fbc96ae](#ev_a60fbc96ae)\n- Posibilidad de que el Departamento de Comercio de EE. UU. incluya a CXMT en la Entity List, según la solicitud del senador Cotton citada por CNBC. [ev_5fe9705287](#ev_5fe9705287)\n- Posibilidad de escalada en el estrecho de Ormuz tras declaraciones de Trump sobre no necesitar un acuerdo con Irán, según CNBC. [ev_cff194cff8](#ev_cff194cff8)\n- Posibilidad de que las restricciones a Starshield/Starlink afecten la capacidad ucraniana de interceptar drones rusos, según denuncia de Zelenski citada por The Guardian. [ev_dd3cda036c](#ev_dd3cda036c)\n- Posibilidad de que la industria emergente de geoingeniería oceánica para remoción de carbono se expanda bajo las primeras directrices reportadas en Halifax, según The Guardian. [ev_f36b7352cf](#ev_f36b7352cf)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-06T11:59:56+00:00 |\n| OpenAI | oficial | Disponible | 3 | 2026-11-12T09:30:00+00:00 |\n| NASA | oficial | Disponible | 4 | 2026-11-12T13:00:00+00:00 |\n| CISA | oficial | Disponible | 0 | 2026-11-10T12:00:00+00:00 |\n| EIA | oficial | Disponible | 0 | 2026-11-06T14:00:00+00:00 |\n| FAO | oficial | Disponible | 1 | 2026-11-12T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-11T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-11T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 0 | 2026-11-09T21:00:00+00:00 |\n| BCE | oficial | Disponible | 0 | 2026-11-10T16:45:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 1 | 2026-11-12T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 8 | 2026-11-12T13:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-10-28T16:51:35+00:00 |\n| Meta | oficial | Disponible | 1 | 2026-11-12T12:00:07+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-11-09T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-13T23:21:53+00:00 |\n| NASA · Comunicados | oficial | Disponible | 4 | 2026-11-12T13:00:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-11-05T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-11-10T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-11-10T12:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-12T08:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-05T15:27:24+00:00 |\n| BBC News | medio | Disponible | 22 | 2026-11-12T13:02:46+00:00 |\n| BBC Mundo | medio | Disponible | 14 | 2026-11-12T13:00:11+00:00 |\n| CNN | medio | Disponible | 82 | 2026-11-12T12:57:39.997000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 23 | 2026-11-12T12:22:10+00:00 |\n| The Guardian | medio | Disponible | 29 | 2026-11-12T13:14:49+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-12T12:57:12+00:00 |\n| El País | medio | Disponible | 14 | 2026-11-12T13:11:55+00:00 |\n| CNBC | medio | Disponible | 29 | 2026-11-12T13:20:39+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-12T13:05:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 9 | 2026-11-12T13:09:30+00:00 |\n| BBC · Tecnología | medio | Disponible | 3 | 2026-11-12T11:21:25+00:00 |\n| BBC · Economía | medio | Disponible | 13 | 2026-11-12T13:16:59+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-12\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Antalya\", \"Caribe\", \"Dublín\", \"Estrecho de Ormuz\", \"Golfo de México\", \"Haití\", \"Halifax\", \"Moscú\", \"Nueva Escocia\", \"Puerto Príncipe\", \"Reino Unido\", \"Taiwán\"]\npaises: [\"Australia\", \"Canadá\", \"China\", \"Colombia\", \"Estados Unidos\", \"Haití\", \"Irán\", \"Reino Unido\", \"Rusia\", \"Taiwán\", \"Turquía\", \"Ucrania\"]\nentidades: [\"Amanda Rishworth\", \"Andy Burnham\", \"BNY Wealth\", \"CXMT\", \"Canva\", \"Centro Nacional de Huracanes\", \"Climate Action Tracker\", \"Comercio de EE. UU.\", \"Congreso de EE. UU.\", \"CoreWeave\", \"Donald Trump\", \"FAO\", \"Greta Thunberg\", \"IREN\", \"Jaime Gilinski Bacal\", \"Jared Kushner\", \"Jensen Huang\", \"John Kerry\", \"MSF\", \"Meta\", \"Metro Bank\", \"NOAA\", \"Nebius\", \"Nvidia\", \"ONU\", \"Partido Comunista Chino\", \"Planetary Technologies\", \"Qantas\", \"Steve Witkoff\", \"Tom Cotton\", \"UFORCE\", \"Vladímir Putin\", \"Volodímir Zelenski\", \"Xi Jinping\"]\ntemas: [\"COP31\", \"IA\", \"PIB\", \"Starlink\", \"automatización\", \"banca\", \"calentamiento global\", \"centros de datos\", \"controles de exportación\", \"crecimiento económico\", \"crisis humanitaria\", \"derechos humanos\", \"desastres naturales\", \"desplazamiento\", \"diplomacia\", \"drones\", \"emisiones\", \"empleo\", \"energía\", \"energía limpia\", \"espionaje\", \"family offices\", \"financiamiento de riesgo\", \"financiamiento humanitario\", \"fusiones y adquisiciones\", \"geoingeniería\", \"gobierno corporativo\", \"guerra en Ucrania\", \"huracanes\", \"inversión\", \"manufactura limpia\", \"mercados\", \"política climática\", \"pronóstico\", \"remoción de carbono\", \"riesgo sistémico\", \"salud pública\", \"semiconductores\", \"soberanía\", \"tecnología militar\", \"tensión regional\", \"violencia\", \"ébola\"]\nbucles_activos: [\"Armamentización de la Cadena de Suministro\"]\ncorte: \"2026-11-12T13:21:22.607700+00:00\"\ninicio_ventana: \"2026-11-11T13:21:22.607700+00:00\"\nestado: \"completo\"\n```\n",
-  "nexo": {
-    "resumen": [
-      "El día estuvo marcado por la crisis en Nvidia: el futuro de Jensen Huang como CEO está en evaluación por parte de la junta tras reportes de una segunda relación extramarital, con caída de acciones y riesgo sistémico señalado por analistas.",
-      "En paralelo, el escándalo reaviva la disputa geopolítica sobre controles de exportación de chips de IA a China, con un senador pidiendo sancionar a CXMT y Beijing acusando a EE. UU. de fabricar pretextos de espionaje.",
-      "En Ucrania, enviados de EE. UU. se reunieron con Putin en Moscú mientras Zelenski denunció restricciones a Starlink que afectan la intercepción de drones rusos.",
-      "La COP31 avanzó con advertencias sobre el calentamiento global (proyección de 2,7°C según Climate Action Tracker) y críticas cruzadas entre Kerry y Trump sobre liderazgo climático.",
-      "En demografía, la ONU reportó más de 1.000 muertos en Haití entre julio y septiembre por violencia de bandas armadas."
-    ],
-    "flujos": {
-      "Presión Climática": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      },
-      "Palanca Geopolítica": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      },
-      "Flujos de Recursos": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      },
-      "Flujos Cibernéticos y de Datos": {
-        "estado": "Con movimiento",
-        "texto": "La crisis en torno a Jensen Huang conecta tecnología y geopolítica: el senador Tom Cotton pidió al Departamento de Comercio incluir a la china CXMT en la Entity List por controles de exportación, mientras Beijing acusó a Washington de fabricar acusaciones de espionaje contra Nvidia y su CEO para justificar un 'bloqueo' tecnológico. Ambos hechos documentan el vínculo directo entre la dimensión tecnológica (controles de exportación de semiconductores) y la geopolítica (tensión EE. UU.-China).",
-        "hechos": [
-          "ev_5fe9705287",
-          "ev_006b506f43",
-          "ev_f58bce00f2"
-        ]
-      }
-    },
-    "bucles": {
-      "Escasez de Recursos": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      },
-      "Armamentización de la Cadena de Suministro": {
-        "estado": "Con movimiento",
-        "texto": "El bucle geopolítica-tecnología se activa por el mismo conflicto de controles de exportación: la petición del senador Cotton de sancionar a CXMT y la respuesta china sobre un presunto 'bloqueo' tecnológico muestran cómo los controles de exportación de semiconductores se usan como instrumento de poder entre EE. UU. y China.",
-        "hechos": [
-          "ev_5fe9705287",
-          "ev_006b506f43",
-          "ev_f58bce00f2"
-        ]
-      },
-      "Impacto Societal y Financiero": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      }
-    },
-    "senales": [
-      {
-        "texto": "Posibilidad de que la junta de Nvidia destituya a Jensen Huang, con efectos en mercados y en la política de controles de exportación de chips de IA a China, según The Guardian y CNBC.",
-        "hechos": [
-          "ev_23ff0c3630",
-          "ev_f58bce00f2",
-          "ev_a60fbc96ae"
-        ]
-      },
-      {
-        "texto": "Posibilidad de que el Departamento de Comercio de EE. UU. incluya a CXMT en la Entity List, según la solicitud del senador Cotton citada por CNBC.",
-        "hechos": [
-          "ev_5fe9705287"
-        ]
-      },
-      {
-        "texto": "Posibilidad de escalada en el estrecho de Ormuz tras declaraciones de Trump sobre no necesitar un acuerdo con Irán, según CNBC.",
-        "hechos": [
-          "ev_cff194cff8"
-        ]
-      },
-      {
-        "texto": "Posibilidad de que las restricciones a Starshield/Starlink afecten la capacidad ucraniana de interceptar drones rusos, según denuncia de Zelenski citada por The Guardian.",
-        "hechos": [
-          "ev_dd3cda036c"
-        ]
-      },
-      {
-        "texto": "Posibilidad de que la industria emergente de geoingeniería oceánica para remoción de carbono se expanda bajo las primeras directrices reportadas en Halifax, según The Guardian.",
-        "hechos": [
-          "ev_f36b7352cf"
-        ]
-      }
-    ],
-    "correcciones": []
-  },
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-13\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"finanzas\"]\nlugares: [\"Alaska\", \"Andrómeda\", \"Antalya\", \"Bahía de Monterey\", \"Balcanes\", \"California\", \"Cannes\", \"España\", \"Estados Unidos\", \"Francia\", \"Italia\", \"Lisboa\", \"Madeira\", \"Madrid\", \"Mar del Norte\", \"Noruega\", \"Península Ibérica\", \"Portugal\", \"República Democrática del Congo\", \"Singapur\", \"Tailandia\", \"Toscana\", \"Venecia\"]\npaises: [\"España\", \"Estados Unidos\", \"Francia\", \"Irlanda\", \"Italia\", \"Noruega\", \"Portugal\", \"Reino Unido\", \"República Democrática del Congo\", \"Singapur\", \"Tailandia\", \"Turquía\"]\nentidades: [\"Banco de Inglaterra\", \"Banco de Tailandia\", \"Corte Suprema de Noruega\", \"Departamento de Justicia de EE. UU.\", \"EIA\", \"FAO\", \"Google\", \"Monetary Authority of Singapore\", \"NASA\", \"OMC\", \"Reserva Federal\", \"United Community Bank\", \"Unión Internacional de Matronas\"]\ntemas: [\"El Niño\", \"acción ejecutiva\", \"astronomía\", \"cambio climático\", \"cancelaciones aéreas\", \"clima extremo\", \"colaboración\", \"comercio\", \"conflictos\", \"criptomonedas\", \"desarrollo\", \"desarrollo de software\", \"desastres naturales\", \"ecosistemas\", \"empleados\", \"energía\", \"fenómenos climáticos\", \"finanzas\", \"galaxias\", \"herramientas para desarrolladores\", \"inteligencia artificial\", \"inundaciones\", \"investigación espacial\", \"manglares\", \"modelos de lenguaje\", \"negociaciones climáticas\", \"permisos petroleros\", \"petróleo\", \"producción energética\", \"programación\", \"protección costera\", \"proyectos internacionales\", \"regulación bancaria\", \"salud\", \"salud materna\", \"sanciones\", \"sanidad y fitosanidad\", \"seguridad alimentaria\", \"seguridad informática\", \"servicios bancarios\", \"software\", \"tarifas\", \"tormentas\"]\nbucles_activos: []\ncorte: \"2026-11-13T12:41:04.177664+00:00\"\ninicio_ventana: \"2026-11-12T12:41:04.177664+00:00\"\nestado: \"análisis pendiente\"\n---\n\n# Pulso Global — 2026-11-13\n\n## Resumen del día\n\nanálisis pendiente\n\nVentana de 24 horas hasta 2026-11-13T12:41:04.177664+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar un, imf, iom, unhcr, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_16e57271bb\"></a>\n1. Negociaciones sobre la crisis climática avanzan en la COP31 mientras se cuestionan permisos petroleros en Noruega — En la COP31 en Turquía, continúan las negociaciones sobre ciencia del clima y transición energética. La corte suprema de Noruega anuló permisos para campos petroleros, obligando a tener en cuenta daños ambientales. — [The Guardian · Medio ambiente, Fri, 13 Nov 2026 12:19:35 GMT](https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates) · medio.\n\n<a id=\"ev_bc37b2744a\"></a>\n2. La tormenta Charles causa inundaciones y cancelaciones de vuelos en el sur de Europa — La tormenta Charles produjo fuertes lluvias y vientos en la península ibérica, Italia y los Balcanes, causando daños, inundaciones y afectaciones en el tráfico aéreo. — [The Guardian, Fri, 13 Nov 2026 08:49:19 GMT](https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather) · medio.\n\n<a id=\"ev_8bcd3caa25\"></a>\n3. Un fenómeno super El Niño afecta la costa de California con impactos en la vida marina — Un super El Niño provoca temperaturas elevadas, mareas altas y la desaparición de especies clave, causando la muerte de fauna marina en la bahía de Monterey. — [The Guardian · Medio ambiente, Fri, 13 Nov 2026 12:00:19 GMT](https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay) · medio.\n\n<a id=\"ev_6405d64924\"></a>\n4. El Niño aumentará el riesgo de muerte en el parto para millones en zonas de crisis — Las condiciones climáticas extremas agravarán el riesgo de mortalidad materna y neonatal en zonas vulnerables, con cortes de acceso a los hospitales esperados. — [The Guardian · Medio ambiente, Fri, 13 Nov 2026 12:00:18 GMT](https://www.theguardian.com/global-development/2026/nov/13/el-nino-death-in-childbirth-millions-midwives-cop31-extreme-weather-maternal-newborn-death-rates) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_6b8dafde29\"></a>\n1. NGC 206 y las nubes estelares de Andrómeda destacadas por NASA — La NASA muestra imágenes de NGC 206 y las nubes estelares de la galaxia Andrómeda, ampliando el conocimiento del cosmos. — [NASA, Fri, 13 Nov 2026 05:05:00 +0000](https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/) · oficial.\n\n<a id=\"ev_bd70071ca3\"></a>\n2. Recuperación global de manglares documentada por NASA — La NASA reporta un repunte global de los manglares, ecosistemas cruciales para la protección costera y la biodiversidad marina. — [NASA, Fri, 13 Nov 2026 05:01:00 +0000](https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/) · oficial.\n\n<a id=\"ev_0c70a89ee2\"></a>\n3. Google impulsa mejoras rápidas en productos con IA gracias a Gemini 4 Hydrogen — Con el modelo Gemini 4 Hydrogen, Google permite a equipos acelerar desarrollo y depuración de software con integración de IA. — [OpenAI, Thu, 12 Nov 2026 20:00:00 GMT](https://openai.com/business/customer-stories/amplitude) · oficial.\n\n<a id=\"ev_a8a719d993\"></a>\n4. Google presenta Gemini 4 Hydrogen para flujos de trabajo agenticos diarios — Google lanza Gemini 4 Hydrogen, nuevo modelo para facilitar codificación y depuración eficiente en flujos de trabajo con IA. — [Google, Thu, 12 Nov 2026 18:00:00 +0000](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) · oficial.\n\n<a id=\"ev_f921b57445\"></a>\n5. Gemini 4 Hydrogen: codificación eficiente para desarrolladores — Gemini 4 Hydrogen de Google mejora la codificación y depuración automática para desarrolladores, agilizando la producción. — [Google, Thu, 12 Nov 2026 18:00:00 +0000](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/) · oficial.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_7229ed4415\"></a>\n1. Conflicto y brotes de enfermedades agravan crisis alimentaria en la RDC — La FAO advierte que conflictos y enfermedades elevan la inseguridad alimentaria aguda a niveles récord en la República Democrática del Congo. — [FAO, Fri, 13 Nov 2026 12:00:00 Z](https://www.fao.org/newsroom/detail/conflict-and-disease-outbreaks-deepen-dr-congo-s-hunger-crisis-as-record-numbers-are-projected-to-face-acute-food-insecurity/en) · oficial.\n\n<a id=\"ev_72d57d6b37\"></a>\n2. Producción de crudo en Alaska crecerá un 13 % en 2027, dice la EIA — La EIA proyecta un aumento del 13% en la producción de crudo de Alaska en 2027, impulsado por nuevos proyectos en la región norte. — [EIA, Thu, 12 Nov 2026  09:00:00 EST](https://www.eia.gov/todayinenergy/detail.php?id=68444) · oficial.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_d6746edc58\"></a>\n1. Irlanda contribuye con 200.000 EUR para fortalecer oportunidades comerciales en países en desarrollo — Irlanda aporta 200.000 EUR a la STDF para mejorar capacidad sanitaria y fitosanitaria y facilitar el comercio inclusivo. — [OMC, Fri, 13 Nov 2026 00:00:00 GMT](https://www.wto.org/english/news_e/pres26_e/pr998_551_e.htm) · oficial.\n\n## 5. Geopolítica\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_651d2932e5\"></a>\n1. EE. UU. incauta criptomonedas por $1.2 mil millones robadas de Binance en esquema norcoreano — El Departamento de Justicia de EE.UU. anunció la incautación de 1.200 millones de dólares en criptomonedas robadas utilizadas para financiar al régimen de Corea del Norte. — [CNBC, Fri, 13 Nov 2026 12:03:24 GMT](https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html) · medio.\n\n<a id=\"ev_97b1e6015a\"></a>\n2. Banque de Inglaterra, MAS y Banco de Tailandia anuncian proyecto conjunto Meridian FX APAC — Banque de Inglaterra, MAS y Banco de Tailandia colaboran en el proyecto Meridian FX APAC para servicios financieros y cambio de divisas. — [Banco de Inglaterra, Fri, 13 Nov 2026 09:00:00 Z](https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release) · oficial.\n\n<a id=\"ev_cb1cf38505\"></a>\n3. Reserva Federal anuncia precios y ajustes para servicios de pagos en 2027 — La Reserva Federal comunica nuevas tarifas y cambios en servicios de pagos para bancos y cooperativas de crédito desde el 1 de enero de 2027. — [Reserva Federal, Thu, 12 Nov 2026 18:30:00 GMT](https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm) · oficial.\n\n<a id=\"ev_4bab524e82\"></a>\n4. Reserva Federal emite acción ejecutiva contra ex empleado de United Community Bank — La Reserva Federal toma medidas regulatorias contra un ex empleado del United Community Bank. — [Reserva Federal, Thu, 12 Nov 2026 17:45:00 GMT](https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm) · oficial.\n\n## 7. Demografía y Migraciones\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\nanálisis pendiente\n\n### Flujos\n\n- Presión Climática: análisis pendiente\n- Palanca Geopolítica: análisis pendiente\n- Flujos de Recursos: análisis pendiente\n- Flujos Cibernéticos y de Datos: análisis pendiente\n\n### Bucles críticos\n\n- Escasez de Recursos: análisis pendiente\n- Armamentización de la Cadena de Suministro: análisis pendiente\n- Impacto Societal y Financiero: análisis pendiente\n\n## Señales a vigilar\n\nanálisis pendiente\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-06T11:59:56+00:00 |\n| OpenAI | oficial | Disponible | 1 | 2026-11-12T20:00:00+00:00 |\n| NASA | oficial | Disponible | 7 | 2026-11-13T05:05:00+00:00 |\n| CISA | oficial | Disponible | 0 | 2026-11-12T12:00:00+00:00 |\n| EIA | oficial | Disponible | 1 | 2026-11-12T14:00:00+00:00 |\n| FAO | oficial | Disponible | 1 | 2026-11-13T12:00:00+00:00 |\n| OMC | oficial | Disponible | 1 | 2026-11-13T00:00:00+00:00 |\n| ONU | oficial | No disponible | 0 | Sin fecha verificable |\n| Reserva Federal | oficial | Disponible | 3 | 2026-11-12T18:30:00+00:00 |\n| BCE | oficial | Disponible | 1 | 2026-11-13T07:20:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-11-12T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 11 | 2026-11-12T20:30:00+00:00 |\n| Microsoft | oficial | Disponible | 2 | 2026-11-12T17:00:03+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-11-12T12:00:07+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 1 | 2026-11-12T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-14T23:33:13+00:00 |\n| NASA · Comunicados | oficial | Disponible | 7 | 2026-11-13T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-11-05T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-11-10T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 1 | 2026-11-13T09:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-12T08:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-05T15:27:24+00:00 |\n| BBC News | medio | Disponible | 18 | 2026-11-13T12:31:49+00:00 |\n| BBC Mundo | medio | Disponible | 17 | 2026-11-13T12:26:38+00:00 |\n| CNN | medio | Disponible | 94 | 2026-11-13T12:10:20.358000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-13T12:27:48+00:00 |\n| The Guardian | medio | Disponible | 30 | 2026-11-13T12:29:18+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-13T12:06:56+00:00 |\n| El País | medio | Disponible | 14 | 2026-11-13T12:36:03+00:00 |\n| CNBC | medio | Disponible | 30 | 2026-11-13T12:28:55+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-13T12:37:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 8 | 2026-11-13T12:19:35+00:00 |\n| BBC · Tecnología | medio | Disponible | 13 | 2026-11-13T12:31:49+00:00 |\n| BBC · Economía | medio | Disponible | 16 | 2026-11-13T12:31:49+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-13\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"finanzas\"]\nlugares: [\"Alaska\", \"Andrómeda\", \"Antalya\", \"Bahía de Monterey\", \"Balcanes\", \"California\", \"Cannes\", \"España\", \"Estados Unidos\", \"Francia\", \"Italia\", \"Lisboa\", \"Madeira\", \"Madrid\", \"Mar del Norte\", \"Noruega\", \"Península Ibérica\", \"Portugal\", \"República Democrática del Congo\", \"Singapur\", \"Tailandia\", \"Toscana\", \"Venecia\"]\npaises: [\"España\", \"Estados Unidos\", \"Francia\", \"Irlanda\", \"Italia\", \"Noruega\", \"Portugal\", \"Reino Unido\", \"República Democrática del Congo\", \"Singapur\", \"Tailandia\", \"Turquía\"]\nentidades: [\"Banco de Inglaterra\", \"Banco de Tailandia\", \"Corte Suprema de Noruega\", \"Departamento de Justicia de EE. UU.\", \"EIA\", \"FAO\", \"Google\", \"Monetary Authority of Singapore\", \"NASA\", \"OMC\", \"Reserva Federal\", \"United Community Bank\", \"Unión Internacional de Matronas\"]\ntemas: [\"El Niño\", \"acción ejecutiva\", \"astronomía\", \"cambio climático\", \"cancelaciones aéreas\", \"clima extremo\", \"colaboración\", \"comercio\", \"conflictos\", \"criptomonedas\", \"desarrollo\", \"desarrollo de software\", \"desastres naturales\", \"ecosistemas\", \"empleados\", \"energía\", \"fenómenos climáticos\", \"finanzas\", \"galaxias\", \"herramientas para desarrolladores\", \"inteligencia artificial\", \"inundaciones\", \"investigación espacial\", \"manglares\", \"modelos de lenguaje\", \"negociaciones climáticas\", \"permisos petroleros\", \"petróleo\", \"producción energética\", \"programación\", \"protección costera\", \"proyectos internacionales\", \"regulación bancaria\", \"salud\", \"salud materna\", \"sanciones\", \"sanidad y fitosanidad\", \"seguridad alimentaria\", \"seguridad informática\", \"servicios bancarios\", \"software\", \"tarifas\", \"tormentas\"]\nbucles_activos: []\ncorte: \"2026-11-13T12:41:04.177664+00:00\"\ninicio_ventana: \"2026-11-12T12:41:04.177664+00:00\"\nestado: \"análisis pendiente\"\n```\n",
+  "nexo": null,
   "cobertura": {
     "noaa": {
       "ok": true,
@@ -1148,12 +688,12 @@
     },
     "openai": {
       "ok": true,
-      "piezas": 1383,
+      "piezas": 1385,
       "fuente": "OpenAI",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-12T09:30:00+00:00",
-      "recientes": 3
+      "ultima_publicacion": "2026-11-12T20:00:00+00:00",
+      "recientes": 1
     },
     "nasa": {
       "ok": true,
@@ -1161,8 +701,8 @@
       "fuente": "NASA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-12T13:00:00+00:00",
-      "recientes": 4
+      "ultima_publicacion": "2026-11-13T05:05:00+00:00",
+      "recientes": 7
     },
     "cisa": {
       "ok": true,
@@ -1170,25 +710,25 @@
       "fuente": "CISA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-10T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-12T12:00:00+00:00",
       "recientes": 0
     },
     "eia": {
       "ok": true,
-      "piezas": 25,
+      "piezas": 26,
       "fuente": "EIA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-06T14:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-12T14:00:00+00:00",
+      "recientes": 1
     },
     "fao": {
       "ok": true,
-      "piezas": 20,
+      "piezas": 19,
       "fuente": "FAO",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-12T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-13T12:00:00+00:00",
       "recientes": 1
     },
     "wto": {
@@ -1197,16 +737,16 @@
       "fuente": "OMC",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-11T00:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-13T00:00:00+00:00",
+      "recientes": 1
     },
     "un": {
-      "ok": true,
-      "piezas": 30,
+      "ok": false,
+      "piezas": 0,
       "fuente": "ONU",
       "tipo": "oficial",
-      "error": "",
-      "ultima_publicacion": "2026-11-11T12:00:00+00:00",
+      "error": "not well-formed (invalid token): line 1, column 0",
+      "ultima_publicacion": null,
       "recientes": 0
     },
     "fed": {
@@ -1215,8 +755,8 @@
       "fuente": "Reserva Federal",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-09T21:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-12T18:30:00+00:00",
+      "recientes": 3
     },
     "ecb": {
       "ok": true,
@@ -1224,8 +764,8 @@
       "fuente": "BCE",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-10T16:45:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-13T07:20:00+00:00",
+      "recientes": 1
     },
     "imf": {
       "ok": false,
@@ -1261,7 +801,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-12T12:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "consilium": {
       "ok": true,
@@ -1278,8 +818,8 @@
       "fuente": "Google",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-12T13:00:00+00:00",
-      "recientes": 8
+      "ultima_publicacion": "2026-11-12T20:30:00+00:00",
+      "recientes": 11
     },
     "microsoft": {
       "ok": true,
@@ -1287,8 +827,8 @@
       "fuente": "Microsoft",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-10-28T16:51:35+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-12T17:00:03+00:00",
+      "recientes": 2
     },
     "meta": {
       "ok": true,
@@ -1297,7 +837,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-12T12:00:07+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "apple": {
       "ok": true,
@@ -1332,8 +872,8 @@
       "fuente": "NOAA NCEI",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-09T16:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-12T16:00:00+00:00",
+      "recientes": 1
     },
     "noaa-nhc": {
       "ok": true,
@@ -1341,7 +881,7 @@
       "fuente": "NOAA · Centro Nacional de Huracanes",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-13T23:21:53+00:00",
+      "ultima_publicacion": "2026-11-14T23:33:13+00:00",
       "recientes": 1
     },
     "nasa-releases": {
@@ -1350,8 +890,8 @@
       "fuente": "NASA · Comunicados",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-12T13:00:00+00:00",
-      "recientes": 4
+      "ultima_publicacion": "2026-11-13T05:05:00+00:00",
+      "recientes": 7
     },
     "usda": {
       "ok": false,
@@ -1386,8 +926,8 @@
       "fuente": "Banco de Inglaterra",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-10T12:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-13T09:00:00+00:00",
+      "recientes": 1
     },
     "boj": {
       "ok": true,
@@ -1409,30 +949,30 @@
     },
     "bbc-world": {
       "ok": true,
-      "piezas": 29,
+      "piezas": 20,
       "fuente": "BBC News",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-12T13:02:46+00:00",
-      "recientes": 22
+      "ultima_publicacion": "2026-11-13T12:31:49+00:00",
+      "recientes": 18
     },
     "bbc-mundo": {
       "ok": true,
-      "piezas": 33,
+      "piezas": 34,
       "fuente": "BBC Mundo",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-12T13:00:11+00:00",
-      "recientes": 14
+      "ultima_publicacion": "2026-11-13T12:26:38+00:00",
+      "recientes": 17
     },
     "cnn": {
       "ok": true,
-      "piezas": 223,
+      "piezas": 216,
       "fuente": "CNN",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-12T12:57:39.997000+00:00",
-      "recientes": 82
+      "ultima_publicacion": "2026-11-13T12:10:20.358000+00:00",
+      "recientes": 94
     },
     "dw-es": {
       "ok": false,
@@ -1449,8 +989,8 @@
       "fuente": "France 24",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-12T12:22:10+00:00",
-      "recientes": 23
+      "ultima_publicacion": "2026-11-13T12:27:48+00:00",
+      "recientes": 24
     },
     "guardian": {
       "ok": true,
@@ -1458,8 +998,8 @@
       "fuente": "The Guardian",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-12T13:14:49+00:00",
-      "recientes": 29
+      "ultima_publicacion": "2026-11-13T12:29:18+00:00",
+      "recientes": 30
     },
     "aljazeera": {
       "ok": true,
@@ -1467,16 +1007,16 @@
       "fuente": "Al Jazeera",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-12T12:57:12+00:00",
+      "ultima_publicacion": "2026-11-13T12:06:56+00:00",
       "recientes": 25
     },
     "elpais": {
       "ok": true,
-      "piezas": 22,
+      "piezas": 24,
       "fuente": "El País",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-12T13:11:55+00:00",
+      "ultima_publicacion": "2026-11-13T12:36:03+00:00",
       "recientes": 14
     },
     "cnbc": {
@@ -1485,8 +1025,8 @@
       "fuente": "CNBC",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-12T13:20:39+00:00",
-      "recientes": 29
+      "ultima_publicacion": "2026-11-13T12:28:55+00:00",
+      "recientes": 30
     },
     "reuters": {
       "ok": false,
@@ -1511,7 +1051,7 @@
       "piezas": 0,
       "fuente": "Agencia EFE",
       "tipo": "agencia",
-      "error": "HTTP Error 403: Forbidden",
+      "error": "HTTP Error 500: Internal Server Error",
       "ultima_publicacion": null,
       "recientes": 0
     },
@@ -1521,7 +1061,7 @@
       "fuente": "MarketWatch",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-12T13:05:00+00:00",
+      "ultima_publicacion": "2026-11-13T12:37:00+00:00",
       "recientes": 10
     },
     "guardian-environment": {
@@ -1530,8 +1070,8 @@
       "fuente": "The Guardian · Medio ambiente",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-12T13:09:30+00:00",
-      "recientes": 9
+      "ultima_publicacion": "2026-11-13T12:19:35+00:00",
+      "recientes": 8
     },
     "bbc-tech": {
       "ok": true,
@@ -1539,17 +1079,17 @@
       "fuente": "BBC · Tecnología",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-12T11:21:25+00:00",
-      "recientes": 3
+      "ultima_publicacion": "2026-11-13T12:31:49+00:00",
+      "recientes": 13
     },
     "bbc-business": {
       "ok": true,
-      "piezas": 56,
+      "piezas": 55,
       "fuente": "BBC · Economía",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-12T13:16:59+00:00",
-      "recientes": 13
+      "ultima_publicacion": "2026-11-13T12:31:49+00:00",
+      "recientes": 16
     }
   }
 }
