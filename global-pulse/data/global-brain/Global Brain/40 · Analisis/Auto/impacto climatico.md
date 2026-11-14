@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-11-13
+actualizado: 2026-11-14
 nodos: 51
 origen: global-pulse
 ---
@@ -10,16 +10,16 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-13. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-14. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo, el enfoque global sobre el impacto climático se ha intensificado, destacando la COP31 como punto central donde se discuten avances en la transición energética y regulación ambiental, como la anulación de permisos petroleros en Noruega. Mientras tanto, fenómenos climáticos adversos, como la tormenta Charles y el colapso de infraestructura en Gaza, ejemplifican la creciente vulnerabilidad ante desastres, impulsando nuevas iniciativas de financiamiento y la urgencia de acciones multilaterales. La dinámica muestra una evolución hacia un compromiso más pronunciado con energías limpias y una mayor atención a la seguridad nacional y riesgos medioambientales, aunque persisten desafíos políticos y económicos que influyen en la implementación de políticas climáticas.
+Durante el periodo, el debate sobre el impacto climático ha evolucionado en torno a un equilibrio entre avances en las negociaciones internacionales, como en la COP31, y desafíos climáticos inmediatos como tormentas e inundaciones severas en Europa. Se destaca un creciente reconocimiento de la urgencia tanto en la transición energética, con China tomando la delantera y cuestionamientos a permisos petroleros en Noruega, como en la necesidad de financiamiento y medidas de adaptación frente a desastres. Sin embargo, persiste la polémica sobre el liderazgo global y las contradicciones relativas a inversiones en energías fósiles y renovables.
 
 ## Trend summary (EN)
-During the period, the global focus on climate impact has intensified, with COP31 serving as a central platform discussing advancements in energy transition and environmental regulations, such as Norway’s revocation of oil permits. Meanwhile, adverse climatic events like Storm Charles and infrastructure collapse in Gaza highlight increasing vulnerability to disasters, driving new financing initiatives and urgent calls for multilateral actions. The trend shows a shift towards stronger commitments to clean energy and heightened awareness of national security and environmental risks, although political and economic challenges continue to affect climate policy implementation.
+Over the period, the climate impact discussion has evolved around a balance between progress in international negotiations, such as COP31, and immediate climate challenges like severe storms and flooding in Europe. There is growing acknowledgment of urgency in both energy transition, with China leading and oil permits in Norway being questioned, and the need for financing and adaptive measures against disasters. Nonetheless, controversy remains over global leadership and contradictions regarding fossil fuel and renewable energy investments.
 
 > [!note] Estado actual
-> En la fecha más reciente, la COP31 continúa con negociaciones activas sobre transición energética y se cuestiona la concesión de permisos petroleros en Noruega.
+> Las negociaciones en la COP31 siguen avanzando en un contexto de eventos climáticos extremos y debates sobre liderazgo y acciones en energía limpia.
 
 ## Nodos recientes (51 en la ventana)
 | Fecha | Impacto | K | Nodo |

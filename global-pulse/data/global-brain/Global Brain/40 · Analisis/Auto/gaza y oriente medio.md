@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-13
-nodos: 23
+actualizado: 2026-11-14
+nodos: 21
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-13. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-14. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo analizado, la situación en Gaza se ha deteriorado significativamente debido a intensas lluvias y condiciones climáticas adversas que han provocado inundaciones masivas, deslizamientos de tierra y el colapso de infraestructuras vitales, dejando a miles de desplazados en situación vulnerable. Paralelamente, Israel enfrenta una compleja transición política tras elecciones sin mayoría clara, con negociaciones lentas para formar gobierno y un posible cambio de liderazgo impulsado por la oposición, mientras se calman las acusaciones de fraude electoral y surgen cuestionamientos sobre la ayuda militar estadounidense. La crisis humanitaria se agrava en un contexto regional donde los conflictos y problemas energéticos también afectan a países vecinos como Líbano.
+Durante el periodo, Gaza enfrenta una grave crisis humanitaria agravada por intensas lluvias e inundaciones que destruyen campamentos de desplazados y la infraestructura, aumentando el sufrimiento de la población. Al mismo tiempo, Israel atraviesa una fase de inestabilidad política con elecciones sin mayoría clara, negociaciones para formar gobierno y acusaciones de fraude que finalmente son rechazadas, mientras el apoyo militar de EE. UU. parece fluctuar. Estos hechos muestran una región marcada por tensiones políticas internas en Israel y un deterioro humanitario en Gaza, con perspectivas inciertas para ambos.
 
 ## Trend summary (EN)
-During the analyzed period, the situation in Gaza has significantly worsened due to heavy rainfall and adverse weather conditions causing massive flooding, landslides, and critical infrastructure collapse, leaving thousands of displaced people vulnerable. Meanwhile, Israel faces a complex political transition following inconclusive elections, with slow coalition negotiations and a possible leadership change driven by the opposition amid fading fraud claims and scrutiny of U.S. military aid. The humanitarian crisis deepens in a regional context where conflicts and energy issues also impact neighboring countries such as Lebanon.
+During this period, Gaza faces a severe humanitarian crisis worsened by heavy rains and flooding that destroy displaced persons' camps and infrastructure, increasing the population's hardship. At the same time, Israel goes through political instability with elections yielding no clear majority, coalition negotiations underway, and fraud allegations ultimately dismissed, while U.S. military support appears in flux. These events depict a region marked by internal political tensions in Israel and a worsening humanitarian situation in Gaza, with uncertain prospects for both.
 
 > [!note] Estado actual
-> La situación humanitaria en Gaza sigue siendo crítica por las inundaciones y desplazamientos, mientras en Israel continúan las negociaciones para formar un nuevo gobierno tras las elecciones sin mayoría clara.
+> En la fecha más reciente, la infraestructura colapsada en Gaza debido a las fuertes lluvias deja a los residentes indefensos ante nuevas inundaciones.
 
-## Nodos recientes (23 en la ventana)
+## Nodos recientes (21 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-11 | 48 | K1 | Colapso de infraestructura en Gaza deja a residentes indefensos  |

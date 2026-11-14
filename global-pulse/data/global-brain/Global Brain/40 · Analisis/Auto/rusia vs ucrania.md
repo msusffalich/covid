@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-13
-nodos: 43
+actualizado: 2026-11-14
+nodos: 45
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-13. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-14. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante este periodo, las negociaciones de paz entre Rusia y Ucrania han avanzado parcialmente, destacándose conversaciones trilaterales en Abu Dabi mediadas por EE.UU., con acuerdos limitados como canjes de prisioneros y sin inclusión de la UE. Mientras tanto, Ucrania continúa fortaleciendo su capacidad militar tecnológica con apoyo desde EE.UU., y los enfrentamientos incluyen ataques con drones contra infraestructura crítica rusa y un aumento en el reclutamiento internacional para las fuerzas rusas. La situación sigue siendo compleja, con esfuerzos diplomáticos y confrontaciones en simultáneo, y sin un acuerdo definitivo a la vista.
+Durante el periodo, el conflicto entre Rusia y Ucrania ha mostrado un avance hacia negociaciones multilaterales que incluyen a EE. UU., aunque con la exclusión de la UE, en busca de una solución pacífica. Mientras tanto, Ucrania enfrenta desafíos internos y externos, como la presión para ceder territorio como Donbas y limitaciones en apoyo tecnológico crucial, como el sistema Starshield de SpaceX. Paralelamente, las operaciones militares continúan con ataques significativos, desarrollo tecnológico de defensa nacional y fluctuaciones en alianzas y reclutamiento.
 
 ## Trend summary (EN)
-During this period, peace talks between Russia and Ukraine have made partial progress, highlighted by trilateral negotiations in Abu Dhabi mediated by the U.S., resulting in limited agreements such as prisoner exchanges and excluding the EU. Meanwhile, Ukraine continues to strengthen its military technological capabilities with U.S. support, and the conflict includes drone attacks on critical Russian infrastructure and increased international recruitment for Russian forces. The situation remains complex, with simultaneous diplomatic efforts and confrontations, and no definitive agreement in sight.
+Throughout the period, the Russia-Ukraine conflict has progressed towards multilateral negotiations involving the U.S., but excluding the EU, aiming for a peaceful resolution. Meanwhile, Ukraine faces internal and external challenges such as pressure to cede Donbas territory and limitations in critical technological support like SpaceX's Starshield system. Concurrently, military operations persist with significant attacks, advancements in national defense technology, and shifts in alliances and recruitment.
 
 > [!note] Estado actual
-> Las negociaciones recientes entre Rusia, Ucrania y EE.UU. en Abu Dabi concluyeron con un acuerdo sobre el canje de prisioneros, pero persiste la renuencia de Moscú hacia la participación europea y se anticipan más encuentros.
+> La situación actual se caracteriza por negociaciones activas entre Rusia, Ucrania y EE. UU. en Abu Dabi, con Ucrania resistiéndose a concesiones territoriales y continuos desafíos en apoyo tecnológico y militar.
 
-## Nodos recientes (43 en la ventana)
+## Nodos recientes (45 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-14 | 80 | K0 | EE. UU. propone que Ucrania ceda Donbass para ingreso a la OTAN, |
+| 2026-11-14 | 75 | K2 | Zelensky acusa a SpaceX de razones políticas para ralentizar Sta |
 | 2026-11-12 | 68 | K1 | Enviados de EE. UU. se reúnen con Putin mientras Zelenski denunc |
 | 2026-11-12 | 48 | K1 | Startup ucraniana de tecnología de defensa UFORCE alcanza valora |
 | 2026-11-11 | 70 | K1 | Zelenski advierte que Ucrania 'no es un bien inmobiliario' en me |
@@ -34,7 +36,5 @@ During this period, peace talks between Russia and Ukraine have made partial pro
 | 2026-11-10 | 82 | K0 | Arrancan en Abu Dabi negociaciones trilaterales Rusia-Ucrania-EE |
 | 2026-11-09 | 55 | K0 | Ataques con drones incendian la segunda mayor refinería de petró |
 | 2026-11-09 | 35 | K1 | Sudáfrica detiene a nueve extranjeros que intentaban viajar a co |
-| 2026-11-08 | 55 | K1 | Victoria demócrata en el Congreso de EE UU podría reforzar apoyo |
-| 2026-11-08 | 48 | K0 | Canciller italiano denuncia filtración de datos personales por h |
 
 [[Global Brain — Inicio|← Inicio]]
