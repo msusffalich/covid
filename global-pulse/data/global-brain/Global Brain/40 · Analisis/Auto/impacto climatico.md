@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-11-14
-nodos: 51
+actualizado: 2026-11-15
+nodos: 50
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-14. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-15. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo, el debate sobre el impacto climático ha evolucionado en torno a un equilibrio entre avances en las negociaciones internacionales, como en la COP31, y desafíos climáticos inmediatos como tormentas e inundaciones severas en Europa. Se destaca un creciente reconocimiento de la urgencia tanto en la transición energética, con China tomando la delantera y cuestionamientos a permisos petroleros en Noruega, como en la necesidad de financiamiento y medidas de adaptación frente a desastres. Sin embargo, persiste la polémica sobre el liderazgo global y las contradicciones relativas a inversiones en energías fósiles y renovables.
+Durante el periodo analizado, la atención global se ha centrado en la COP31, donde se destacan avances en negociaciones climáticas, restricciones legales a permisos petroleros y lanzamientos de iniciativas para mitigar impactos y financiar respuesta ante desastres. Paralelamente, eventos climáticos adversos, como la tormenta Charles, evidencian los riesgos crecientes, mientras que los informes muestran una estabilización de las emisiones de carbono, aunque persisten críticas sobre falta de liderazgo y responsabilidad. En la parte final, las condiciones meteorológicas en el Atlántico presentan un alivio temporal sin ciclones tropicales previstos.
 
 ## Trend summary (EN)
-Over the period, the climate impact discussion has evolved around a balance between progress in international negotiations, such as COP31, and immediate climate challenges like severe storms and flooding in Europe. There is growing acknowledgment of urgency in both energy transition, with China leading and oil permits in Norway being questioned, and the need for financing and adaptive measures against disasters. Nonetheless, controversy remains over global leadership and contradictions regarding fossil fuel and renewable energy investments.
+During the analyzed period, global attention focused on COP31, highlighting progress in climate negotiations, legal restrictions on oil permits, and the launch of initiatives to mitigate impacts and finance disaster response. Meanwhile, adverse weather events like Storm Charles underscore ongoing risks, and reports indicate a stabilization of carbon emissions, although criticism about lack of leadership and accountability persists. Towards the end, Atlantic weather conditions showed temporary relief without tropical cyclones expected.
 
 > [!note] Estado actual
-> Las negociaciones en la COP31 siguen avanzando en un contexto de eventos climáticos extremos y debates sobre liderazgo y acciones en energía limpia.
+> Actualmente, no se esperan ciclones tropicales en el Atlántico, mientras en la COP31 continúan las discusiones sobre la crisis climática e iniciativas para enfrentarla.
 
-## Nodos recientes (51 en la ventana)
+## Nodos recientes (50 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-15 | 30 | K1 | No se esperan ciclones tropicales en el Atlántico en próximos 7  |
 | 2026-11-13 | 80 | K1 | Negociaciones sobre la crisis climática avanzan en la COP31 mien |
 | 2026-11-13 | 70 | K1 | La tormenta Charles causa inundaciones y cancelaciones de vuelos |
 | 2026-11-12 | 52 | K1 | Kerry llama a Trump 'el mayor perdedor' por abandonar la acción  |
@@ -35,6 +36,5 @@ Over the period, the climate impact discussion has evolved around a balance betw
 | 2026-11-11 | 48 | K1 | Importaciones de Pakistán desde India crecen pese a tensiones y  |
 | 2026-11-11 | 48 | K1 | Colapso de infraestructura en Gaza deja a residentes indefensos  |
 | 2026-11-10 | 68 | K1 | Emisiones de carbono por combustibles fósiles se estabilizan en  |
-| 2026-11-10 | 60 | K1 | Kerry dice que EE.UU. y el mundo deben seguir el liderazgo de Ch |
 
 [[Global Brain — Inicio|← Inicio]]

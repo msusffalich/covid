@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-11-14
-nodos: 92
+actualizado: 2026-11-15
+nodos: 89
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-14. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-15. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante este periodo, la economía global muestra una dinámica compleja con altos impactos en temas variados: desde la incautación de criptomonedas destinadas a financiar regímenes sancionados, hasta avances en negociaciones climáticas en la COP31. Mientras algunos países proyectan incrementos en producción energética, otros enfrentan disputas legales y revisiones financieras influidas por datos de inflación y cambios en liderazgo empresarial. Paralelamente, surgen iniciativas de colaboración financiera internacional y salidas a bolsa relevantes en sectores tecnológicos, reflejando una evolución hacia una mayor integración económica y ajuste a desafíos ambientales y regulatorios.
+Durante el periodo, la economía global mostró signos mixtos con incrementos en producción energética, especialmente petróleo en Alaska, mientras que la inflación en EE.UU. desacelera la política monetaria, y las negociaciones climáticas avanzan con nuevas restricciones ambientales en Noruega. También destacaron temas de seguridad financiera con la incautación masiva de criptomonedas relacionadas con Corea del Norte y movimientos en el sector financiero en Asia y Reino Unido. La evolución refleja una dinámica compleja entre crecimiento económico, regulación ambiental y tensiones geopolíticas.
 
 ## Trend summary (EN)
-During this period, the global economy exhibits a complex dynamic with high-impact developments across diverse topics: from the seizure of cryptocurrencies intended to fund sanctioned regimes, to progress in climate negotiations at COP31. While some countries forecast increases in energy production, others face legal disputes and financial reassessments influenced by inflation data and leadership changes. Concurrently, international financial cooperation initiatives and significant tech sector IPOs emerge, reflecting an evolution toward greater economic integration and adaptation to environmental and regulatory challenges.
+During the period, the global economy exhibited mixed signals with rising energy production, notably oil in Alaska, while inflation in the U.S. influences tighter monetary policy, and climate negotiations progress alongside new environmental restrictions in Norway. Noteworthy financial security issues emerged with a large cryptocurrency seizure linked to North Korea and activity in the Asian and UK financial sectors. The evolution reflects a complex dynamic between economic growth, environmental regulation, and geopolitical tensions.
 
 > [!note] Estado actual
-> El evento más reciente destaca la incautación de 1,200 millones de dólares en criptomonedas robadas vinculadas a un esquema norcoreano, marcando un esfuerzo significativo en la lucha contra financiamiento ilícito.
+> Recientemente, EE.UU. incautó 1.200 millones de dólares en criptomonedas relacionadas con financiamiento norcoreano, mientras las negociaciones climáticas avanzan y se espera aumento en producción petrolera en Alaska para 2027.
 
-## Nodos recientes (92 en la ventana)
+## Nodos recientes (89 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-13 | 85 | K0 | EE. UU. incauta criptomonedas por $1.2 mil millones robadas de B |
