@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-15
-nodos: 45
+actualizado: 2026-11-16
+nodos: 47
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-15. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-16. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el período analizado, las negociaciones de paz entre Rusia y Ucrania han tenido avances limitados y desafíos significativos, con Estados Unidos mediando conversaciones trilaterales excluyendo a la Unión Europea. Ucrania enfrenta presiones para ceder territorios como Donbass a cambio de apoyo internacional, mientras continúa el conflicto tecnológico y militar con restricciones a sistemas satelitales y el uso creciente de drones en combate. La inseguridad y desconfianza prevalecen, pero persisten intentos diplomáticos a través de reuniones y acuerdos parciales como canjes de prisioneros.
+Durante el periodo, la guerra entre Rusia y Ucrania ha visto un aumento en la tensión y la violencia, con ataques aéreos con drones en áreas claves y esfuerzos diplomáticos que fluctuaron entre estancamientos y leves avances, como los intercambios de prisioneros. Paralelamente, surgen indicios de presiones políticas y negociaciones complejas, incluidas propuestas controvertidas como la cesión del Donbass para la adhesión a la OTAN, mientras Rusia intenta dividir a Europa mediante pactos bilaterales y recrudece sus ataques a la capital rusa.
 
 ## Trend summary (EN)
-Throughout the analyzed period, peace negotiations between Russia and Ukraine have seen limited progress and significant challenges, with the U.S. mediating trilateral talks excluding the European Union. Ukraine is under pressure to concede territories like Donbass in exchange for international support, while technological and military conflict continues with satellite system restrictions and increased drone use in combat. Insecurity and mistrust prevail, yet diplomatic efforts persist through meetings and partial agreements such as prisoner exchanges.
+During the period, the Russia-Ukraine conflict has escalated in tension and violence, with drone attacks on key areas and diplomatic efforts varying between stalemates and minor progress such as prisoner exchanges. Simultaneously, political pressures and complex negotiations emerge, including controversial proposals like ceding Donbass for NATO membership, while Russia seeks to divide Europe through bilateral pacts and intensifies attacks on Moscow.
 
 > [!note] Estado actual
-> Las negociaciones entre Rusia, Ucrania y EE.UU. continúan en Abu Dabi con acuerdos parciales y tensiones latentes, mientras Ucrania rechaza ser tratada como una mera moneda de cambio territorial.
+> Actualmente, el conflicto permanece activo con ataques intensificados, negociaciones diplomáticas en curso sin grandes avances y la continua influencia geopolítica de Rusia en Europa.
 
-## Nodos recientes (45 en la ventana)
+## Nodos recientes (47 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-16 | 85 | K0 | Rusia busca dividir Europa y frena negociaciones sobre Ucrania |
+| 2026-11-16 | 80 | K1 | Ucrania impacta puente de Kerch entre Rusia y Crimea ocupada con |
+| 2026-11-16 | 80 | K1 | 600 drones ucranianos atacan zona de Moscú, defensa rusa interce |
 | 2026-11-15 | 75 | K1 | Nvidia excluida de la agenda de Trump y Xi por crisis de lideraz |
 | 2026-11-15 | 70 | K1 | Albanese valora la cumbre Trump-Xi-Putin pese a reservas europea |
 | 2026-11-14 | 80 | K0 | EE. UU. propone que Ucrania ceda Donbass para ingreso a la OTAN, |
@@ -33,8 +36,5 @@ Throughout the analyzed period, peace negotiations between Russia and Ukraine ha
 | 2026-11-11 | 70 | K1 | Zelenski advierte que Ucrania 'no es un bien inmobiliario' en me |
 | 2026-11-11 | 68 | K1 | Conversaciones Ucrania-Rusia en Abu Dabi terminan con acuerdo de |
 | 2026-11-11 | 65 | K1 | Enviados de Trump viajarán a Moscú tras conversaciones de paz si |
-| 2026-11-11 | 42 | K1 | Ucrania captura su primer prisionero de guerra indonesio en medi |
-| 2026-11-10 | 85 | K0 | EE.UU. busca 'fin definitivo' a la guerra Rusia-Ucrania en conve |
-| 2026-11-10 | 82 | K0 | Arrancan en Abu Dabi negociaciones trilaterales Rusia-Ucrania-EE |
 
 [[Global Brain — Inicio|← Inicio]]

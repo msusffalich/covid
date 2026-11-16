@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-15
+actualizado: 2026-11-16
 nodos: 21
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-15. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-16. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo, la situación en Gaza se ha deteriorado por las intensas lluvias que han provocado inundaciones masivas y desplazamiento de civiles, en un contexto de crisis humanitaria agravada por ataques israelíes, como el bombardeo al hospital Nasser. Paralelamente, la política israelí muestra inestabilidad con un presidente encargado de formar gobierno tras elecciones disputadas, mientras la comunidad internacional expresa preocupación por el impacto en la población civil y la infraestructura colapsada en Gaza. Además, la tensión regional se ve reflejada en cambios en la ayuda militar de EE.UU. a Israel y en la crisis energética en Líbano.
+Durante el periodo, la situación en Gaza y Oriente Medio ha mostrado un agravamiento humanitario y político. Las fuertes lluvias han impactado severamente a los desplazados en Gaza, causando inundaciones y pérdidas importantes de refugios, mientras que la infraestructura local colapsa sin respuestas efectivas. Paralelamente, en Israel se observa un contexto político tenso con la formación de un nuevo gobierno y el uso de tecnología avanzada para vigilancia, generando críticas internacionales por ataques a civiles y hospitales en Gaza, además del reajuste en la ayuda militar estadounidense al país.
 
 ## Trend summary (EN)
-During the period, the situation in Gaza worsened due to heavy rains causing massive flooding and civilian displacement amid a humanitarian crisis exacerbated by Israeli attacks, including the bombing of Nasser hospital. Meanwhile, Israeli politics remain unstable with a president tasked to form a government after contested elections, while the international community expresses concern about the impact on civilians and Gaza's collapsed infrastructure. Additionally, regional tensions are reflected in changes to U.S. military aid to Israel and Lebanon's escalating energy crisis.
+Throughout the period, the situation in Gaza and the Middle East has deteriorated both humanitarianly and politically. Heavy rains severely affected displaced people in Gaza, causing floods and significant loss of shelters amid collapsing infrastructure and limited effective response. Meanwhile, Israel faces political tension with the formation of a new government and the use of advanced surveillance technology, drawing international criticism over attacks on civilians and hospitals in Gaza, alongside adjustments in U.S. military aid to Israel.
 
 > [!note] Estado actual
-> A fecha 15 de noviembre de 2026, se condenan internacionalmente los ataques israelíes al hospital Nasser en Gaza, en medio de una emergencia humanitaria agravada por desastres naturales y una situación política israelí sin mayoría clara para formar gobierno.
+> Recientemente, Israel ha elevado la vigilancia mediante una masiva base de datos fotográfica, mientras países árabes y la UE condenan ataques israelíes a hospitales en Gaza.
 
 ## Nodos recientes (21 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-16 | 85 | K0 | Israel sube millones de fotos a plataforma de reconocimiento fac |
 | 2026-11-15 | 80 | K0 | Países árabes y la UE condenan ataques israelíes al hospital Nas |
 | 2026-11-11 | 48 | K1 | Colapso de infraestructura en Gaza deja a residentes indefensos  |
 | 2026-11-09 | 55 | K1 | Deslizamiento de tierra mata a cinco personas en campamento de d |
@@ -35,6 +36,5 @@ During the period, the situation in Gaza worsened due to heavy rains causing mas
 | 2026-11-04 | 65 | K0 | Comisión electoral de Israel rechaza acusaciones de Netanyahu de |
 | 2026-11-04 | 60 | K0 | Trump anuncia que EE. UU. suspenderá ayuda militar de 4.000 mill |
 | 2026-11-03 | 40 | K0 | Líbano corta electricidad a organismos públicos mientras se agra |
-| 2026-10-31 | 70 | K1 | ONU advierte sobre 'pesadilla' de desplazamiento creciente en Ga |
 
 [[Global Brain — Inicio|← Inicio]]

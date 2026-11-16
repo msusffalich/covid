@@ -1,440 +1,443 @@
 {
   "meta": {
     "schema": "2.0",
-    "fecha": "2026-11-15",
-    "generado": "2026-11-15T12:19:56.963864+00:00",
+    "fecha": "2026-11-16",
+    "generado": "2026-11-16T13:17:41.926470+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "nodos": 12,
-      "verificados": 12,
-      "piezas_ingeridas": 150,
+      "nodos": 27,
+      "verificados": 27,
+      "piezas_ingeridas": 174,
       "canales_consultados": 46,
       "canales_disponibles": 38,
-      "documentos_recientes": 177
+      "documentos_recientes": 249
     },
     "descargo": "",
-    "corte": "2026-11-15T12:19:26.787970+00:00",
-    "reporte_sha256": "243f0e79ceef135c56692b1e01e37b98c794040de9fd28d6f9e9eae7c1f2d040",
-    "estado": "completo",
+    "corte": "2026-11-16T13:11:59.269387+00:00",
+    "reporte_sha256": "7dd8d47d25c5dfb40f25f3f402507141363a9a4e69b3966b714b90210714b8f3",
+    "estado": "análisis pendiente",
     "politica_fuentes": "mixta-v1",
-    "reporte_archivo": "2026-11-15 — Pulso.md"
+    "reporte_archivo": "2026-11-16 — Pulso.md"
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Submarino nuclear Trident concluye despliegue submarino récord",
-        "en": "Trident nuclear submarine concludes record underwater deployment"
+        "es": "Borrador de acuerdo climático COP31 pide acelerar alejamiento de combustibles fósiles",
+        "en": "COP31 draft climate deal calls for faster shift away from fossil fuels"
       },
       "sintesis": {
-        "es": "El submarino HMS Vengeance completó un despliegue submarino de 217 días, retornando a la base naval de Faslane en Escocia y generando dudas sobre el mantenimiento de la flota y el impacto en la tripulación.",
-        "en": "The HMS Vengeance submarine completed a 217-day underwater deployment, returning to the Faslane naval base in Scotland, raising questions about fleet maintenance and crew impact."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "HMS Vengeance"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 75,
-      "fuentes": [
-        "ev_6cac399f5c"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/f5e678146cc65995b5212627db9370abe77833fe/487_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=060b100512481e4a203df065f811f89d"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_6cac399f5c",
-          "titulo": "Trident nuclear submarine concludes record underwater deployment",
-          "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
-          "fuente": "The Guardian",
-          "fecha": "Sun, 15 Nov 2026 12:09:32 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-15_0000",
-      "fecha": "2026-11-15",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Jordania condena a muerte a tres hombres por ataque letal a iglesia",
-        "en": "Jordan sentences three men to death over deadly church attack"
-      },
-      "sintesis": {
-        "es": "Tribunal de Seguridad de Jordania condenó a muerte a tres hombres por un ataque en octubre contra una iglesia greco-ortodoxa en Karak, que causó nueve muertos y decenas de heridos.",
-        "en": "Jordan's Security Court sentenced three men to death for an October attack on a Greek Orthodox church in Karak, killing nine and injuring dozens."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Tribunal de Seguridad de Jordania"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 70,
-      "fuentes": [
-        "ev_bf9efb8882"
-      ],
-      "imagenes": [
-        "https://s.france24.com/media/display/eb10e528-e0d1-11f1-ba89-695cb59fade5/w:1024/p:16x9/AP26299487770405.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_bf9efb8882",
-          "titulo": "Jordania condena a muerte a tres hombres acusados del letal ataque contra una iglesia",
-          "url": "https://www.france24.com/es/medio-oriente/20261115-jordania-condena-a-muerte-a-tres-hombres-acusados-del-letal-ataque-contra-una-iglesia",
-          "fuente": "France 24",
-          "fecha": "Sun, 15 Nov 2026 12:08:43 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-15_0001",
-      "fecha": "2026-11-15",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "No se esperan ciclones tropicales en el Atlántico en próximos 7 días",
-        "en": "No tropical cyclone formation expected in North Atlantic for next 7 days"
-      },
-      "sintesis": {
-        "es": "El Centro Nacional de Huracanes de la NOAA informó que no se esperan ciclones tropicales en el Atlántico Norte, Mar Caribe y Golfo de México durante los próximos siete días.",
-        "en": "NOAA's National Hurricane Center reported no expected tropical cyclone formations in the North Atlantic, Caribbean Sea, and Gulf of Mexico in the coming seven days."
+        "es": "Un borrador de la COP31 insta a acelerar la transición energética para enfrentar la crisis climática amid una época de múltiples crisis globales, según declaraciones oficiales.",
+        "en": "A COP31 draft calls for accelerated energy transition to tackle the climate crisis amid a time of multiple global crises, according to official statements."
       },
       "categoria": "clima",
       "actores": [
-        "NOAA · Centro Nacional de Huracanes"
+        "ONU"
+      ],
+      "geo": {
+        "lat": -25.3,
+        "lon": 133.8,
+        "region": "Oceania"
+      },
+      "impacto": 75,
+      "fuentes": [
+        "ev_03cce1176c"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/764096349924a217692acd2f13488727c9cba566/792_0_6641_5312/master/6641.jpg?width=140&quality=85&auto=format&fit=max&s=c928c14437d285e814d241fc7b4c3308"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_03cce1176c",
+          "titulo": "Cop31 live: draft climate deal calls for faster shift away from fossil fuels",
+          "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Mon, 16 Nov 2026 12:51:33 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0000",
+      "fecha": "2026-11-16",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Inundaciones en Pakistán con agravante climático impactan a familias",
+        "en": "Floods in Pakistan worsened by climate factors impact families"
+      },
+      "sintesis": {
+        "es": "Monzones intensos, agravados por el cambio climático, provocaron graves inundaciones en Pakistán afectando a las familias en diversas provincias, según declaraciones oficiales.",
+        "en": "Intense monsoons worsened by climate change caused severe flooding in Pakistan affecting families across provinces, according to official statements."
+      },
+      "categoria": "clima",
+      "actores": [],
+      "geo": {
+        "lat": 30.4,
+        "lon": 69.3,
+        "region": "Asia Meridional"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_2a0fbf946a"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/03df085cea47ca4df586d23872f7663cb2637137/320_0_1600_1280/master/1600.jpg?width=140&quality=85&auto=format&fit=max&s=be9cf0165f7c1947cf79549d974164c6"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_2a0fbf946a",
+          "titulo": "‘When the sun came out it felt like it opened a scar’ – This is climate breakdown",
+          "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/16/when-the-sun-came-out-it-felt-like-it-opened-a-scar-this-is-climate-breakdown",
+          "fuente": "The Guardian",
+          "fecha": "Mon, 16 Nov 2026 12:00:59 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0001",
+      "fecha": "2026-11-16",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Tornado inusual en Delaware golpea vecindario en noviembre",
+        "en": "Unusual November tornado hits Delaware neighborhood"
+      },
+      "sintesis": {
+        "es": "Un tornado EF1 causó daños materiales en un área residencial de Delaware, siendo solo el segundo tornado registrado en noviembre desde 1950, según el Servicio Meteorológico Nacional de EE. UU.",
+        "en": "An EF1 tornado caused property damage in a Delaware residential area, being only the second tornado recorded in November since 1950, per the U.S. National Weather Service."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Servicio Meteorológico Nacional de EE.UU."
+      ],
+      "geo": {
+        "lat": -38.4,
+        "lon": -63.6,
+        "region": "Sudamerica"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_4429446208"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/e86938f808aacaed63529ffbd461f2de4ff10c74/500_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=08baed31878c1dff227aa589c3e71a31"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_4429446208",
+          "titulo": "Delaware hit by rare November tornado",
+          "url": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
+          "fuente": "The Guardian",
+          "fecha": "Mon, 16 Nov 2026 09:27:06 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0002",
+      "fecha": "2026-11-16",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Grandes olas afectan la costa de California causando cierres",
+        "en": "Huge waves pummel California coast, forcing closure of popular piers"
+      },
+      "sintesis": {
+        "es": "Grandes olas de hasta 11 metros provocaron inundaciones y cierres de muelles en California, acompañadas de advertencias de corrientes peligrosas, según el Servicio Meteorológico Nacional.",
+        "en": "Huge waves up to 11 meters caused flooding and pier closures in California, with warnings for dangerous currents, per the National Weather Service."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Servicio Meteorológico Nacional"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 30,
+      "impacto": 65,
       "fuentes": [
-        "ev_1922f3f40d"
+        "ev_c56f012650"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/1a1e5e3fbb5f413df3cb62b0cb50831adc5a0734/597_0_2985_2388/master/2985.jpg?width=140&quality=85&auto=format&fit=max&s=9ee5566dc21ac7ed5904d54115dea7ad"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c56f012650",
+          "titulo": "Huge waves pummel California coast, forcing closure of popular piers",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Mon, 16 Nov 2026 01:00:42 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0003",
+      "fecha": "2026-11-16",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "La costa de Wadden en Europa, patrimonio mundial natural bajo presión",
+        "en": "Europe’s Wadden Sea natural heritage faces pressure"
+      },
+      "sintesis": {
+        "es": "El Wadden Sea, patrimonio de la Unesco, sufre impactos negativos por actividades extractivas, turismo y pesca, según análisis recientes.",
+        "en": "The Wadden Sea, a UNESCO heritage, faces negative impacts from extraction, tourism, and fishing activities, according to recent analyses."
+      },
+      "categoria": "clima",
+      "actores": [
+        "Unesco"
+      ],
+      "geo": {
+        "lat": 51.2,
+        "lon": 10.4,
+        "region": "Europa"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_ae6a8f82e8"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/00522a8e3465c3eb27bd7505e632ad9caf6c259b/0_367_5319_4254/master/5319.jpg?width=140&quality=85&auto=format&fit=max&s=e3cd820e47c047aa7b1b85bca3c4fbd8"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_ae6a8f82e8",
+          "titulo": "Europe’s Wadden Sea is a natural wonder. So why might it join the world heritage in danger list?",
+          "url": "https://www.theguardian.com/environment/2026/nov/16/europes-wadden-sea-is-a-natural-wonder-so-why-might-it-join-the-world-heritage-in-danger-list",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Mon, 16 Nov 2026 05:00:34 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0004",
+      "fecha": "2026-11-16",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-16_0016",
+        "nd_2026-11-16_0017",
+        "nd_2026-11-16_0018"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "LVMH y OpenAI anuncian alianza estratégica para apoyar el periodismo con IA",
+        "en": "LVMH and OpenAI announce strategic partnership to support journalism with AI"
+      },
+      "sintesis": {
+        "es": "La división de medios de LVMH y OpenAI se asocian para promover el periodismo mediante inteligencia artificial y mejorar la accesibilidad de publicaciones.",
+        "en": "LVMH’s media division and OpenAI partner to promote journalism through AI and enhance publication accessibility."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "LVMH",
+        "OpenAI"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_819523257f"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_1922f3f40d",
-          "titulo": "Atlantic Tropical Weather Outlook",
-          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
-          "fuente": "NOAA · Centro Nacional de Huracanes",
-          "fecha": "Sun, 15 Nov 2026 11:18:12 GMT",
+          "id": "ev_819523257f",
+          "titulo": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "fuente": "OpenAI",
+          "fecha": "Mon, 16 Nov 2026 09:00:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-15_0002",
-      "fecha": "2026-11-15",
+      "id": "nd_2026-11-16_0005",
+      "fecha": "2026-11-16",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "SpaceX logra histórica captura de cohete Starship",
-        "en": "SpaceX successfully catches Starship rocket in huge milestone for the space industry"
+        "es": "Herramienta de aprendizaje en IA ayuda a estudiantes ciegos en Malaui",
+        "en": "AI learning tool helps blind students excel in Malawi"
       },
       "sintesis": {
-        "es": "SpaceX capturó por primera vez la parte superior del cohete Starship en su regreso a Tierra, un avance hacia la reutilización rápida de cohetes.",
-        "en": "SpaceX caught the upper stage of the Starship rocket on its return to Earth for the first time, a step toward rapid rocket reusability."
+        "es": "Una herramienta de inteligencia artificial desarrollada por un innovador malauí está siendo usada para apoyar el aprendizaje de estudiantes con discapacidad visual.",
+        "en": "An AI tool developed by a Malawian innovator is used to support learning for visually impaired students."
       },
       "categoria": "tecnologia",
-      "actores": [
-        "SpaceX"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 80,
-      "fuentes": [
-        "ev_f77c487037"
-      ],
-      "imagenes": [
-        "https://images.mktw.net/im-16988916"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_f77c487037",
-          "titulo": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
-          "url": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
-          "fuente": "MarketWatch",
-          "fecha": "Sun, 15 Nov 2026 00:33:00 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-15_0003",
-      "fecha": "2026-11-15",
-      "kardashev": "K2",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Nvidia excluida de la agenda de Trump y Xi por crisis de liderazgo",
-        "en": "US excludes Nvidia from Trump and Xi agenda amid leadership crisis"
-      },
-      "sintesis": {
-        "es": "Nvidia enfrenta una crisis tras la salida de Jensen Huang, afectando las relaciones en inteligencia artificial antes de la cumbre Trump-Xi-Putin.",
-        "en": "Nvidia faces a leadership crisis after Jensen Huang's departure, impacting AI relations ahead of the Trump-Xi-Putin summit."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "Nvidia"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 75,
-      "fuentes": [
-        "ev_e6801c4ed2"
-      ],
-      "imagenes": [
-        "https://s.france24.com/media/display/fcdc9ec8-de83-11f1-9571-3f371022a770/w:1024/p:16x9/d925e43df2af867ffb2c35d6cdfc5495034ccbabw-1.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_e6801c4ed2",
-          "titulo": "EE. UU. excluye a Nvidia de la agenda de Trump y Xi, mientras empleados presionan por el regreso de Jensen Huang",
-          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261114-ee-uu-excluye-a-nvidia-de-la-agenda-de-trump-y-xi-mientras-empleados-presionan-por-el-regreso-de-jensen-huang",
-          "fuente": "France 24",
-          "fecha": "Sat, 14 Nov 2026 18:51:24 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-15_0004",
-      "fecha": "2026-11-15",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Proveedor de acero escocés en problemas financieros pone en duda contratos de la Marina Real",
-        "en": "Troubled Scottish steel supplier raises questions over Royal Navy contracts"
-      },
-      "sintesis": {
-        "es": "La planta Liberty Steel Dalzell en Escocia enfrenta dificultades financieras, preocupando la producción de acero para tres nuevos buques de la Marina Real.",
-        "en": "Liberty Steel Dalzell plant in Scotland faces financial struggles, raising concerns about steel supply for three new Royal Navy warships."
-      },
-      "categoria": "recursos",
-      "actores": [
-        "Liberty Steel Dalzell"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 70,
-      "fuentes": [
-        "ev_5e586d7417"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/fd9cc03035f5c8aec9a54fd8fa5acf1607b2f88c/128_0_4034_3226/master/4034.jpg?width=140&quality=85&auto=format&fit=max&s=e9f16ee11ad823d663aa54287d3c5d42"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_5e586d7417",
-          "titulo": "Troubled Scottish steel supplier raises questions over Royal Navy contracts",
-          "url": "https://www.theguardian.com/business/2026/nov/15/liberty-steel-dalzell-scotland-royal-navy-contracts-warships",
-          "fuente": "The Guardian",
-          "fecha": "Sun, 15 Nov 2026 10:00:10 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-15_0005",
-      "fecha": "2026-11-15",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Ataques con drones dejan ciudades de Sudán en apagones",
-        "en": "Drone attacks on power stations plunge Sudan’s cities into darkness"
-      },
-      "sintesis": {
-        "es": "Estaciones eléctricas de Sudán son atacadas con drones, causando cortes de energía generalizados en varias ciudades.",
-        "en": "Sudan's power stations are targeted by drone attacks, resulting in widespread blackouts in several cities."
-      },
-      "categoria": "cadenas",
       "actores": [],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 80,
+      "impacto": 55,
       "fuentes": [
-        "ev_a94eb2e972"
+        "ev_8e9ac638d1"
       ],
-      "imagenes": [],
+      "imagenes": [
+        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_-_15_November_2026_at_.max-600x600.format-webp.webp"
+      ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_a94eb2e972",
-          "titulo": "Drone attacks on power stations plunge Sudan’s cities into darkness",
-          "url": "https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 15 Nov 2026 09:59:37 +0000",
+          "id": "ev_8e9ac638d1",
+          "titulo": "What teenagers really think about online safety and AI",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/",
+          "fuente": "Google",
+          "fecha": "Mon, 16 Nov 2026 08:00:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-15_0006",
-      "fecha": "2026-11-15",
-      "kardashev": "K0",
+      "id": "nd_2026-11-16_0006",
+      "fecha": "2026-11-16",
+      "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Actualización tecnológica provoca caos en vuelos de EE.UU.",
-        "en": "How telecoms upgrade work sparked US flight chaos"
+        "es": "Internet Matters CEO enfatiza necesidad de alfabetización mediática para adolescentes en Reino Unido",
+        "en": "Internet Matters CEO emphasizes media literacy support for UK teens"
       },
       "sintesis": {
-        "es": "Funcionarios indican que una actualización rutinaria causó la interrupción masiva del tráfico aéreo en Estados Unidos, no un ciberataque.",
-        "en": "Officials say a routine telecom upgrade caused the massive US flight disruption, not a cyberattack."
+        "es": "CEO de Internet Matters subraya la importancia del apoyo en alfabetización mediática para jóvenes británicos que consumen noticias online y usan IA.",
+        "en": "Internet Matters CEO underscores the need for media literacy support for UK youth consuming online news and using AI."
       },
       "categoria": "tecnologia",
       "actores": [
-        "FAA"
+        "Internet Matters"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 80,
+      "impacto": 50,
       "fuentes": [
-        "ev_5ff0336019"
+        "ev_3da175542d"
       ],
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_-_13_November_2026_at_.max-600x600.format-webp_9P1zbrF.webp"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_5ff0336019",
-          "titulo": "How telecoms upgrade work sparked US flight chaos",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "fecha": "Sat, 14 Nov 2026 23:11:27 GMT",
+          "id": "ev_3da175542d",
+          "titulo": "Helping teens navigate online news and information",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/helping-teens-navigate-online-news-and-information/",
+          "fuente": "Google",
+          "fecha": "Mon, 16 Nov 2026 08:00:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-15_0007",
-      "fecha": "2026-11-15",
-      "kardashev": "K1",
+      "id": "nd_2026-11-16_0007",
+      "fecha": "2026-11-16",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Albanese valora la cumbre Trump-Xi-Putin pese a reservas europeas",
-        "en": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations"
+        "es": "Childnet CEO destaca la importancia de escuchar voces jóvenes en seguridad online",
+        "en": "Childnet CEO highlights importance of listening to youth voices on online safety"
       },
       "sintesis": {
-        "es": "Australia apoya la histórica cumbre entre Trump, Xi y Putin en China, mientras líderes europeos advierten sobre concesiones en Ucrania.",
-        "en": "Australia endorses the historic Trump-Xi-Putin summit in China, amidst European concerns over concessions on Ukraine."
+        "es": "Childnet CEO afirma que adolescentes abrazan IA de forma responsable y creativa, enfatizando escuchar voces jóvenes en seguridad digital.",
+        "en": "Childnet CEO states teens embrace AI responsibly and creatively, emphasizing youth voice in digital safety."
       },
-      "categoria": "geopolitica",
+      "categoria": "tecnologia",
       "actores": [
-        "Gobierno de Australia"
+        "Childnet"
       ],
       "geo": {
-        "lat": 48.4,
-        "lon": 31.2,
-        "region": "Europa del Este"
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
       },
-      "impacto": 70,
+      "impacto": 50,
       "fuentes": [
-        "ev_4cfcfc2cb8"
+        "ev_45bc9fc083"
       ],
       "imagenes": [
-        "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=140&quality=85&auto=format&fit=max&s=3d2b7ab32c9547d61fbc8e221d4002cf"
+        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_-_13_November_2026_at_.max-600x600.format-webp_aiwylq7.webp"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_4cfcfc2cb8",
-          "titulo": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-          "fuente": "The Guardian",
-          "fecha": "Sun, 15 Nov 2026 06:22:32 GMT",
+          "id": "ev_45bc9fc083",
+          "titulo": "Listening to teens on online safety",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/",
+          "fuente": "Google",
+          "fecha": "Mon, 16 Nov 2026 08:00:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-15_0008",
-      "fecha": "2026-11-15",
-      "kardashev": "K1",
+      "id": "nd_2026-11-16_0008",
+      "fecha": "2026-11-16",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Corte Suprema decidirá si Myanmar cometió genocidio contra el pueblo rohinyá",
-        "en": "World’s top court to rule if Myanmar committed genocide against Rohingya"
+        "es": "NGC 7129: Nueva imagen de formación de estrellas captada por telescopio Webb",
+        "en": "NGC 7129: Star formation imaged by Webb telescope"
       },
       "sintesis": {
-        "es": "La Corte Internacional de Justicia determinará si Myanmar cometió genocidio contra los rohinyás, un caso con profundas implicaciones internacionales.",
-        "en": "The International Court of Justice will decide if Myanmar committed genocide against the Rohingya, a landmark international legal case."
+        "es": "Webb captó jets en la formación estelar en la nebulosa NGC 7129, aportando nueva información astrofísica.",
+        "en": "Webb captured jets in star formation in NGC 7129 nebula, providing new astrophysical insights."
       },
-      "categoria": "geopolitica",
+      "categoria": "tecnologia",
       "actores": [
-        "Corte Internacional de Justicia"
+        "NASA"
       ],
       "geo": {
-        "lat": 31.0,
-        "lon": 34.9,
-        "region": "Oriente Medio"
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
       },
-      "impacto": 80,
+      "impacto": 40,
       "fuentes": [
-        "ev_d221886460"
+        "ev_97bb4c7109"
       ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/c5d561832d1bf74db164791e4e9b6d4e167dfae9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=090ff017f584b6c02d4f46319d31927c"
-      ],
+      "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_d221886460",
-          "titulo": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-          "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
-          "fuente": "The Guardian",
-          "fecha": "Sun, 15 Nov 2026 06:00:05 GMT",
+          "id": "ev_97bb4c7109",
+          "titulo": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+          "fuente": "NASA",
+          "fecha": "Mon, 16 Nov 2026 05:05:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-15_0009",
-      "fecha": "2026-11-15",
-      "kardashev": "K1",
+      "id": "nd_2026-11-16_0009",
+      "fecha": "2026-11-16",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Pronóstico de tormentas severas con granizo gigante y fuertes vientos en Nueva Gales del Sur",
-        "en": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast"
+        "es": "Minerales de tierras raras en Kachin, Myanmar, bajo estricto control",
+        "en": "Rare earth minerals in Kachin, Myanmar, tightly controlled"
       },
       "sintesis": {
-        "es": "Se pronostican tormentas severas con granizo gigante y vientos destructivos para partes de Nueva Gales del Sur, Australia, tras fuertes lluvias recientes.",
-        "en": "Severe thunderstorms with giant hail and destructive winds forecast for parts of New South Wales, Australia, after recent heavy rains."
+        "es": "En Kachin, Myanmar, se encuentran minerales de tierras raras valorados en millones, controlados por actores locales.",
+        "en": "In Kachin, Myanmar, rare earth minerals worth millions are controlled by local actors."
       },
-      "categoria": "clima",
+      "categoria": "recursos",
       "actores": [],
       "geo": {
         "lat": 0.0,
@@ -443,174 +446,679 @@
       },
       "impacto": 60,
       "fuentes": [
-        "ev_16a5feb8f2"
+        "ev_8191851061"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8191851061",
+          "titulo": "Kachin: where Myanmar’s rare earth minerals are in tight grip",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 16 Nov 2026 08:49:51 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0010",
+      "fecha": "2026-11-16",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "El gas del campo Jackdaw comienza a fluir tras aprobación gubernamental",
+        "en": "Gas starts flowing from Jackdaw after government green light"
+      },
+      "sintesis": {
+        "es": "El campo de gas Jackdaw en el Mar del Norte comenzó producción tras aprobación oficial, luego de años de incertidumbre.",
+        "en": "Jackdaw gas field in the North Sea started production after official approval, ending years of uncertainty."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "Gobierno del Reino Unido"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_e0d81b851c"
       ],
       "imagenes": [
-        "https://i.guim.co.uk/img/media/0ff1f7cb491d3cea7030874a5781c374e23a49b6/586_0_3258_2608/master/3258.jpg?width=140&quality=85&auto=format&fit=max&s=db2094a4a83783cc718c1ec3227c1976"
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015f/live/3d2a7950-e190-11f1-b441-2b33b063138f.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_16a5feb8f2",
-          "titulo": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
-          "url": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
-          "fuente": "The Guardian",
-          "fecha": "Sun, 15 Nov 2026 01:52:37 GMT",
+          "id": "ev_e0d81b851c",
+          "titulo": "Gas starts flowing from Jackdaw after government green light",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC · Economía",
+          "fecha": "Mon, 16 Nov 2026 06:24:08 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-15_0010",
-      "fecha": "2026-11-15",
+      "id": "nd_2026-11-16_0011",
+      "fecha": "2026-11-16",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Los proyectos renovables más antiguos de Gran Bretaña podrían generar casi £9 mil millones en 2027",
+        "en": "Great Britain’s oldest renewables projects could rake in nearly £9bn next year"
+      },
+      "sintesis": {
+        "es": "Los proyectos renovables antiguos de Reino Unido podrían recibir millones en subsidios debido a altos precios de mercado, según análisis independiente.",
+        "en": "UK’s oldest renewable projects could receive millions in subsidies due to high market prices, per independent analysis."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "ECU"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_84278cfc00"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/fadc2a753a2ca35482613659f6d980ad0a106850/141_0_3512_2809/master/3512.jpg?width=140&quality=85&auto=format&fit=max&s=7be6fd9946bb49cd90a7d7e79d6cc9fc"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_84278cfc00",
+          "titulo": "Great Britain’s oldest renewables projects could rake in nearly £9bn next year",
+          "url": "https://www.theguardian.com/business/2026/nov/16/great-britain-renewable-energy-subsidies-wind-solar",
+          "fuente": "The Guardian",
+          "fecha": "Mon, 16 Nov 2026 11:56:20 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0012",
+      "fecha": "2026-11-16",
+      "kardashev": "K2",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Boots podrá prescribir Cannabis medicinal en Reino Unido",
+        "en": "Boots to begin prescribing medical cannabis in UK"
+      },
+      "sintesis": {
+        "es": "Farmacia Boots ofrecerá servicio online para prescripción de cannabis medicinal para pacientes con condiciones elegibles en Reino Unido.",
+        "en": "Boots pharmacy will offer online medical cannabis prescription service for eligible patients in the UK."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "Boots"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_bc1881b447"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/c22b5008b1bee2dbdcfc1f9b7dffadfbb94f981e/511_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=203a3d066a3b402c5582ef934ebe428c"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_bc1881b447",
+          "titulo": "Boots to begin prescribing medical cannabis in UK",
+          "url": "https://www.theguardian.com/business/2026/nov/16/boots-pharmacy-begin-prescribing-medical-cannabis-uk",
+          "fuente": "The Guardian",
+          "fecha": "Mon, 16 Nov 2026 10:32:50 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0013",
+      "fecha": "2026-11-16",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Mayor cuidado en inventario navideño debido al aumento en costos de transporte",
+        "en": "Big-ticket holiday items may be harder to find as shipping costs rise"
+      },
+      "sintesis": {
+        "es": "Ejecutivos de transporte reportan que minoristas están siendo cautelosos con inventarios navideños debido a incremento en costos de envío.",
+        "en": "Transportation executives report retailers are cautious with holiday inventories due to rising shipping costs."
+      },
+      "categoria": "cadenas",
+      "actores": [],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_36b1d585e5"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_36b1d585e5",
+          "titulo": "Big-ticket holiday items may be harder to find as shipping costs rise",
+          "url": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
+          "fuente": "CNBC",
+          "fecha": "Mon, 16 Nov 2026 12:00:01 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0014",
+      "fecha": "2026-11-16",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Retrasos en vuelos estadounidenses persisten tras suspensión nacional",
+        "en": "Flight delays linger as airlines recover from ground stop"
+      },
+      "sintesis": {
+        "es": "Después de una suspensión nacional de vuelos de cuatro horas, siguen los retrasos aéreos en EE.UU., aunque la programación mejora gradualmente.",
+        "en": "Following a four-hour national flight stoppage, U.S. flight delays continue, but schedules are gradually improving."
+      },
+      "categoria": "cadenas",
+      "actores": [
+        "FAA"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_099fd9dd7b"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_099fd9dd7b",
+          "titulo": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
+          "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+          "fuente": "CNBC",
+          "fecha": "Mon, 16 Nov 2026 12:57:46 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0015",
+      "fecha": "2026-11-16",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Cinco países de la UE planean centro de deportación migratoria en Ruanda",
+        "en": "Five EU countries expected to announce migrant deportation centre in Rwanda"
+      },
+      "sintesis": {
+        "es": "Alemania, Dinamarca, Austria, Grecia y Países Bajos planean un centro para deportar migrantes rechazados en Ruanda, según informes.",
+        "en": "Germany, Denmark, Austria, Greece, and the Netherlands plan a deportation center for rejected migrants in Rwanda, per reports."
+      },
+      "categoria": "demografia",
+      "actores": [],
+      "geo": {
+        "lat": 51.2,
+        "lon": 10.4,
+        "region": "Europa"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_92c3e81b06"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_92c3e81b06",
+          "titulo": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+          "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Mon, 16 Nov 2026 12:54:44 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0016",
+      "fecha": "2026-11-16",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-16_0004",
+        "nd_2026-11-16_0017",
+        "nd_2026-11-16_0018"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Más de 2,000 migrantes cruzan desde Senegal hacia Islas Canarias",
+        "en": "Over 2,000 people cross over from Senegal into Spain’s Canary Islands"
+      },
+      "sintesis": {
+        "es": "Unas 2,000 personas migrantes arribaron a las Islas Canarias desde Senegal en dos días, según reportes oficiales.",
+        "en": "Around 2,000 migrants arrived in Spain’s Canary Islands from Senegal over two days, according to official reports."
+      },
+      "categoria": "demografia",
+      "actores": [],
+      "geo": {
+        "lat": 40.5,
+        "lon": -3.7,
+        "region": "Europa"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_34fc4ae016"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_34fc4ae016",
+          "titulo": "Over 2,000 people cross over from Senegal into Spain’s Canary Islands",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 16 Nov 2026 08:23:19 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0017",
+      "fecha": "2026-11-16",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-16_0004",
+        "nd_2026-11-16_0016",
+        "nd_2026-11-16_0018"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Récord de llegadas migratorias en las Islas Canarias de España",
+        "en": "Spain records migrant surge in the Canary Islands"
+      },
+      "sintesis": {
+        "es": "Las Islas Canarias experimentaron un fin de semana con récord histórico de llegada masiva de migrantes, con rescates registrados el sábado.",
+        "en": "The Canary Islands experienced a historic weekend surge in migrant arrivals with rescues recorded on Saturday."
+      },
+      "categoria": "demografia",
+      "actores": [
+        "Salvamento Marítimo"
+      ],
+      "geo": {
+        "lat": 40.5,
+        "lon": -3.7,
+        "region": "Europa"
+      },
+      "impacto": 75,
+      "fuentes": [
+        "ev_906e9824b6"
+      ],
+      "imagenes": [
+        "https://s.france24.com/media/display/4da913fa-e121-11f1-aec7-5f54d898a954/w:1024/p:16x9/ES-20261115-130147-130342-CS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_906e9824b6",
+          "titulo": "España registra cifras récord en las Islas Canarias con llegada masiva de migrantes",
+          "url": "https://www.france24.com/es/video/20261115-espa%C3%B1a-registra-cifras-r%C3%A9cord-en-las-islas-canarias-con-llegada-masiva-de-migrantes",
+          "fuente": "France 24",
+          "fecha": "Sun, 15 Nov 2026 19:28:27 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-16_0018",
+      "fecha": "2026-11-16",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-16_0004",
+        "nd_2026-11-16_0016",
+        "nd_2026-11-16_0017"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Ucrania impacta puente de Kerch entre Rusia y Crimea ocupada con dron kamikaze",
+        "en": "Ukraine hits Kerch bridge between Russia and occupied Crimea with kamikaze drone"
+      },
+      "sintesis": {
+        "es": "Un dron kamikaze ucraniano golpeó un arco del puente de Kerch, interrumpiendo temporalmente el tráfico entre Crimea y Rusia, informan medios.",
+        "en": "A Ukrainian kamikaze drone hit an arch of the Kerch bridge, temporarily disrupting traffic between Crimea and Russia, media reports."
+      },
+      "categoria": "geopolitica",
+      "actores": [],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 80,
+      "fuentes": [
+        "ev_dbc17dce40"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/5d9bc8ebc5b7c43c5302bea08323e6024d72f453/860_0_4299_3439/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=7704ea25baced0d528d3fa4575ad26ad"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_dbc17dce40",
+          "titulo": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+          "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
+          "fuente": "The Guardian",
+          "fecha": "Mon, 16 Nov 2026 12:45:09 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0019",
+      "fecha": "2026-11-16",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-16_0020",
+        "nd_2026-11-16_0023"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "600 drones ucranianos atacan zona de Moscú, defensa rusa intercepta la mayoría",
+        "en": "600 Ukrainian drones target Moscow area; Russian defense intercepts most"
+      },
+      "sintesis": {
+        "es": "Rusia interceptó 1,336 drones ucranianos, máximo récord, durante ataques nocturnos hacia la región de Moscú, según autoridades locales.",
+        "en": "Russia intercepted 1,336 Ukrainian drones, a record number, during nighttime attacks near Moscow, per local authorities."
+      },
+      "categoria": "geopolitica",
+      "actores": [],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 80,
+      "fuentes": [
+        "ev_732e03f90f"
+      ],
+      "imagenes": [
+        "https://s.france24.com/media/display/4a95eebc-e19a-11f1-bc6d-29048b396e03/w:1024/p:16x9/000-D7KG3ZQ.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_732e03f90f",
+          "titulo": "En directo: 600 drones ucranianos apuntan a Moscú; Kiev ataca el puente de Crimea e interrumpe el tráfico",
+          "url": "https://www.france24.com/es/europa/20261116-en-directo-600-drones-ucranianos-apuntan-a-mosc%C3%BA-kiev-ataca-el-puente-de-crimea-interrumpe-el-tr%C3%A1fico",
+          "fuente": "France 24",
+          "fecha": "Mon, 16 Nov 2026 12:25:21 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-16_0020",
+      "fecha": "2026-11-16",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-16_0019",
+        "nd_2026-11-16_0023"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Israel sube millones de fotos a plataforma de reconocimiento facial de Amazon para rastrear palestinos",
+        "en": "Israel uploads millions of photos to Amazon facial recognition to track Palestinians"
+      },
+      "sintesis": {
+        "es": "El ejército israelí subió 3.5 millones de fotos a la nube de Amazon para usar tecnología de reconocimiento facial en imágenes de palestinos.",
+        "en": "The Israeli military uploaded 3.5 million photos to Amazon's cloud to use facial recognition technology on images of Palestinians."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Amazon"
+      ],
+      "geo": {
+        "lat": 31.0,
+        "lon": 34.9,
+        "region": "Oriente Medio"
+      },
+      "impacto": 85,
+      "fuentes": [
+        "ev_c14eafd622"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/bc01b369b562e3e2bf256cd5482bab9f368d5175/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=d4fd5266aa44369a3472db45234f5224"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c14eafd622",
+          "titulo": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
+          "url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+          "fuente": "The Guardian",
+          "fecha": "Mon, 16 Nov 2026 11:00:56 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0021",
+      "fecha": "2026-11-16",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Sadiq Khan insta al Norte Global a asumir responsabilidad climática en COP31",
+        "en": "Sadiq Khan urges Global North to take climate responsibility at COP31"
+      },
+      "sintesis": {
+        "es": "En la COP31, Sadiq Khan pidió a los países ricos apoyar al Sur Global que sufre más la crisis climática.",
+        "en": "At COP31, Sadiq Khan called on wealthy nations to support the Global South disproportionately affected by climate change."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "COP31"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_b56825045c"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_b56825045c",
+          "titulo": "Sadiq Khan: Global North must take responsibility for climate change",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/sadiq-khan-global-north-must-take-responsibility-for-climate-change?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 16 Nov 2026 09:52:11 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0022",
+      "fecha": "2026-11-16",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Países árabes y la UE condenan ataques israelíes al hospital Nasser en Gaza",
-        "en": "Gaza: Arab countries and the European Union condemn Israeli attacks on Nasser hospital"
+        "es": "Rusia busca dividir Europa y frena negociaciones sobre Ucrania",
+        "en": "Russia seeks to divide Europe and stalls Ukraine talks"
       },
       "sintesis": {
-        "es": "Países árabes y la Unión Europea condenaron ataques israelíes al hospital Nasser en Gaza, expresando preocupación por la población civil y la ayuda humanitaria.",
-        "en": "Arab countries and the EU condemned Israeli attacks on Nasser hospital in Gaza, expressing concern for civilians and humanitarian access."
+        "es": "Rusia propone pactos de no agresión con países individualmente, buscando debilitar la defensa colectiva en Europa, denuncian informes.",
+        "en": "Russia proposes non-aggression pacts with individual countries aiming to weaken collective defense in Europe, reports say."
       },
       "categoria": "geopolitica",
       "actores": [],
       "geo": {
-        "lat": 50.8,
-        "lon": 4.4,
-        "region": "Europa"
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
       },
-      "impacto": 80,
+      "impacto": 85,
       "fuentes": [
-        "ev_2a3592cbab"
+        "ev_8637abf2a2"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8637abf2a2",
+          "titulo": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
+          "url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Mon, 16 Nov 2026 10:03:11 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0023",
+      "fecha": "2026-11-16",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-16_0019",
+        "nd_2026-11-16_0020"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "IPO de Anthropic desafía a inversores a evaluar riesgos no asegurables de IA",
+        "en": "Anthropic's IPO forces investors to assess uninsurable AI risks"
+      },
+      "sintesis": {
+        "es": "La salida a bolsa de Anthropic hace que inversores consideren riesgos legales catastróficos de IA que aseguradoras evitan.",
+        "en": "Anthropic IPO makes investors consider catastrophic AI legal risks avoided by insurers."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Anthropic"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_fdaa697b9d"
       ],
       "imagenes": [
-        "https://s.france24.com/media/display/00dc7a72-e08a-11f1-b9aa-3f371022a770/w:1024/p:16x9/ES-20261114-130852-131041-CS-01.jpg"
+        "https://images.mktw.net/im-67721526"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_2a3592cbab",
-          "titulo": "Gaza: países árabes y la Unión Europea condenan ataques israelíes al hospital Nasser",
-          "url": "https://www.france24.com/es/video/20261115-gaza-pa%C3%ADses-%C3%A1rabes-y-la-uni%C3%B3n-europea-condenan-ataques-israel%C3%ADes-al-hospital-nasser",
-          "fuente": "France 24",
-          "fecha": "Sun, 15 Nov 2026 00:34:22 GMT",
-          "idioma": "es"
+          "id": "ev_fdaa697b9d",
+          "titulo": "Anthropic’s IPO is forcing investors to assess uninsurable risks they’ve never encountered before",
+          "url": "https://www.marketwatch.com/story/anthropics-ipo-is-forcing-investors-to-assess-uninsurable-risks-theyve-never-encountered-before-dea85fbf?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Mon, 16 Nov 2026 12:33:00 GMT",
+          "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-15_0011",
-      "fecha": "2026-11-15",
+      "id": "nd_2026-11-16_0024",
+      "fecha": "2026-11-16",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Jefa del FMI alerta sobre economía global vulnerable y financiamiento circular de IA supera $1 billón",
+        "en": "IMF chief warns on global economy and AI circular financing hits $1 trillion"
+      },
+      "sintesis": {
+        "es": "Kristalina Georgieva advierte sobre economía global frágil mientras financiamiento circular en IA supera $1 billón, con dos tercios en deuda.",
+        "en": "Kristalina Georgieva warns on fragile global economy as AI circular financing surpasses $1 trillion, two-thirds debt."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "FMI"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 75,
+      "fuentes": [
+        "ev_70495720a9"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_70495720a9",
+          "titulo": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
+          "url": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
+          "fuente": "CNBC",
+          "fecha": "Mon, 16 Nov 2026 09:14:46 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0025",
+      "fecha": "2026-11-16",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "El Banco Central Europeo pide supervisión inteligente para bancos pequeños",
+        "en": "ECB calls for smart supervision of small banks"
+      },
+      "sintesis": {
+        "es": "El BCE destacó la importancia de supervisar inteligentemente a los bancos pequeños para fortalecer el sistema financiero.",
+        "en": "ECB emphasized the importance of smart supervision of small banks to strengthen the financial system."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Banco Central Europeo"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_4517bfcefd"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_4517bfcefd",
+          "titulo": "Frank Elderson: Smart supervision for small banks",
+          "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+          "fuente": "BCE",
+          "fecha": "Mon, 16 Nov 2026 14:00:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-16_0026",
+      "fecha": "2026-11-16",
       "kardashev": "K0",
       "relaciones": []
     }
   ],
-  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-15\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\"]\nlugares: [\"Atlántico Norte\", \"Australia\", \"China\", \"Escocia\", \"Estados Unidos\", \"Europa\", \"Faslane\", \"Gaza\", \"Golfo de México\", \"Karak\", \"Mar Caribe\", \"Motherwell\", \"Myanmar\", \"Nueva Gales del Sur\", \"Sudán\", \"Texas\"]\npaises: [\"Australia\", \"China\", \"Estados Unidos\", \"Jordania\", \"Myanmar\", \"Palestina\", \"Reino Unido\", \"Sudán\", \"Unión Europea\"]\nentidades: [\"Corte Internacional de Justicia\", \"FAA\", \"Gobierno de Australia\", \"HMS Vengeance\", \"Liberty Steel Dalzell\", \"NOAA · Centro Nacional de Huracanes\", \"Nvidia\", \"SpaceX\", \"Tribunal de Seguridad de Jordania\"]\ntemas: [\"acero\", \"ataques con drones\", \"ciclones tropicales\", \"cohetes reutilizables\", \"conflicto Israel-Palestina\", \"contratos\", \"cumbre internacional\", \"derecho internacional humanitario\", \"derechos humanos\", \"despliegue militar\", \"diplomacia\", \"energía\", \"espacio\", \"fenómenos extremos\", \"genocidio\", \"industria militar\", \"infraestructura\", \"innovación tecnológica\", \"inteligencia artificial\", \"justicia\", \"liderazgo corporativo\", \"meteorología\", \"submarino nuclear\", \"terrorismo\", \"transportes\"]\nbucles_activos: [\"Armamentización de la Cadena de Suministro\"]\ncorte: \"2026-11-15T12:19:26.787970+00:00\"\ninicio_ventana: \"2026-11-14T12:19:26.787970+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-15\n\n## Resumen del día\n\nLa COP31 avanza con negociaciones sobre cambio climático y energía, mientras aumentan las tensiones geopolíticas con cumbre Trump-Xi-Putin y conflictos en Gaza y Ucrania.\nSpaceX logra avance tecnológico con captura del cohete Starship; Nvidia enfrenta crisis y escrutinio por escándalo de espionaje.\nAtaques con drones provocan apagones en Sudán, afectando infraestructura crítica.\nNo se esperan ciclones tropicales en el Atlántico ni el Caribe en los próximos 7 días, según NOAA.\nMovimientos migratorios continúan con tragedias en el Mediterráneo y Canarias, y crisis humanitaria en Gaza empeora por lluvias e inundaciones.\n\nVentana de 24 horas hasta 2026-11-15T12:19:26.787970+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar imf, iom, unhcr, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_1922f3f40d\"></a>\n1. No se esperan ciclones tropicales en el Atlántico en próximos 7 días — El Centro Nacional de Huracanes de la NOAA informó que no se esperan ciclones tropicales en el Atlántico Norte, Mar Caribe y Golfo de México durante los próximos siete días. — [NOAA · Centro Nacional de Huracanes, Sun, 15 Nov 2026 11:18:12 GMT](https://www.nhc.noaa.gov/gtwo.php?basin=atlc) · oficial.\n\n<a id=\"ev_16a5feb8f2\"></a>\n2. Pronóstico de tormentas severas con granizo gigante y fuertes vientos en Nueva Gales del Sur — Se pronostican tormentas severas con granizo gigante y vientos destructivos para partes de Nueva Gales del Sur, Australia, tras fuertes lluvias recientes. — [The Guardian, Sun, 15 Nov 2026 01:52:37 GMT](https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_f77c487037\"></a>\n1. SpaceX logra histórica captura de cohete Starship — SpaceX capturó por primera vez la parte superior del cohete Starship en su regreso a Tierra, un avance hacia la reutilización rápida de cohetes. — [MarketWatch, Sun, 15 Nov 2026 00:33:00 GMT](https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories) · medio.\n\n<a id=\"ev_e6801c4ed2\"></a>\n2. Nvidia excluida de la agenda de Trump y Xi por crisis de liderazgo — Nvidia enfrenta una crisis tras la salida de Jensen Huang, afectando las relaciones en inteligencia artificial antes de la cumbre Trump-Xi-Putin. — [France 24, Sat, 14 Nov 2026 18:51:24 GMT](https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261114-ee-uu-excluye-a-nvidia-de-la-agenda-de-trump-y-xi-mientras-empleados-presionan-por-el-regreso-de-jensen-huang) · medio.\n\n<a id=\"ev_5ff0336019\"></a>\n3. Actualización tecnológica provoca caos en vuelos de EE.UU. — Funcionarios indican que una actualización rutinaria causó la interrupción masiva del tráfico aéreo en Estados Unidos, no un ciberataque. — [BBC News, Sat, 14 Nov 2026 23:11:27 GMT](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss) · medio.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_5e586d7417\"></a>\n1. Proveedor de acero escocés en problemas financieros pone en duda contratos de la Marina Real — La planta Liberty Steel Dalzell en Escocia enfrenta dificultades financieras, preocupando la producción de acero para tres nuevos buques de la Marina Real. — [The Guardian, Sun, 15 Nov 2026 10:00:10 GMT](https://www.theguardian.com/business/2026/nov/15/liberty-steel-dalzell-scotland-royal-navy-contracts-warships) · medio.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_a94eb2e972\"></a>\n1. Ataques con drones dejan ciudades de Sudán en apagones — Estaciones eléctricas de Sudán son atacadas con drones, causando cortes de energía generalizados en varias ciudades. — [Al Jazeera, Sun, 15 Nov 2026 09:59:37 +0000](https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss) · medio.\n\n## 5. Geopolítica\n\n<a id=\"ev_6cac399f5c\"></a>\n1. Submarino nuclear Trident concluye despliegue submarino récord — El submarino HMS Vengeance completó un despliegue submarino de 217 días, retornando a la base naval de Faslane en Escocia y generando dudas sobre el mantenimiento de la flota y el impacto en la tripulación. — [The Guardian, Sun, 15 Nov 2026 12:09:32 GMT](https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour) · medio.\n\n<a id=\"ev_bf9efb8882\"></a>\n2. Jordania condena a muerte a tres hombres por ataque letal a iglesia — Tribunal de Seguridad de Jordania condenó a muerte a tres hombres por un ataque en octubre contra una iglesia greco-ortodoxa en Karak, que causó nueve muertos y decenas de heridos. — [France 24, Sun, 15 Nov 2026 12:08:43 GMT](https://www.france24.com/es/medio-oriente/20261115-jordania-condena-a-muerte-a-tres-hombres-acusados-del-letal-ataque-contra-una-iglesia) · medio.\n\n<a id=\"ev_4cfcfc2cb8\"></a>\n3. Albanese valora la cumbre Trump-Xi-Putin pese a reservas europeas — Australia apoya la histórica cumbre entre Trump, Xi y Putin en China, mientras líderes europeos advierten sobre concesiones en Ucrania. — [The Guardian, Sun, 15 Nov 2026 06:22:32 GMT](https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations) · medio.\n\n<a id=\"ev_d221886460\"></a>\n4. Corte Suprema decidirá si Myanmar cometió genocidio contra el pueblo rohinyá — La Corte Internacional de Justicia determinará si Myanmar cometió genocidio contra los rohinyás, un caso con profundas implicaciones internacionales. — [The Guardian, Sun, 15 Nov 2026 06:00:05 GMT](https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj) · medio.\n\n<a id=\"ev_2a3592cbab\"></a>\n5. Países árabes y la UE condenan ataques israelíes al hospital Nasser en Gaza — Países árabes y la Unión Europea condenaron ataques israelíes al hospital Nasser en Gaza, expresando preocupación por la población civil y la ayuda humanitaria. — [France 24, Sun, 15 Nov 2026 00:34:22 GMT](https://www.france24.com/es/video/20261115-gaza-pa%C3%ADses-%C3%A1rabes-y-la-uni%C3%B3n-europea-condenan-ataques-israel%C3%ADes-al-hospital-nasser) · medio.\n\n## 6. Finanzas y Seguros\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 7. Demografía y Migraciones\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Con movimiento — Los ataques con drones en Sudán que causaron apagones evidencian el uso geopolítico de la infraestructura crítica (cadenas) en un contexto de conflictos regionales. [ev_a94eb2e972](#ev_a94eb2e972) [ev_2a3592cbab](#ev_2a3592cbab)\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Con movimiento — La crisis alrededor de Nvidia y sus vínculos con China, junto con acusaciones y demandas, reflejan tensiones en la gobernanza de tecnología avanzada y su implicación en relaciones geopolíticas y cadenas de suministro tecnológicas. [ev_e6801c4ed2](#ev_e6801c4ed2) [ev_d221886460](#ev_d221886460) [ev_1922f3f40d](#ev_1922f3f40d)\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Con movimiento — El despliegue del submarino nuclear HMS Vengeance y las preocupaciones financieras sobre proveedor de acero para Marina Real, junto a la crisis de Nvidia y ataques con drones en Sudán, muestran la creciente complejidad y militarización de cadenas estratégicas de suministros tecnológicas y materiales. [ev_6cac399f5c](#ev_6cac399f5c) [ev_5e586d7417](#ev_5e586d7417) [ev_e6801c4ed2](#ev_e6801c4ed2) [ev_a94eb2e972](#ev_a94eb2e972)\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Investigación legal y política en curso sobre Nvidia y su CEO Jensen Huang podría afectar la industria de IA y relaciones geopolíticas. [ev_e6801c4ed2](#ev_e6801c4ed2) [ev_d221886460](#ev_d221886460) [ev_1922f3f40d](#ev_1922f3f40d)\n- Negociaciones de paz entre Ucrania, Rusia y EE.UU. continúan inciertas, con propuesta de canje de prisioneros y debates sobre concesiones territoriales. [ev_6cac399f5c](#ev_6cac399f5c) [ev_d221886460](#ev_d221886460)\n- La COP31 en Turquía sigue siendo foco de debate sobre financiamiento climático, metas de reducción y respuesta global a la crisis climática. [ev_16a5feb8f2](#ev_16a5feb8f2) [ev_d221886460](#ev_d221886460)\n- Movimientos migratorios y crisis humanitarias en Gaza y Mediterráneo siguen ejerciendo presión sobre recursos y respuestas internacionales. [ev_bf9efb8882](#ev_bf9efb8882) [ev_2a3592cbab](#ev_2a3592cbab)\n- SpaceX avanza en reutilización de cohetes, lo que puede influir en el futuro de la exploración espacial y la tecnología aeronáutica. [ev_f77c487037](#ev_f77c487037)\n\n## Correcciones\n\n- 2026-11-14: Corrección en reporte previo: se confirma que Nvidia está bajo investigación legal y enfrenta presiones políticas, no solo especulaciones. [France 24, Sat, 14 Nov 2026 18:51:24 GMT](https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261114-ee-uu-excluye-a-nvidia-de-la-agenda-de-trump-y-xi-mientras-empleados-presionan-por-el-regreso-de-jensen-huang)\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-13T17:05:34+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-11-13T15:00:00+00:00 |\n| NASA | oficial | Disponible | 0 | 2026-11-13T16:39:33+00:00 |\n| CISA | oficial | Disponible | 0 | 2026-11-13T12:00:00+00:00 |\n| EIA | oficial | Disponible | 0 | 2026-11-13T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-11-13T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-13T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-13T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 0 | 2026-11-13T21:15:00+00:00 |\n| BCE | oficial | Disponible | 0 | 2026-11-13T07:20:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-11-14T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 0 | 2026-11-13T20:30:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-11-12T17:00:03+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-11-12T12:00:07+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-11-12T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-16T23:18:12+00:00 |\n| NASA · Comunicados | oficial | Disponible | 0 | 2026-11-13T16:39:33+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-11-05T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-11-10T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-11-13T09:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-12T08:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-05T15:27:25+00:00 |\n| BBC News | medio | Disponible | 18 | 2026-11-15T11:06:32+00:00 |\n| BBC Mundo | medio | Disponible | 10 | 2026-11-15T12:04:15+00:00 |\n| CNN | medio | Disponible | 33 | 2026-11-15T11:30:16.612000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-15T12:08:43+00:00 |\n| The Guardian | medio | Disponible | 23 | 2026-11-15T12:09:32+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-15T11:53:39+00:00 |\n| El País | medio | Disponible | 11 | 2026-11-15T04:40:00+00:00 |\n| CNBC | medio | Disponible | 14 | 2026-11-15T08:34:46+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-15T00:33:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 6 | 2026-11-15T12:00:14+00:00 |\n| BBC · Tecnología | medio | Disponible | 1 | 2026-11-14T18:28:06+00:00 |\n| BBC · Economía | medio | Disponible | 1 | 2026-11-15T00:01:07+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-15\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\"]\nlugares: [\"Atlántico Norte\", \"Australia\", \"China\", \"Escocia\", \"Estados Unidos\", \"Europa\", \"Faslane\", \"Gaza\", \"Golfo de México\", \"Karak\", \"Mar Caribe\", \"Motherwell\", \"Myanmar\", \"Nueva Gales del Sur\", \"Sudán\", \"Texas\"]\npaises: [\"Australia\", \"China\", \"Estados Unidos\", \"Jordania\", \"Myanmar\", \"Palestina\", \"Reino Unido\", \"Sudán\", \"Unión Europea\"]\nentidades: [\"Corte Internacional de Justicia\", \"FAA\", \"Gobierno de Australia\", \"HMS Vengeance\", \"Liberty Steel Dalzell\", \"NOAA · Centro Nacional de Huracanes\", \"Nvidia\", \"SpaceX\", \"Tribunal de Seguridad de Jordania\"]\ntemas: [\"acero\", \"ataques con drones\", \"ciclones tropicales\", \"cohetes reutilizables\", \"conflicto Israel-Palestina\", \"contratos\", \"cumbre internacional\", \"derecho internacional humanitario\", \"derechos humanos\", \"despliegue militar\", \"diplomacia\", \"energía\", \"espacio\", \"fenómenos extremos\", \"genocidio\", \"industria militar\", \"infraestructura\", \"innovación tecnológica\", \"inteligencia artificial\", \"justicia\", \"liderazgo corporativo\", \"meteorología\", \"submarino nuclear\", \"terrorismo\", \"transportes\"]\nbucles_activos: [\"Armamentización de la Cadena de Suministro\"]\ncorte: \"2026-11-15T12:19:26.787970+00:00\"\ninicio_ventana: \"2026-11-14T12:19:26.787970+00:00\"\nestado: \"completo\"\n```\n",
-  "nexo": {
-    "resumen": [
-      "La COP31 avanza con negociaciones sobre cambio climático y energía, mientras aumentan las tensiones geopolíticas con cumbre Trump-Xi-Putin y conflictos en Gaza y Ucrania.",
-      "SpaceX logra avance tecnológico con captura del cohete Starship; Nvidia enfrenta crisis y escrutinio por escándalo de espionaje.",
-      "Ataques con drones provocan apagones en Sudán, afectando infraestructura crítica.",
-      "No se esperan ciclones tropicales en el Atlántico ni el Caribe en los próximos 7 días, según NOAA.",
-      "Movimientos migratorios continúan con tragedias en el Mediterráneo y Canarias, y crisis humanitaria en Gaza empeora por lluvias e inundaciones."
-    ],
-    "flujos": {
-      "Presión Climática": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      },
-      "Palanca Geopolítica": {
-        "estado": "Con movimiento",
-        "texto": "Los ataques con drones en Sudán que causaron apagones evidencian el uso geopolítico de la infraestructura crítica (cadenas) en un contexto de conflictos regionales.",
-        "hechos": [
-          "ev_a94eb2e972",
-          "ev_2a3592cbab"
-        ]
-      },
-      "Flujos de Recursos": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      },
-      "Flujos Cibernéticos y de Datos": {
-        "estado": "Con movimiento",
-        "texto": "La crisis alrededor de Nvidia y sus vínculos con China, junto con acusaciones y demandas, reflejan tensiones en la gobernanza de tecnología avanzada y su implicación en relaciones geopolíticas y cadenas de suministro tecnológicas.",
-        "hechos": [
-          "ev_e6801c4ed2",
-          "ev_d221886460",
-          "ev_1922f3f40d"
-        ]
-      }
-    },
-    "bucles": {
-      "Escasez de Recursos": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      },
-      "Armamentización de la Cadena de Suministro": {
-        "estado": "Con movimiento",
-        "texto": "El despliegue del submarino nuclear HMS Vengeance y las preocupaciones financieras sobre proveedor de acero para Marina Real, junto a la crisis de Nvidia y ataques con drones en Sudán, muestran la creciente complejidad y militarización de cadenas estratégicas de suministros tecnológicas y materiales.",
-        "hechos": [
-          "ev_6cac399f5c",
-          "ev_5e586d7417",
-          "ev_e6801c4ed2",
-          "ev_a94eb2e972"
-        ]
-      },
-      "Impacto Societal y Financiero": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      }
-    },
-    "senales": [
-      {
-        "texto": "Investigación legal y política en curso sobre Nvidia y su CEO Jensen Huang podría afectar la industria de IA y relaciones geopolíticas.",
-        "hechos": [
-          "ev_e6801c4ed2",
-          "ev_d221886460",
-          "ev_1922f3f40d"
-        ]
-      },
-      {
-        "texto": "Negociaciones de paz entre Ucrania, Rusia y EE.UU. continúan inciertas, con propuesta de canje de prisioneros y debates sobre concesiones territoriales.",
-        "hechos": [
-          "ev_6cac399f5c",
-          "ev_d221886460"
-        ]
-      },
-      {
-        "texto": "La COP31 en Turquía sigue siendo foco de debate sobre financiamiento climático, metas de reducción y respuesta global a la crisis climática.",
-        "hechos": [
-          "ev_16a5feb8f2",
-          "ev_d221886460"
-        ]
-      },
-      {
-        "texto": "Movimientos migratorios y crisis humanitarias en Gaza y Mediterráneo siguen ejerciendo presión sobre recursos y respuestas internacionales.",
-        "hechos": [
-          "ev_bf9efb8882",
-          "ev_2a3592cbab"
-        ]
-      },
-      {
-        "texto": "SpaceX avanza en reutilización de cohetes, lo que puede influir en el futuro de la exploración espacial y la tecnología aeronáutica.",
-        "hechos": [
-          "ev_f77c487037"
-        ]
-      }
-    ],
-    "correcciones": [
-      {
-        "fecha_reporte": "2026-11-14",
-        "texto": "Corrección en reporte previo: se confirma que Nvidia está bajo investigación legal y enfrenta presiones políticas, no solo especulaciones.",
-        "hechos": [
-          "ev_e6801c4ed2"
-        ]
-      }
-    ]
-  },
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-16\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Aberdeen\", \"Alemania\", \"California\", \"Crimea\", \"Delaware\", \"Dera Ghazi Khan\", \"Dinamarca\", \"Estados Unidos\", \"Europa\", \"Gaza\", \"Gran Bretaña\", \"Islas Canarias\", \"Israel\", \"Kachin\", \"Kerch\", \"Malawi\", \"Mar del Norte\", \"Moscú\", \"NGC 7129\", \"Newark\", \"Países Bajos\", \"Reino Unido\", \"Ruanda\", \"Turquía\"]\npaises: [\"Alemania\", \"Austria\", \"Dinamarca\", \"España\", \"Estados Unidos\", \"Europa\", \"Grecia\", \"Israel\", \"Malawi\", \"Myanmar\", \"Pakistán\", \"Países Bajos\", \"Reino Unido\", \"Rusia\", \"Senegal\", \"Ucrania\"]\nentidades: [\"Amazon\", \"Anthropic\", \"Banco Central Europeo\", \"Boots\", \"COP31\", \"Childnet\", \"ECU\", \"FAA\", \"FMI\", \"Gobierno del Reino Unido\", \"Internet Matters\", \"LVMH\", \"NASA\", \"ONU\", \"OpenAI\", \"Salvamento Marítimo\", \"Servicio Meteorológico Nacional\", \"Servicio Meteorológico Nacional de EE.UU.\", \"Unesco\"]\ntemas: [\"COP31\", \"Europa\", \"Wadden Sea\", \"alfabetización mediática\", \"astronomía\", \"ataques\", \"aviación\", \"bancos\", \"cambio climático\", \"cannabis medicinal\", \"cierre de muelles\", \"conflicto\", \"costos de envío\", \"deportaciones\", \"drones\", \"economía global\", \"educación inclusiva\", \"energía renovable\", \"equidad climática\", \"finanzas\", \"gas natural\", \"geopolítica\", \"infraestructura\", \"inteligencia artificial\", \"inundaciones\", \"logística\", \"migración\", \"minerales críticos\", \"monzones\", \"olas grandes\", \"patrimonio natural\", \"periodismo\", \"producción energética\", \"riesgos financieros\", \"salud\", \"seguridad digital\", \"subsidios\", \"tecnología de vigilancia\", \"telescopio Webb\", \"tierras raras\", \"tormentas severas\", \"tornado\", \"transición energética\"]\nbucles_activos: []\ncorte: \"2026-11-16T13:11:59.269387+00:00\"\ninicio_ventana: \"2026-11-15T13:11:59.269387+00:00\"\nestado: \"análisis pendiente\"\n---\n\n# Pulso Global — 2026-11-16\n\n## Resumen del día\n\nanálisis pendiente\n\nVentana de 24 horas hasta 2026-11-16T13:11:59.269387+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar imf, iom, unhcr, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_03cce1176c\"></a>\n1. Borrador de acuerdo climático COP31 pide acelerar alejamiento de combustibles fósiles — Un borrador de la COP31 insta a acelerar la transición energética para enfrentar la crisis climática amid una época de múltiples crisis globales, según declaraciones oficiales. — [The Guardian · Medio ambiente, Mon, 16 Nov 2026 12:51:33 GMT](https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates) · medio.\n\n<a id=\"ev_2a0fbf946a\"></a>\n2. Inundaciones en Pakistán con agravante climático impactan a familias — Monzones intensos, agravados por el cambio climático, provocaron graves inundaciones en Pakistán afectando a las familias en diversas provincias, según declaraciones oficiales. — [The Guardian, Mon, 16 Nov 2026 12:00:59 GMT](https://www.theguardian.com/environment/ng-interactive/2026/nov/16/when-the-sun-came-out-it-felt-like-it-opened-a-scar-this-is-climate-breakdown) · medio.\n\n<a id=\"ev_4429446208\"></a>\n3. Tornado inusual en Delaware golpea vecindario en noviembre — Un tornado EF1 causó daños materiales en un área residencial de Delaware, siendo solo el segundo tornado registrado en noviembre desde 1950, según el Servicio Meteorológico Nacional de EE. UU. — [The Guardian, Mon, 16 Nov 2026 09:27:06 GMT](https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado) · medio.\n\n<a id=\"ev_c56f012650\"></a>\n4. Grandes olas afectan la costa de California causando cierres — Grandes olas de hasta 11 metros provocaron inundaciones y cierres de muelles en California, acompañadas de advertencias de corrientes peligrosas, según el Servicio Meteorológico Nacional. — [The Guardian · Medio ambiente, Mon, 16 Nov 2026 01:00:42 GMT](https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed) · medio.\n\n<a id=\"ev_ae6a8f82e8\"></a>\n5. La costa de Wadden en Europa, patrimonio mundial natural bajo presión — El Wadden Sea, patrimonio de la Unesco, sufre impactos negativos por actividades extractivas, turismo y pesca, según análisis recientes. — [The Guardian · Medio ambiente, Mon, 16 Nov 2026 05:00:34 GMT](https://www.theguardian.com/environment/2026/nov/16/europes-wadden-sea-is-a-natural-wonder-so-why-might-it-join-the-world-heritage-in-danger-list) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_819523257f\"></a>\n1. LVMH y OpenAI anuncian alianza estratégica para apoyar el periodismo con IA — La división de medios de LVMH y OpenAI se asocian para promover el periodismo mediante inteligencia artificial y mejorar la accesibilidad de publicaciones. — [OpenAI, Mon, 16 Nov 2026 09:00:00 GMT](https://openai.com/index/lvmh-media-division-partnership) · oficial.\n\n<a id=\"ev_8e9ac638d1\"></a>\n2. Herramienta de aprendizaje en IA ayuda a estudiantes ciegos en Malaui — Una herramienta de inteligencia artificial desarrollada por un innovador malauí está siendo usada para apoyar el aprendizaje de estudiantes con discapacidad visual. — [Google, Mon, 16 Nov 2026 08:00:00 +0000](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/) · oficial.\n\n<a id=\"ev_3da175542d\"></a>\n3. Internet Matters CEO enfatiza necesidad de alfabetización mediática para adolescentes en Reino Unido — CEO de Internet Matters subraya la importancia del apoyo en alfabetización mediática para jóvenes británicos que consumen noticias online y usan IA. — [Google, Mon, 16 Nov 2026 08:00:00 +0000](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/helping-teens-navigate-online-news-and-information/) · oficial.\n\n<a id=\"ev_45bc9fc083\"></a>\n4. Childnet CEO destaca la importancia de escuchar voces jóvenes en seguridad online — Childnet CEO afirma que adolescentes abrazan IA de forma responsable y creativa, enfatizando escuchar voces jóvenes en seguridad digital. — [Google, Mon, 16 Nov 2026 08:00:00 +0000](https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/listening-to-teens-on-online-safety/) · oficial.\n\n<a id=\"ev_97bb4c7109\"></a>\n5. NGC 7129: Nueva imagen de formación de estrellas captada por telescopio Webb — Webb captó jets en la formación estelar en la nebulosa NGC 7129, aportando nueva información astrofísica. — [NASA, Mon, 16 Nov 2026 05:05:00 +0000](https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/) · oficial.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_8191851061\"></a>\n1. Minerales de tierras raras en Kachin, Myanmar, bajo estricto control — En Kachin, Myanmar, se encuentran minerales de tierras raras valorados en millones, controlados por actores locales. — [Al Jazeera, Mon, 16 Nov 2026 08:49:51 +0000](https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss) · medio.\n\n<a id=\"ev_e0d81b851c\"></a>\n2. El gas del campo Jackdaw comienza a fluir tras aprobación gubernamental — El campo de gas Jackdaw en el Mar del Norte comenzó producción tras aprobación oficial, luego de años de incertidumbre. — [BBC · Economía, Mon, 16 Nov 2026 06:24:08 GMT](https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_84278cfc00\"></a>\n3. Los proyectos renovables más antiguos de Gran Bretaña podrían generar casi £9 mil millones en 2027 — Los proyectos renovables antiguos de Reino Unido podrían recibir millones en subsidios debido a altos precios de mercado, según análisis independiente. — [The Guardian, Mon, 16 Nov 2026 11:56:20 GMT](https://www.theguardian.com/business/2026/nov/16/great-britain-renewable-energy-subsidies-wind-solar) · medio.\n\n<a id=\"ev_bc1881b447\"></a>\n4. Boots podrá prescribir Cannabis medicinal en Reino Unido — Farmacia Boots ofrecerá servicio online para prescripción de cannabis medicinal para pacientes con condiciones elegibles en Reino Unido. — [The Guardian, Mon, 16 Nov 2026 10:32:50 GMT](https://www.theguardian.com/business/2026/nov/16/boots-pharmacy-begin-prescribing-medical-cannabis-uk) · medio.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_36b1d585e5\"></a>\n1. Mayor cuidado en inventario navideño debido al aumento en costos de transporte — Ejecutivos de transporte reportan que minoristas están siendo cautelosos con inventarios navideños debido a incremento en costos de envío. — [CNBC, Mon, 16 Nov 2026 12:00:01 GMT](https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html) · medio.\n\n<a id=\"ev_099fd9dd7b\"></a>\n2. Retrasos en vuelos estadounidenses persisten tras suspensión nacional — Después de una suspensión nacional de vuelos de cuatro horas, siguen los retrasos aéreos en EE.UU., aunque la programación mejora gradualmente. — [CNBC, Mon, 16 Nov 2026 12:57:46 GMT](https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html) · medio.\n\n## 5. Geopolítica\n\n<a id=\"ev_dbc17dce40\"></a>\n1. Ucrania impacta puente de Kerch entre Rusia y Crimea ocupada con dron kamikaze — Un dron kamikaze ucraniano golpeó un arco del puente de Kerch, interrumpiendo temporalmente el tráfico entre Crimea y Rusia, informan medios. — [The Guardian, Mon, 16 Nov 2026 12:45:09 GMT](https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea) · medio.\n\n<a id=\"ev_732e03f90f\"></a>\n2. 600 drones ucranianos atacan zona de Moscú, defensa rusa intercepta la mayoría — Rusia interceptó 1,336 drones ucranianos, máximo récord, durante ataques nocturnos hacia la región de Moscú, según autoridades locales. — [France 24, Mon, 16 Nov 2026 12:25:21 GMT](https://www.france24.com/es/europa/20261116-en-directo-600-drones-ucranianos-apuntan-a-mosc%C3%BA-kiev-ataca-el-puente-de-crimea-interrumpe-el-tr%C3%A1fico) · medio.\n\n<a id=\"ev_c14eafd622\"></a>\n3. Israel sube millones de fotos a plataforma de reconocimiento facial de Amazon para rastrear palestinos — El ejército israelí subió 3.5 millones de fotos a la nube de Amazon para usar tecnología de reconocimiento facial en imágenes de palestinos. — [The Guardian, Mon, 16 Nov 2026 11:00:56 GMT](https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians) · medio.\n\n<a id=\"ev_b56825045c\"></a>\n4. Sadiq Khan insta al Norte Global a asumir responsabilidad climática en COP31 — En la COP31, Sadiq Khan pidió a los países ricos apoyar al Sur Global que sufre más la crisis climática. — [Al Jazeera, Mon, 16 Nov 2026 09:52:11 +0000](https://www.aljazeera.com/video/newsfeed/2026/11/16/sadiq-khan-global-north-must-take-responsibility-for-climate-change?traffic_source=rss) · medio.\n\n<a id=\"ev_8637abf2a2\"></a>\n5. Rusia busca dividir Europa y frena negociaciones sobre Ucrania — Rusia propone pactos de no agresión con países individualmente, buscando debilitar la defensa colectiva en Europa, denuncian informes. — [Al Jazeera, Mon, 16 Nov 2026 10:03:11 +0000](https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_fdaa697b9d\"></a>\n1. IPO de Anthropic desafía a inversores a evaluar riesgos no asegurables de IA — La salida a bolsa de Anthropic hace que inversores consideren riesgos legales catastróficos de IA que aseguradoras evitan. — [MarketWatch, Mon, 16 Nov 2026 12:33:00 GMT](https://www.marketwatch.com/story/anthropics-ipo-is-forcing-investors-to-assess-uninsurable-risks-theyve-never-encountered-before-dea85fbf?mod=mw_rss_topstories) · medio.\n\n<a id=\"ev_70495720a9\"></a>\n2. Jefa del FMI alerta sobre economía global vulnerable y financiamiento circular de IA supera $1 billón — Kristalina Georgieva advierte sobre economía global frágil mientras financiamiento circular en IA supera $1 billón, con dos tercios en deuda. — [CNBC, Mon, 16 Nov 2026 09:14:46 GMT](https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html) · medio.\n\n<a id=\"ev_4517bfcefd\"></a>\n3. El Banco Central Europeo pide supervisión inteligente para bancos pequeños — El BCE destacó la importancia de supervisar inteligentemente a los bancos pequeños para fortalecer el sistema financiero. — [BCE, Mon, 16 Nov 2026 14:00:00 +0100](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html) · oficial.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_92c3e81b06\"></a>\n1. Cinco países de la UE planean centro de deportación migratoria en Ruanda — Alemania, Dinamarca, Austria, Grecia y Países Bajos planean un centro para deportar migrantes rechazados en Ruanda, según informes. — [BBC News, Mon, 16 Nov 2026 12:54:44 GMT](https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_34fc4ae016\"></a>\n2. Más de 2,000 migrantes cruzan desde Senegal hacia Islas Canarias — Unas 2,000 personas migrantes arribaron a las Islas Canarias desde Senegal en dos días, según reportes oficiales. — [Al Jazeera, Mon, 16 Nov 2026 08:23:19 +0000](https://www.aljazeera.com/video/newsfeed/2026/11/16/over-2000-people-cross-over-from-senegal-into-spains-canary-islands?traffic_source=rss) · medio.\n\n<a id=\"ev_906e9824b6\"></a>\n3. Récord de llegadas migratorias en las Islas Canarias de España — Las Islas Canarias experimentaron un fin de semana con récord histórico de llegada masiva de migrantes, con rescates registrados el sábado. — [France 24, Sun, 15 Nov 2026 19:28:27 GMT](https://www.france24.com/es/video/20261115-espa%C3%B1a-registra-cifras-r%C3%A9cord-en-las-islas-canarias-con-llegada-masiva-de-migrantes) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\nanálisis pendiente\n\n### Flujos\n\n- Presión Climática: análisis pendiente\n- Palanca Geopolítica: análisis pendiente\n- Flujos de Recursos: análisis pendiente\n- Flujos Cibernéticos y de Datos: análisis pendiente\n\n### Bucles críticos\n\n- Escasez de Recursos: análisis pendiente\n- Armamentización de la Cadena de Suministro: análisis pendiente\n- Impacto Societal y Financiero: análisis pendiente\n\n## Señales a vigilar\n\nanálisis pendiente\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-13T17:05:34+00:00 |\n| OpenAI | oficial | Disponible | 4 | 2026-11-16T09:00:00+00:00 |\n| NASA | oficial | Disponible | 2 | 2026-11-16T05:05:00+00:00 |\n| CISA | oficial | Disponible | 0 | 2026-11-13T12:00:00+00:00 |\n| EIA | oficial | Disponible | 0 | 2026-11-13T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-11-13T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-13T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-13T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 0 | 2026-11-13T21:15:00+00:00 |\n| BCE | oficial | Disponible | 2 | 2026-11-16T13:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-11-15T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 3 | 2026-11-16T08:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-11-12T17:00:03+00:00 |\n| Meta | oficial | Disponible | 1 | 2026-11-16T06:25:27+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-11-12T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-17T23:15:23+00:00 |\n| NASA · Comunicados | oficial | Disponible | 2 | 2026-11-16T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-11-05T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-11-10T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-11-13T09:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-16T08:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-05T15:27:24+00:00 |\n| BBC News | medio | Disponible | 18 | 2026-11-16T12:54:44+00:00 |\n| BBC Mundo | medio | Disponible | 12 | 2026-11-16T12:49:59+00:00 |\n| CNN | medio | Disponible | 65 | 2026-11-16T13:02:18.017000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-16T12:25:21+00:00 |\n| The Guardian | medio | Disponible | 31 | 2026-11-16T13:00:01+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-16T12:38:20+00:00 |\n| El País | medio | Disponible | 8 | 2026-11-16T10:51:57+00:00 |\n| CNBC | medio | Disponible | 19 | 2026-11-16T13:07:13+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-16T13:01:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 8 | 2026-11-16T12:51:33+00:00 |\n| BBC · Tecnología | medio | Disponible | 4 | 2026-11-16T12:20:49+00:00 |\n| BBC · Economía | medio | Disponible | 10 | 2026-11-16T12:20:49+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-16\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Aberdeen\", \"Alemania\", \"California\", \"Crimea\", \"Delaware\", \"Dera Ghazi Khan\", \"Dinamarca\", \"Estados Unidos\", \"Europa\", \"Gaza\", \"Gran Bretaña\", \"Islas Canarias\", \"Israel\", \"Kachin\", \"Kerch\", \"Malawi\", \"Mar del Norte\", \"Moscú\", \"NGC 7129\", \"Newark\", \"Países Bajos\", \"Reino Unido\", \"Ruanda\", \"Turquía\"]\npaises: [\"Alemania\", \"Austria\", \"Dinamarca\", \"España\", \"Estados Unidos\", \"Europa\", \"Grecia\", \"Israel\", \"Malawi\", \"Myanmar\", \"Pakistán\", \"Países Bajos\", \"Reino Unido\", \"Rusia\", \"Senegal\", \"Ucrania\"]\nentidades: [\"Amazon\", \"Anthropic\", \"Banco Central Europeo\", \"Boots\", \"COP31\", \"Childnet\", \"ECU\", \"FAA\", \"FMI\", \"Gobierno del Reino Unido\", \"Internet Matters\", \"LVMH\", \"NASA\", \"ONU\", \"OpenAI\", \"Salvamento Marítimo\", \"Servicio Meteorológico Nacional\", \"Servicio Meteorológico Nacional de EE.UU.\", \"Unesco\"]\ntemas: [\"COP31\", \"Europa\", \"Wadden Sea\", \"alfabetización mediática\", \"astronomía\", \"ataques\", \"aviación\", \"bancos\", \"cambio climático\", \"cannabis medicinal\", \"cierre de muelles\", \"conflicto\", \"costos de envío\", \"deportaciones\", \"drones\", \"economía global\", \"educación inclusiva\", \"energía renovable\", \"equidad climática\", \"finanzas\", \"gas natural\", \"geopolítica\", \"infraestructura\", \"inteligencia artificial\", \"inundaciones\", \"logística\", \"migración\", \"minerales críticos\", \"monzones\", \"olas grandes\", \"patrimonio natural\", \"periodismo\", \"producción energética\", \"riesgos financieros\", \"salud\", \"seguridad digital\", \"subsidios\", \"tecnología de vigilancia\", \"telescopio Webb\", \"tierras raras\", \"tormentas severas\", \"tornado\", \"transición energética\"]\nbucles_activos: []\ncorte: \"2026-11-16T13:11:59.269387+00:00\"\ninicio_ventana: \"2026-11-15T13:11:59.269387+00:00\"\nestado: \"análisis pendiente\"\n```\n",
+  "nexo": null,
   "cobertura": {
     "noaa": {
       "ok": true,
@@ -623,12 +1131,12 @@
     },
     "openai": {
       "ok": true,
-      "piezas": 1387,
+      "piezas": 1391,
       "fuente": "OpenAI",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-13T15:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-16T09:00:00+00:00",
+      "recientes": 4
     },
     "nasa": {
       "ok": true,
@@ -636,8 +1144,8 @@
       "fuente": "NASA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-13T16:39:33+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-16T05:05:00+00:00",
+      "recientes": 2
     },
     "cisa": {
       "ok": true,
@@ -659,7 +1167,7 @@
     },
     "fao": {
       "ok": true,
-      "piezas": 17,
+      "piezas": 16,
       "fuente": "FAO",
       "tipo": "oficial",
       "error": "",
@@ -699,8 +1207,8 @@
       "fuente": "BCE",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-13T07:20:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-16T13:00:00+00:00",
+      "recientes": 2
     },
     "imf": {
       "ok": false,
@@ -735,7 +1243,7 @@
       "fuente": "ONU (inglés)",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-14T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-15T12:00:00+00:00",
       "recientes": 0
     },
     "consilium": {
@@ -753,8 +1261,8 @@
       "fuente": "Google",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-13T20:30:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-16T08:00:00+00:00",
+      "recientes": 3
     },
     "microsoft": {
       "ok": true,
@@ -771,8 +1279,8 @@
       "fuente": "Meta",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-12T12:00:07+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-16T06:25:27+00:00",
+      "recientes": 1
     },
     "apple": {
       "ok": true,
@@ -816,7 +1324,7 @@
       "fuente": "NOAA · Centro Nacional de Huracanes",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-16T23:18:12+00:00",
+      "ultima_publicacion": "2026-11-17T23:15:23+00:00",
       "recientes": 1
     },
     "nasa-releases": {
@@ -825,8 +1333,8 @@
       "fuente": "NASA · Comunicados",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-13T16:39:33+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-16T05:05:00+00:00",
+      "recientes": 2
     },
     "usda": {
       "ok": false,
@@ -866,11 +1374,11 @@
     },
     "boj": {
       "ok": true,
-      "piezas": 43,
+      "piezas": 44,
       "fuente": "Banco de Japón",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-12T08:00:00+00:00",
+      "ultima_publicacion": "2026-11-16T08:00:00+00:00",
       "recientes": 0
     },
     "census": {
@@ -879,16 +1387,16 @@
       "fuente": "Oficina del Censo de EE. UU.",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-05T15:27:25+00:00",
+      "ultima_publicacion": "2026-11-05T15:27:24+00:00",
       "recientes": 0
     },
     "bbc-world": {
       "ok": true,
-      "piezas": 22,
+      "piezas": 23,
       "fuente": "BBC News",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-15T11:06:32+00:00",
+      "ultima_publicacion": "2026-11-16T12:54:44+00:00",
       "recientes": 18
     },
     "bbc-mundo": {
@@ -897,17 +1405,17 @@
       "fuente": "BBC Mundo",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-15T12:04:15+00:00",
-      "recientes": 10
+      "ultima_publicacion": "2026-11-16T12:49:59+00:00",
+      "recientes": 12
     },
     "cnn": {
       "ok": true,
-      "piezas": 131,
+      "piezas": 117,
       "fuente": "CNN",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-15T11:30:16.612000+00:00",
-      "recientes": 33
+      "ultima_publicacion": "2026-11-16T13:02:18.017000+00:00",
+      "recientes": 65
     },
     "dw-es": {
       "ok": false,
@@ -924,7 +1432,7 @@
       "fuente": "France 24",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-15T12:08:43+00:00",
+      "ultima_publicacion": "2026-11-16T12:25:21+00:00",
       "recientes": 24
     },
     "guardian": {
@@ -933,8 +1441,8 @@
       "fuente": "The Guardian",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-15T12:09:32+00:00",
-      "recientes": 23
+      "ultima_publicacion": "2026-11-16T13:00:01+00:00",
+      "recientes": 31
     },
     "aljazeera": {
       "ok": true,
@@ -942,17 +1450,17 @@
       "fuente": "Al Jazeera",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-15T11:53:39+00:00",
+      "ultima_publicacion": "2026-11-16T12:38:20+00:00",
       "recientes": 25
     },
     "elpais": {
       "ok": true,
-      "piezas": 24,
+      "piezas": 22,
       "fuente": "El País",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-15T04:40:00+00:00",
-      "recientes": 11
+      "ultima_publicacion": "2026-11-16T10:51:57+00:00",
+      "recientes": 8
     },
     "cnbc": {
       "ok": true,
@@ -960,8 +1468,8 @@
       "fuente": "CNBC",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-15T08:34:46+00:00",
-      "recientes": 14
+      "ultima_publicacion": "2026-11-16T13:07:13+00:00",
+      "recientes": 19
     },
     "reuters": {
       "ok": false,
@@ -986,7 +1494,7 @@
       "piezas": 0,
       "fuente": "Agencia EFE",
       "tipo": "agencia",
-      "error": "HTTP Error 500: Internal Server Error",
+      "error": "HTTP Error 403: Forbidden",
       "ultima_publicacion": null,
       "recientes": 0
     },
@@ -996,7 +1504,7 @@
       "fuente": "MarketWatch",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-15T00:33:00+00:00",
+      "ultima_publicacion": "2026-11-16T13:01:00+00:00",
       "recientes": 10
     },
     "guardian-environment": {
@@ -1005,8 +1513,8 @@
       "fuente": "The Guardian · Medio ambiente",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-15T12:00:14+00:00",
-      "recientes": 6
+      "ultima_publicacion": "2026-11-16T12:51:33+00:00",
+      "recientes": 8
     },
     "bbc-tech": {
       "ok": true,
@@ -1014,17 +1522,17 @@
       "fuente": "BBC · Tecnología",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-14T18:28:06+00:00",
-      "recientes": 1
+      "ultima_publicacion": "2026-11-16T12:20:49+00:00",
+      "recientes": 4
     },
     "bbc-business": {
       "ok": true,
-      "piezas": 57,
+      "piezas": 56,
       "fuente": "BBC · Economía",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-15T00:01:07+00:00",
-      "recientes": 1
+      "ultima_publicacion": "2026-11-16T12:20:49+00:00",
+      "recientes": 10
     }
   }
 }
