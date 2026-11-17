@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-11-16
-nodos: 88
+actualizado: 2026-11-17
+nodos: 83
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-16. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-17. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el período, la economía global mostró señales mixtas con riesgos relevantes en tecnología y finanzas: el financiamiento en IA superó $1 billón destacando vulnerabilidades, mientras que IPOs tecnológicas enfrentan preocupaciones sobre riesgos no asegurables. Paralelamente, la acción internacional contra criptomonedas ilícitas y el avance en negociaciones climáticas reflejan una mayor regulación y atención a sostenibilidad, mientras que ciertos mercados tradicionales, como el petrolero en Alaska y el crecimiento económico del Reino Unido, mantienen dinámicas positivas.
+Durante el periodo se observa una creciente preocupación por la fragilidad de la economía global, especialmente impactada por sectores emergentes como la inteligencia artificial (IA) y factores climáticos que influyen en las políticas energéticas. A la vez, hay importantes movimientos en mercados financieros, como la salida a bolsa de Anthropic y la incautación de criptomonedas robadas, que reflejan tanto oportunidades como riesgos. La atención regulatoria y la supervisión financiera se intensifican, junto con señales mixtas de crecimiento económico en diferentes regiones.
 
 ## Trend summary (EN)
-During the period, the global economy exhibited mixed signals with significant risks in technology and finance: AI financing surpassed $1 trillion highlighting vulnerabilities, while tech IPOs face concerns over uninsurable risks. At the same time, international actions against illicit cryptocurrencies and progress in climate negotiations reflect increased regulation and a focus on sustainability, while traditional markets such as oil production in Alaska and UK economic growth maintain positive momentum.
+Over the period, there is increasing concern about the vulnerability of the global economy, notably affected by emerging sectors such as artificial intelligence (AI) and climate factors influencing energy policies. Concurrently, significant developments in financial markets, such as Anthropic's IPO and the seizure of stolen cryptocurrencies, highlight both opportunities and risks. Regulatory attention and financial supervision are intensifying, alongside mixed economic growth signals in various regions.
 
 > [!note] Estado actual
-> La economía global sigue vulnerable con un financiamiento de IA que supera $1 billón y continuas preocupaciones regulatorias y legales en tecnología, mientras se mantienen esfuerzos para fortalecer regulaciones financieras y ambientales.
+> La jefa del FMI advierte sobre la fragilidad económica global mientras el financiamiento en IA supera el billón de dólares y surgen desafíos regulatorios y riesgos en sectores clave.
 
-## Nodos recientes (88 en la ventana)
+## Nodos recientes (83 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-16 | 75 | K1 | Jefa del FMI alerta sobre economía global vulnerable y financiam |

@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-11-16
-nodos: 52
+actualizado: 2026-11-17
+nodos: 49
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-16. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-17. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo, la atención global se centró en la COP31, donde hubo un fuerte impulso para acelerar la transición energética y reducir el uso de combustibles fósiles amid un contexto de múltiples crisis climáticas y sociales. Al mismo tiempo, eventos climáticos extremos como inundaciones en Pakistán, grandes olas en California y tormentas en Europa reflejan el aumento de impactos directos asociados al cambio climático. También se manifestó un llamado a la cooperación internacional, con énfasis en la responsabilidad del Norte Global y nuevas plataformas de financiamiento para la gestión de riesgos climáticos.
+Durante el período, el tema de impacto climático ha evolucionado hacia un enfoque intensificado en la acción climática global, evidenciado por las discusiones y borradores en la COP31 que insisten en acelerar la transición energética y el alejamiento de los combustibles fósiles. Paralelamente, se reportan eventos climáticos adversos como inundaciones y grandes olas, confirmando los efectos inmediatos del cambio climático en diversas regiones del mundo. Además, surge un llamado a la responsabilidad del Norte Global para apoyar al Sur Global, mientras se introducen nuevas plataformas para la gestión de desastres y se destacan tensiones políticas relacionadas con la crisis climática.
 
 ## Trend summary (EN)
-During the period, global focus was on COP31, where there was a strong push to accelerate the energy transition and reduce fossil fuel use amid multiple climate and social crises. Simultaneously, extreme climate events such as floods in Pakistan, large waves in California, and storms in Europe highlighted increasing direct impacts linked to climate change. Calls for international cooperation were also emphasized, focusing on the Global North's responsibility and new financing platforms for climate risk management.
+During the period, the climate impact topic has evolved towards intensified global climate action, reflected in COP31 discussions and drafts urging accelerated energy transition and fossil fuel phase-out. Concurrently, adverse climate events such as floods and large waves are reported, confirming the immediate effects of climate change across various regions. Additionally, there is a call for Global North responsibility to support the Global South, the introduction of new disaster risk financing platforms, and political tensions related to the climate crisis are highlighted.
 
 > [!note] Estado actual
-> El último estado muestra que la COP31 urge a acelerar el alejamiento de los combustibles fósiles como respuesta clave a la crisis climática.
+> El estado más reciente muestra que la COP31 continúa impulsando un borrador que pide acelerar la transición energética y el alejamiento de los combustibles fósiles para enfrentar la crisis climática.
 
-## Nodos recientes (52 en la ventana)
+## Nodos recientes (49 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-16 | 75 | K1 | Borrador de acuerdo climático COP31 pide acelerar alejamiento de |

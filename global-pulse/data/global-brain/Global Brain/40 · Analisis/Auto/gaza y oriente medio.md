@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-16
-nodos: 21
+actualizado: 2026-11-17
+nodos: 20
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-16. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-17. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo, la situación en Gaza y Oriente Medio ha mostrado un agravamiento humanitario y político. Las fuertes lluvias han impactado severamente a los desplazados en Gaza, causando inundaciones y pérdidas importantes de refugios, mientras que la infraestructura local colapsa sin respuestas efectivas. Paralelamente, en Israel se observa un contexto político tenso con la formación de un nuevo gobierno y el uso de tecnología avanzada para vigilancia, generando críticas internacionales por ataques a civiles y hospitales en Gaza, además del reajuste en la ayuda militar estadounidense al país.
+Durante noviembre de 2026, la situación en Gaza y Oriente Medio se ha caracterizado por una grave crisis humanitaria agravada por inclemencias climáticas que han destruido infraestructuras y desplazado a miles. Al mismo tiempo, persisten las tensiones políticas en Israel, con un gobierno en formación tras elecciones disputadas y acusaciones de fraude rechazadas por la comisión electoral. La escalada tecnológica también destaca, con el ejército israelí utilizando reconocimiento facial masivo para rastrear a palestinos, mientras actores internacionales expresan condena por bombardeos en Gaza y la ayuda militar estadounidense muestra señales de cambio.
 
 ## Trend summary (EN)
-Throughout the period, the situation in Gaza and the Middle East has deteriorated both humanitarianly and politically. Heavy rains severely affected displaced people in Gaza, causing floods and significant loss of shelters amid collapsing infrastructure and limited effective response. Meanwhile, Israel faces political tension with the formation of a new government and the use of advanced surveillance technology, drawing international criticism over attacks on civilians and hospitals in Gaza, alongside adjustments in U.S. military aid to Israel.
+Throughout November 2026, the situation in Gaza and the Middle East has been marked by a severe humanitarian crisis worsened by harsh weather conditions that have destroyed infrastructure and displaced thousands. Simultaneously, political tensions in Israel continue, with a government formation underway after disputed elections and fraud claims dismissed by the electoral commission. Technological escalation is also notable, with the Israeli army deploying large-scale facial recognition to track Palestinians, while international actors condemn bombings in Gaza and U.S. military aid shows signs of alteration.
 
 > [!note] Estado actual
-> Recientemente, Israel ha elevado la vigilancia mediante una masiva base de datos fotográfica, mientras países árabes y la UE condenan ataques israelíes a hospitales en Gaza.
+> Recientemente, el ejército israelí subió millones de fotos a una plataforma de reconocimiento facial, mientras la comunidad internacional sigue denunciando los ataques en Gaza y el sufrimiento de la población desplazada.
 
-## Nodos recientes (21 en la ventana)
+## Nodos recientes (20 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-16 | 85 | K0 | Israel sube millones de fotos a plataforma de reconocimiento fac |

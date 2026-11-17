@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-11-16
+actualizado: 2026-11-17
 nodos: 35
 origen: global-pulse
 ---
@@ -10,16 +10,16 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-16. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-17. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo analizado, la relación entre Irán y EE.UU. continúa siendo tensa pero con indicios fluctuantes de distensión. Se observan acciones militares limitadas, amenazas directas, y movimientos diplomáticos como la propuesta mediada desde Qatar, aunque el gobierno de Trump mantiene una postura firme rechazando la necesidad de acuerdos formales. Paralelamente, incidentes cibernéticos y ataques indirectos complican la situación, manteniendo un ambiente volátil sin avances significativos hacia la paz duradera.
+Durante el periodo, la relación entre Irán y Estados Unidos se mantuvo tensa con ataques militares limitados y amenazas mutuas, mientras Estados Unidos fortaleció medidas de seguridad para sus funcionarios y retiró activos militares en respuesta a presuntas amenazas iraníes. Paralelamente, se reportan intentos diplomáticos, incluida una propuesta mediada por Catar y viajes para tratar de hallar una solución, aunque sin avances significativos hacia un acuerdo, mientras factores económicos y geopolíticos influyen en la dinámica regional y mundial.
 
 ## Trend summary (EN)
-During the analyzed period, the relationship between Iran and the U.S. remains tense but shows fluctuating signs of de-escalation. Limited military actions, direct threats, and diplomatic movements such as Qatar-mediated proposals occur, while the Trump administration maintains a firm stance rejecting the need for formal agreements. Concurrently, cyberattacks and indirect assaults complicate the situation, sustaining a volatile environment without significant progress toward lasting peace.
+During the period, the relationship between Iran and the United States remained tense with limited military strikes and mutual threats, while the U.S. increased security for its officials and relocated military assets in response to alleged Iranian threats. Simultaneously, diplomatic efforts were noted, including a Qatar-mediated proposal and diplomatic travels aiming for a resolution, though no significant progress toward an agreement was made, amid economic and geopolitical factors affecting regional and global dynamics.
 
 > [!note] Estado actual
-> El estado más reciente refleja la negativa de Trump a necesitar un acuerdo con Irán, pese a amenazas y movimientos diplomáticos en curso.
+> El presidente Trump afirmó que EE. UU. 'no necesita un acuerdo' con Irán, marcando la postura más reciente fijada en el conflicto.
 
 ## Nodos recientes (35 en la ventana)
 | Fecha | Impacto | K | Nodo |
