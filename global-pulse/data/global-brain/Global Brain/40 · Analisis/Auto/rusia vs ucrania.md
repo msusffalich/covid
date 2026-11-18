@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-17
-nodos: 46
+actualizado: 2026-11-18
+nodos: 45
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-17. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-18. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante los últimos días, el conflicto entre Rusia y Ucrania ha mostrado una intensificación en acciones militares, con ataques ucranianos a infraestructuras clave como el puente de Kerch y numerosos ataques con drones sobre Moscú. Paralelamente, se observan esfuerzos diplomáticos complejos, incluyendo negociaciones de paz que han resultado en un canje de prisioneros y propuestas controversiales como la cesión del Donbass para la entrada de Ucrania a la OTAN, mientras Rusia intenta dividir a Europa mediante pactos bilaterales. Además, factores externos como interrupciones tecnológicas en sistemas satelitales y valoraciones económicas de empresas ucranianas de defensa adicionan dimensiones a la dinámica del conflicto.
+Durante los últimos días, el conflicto entre Rusia y Ucrania ha mostrado un aumento en las acciones militares, con ataques significativos de drones ucranianos en territorio ruso y daños a infraestructuras clave como el puente de Kerch. Paralelamente, continúan las negociaciones de paz mediadas por EE.UU., aunque con posturas firmes y dificultades para alcanzar acuerdos amplios, mientras que Ucrania enfrenta presiones tanto en el terreno como en su búsqueda de apoyo internacional, incluida la consideración de concesiones territoriales para ingresar a la OTAN. Además, el enfrentamiento se extiende a dimensiones tecnológicas y geopolíticas, con sanciones, interrupciones en tecnologías satelitales y esfuerzos rusos por dividir a Europa.
 
 ## Trend summary (EN)
-In recent days, the Russia-Ukraine conflict has escalated militarily, with Ukrainian attacks on critical infrastructure such as the Kerch bridge and numerous drone strikes targeting Moscow. Meanwhile, complex diplomatic efforts are underway, including peace negotiations resulting in a prisoner exchange and controversial proposals like conceding Donbass for Ukraine's NATO membership, while Russia seeks to divide Europe through bilateral non-aggression pacts. Additionally, external factors such as technological disruptions in satellite systems and the valuation of Ukrainian defense companies add further complexity to the conflict dynamics.
+In recent days, the Russia-Ukraine conflict has escalated with significant Ukrainian drone attacks on Russian territory, including damage to critical infrastructure like the Kerch bridge. Meanwhile, US-mediated peace talks continue with firm positions and challenges to reach broad agreements, as Ukraine faces pressures both on the battlefield and in securing international support, including proposals to concede territory for NATO membership. Additionally, the conflict spans technological and geopolitical dimensions, involving sanctions, satellite technology disruptions, and Russian attempts to divide Europe.
 
 > [!note] Estado actual
-> Actualmente, el conflicto mantiene una alta intensidad militar y diplomática, con ataques continuos y negociaciones en curso con participación limitada de Europa.
+> La situación más reciente muestra una intensificación militar con ataques masivos de drones ucranianos sobre Moscú y medidas diplomáticas en curso sin avances decisivos en las negociaciones de paz.
 
-## Nodos recientes (46 en la ventana)
+## Nodos recientes (45 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-17 | 75 | K1 | Rusia, Arabia Saudita y Australia son los mayores exportadores h |
