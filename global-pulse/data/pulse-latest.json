@@ -1,38 +1,206 @@
 {
   "meta": {
     "schema": "2.0",
-    "fecha": "2026-11-18",
-    "generado": "2026-11-18T13:32:03.934326+00:00",
+    "fecha": "2026-11-19",
+    "generado": "2026-11-19T14:03:01.864998+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "nodos": 7,
-      "verificados": 7,
-      "piezas_ingeridas": 217,
+      "nodos": 9,
+      "verificados": 9,
+      "piezas_ingeridas": 203,
       "canales_consultados": 46,
-      "canales_disponibles": 36,
-      "documentos_recientes": 361
+      "canales_disponibles": 38,
+      "documentos_recientes": 341
     },
     "descargo": "",
-    "corte": "2026-11-18T13:31:22.772998+00:00",
-    "reporte_sha256": "44c6fbb8f4e89662983ebfb7c044e6a6ccfdf4d2b959e7e4f17ac08590d6da20",
-    "estado": "completo",
+    "corte": "2026-11-19T13:58:51.632819+00:00",
+    "reporte_sha256": "bf6f4a863490714d45490a14271c21371fc4a954ca49b42022bafed07cf0028f",
+    "estado": "análisis pendiente",
     "politica_fuentes": "mixta-v1",
-    "reporte_archivo": "2026-11-18 — Pulso.md"
+    "reporte_archivo": "2026-11-19 — Pulso.md"
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Inundaciones severas afectan partes de la costa de Florida por intensas lluvias",
-        "en": "Severe flooding hits parts of coastal Florida from over a foot of rain"
+        "es": "Reunión histórica entre Trump, Xi y Putin en la cumbre de APEC en China",
+        "en": "Historic meeting between Trump, Xi, and Putin at APEC summit in China"
       },
       "sintesis": {
-        "es": "Partes de la costa de Florida sufren inundaciones severas debido a más de un pie de lluvia con más precipitaciones esperadas.",
-        "en": "Parts of coastal Florida are experiencing severe flooding from over a foot of rain, with additional rainfall incoming."
+        "es": "Donald Trump, Xi Jinping y Vladimir Putin mantuvieron una histórica reunión en Shenzhen, China, con un enfoque en la paz internacional y las armas nucleares, calificando el encuentro como un hito sin precedentes.",
+        "en": "Donald Trump, Xi Jinping, and Vladimir Putin held a historic meeting in Shenzhen, China, focusing on international peace and nuclear weapons, calling the encounter an unprecedented milestone."
       },
-      "categoria": "clima",
+      "categoria": "geopolitica",
       "actores": [
-        "CNN"
+        "Gobierno de Estados Unidos",
+        "Gobierno de China",
+        "Gobierno de Rusia"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 85,
+      "fuentes": [
+        "ev_c43354b4b0"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/fe3fd3648dd9414ddf04cdd936e7a16097507170/200_0_1799_1440/master/1799.jpg?width=140&quality=85&auto=format&fit=max&s=031d263340a375170cd91fe1d2133923"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c43354b4b0",
+          "titulo": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China",
+          "url": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
+          "fuente": "The Guardian",
+          "fecha": "Thu, 19 Nov 2026 12:31:41 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-19_0000",
+      "fecha": "2026-11-19",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-19_0006"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "La Corte Internacional de Justicia declara a Myanmar culpable de genocidio contra los rohingyas",
+        "en": "International Court of Justice rules Myanmar guilty of genocide against Rohingya"
+      },
+      "sintesis": {
+        "es": "La Corte Internacional de Justicia sentenció que Myanmar cometió genocidio contra la minoría rohingya durante una ofensiva militar en 2017, marcando la primera vez que un Estado es declarado responsable de genocidio por este tribunal.",
+        "en": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya minority during a 2017 military campaign, marking the first time a state has been held responsible for genocide by this court."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Corte Internacional de Justicia"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 90,
+      "fuentes": [
+        "ev_6b8d0b57ed"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/16e3b91946d9a70788aadd1f8242b43c0244fe94/443_0_2913_2329/master/2913.jpg?width=140&quality=85&auto=format&fit=max&s=dd0fed01b92f1c8ac94e55192bc965d1"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_6b8d0b57ed",
+          "titulo": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+          "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+          "fuente": "The Guardian",
+          "fecha": "Thu, 19 Nov 2026 13:52:10 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-19_0001",
+      "fecha": "2026-11-19",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Ciberataque con herramienta de IA accede a servidores internos de la Comisión Europea",
+        "en": "AI-powered cyberattack accesses European Commission internal servers"
+      },
+      "sintesis": {
+        "es": "La Comisión Europea investiga un ciberataque que, utilizando una herramienta de inteligencia artificial, accedió a sus servidores internos y pudo exponer datos personales sensibles de funcionarios.",
+        "en": "The European Commission is investigating a cyberattack that used an AI tool to access its internal servers, potentially exposing sensitive personal data of staff members."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Comisión Europea"
+      ],
+      "geo": {
+        "lat": 50.8,
+        "lon": 4.4,
+        "region": "Europa"
+      },
+      "impacto": 75,
+      "fuentes": [
+        "ev_dfe80be43c"
+      ],
+      "imagenes": [
+        "https://imagenes.elpais.com/resizer/v2/5JTBGFKH2RLIZIGNYJYRCN7W6U.jpg?auth=3c008201e9af6f6d8e9b823d4b0e96cb9be96e268c252bb9df0378a87ebee825"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_dfe80be43c",
+          "titulo": "Un ciberataque con una herramienta de IA accede a los servidores internos de la Comisión Europea",
+          "url": "https://elpais.com/internacional/2026-11-19/un-ciberataque-con-una-herramienta-de-ia-accede-a-los-servidores-internos-de-la-comision-europea.html",
+          "fuente": "El País",
+          "fecha": "Thu, 19 Nov 2026 13:26:59 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-19_0002",
+      "fecha": "2026-11-19",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-19_0005"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Uso de electricidad en centros de datos podría duplicarse para 2030, según la AIE",
+        "en": "Data center electricity use could double by 2030, IEA says"
+      },
+      "sintesis": {
+        "es": "La demanda creciente de inteligencia artificial está presionando las redes eléctricas globales, y el uso eléctrico de los centros de datos podría duplicarse para 2030, según la Agencia Internacional de la Energía.",
+        "en": "Rising demand for artificial intelligence is putting pressure on global power grids, with data center electricity use expected to double by 2030, according to the International Energy Agency."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "Agencia Internacional de la Energía"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 80,
+      "fuentes": [
+        "ev_0c275c6a40"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0c275c6a40",
+          "titulo": "Data center electricity use could double by 2030, IEA says",
+          "url": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html",
+          "fuente": "CNBC",
+          "fecha": "Thu, 19 Nov 2026 11:34:24 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-19_0003",
+      "fecha": "2026-11-19",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Informe FAO: Suministro global de commodities alimentarios se mantiene amplio pero con riesgos crecientes",
+        "en": "FAO Food Outlook: Global food commodity supplies remain generally ample, but risks are mounting"
+      },
+      "sintesis": {
+        "es": "La FAO informa que aunque el suministro global de alimentos es generalmente suficiente, existen crecientes riesgos que amenazan la estabilidad futura del mercado.",
+        "en": "FAO reports that while global food supply is generally ample, there are mounting risks threatening future market stability."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "FAO"
       ],
       "geo": {
         "lat": 0.0,
@@ -41,368 +209,198 @@
       },
       "impacto": 70,
       "fuentes": [
-        "ev_5057373c43"
+        "ev_9f2aef0d18"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_5057373c43",
-          "titulo": "Severe flooding hits parts of coastal Florida from over a foot of rain … and a lot more is incoming",
-          "url": "https://www.cnn.com/2026/11/18/weather/florida-flooding-rain-storm-thanksgiving-travel-climate",
-          "fuente": "CNN",
-          "fecha": "2026-11-18T12:30:04.274Z",
+          "id": "ev_9f2aef0d18",
+          "titulo": "FAO Food Outlook: Global food commodity supplies remain generally ample, but risks are mounting",
+          "url": "https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-supplies-remain-generally-ample--but-risks-are-mounting/en",
+          "fuente": "FAO",
+          "fecha": "Thu, 19 Nov 2026 12:00:00 Z",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-18_0000",
-      "fecha": "2026-11-18",
+      "id": "nd_2026-11-19_0004",
+      "fecha": "2026-11-19",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Perspectiva meteorológica tropical para el Atlántico con baja probabilidad de desarrollo ciclónico",
-        "en": "Atlantic Tropical Weather Outlook"
+        "es": "Cumbre entre la UE y Reino Unido en Bruselas aborda Brexit y movilidad juvenil",
+        "en": "EU-UK summit in Brussels addresses Brexit and youth mobility"
       },
       "sintesis": {
-        "es": "Se espera que un sistema de baja presión no tropical se forme cerca de las Bahamas con baja probabilidad de desarrollo subtropical en los próximos 7 días.",
-        "en": "A non-tropical low pressure system is expected near the northern Bahamas with a low chance of subtropical development in the next 7 days."
+        "es": "Líderes de la UE y Reino Unido se reúnen para negociar la relación post-Brexit, incluyendo medidas para aliviar trámites y restaurar el comercio de emisiones.",
+        "en": "EU and UK leaders meet to negotiate post-Brexit relations, including easing bureaucracy and restoring emissions trading."
       },
-      "categoria": "clima",
+      "categoria": "geopolitica",
       "actores": [
-        "NOAA"
+        "Unión Europea",
+        "Gobierno del Reino Unido"
       ],
       "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
+        "lat": 50.8,
+        "lon": 4.4,
+        "region": "Europa"
       },
-      "impacto": 40,
+      "impacto": 65,
       "fuentes": [
-        "ev_1922f3f40d"
+        "ev_6349c1b04a"
       ],
-      "imagenes": [],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/21ddeb28259d25b93c94905de55f645b5eb1d446/620_27_3852_3082/master/3852.jpg?width=140&quality=85&auto=format&fit=max&s=014c4a5d4fd21a693d5d5dd01b797882"
+      ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_1922f3f40d",
-          "titulo": "Atlantic Tropical Weather Outlook",
-          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
-          "fuente": "NOAA · Centro Nacional de Huracanes",
-          "fecha": "Wed, 18 Nov 2026 11:49:52 GMT",
+          "id": "ev_6349c1b04a",
+          "titulo": "What is at stake at the EU-UK summit in Brussels?",
+          "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
+          "fuente": "The Guardian",
+          "fecha": "Thu, 19 Nov 2026 13:11:23 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-18_0001",
-      "fecha": "2026-11-18",
+      "id": "nd_2026-11-19_0005",
+      "fecha": "2026-11-19",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-19_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Parlamento danés aprueba pacto de seguridad con Groenlandia y Estados Unidos",
+        "en": "Danish parliament approves security pact with Greenland and US"
+      },
+      "sintesis": {
+        "es": "El Parlamento de Dinamarca aprobó un acuerdo que permite a Estados Unidos mayor acceso militar en Groenlandia, tras meses de tensiones diplomáticas.",
+        "en": "The Danish Parliament approved an agreement allowing the US greater military access in Greenland, following months of diplomatic tensions."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Parlamento de Dinamarca",
+        "Gobierno de Estados Unidos"
+      ],
+      "geo": {
+        "lat": 78.0,
+        "lon": 15.0,
+        "region": "Artico"
+      },
+      "impacto": 75,
+      "fuentes": [
+        "ev_c40c94e7db"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/b6c8d2f794bc298e739a3d685877d86179db3d6f/1419_0_7094_5675/master/7094.jpg?width=140&quality=85&auto=format&fit=max&s=59337b2650752c5451ea5662d0871808"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c40c94e7db",
+          "titulo": "Danish MPs approve Greenland security pact with US",
+          "url": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us",
+          "fuente": "The Guardian",
+          "fecha": "Thu, 19 Nov 2026 12:33:52 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-19_0006",
+      "fecha": "2026-11-19",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-19_0000"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Demanda de IA impulsará aumento de tasas de interés globales, advierte jefa del FMI",
+        "en": "AI demand will push up interest rates around the world, IMF head warns"
+      },
+      "sintesis": {
+        "es": "Kristalina Georgieva advierte que la creciente demanda de hardware de IA está elevando los precios al consumidor y forzará a bancos centrales a subir las tasas de interés.",
+        "en": "Kristalina Georgieva warns rising demand for AI hardware is pushing up consumer prices and will force central banks to raise interest rates."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "FMI"
+      ],
+      "geo": {
+        "lat": 38.9,
+        "lon": -77.0,
+        "region": "Norteamerica"
+      },
+      "impacto": 80,
+      "fuentes": [
+        "ev_7b61bcd55f"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/b2a56a8e00524c2b12815efdbcc9e91b0732fdc0/456_0_3410_2728/master/3410.jpg?width=140&quality=85&auto=format&fit=max&s=920ffff20187c6090b440fd5098e1f09"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_7b61bcd55f",
+          "titulo": "AI demand will push up interest rates around the world, IMF head warns",
+          "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+          "fuente": "The Guardian",
+          "fecha": "Thu, 19 Nov 2026 12:51:16 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-19_0007",
+      "fecha": "2026-11-19",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "La temporada de nieve en Sierra se intensifica con una tormenta temprana",
-        "en": "Sierra Snow Season Spins Up"
+        "es": "Acciones de Palo Alto Networks suben tras reporte de ganancias impulsado por IA",
+        "en": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings"
       },
       "sintesis": {
-        "es": "Una tormenta de nieve temprana cubrió las montañas de California con nieve en noviembre de 2026.",
-        "en": "An early-season snowstorm blanketed California’s mountains in white in mid-November 2026."
+        "es": "Las acciones de Palo Alto Networks subieron apoyadas en un reporte de ganancias que destaca la creciente demanda en ciberseguridad impulsada por inteligencia artificial.",
+        "en": "Palo Alto Networks shares rose on earnings report highlighting growing AI-driven cybersecurity demand."
       },
-      "categoria": "tecnologia",
+      "categoria": "finanzas",
       "actores": [
-        "NASA"
+        "Palo Alto Networks"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 50,
+      "impacto": 70,
       "fuentes": [
-        "ev_aebd6ec490"
+        "ev_7d28d17407"
       ],
-      "imagenes": [],
+      "imagenes": [
+        "https://images.mktw.net/im-839193"
+      ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_aebd6ec490",
-          "titulo": "Sierra Snow Season Spins Up",
-          "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
-          "fuente": "NASA",
-          "fecha": "Wed, 18 Nov 2026 05:01:00 +0000",
+          "id": "ev_7d28d17407",
+          "titulo": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
+          "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+          "fuente": "MarketWatch",
+          "fecha": "Thu, 19 Nov 2026 12:34:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-18_0002",
-      "fecha": "2026-11-18",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-18_0003",
-        "nd_2026-11-18_0004",
-        "nd_2026-11-18_0005",
-        "nd_2026-11-18_0006"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Erupción solar de clase M reportada por la NASA",
-        "en": "APOD: 2026 November 18 – An M-class Solar Flare"
-      },
-      "sintesis": {
-        "es": "Se reportó una erupción solar de clase M, un fenómeno de tamaño medio, según la NASA.",
-        "en": "A medium-sized M-class solar flare was reported by NASA."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "NASA"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 60,
-      "fuentes": [
-        "ev_01a2f7b2cb"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_01a2f7b2cb",
-          "titulo": "APOD: 2026 November 18 – An M-class Solar Flare",
-          "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
-          "fuente": "NASA",
-          "fecha": "Wed, 18 Nov 2026 05:05:00 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-18_0003",
-      "fecha": "2026-11-18",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-11-18_0002",
-        "nd_2026-11-18_0004",
-        "nd_2026-11-18_0005",
-        "nd_2026-11-18_0006"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Nuevo álbum de sonidos de estrellas bebé compartido por el Observatorio Chandra de la NASA",
-        "en": "New Album of Baby Star Sounds Shared by NASA’s Chandra"
-      },
-      "sintesis": {
-        "es": "El Observatorio Chandra recopila imágenes de estrellas bebé y transforma estos datos en sonidos para estudio y arte.",
-        "en": "NASA’s Chandra Observatory collects snapshots of baby stars and transforms the data into sound for study and art."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "NASA"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_a69634aac5"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_a69634aac5",
-          "titulo": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
-          "url": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/",
-          "fuente": "NASA",
-          "fecha": "Tue, 17 Nov 2026 20:26:17 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-18_0004",
-      "fecha": "2026-11-18",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-11-18_0002",
-        "nd_2026-11-18_0003",
-        "nd_2026-11-18_0005",
-        "nd_2026-11-18_0006"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "El telescopio NICER de NASA finaliza operaciones científicas tras más de seis años",
-        "en": "NICER Status Updates"
-      },
-      "sintesis": {
-        "es": "El telescopio NICER en la Estación Espacial Internacional ha finalizado sus operaciones científicas tras seis años y medio de servicio.",
-        "en": "NASA’s NICER telescope on the ISS ended science operations after over six years of service."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "NASA"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 45,
-      "fuentes": [
-        "ev_2844ea0b0a"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_2844ea0b0a",
-          "titulo": "NICER Status Updates",
-          "url": "https://www.nasa.gov/missions/station/nicer-status-updates/",
-          "fuente": "NASA",
-          "fecha": "Tue, 17 Nov 2026 18:18:16 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-18_0005",
-      "fecha": "2026-11-18",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-11-18_0002",
-        "nd_2026-11-18_0003",
-        "nd_2026-11-18_0004",
-        "nd_2026-11-18_0006"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "NASA registra récord de participación en su hackathon global Space Apps Challenge",
-        "en": "NASA Space Apps Challenge Breaks Global Hackathon Records"
-      },
-      "sintesis": {
-        "es": "El hackathon Space Apps Challenge de NASA obtuvo un récord de 181,835 participantes en 593 eventos alrededor del mundo.",
-        "en": "NASA’s Space Apps Challenge hackathon broke records with 181,835 participants across 593 global events."
-      },
-      "categoria": "tecnologia",
-      "actores": [
-        "NASA"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 40,
-      "fuentes": [
-        "ev_3ffdf3465d"
-      ],
-      "imagenes": [],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_3ffdf3465d",
-          "titulo": "NASA Space Apps Challenge Breaks Global Hackathon Records",
-          "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
-          "fuente": "NASA",
-          "fecha": "Tue, 17 Nov 2026 21:50:34 +0000",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-18_0006",
-      "fecha": "2026-11-18",
-      "kardashev": "K2",
-      "relaciones": [
-        "nd_2026-11-18_0002",
-        "nd_2026-11-18_0003",
-        "nd_2026-11-18_0004",
-        "nd_2026-11-18_0005"
-      ]
+      "id": "nd_2026-11-19_0008",
+      "fecha": "2026-11-19",
+      "kardashev": "K1",
+      "relaciones": []
     }
   ],
-  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-18\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\"]\nlugares: [\"Bahamas\", \"California\", \"Florida\"]\npaises: [\"Estados Unidos\"]\nentidades: [\"CNN\", \"NASA\", \"NOAA\"]\ntemas: [\"astrofísica\", \"astronomía\", \"baja presión\", \"erupción solar\", \"estación espacial\", \"innovación\", \"inundaciones\", \"lluvias\", \"meteorología tropical\", \"nieve\", \"sonificación\", \"tecnología\", \"tormenta\"]\nbucles_activos: []\ncorte: \"2026-11-18T13:31:22.772998+00:00\"\ninicio_ventana: \"2026-11-17T13:31:22.772998+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-18\n\n## Resumen del día\n\nInundaciones severas impactan la costa de Florida debido a lluvias intensas, mientras NOAA prevé baja actividad ciclónica en el Atlántico.\nNASA reporta fenómenos astronómicos, fin de operaciones y actividades destacadas en tecnología espacial.\nGoogle lanza el modelo Gemini 4 Hydrogen para optimizar flujos de trabajo con IA en desarrollo de software.\nNo hay novedades oficiales detectadas en Recursos Naturales, Cadenas de Suministro, Geopolítica, Finanzas y Seguros, y Demografía y Migraciones en las últimas 24 horas.\nEl Nexo no registra movimientos confirmados hoy en los flujos y bucles críticos, dado que los hechos quedan concentrados en Clima y Tecnología sin evidencia directa cruzada hacia otras dimensiones.\n\nVentana de 24 horas hasta 2026-11-18T13:31:22.772998+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar un, imf, iom, unhcr, un-en, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_5057373c43\"></a>\n1. Inundaciones severas afectan partes de la costa de Florida por intensas lluvias — Partes de la costa de Florida sufren inundaciones severas debido a más de un pie de lluvia con más precipitaciones esperadas. — [CNN, 2026-11-18T12:30:04.274Z](https://www.cnn.com/2026/11/18/weather/florida-flooding-rain-storm-thanksgiving-travel-climate) · medio.\n\n<a id=\"ev_1922f3f40d\"></a>\n2. Perspectiva meteorológica tropical para el Atlántico con baja probabilidad de desarrollo ciclónico — Se espera que un sistema de baja presión no tropical se forme cerca de las Bahamas con baja probabilidad de desarrollo subtropical en los próximos 7 días. — [NOAA · Centro Nacional de Huracanes, Wed, 18 Nov 2026 11:49:52 GMT](https://www.nhc.noaa.gov/gtwo.php?basin=atlc) · oficial.\n\n## 2. Tecnología\n\n<a id=\"ev_aebd6ec490\"></a>\n1. La temporada de nieve en Sierra se intensifica con una tormenta temprana — Una tormenta de nieve temprana cubrió las montañas de California con nieve en noviembre de 2026. — [NASA, Wed, 18 Nov 2026 05:01:00 +0000](https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/) · oficial.\n\n<a id=\"ev_01a2f7b2cb\"></a>\n2. Erupción solar de clase M reportada por la NASA — Se reportó una erupción solar de clase M, un fenómeno de tamaño medio, según la NASA. — [NASA, Wed, 18 Nov 2026 05:05:00 +0000](https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/) · oficial.\n\n<a id=\"ev_a69634aac5\"></a>\n3. Nuevo álbum de sonidos de estrellas bebé compartido por el Observatorio Chandra de la NASA — El Observatorio Chandra recopila imágenes de estrellas bebé y transforma estos datos en sonidos para estudio y arte. — [NASA, Tue, 17 Nov 2026 20:26:17 +0000](https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra/) · oficial.\n\n<a id=\"ev_2844ea0b0a\"></a>\n4. El telescopio NICER de NASA finaliza operaciones científicas tras más de seis años — El telescopio NICER en la Estación Espacial Internacional ha finalizado sus operaciones científicas tras seis años y medio de servicio. — [NASA, Tue, 17 Nov 2026 18:18:16 +0000](https://www.nasa.gov/missions/station/nicer-status-updates/) · oficial.\n\n<a id=\"ev_3ffdf3465d\"></a>\n5. NASA registra récord de participación en su hackathon global Space Apps Challenge — El hackathon Space Apps Challenge de NASA obtuvo un récord de 181,835 participantes en 593 eventos alrededor del mundo. — [NASA, Tue, 17 Nov 2026 21:50:34 +0000](https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/) · oficial.\n\n## 3. Recursos Naturales\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 4. Cadenas de Suministro\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 5. Geopolítica\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 6. Finanzas y Seguros\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 7. Demografía y Migraciones\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Sin movimiento verificado hoy\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Posible desarrollo subtropical cerca de Bahamas con baja probabilidad en 7 días según NOAA. [ev_1922f3f40d](#ev_1922f3f40d)\n- La temporada de nieve temprana en Sierra, California y grandes olas en la costa indican patrones climáticos atípicos relevantes para la climatología regional. [ev_aebd6ec490](#ev_aebd6ec490) [ev_5057373c43](#ev_5057373c43)\n- SpaceX prepara avances en reutilización rápida de cohetes tras captura del Starship, potencial para impacto en tecnología espacial y transporte orbital. [ev_2844ea0b0a](#ev_2844ea0b0a)\n- La alianza entre LVMH y OpenAI para impulsar el periodismo mediante IA anuncia avances en la integración de tecnología y medios de comunicación. [ev_a69634aac5](#ev_a69634aac5)\n- Google lanza Gemini 4 Hydrogen para mejorar la eficiencia en desarrollo y depuración automatizada con IA, indicando innovaciones en flujos tecnológicos de software. [ev_aebd6ec490](#ev_aebd6ec490)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-13T17:05:34+00:00 |\n| OpenAI | oficial | Disponible | 2 | 2026-11-18T00:00:00+00:00 |\n| NASA | oficial | Disponible | 10 | 2026-11-18T05:05:00+00:00 |\n| CISA | oficial | Disponible | 0 | 2026-11-17T12:00:00+00:00 |\n| EIA | oficial | Disponible | 1 | 2026-11-17T14:00:00+00:00 |\n| FAO | oficial | Disponible | 1 | 2026-11-18T12:00:00+00:00 |\n| OMC | oficial | Disponible | 1 | 2026-11-18T00:00:00+00:00 |\n| ONU | oficial | No disponible | 0 | Sin fecha verificable |\n| Reserva Federal | oficial | Disponible | 0 | 2026-11-13T21:15:00+00:00 |\n| BCE | oficial | Disponible | 3 | 2026-11-18T09:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | No disponible | 0 | Sin fecha verificable |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 12 | 2026-11-17T22:00:00+00:00 |\n| Microsoft | oficial | Disponible | 1 | 2026-11-17T18:36:03+00:00 |\n| Meta | oficial | Disponible | 1 | 2026-11-17T18:00:31+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-02T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-11-12T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-19T23:49:52+00:00 |\n| NASA · Comunicados | oficial | Disponible | 10 | 2026-11-18T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-11-15T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-11-10T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-11-13T09:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-16T23:50:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-17T16:19:13+00:00 |\n| BBC News | medio | Disponible | 22 | 2026-11-18T12:39:24+00:00 |\n| BBC Mundo | medio | Disponible | 16 | 2026-11-18T12:24:23+00:00 |\n| CNN | medio | Disponible | 103 | 2026-11-18T12:57:28.969000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-18T13:17:58+00:00 |\n| The Guardian | medio | Disponible | 34 | 2026-11-18T13:23:23+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-18T13:02:33+00:00 |\n| El País | medio | Disponible | 13 | 2026-11-18T13:06:12+00:00 |\n| CNBC | medio | Disponible | 30 | 2026-11-18T13:29:33+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-18T13:24:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 13 | 2026-11-18T13:17:41+00:00 |\n| BBC · Tecnología | medio | Disponible | 11 | 2026-11-18T13:16:53+00:00 |\n| BBC · Economía | medio | Disponible | 17 | 2026-11-18T13:17:06+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-18\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\"]\nlugares: [\"Bahamas\", \"California\", \"Florida\"]\npaises: [\"Estados Unidos\"]\nentidades: [\"CNN\", \"NASA\", \"NOAA\"]\ntemas: [\"astrofísica\", \"astronomía\", \"baja presión\", \"erupción solar\", \"estación espacial\", \"innovación\", \"inundaciones\", \"lluvias\", \"meteorología tropical\", \"nieve\", \"sonificación\", \"tecnología\", \"tormenta\"]\nbucles_activos: []\ncorte: \"2026-11-18T13:31:22.772998+00:00\"\ninicio_ventana: \"2026-11-17T13:31:22.772998+00:00\"\nestado: \"completo\"\n```\n",
-  "nexo": {
-    "resumen": [
-      "Inundaciones severas impactan la costa de Florida debido a lluvias intensas, mientras NOAA prevé baja actividad ciclónica en el Atlántico.",
-      "NASA reporta fenómenos astronómicos, fin de operaciones y actividades destacadas en tecnología espacial.",
-      "Google lanza el modelo Gemini 4 Hydrogen para optimizar flujos de trabajo con IA en desarrollo de software.",
-      "No hay novedades oficiales detectadas en Recursos Naturales, Cadenas de Suministro, Geopolítica, Finanzas y Seguros, y Demografía y Migraciones en las últimas 24 horas.",
-      "El Nexo no registra movimientos confirmados hoy en los flujos y bucles críticos, dado que los hechos quedan concentrados en Clima y Tecnología sin evidencia directa cruzada hacia otras dimensiones."
-    ],
-    "flujos": {
-      "Presión Climática": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      },
-      "Palanca Geopolítica": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      },
-      "Flujos de Recursos": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      },
-      "Flujos Cibernéticos y de Datos": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      }
-    },
-    "bucles": {
-      "Escasez de Recursos": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      },
-      "Armamentización de la Cadena de Suministro": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      },
-      "Impacto Societal y Financiero": {
-        "estado": "Sin movimiento verificado hoy",
-        "texto": "",
-        "hechos": []
-      }
-    },
-    "senales": [
-      {
-        "texto": "Posible desarrollo subtropical cerca de Bahamas con baja probabilidad en 7 días según NOAA.",
-        "hechos": [
-          "ev_1922f3f40d"
-        ]
-      },
-      {
-        "texto": "La temporada de nieve temprana en Sierra, California y grandes olas en la costa indican patrones climáticos atípicos relevantes para la climatología regional.",
-        "hechos": [
-          "ev_aebd6ec490",
-          "ev_5057373c43"
-        ]
-      },
-      {
-        "texto": "SpaceX prepara avances en reutilización rápida de cohetes tras captura del Starship, potencial para impacto en tecnología espacial y transporte orbital.",
-        "hechos": [
-          "ev_2844ea0b0a"
-        ]
-      },
-      {
-        "texto": "La alianza entre LVMH y OpenAI para impulsar el periodismo mediante IA anuncia avances en la integración de tecnología y medios de comunicación.",
-        "hechos": [
-          "ev_a69634aac5"
-        ]
-      },
-      {
-        "texto": "Google lanza Gemini 4 Hydrogen para mejorar la eficiencia en desarrollo y depuración automatizada con IA, indicando innovaciones en flujos tecnológicos de software.",
-        "hechos": [
-          "ev_aebd6ec490"
-        ]
-      }
-    ],
-    "correcciones": []
-  },
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-19\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"recursos\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Bruselas\", \"Groenlandia\", \"Myanmar\", \"Shenzhen\"]\npaises: [\"China\", \"Dinamarca\", \"Estados Unidos\", \"Myanmar\", \"Reino Unido\", \"Rusia\", \"Unión Europea\"]\nentidades: [\"Agencia Internacional de la Energía\", \"Comisión Europea\", \"Corte Internacional de Justicia\", \"FAO\", \"FMI\", \"Gobierno de China\", \"Gobierno de Estados Unidos\", \"Gobierno de Rusia\", \"Gobierno del Reino Unido\", \"Palo Alto Networks\", \"Parlamento de Dinamarca\", \"Unión Europea\"]\ntemas: [\"Alimentos\", \"Arctic\", \"Armas nucleares\", \"Brexit\", \"Centros de datos\", \"Ciberseguridad\", \"Comercio\", \"Datos personales\", \"Defensa\", \"Derechos humanos\", \"Energía\", \"Genocidio\", \"Inteligencia artificial\", \"Mercados bursátiles\", \"Mercados financieros\", \"Minorías\", \"Movilidad juvenil\", \"Paz internacional\", \"Reunión diplomática\", \"Riesgos\", \"Seguridad\", \"Suministro\", \"Tasas de interés\"]\nbucles_activos: []\ncorte: \"2026-11-19T13:58:51.632819+00:00\"\ninicio_ventana: \"2026-11-18T13:58:51.632819+00:00\"\nestado: \"análisis pendiente\"\n---\n\n# Pulso Global — 2026-11-19\n\n## Resumen del día\n\nanálisis pendiente\n\nVentana de 24 horas hasta 2026-11-19T13:58:51.632819+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar imf, iom, unhcr, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 2. Tecnología\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_0c275c6a40\"></a>\n1. Uso de electricidad en centros de datos podría duplicarse para 2030, según la AIE — La demanda creciente de inteligencia artificial está presionando las redes eléctricas globales, y el uso eléctrico de los centros de datos podría duplicarse para 2030, según la Agencia Internacional de la Energía. — [CNBC, Thu, 19 Nov 2026 11:34:24 GMT](https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html) · medio.\n\n<a id=\"ev_9f2aef0d18\"></a>\n2. Informe FAO: Suministro global de commodities alimentarios se mantiene amplio pero con riesgos crecientes — La FAO informa que aunque el suministro global de alimentos es generalmente suficiente, existen crecientes riesgos que amenazan la estabilidad futura del mercado. — [FAO, Thu, 19 Nov 2026 12:00:00 Z](https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-supplies-remain-generally-ample--but-risks-are-mounting/en) · oficial.\n\n## 4. Cadenas de Suministro\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 5. Geopolítica\n\n<a id=\"ev_c43354b4b0\"></a>\n1. Reunión histórica entre Trump, Xi y Putin en la cumbre de APEC en China — Donald Trump, Xi Jinping y Vladimir Putin mantuvieron una histórica reunión en Shenzhen, China, con un enfoque en la paz internacional y las armas nucleares, calificando el encuentro como un hito sin precedentes. — [The Guardian, Thu, 19 Nov 2026 12:31:41 GMT](https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china) · medio.\n\n<a id=\"ev_6b8d0b57ed\"></a>\n2. La Corte Internacional de Justicia declara a Myanmar culpable de genocidio contra los rohingyas — La Corte Internacional de Justicia sentenció que Myanmar cometió genocidio contra la minoría rohingya durante una ofensiva militar en 2017, marcando la primera vez que un Estado es declarado responsable de genocidio por este tribunal. — [The Guardian, Thu, 19 Nov 2026 13:52:10 GMT](https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar) · medio.\n\n<a id=\"ev_dfe80be43c\"></a>\n3. Ciberataque con herramienta de IA accede a servidores internos de la Comisión Europea — La Comisión Europea investiga un ciberataque que, utilizando una herramienta de inteligencia artificial, accedió a sus servidores internos y pudo exponer datos personales sensibles de funcionarios. — [El País, Thu, 19 Nov 2026 13:26:59 GMT](https://elpais.com/internacional/2026-11-19/un-ciberataque-con-una-herramienta-de-ia-accede-a-los-servidores-internos-de-la-comision-europea.html) · medio.\n\n<a id=\"ev_6349c1b04a\"></a>\n4. Cumbre entre la UE y Reino Unido en Bruselas aborda Brexit y movilidad juvenil — Líderes de la UE y Reino Unido se reúnen para negociar la relación post-Brexit, incluyendo medidas para aliviar trámites y restaurar el comercio de emisiones. — [The Guardian, Thu, 19 Nov 2026 13:11:23 GMT](https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels) · medio.\n\n<a id=\"ev_c40c94e7db\"></a>\n5. Parlamento danés aprueba pacto de seguridad con Groenlandia y Estados Unidos — El Parlamento de Dinamarca aprobó un acuerdo que permite a Estados Unidos mayor acceso militar en Groenlandia, tras meses de tensiones diplomáticas. — [The Guardian, Thu, 19 Nov 2026 12:33:52 GMT](https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_7b61bcd55f\"></a>\n1. Demanda de IA impulsará aumento de tasas de interés globales, advierte jefa del FMI — Kristalina Georgieva advierte que la creciente demanda de hardware de IA está elevando los precios al consumidor y forzará a bancos centrales a subir las tasas de interés. — [The Guardian, Thu, 19 Nov 2026 12:51:16 GMT](https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec) · medio.\n\n<a id=\"ev_7d28d17407\"></a>\n2. Acciones de Palo Alto Networks suben tras reporte de ganancias impulsado por IA — Las acciones de Palo Alto Networks subieron apoyadas en un reporte de ganancias que destaca la creciente demanda en ciberseguridad impulsada por inteligencia artificial. — [MarketWatch, Thu, 19 Nov 2026 12:34:00 GMT](https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories) · medio.\n\n## 7. Demografía y Migraciones\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\nanálisis pendiente\n\n### Flujos\n\n- Presión Climática: análisis pendiente\n- Palanca Geopolítica: análisis pendiente\n- Flujos de Recursos: análisis pendiente\n- Flujos Cibernéticos y de Datos: análisis pendiente\n\n### Bucles críticos\n\n- Escasez de Recursos: análisis pendiente\n- Armamentización de la Cadena de Suministro: análisis pendiente\n- Impacto Societal y Financiero: análisis pendiente\n\n## Señales a vigilar\n\nanálisis pendiente\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-13T17:05:34+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-11-18T10:00:00+00:00 |\n| NASA | oficial | Disponible | 9 | 2026-11-19T05:05:00+00:00 |\n| CISA | oficial | Disponible | 0 | 2026-11-18T12:00:00+00:00 |\n| EIA | oficial | Disponible | 1 | 2026-11-18T14:00:00+00:00 |\n| FAO | oficial | Disponible | 1 | 2026-11-19T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-18T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-18T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 1 | 2026-11-18T19:00:00+00:00 |\n| BCE | oficial | Disponible | 0 | 2026-11-18T09:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-11-18T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 11 | 2026-11-19T13:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-11-17T18:36:03+00:00 |\n| Meta | oficial | Disponible | 4 | 2026-11-19T13:05:53+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-18T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-11-12T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-20T23:48:37+00:00 |\n| NASA · Comunicados | oficial | Disponible | 9 | 2026-11-19T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 1 | 2026-11-18T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-11-18T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 2 | 2026-11-19T08:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-19T07:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-17T16:19:12+00:00 |\n| BBC News | medio | Disponible | 25 | 2026-11-19T13:31:23+00:00 |\n| BBC Mundo | medio | Disponible | 11 | 2026-11-19T13:18:16+00:00 |\n| CNN | medio | Disponible | 104 | 2026-11-19T13:01:59.547000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-19T13:53:16+00:00 |\n| The Guardian | medio | Disponible | 31 | 2026-11-19T13:52:10+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-19T13:30:00+00:00 |\n| El País | medio | Disponible | 13 | 2026-11-19T13:39:09+00:00 |\n| CNBC | medio | Disponible | 29 | 2026-11-19T13:57:09+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-19T13:55:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 6 | 2026-11-19T13:48:30+00:00 |\n| BBC · Tecnología | medio | Disponible | 6 | 2026-11-19T12:26:39+00:00 |\n| BBC · Economía | medio | Disponible | 17 | 2026-11-19T13:35:52+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-19\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"recursos\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Bruselas\", \"Groenlandia\", \"Myanmar\", \"Shenzhen\"]\npaises: [\"China\", \"Dinamarca\", \"Estados Unidos\", \"Myanmar\", \"Reino Unido\", \"Rusia\", \"Unión Europea\"]\nentidades: [\"Agencia Internacional de la Energía\", \"Comisión Europea\", \"Corte Internacional de Justicia\", \"FAO\", \"FMI\", \"Gobierno de China\", \"Gobierno de Estados Unidos\", \"Gobierno de Rusia\", \"Gobierno del Reino Unido\", \"Palo Alto Networks\", \"Parlamento de Dinamarca\", \"Unión Europea\"]\ntemas: [\"Alimentos\", \"Arctic\", \"Armas nucleares\", \"Brexit\", \"Centros de datos\", \"Ciberseguridad\", \"Comercio\", \"Datos personales\", \"Defensa\", \"Derechos humanos\", \"Energía\", \"Genocidio\", \"Inteligencia artificial\", \"Mercados bursátiles\", \"Mercados financieros\", \"Minorías\", \"Movilidad juvenil\", \"Paz internacional\", \"Reunión diplomática\", \"Riesgos\", \"Seguridad\", \"Suministro\", \"Tasas de interés\"]\nbucles_activos: []\ncorte: \"2026-11-19T13:58:51.632819+00:00\"\ninicio_ventana: \"2026-11-18T13:58:51.632819+00:00\"\nestado: \"análisis pendiente\"\n```\n",
+  "nexo": null,
   "cobertura": {
     "noaa": {
       "ok": true,
@@ -415,12 +413,12 @@
     },
     "openai": {
       "ok": true,
-      "piezas": 1407,
+      "piezas": 1413,
       "fuente": "OpenAI",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-18T00:00:00+00:00",
-      "recientes": 2
+      "ultima_publicacion": "2026-11-18T10:00:00+00:00",
+      "recientes": 0
     },
     "nasa": {
       "ok": true,
@@ -428,8 +426,8 @@
       "fuente": "NASA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-18T05:05:00+00:00",
-      "recientes": 10
+      "ultima_publicacion": "2026-11-19T05:05:00+00:00",
+      "recientes": 9
     },
     "cisa": {
       "ok": true,
@@ -437,25 +435,25 @@
       "fuente": "CISA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-17T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-18T12:00:00+00:00",
       "recientes": 0
     },
     "eia": {
       "ok": true,
-      "piezas": 28,
+      "piezas": 29,
       "fuente": "EIA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-17T14:00:00+00:00",
+      "ultima_publicacion": "2026-11-18T14:00:00+00:00",
       "recientes": 1
     },
     "fao": {
       "ok": true,
-      "piezas": 17,
+      "piezas": 18,
       "fuente": "FAO",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-18T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-19T12:00:00+00:00",
       "recientes": 1
     },
     "wto": {
@@ -465,15 +463,15 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-18T00:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "un": {
-      "ok": false,
-      "piezas": 0,
+      "ok": true,
+      "piezas": 30,
       "fuente": "ONU",
       "tipo": "oficial",
-      "error": "not well-formed (invalid token): line 1, column 0",
-      "ultima_publicacion": null,
+      "error": "",
+      "ultima_publicacion": "2026-11-18T12:00:00+00:00",
       "recientes": 0
     },
     "fed": {
@@ -482,8 +480,8 @@
       "fuente": "Reserva Federal",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-13T21:15:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-18T19:00:00+00:00",
+      "recientes": 1
     },
     "ecb": {
       "ok": true,
@@ -492,7 +490,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-18T09:00:00+00:00",
-      "recientes": 3
+      "recientes": 0
     },
     "imf": {
       "ok": false,
@@ -522,12 +520,12 @@
       "recientes": 0
     },
     "un-en": {
-      "ok": false,
-      "piezas": 0,
+      "ok": true,
+      "piezas": 30,
       "fuente": "ONU (inglés)",
       "tipo": "oficial",
-      "error": "not well-formed (invalid token): line 1, column 0",
-      "ultima_publicacion": null,
+      "error": "",
+      "ultima_publicacion": "2026-11-18T12:00:00+00:00",
       "recientes": 0
     },
     "consilium": {
@@ -545,8 +543,8 @@
       "fuente": "Google",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-17T22:00:00+00:00",
-      "recientes": 12
+      "ultima_publicacion": "2026-11-19T13:00:00+00:00",
+      "recientes": 11
     },
     "microsoft": {
       "ok": true,
@@ -555,7 +553,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-17T18:36:03+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "meta": {
       "ok": true,
@@ -563,8 +561,8 @@
       "fuente": "Meta",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-17T18:00:31+00:00",
-      "recientes": 1
+      "ultima_publicacion": "2026-11-19T13:05:53+00:00",
+      "recientes": 4
     },
     "apple": {
       "ok": true,
@@ -581,7 +579,7 @@
       "fuente": "NIST",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-02T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-18T12:00:00+00:00",
       "recientes": 0
     },
     "esa": {
@@ -608,7 +606,7 @@
       "fuente": "NOAA · Centro Nacional de Huracanes",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-19T23:49:52+00:00",
+      "ultima_publicacion": "2026-11-20T23:48:37+00:00",
       "recientes": 1
     },
     "nasa-releases": {
@@ -617,8 +615,8 @@
       "fuente": "NASA · Comunicados",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-18T05:05:00+00:00",
-      "recientes": 10
+      "ultima_publicacion": "2026-11-19T05:05:00+00:00",
+      "recientes": 9
     },
     "usda": {
       "ok": false,
@@ -635,16 +633,16 @@
       "fuente": "Comisión Europea · Comercio",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-15T23:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-18T23:00:00+00:00",
+      "recientes": 1
     },
     "bis": {
       "ok": true,
-      "piezas": 1,
+      "piezas": 2,
       "fuente": "Banco de Pagos Internacionales",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-10T00:00:00+00:00",
+      "ultima_publicacion": "2026-11-18T00:00:00+00:00",
       "recientes": 0
     },
     "boe": {
@@ -653,16 +651,16 @@
       "fuente": "Banco de Inglaterra",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-13T09:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-19T08:00:00+00:00",
+      "recientes": 2
     },
     "boj": {
       "ok": true,
-      "piezas": 45,
+      "piezas": 46,
       "fuente": "Banco de Japón",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-16T23:50:00+00:00",
+      "ultima_publicacion": "2026-11-19T07:00:00+00:00",
       "recientes": 0
     },
     "census": {
@@ -671,17 +669,17 @@
       "fuente": "Oficina del Censo de EE. UU.",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-17T16:19:13+00:00",
+      "ultima_publicacion": "2026-11-17T16:19:12+00:00",
       "recientes": 0
     },
     "bbc-world": {
       "ok": true,
-      "piezas": 29,
+      "piezas": 34,
       "fuente": "BBC News",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-18T12:39:24+00:00",
-      "recientes": 22
+      "ultima_publicacion": "2026-11-19T13:31:23+00:00",
+      "recientes": 25
     },
     "bbc-mundo": {
       "ok": true,
@@ -689,17 +687,17 @@
       "fuente": "BBC Mundo",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-18T12:24:23+00:00",
-      "recientes": 16
+      "ultima_publicacion": "2026-11-19T13:18:16+00:00",
+      "recientes": 11
     },
     "cnn": {
       "ok": true,
-      "piezas": 233,
+      "piezas": 254,
       "fuente": "CNN",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-18T12:57:28.969000+00:00",
-      "recientes": 103
+      "ultima_publicacion": "2026-11-19T13:01:59.547000+00:00",
+      "recientes": 104
     },
     "dw-es": {
       "ok": false,
@@ -716,7 +714,7 @@
       "fuente": "France 24",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-18T13:17:58+00:00",
+      "ultima_publicacion": "2026-11-19T13:53:16+00:00",
       "recientes": 24
     },
     "guardian": {
@@ -725,8 +723,8 @@
       "fuente": "The Guardian",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-18T13:23:23+00:00",
-      "recientes": 34
+      "ultima_publicacion": "2026-11-19T13:52:10+00:00",
+      "recientes": 31
     },
     "aljazeera": {
       "ok": true,
@@ -734,7 +732,7 @@
       "fuente": "Al Jazeera",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-18T13:02:33+00:00",
+      "ultima_publicacion": "2026-11-19T13:30:00+00:00",
       "recientes": 25
     },
     "elpais": {
@@ -743,7 +741,7 @@
       "fuente": "El País",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-18T13:06:12+00:00",
+      "ultima_publicacion": "2026-11-19T13:39:09+00:00",
       "recientes": 13
     },
     "cnbc": {
@@ -752,8 +750,8 @@
       "fuente": "CNBC",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-18T13:29:33+00:00",
-      "recientes": 30
+      "ultima_publicacion": "2026-11-19T13:57:09+00:00",
+      "recientes": 29
     },
     "reuters": {
       "ok": false,
@@ -778,7 +776,7 @@
       "piezas": 0,
       "fuente": "Agencia EFE",
       "tipo": "agencia",
-      "error": "HTTP Error 429: Too Many Requests",
+      "error": "HTTP Error 500: Internal Server Error",
       "ultima_publicacion": null,
       "recientes": 0
     },
@@ -788,7 +786,7 @@
       "fuente": "MarketWatch",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-18T13:24:00+00:00",
+      "ultima_publicacion": "2026-11-19T13:55:00+00:00",
       "recientes": 10
     },
     "guardian-environment": {
@@ -797,8 +795,8 @@
       "fuente": "The Guardian · Medio ambiente",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-18T13:17:41+00:00",
-      "recientes": 13
+      "ultima_publicacion": "2026-11-19T13:48:30+00:00",
+      "recientes": 6
     },
     "bbc-tech": {
       "ok": true,
@@ -806,16 +804,16 @@
       "fuente": "BBC · Tecnología",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-18T13:16:53+00:00",
-      "recientes": 11
+      "ultima_publicacion": "2026-11-19T12:26:39+00:00",
+      "recientes": 6
     },
     "bbc-business": {
       "ok": true,
-      "piezas": 44,
+      "piezas": 51,
       "fuente": "BBC · Economía",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-18T13:17:06+00:00",
+      "ultima_publicacion": "2026-11-19T13:35:52+00:00",
       "recientes": 17
     }
   }

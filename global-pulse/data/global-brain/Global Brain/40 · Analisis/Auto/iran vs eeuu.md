@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-11-18
+actualizado: 2026-11-19
 nodos: 32
 origen: global-pulse
 ---
@@ -10,16 +10,16 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-18. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-19. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante los días analizados, la tensión entre Irán y EE.UU. ha mostrado una relación ambivalente y volátil: mientras persisten los ataques militares y amenazas directas, también se observan intentos diplomáticos liderados por EE.UU. y mediadores regionales para reducir el conflicto. El enfoque de la administración Trump permanece firme en no condicionar acuerdos y en mantener sanciones, aunque hay señales de distensión que influyen en mercados energéticos. La situación sigue siendo incierta, con amenazas cibernéticas y movimientos estratégicos militares que continúan elevando la presión en la región.
+A lo largo de los últimos días, las tensiones entre Estados Unidos e Irán han permanecido elevadas pero con señales mixtas: mientras el presidente Trump descarta la necesidad de un acuerdo, se observan intentos diplomáticos, como la propuesta iraní mediada por Catar y viajes a Moscú. Paralelamente, continúan los incidentes militares y amenazas, incluyendo ataques limitados y movimientos de personal estadounidense por seguridad, pero también hay indicios de distensión como la caída en los precios de la energía.
 
 ## Trend summary (EN)
-Over the analyzed days, tensions between Iran and the U.S. have exhibited an ambivalent and volatile dynamic: while military strikes and direct threats persist, diplomatic efforts led by the U.S. and regional mediators aim at reducing the conflict. The Trump administration maintains a firm stance against conditional agreements and continues sanctions, although signs of easing impact energy markets. The situation remains uncertain, with cyberattacks and strategic military maneuvers further escalating regional pressure.
+Over the past days, tensions between the United States and Iran have remained high but with mixed signals: while President Trump dismisses the need for an agreement, diplomatic efforts are evident such as Iran's Qatar-mediated proposal and trips to Moscow. Simultaneously, military incidents and threats persist, including limited attacks and U.S. personnel relocations for security, though signs of de-escalation are seen like falling energy prices.
 
 > [!note] Estado actual
-> La tensión entre Irán y EE.UU. continúa alta con recientes ataques limitados y declaraciones firmes de Trump, mientras se siguen evaluando propuestas diplomáticas sin avances claros.
+> El estado más reciente indica que Trump reafirma que EE.UU. no necesita un acuerdo con Irán en medio de una combinación de esfuerzos diplomáticos y acciones militares limitadas.
 
 ## Nodos recientes (32 en la ventana)
 | Fecha | Impacto | K | Nodo |

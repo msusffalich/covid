@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-18
-nodos: 18
+actualizado: 2026-11-19
+nodos: 16
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-18. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-19. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo analizado, la situación en Gaza y Oriente Medio ha estado marcada por una combinación de factores políticos, humanitarios y climáticos. En Israel se observa un escenario político inestable con intentos de formar un nuevo gobierno en medio de una oposición dividida y acusaciones de fraude electoral rechazadas por la comisión electoral. Paralelamente, Gaza enfrenta una grave crisis humanitaria agravada por lluvias intensas que han causado inundaciones devastadoras y deslizamientos de tierra en campamentos de desplazados. Esta crisis se ve sumada a tensiones por el uso de tecnología de reconocimiento facial por parte del ejército israelí y la condena internacional por ataques a infraestructuras civiles esenciales, como el hospital Nasser, mientras Estados Unidos anuncia un posible cambio en la ayuda militar a Israel.
+Durante este periodo, la situación en Gaza se ha agravado debido a las intensas lluvias que han provocado inundaciones masivas y deslizamientos de tierra, afectando gravemente a los desplazados palestinos y colapsando la infraestructura local. Paralelamente, en Israel se observan tensiones políticas con el intento de formar un nuevo gobierno y acusaciones sobre el uso de tecnología para vigilancia masiva. A nivel internacional, la condena por los ataques a infraestructuras civiles en Gaza y cambios en la política estadounidense hacia la ayuda militar a Israel reflejan una creciente complejidad y polarización en Oriente Medio.
 
 ## Trend summary (EN)
-During the analyzed period, the situation in Gaza and the Middle East has been marked by a combination of political, humanitarian, and climatic factors. In Israel, a politically unstable scenario unfolds with efforts to form a new government amid a divided opposition and electoral fraud allegations dismissed by the electoral commission. Meanwhile, Gaza faces a severe humanitarian crisis worsened by intense rains causing devastating floods and landslides in displaced persons camps. This crisis is compounded by tensions over the Israeli military’s use of facial recognition technology and international condemnation of attacks on vital civilian infrastructure like the Nasser hospital, while the United States announces a potential shift in military aid to Israel.
+During this period, the situation in Gaza deteriorated due to heavy rains causing widespread flooding and landslides, severely impacting displaced Palestinians and collapsing local infrastructure. Meanwhile, political tensions in Israel are evident with efforts to form a new government and accusations regarding mass surveillance technology use. Internationally, condemnations of attacks on civilian infrastructure in Gaza and shifts in U.S. military aid policy towards Israel highlight growing complexity and polarization in the Middle East.
 
 > [!note] Estado actual
-> En los días más recientes, Gaza continúa sufriendo graves inundaciones que afectan a miles de desplazados, mientras Israel avanza en la formación de un nuevo gobierno tras elecciones sin mayoría clara.
+> Actualmente, Gaza enfrenta una crisis humanitaria grave por las inundaciones y daños en los campamentos de desplazados, mientras en Israel continúa la formación incierta de un nuevo gobierno.
 
-## Nodos recientes (18 en la ventana)
+## Nodos recientes (16 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-18 | 40 | K1 | Perspectiva meteorológica tropical para el Atlántico con baja pr |

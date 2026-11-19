@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-11-18T13:32:23.106222+00:00",
+    "generado": "2026-11-19T14:03:21.249250+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -16,12 +16,12 @@
       "n_nodos": 32,
       "ultima_fecha": "2026-11-12",
       "resumen": {
-        "es": "Durante los días analizados, la tensión entre Irán y EE.UU. ha mostrado una relación ambivalente y volátil: mientras persisten los ataques militares y amenazas directas, también se observan intentos diplomáticos liderados por EE.UU. y mediadores regionales para reducir el conflicto. El enfoque de la administración Trump permanece firme en no condicionar acuerdos y en mantener sanciones, aunque hay señales de distensión que influyen en mercados energéticos. La situación sigue siendo incierta, con amenazas cibernéticas y movimientos estratégicos militares que continúan elevando la presión en la región.",
-        "en": "Over the analyzed days, tensions between Iran and the U.S. have exhibited an ambivalent and volatile dynamic: while military strikes and direct threats persist, diplomatic efforts led by the U.S. and regional mediators aim at reducing the conflict. The Trump administration maintains a firm stance against conditional agreements and continues sanctions, although signs of easing impact energy markets. The situation remains uncertain, with cyberattacks and strategic military maneuvers further escalating regional pressure."
+        "es": "A lo largo de los últimos días, las tensiones entre Estados Unidos e Irán han permanecido elevadas pero con señales mixtas: mientras el presidente Trump descarta la necesidad de un acuerdo, se observan intentos diplomáticos, como la propuesta iraní mediada por Catar y viajes a Moscú. Paralelamente, continúan los incidentes militares y amenazas, incluyendo ataques limitados y movimientos de personal estadounidense por seguridad, pero también hay indicios de distensión como la caída en los precios de la energía.",
+        "en": "Over the past days, tensions between the United States and Iran have remained high but with mixed signals: while President Trump dismisses the need for an agreement, diplomatic efforts are evident such as Iran's Qatar-mediated proposal and trips to Moscow. Simultaneously, military incidents and threats persist, including limited attacks and U.S. personnel relocations for security, though signs of de-escalation are seen like falling energy prices."
       },
       "estado": {
-        "es": "La tensión entre Irán y EE.UU. continúa alta con recientes ataques limitados y declaraciones firmes de Trump, mientras se siguen evaluando propuestas diplomáticas sin avances claros.",
-        "en": "Tensions between Iran and the U.S. remain high with recent limited attacks and firm statements by Trump, amid ongoing evaluation of diplomatic proposals without clear progress."
+        "es": "El estado más reciente indica que Trump reafirma que EE.UU. no necesita un acuerdo con Irán en medio de una combinación de esfuerzos diplomáticos y acciones militares limitadas.",
+        "en": "The most recent status indicates Trump reiterates that the U.S. does not need an agreement with Iran amid a mix of diplomatic efforts and limited military actions."
       },
       "serie": [
         {
@@ -245,21 +245,16 @@
       },
       "color": "#7C6FE4",
       "n_nodos": 45,
-      "ultima_fecha": "2026-11-17",
+      "ultima_fecha": "2026-11-19",
       "resumen": {
-        "es": "Durante los últimos días, el conflicto entre Rusia y Ucrania ha mostrado un aumento en las acciones militares, con ataques significativos de drones ucranianos en territorio ruso y daños a infraestructuras clave como el puente de Kerch. Paralelamente, continúan las negociaciones de paz mediadas por EE.UU., aunque con posturas firmes y dificultades para alcanzar acuerdos amplios, mientras que Ucrania enfrenta presiones tanto en el terreno como en su búsqueda de apoyo internacional, incluida la consideración de concesiones territoriales para ingresar a la OTAN. Además, el enfrentamiento se extiende a dimensiones tecnológicas y geopolíticas, con sanciones, interrupciones en tecnologías satelitales y esfuerzos rusos por dividir a Europa.",
-        "en": "In recent days, the Russia-Ukraine conflict has escalated with significant Ukrainian drone attacks on Russian territory, including damage to critical infrastructure like the Kerch bridge. Meanwhile, US-mediated peace talks continue with firm positions and challenges to reach broad agreements, as Ukraine faces pressures both on the battlefield and in securing international support, including proposals to concede territory for NATO membership. Additionally, the conflict spans technological and geopolitical dimensions, involving sanctions, satellite technology disruptions, and Russian attempts to divide Europe."
+        "es": "Durante el periodo, el conflicto entre Rusia y Ucrania continuó con ofensivas militares destacadas, como ataques con drones sobre Moscú y el puente de Kerch, y con intensas negociaciones diplomáticas que involucran a Estados Unidos y líderes mundiales en busca de soluciones, incluyendo propuestas de cesión territorial por parte de Ucrania para su ingreso a la OTAN. La situación muestra una escalada en la guerra tecnológica y militar, mientras la diplomacia intenta abrir caminos hacia la paz, aunque con avances inciertos y posiciones firmes de ambos lados.",
+        "en": "During the period, the conflict between Russia and Ukraine saw significant military offensives including drone attacks on Moscow and the Kerch Bridge, alongside intense diplomatic negotiations involving the United States and global leaders aiming for solutions, including proposals for Ukraine to cede territory in exchange for NATO membership. The situation exhibits escalation in technological and military warfare while diplomacy seeks avenues towards peace, although progress remains uncertain with firm stances from both sides."
       },
       "estado": {
-        "es": "La situación más reciente muestra una intensificación militar con ataques masivos de drones ucranianos sobre Moscú y medidas diplomáticas en curso sin avances decisivos en las negociaciones de paz.",
-        "en": "The latest situation shows intensified military actions with massive Ukrainian drone attacks over Moscow and ongoing diplomatic efforts without decisive progress in peace negotiations."
+        "es": "Una reunión histórica entre Trump, Xi y Putin en APEC refleja un enfoque renovado en la paz internacional, aunque la situación sobre Ucrania sigue siendo frágil y compleja.",
+        "en": "A historic meeting between Trump, Xi, and Putin at APEC reflects a renewed focus on international peace, though the situation regarding Ukraine remains fragile and complex."
       },
       "serie": [
-        {
-          "fecha": "2026-10-29",
-          "max": 70,
-          "n": 1
-        },
         {
           "fecha": "2026-10-30",
           "max": 68,
@@ -344,9 +339,26 @@
           "fecha": "2026-11-17",
           "max": 75,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-19",
+          "max": 85,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-19",
+          "titulo": {
+            "es": "Reunión histórica entre Trump, Xi y Putin en la cumbre de APEC en China",
+            "en": "Historic meeting between Trump, Xi, and Putin at APEC summit in China"
+          },
+          "impacto": 85,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
+          "fuente": "The Guardian"
+        },
         {
           "fecha": "2026-11-17",
           "titulo": {
@@ -478,18 +490,6 @@
           "kardashev": "K1",
           "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
           "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-11-11",
-          "titulo": {
-            "es": "Conversaciones Ucrania-Rusia en Abu Dabi terminan con acuerdo de canje de prisioneros",
-            "en": "Ukraine-Russia talks end with prisoner swap deal, Moscow cool on EU role"
-          },
-          "impacto": 68,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
-          "fuente": "The Guardian"
         }
       ]
     },
@@ -500,22 +500,17 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 18,
+      "n_nodos": 16,
       "ultima_fecha": "2026-11-18",
       "resumen": {
-        "es": "Durante el periodo analizado, la situación en Gaza y Oriente Medio ha estado marcada por una combinación de factores políticos, humanitarios y climáticos. En Israel se observa un escenario político inestable con intentos de formar un nuevo gobierno en medio de una oposición dividida y acusaciones de fraude electoral rechazadas por la comisión electoral. Paralelamente, Gaza enfrenta una grave crisis humanitaria agravada por lluvias intensas que han causado inundaciones devastadoras y deslizamientos de tierra en campamentos de desplazados. Esta crisis se ve sumada a tensiones por el uso de tecnología de reconocimiento facial por parte del ejército israelí y la condena internacional por ataques a infraestructuras civiles esenciales, como el hospital Nasser, mientras Estados Unidos anuncia un posible cambio en la ayuda militar a Israel.",
-        "en": "During the analyzed period, the situation in Gaza and the Middle East has been marked by a combination of political, humanitarian, and climatic factors. In Israel, a politically unstable scenario unfolds with efforts to form a new government amid a divided opposition and electoral fraud allegations dismissed by the electoral commission. Meanwhile, Gaza faces a severe humanitarian crisis worsened by intense rains causing devastating floods and landslides in displaced persons camps. This crisis is compounded by tensions over the Israeli military’s use of facial recognition technology and international condemnation of attacks on vital civilian infrastructure like the Nasser hospital, while the United States announces a potential shift in military aid to Israel."
+        "es": "Durante este periodo, la situación en Gaza se ha agravado debido a las intensas lluvias que han provocado inundaciones masivas y deslizamientos de tierra, afectando gravemente a los desplazados palestinos y colapsando la infraestructura local. Paralelamente, en Israel se observan tensiones políticas con el intento de formar un nuevo gobierno y acusaciones sobre el uso de tecnología para vigilancia masiva. A nivel internacional, la condena por los ataques a infraestructuras civiles en Gaza y cambios en la política estadounidense hacia la ayuda militar a Israel reflejan una creciente complejidad y polarización en Oriente Medio.",
+        "en": "During this period, the situation in Gaza deteriorated due to heavy rains causing widespread flooding and landslides, severely impacting displaced Palestinians and collapsing local infrastructure. Meanwhile, political tensions in Israel are evident with efforts to form a new government and accusations regarding mass surveillance technology use. Internationally, condemnations of attacks on civilian infrastructure in Gaza and shifts in U.S. military aid policy towards Israel highlight growing complexity and polarization in the Middle East."
       },
       "estado": {
-        "es": "En los días más recientes, Gaza continúa sufriendo graves inundaciones que afectan a miles de desplazados, mientras Israel avanza en la formación de un nuevo gobierno tras elecciones sin mayoría clara.",
-        "en": "In the most recent days, Gaza continues to suffer severe flooding affecting thousands of displaced people, while Israel moves forward with forming a new government after elections with no clear majority."
+        "es": "Actualmente, Gaza enfrenta una crisis humanitaria grave por las inundaciones y daños en los campamentos de desplazados, mientras en Israel continúa la formación incierta de un nuevo gobierno.",
+        "en": "Currently, Gaza faces a severe humanitarian crisis due to flooding and damage in displaced persons camps, while in Israel the formation of a new government remains uncertain."
       },
       "serie": [
-        {
-          "fecha": "2026-10-29",
-          "max": 65,
-          "n": 2
-        },
         {
           "fecha": "2026-10-30",
           "max": 68,
@@ -726,15 +721,15 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 20,
-      "ultima_fecha": "2026-11-16",
+      "n_nodos": 23,
+      "ultima_fecha": "2026-11-19",
       "resumen": {
-        "es": "Durante el periodo, la gobernanza y el riesgo asociados a la inteligencia artificial han cobrado protagonismo por diversos motivos, incluyendo desafíos de liderazgo en empresas clave como Nvidia, preocupaciones regulatorias sobre exportación de chips a China y vulnerabilidades de seguridad como el hackeo en Australia. Paralelamente, se observan avances en el uso responsable y aplicaciones benéficas de la IA, con iniciativas estratégicas de grandes corporaciones y herramientas que apoyan sectores sociales, aunque persisten tensiones en el mercado y escepticismo público sobre la expansión de centros de datos y salidas a bolsa en el sector IA.",
-        "en": "During the period, AI governance and risk have gained prominence due to various factors, including leadership challenges in key companies like Nvidia, regulatory concerns around chip exports to China, and security vulnerabilities such as the hacking incident in Australia. At the same time, progress is seen in responsible use and beneficial AI applications, with strategic initiatives from major corporations and tools supporting social sectors, although market tensions and public skepticism remain regarding data center expansion and IPOs in the AI sector."
+        "es": "Durante este periodo, el tema de gobernanza y riesgo de la inteligencia artificial ha evolucionado mostrando una creciente preocupación por sus impactos tanto en infraestructura energética como en ciberseguridad; se observa un aumento en incidentes de ciberataques con IA, así como desafíos regulatorios y tensiones geopolíticas relacionadas con el control de la tecnología y la exportación de chips. A pesar de estas problemáticas, continúan las inversiones y alianzas estratégicas para potenciar usos positivos de la IA, aunque la opinión pública presenta un creciente recelo hacia algunas empresas del sector.",
+        "en": "During this period, the topic of AI governance and risk has evolved with growing concerns about its impacts on energy infrastructure and cybersecurity; there is an increase in AI-driven cyberattacks, alongside regulatory challenges and geopolitical tensions concerning technology control and chip exports. Despite these issues, investments and strategic partnerships to enhance positive AI applications continue, although public sentiment shows increasing skepticism towards some companies in the sector."
       },
       "estado": {
-        "es": "En la fecha más reciente, LVMH y OpenAI anunciaron una alianza estratégica para apoyar el periodismo mediante inteligencia artificial, reflejando un enfoque hacia colaboraciones responsables y de impacto social.",
-        "en": "On the most recent date, LVMH and OpenAI announced a strategic partnership to support journalism through artificial intelligence, reflecting a focus on responsible and socially impactful collaborations."
+        "es": "La situación más reciente refleja una presión creciente para la implementación de medidas regulatorias y de seguridad tras incidentes destacados de ciberseguridad y un panorama geopolítico tenso alrededor de la gestión de tecnologías de IA.",
+        "en": "The most recent situation reflects increasing pressure for regulatory and security measures following notable cybersecurity incidents and a tense geopolitical landscape concerning AI technology management."
       },
       "serie": [
         {
@@ -801,9 +796,50 @@
           "fecha": "2026-11-16",
           "max": 60,
           "n": 2
+        },
+        {
+          "fecha": "2026-11-19",
+          "max": 80,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-19",
+          "titulo": {
+            "es": "Uso de electricidad en centros de datos podría duplicarse para 2030, según la AIE",
+            "en": "Data center electricity use could double by 2030, IEA says"
+          },
+          "impacto": 80,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-11-19",
+          "titulo": {
+            "es": "Ciberataque con herramienta de IA accede a servidores internos de la Comisión Europea",
+            "en": "AI-powered cyberattack accesses European Commission internal servers"
+          },
+          "impacto": 75,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://elpais.com/internacional/2026-11-19/un-ciberataque-con-una-herramienta-de-ia-accede-a-los-servidores-internos-de-la-comision-europea.html",
+          "fuente": "El País"
+        },
+        {
+          "fecha": "2026-11-19",
+          "titulo": {
+            "es": "Acciones de Palo Alto Networks suben tras reporte de ganancias impulsado por IA",
+            "en": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings"
+          },
+          "impacto": 70,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+          "fuente": "MarketWatch"
+        },
         {
           "fecha": "2026-11-16",
           "titulo": {
@@ -911,42 +947,6 @@
           "kardashev": "K2",
           "url": "https://openai.com/index/cultfit-builds-with-codex",
           "fuente": "OpenAI"
-        },
-        {
-          "fecha": "2026-11-05",
-          "titulo": {
-            "es": "OpenAI presenta marco para infraestructura de IA responsable",
-            "en": "OpenAI introduces framework for responsible AI infrastructure"
-          },
-          "impacto": 55,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-          "fuente": "OpenAI"
-        },
-        {
-          "fecha": "2026-11-05",
-          "titulo": {
-            "es": "OpenAI anuncia adquisición de Pierre Computer Company",
-            "en": "OpenAI announces acquisition of Pierre Computer Company"
-          },
-          "impacto": 40,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://openai.com/index/openai-to-acquire-pierre",
-          "fuente": "OpenAI"
-        },
-        {
-          "fecha": "2026-11-03",
-          "titulo": {
-            "es": "Nasdaq-100 entra en su tercera corrección del año por temores sobre la IA",
-            "en": "Nasdaq-100 tumbles into its third correction this year as AI worries mount"
-          },
-          "impacto": 65,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
-          "fuente": "MarketWatch"
         }
       ]
     },
@@ -957,22 +957,17 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 47,
-      "ultima_fecha": "2026-11-18",
+      "n_nodos": 45,
+      "ultima_fecha": "2026-11-19",
       "resumen": {
-        "es": "Durante el periodo analizado, el tema del impacto climático ha mostrado un creciente enfoque en las consecuencias inmediatas como severas inundaciones en diversas regiones del mundo, incluyendo Florida, Pakistán y partes de Europa. Simultáneamente, las negociaciones en la COP31 se han centrado en acelerar la transición energética y la responsabilidad de los países ricos, mientras se presentan iniciativas para mejorar la respuesta a desastres. La discusión combina urgencia por eventos climáticos extremos y esfuerzos políticos multilaterales para combatir el cambio climático.",
-        "en": "During the analyzed period, the climate impact topic has increasingly focused on immediate consequences such as severe flooding in various regions worldwide, including Florida, Pakistan, and parts of Europe. Simultaneously, the COP31 negotiations have centered on accelerating energy transition and accountability of wealthy countries, alongside initiatives to improve disaster response. The discourse combines urgency over extreme weather events with multilateral political efforts to combat climate change."
+        "es": "Durante el periodo analizado, el enfoque en la crisis climática se ha intensificado notablemente, con una COP31 que destaca por el impulso a la transición energética y la responsabilidad del Norte Global. Paralelamente, eventos extremos como inundaciones en Florida, Pakistán y Europa evidencian el creciente impacto climático, mientras que acciones judiciales y diplomáticas buscan limitar la explotación de combustibles fósiles y mejorar la cooperación internacional.",
+        "en": "Throughout the analyzed period, attention to the climate crisis has notably intensified, with COP31 emphasizing energy transition and Northern countries' responsibility. At the same time, extreme events such as floods in Florida, Pakistan, and Europe highlight the increasing climate impact, while judicial and diplomatic actions seek to limit fossil fuel exploitation and improve international cooperation."
       },
       "estado": {
-        "es": "Actualmente, las negociaciones climáticas de la COP31 continúan intentando avanzar en compromisos para acelerar la transición energética y abordar los daños ambientales, mientras las inundaciones severas siguen afectando múltiples regiones.",
-        "en": "Currently, COP31 climate negotiations continue attempting to advance commitments to accelerate the energy transition and address environmental damages, while severe flooding persists in multiple regions."
+        "es": "Las negociaciones de la COP31 continúan avanzando con un llamado a acelerar el alejamiento de combustibles fósiles y mayor colaboración entre países para enfrentar impactos climáticos crecientes.",
+        "en": "COP31 negotiations continue progressing with calls to accelerate fossil fuel phase-out and enhance collaboration among countries to face increasing climate impacts."
       },
       "serie": [
-        {
-          "fecha": "2026-10-29",
-          "max": 65,
-          "n": 3
-        },
         {
           "fecha": "2026-10-30",
           "max": 42,
@@ -1052,9 +1047,26 @@
           "fecha": "2026-11-18",
           "max": 70,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-19",
+          "max": 65,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-19",
+          "titulo": {
+            "es": "Cumbre entre la UE y Reino Unido en Bruselas aborda Brexit y movilidad juvenil",
+            "en": "EU-UK summit in Brussels addresses Brexit and youth mobility"
+          },
+          "impacto": 65,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
+          "fuente": "The Guardian"
+        },
         {
           "fecha": "2026-11-18",
           "titulo": {
@@ -1186,18 +1198,6 @@
           "kardashev": "K1",
           "url": "https://www.fao.org/newsroom/detail/un-launches-disaster-risk-financing-platform-at-cop31-to-make-humanitarian-responses-faster-and-more-predictable/en",
           "fuente": "FAO"
-        },
-        {
-          "fecha": "2026-11-12",
-          "titulo": {
-            "es": "NOAA no prevé formación de ciclones tropicales en el Atlántico",
-            "en": "NOAA forecasts no tropical cyclone formation in the Atlantic"
-          },
-          "impacto": 20,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
-          "fuente": "NOAA · Centro Nacional de Huracanes"
         }
       ]
     },
@@ -1208,22 +1208,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 79,
-      "ultima_fecha": "2026-11-16",
+      "n_nodos": 76,
+      "ultima_fecha": "2026-11-19",
       "resumen": {
-        "es": "Durante este período, la economía global mostró señales de vulnerabilidad y complejidad, marcada por una creciente interacción entre avances tecnológicos, especialmente en inteligencia artificial, y riesgos financieros asociados, como lo evidencian las preocupaciones del FMI y la salida a bolsa de Anthropic. Paralelamente, la seguridad financiera se vio afectada por incidentes significativos en criptomonedas y ajustes en supervisión bancaria, mientras que temas críticos como el cambio climático y la producción energética continuaron influyendo en las perspectivas económicas globales. La dinámica también incluyó indicadores mixtos de crecimiento económico y retos corporativos, reflejando una economía global en transición y bajo escrutinio.",
-        "en": "During this period, the global economy demonstrated vulnerability and complexity, highlighted by the growing interplay between technological advances, especially in artificial intelligence, and associated financial risks, as evidenced by the IMF's concerns and Anthropic's IPO. Concurrently, financial security was impacted by significant cryptocurrency incidents and shifts in banking supervision, while critical issues such as climate change and energy production continued to influence global economic outlooks. The dynamics also included mixed economic growth indicators and corporate challenges, reflecting a global economy in transition and under close scrutiny."
+        "es": "Durante el periodo analizado, la economía global muestra una creciente influencia de la inteligencia artificial, que impulsa tanto la demanda en sectores clave como la ciberseguridad como preocupaciones macroeconómicas por el aumento de precios y la necesidad de subir tasas de interés. Al mismo tiempo, persisten desafíos relacionados con la estabilidad financiera, la supervisión bancaria, y la gestión de riesgos asociados a IA, mientras la crisis climática y la dinámica energética continúan generando debates y decisiones regulatorias importantes a nivel global. La actividad en los mercados de criptomonedas y producción energética también refleja tensiones geopolíticas y perspectivas de crecimiento diferencial en regiones específicas.",
+        "en": "During the analyzed period, the global economy is increasingly influenced by artificial intelligence, driving demand in key sectors such as cybersecurity while raising macroeconomic concerns about rising prices and the need for interest rate hikes. Simultaneously, challenges remain regarding financial stability, bank supervision, and managing AI-related risks, while climate crisis and energy transition debates and regulations continue globally. Activity in cryptocurrency markets and energy production also reflect geopolitical tensions and varying growth prospects in specific regions."
       },
       "estado": {
-        "es": "La jefa del FMI advierte sobre la fragilidad continua de la economía global en un contexto de financiamiento masivo en inteligencia artificial y riesgos financieros elevados relacionados con esta tecnología.",
-        "en": "The IMF chief warns of ongoing fragility in the global economy amid massive financing in artificial intelligence and heightened financial risks related to this technology."
+        "es": "La jefa del FMI advierte que la creciente demanda de hardware de IA está elevando los precios y forzará a bancos centrales a subir las tasas de interés.",
+        "en": "The IMF chief warns that rising demand for AI hardware is increasing prices and will force central banks to raise interest rates."
       },
       "serie": [
-        {
-          "fecha": "2026-10-29",
-          "max": 75,
-          "n": 5
-        },
         {
           "fecha": "2026-10-30",
           "max": 62,
@@ -1303,9 +1298,38 @@
           "fecha": "2026-11-16",
           "max": 75,
           "n": 3
+        },
+        {
+          "fecha": "2026-11-19",
+          "max": 80,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-19",
+          "titulo": {
+            "es": "Demanda de IA impulsará aumento de tasas de interés globales, advierte jefa del FMI",
+            "en": "AI demand will push up interest rates around the world, IMF head warns"
+          },
+          "impacto": 80,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-11-19",
+          "titulo": {
+            "es": "Acciones de Palo Alto Networks suben tras reporte de ganancias impulsado por IA",
+            "en": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings"
+          },
+          "impacto": 70,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+          "fuente": "MarketWatch"
+        },
         {
           "fecha": "2026-11-16",
           "titulo": {
@@ -1425,30 +1449,6 @@
           "kardashev": "K1",
           "url": "https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall",
           "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-11-11",
-          "titulo": {
-            "es": "Anthropic fija precio de su salida a bolsa de 1.3 billones de dólares pese a advertencia 'catastrófica'",
-            "en": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning"
-          },
-          "impacto": 64,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC · Tecnología"
-        },
-        {
-          "fecha": "2026-11-11",
-          "titulo": {
-            "es": "Inflación en EE.UU. sube más de lo esperado en octubre",
-            "en": "US inflation higher than expected in October"
-          },
-          "impacto": 60,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC · Economía"
         }
       ]
     }

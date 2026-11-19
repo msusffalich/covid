@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-11-18
-nodos: 79
+actualizado: 2026-11-19
+nodos: 76
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-18. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-19. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante este período, la economía global mostró señales de vulnerabilidad y complejidad, marcada por una creciente interacción entre avances tecnológicos, especialmente en inteligencia artificial, y riesgos financieros asociados, como lo evidencian las preocupaciones del FMI y la salida a bolsa de Anthropic. Paralelamente, la seguridad financiera se vio afectada por incidentes significativos en criptomonedas y ajustes en supervisión bancaria, mientras que temas críticos como el cambio climático y la producción energética continuaron influyendo en las perspectivas económicas globales. La dinámica también incluyó indicadores mixtos de crecimiento económico y retos corporativos, reflejando una economía global en transición y bajo escrutinio.
+Durante el periodo analizado, la economía global muestra una creciente influencia de la inteligencia artificial, que impulsa tanto la demanda en sectores clave como la ciberseguridad como preocupaciones macroeconómicas por el aumento de precios y la necesidad de subir tasas de interés. Al mismo tiempo, persisten desafíos relacionados con la estabilidad financiera, la supervisión bancaria, y la gestión de riesgos asociados a IA, mientras la crisis climática y la dinámica energética continúan generando debates y decisiones regulatorias importantes a nivel global. La actividad en los mercados de criptomonedas y producción energética también refleja tensiones geopolíticas y perspectivas de crecimiento diferencial en regiones específicas.
 
 ## Trend summary (EN)
-During this period, the global economy demonstrated vulnerability and complexity, highlighted by the growing interplay between technological advances, especially in artificial intelligence, and associated financial risks, as evidenced by the IMF's concerns and Anthropic's IPO. Concurrently, financial security was impacted by significant cryptocurrency incidents and shifts in banking supervision, while critical issues such as climate change and energy production continued to influence global economic outlooks. The dynamics also included mixed economic growth indicators and corporate challenges, reflecting a global economy in transition and under close scrutiny.
+During the analyzed period, the global economy is increasingly influenced by artificial intelligence, driving demand in key sectors such as cybersecurity while raising macroeconomic concerns about rising prices and the need for interest rate hikes. Simultaneously, challenges remain regarding financial stability, bank supervision, and managing AI-related risks, while climate crisis and energy transition debates and regulations continue globally. Activity in cryptocurrency markets and energy production also reflect geopolitical tensions and varying growth prospects in specific regions.
 
 > [!note] Estado actual
-> La jefa del FMI advierte sobre la fragilidad continua de la economía global en un contexto de financiamiento masivo en inteligencia artificial y riesgos financieros elevados relacionados con esta tecnología.
+> La jefa del FMI advierte que la creciente demanda de hardware de IA está elevando los precios y forzará a bancos centrales a subir las tasas de interés.
 
-## Nodos recientes (79 en la ventana)
+## Nodos recientes (76 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-19 | 80 | K1 | Demanda de IA impulsará aumento de tasas de interés globales, ad |
+| 2026-11-19 | 70 | K1 | Acciones de Palo Alto Networks suben tras reporte de ganancias i |
 | 2026-11-16 | 75 | K1 | Jefa del FMI alerta sobre economía global vulnerable y financiam |
 | 2026-11-16 | 70 | K0 | IPO de Anthropic desafía a inversores a evaluar riesgos no asegu |
 | 2026-11-16 | 55 | K0 | El Banco Central Europeo pide supervisión inteligente para banco |
@@ -34,7 +36,5 @@ During this period, the global economy demonstrated vulnerability and complexity
 | 2026-11-12 | 70 | K1 | Junta de Nvidia evalúa el futuro del CEO Jensen Huang |
 | 2026-11-12 | 48 | K1 | Economía del Reino Unido crece al ritmo más rápido en más de dos |
 | 2026-11-12 | 40 | K1 | Metro Bank se pone en venta con ganancia potencial de 420 millon |
-| 2026-11-11 | 64 | K1 | Anthropic fija precio de su salida a bolsa de 1.3 billones de dó |
-| 2026-11-11 | 60 | K1 | Inflación en EE.UU. sube más de lo esperado en octubre |
 
 [[Global Brain — Inicio|← Inicio]]
