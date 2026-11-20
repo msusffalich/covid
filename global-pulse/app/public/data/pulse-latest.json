@@ -1,83 +1,1017 @@
 {
   "meta": {
     "schema": "2.0",
-    "fecha": "2026-11-19",
-    "generado": "2026-11-19T14:03:01.864998+00:00",
+    "fecha": "2026-11-20",
+    "generado": "2026-11-20T13:46:00.766026+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "nodos": 9,
-      "verificados": 9,
-      "piezas_ingeridas": 203,
+      "nodos": 28,
+      "verificados": 28,
+      "piezas_ingeridas": 198,
       "canales_consultados": 46,
       "canales_disponibles": 38,
-      "documentos_recientes": 341
+      "documentos_recientes": 339
     },
     "descargo": "",
-    "corte": "2026-11-19T13:58:51.632819+00:00",
-    "reporte_sha256": "bf6f4a863490714d45490a14271c21371fc4a954ca49b42022bafed07cf0028f",
+    "corte": "2026-11-20T13:40:27.976247+00:00",
+    "reporte_sha256": "a5375b40da7271d0e300af005c1242cdf89c766767bc9ad56f48248ee3121dfa",
     "estado": "análisis pendiente",
     "politica_fuentes": "mixta-v1",
-    "reporte_archivo": "2026-11-19 — Pulso.md"
+    "reporte_archivo": "2026-11-20 — Pulso.md"
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Reunión histórica entre Trump, Xi y Putin en la cumbre de APEC en China",
-        "en": "Historic meeting between Trump, Xi, and Putin at APEC summit in China"
+        "es": "Persiste sistema de baja presión frente a la costa sureste de EE.UU. con potencial tropical",
+        "en": "Persistent low pressure system off the southeast U.S. coast with tropical potential"
       },
       "sintesis": {
-        "es": "Donald Trump, Xi Jinping y Vladimir Putin mantuvieron una histórica reunión en Shenzhen, China, con un enfoque en la paz internacional y las armas nucleares, calificando el encuentro como un hito sin precedentes.",
-        "en": "Donald Trump, Xi Jinping, and Vladimir Putin held a historic meeting in Shenzhen, China, focusing on international peace and nuclear weapons, calling the encounter an unprecedented milestone."
+        "es": "Un sistema de baja presión cerca de Florida produce lluvias y tormentas, con riesgo de vientos fuertes, olas peligrosas e inundaciones costeras en la costa sureste y medio atlántica de EE.UU.",
+        "en": "A low pressure system near Florida is producing rain and storms, with risks of strong winds, dangerous surf, and coastal flooding along the U.S. southeast and mid-Atlantic coasts."
+      },
+      "categoria": "clima",
+      "actores": [
+        "NOAA",
+        "NWS National Hurricane Center"
+      ],
+      "geo": {
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_1922f3f40d"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_1922f3f40d",
+          "titulo": "Atlantic Tropical Weather Outlook",
+          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
+          "fuente": "NOAA · Centro Nacional de Huracanes",
+          "fecha": "Fri, 20 Nov 2026 11:38:16 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0000",
+      "fecha": "2026-11-20",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "COP31 queda en entredicho por borrado de menciones a combustibles fósiles en borrador",
+        "en": "COP31 questioned as fossil fuel mentions removed from draft"
+      },
+      "sintesis": {
+        "es": "El borrador del acuerdo de COP31 elimina toda referencia a combustibles fósiles y difumina compromisos financieros para países en desarrollo.",
+        "en": "The COP31 draft agreement removes all fossil fuel references and weakens financial climate support for developing countries."
+      },
+      "categoria": "clima",
+      "actores": [
+        "COP31"
+      ],
+      "geo": {
+        "lat": 39.0,
+        "lon": 35.2,
+        "region": "Oriente Medio"
+      },
+      "impacto": 80,
+      "fuentes": [
+        "ev_1e9170762f"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/0dcf2f4e26be89799494e7fe6683b3cdce430515/1005_0_6600_5280/master/6600.jpg?width=140&quality=85&auto=format&fit=max&s=dd752f6da9465c083514133dcda63540"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_1e9170762f",
+          "titulo": "Cop31 told it risks being ‘ghost’ summit as all mentions of fossil fuels removed from draft text",
+          "url": "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Thu, 19 Nov 2026 17:58:21 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0001",
+      "fecha": "2026-11-20",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-20_0002",
+        "nd_2026-11-20_0003"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Conflicto en Irán provoca contaminación ambiental en el Golfo Pérsico",
+        "en": "Conflict in Iran causes environmental damage in Persian Gulf"
+      },
+      "sintesis": {
+        "es": "La guerra entre EEUU, Israel e Irán ha convertido el Estrecho de Hormuz en un foco de contaminación por fugas petroleras tras ataques a petroleros.",
+        "en": "The war between the US, Israel, and Iran has turned the Strait of Hormuz into an environmental disaster zone with oil spills following tanker attacks."
+      },
+      "categoria": "clima",
+      "actores": [
+        "The Guardian"
+      ],
+      "geo": {
+        "lat": 32.4,
+        "lon": 53.7,
+        "region": "Oriente Medio"
+      },
+      "impacto": 75,
+      "fuentes": [
+        "ev_cb30ab42bb"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/81858b5185d8ec0e2ff40f48104308d71b535c20/247_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=301c31490c72501cce67e5a6820f9928"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_cb30ab42bb",
+          "titulo": "How the war in Iran turned the Gulf into a climate catastrophe – video explainer",
+          "url": "https://www.theguardian.com/world/video/2026/nov/20/how-the-war-in-iran-turned-the-gulf-into-a-climate-catastrophe-video-explainer",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Fri, 20 Nov 2026 12:00:38 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0002",
+      "fecha": "2026-11-20",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-20_0001",
+        "nd_2026-11-20_0003"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "África exige más financiación climática en COP31; Europa pide usar fondos ya comprometidos",
+        "en": "Africa demands more climate financing at COP31; Europe urges use of already pledged funds"
+      },
+      "sintesis": {
+        "es": "Países africanos en la COP31 exigen mayor financiamiento para abordar el cambio climático; Europa sugiere usar lo que ya fue comprometido.",
+        "en": "African countries at COP31 demand increased funding to address climate change; Europe urges utilization of previously pledged funds."
+      },
+      "categoria": "clima",
+      "actores": [
+        "COP31",
+        "BBC News"
+      ],
+      "geo": {
+        "lat": 39.0,
+        "lon": 35.2,
+        "region": "Oriente Medio"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_bd50c5767f"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_bd50c5767f",
+          "titulo": "More climate money for Africa? Europe says use what's already pledged",
+          "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Fri, 20 Nov 2026 05:03:43 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0003",
+      "fecha": "2026-11-20",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-20_0001",
+        "nd_2026-11-20_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Voyager 1 alcanza un día luz de distancia de la Tierra tras 49 años de viaje",
+        "en": "Voyager 1 reaches one light-day from Earth after 49 years of travel"
+      },
+      "sintesis": {
+        "es": "La sonda Voyager 1 se convierte en la nave más lejana alcanzando la distancia de un día luz desde la Tierra después de casi cinco décadas de viaje.",
+        "en": "Voyager 1 becomes the farthest spacecraft reaching one light-day distance from Earth after nearly five decades of travel."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "NASA"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_9c662b01e7"
+      ],
+      "imagenes": [
+        "https://www.youtube.com/embed/0Ke0s62W4yY"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_9c662b01e7",
+          "titulo": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+          "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+          "fuente": "NASA",
+          "fecha": "Thu, 19 Nov 2026 14:31:15 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0004",
+      "fecha": "2026-11-20",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-11-20_0005",
+        "nd_2026-11-20_0006"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Nuevo método basado en datos de NASA permite descubrir púlsares más rápido",
+        "en": "New NASA data method enables faster discovery of pulsars"
+      },
+      "sintesis": {
+        "es": "Un equipo internacional desarrolló un método usando datos abiertos de la misión Fermi que encuentra púlsares un millón de veces más rápido.",
+        "en": "An international team developed a method using NASA Fermi's open data to find pulsars a million times faster."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "NASA",
+        "Fermi mission"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_efea76a621"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_efea76a621",
+          "titulo": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+          "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+          "fuente": "NASA",
+          "fecha": "Thu, 19 Nov 2026 15:33:55 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0005",
+      "fecha": "2026-11-20",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-11-20_0004",
+        "nd_2026-11-20_0006"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "NASA prueba motor RS-25 para misiones Artemis futuras",
+        "en": "NASA tests RS-25 engine supporting future Artemis missions"
+      },
+      "sintesis": {
+        "es": "NASA realizó exitosas pruebas al motor RS-25 para futuras misiones Artemis en el Centro Stennis, reforzando su desarrollo para vuelos espaciales.",
+        "en": "NASA successfully tested RS-25 engine at Stennis Center for future Artemis missions, advancing its spaceflight readiness."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "NASA"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_9ef0725647"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_9ef0725647",
+          "titulo": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+          "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+          "fuente": "NASA",
+          "fecha": "Thu, 19 Nov 2026 14:44:39 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0006",
+      "fecha": "2026-11-20",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-11-20_0004",
+        "nd_2026-11-20_0005"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Google Quantum AI demuestra contextualidad en algoritmos cuánticos a gran escala",
+        "en": "Google Quantum AI proves contextuality in large-scale quantum algorithms"
+      },
+      "sintesis": {
+        "es": "Google ha demostrado que la contextualidad impulsa los algoritmos cuánticos en gran escala, superando límites clásicos en procesamiento cuántico.",
+        "en": "Google proved contextuality powers large-scale quantum algorithms, beating classical limits in quantum computing."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Google"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_89ac1ae6c7"
+      ],
+      "imagenes": [
+        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Quantum_Contextuality_Social_Sh.max-600x600.format-webp.webp"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_89ac1ae6c7",
+          "titulo": "How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+          "fuente": "Google",
+          "fecha": "Thu, 19 Nov 2026 19:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0007",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-20_0008"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Google impulsa certificados granulares para rastreo y compra de energía limpia",
+        "en": "Google promotes granular certificates to track and purchase clean energy"
+      },
+      "sintesis": {
+        "es": "Google está escalando certificados granulares para registrar energía limpia hora por hora, apoyando redes eléctricas más confiables y verdes.",
+        "en": "Google scales granular certificates to log clean energy hour-by-hour, supporting more reliable and greener power grids."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "Google"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_35427f0da4"
+      ],
+      "imagenes": [
+        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_35427f0da4",
+          "titulo": "A smarter way to track and buy clean energy",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/",
+          "fuente": "Google",
+          "fecha": "Thu, 19 Nov 2026 17:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0008",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-20_0007"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "EE.UU. realiza primera venta de concesiones para minería profunda de océanos cerca de Samoa Americana",
+        "en": "US holds first deep sea mining lease sale near American Samoa"
+      },
+      "sintesis": {
+        "es": "EE.UU. vendió licencias para exploración minera en aguas profundas frente a Samoa Americana pese a oposición local y anulación judicial.",
+        "en": "US auctioned deep sea mining exploration leases off American Samoa despite local opposition and a court ruling."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "Marine Minerals Administration",
+        "Wetstone US Ventures"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_43b82a6210"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/52db2ad2ef1b34df495e559d0c7e7937ed3973ec/275_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=fb3f05b6064c43c19561581d194d92f1"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_43b82a6210",
+          "titulo": "‘The Pacific is not for sale’: outcry after US holds first deep sea mining lease sale near American Samoa",
+          "url": "https://www.theguardian.com/environment/2026/nov/20/us-deep-sea-mining-lease-auction-american-samoa",
+          "fuente": "The Guardian · Medio ambiente",
+          "fecha": "Fri, 20 Nov 2026 03:14:07 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0009",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Senado estadounidense aprueba reforma para acelerar permisos en sectores de IA y energía",
+        "en": "US Senate passes permitting reform bill backed by AI and energy sectors"
+      },
+      "sintesis": {
+        "es": "El Senado de EE.UU. aprobó una reforma para acelerar procesos de permisos en sectores de inteligencia artificial y energía.",
+        "en": "US Senate passed a reform bill to speed up permitting processes in AI and energy sectors."
+      },
+      "categoria": "recursos",
+      "actores": [
+        "Senado de EE.UU."
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_534d02f527"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_534d02f527",
+          "titulo": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+          "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 20 Nov 2026 03:56:17 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0010",
+      "fecha": "2026-11-20",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Acumulación de suministros de emergencia impulsa ventas minoristas en Reino Unido",
+        "en": "Stockpiling emergency supplies drives UK retail sales spike"
+      },
+      "sintesis": {
+        "es": "Las ventas minoristas en Reino Unido aumentaron en octubre por compras aceleradas de alimentos y suministros tras campaña de preparación para emergencias.",
+        "en": "UK retail sales surged in October due to accelerated buying of food and supplies after emergency readiness campaign."
+      },
+      "categoria": "cadenas",
+      "actores": [
+        "Office for National Statistics"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_a0d9708c53"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/2ccdf36f045447e0767df30dacd0ecc106d0d8c9/676_0_6759_5408/master/6759.jpg?width=140&quality=85&auto=format&fit=max&s=8dfcf0e5064769f2391ce1d79f2bf36a"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a0d9708c53",
+          "titulo": "Household rush to stockpile emergency supplies sends British retail sales soaring",
+          "url": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
+          "fuente": "The Guardian",
+          "fecha": "Fri, 20 Nov 2026 12:28:12 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0011",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "UE y Reino Unido acuerdan restablecer relaciones 10 años post-Brexit",
+        "en": "EU and UK agree to reset relations 10 years after Brexit"
+      },
+      "sintesis": {
+        "es": "La UE y Reino Unido alcanzan acuerdos sobre comercio de alimentos, movilidad y cuotas estudiantiles tras una década del Brexit.",
+        "en": "EU and UK reach deals on food trade, mobility, and student fees after ten years post-Brexit."
+      },
+      "categoria": "cadenas",
+      "actores": [
+        "UE",
+        "UK government"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 75,
+      "fuentes": [
+        "ev_a36739ce06"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a36739ce06",
+          "titulo": "‘The deal is done’: EU, UK agree to reset relations 10 years after Brexit",
+          "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Fri, 20 Nov 2026 11:20:19 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0012",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-20_0013",
+        "nd_2026-11-20_0014"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Reino Unido y la UE llegan a acuerdo para ampliar movilidad juvenil y facilitar comercio",
+        "en": "UK and EU reach agreement to expand youth mobility and ease trade"
+      },
+      "sintesis": {
+        "es": "Reino Unido y la Unión Europea acuerdan facilitar comercio agroalimentario y ampliar oportunidades laborales y educativas para jóvenes.",
+        "en": "UK and EU agree to ease agri-food trade and broaden job and study opportunities for youth."
+      },
+      "categoria": "cadenas",
+      "actores": [
+        "UE",
+        "UK government"
+      ],
+      "geo": {
+        "lat": 35.9,
+        "lon": 104.2,
+        "region": "Asia Oriental"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_613b435f61"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/b27d3ee34f879e3cdf8410a75595717f4585e5ed/358_0_2972_2378/master/2972.jpg?width=140&quality=85&auto=format&fit=max&s=2c2ba4464a31680b4c19d14757b80b84"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_613b435f61",
+          "titulo": "Andy Burnham and EU leaders speak after reaching agreement on reset deal – live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
+          "fuente": "The Guardian",
+          "fecha": "Fri, 20 Nov 2026 13:24:24 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0013",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-20_0012",
+        "nd_2026-11-20_0014",
+        "nd_2026-11-20_0025"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Negociaciones post-Brexit sobre tarifas universitarias de la UE generan incertidumbre",
+        "en": "Post-Brexit talks on EU university fees create uncertainty"
+      },
+      "sintesis": {
+        "es": "Controversia sobre cuotas universitarias para estudiantes UE amenaza acuerdo de reinicio negociado entre Reino Unido y la UE.",
+        "en": "Dispute over university tuition fees for EU students threatens UK-EU reset deal."
+      },
+      "categoria": "cadenas",
+      "actores": [
+        "UK government",
+        "EU"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_5ee57e6551"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/a336fb77a4aa4c7e47ea3fc416e63babf551e1e9/649_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=59e8936dc61b7951952736b81b586620"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_5ee57e6551",
+          "titulo": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+          "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+          "fuente": "The Guardian",
+          "fecha": "Fri, 20 Nov 2026 08:19:28 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0014",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-20_0012",
+        "nd_2026-11-20_0013"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Misiles y dron rusos impactan Polonia durante ejercicios militares occidentales",
+        "en": "Russian missiles and drone hit Poland during Western military exercises"
+      },
+      "sintesis": {
+        "es": "Dos misiles de crucero y un dron rusos cayeron en Polonia en medio de ejercicios militares de la OTAN, considerados por Varsovia como provocación.",
+        "en": "Two Russian cruise missiles and a drone landed in Poland amid NATO military exercises, with Warsaw condemning it as a provocation."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Gobierno de Estados Unidos",
-        "Gobierno de China",
-        "Gobierno de Rusia"
+        "OTAN"
       ],
       "geo": {
         "lat": 48.4,
         "lon": 31.2,
         "region": "Europa del Este"
       },
-      "impacto": 85,
+      "impacto": 95,
       "fuentes": [
-        "ev_c43354b4b0"
+        "ev_1245720954"
       ],
       "imagenes": [
-        "https://i.guim.co.uk/img/media/fe3fd3648dd9414ddf04cdd936e7a16097507170/200_0_1799_1440/master/1799.jpg?width=140&quality=85&auto=format&fit=max&s=031d263340a375170cd91fe1d2133923"
+        "https://i.guim.co.uk/img/media/40ddac72b97d30f4ecd468edb3e34acd6a88e9b3/684_0_2044_1636/master/2044.jpg?width=140&quality=85&auto=format&fit=max&s=8ae27ec87b43c20e0e065f4cc925d25e"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_c43354b4b0",
-          "titulo": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China",
-          "url": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
+          "id": "ev_1245720954",
+          "titulo": "Russian missiles and drone reportedly hit Poland during attacks on Ukraine",
+          "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
           "fuente": "The Guardian",
-          "fecha": "Thu, 19 Nov 2026 12:31:41 GMT",
+          "fecha": "Fri, 20 Nov 2026 12:34:30 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-19_0000",
-      "fecha": "2026-11-19",
+      "id": "nd_2026-11-20_0015",
+      "fecha": "2026-11-20",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-11-19_0006"
+        "nd_2026-11-20_0016",
+        "nd_2026-11-20_0017"
       ]
     },
     {
       "titulo": {
-        "es": "La Corte Internacional de Justicia declara a Myanmar culpable de genocidio contra los rohingyas",
-        "en": "International Court of Justice rules Myanmar guilty of genocide against Rohingya"
+        "es": "Rusia ataca infraestructura y puentes en Kiev tras ofensiva en el estrecho de Kerch",
+        "en": "Russia attacks infrastructure and bridges in Kyiv after Kerch Strait offensive"
       },
       "sintesis": {
-        "es": "La Corte Internacional de Justicia sentenció que Myanmar cometió genocidio contra la minoría rohingya durante una ofensiva militar en 2017, marcando la primera vez que un Estado es declarado responsable de genocidio por este tribunal.",
-        "en": "The International Court of Justice ruled that Myanmar committed genocide against the Rohingya minority during a 2017 military campaign, marking the first time a state has been held responsible for genocide by this court."
+        "es": "Bombardeos rusos matan y hieren a civiles, provocan cortes de energía en diez regiones y afectan embajadas en Kiev.",
+        "en": "Russian bombings kill civilians, cause power outages in ten regions, and damage embassies in Kyiv."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Corte Internacional de Justicia"
+        "ONU",
+        "Francia"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 90,
+      "fuentes": [
+        "ev_aba8117bfd"
+      ],
+      "imagenes": [
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261120/1240145_120919_video_1800.mp4"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_aba8117bfd",
+          "titulo": "Rusia ataca los puentes de Kiev y la infraestructura energética de Ucrania tras la ofensiva en el estrecho de Kerch",
+          "url": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
+          "fuente": "El País",
+          "fecha": "Fri, 20 Nov 2026 13:03:15 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-20_0016",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-20_0015",
+        "nd_2026-11-20_0017"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Misil ruso impacta Polonia durante ejercicios aliados en Ucrania, dice Tusk",
+        "en": "Russian missile hits Poland during allied exercises in Ukraine, says Tusk"
+      },
+      "sintesis": {
+        "es": "Polonia reporta misil ruso durante ejercicios conjuntos aunque no hay heridos. Gobierno polaco lo considera provocación de Moscú.",
+        "en": "Poland reports Russian missile during joint exercises, no casualties. Polish government calls it a provocation by Moscow."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "OTAN"
+      ],
+      "geo": {
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
+      },
+      "impacto": 90,
+      "fuentes": [
+        "ev_8cf42f17f3"
+      ],
+      "imagenes": [
+        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f9c/live/c3767190-e4e1-11f1-a094-5fdc692f3e33.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8cf42f17f3",
+          "titulo": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News",
+          "fecha": "Fri, 20 Nov 2026 12:56:48 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0017",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-20_0015",
+        "nd_2026-11-20_0016"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Casa Blanca reemplaza director nacional de ciberseguridad tras fallos tecnológicos",
+        "en": "White House replaces national cyber director after tech failures"
+      },
+      "sintesis": {
+        "es": "La Casa Blanca separa a Sean Cairncross; Kirsten Davies, del Departamento de Defensa, asume temporalmente el cargo de ciberseguridad.",
+        "en": "White House fires Sean Cairncross; Kirsten Davies from Defense Department temporarily assumes cyber director role."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Casa Blanca",
+        "Departamento de Defensa"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_d4a41e5cc0"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d4a41e5cc0",
+          "titulo": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+          "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 20 Nov 2026 10:59:24 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0018",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Exadministradora de USAID critica recorte en financiación mientras demócratas intentan restaurarla",
+        "en": "Former USAID administrator criticizes funding cuts as Democrats seek restoration"
+      },
+      "sintesis": {
+        "es": "Exadministradora de USAID señala ignorancia tras recorte presupuestario, mientras demócratas buscan reponer fondos de ayuda internacional.",
+        "en": "Former USAID chief highlights ignorance amid budget cuts; Democrats seek to restore aid funding."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "USAID"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_9da584d564"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_9da584d564",
+          "titulo": "‘These people are ignorant’: Former USAID administrator lashes out at DOGE cut, as Democrats look to restore aid",
+          "url": "https://www.cnn.com/2026/11/20/politics/video/usaid-administrator-on-doge-cut-impacts-felt-globally",
+          "fuente": "CNN",
+          "fecha": "2026-11-20T12:53:13.970Z",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0019",
+      "fecha": "2026-11-20",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Movilizaciones masivas en Colombia contra el gobierno de Abelardo de la Espriella",
+        "en": "Mass protests in Colombia against Abelardo de la Espriella government"
+      },
+      "sintesis": {
+        "es": "Cientos de miles protestan en Colombia contra el presidente Abelardo de la Espriella, apoyados por sindicatos y exmandatarios.",
+        "en": "Hundreds of thousands protest in Colombia against President Abelardo de la Espriella, supported by unions and ex-leaders."
+      },
+      "categoria": "demografia",
+      "actores": [
+        "Sindicatos"
+      ],
+      "geo": {
+        "lat": 4.6,
+        "lon": -74.3,
+        "region": "Sudamerica"
+      },
+      "impacto": 85,
+      "fuentes": [
+        "ev_7f4a389668"
+      ],
+      "imagenes": [
+        "https://s.france24.com/media/display/da90bb62-e476-11f1-b7a4-6b451f569414/w:1024/p:16x9/ES-20261119-180159-180350-CS.jpg"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_7f4a389668",
+          "titulo": "Colombia: oposición moviliza manifestaciones contra De la Espriella en diferentes ciudades",
+          "url": "https://www.france24.com/es/video/20261120-colombia-oposici%C3%B3n-moviliza-manifestaciones-contra-de-la-espriella-en-diferentes-ciudades",
+          "fuente": "France 24",
+          "fecha": "Fri, 20 Nov 2026 01:06:53 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-20_0020",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Estudio revela que la mayoría de personas encarceladas en EE.UU. han sido víctimas de crímenes violentos",
+        "en": "Study reveals most incarcerated people in the U.S. were victims of violent crimes"
+      },
+      "sintesis": {
+        "es": "El 84% de personas encarceladas en EE.UU. reportaron haber sufrido agresiones, disparos o apuñalamientos previo a su prisión, señala estudio.",
+        "en": "84% of incarcerated U.S. individuals report being victims of assaults, shootings, or stabbings before imprisonment, study says."
+      },
+      "categoria": "demografia",
+      "actores": [
+        "Just Safe"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 75,
+      "fuentes": [
+        "ev_9e46ce5ae3"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/574f224398e8d5ee831b5bcc172350d418a7d522/92_0_3654_2924/master/3654.jpg?width=140&quality=85&auto=format&fit=max&s=a57b8b80634a770f0dfa0147c87e18a4"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_9e46ce5ae3",
+          "titulo": "Majority of people who have been in US prisons were also victims of violent crime, study finds",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/us-prison-violence-victims-study",
+          "fuente": "The Guardian",
+          "fecha": "Fri, 20 Nov 2026 12:00:20 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0021",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Ceremonias de tutela vitalicia consolidan relaciones de jóvenes en cuidado en Inglaterra",
+        "en": "Lifelong guardianship ceremonies cement relationships of care leavers in England"
+      },
+      "sintesis": {
+        "es": "Ceremonias públicas en Inglaterra afirman vínculos de jóvenes que han pasado por cuidado estatal, reforzando apoyos familiares.",
+        "en": "Public ceremonies in England affirm bonds of youth leaving state care, strengthening familial support."
+      },
+      "categoria": "demografia",
+      "actores": [
+        "Gobierno británico"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_acef35e404"
+      ],
+      "imagenes": [
+        "https://i.guim.co.uk/img/media/7878dea6e1cf06cc7463280dfdd0c8160a25696e/255_0_5783_4626/master/5783.jpg?width=140&quality=85&auto=format&fit=max&s=1206e3b5e60a79e1460b04d65653f7fb"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_acef35e404",
+          "titulo": "‘You’ve got me for life’: first ceremonies in England cement care leavers’ relationships",
+          "url": "https://www.theguardian.com/society/2026/nov/20/lifelong-guardianship-ceremonies-england-care-leavers-relationships",
+          "fuente": "The Guardian",
+          "fecha": "Fri, 20 Nov 2026 11:23:17 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-20_0022",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Anthropic debuta en Wall Street con valoración récord de 2 billones de dólares",
+        "en": "Anthropic debuts on Wall Street with record $2 trillion valuation"
+      },
+      "sintesis": {
+        "es": "Anthropic protagoniza un IPO histórico con acciones elevadas 34% en Nasdaq y valoración de 2 billones de dólares, marcando récords en tecnología.",
+        "en": "Anthropic leads historic IPO with shares up 34% on Nasdaq and $2 trillion valuation, setting tech records."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Anthropic"
       ],
       "geo": {
         "lat": 0.0,
@@ -86,289 +1020,162 @@
       },
       "impacto": 90,
       "fuentes": [
-        "ev_6b8d0b57ed"
+        "ev_e3eab7d73a"
       ],
       "imagenes": [
-        "https://i.guim.co.uk/img/media/16e3b91946d9a70788aadd1f8242b43c0244fe94/443_0_2913_2329/master/2913.jpg?width=140&quality=85&auto=format&fit=max&s=dd0fed01b92f1c8ac94e55192bc965d1"
+        "https://s.france24.com/media/display/5e093f8a-e479-11f1-b981-ebb478925cf0/w:1024/p:16x9/AP26323662108468.jpg"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_6b8d0b57ed",
-          "titulo": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
-          "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 19 Nov 2026 13:52:10 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-19_0001",
-      "fecha": "2026-11-19",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Ciberataque con herramienta de IA accede a servidores internos de la Comisión Europea",
-        "en": "AI-powered cyberattack accesses European Commission internal servers"
-      },
-      "sintesis": {
-        "es": "La Comisión Europea investiga un ciberataque que, utilizando una herramienta de inteligencia artificial, accedió a sus servidores internos y pudo exponer datos personales sensibles de funcionarios.",
-        "en": "The European Commission is investigating a cyberattack that used an AI tool to access its internal servers, potentially exposing sensitive personal data of staff members."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Comisión Europea"
-      ],
-      "geo": {
-        "lat": 50.8,
-        "lon": 4.4,
-        "region": "Europa"
-      },
-      "impacto": 75,
-      "fuentes": [
-        "ev_dfe80be43c"
-      ],
-      "imagenes": [
-        "https://imagenes.elpais.com/resizer/v2/5JTBGFKH2RLIZIGNYJYRCN7W6U.jpg?auth=3c008201e9af6f6d8e9b823d4b0e96cb9be96e268c252bb9df0378a87ebee825"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_dfe80be43c",
-          "titulo": "Un ciberataque con una herramienta de IA accede a los servidores internos de la Comisión Europea",
-          "url": "https://elpais.com/internacional/2026-11-19/un-ciberataque-con-una-herramienta-de-ia-accede-a-los-servidores-internos-de-la-comision-europea.html",
-          "fuente": "El País",
-          "fecha": "Thu, 19 Nov 2026 13:26:59 GMT",
+          "id": "ev_e3eab7d73a",
+          "titulo": "Anthropic debuta en Wall Street y alcanza una valoración bursátil de USD 2 billones",
+          "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261120-anthropic-debuta-en-wall-street-y-alcanza-una-valoraci%C3%B3n-burs%C3%A1til-de-usd-2-billones",
+          "fuente": "France 24",
+          "fecha": "Fri, 20 Nov 2026 01:57:38 GMT",
           "idioma": "es"
         }
       ],
-      "id": "nd_2026-11-19_0002",
-      "fecha": "2026-11-19",
+      "id": "nd_2026-11-20_0023",
+      "fecha": "2026-11-20",
       "kardashev": "K1",
       "relaciones": [
-        "nd_2026-11-19_0005"
+        "nd_2026-11-20_0024"
       ]
     },
     {
       "titulo": {
-        "es": "Uso de electricidad en centros de datos podría duplicarse para 2030, según la AIE",
-        "en": "Data center electricity use could double by 2030, IEA says"
+        "es": "Anthropic recauda 93,500 millones de dólares tras IPO con sobreasignación",
+        "en": "Anthropic raises $93.5 billion after IPO with greenshoe overallotment"
       },
       "sintesis": {
-        "es": "La demanda creciente de inteligencia artificial está presionando las redes eléctricas globales, y el uso eléctrico de los centros de datos podría duplicarse para 2030, según la Agencia Internacional de la Energía.",
-        "en": "Rising demand for artificial intelligence is putting pressure on global power grids, with data center electricity use expected to double by 2030, according to the International Energy Agency."
+        "es": "Anthropic vendió más de mil millones acciones a $83 cada una en IPO récord, alcanzando 93,500 millones de dólares tras sobreasignación.",
+        "en": "Anthropic sold over one billion shares at $83 each in record IPO, raising $93.5 billion after greenshoe allocation."
       },
-      "categoria": "recursos",
+      "categoria": "finanzas",
       "actores": [
-        "Agencia Internacional de la Energía"
+        "Anthropic"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 80,
+      "impacto": 85,
       "fuentes": [
-        "ev_0c275c6a40"
+        "ev_c37d2a48cb"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_0c275c6a40",
-          "titulo": "Data center electricity use could double by 2030, IEA says",
-          "url": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html",
+          "id": "ev_c37d2a48cb",
+          "titulo": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
           "fuente": "CNBC",
-          "fecha": "Thu, 19 Nov 2026 11:34:24 GMT",
+          "fecha": "Fri, 20 Nov 2026 13:31:39 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-19_0003",
-      "fecha": "2026-11-19",
-      "kardashev": "K1",
-      "relaciones": []
+      "id": "nd_2026-11-20_0024",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-20_0023"
+      ]
     },
     {
       "titulo": {
-        "es": "Informe FAO: Suministro global de commodities alimentarios se mantiene amplio pero con riesgos crecientes",
-        "en": "FAO Food Outlook: Global food commodity supplies remain generally ample, but risks are mounting"
+        "es": "Inflación core en Japón sube a máximo del año por fin de subsidios energéticos",
+        "en": "Japan's core inflation hits yearly high as energy subsidies end"
       },
       "sintesis": {
-        "es": "La FAO informa que aunque el suministro global de alimentos es generalmente suficiente, existen crecientes riesgos que amenazan la estabilidad futura del mercado.",
-        "en": "FAO reports that while global food supply is generally ample, there are mounting risks threatening future market stability."
+        "es": "La inflación básica de Japón alcanza su punto más alto en 2026 impulsada por el fin de subsidios energéticos, afectando los precios al consumidor.",
+        "en": "Japan's core inflation reaches its highest point in 2026 driven by end of energy subsidies, impacting consumer prices."
       },
-      "categoria": "recursos",
+      "categoria": "finanzas",
       "actores": [
-        "FAO"
+        "Reuters"
       ],
       "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
+        "lat": 36.2,
+        "lon": 138.3,
+        "region": "Asia Oriental"
       },
       "impacto": 70,
       "fuentes": [
-        "ev_9f2aef0d18"
+        "ev_c4202ee0af"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_9f2aef0d18",
-          "titulo": "FAO Food Outlook: Global food commodity supplies remain generally ample, but risks are mounting",
-          "url": "https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-supplies-remain-generally-ample--but-risks-are-mounting/en",
-          "fuente": "FAO",
-          "fecha": "Thu, 19 Nov 2026 12:00:00 Z",
+          "id": "ev_c4202ee0af",
+          "titulo": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+          "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 20 Nov 2026 01:49:03 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-19_0004",
-      "fecha": "2026-11-19",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Cumbre entre la UE y Reino Unido en Bruselas aborda Brexit y movilidad juvenil",
-        "en": "EU-UK summit in Brussels addresses Brexit and youth mobility"
-      },
-      "sintesis": {
-        "es": "Líderes de la UE y Reino Unido se reúnen para negociar la relación post-Brexit, incluyendo medidas para aliviar trámites y restaurar el comercio de emisiones.",
-        "en": "EU and UK leaders meet to negotiate post-Brexit relations, including easing bureaucracy and restoring emissions trading."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Unión Europea",
-        "Gobierno del Reino Unido"
-      ],
-      "geo": {
-        "lat": 50.8,
-        "lon": 4.4,
-        "region": "Europa"
-      },
-      "impacto": 65,
-      "fuentes": [
-        "ev_6349c1b04a"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/21ddeb28259d25b93c94905de55f645b5eb1d446/620_27_3852_3082/master/3852.jpg?width=140&quality=85&auto=format&fit=max&s=014c4a5d4fd21a693d5d5dd01b797882"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_6349c1b04a",
-          "titulo": "What is at stake at the EU-UK summit in Brussels?",
-          "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 19 Nov 2026 13:11:23 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-19_0005",
-      "fecha": "2026-11-19",
-      "kardashev": "K1",
+      "id": "nd_2026-11-20_0025",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
       "relaciones": [
-        "nd_2026-11-19_0002"
+        "nd_2026-11-20_0013"
       ]
     },
     {
       "titulo": {
-        "es": "Parlamento danés aprueba pacto de seguridad con Groenlandia y Estados Unidos",
-        "en": "Danish parliament approves security pact with Greenland and US"
+        "es": "Christine Lagarde destaca la necesidad de actuar a tiempo en discurso",
+        "en": "Christine Lagarde emphasizes timely action in speech"
       },
       "sintesis": {
-        "es": "El Parlamento de Dinamarca aprobó un acuerdo que permite a Estados Unidos mayor acceso militar en Groenlandia, tras meses de tensiones diplomáticas.",
-        "en": "The Danish Parliament approved an agreement allowing the US greater military access in Greenland, following months of diplomatic tensions."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Parlamento de Dinamarca",
-        "Gobierno de Estados Unidos"
-      ],
-      "geo": {
-        "lat": 78.0,
-        "lon": 15.0,
-        "region": "Artico"
-      },
-      "impacto": 75,
-      "fuentes": [
-        "ev_c40c94e7db"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/b6c8d2f794bc298e739a3d685877d86179db3d6f/1419_0_7094_5675/master/7094.jpg?width=140&quality=85&auto=format&fit=max&s=59337b2650752c5451ea5662d0871808"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_c40c94e7db",
-          "titulo": "Danish MPs approve Greenland security pact with US",
-          "url": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 19 Nov 2026 12:33:52 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-19_0006",
-      "fecha": "2026-11-19",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-19_0000"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Demanda de IA impulsará aumento de tasas de interés globales, advierte jefa del FMI",
-        "en": "AI demand will push up interest rates around the world, IMF head warns"
-      },
-      "sintesis": {
-        "es": "Kristalina Georgieva advierte que la creciente demanda de hardware de IA está elevando los precios al consumidor y forzará a bancos centrales a subir las tasas de interés.",
-        "en": "Kristalina Georgieva warns rising demand for AI hardware is pushing up consumer prices and will force central banks to raise interest rates."
+        "es": "Christine Lagarde, del BCE, destacó la importancia de medidas oportunas en política económica para estabilidad financiera.",
+        "en": "Christine Lagarde of ECB highlighted importance of timely economic policy measures for financial stability."
       },
       "categoria": "finanzas",
       "actores": [
-        "FMI"
+        "Banco Central Europeo"
       ],
       "geo": {
-        "lat": 38.9,
-        "lon": -77.0,
-        "region": "Norteamerica"
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
       },
-      "impacto": 80,
+      "impacto": 60,
       "fuentes": [
-        "ev_7b61bcd55f"
+        "ev_666672e425"
       ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/b2a56a8e00524c2b12815efdbcc9e91b0732fdc0/456_0_3410_2728/master/3410.jpg?width=140&quality=85&auto=format&fit=max&s=920ffff20187c6090b440fd5098e1f09"
-      ],
+      "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_7b61bcd55f",
-          "titulo": "AI demand will push up interest rates around the world, IMF head warns",
-          "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 19 Nov 2026 12:51:16 GMT",
+          "id": "ev_666672e425",
+          "titulo": "Christine Lagarde: Acting in time",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+          "fuente": "BCE",
+          "fecha": "Fri, 20 Nov 2026 09:30:00 +0100",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-19_0007",
-      "fecha": "2026-11-19",
-      "kardashev": "K1",
+      "id": "nd_2026-11-20_0026",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Acciones de Palo Alto Networks suben tras reporte de ganancias impulsado por IA",
-        "en": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings"
+        "es": "Estratega de Bank of America alerta sobre posible ciclo negativo en bolsa por riesgos de recesión",
+        "en": "Bank of America strategist warns of potential doom loop in stocks due to recession risks"
       },
       "sintesis": {
-        "es": "Las acciones de Palo Alto Networks subieron apoyadas en un reporte de ganancias que destaca la creciente demanda en ciberseguridad impulsada por inteligencia artificial.",
-        "en": "Palo Alto Networks shares rose on earnings report highlighting growing AI-driven cybersecurity demand."
+        "es": "Analista del Bank of America advierte que Wall Street subestima el riesgo de recesión, recomendando cautela en activos riesgosos.",
+        "en": "Bank of America analyst warns Wall Street underestimates recession risk, advising caution in risky assets."
       },
       "categoria": "finanzas",
       "actores": [
-        "Palo Alto Networks"
+        "Bank of America"
       ],
       "geo": {
         "lat": 0.0,
@@ -377,29 +1184,29 @@
       },
       "impacto": 70,
       "fuentes": [
-        "ev_7d28d17407"
+        "ev_5b6af9a80f"
       ],
       "imagenes": [
-        "https://images.mktw.net/im-839193"
+        "https://images.mktw.net/im-43012277"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_7d28d17407",
-          "titulo": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
-          "url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+          "id": "ev_5b6af9a80f",
+          "titulo": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
+          "url": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
           "fuente": "MarketWatch",
-          "fecha": "Thu, 19 Nov 2026 12:34:00 GMT",
+          "fecha": "Fri, 20 Nov 2026 12:43:00 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-19_0008",
-      "fecha": "2026-11-19",
-      "kardashev": "K1",
+      "id": "nd_2026-11-20_0027",
+      "fecha": "2026-11-20",
+      "kardashev": "K0",
       "relaciones": []
     }
   ],
-  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-19\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"recursos\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Bruselas\", \"Groenlandia\", \"Myanmar\", \"Shenzhen\"]\npaises: [\"China\", \"Dinamarca\", \"Estados Unidos\", \"Myanmar\", \"Reino Unido\", \"Rusia\", \"Unión Europea\"]\nentidades: [\"Agencia Internacional de la Energía\", \"Comisión Europea\", \"Corte Internacional de Justicia\", \"FAO\", \"FMI\", \"Gobierno de China\", \"Gobierno de Estados Unidos\", \"Gobierno de Rusia\", \"Gobierno del Reino Unido\", \"Palo Alto Networks\", \"Parlamento de Dinamarca\", \"Unión Europea\"]\ntemas: [\"Alimentos\", \"Arctic\", \"Armas nucleares\", \"Brexit\", \"Centros de datos\", \"Ciberseguridad\", \"Comercio\", \"Datos personales\", \"Defensa\", \"Derechos humanos\", \"Energía\", \"Genocidio\", \"Inteligencia artificial\", \"Mercados bursátiles\", \"Mercados financieros\", \"Minorías\", \"Movilidad juvenil\", \"Paz internacional\", \"Reunión diplomática\", \"Riesgos\", \"Seguridad\", \"Suministro\", \"Tasas de interés\"]\nbucles_activos: []\ncorte: \"2026-11-19T13:58:51.632819+00:00\"\ninicio_ventana: \"2026-11-18T13:58:51.632819+00:00\"\nestado: \"análisis pendiente\"\n---\n\n# Pulso Global — 2026-11-19\n\n## Resumen del día\n\nanálisis pendiente\n\nVentana de 24 horas hasta 2026-11-19T13:58:51.632819+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar imf, iom, unhcr, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 2. Tecnología\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_0c275c6a40\"></a>\n1. Uso de electricidad en centros de datos podría duplicarse para 2030, según la AIE — La demanda creciente de inteligencia artificial está presionando las redes eléctricas globales, y el uso eléctrico de los centros de datos podría duplicarse para 2030, según la Agencia Internacional de la Energía. — [CNBC, Thu, 19 Nov 2026 11:34:24 GMT](https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html) · medio.\n\n<a id=\"ev_9f2aef0d18\"></a>\n2. Informe FAO: Suministro global de commodities alimentarios se mantiene amplio pero con riesgos crecientes — La FAO informa que aunque el suministro global de alimentos es generalmente suficiente, existen crecientes riesgos que amenazan la estabilidad futura del mercado. — [FAO, Thu, 19 Nov 2026 12:00:00 Z](https://www.fao.org/newsroom/detail/fao-food-outlook--global-food-commodity-supplies-remain-generally-ample--but-risks-are-mounting/en) · oficial.\n\n## 4. Cadenas de Suministro\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 5. Geopolítica\n\n<a id=\"ev_c43354b4b0\"></a>\n1. Reunión histórica entre Trump, Xi y Putin en la cumbre de APEC en China — Donald Trump, Xi Jinping y Vladimir Putin mantuvieron una histórica reunión en Shenzhen, China, con un enfoque en la paz internacional y las armas nucleares, calificando el encuentro como un hito sin precedentes. — [The Guardian, Thu, 19 Nov 2026 12:31:41 GMT](https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china) · medio.\n\n<a id=\"ev_6b8d0b57ed\"></a>\n2. La Corte Internacional de Justicia declara a Myanmar culpable de genocidio contra los rohingyas — La Corte Internacional de Justicia sentenció que Myanmar cometió genocidio contra la minoría rohingya durante una ofensiva militar en 2017, marcando la primera vez que un Estado es declarado responsable de genocidio por este tribunal. — [The Guardian, Thu, 19 Nov 2026 13:52:10 GMT](https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar) · medio.\n\n<a id=\"ev_dfe80be43c\"></a>\n3. Ciberataque con herramienta de IA accede a servidores internos de la Comisión Europea — La Comisión Europea investiga un ciberataque que, utilizando una herramienta de inteligencia artificial, accedió a sus servidores internos y pudo exponer datos personales sensibles de funcionarios. — [El País, Thu, 19 Nov 2026 13:26:59 GMT](https://elpais.com/internacional/2026-11-19/un-ciberataque-con-una-herramienta-de-ia-accede-a-los-servidores-internos-de-la-comision-europea.html) · medio.\n\n<a id=\"ev_6349c1b04a\"></a>\n4. Cumbre entre la UE y Reino Unido en Bruselas aborda Brexit y movilidad juvenil — Líderes de la UE y Reino Unido se reúnen para negociar la relación post-Brexit, incluyendo medidas para aliviar trámites y restaurar el comercio de emisiones. — [The Guardian, Thu, 19 Nov 2026 13:11:23 GMT](https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels) · medio.\n\n<a id=\"ev_c40c94e7db\"></a>\n5. Parlamento danés aprueba pacto de seguridad con Groenlandia y Estados Unidos — El Parlamento de Dinamarca aprobó un acuerdo que permite a Estados Unidos mayor acceso militar en Groenlandia, tras meses de tensiones diplomáticas. — [The Guardian, Thu, 19 Nov 2026 12:33:52 GMT](https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_7b61bcd55f\"></a>\n1. Demanda de IA impulsará aumento de tasas de interés globales, advierte jefa del FMI — Kristalina Georgieva advierte que la creciente demanda de hardware de IA está elevando los precios al consumidor y forzará a bancos centrales a subir las tasas de interés. — [The Guardian, Thu, 19 Nov 2026 12:51:16 GMT](https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec) · medio.\n\n<a id=\"ev_7d28d17407\"></a>\n2. Acciones de Palo Alto Networks suben tras reporte de ganancias impulsado por IA — Las acciones de Palo Alto Networks subieron apoyadas en un reporte de ganancias que destaca la creciente demanda en ciberseguridad impulsada por inteligencia artificial. — [MarketWatch, Thu, 19 Nov 2026 12:34:00 GMT](https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories) · medio.\n\n## 7. Demografía y Migraciones\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\nanálisis pendiente\n\n### Flujos\n\n- Presión Climática: análisis pendiente\n- Palanca Geopolítica: análisis pendiente\n- Flujos de Recursos: análisis pendiente\n- Flujos Cibernéticos y de Datos: análisis pendiente\n\n### Bucles críticos\n\n- Escasez de Recursos: análisis pendiente\n- Armamentización de la Cadena de Suministro: análisis pendiente\n- Impacto Societal y Financiero: análisis pendiente\n\n## Señales a vigilar\n\nanálisis pendiente\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-13T17:05:34+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-11-18T10:00:00+00:00 |\n| NASA | oficial | Disponible | 9 | 2026-11-19T05:05:00+00:00 |\n| CISA | oficial | Disponible | 0 | 2026-11-18T12:00:00+00:00 |\n| EIA | oficial | Disponible | 1 | 2026-11-18T14:00:00+00:00 |\n| FAO | oficial | Disponible | 1 | 2026-11-19T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-18T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-18T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 1 | 2026-11-18T19:00:00+00:00 |\n| BCE | oficial | Disponible | 0 | 2026-11-18T09:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-11-18T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 11 | 2026-11-19T13:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-11-17T18:36:03+00:00 |\n| Meta | oficial | Disponible | 4 | 2026-11-19T13:05:53+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-18T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-11-12T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-20T23:48:37+00:00 |\n| NASA · Comunicados | oficial | Disponible | 9 | 2026-11-19T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 1 | 2026-11-18T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-11-18T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 2 | 2026-11-19T08:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-19T07:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-17T16:19:12+00:00 |\n| BBC News | medio | Disponible | 25 | 2026-11-19T13:31:23+00:00 |\n| BBC Mundo | medio | Disponible | 11 | 2026-11-19T13:18:16+00:00 |\n| CNN | medio | Disponible | 104 | 2026-11-19T13:01:59.547000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-19T13:53:16+00:00 |\n| The Guardian | medio | Disponible | 31 | 2026-11-19T13:52:10+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-19T13:30:00+00:00 |\n| El País | medio | Disponible | 13 | 2026-11-19T13:39:09+00:00 |\n| CNBC | medio | Disponible | 29 | 2026-11-19T13:57:09+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-19T13:55:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 6 | 2026-11-19T13:48:30+00:00 |\n| BBC · Tecnología | medio | Disponible | 6 | 2026-11-19T12:26:39+00:00 |\n| BBC · Economía | medio | Disponible | 17 | 2026-11-19T13:35:52+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-19\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"recursos\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Bruselas\", \"Groenlandia\", \"Myanmar\", \"Shenzhen\"]\npaises: [\"China\", \"Dinamarca\", \"Estados Unidos\", \"Myanmar\", \"Reino Unido\", \"Rusia\", \"Unión Europea\"]\nentidades: [\"Agencia Internacional de la Energía\", \"Comisión Europea\", \"Corte Internacional de Justicia\", \"FAO\", \"FMI\", \"Gobierno de China\", \"Gobierno de Estados Unidos\", \"Gobierno de Rusia\", \"Gobierno del Reino Unido\", \"Palo Alto Networks\", \"Parlamento de Dinamarca\", \"Unión Europea\"]\ntemas: [\"Alimentos\", \"Arctic\", \"Armas nucleares\", \"Brexit\", \"Centros de datos\", \"Ciberseguridad\", \"Comercio\", \"Datos personales\", \"Defensa\", \"Derechos humanos\", \"Energía\", \"Genocidio\", \"Inteligencia artificial\", \"Mercados bursátiles\", \"Mercados financieros\", \"Minorías\", \"Movilidad juvenil\", \"Paz internacional\", \"Reunión diplomática\", \"Riesgos\", \"Seguridad\", \"Suministro\", \"Tasas de interés\"]\nbucles_activos: []\ncorte: \"2026-11-19T13:58:51.632819+00:00\"\ninicio_ventana: \"2026-11-18T13:58:51.632819+00:00\"\nestado: \"análisis pendiente\"\n```\n",
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-20\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Antalya\", \"Bruselas\", \"Cali\", \"Carolina del Norte\", \"Carolina del Sur\", \"Centro Stennis\", \"Colombia\", \"Costa del Atlántico de EE.UU.\", \"Espacio\", \"Estados Unidos\", \"Estrecho de Hormuz\", \"Europa\", \"Florida\", \"Golfo Pérsico\", \"Inglaterra\", \"Japón\", \"Kiev\", \"Mississippi\", \"Océano Pacífico\", \"Polonia\", \"Reino Unido\", \"Samoa Americana\"]\npaises: [\"Colombia\", \"Estados Unidos\", \"Irán\", \"Israel\", \"Japón\", \"Polonia\", \"Reino Unido\", \"Rusia\", \"Turquía\", \"Ucrania\", \"Unión Europea\"]\nentidades: [\"Anthropic\", \"BBC News\", \"Banco Central Europeo\", \"Bank of America\", \"COP31\", \"Casa Blanca\", \"Departamento de Defensa\", \"EU\", \"Fermi mission\", \"Francia\", \"Gobierno británico\", \"Google\", \"Just Safe\", \"Marine Minerals Administration\", \"NASA\", \"NOAA\", \"NWS National Hurricane Center\", \"ONU\", \"OTAN\", \"Office for National Statistics\", \"Reuters\", \"Senado de EE.UU.\", \"Sindicatos\", \"The Guardian\", \"UE\", \"UK government\", \"USAID\", \"Wetstone US Ventures\"]\ntemas: [\"Brexit\", \"IA\", \"IPO\", \"astronomía\", \"ayuda internacional\", \"cambio climático\", \"ciberseguridad\", \"clima\", \"combustibles fósiles\", \"comercio\", \"computación cuántica\", \"conflicto\", \"contaminación ambiental\", \"criminología\", \"crisis política\", \"datos abiertos\", \"economía\", \"educación\", \"ejercicios militares\", \"energía\", \"energía limpia\", \"estabilidad financiera\", \"exploración espacial\", \"financiación climática\", \"finanzas\", \"infancia\", \"inflación\", \"infraestructura\", \"inteligencia artificial\", \"mercados financieros\", \"minerales críticos\", \"minería oceánica\", \"movilidad juvenil\", \"nave espacial\", \"petróleo\", \"política monetaria\", \"protección social\", \"protestas\", \"regulación\", \"retail\", \"sistema penitenciario\", \"suministros de emergencia\", \"tecnología\", \"tecnología espacial\", \"tecnología verde\", \"temporales\", \"tormentas\", \"África\"]\nbucles_activos: []\ncorte: \"2026-11-20T13:40:27.976247+00:00\"\ninicio_ventana: \"2026-11-19T13:40:27.976247+00:00\"\nestado: \"análisis pendiente\"\n---\n\n# Pulso Global — 2026-11-20\n\n## Resumen del día\n\nanálisis pendiente\n\nVentana de 24 horas hasta 2026-11-20T13:40:27.976247+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar imf, iom, unhcr, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_1922f3f40d\"></a>\n1. Persiste sistema de baja presión frente a la costa sureste de EE.UU. con potencial tropical — Un sistema de baja presión cerca de Florida produce lluvias y tormentas, con riesgo de vientos fuertes, olas peligrosas e inundaciones costeras en la costa sureste y medio atlántica de EE.UU. — [NOAA · Centro Nacional de Huracanes, Fri, 20 Nov 2026 11:38:16 GMT](https://www.nhc.noaa.gov/gtwo.php?basin=atlc) · oficial.\n\n<a id=\"ev_1e9170762f\"></a>\n2. COP31 queda en entredicho por borrado de menciones a combustibles fósiles en borrador — El borrador del acuerdo de COP31 elimina toda referencia a combustibles fósiles y difumina compromisos financieros para países en desarrollo. — [The Guardian · Medio ambiente, Thu, 19 Nov 2026 17:58:21 GMT](https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text) · medio.\n\n<a id=\"ev_cb30ab42bb\"></a>\n3. Conflicto en Irán provoca contaminación ambiental en el Golfo Pérsico — La guerra entre EEUU, Israel e Irán ha convertido el Estrecho de Hormuz en un foco de contaminación por fugas petroleras tras ataques a petroleros. — [The Guardian · Medio ambiente, Fri, 20 Nov 2026 12:00:38 GMT](https://www.theguardian.com/world/video/2026/nov/20/how-the-war-in-iran-turned-the-gulf-into-a-climate-catastrophe-video-explainer) · medio.\n\n<a id=\"ev_bd50c5767f\"></a>\n4. África exige más financiación climática en COP31; Europa pide usar fondos ya comprometidos — Países africanos en la COP31 exigen mayor financiamiento para abordar el cambio climático; Europa sugiere usar lo que ya fue comprometido. — [BBC News, Fri, 20 Nov 2026 05:03:43 GMT](https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_9c662b01e7\"></a>\n1. Voyager 1 alcanza un día luz de distancia de la Tierra tras 49 años de viaje — La sonda Voyager 1 se convierte en la nave más lejana alcanzando la distancia de un día luz desde la Tierra después de casi cinco décadas de viaje. — [NASA, Thu, 19 Nov 2026 14:31:15 +0000](https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/) · oficial.\n\n<a id=\"ev_efea76a621\"></a>\n2. Nuevo método basado en datos de NASA permite descubrir púlsares más rápido — Un equipo internacional desarrolló un método usando datos abiertos de la misión Fermi que encuentra púlsares un millón de veces más rápido. — [NASA, Thu, 19 Nov 2026 15:33:55 +0000](https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/) · oficial.\n\n<a id=\"ev_9ef0725647\"></a>\n3. NASA prueba motor RS-25 para misiones Artemis futuras — NASA realizó exitosas pruebas al motor RS-25 para futuras misiones Artemis en el Centro Stennis, reforzando su desarrollo para vuelos espaciales. — [NASA, Thu, 19 Nov 2026 14:44:39 +0000](https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/) · oficial.\n\n<a id=\"ev_89ac1ae6c7\"></a>\n4. Google Quantum AI demuestra contextualidad en algoritmos cuánticos a gran escala — Google ha demostrado que la contextualidad impulsa los algoritmos cuánticos en gran escala, superando límites clásicos en procesamiento cuántico. — [Google, Thu, 19 Nov 2026 19:00:00 +0000](https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/) · oficial.\n\n<a id=\"ev_35427f0da4\"></a>\n5. Google impulsa certificados granulares para rastreo y compra de energía limpia — Google está escalando certificados granulares para registrar energía limpia hora por hora, apoyando redes eléctricas más confiables y verdes. — [Google, Thu, 19 Nov 2026 17:00:00 +0000](https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/) · oficial.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_43b82a6210\"></a>\n1. EE.UU. realiza primera venta de concesiones para minería profunda de océanos cerca de Samoa Americana — EE.UU. vendió licencias para exploración minera en aguas profundas frente a Samoa Americana pese a oposición local y anulación judicial. — [The Guardian · Medio ambiente, Fri, 20 Nov 2026 03:14:07 GMT](https://www.theguardian.com/environment/2026/nov/20/us-deep-sea-mining-lease-auction-american-samoa) · medio.\n\n<a id=\"ev_534d02f527\"></a>\n2. Senado estadounidense aprueba reforma para acelerar permisos en sectores de IA y energía — El Senado de EE.UU. aprobó una reforma para acelerar procesos de permisos en sectores de inteligencia artificial y energía. — [CNBC, Fri, 20 Nov 2026 03:56:17 GMT](https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html) · medio.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_a0d9708c53\"></a>\n1. Acumulación de suministros de emergencia impulsa ventas minoristas en Reino Unido — Las ventas minoristas en Reino Unido aumentaron en octubre por compras aceleradas de alimentos y suministros tras campaña de preparación para emergencias. — [The Guardian, Fri, 20 Nov 2026 12:28:12 GMT](https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring) · medio.\n\n<a id=\"ev_a36739ce06\"></a>\n2. UE y Reino Unido acuerdan restablecer relaciones 10 años post-Brexit — La UE y Reino Unido alcanzan acuerdos sobre comercio de alimentos, movilidad y cuotas estudiantiles tras una década del Brexit. — [Al Jazeera, Fri, 20 Nov 2026 11:20:19 +0000](https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss) · medio.\n\n<a id=\"ev_613b435f61\"></a>\n3. Reino Unido y la UE llegan a acuerdo para ampliar movilidad juvenil y facilitar comercio — Reino Unido y la Unión Europea acuerdan facilitar comercio agroalimentario y ampliar oportunidades laborales y educativas para jóvenes. — [The Guardian, Fri, 20 Nov 2026 13:24:24 GMT](https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates) · medio.\n\n<a id=\"ev_5ee57e6551\"></a>\n4. Negociaciones post-Brexit sobre tarifas universitarias de la UE generan incertidumbre — Controversia sobre cuotas universitarias para estudiantes UE amenaza acuerdo de reinicio negociado entre Reino Unido y la UE. — [The Guardian, Fri, 20 Nov 2026 08:19:28 GMT](https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees) · medio.\n\n## 5. Geopolítica\n\n<a id=\"ev_1245720954\"></a>\n1. Misiles y dron rusos impactan Polonia durante ejercicios militares occidentales — Dos misiles de crucero y un dron rusos cayeron en Polonia en medio de ejercicios militares de la OTAN, considerados por Varsovia como provocación. — [The Guardian, Fri, 20 Nov 2026 12:34:30 GMT](https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine) · medio.\n\n<a id=\"ev_aba8117bfd\"></a>\n2. Rusia ataca infraestructura y puentes en Kiev tras ofensiva en el estrecho de Kerch — Bombardeos rusos matan y hieren a civiles, provocan cortes de energía en diez regiones y afectan embajadas en Kiev. — [El País, Fri, 20 Nov 2026 13:03:15 GMT](https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html) · medio.\n\n<a id=\"ev_8cf42f17f3\"></a>\n3. Misil ruso impacta Polonia durante ejercicios aliados en Ucrania, dice Tusk — Polonia reporta misil ruso durante ejercicios conjuntos aunque no hay heridos. Gobierno polaco lo considera provocación de Moscú. — [BBC News, Fri, 20 Nov 2026 12:56:48 GMT](https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_d4a41e5cc0\"></a>\n4. Casa Blanca reemplaza director nacional de ciberseguridad tras fallos tecnológicos — La Casa Blanca separa a Sean Cairncross; Kirsten Davies, del Departamento de Defensa, asume temporalmente el cargo de ciberseguridad. — [CNBC, Fri, 20 Nov 2026 10:59:24 GMT](https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html) · medio.\n\n<a id=\"ev_9da584d564\"></a>\n5. Exadministradora de USAID critica recorte en financiación mientras demócratas intentan restaurarla — Exadministradora de USAID señala ignorancia tras recorte presupuestario, mientras demócratas buscan reponer fondos de ayuda internacional. — [CNN, 2026-11-20T12:53:13.970Z](https://www.cnn.com/2026/11/20/politics/video/usaid-administrator-on-doge-cut-impacts-felt-globally) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_e3eab7d73a\"></a>\n1. Anthropic debuta en Wall Street con valoración récord de 2 billones de dólares — Anthropic protagoniza un IPO histórico con acciones elevadas 34% en Nasdaq y valoración de 2 billones de dólares, marcando récords en tecnología. — [France 24, Fri, 20 Nov 2026 01:57:38 GMT](https://www.france24.com/es/programas/econom%C3%ADa/20261120-anthropic-debuta-en-wall-street-y-alcanza-una-valoraci%C3%B3n-burs%C3%A1til-de-usd-2-billones) · medio.\n\n<a id=\"ev_c37d2a48cb\"></a>\n2. Anthropic recauda 93,500 millones de dólares tras IPO con sobreasignación — Anthropic vendió más de mil millones acciones a $83 cada una en IPO récord, alcanzando 93,500 millones de dólares tras sobreasignación. — [CNBC, Fri, 20 Nov 2026 13:31:39 GMT](https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html) · medio.\n\n<a id=\"ev_c4202ee0af\"></a>\n3. Inflación core en Japón sube a máximo del año por fin de subsidios energéticos — La inflación básica de Japón alcanza su punto más alto en 2026 impulsada por el fin de subsidios energéticos, afectando los precios al consumidor. — [CNBC, Fri, 20 Nov 2026 01:49:03 GMT](https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html) · medio.\n\n<a id=\"ev_666672e425\"></a>\n4. Christine Lagarde destaca la necesidad de actuar a tiempo en discurso — Christine Lagarde, del BCE, destacó la importancia de medidas oportunas en política económica para estabilidad financiera. — [BCE, Fri, 20 Nov 2026 09:30:00 +0100](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html) · oficial.\n\n<a id=\"ev_5b6af9a80f\"></a>\n5. Estratega de Bank of America alerta sobre posible ciclo negativo en bolsa por riesgos de recesión — Analista del Bank of America advierte que Wall Street subestima el riesgo de recesión, recomendando cautela en activos riesgosos. — [MarketWatch, Fri, 20 Nov 2026 12:43:00 GMT](https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories) · medio.\n\n## 7. Demografía y Migraciones\n\n<a id=\"ev_7f4a389668\"></a>\n1. Movilizaciones masivas en Colombia contra el gobierno de Abelardo de la Espriella — Cientos de miles protestan en Colombia contra el presidente Abelardo de la Espriella, apoyados por sindicatos y exmandatarios. — [France 24, Fri, 20 Nov 2026 01:06:53 GMT](https://www.france24.com/es/video/20261120-colombia-oposici%C3%B3n-moviliza-manifestaciones-contra-de-la-espriella-en-diferentes-ciudades) · medio.\n\n<a id=\"ev_9e46ce5ae3\"></a>\n2. Estudio revela que la mayoría de personas encarceladas en EE.UU. han sido víctimas de crímenes violentos — El 84% de personas encarceladas en EE.UU. reportaron haber sufrido agresiones, disparos o apuñalamientos previo a su prisión, señala estudio. — [The Guardian, Fri, 20 Nov 2026 12:00:20 GMT](https://www.theguardian.com/us-news/2026/nov/20/us-prison-violence-victims-study) · medio.\n\n<a id=\"ev_acef35e404\"></a>\n3. Ceremonias de tutela vitalicia consolidan relaciones de jóvenes en cuidado en Inglaterra — Ceremonias públicas en Inglaterra afirman vínculos de jóvenes que han pasado por cuidado estatal, reforzando apoyos familiares. — [The Guardian, Fri, 20 Nov 2026 11:23:17 GMT](https://www.theguardian.com/society/2026/nov/20/lifelong-guardianship-ceremonies-england-care-leavers-relationships) · medio.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\nanálisis pendiente\n\n### Flujos\n\n- Presión Climática: análisis pendiente\n- Palanca Geopolítica: análisis pendiente\n- Flujos de Recursos: análisis pendiente\n- Flujos Cibernéticos y de Datos: análisis pendiente\n\n### Bucles críticos\n\n- Escasez de Recursos: análisis pendiente\n- Armamentización de la Cadena de Suministro: análisis pendiente\n- Impacto Societal y Financiero: análisis pendiente\n\n## Señales a vigilar\n\nanálisis pendiente\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-13T17:05:34+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-11-19T08:00:00+00:00 |\n| NASA | oficial | Disponible | 7 | 2026-11-20T05:05:00+00:00 |\n| CISA | oficial | Disponible | 0 | 2026-11-19T12:00:00+00:00 |\n| EIA | oficial | Disponible | 1 | 2026-11-19T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-11-19T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-19T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-19T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 1 | 2026-11-19T16:00:00+00:00 |\n| BCE | oficial | Disponible | 1 | 2026-11-20T08:30:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-11-19T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 11 | 2026-11-19T20:30:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-11-17T18:36:03+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-11-19T13:05:53+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-19T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-11-12T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-21T23:38:16+00:00 |\n| NASA · Comunicados | oficial | Disponible | 7 | 2026-11-20T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-11-18T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-11-18T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-11-19T08:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-20T02:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-17T16:19:12+00:00 |\n| BBC News | medio | Disponible | 27 | 2026-11-20T13:28:32+00:00 |\n| BBC Mundo | medio | Disponible | 15 | 2026-11-20T12:05:05+00:00 |\n| CNN | medio | Disponible | 105 | 2026-11-20T13:32:26.004000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-20T13:12:43+00:00 |\n| The Guardian | medio | Disponible | 33 | 2026-11-20T13:24:24+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-20T13:23:53+00:00 |\n| El País | medio | Disponible | 13 | 2026-11-20T13:11:01+00:00 |\n| CNBC | medio | Disponible | 28 | 2026-11-20T13:31:39+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-20T13:25:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 8 | 2026-11-20T13:32:11+00:00 |\n| BBC · Tecnología | medio | Disponible | 7 | 2026-11-20T13:28:32+00:00 |\n| BBC · Economía | medio | Disponible | 15 | 2026-11-20T13:08:30+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-20\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\nlugares: [\"Antalya\", \"Bruselas\", \"Cali\", \"Carolina del Norte\", \"Carolina del Sur\", \"Centro Stennis\", \"Colombia\", \"Costa del Atlántico de EE.UU.\", \"Espacio\", \"Estados Unidos\", \"Estrecho de Hormuz\", \"Europa\", \"Florida\", \"Golfo Pérsico\", \"Inglaterra\", \"Japón\", \"Kiev\", \"Mississippi\", \"Océano Pacífico\", \"Polonia\", \"Reino Unido\", \"Samoa Americana\"]\npaises: [\"Colombia\", \"Estados Unidos\", \"Irán\", \"Israel\", \"Japón\", \"Polonia\", \"Reino Unido\", \"Rusia\", \"Turquía\", \"Ucrania\", \"Unión Europea\"]\nentidades: [\"Anthropic\", \"BBC News\", \"Banco Central Europeo\", \"Bank of America\", \"COP31\", \"Casa Blanca\", \"Departamento de Defensa\", \"EU\", \"Fermi mission\", \"Francia\", \"Gobierno británico\", \"Google\", \"Just Safe\", \"Marine Minerals Administration\", \"NASA\", \"NOAA\", \"NWS National Hurricane Center\", \"ONU\", \"OTAN\", \"Office for National Statistics\", \"Reuters\", \"Senado de EE.UU.\", \"Sindicatos\", \"The Guardian\", \"UE\", \"UK government\", \"USAID\", \"Wetstone US Ventures\"]\ntemas: [\"Brexit\", \"IA\", \"IPO\", \"astronomía\", \"ayuda internacional\", \"cambio climático\", \"ciberseguridad\", \"clima\", \"combustibles fósiles\", \"comercio\", \"computación cuántica\", \"conflicto\", \"contaminación ambiental\", \"criminología\", \"crisis política\", \"datos abiertos\", \"economía\", \"educación\", \"ejercicios militares\", \"energía\", \"energía limpia\", \"estabilidad financiera\", \"exploración espacial\", \"financiación climática\", \"finanzas\", \"infancia\", \"inflación\", \"infraestructura\", \"inteligencia artificial\", \"mercados financieros\", \"minerales críticos\", \"minería oceánica\", \"movilidad juvenil\", \"nave espacial\", \"petróleo\", \"política monetaria\", \"protección social\", \"protestas\", \"regulación\", \"retail\", \"sistema penitenciario\", \"suministros de emergencia\", \"tecnología\", \"tecnología espacial\", \"tecnología verde\", \"temporales\", \"tormentas\", \"África\"]\nbucles_activos: []\ncorte: \"2026-11-20T13:40:27.976247+00:00\"\ninicio_ventana: \"2026-11-19T13:40:27.976247+00:00\"\nestado: \"análisis pendiente\"\n```\n",
   "nexo": null,
   "cobertura": {
     "noaa": {
@@ -413,11 +1220,11 @@
     },
     "openai": {
       "ok": true,
-      "piezas": 1413,
+      "piezas": 1418,
       "fuente": "OpenAI",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-18T10:00:00+00:00",
+      "ultima_publicacion": "2026-11-19T08:00:00+00:00",
       "recientes": 0
     },
     "nasa": {
@@ -426,8 +1233,8 @@
       "fuente": "NASA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-19T05:05:00+00:00",
-      "recientes": 9
+      "ultima_publicacion": "2026-11-20T05:05:00+00:00",
+      "recientes": 7
     },
     "cisa": {
       "ok": true,
@@ -435,26 +1242,26 @@
       "fuente": "CISA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-18T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-19T12:00:00+00:00",
       "recientes": 0
     },
     "eia": {
       "ok": true,
-      "piezas": 29,
+      "piezas": 30,
       "fuente": "EIA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-18T14:00:00+00:00",
+      "ultima_publicacion": "2026-11-19T14:00:00+00:00",
       "recientes": 1
     },
     "fao": {
       "ok": true,
-      "piezas": 18,
+      "piezas": 19,
       "fuente": "FAO",
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-19T12:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "wto": {
       "ok": true,
@@ -462,7 +1269,7 @@
       "fuente": "OMC",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-18T00:00:00+00:00",
+      "ultima_publicacion": "2026-11-19T00:00:00+00:00",
       "recientes": 0
     },
     "un": {
@@ -471,7 +1278,7 @@
       "fuente": "ONU",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-18T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-19T12:00:00+00:00",
       "recientes": 0
     },
     "fed": {
@@ -480,7 +1287,7 @@
       "fuente": "Reserva Federal",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-18T19:00:00+00:00",
+      "ultima_publicacion": "2026-11-19T16:00:00+00:00",
       "recientes": 1
     },
     "ecb": {
@@ -489,8 +1296,8 @@
       "fuente": "BCE",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-18T09:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-20T08:30:00+00:00",
+      "recientes": 1
     },
     "imf": {
       "ok": false,
@@ -525,7 +1332,7 @@
       "fuente": "ONU (inglés)",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-18T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-19T12:00:00+00:00",
       "recientes": 0
     },
     "consilium": {
@@ -543,7 +1350,7 @@
       "fuente": "Google",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-19T13:00:00+00:00",
+      "ultima_publicacion": "2026-11-19T20:30:00+00:00",
       "recientes": 11
     },
     "microsoft": {
@@ -562,7 +1369,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-19T13:05:53+00:00",
-      "recientes": 4
+      "recientes": 0
     },
     "apple": {
       "ok": true,
@@ -579,7 +1386,7 @@
       "fuente": "NIST",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-18T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-19T12:00:00+00:00",
       "recientes": 0
     },
     "esa": {
@@ -606,7 +1413,7 @@
       "fuente": "NOAA · Centro Nacional de Huracanes",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-20T23:48:37+00:00",
+      "ultima_publicacion": "2026-11-21T23:38:16+00:00",
       "recientes": 1
     },
     "nasa-releases": {
@@ -615,8 +1422,8 @@
       "fuente": "NASA · Comunicados",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-19T05:05:00+00:00",
-      "recientes": 9
+      "ultima_publicacion": "2026-11-20T05:05:00+00:00",
+      "recientes": 7
     },
     "usda": {
       "ok": false,
@@ -634,7 +1441,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-18T23:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "bis": {
       "ok": true,
@@ -652,15 +1459,15 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-19T08:00:00+00:00",
-      "recientes": 2
+      "recientes": 0
     },
     "boj": {
       "ok": true,
-      "piezas": 46,
+      "piezas": 47,
       "fuente": "Banco de Japón",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-19T07:00:00+00:00",
+      "ultima_publicacion": "2026-11-20T02:00:00+00:00",
       "recientes": 0
     },
     "census": {
@@ -674,12 +1481,12 @@
     },
     "bbc-world": {
       "ok": true,
-      "piezas": 34,
+      "piezas": 36,
       "fuente": "BBC News",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-19T13:31:23+00:00",
-      "recientes": 25
+      "ultima_publicacion": "2026-11-20T13:28:32+00:00",
+      "recientes": 27
     },
     "bbc-mundo": {
       "ok": true,
@@ -687,17 +1494,17 @@
       "fuente": "BBC Mundo",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-19T13:18:16+00:00",
-      "recientes": 11
+      "ultima_publicacion": "2026-11-20T12:05:05+00:00",
+      "recientes": 15
     },
     "cnn": {
       "ok": true,
-      "piezas": 254,
+      "piezas": 243,
       "fuente": "CNN",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-19T13:01:59.547000+00:00",
-      "recientes": 104
+      "ultima_publicacion": "2026-11-20T13:32:26.004000+00:00",
+      "recientes": 105
     },
     "dw-es": {
       "ok": false,
@@ -714,7 +1521,7 @@
       "fuente": "France 24",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-19T13:53:16+00:00",
+      "ultima_publicacion": "2026-11-20T13:12:43+00:00",
       "recientes": 24
     },
     "guardian": {
@@ -723,8 +1530,8 @@
       "fuente": "The Guardian",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-19T13:52:10+00:00",
-      "recientes": 31
+      "ultima_publicacion": "2026-11-20T13:24:24+00:00",
+      "recientes": 33
     },
     "aljazeera": {
       "ok": true,
@@ -732,16 +1539,16 @@
       "fuente": "Al Jazeera",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-19T13:30:00+00:00",
+      "ultima_publicacion": "2026-11-20T13:23:53+00:00",
       "recientes": 25
     },
     "elpais": {
       "ok": true,
-      "piezas": 21,
+      "piezas": 23,
       "fuente": "El País",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-19T13:39:09+00:00",
+      "ultima_publicacion": "2026-11-20T13:11:01+00:00",
       "recientes": 13
     },
     "cnbc": {
@@ -750,8 +1557,8 @@
       "fuente": "CNBC",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-19T13:57:09+00:00",
-      "recientes": 29
+      "ultima_publicacion": "2026-11-20T13:31:39+00:00",
+      "recientes": 28
     },
     "reuters": {
       "ok": false,
@@ -776,7 +1583,7 @@
       "piezas": 0,
       "fuente": "Agencia EFE",
       "tipo": "agencia",
-      "error": "HTTP Error 500: Internal Server Error",
+      "error": "HTTP Error 403: Forbidden",
       "ultima_publicacion": null,
       "recientes": 0
     },
@@ -786,7 +1593,7 @@
       "fuente": "MarketWatch",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-19T13:55:00+00:00",
+      "ultima_publicacion": "2026-11-20T13:25:00+00:00",
       "recientes": 10
     },
     "guardian-environment": {
@@ -795,8 +1602,8 @@
       "fuente": "The Guardian · Medio ambiente",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-19T13:48:30+00:00",
-      "recientes": 6
+      "ultima_publicacion": "2026-11-20T13:32:11+00:00",
+      "recientes": 8
     },
     "bbc-tech": {
       "ok": true,
@@ -804,17 +1611,17 @@
       "fuente": "BBC · Tecnología",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-19T12:26:39+00:00",
-      "recientes": 6
+      "ultima_publicacion": "2026-11-20T13:28:32+00:00",
+      "recientes": 7
     },
     "bbc-business": {
       "ok": true,
-      "piezas": 51,
+      "piezas": 57,
       "fuente": "BBC · Economía",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-19T13:35:52+00:00",
-      "recientes": 17
+      "ultima_publicacion": "2026-11-20T13:08:30+00:00",
+      "recientes": 15
     }
   }
 }

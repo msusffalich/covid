@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-11-19T14:03:21.249250+00:00",
+    "generado": "2026-11-20T13:46:21.511678+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -13,22 +13,17 @@
         "en": "Iran vs. USA"
       },
       "color": "#E4634F",
-      "n_nodos": 32,
-      "ultima_fecha": "2026-11-12",
+      "n_nodos": 28,
+      "ultima_fecha": "2026-11-20",
       "resumen": {
-        "es": "A lo largo de los últimos días, las tensiones entre Estados Unidos e Irán han permanecido elevadas pero con señales mixtas: mientras el presidente Trump descarta la necesidad de un acuerdo, se observan intentos diplomáticos, como la propuesta iraní mediada por Catar y viajes a Moscú. Paralelamente, continúan los incidentes militares y amenazas, incluyendo ataques limitados y movimientos de personal estadounidense por seguridad, pero también hay indicios de distensión como la caída en los precios de la energía.",
-        "en": "Over the past days, tensions between the United States and Iran have remained high but with mixed signals: while President Trump dismisses the need for an agreement, diplomatic efforts are evident such as Iran's Qatar-mediated proposal and trips to Moscow. Simultaneously, military incidents and threats persist, including limited attacks and U.S. personnel relocations for security, though signs of de-escalation are seen like falling energy prices."
+        "es": "Durante el periodo evaluado, el conflicto entre Irán y Estados Unidos se ha intensificado con acciones militares, amenazas y ataques cibernéticos que han afectado tanto la estabilidad geopolítica como el medio ambiente en la región del Golfo Pérsico. A pesar de algunos indicios de esfuerzos diplomáticos y una caída en los precios de la energía, la situación se mantiene tensa y con poca probabilidad de una resolución inmediata. Las medidas de seguridad han aumentado, y varios países, como Francia y Catar, están involucrados en diferentes aspectos del conflicto.",
+        "en": "During the assessed period, the conflict between Iran and the United States has escalated with military actions, threats, and cyberattacks impacting both geopolitical stability and the environment in the Persian Gulf region. Despite some signs of diplomatic efforts and a drop in energy prices, the situation remains tense with little likelihood of immediate resolution. Security measures have increased, and various countries, such as France and Qatar, are involved in different aspects of the conflict."
       },
       "estado": {
-        "es": "El estado más reciente indica que Trump reafirma que EE.UU. no necesita un acuerdo con Irán en medio de una combinación de esfuerzos diplomáticos y acciones militares limitadas.",
-        "en": "The most recent status indicates Trump reiterates that the U.S. does not need an agreement with Iran amid a mix of diplomatic efforts and limited military actions."
+        "es": "El conflicto permanecía tenso en noviembre de 2026, marcado por ataques, amenazas y un intenso clima de inseguridad, sin avances significativos hacia la paz.",
+        "en": "The conflict remained tense in November 2026, marked by attacks, threats, and a high security alert, with no significant progress towards peace."
       },
       "serie": [
-        {
-          "fecha": "2026-10-30",
-          "max": 68,
-          "n": 5
-        },
         {
           "fecha": "2026-10-31",
           "max": 65,
@@ -88,9 +83,26 @@
           "fecha": "2026-11-12",
           "max": 55,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-20",
+          "max": 75,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Conflicto en Irán provoca contaminación ambiental en el Golfo Pérsico",
+            "en": "Conflict in Iran causes environmental damage in Persian Gulf"
+          },
+          "impacto": 75,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/video/2026/nov/20/how-the-war-in-iran-turned-the-gulf-into-a-climate-catastrophe-video-explainer",
+          "fuente": "The Guardian · Medio ambiente"
+        },
         {
           "fecha": "2026-11-12",
           "titulo": {
@@ -222,18 +234,6 @@
           "kardashev": "K1",
           "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News"
-        },
-        {
-          "fecha": "2026-11-07",
-          "titulo": {
-            "es": "EE.UU. confirma nuevos ataques 'menores' contra Irán en isla Qeshm",
-            "en": "US confirms new 'minor' strikes on Iran at Qeshm Island"
-          },
-          "impacto": 68,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
-          "fuente": "The Guardian"
         }
       ]
     },
@@ -244,22 +244,17 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 45,
-      "ultima_fecha": "2026-11-19",
+      "n_nodos": 43,
+      "ultima_fecha": "2026-11-20",
       "resumen": {
-        "es": "Durante el periodo, el conflicto entre Rusia y Ucrania continuó con ofensivas militares destacadas, como ataques con drones sobre Moscú y el puente de Kerch, y con intensas negociaciones diplomáticas que involucran a Estados Unidos y líderes mundiales en busca de soluciones, incluyendo propuestas de cesión territorial por parte de Ucrania para su ingreso a la OTAN. La situación muestra una escalada en la guerra tecnológica y militar, mientras la diplomacia intenta abrir caminos hacia la paz, aunque con avances inciertos y posiciones firmes de ambos lados.",
-        "en": "During the period, the conflict between Russia and Ukraine saw significant military offensives including drone attacks on Moscow and the Kerch Bridge, alongside intense diplomatic negotiations involving the United States and global leaders aiming for solutions, including proposals for Ukraine to cede territory in exchange for NATO membership. The situation exhibits escalation in technological and military warfare while diplomacy seeks avenues towards peace, although progress remains uncertain with firm stances from both sides."
+        "es": "Durante el periodo, el conflicto entre Rusia y Ucrania se intensificó con ataques significativos, incluyendo bombardeos en Kiev y misiles rusos que impactaron en Polonia durante ejercicios militares occidentales, lo que generó tensiones internacionales. Simultáneamente, Ucrania realizó ataques con drones en infraestructuras clave, como el puente de Kerch. En el plano diplomático, se destacó una reunión histórica entre Trump, Xi y Putin enfocada en la paz y armas nucleares, mientras que Estados Unidos propuso que Ucrania ceda el Donbass para su ingreso a la OTAN, evidenciando una posible búsqueda de solución negociada que enfrenta resistencias europeas.",
+        "en": "During the period, the conflict between Russia and Ukraine escalated with significant attacks, including bombings in Kyiv and Russian missiles hitting Poland amid Western military exercises, raising international tensions. Concurrently, Ukraine conducted drone attacks on key infrastructure such as the Kerch bridge. Diplomatically, a historic meeting between Trump, Xi, and Putin focused on peace and nuclear arms, while the US suggested Ukraine cede Donbass for NATO membership, indicating a possible negotiated solution encountering European reservations."
       },
       "estado": {
-        "es": "Una reunión histórica entre Trump, Xi y Putin en APEC refleja un enfoque renovado en la paz internacional, aunque la situación sobre Ucrania sigue siendo frágil y compleja.",
-        "en": "A historic meeting between Trump, Xi, and Putin at APEC reflects a renewed focus on international peace, though the situation regarding Ukraine remains fragile and complex."
+        "es": "Recientemente, misiles y drones rusos impactaron territorio polaco durante ejercicios de la OTAN, considerados provocaciones, y ataques en Kiev continúan afectando infraestructura y civiles.",
+        "en": "Recently, Russian missiles and drones struck Polish territory during NATO exercises, regarded as provocations, while attacks in Kyiv continue to impact infrastructure and civilians."
       },
       "serie": [
-        {
-          "fecha": "2026-10-30",
-          "max": 68,
-          "n": 6
-        },
         {
           "fecha": "2026-10-31",
           "max": 70,
@@ -344,9 +339,62 @@
           "fecha": "2026-11-19",
           "max": 85,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-20",
+          "max": 95,
+          "n": 4
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Misiles y dron rusos impactan Polonia durante ejercicios militares occidentales",
+            "en": "Russian missiles and drone hit Poland during Western military exercises"
+          },
+          "impacto": 95,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
+          "fuente": "The Guardian"
+        },
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Rusia ataca infraestructura y puentes en Kiev tras ofensiva en el estrecho de Kerch",
+            "en": "Russia attacks infrastructure and bridges in Kyiv after Kerch Strait offensive"
+          },
+          "impacto": 90,
+          "categoria": "geopolitica",
+          "kardashev": "K0",
+          "url": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
+          "fuente": "El País"
+        },
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Misil ruso impacta Polonia durante ejercicios aliados en Ucrania, dice Tusk",
+            "en": "Russian missile hits Poland during allied exercises in Ukraine, says Tusk"
+          },
+          "impacto": 90,
+          "categoria": "geopolitica",
+          "kardashev": "K0",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News"
+        },
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Google Quantum AI demuestra contextualidad en algoritmos cuánticos a gran escala",
+            "en": "Google Quantum AI proves contextuality in large-scale quantum algorithms"
+          },
+          "impacto": 70,
+          "categoria": "tecnologia",
+          "kardashev": "K0",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+          "fuente": "Google"
+        },
         {
           "fecha": "2026-11-19",
           "titulo": {
@@ -442,54 +490,6 @@
           "kardashev": "K0",
           "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
           "fuente": "BBC News"
-        },
-        {
-          "fecha": "2026-11-14",
-          "titulo": {
-            "es": "Zelensky acusa a SpaceX de razones políticas para ralentizar Starshield",
-            "en": "SpaceX not being honest about ‘political’ reasons for slowing Starshield, says Zelenskyy"
-          },
-          "impacto": 75,
-          "categoria": "geopolitica",
-          "kardashev": "K2",
-          "url": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy",
-          "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-11-12",
-          "titulo": {
-            "es": "Enviados de EE. UU. se reúnen con Putin mientras Zelenski denuncia nueva interrupción de Starlink",
-            "en": "US envoys meet Putin as Zelensky says Starlink disrupted again"
-          },
-          "impacto": 68,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-          "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-11-12",
-          "titulo": {
-            "es": "Startup ucraniana de tecnología de defensa UFORCE alcanza valoración de 6.000 millones",
-            "en": "Ukrainian defense tech startup UFORCE hits $6 billion valuation"
-          },
-          "impacto": 48,
-          "categoria": "tecnologia",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-11-11",
-          "titulo": {
-            "es": "Zelenski advierte que Ucrania 'no es un bien inmobiliario' en medio de negociaciones de paz",
-            "en": "Zelenskyy warns Ukraine is 'not real estate' amid peace talks"
-          },
-          "impacto": 70,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
-          "fuente": "CNBC"
         }
       ]
     },
@@ -500,22 +500,17 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 16,
-      "ultima_fecha": "2026-11-18",
+      "n_nodos": 15,
+      "ultima_fecha": "2026-11-20",
       "resumen": {
-        "es": "Durante este periodo, la situación en Gaza se ha agravado debido a las intensas lluvias que han provocado inundaciones masivas y deslizamientos de tierra, afectando gravemente a los desplazados palestinos y colapsando la infraestructura local. Paralelamente, en Israel se observan tensiones políticas con el intento de formar un nuevo gobierno y acusaciones sobre el uso de tecnología para vigilancia masiva. A nivel internacional, la condena por los ataques a infraestructuras civiles en Gaza y cambios en la política estadounidense hacia la ayuda militar a Israel reflejan una creciente complejidad y polarización en Oriente Medio.",
-        "en": "During this period, the situation in Gaza deteriorated due to heavy rains causing widespread flooding and landslides, severely impacting displaced Palestinians and collapsing local infrastructure. Meanwhile, political tensions in Israel are evident with efforts to form a new government and accusations regarding mass surveillance technology use. Internationally, condemnations of attacks on civilian infrastructure in Gaza and shifts in U.S. military aid policy towards Israel highlight growing complexity and polarization in the Middle East."
+        "es": "Durante el período, el conflicto en Oriente Medio ha escalado en varias dimensiones: desde la intensificación de tensiones políticas en Israel con la formación de un nuevo gobierno y controversias electorales, hasta la agravación de una crisis humanitaria en Gaza por inundaciones que afectan a miles de desplazados, exacerbada por la colapso de infraestructura. Paralelamente, el conflicto militar y las tensiones regionales han provocado graves impactos ambientales en el Golfo Pérsico, subrayando la complejidad y multidimensionalidad de la situación en la región.",
+        "en": "Over the period, the Middle East conflict has escalated on multiple fronts: political tensions in Israel intensified with the formation of a new government amid electoral controversies, while Gaza faces a worsening humanitarian crisis due to floods impacting thousands of displaced persons and infrastructure collapse. Simultaneously, military conflict and regional tensions have caused severe environmental damage in the Persian Gulf, highlighting the complex and multifaceted nature of the situation in the region."
       },
       "estado": {
-        "es": "Actualmente, Gaza enfrenta una crisis humanitaria grave por las inundaciones y daños en los campamentos de desplazados, mientras en Israel continúa la formación incierta de un nuevo gobierno.",
-        "en": "Currently, Gaza faces a severe humanitarian crisis due to flooding and damage in displaced persons camps, while in Israel the formation of a new government remains uncertain."
+        "es": "Actualmente, Gaza sufre inundaciones graves que han dejado a decenas de miles sin refugio, mientras Israel afronta la formación de un nuevo gobierno tras unas elecciones sin mayoría clara.",
+        "en": "Currently, Gaza is experiencing severe flooding that has left tens of thousands homeless, while Israel faces the formation of a new government following inconclusive elections."
       },
       "serie": [
-        {
-          "fecha": "2026-10-30",
-          "max": 68,
-          "n": 2
-        },
         {
           "fecha": "2026-10-31",
           "max": 70,
@@ -565,9 +560,26 @@
           "fecha": "2026-11-18",
           "max": 40,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-20",
+          "max": 75,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Conflicto en Irán provoca contaminación ambiental en el Golfo Pérsico",
+            "en": "Conflict in Iran causes environmental damage in Persian Gulf"
+          },
+          "impacto": 75,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/video/2026/nov/20/how-the-war-in-iran-turned-the-gulf-into-a-climate-catastrophe-video-explainer",
+          "fuente": "The Guardian · Medio ambiente"
+        },
         {
           "fecha": "2026-11-18",
           "titulo": {
@@ -699,18 +711,6 @@
           "kardashev": "K0",
           "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
           "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-11-04",
-          "titulo": {
-            "es": "Trump anuncia que EE. UU. suspenderá ayuda militar de 4.000 millones de dólares a Israel a fin de año",
-            "en": "Trump announces US will suspend $4 billion military aid to Israel by year end"
-          },
-          "impacto": 60,
-          "categoria": "geopolitica",
-          "kardashev": "K0",
-          "url": "https://elpais.com/internacional/2026-11-03/trump-dice-que-suspendera-4000-millones-de-dolares-en-ayuda-a-israel.html",
-          "fuente": "El País"
         }
       ]
     },
@@ -721,22 +721,17 @@
         "en": "AI governance & risk"
       },
       "color": "#3D9BE4",
-      "n_nodos": 23,
-      "ultima_fecha": "2026-11-19",
+      "n_nodos": 24,
+      "ultima_fecha": "2026-11-20",
       "resumen": {
-        "es": "Durante este periodo, el tema de gobernanza y riesgo de la inteligencia artificial ha evolucionado mostrando una creciente preocupación por sus impactos tanto en infraestructura energética como en ciberseguridad; se observa un aumento en incidentes de ciberataques con IA, así como desafíos regulatorios y tensiones geopolíticas relacionadas con el control de la tecnología y la exportación de chips. A pesar de estas problemáticas, continúan las inversiones y alianzas estratégicas para potenciar usos positivos de la IA, aunque la opinión pública presenta un creciente recelo hacia algunas empresas del sector.",
-        "en": "During this period, the topic of AI governance and risk has evolved with growing concerns about its impacts on energy infrastructure and cybersecurity; there is an increase in AI-driven cyberattacks, alongside regulatory challenges and geopolitical tensions concerning technology control and chip exports. Despite these issues, investments and strategic partnerships to enhance positive AI applications continue, although public sentiment shows increasing skepticism towards some companies in the sector."
+        "es": "Durante el periodo, la gobernanza y el riesgo asociados a la inteligencia artificial muestran una creciente complejidad vinculada a desafíos técnicos, regulatorios y de seguridad. Mientras diversos gobiernos avanzan en reformas y reportes para acelerar permisos y endurecer controles, incidentes como ciberataques con IA y hackeos a instituciones gubernamentales evidencian amenazas latentes. La evolución también refleja tensiones en la industria por liderazgo y regulaciones, junto con movimientos empresariales estratégicos y salidas a bolsa que enfrentan incertidumbre pública.",
+        "en": "Throughout the period, governance and risks related to artificial intelligence highlight increasing complexity tied to technical, regulatory, and security challenges. While various governments advance reforms and reports to accelerate permits and tighten controls, incidents such as AI-driven cyberattacks and hacks on governmental institutions expose latent threats. The evolution also reflects industry tensions over leadership and regulations, as well as strategic business moves and IPOs facing public uncertainty."
       },
       "estado": {
-        "es": "La situación más reciente refleja una presión creciente para la implementación de medidas regulatorias y de seguridad tras incidentes destacados de ciberseguridad y un panorama geopolítico tenso alrededor de la gestión de tecnologías de IA.",
-        "en": "The most recent situation reflects increasing pressure for regulatory and security measures following notable cybersecurity incidents and a tense geopolitical landscape concerning AI technology management."
+        "es": "El estado más reciente muestra un aumento en la demanda energética de la IA y alertas críticas por ciberataques, con esfuerzos regulatorios en marcha para acelerar permisos y responder a vulnerabilidades.",
+        "en": "The most recent state shows rising energy demand for AI and critical alerts due to cyberattacks, with ongoing regulatory efforts to accelerate permits and address vulnerabilities."
       },
       "serie": [
-        {
-          "fecha": "2026-10-30",
-          "max": 45,
-          "n": 1
-        },
         {
           "fecha": "2026-10-31",
           "max": 60,
@@ -801,9 +796,38 @@
           "fecha": "2026-11-19",
           "max": 80,
           "n": 3
+        },
+        {
+          "fecha": "2026-11-20",
+          "max": 70,
+          "n": 2
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Google Quantum AI demuestra contextualidad en algoritmos cuánticos a gran escala",
+            "en": "Google Quantum AI proves contextuality in large-scale quantum algorithms"
+          },
+          "impacto": 70,
+          "categoria": "tecnologia",
+          "kardashev": "K0",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+          "fuente": "Google"
+        },
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Senado estadounidense aprueba reforma para acelerar permisos en sectores de IA y energía",
+            "en": "US Senate passes permitting reform bill backed by AI and energy sectors"
+          },
+          "impacto": 60,
+          "categoria": "recursos",
+          "kardashev": "K1",
+          "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+          "fuente": "CNBC"
+        },
         {
           "fecha": "2026-11-19",
           "titulo": {
@@ -923,30 +947,6 @@
           "kardashev": "K2",
           "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
           "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-11-07",
-          "titulo": {
-            "es": "OpenAI mantendrá inversión en centros de datos de IA pese a resultados electorales",
-            "en": "OpenAI will keep investing in AI data centers despite election results"
-          },
-          "impacto": 58,
-          "categoria": "tecnologia",
-          "kardashev": "K2",
-          "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-          "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-11-06",
-          "titulo": {
-            "es": "OpenAI destaca uso de Codex por la empresa india Cult.fit",
-            "en": "OpenAI highlights Indian company Cult.fit's use of Codex"
-          },
-          "impacto": 15,
-          "categoria": "tecnologia",
-          "kardashev": "K2",
-          "url": "https://openai.com/index/cultfit-builds-with-codex",
-          "fuente": "OpenAI"
         }
       ]
     },
@@ -957,22 +957,17 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 45,
-      "ultima_fecha": "2026-11-19",
+      "n_nodos": 47,
+      "ultima_fecha": "2026-11-20",
       "resumen": {
-        "es": "Durante el periodo analizado, el enfoque en la crisis climática se ha intensificado notablemente, con una COP31 que destaca por el impulso a la transición energética y la responsabilidad del Norte Global. Paralelamente, eventos extremos como inundaciones en Florida, Pakistán y Europa evidencian el creciente impacto climático, mientras que acciones judiciales y diplomáticas buscan limitar la explotación de combustibles fósiles y mejorar la cooperación internacional.",
-        "en": "Throughout the analyzed period, attention to the climate crisis has notably intensified, with COP31 emphasizing energy transition and Northern countries' responsibility. At the same time, extreme events such as floods in Florida, Pakistan, and Europe highlight the increasing climate impact, while judicial and diplomatic actions seek to limit fossil fuel exploitation and improve international cooperation."
+        "es": "Durante el periodo, el tema del impacto climático mostró una fuerte tensión entre los compromisos internacionales y las realidades climáticas actuales. Las negociaciones en la COP31 reflejan un retroceso en la mención y compromiso hacia la eliminación de los combustibles fósiles, mientras que países en desarrollo, especialmente africanos, exigen mayor financiación climática. Al mismo tiempo, los fenómenos climáticos extremos, como inundaciones e intensas tormentas en diversas regiones del mundo, evidencian la urgencia del cambio, marcando un contraste con las dificultades para acordar medidas claras y ambiciosas en la arena internacional.",
+        "en": "During the period, the topic of climate impact showed strong tension between international commitments and current climate realities. Negotiations at COP31 reflect a backtrack in references and commitments toward phasing out fossil fuels, while developing countries, especially in Africa, demand increased climate financing. At the same time, extreme weather events, such as floods and intense storms in various regions worldwide, highlight the urgency for change, contrasting with the challenges of reaching clear and ambitious measures on the international stage."
       },
       "estado": {
-        "es": "Las negociaciones de la COP31 continúan avanzando con un llamado a acelerar el alejamiento de combustibles fósiles y mayor colaboración entre países para enfrentar impactos climáticos crecientes.",
-        "en": "COP31 negotiations continue progressing with calls to accelerate fossil fuel phase-out and enhance collaboration among countries to face increasing climate impacts."
+        "es": "La COP31 finaliza con un borrador que elimina referencias a combustibles fósiles y una demanda persistente de mayor financiación climática por parte de países en desarrollo.",
+        "en": "COP31 ends with a draft that removes references to fossil fuels and a persistent demand for increased climate financing by developing countries."
       },
       "serie": [
-        {
-          "fecha": "2026-10-30",
-          "max": 42,
-          "n": 1
-        },
         {
           "fecha": "2026-11-01",
           "max": 52,
@@ -1052,9 +1047,50 @@
           "fecha": "2026-11-19",
           "max": 65,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-20",
+          "max": 80,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "COP31 queda en entredicho por borrado de menciones a combustibles fósiles en borrador",
+            "en": "COP31 questioned as fossil fuel mentions removed from draft"
+          },
+          "impacto": 80,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text",
+          "fuente": "The Guardian · Medio ambiente"
+        },
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "África exige más financiación climática en COP31; Europa pide usar fondos ya comprometidos",
+            "en": "Africa demands more climate financing at COP31; Europe urges use of already pledged funds"
+          },
+          "impacto": 65,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News"
+        },
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Persiste sistema de baja presión frente a la costa sureste de EE.UU. con potencial tropical",
+            "en": "Persistent low pressure system off the southeast U.S. coast with tropical potential"
+          },
+          "impacto": 60,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
+          "fuente": "NOAA · Centro Nacional de Huracanes"
+        },
         {
           "fecha": "2026-11-19",
           "titulo": {
@@ -1162,42 +1198,6 @@
           "kardashev": "K1",
           "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
           "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-11-12",
-          "titulo": {
-            "es": "Kerry llama a Trump 'el mayor perdedor' por abandonar la acción climática",
-            "en": "Kerry calls Trump 'biggest loser' for scrapping climate action"
-          },
-          "impacto": 52,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31",
-          "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-11-12",
-          "titulo": {
-            "es": "Greta Thunberg advierte en la COP31 que 'nadie viene a rescatarnos'",
-            "en": "Greta Thunberg warns at COP31 that 'no one is coming to rescue us'"
-          },
-          "impacto": 50,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
-          "fuente": "The Guardian · Medio ambiente"
-        },
-        {
-          "fecha": "2026-11-12",
-          "titulo": {
-            "es": "ONU lanza plataforma de financiamiento de riesgo de desastres en la COP31",
-            "en": "UN launches Disaster Risk Financing Platform at COP31"
-          },
-          "impacto": 40,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.fao.org/newsroom/detail/un-launches-disaster-risk-financing-platform-at-cop31-to-make-humanitarian-responses-faster-and-more-predictable/en",
-          "fuente": "FAO"
         }
       ]
     },
@@ -1208,22 +1208,17 @@
         "en": "Global economy"
       },
       "color": "#E4A11B",
-      "n_nodos": 76,
-      "ultima_fecha": "2026-11-19",
+      "n_nodos": 75,
+      "ultima_fecha": "2026-11-20",
       "resumen": {
-        "es": "Durante el periodo analizado, la economía global muestra una creciente influencia de la inteligencia artificial, que impulsa tanto la demanda en sectores clave como la ciberseguridad como preocupaciones macroeconómicas por el aumento de precios y la necesidad de subir tasas de interés. Al mismo tiempo, persisten desafíos relacionados con la estabilidad financiera, la supervisión bancaria, y la gestión de riesgos asociados a IA, mientras la crisis climática y la dinámica energética continúan generando debates y decisiones regulatorias importantes a nivel global. La actividad en los mercados de criptomonedas y producción energética también refleja tensiones geopolíticas y perspectivas de crecimiento diferencial en regiones específicas.",
-        "en": "During the analyzed period, the global economy is increasingly influenced by artificial intelligence, driving demand in key sectors such as cybersecurity while raising macroeconomic concerns about rising prices and the need for interest rate hikes. Simultaneously, challenges remain regarding financial stability, bank supervision, and managing AI-related risks, while climate crisis and energy transition debates and regulations continue globally. Activity in cryptocurrency markets and energy production also reflect geopolitical tensions and varying growth prospects in specific regions."
+        "es": "Durante el periodo, la economía global muestra un marcado impacto de la inteligencia artificial, evidenciado por la histórica IPO de Anthropic con una valoración récord y el aumento en financiamiento en este sector, lo que a su vez impulsa preocupaciones inflacionarias y posibles aumentos en tasas de interés. Paralelamente, tensiones geopolíticas en el Golfo Pérsico y riesgos de recesión generan incertidumbre económica, mientras que autoridades financieras insisten en la necesidad de medidas oportunas y supervisión inteligente. En este contexto, la recuperación del mercado y la seguridad en activos digitales también surgen como temas relevantes.",
+        "en": "During the period, the global economy shows a strong impact from artificial intelligence, highlighted by Anthropic's historic IPO at a record valuation and growing funding in the sector, which in turn raises inflation concerns and potential interest rate hikes. Meanwhile, geopolitical tensions in the Persian Gulf and recession risks create economic uncertainty, while financial authorities stress the need for timely measures and smart oversight. In this context, market recovery and digital asset security also emerge as relevant topics."
       },
       "estado": {
-        "es": "La jefa del FMI advierte que la creciente demanda de hardware de IA está elevando los precios y forzará a bancos centrales a subir las tasas de interés.",
-        "en": "The IMF chief warns that rising demand for AI hardware is increasing prices and will force central banks to raise interest rates."
+        "es": "La IPO de Anthropic marcó un hito con una valoración récord de 2 billones de dólares y $93,500 millones recaudados, reflejando la influencia creciente de la inteligencia artificial en la economía global y la atención de inversores.",
+        "en": "Anthropic's IPO set a milestone with a record $2 trillion valuation and $93.5 billion raised, reflecting the growing influence of artificial intelligence on the global economy and investor focus."
       },
       "serie": [
-        {
-          "fecha": "2026-10-30",
-          "max": 62,
-          "n": 7
-        },
         {
           "fecha": "2026-10-31",
           "max": 70,
@@ -1303,9 +1298,86 @@
           "fecha": "2026-11-19",
           "max": 80,
           "n": 2
+        },
+        {
+          "fecha": "2026-11-20",
+          "max": 90,
+          "n": 6
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Anthropic debuta en Wall Street con valoración récord de 2 billones de dólares",
+            "en": "Anthropic debuts on Wall Street with record $2 trillion valuation"
+          },
+          "impacto": 90,
+          "categoria": "finanzas",
+          "kardashev": "K1",
+          "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261120-anthropic-debuta-en-wall-street-y-alcanza-una-valoraci%C3%B3n-burs%C3%A1til-de-usd-2-billones",
+          "fuente": "France 24"
+        },
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Anthropic recauda 93,500 millones de dólares tras IPO con sobreasignación",
+            "en": "Anthropic raises $93.5 billion after IPO with greenshoe overallotment"
+          },
+          "impacto": 85,
+          "categoria": "finanzas",
+          "kardashev": "K0",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Conflicto en Irán provoca contaminación ambiental en el Golfo Pérsico",
+            "en": "Conflict in Iran causes environmental damage in Persian Gulf"
+          },
+          "impacto": 75,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/world/video/2026/nov/20/how-the-war-in-iran-turned-the-gulf-into-a-climate-catastrophe-video-explainer",
+          "fuente": "The Guardian · Medio ambiente"
+        },
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Inflación core en Japón sube a máximo del año por fin de subsidios energéticos",
+            "en": "Japan's core inflation hits yearly high as energy subsidies end"
+          },
+          "impacto": 70,
+          "categoria": "finanzas",
+          "kardashev": "K0",
+          "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+          "fuente": "CNBC"
+        },
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Estratega de Bank of America alerta sobre posible ciclo negativo en bolsa por riesgos de recesión",
+            "en": "Bank of America strategist warns of potential doom loop in stocks due to recession risks"
+          },
+          "impacto": 70,
+          "categoria": "finanzas",
+          "kardashev": "K0",
+          "url": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
+          "fuente": "MarketWatch"
+        },
+        {
+          "fecha": "2026-11-20",
+          "titulo": {
+            "es": "Christine Lagarde destaca la necesidad de actuar a tiempo en discurso",
+            "en": "Christine Lagarde emphasizes timely action in speech"
+          },
+          "impacto": 60,
+          "categoria": "finanzas",
+          "kardashev": "K0",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+          "fuente": "BCE"
+        },
         {
           "fecha": "2026-11-19",
           "titulo": {
@@ -1377,78 +1449,6 @@
           "kardashev": "K0",
           "url": "https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html",
           "fuente": "CNBC"
-        },
-        {
-          "fecha": "2026-11-13",
-          "titulo": {
-            "es": "Negociaciones sobre la crisis climática avanzan en la COP31 mientras se cuestionan permisos petroleros en Noruega",
-            "en": "Climate crisis negotiations progress at COP31 amid scrutiny of oil permits in Norway"
-          },
-          "impacto": 80,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
-          "fuente": "The Guardian · Medio ambiente"
-        },
-        {
-          "fecha": "2026-11-13",
-          "titulo": {
-            "es": "Producción de crudo en Alaska crecerá un 13 % en 2027, dice la EIA",
-            "en": "Alaskan crude oil production to grow 13% in 2027, says EIA"
-          },
-          "impacto": 70,
-          "categoria": "recursos",
-          "kardashev": "K1",
-          "url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
-          "fuente": "EIA"
-        },
-        {
-          "fecha": "2026-11-13",
-          "titulo": {
-            "es": "Banque de Inglaterra, MAS y Banco de Tailandia anuncian proyecto conjunto Meridian FX APAC",
-            "en": "Bank of England, MAS, and Bank of Thailand announce joint project Meridian FX APAC"
-          },
-          "impacto": 60,
-          "categoria": "finanzas",
-          "kardashev": "K0",
-          "url": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
-          "fuente": "Banco de Inglaterra"
-        },
-        {
-          "fecha": "2026-11-12",
-          "titulo": {
-            "es": "Junta de Nvidia evalúa el futuro del CEO Jensen Huang",
-            "en": "Nvidia board weighs CEO Jensen Huang's future"
-          },
-          "impacto": 70,
-          "categoria": "geopolitica",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-          "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-11-12",
-          "titulo": {
-            "es": "Economía del Reino Unido crece al ritmo más rápido en más de dos años",
-            "en": "UK economy grows at fastest rate in more than two years"
-          },
-          "impacto": 48,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC · Economía"
-        },
-        {
-          "fecha": "2026-11-12",
-          "titulo": {
-            "es": "Metro Bank se pone en venta con ganancia potencial de 420 millones de libras para su inversor",
-            "en": "Metro Bank up for sale with potential £420m windfall for investor"
-          },
-          "impacto": 40,
-          "categoria": "finanzas",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/business/2026/nov/12/metro-bank-up-for-sale-billionaire-investor-in-line-420m-windfall",
-          "fuente": "The Guardian"
         }
       ]
     }

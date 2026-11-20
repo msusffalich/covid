@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-19
-nodos: 16
+actualizado: 2026-11-20
+nodos: 15
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-19. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-20. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante este periodo, la situación en Gaza se ha agravado debido a las intensas lluvias que han provocado inundaciones masivas y deslizamientos de tierra, afectando gravemente a los desplazados palestinos y colapsando la infraestructura local. Paralelamente, en Israel se observan tensiones políticas con el intento de formar un nuevo gobierno y acusaciones sobre el uso de tecnología para vigilancia masiva. A nivel internacional, la condena por los ataques a infraestructuras civiles en Gaza y cambios en la política estadounidense hacia la ayuda militar a Israel reflejan una creciente complejidad y polarización en Oriente Medio.
+Durante el período, el conflicto en Oriente Medio ha escalado en varias dimensiones: desde la intensificación de tensiones políticas en Israel con la formación de un nuevo gobierno y controversias electorales, hasta la agravación de una crisis humanitaria en Gaza por inundaciones que afectan a miles de desplazados, exacerbada por la colapso de infraestructura. Paralelamente, el conflicto militar y las tensiones regionales han provocado graves impactos ambientales en el Golfo Pérsico, subrayando la complejidad y multidimensionalidad de la situación en la región.
 
 ## Trend summary (EN)
-During this period, the situation in Gaza deteriorated due to heavy rains causing widespread flooding and landslides, severely impacting displaced Palestinians and collapsing local infrastructure. Meanwhile, political tensions in Israel are evident with efforts to form a new government and accusations regarding mass surveillance technology use. Internationally, condemnations of attacks on civilian infrastructure in Gaza and shifts in U.S. military aid policy towards Israel highlight growing complexity and polarization in the Middle East.
+Over the period, the Middle East conflict has escalated on multiple fronts: political tensions in Israel intensified with the formation of a new government amid electoral controversies, while Gaza faces a worsening humanitarian crisis due to floods impacting thousands of displaced persons and infrastructure collapse. Simultaneously, military conflict and regional tensions have caused severe environmental damage in the Persian Gulf, highlighting the complex and multifaceted nature of the situation in the region.
 
 > [!note] Estado actual
-> Actualmente, Gaza enfrenta una crisis humanitaria grave por las inundaciones y daños en los campamentos de desplazados, mientras en Israel continúa la formación incierta de un nuevo gobierno.
+> Actualmente, Gaza sufre inundaciones graves que han dejado a decenas de miles sin refugio, mientras Israel afronta la formación de un nuevo gobierno tras unas elecciones sin mayoría clara.
 
-## Nodos recientes (16 en la ventana)
+## Nodos recientes (15 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-20 | 75 | K1 | Conflicto en Irán provoca contaminación ambiental en el Golfo Pé |
 | 2026-11-18 | 40 | K1 | Perspectiva meteorológica tropical para el Atlántico con baja pr |
 | 2026-11-16 | 85 | K0 | Israel sube millones de fotos a plataforma de reconocimiento fac |
 | 2026-11-15 | 80 | K0 | Países árabes y la UE condenan ataques israelíes al hospital Nas |
@@ -35,6 +36,5 @@ During this period, the situation in Gaza deteriorated due to heavy rains causin
 | 2026-11-07 | 62 | K1 | Lluvias inundan miles de tiendas de desplazados en Gaza |
 | 2026-11-07 | 55 | K0 | Victoria demócrata en EE.UU. podría facilitar coalición opositor |
 | 2026-11-04 | 65 | K0 | Comisión electoral de Israel rechaza acusaciones de Netanyahu de |
-| 2026-11-04 | 60 | K0 | Trump anuncia que EE. UU. suspenderá ayuda militar de 4.000 mill |
 
 [[Global Brain — Inicio|← Inicio]]
