@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-20
-nodos: 15
+actualizado: 2026-11-21
+nodos: 14
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el período, el conflicto en Oriente Medio ha escalado en varias dimensiones: desde la intensificación de tensiones políticas en Israel con la formación de un nuevo gobierno y controversias electorales, hasta la agravación de una crisis humanitaria en Gaza por inundaciones que afectan a miles de desplazados, exacerbada por la colapso de infraestructura. Paralelamente, el conflicto militar y las tensiones regionales han provocado graves impactos ambientales en el Golfo Pérsico, subrayando la complejidad y multidimensionalidad de la situación en la región.
+Durante este período, el conflicto en Oriente Medio se ha intensificado involuntariamente con impactos ambientales significativos en el Golfo Pérsico debido a enfrentamientos entre Estados Unidos, Israel e Irán. Paralelamente, la crisis humanitaria en Gaza se ha agravado por inundaciones y deslizamientos que afectan gravemente a desplazados, mientras la presión política interna en Israel muestra una posible reconfiguración de gobierno tras elecciones disputadas. Asimismo, se ha denunciado el uso masivo de tecnología de reconocimiento facial para rastrear palestinos, lo que aumenta las tensiones en la región.
 
 ## Trend summary (EN)
-Over the period, the Middle East conflict has escalated on multiple fronts: political tensions in Israel intensified with the formation of a new government amid electoral controversies, while Gaza faces a worsening humanitarian crisis due to floods impacting thousands of displaced persons and infrastructure collapse. Simultaneously, military conflict and regional tensions have caused severe environmental damage in the Persian Gulf, highlighting the complex and multifaceted nature of the situation in the region.
+During this period, the Middle Eastern conflict has inadvertently intensified with significant environmental impacts in the Persian Gulf due to clashes involving the US, Israel, and Iran. Simultaneously, the humanitarian crisis in Gaza has worsened due to floods and landslides severely affecting displaced persons, while internal political pressure in Israel indicates a potential government reshuffle after contested elections. Additionally, the mass use of facial recognition technology to track Palestinians has been reported, escalating regional tensions.
 
 > [!note] Estado actual
-> Actualmente, Gaza sufre inundaciones graves que han dejado a decenas de miles sin refugio, mientras Israel afronta la formación de un nuevo gobierno tras unas elecciones sin mayoría clara.
+> El conflicto sigue activo, con impactos ambientales notables en el Golfo Pérsico y una crisis humanitaria creciente en Gaza, mientras Israel avanza hacia la formación de un nuevo gobierno.
 
-## Nodos recientes (15 en la ventana)
+## Nodos recientes (14 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-20 | 75 | K1 | Conflicto en Irán provoca contaminación ambiental en el Golfo Pé |

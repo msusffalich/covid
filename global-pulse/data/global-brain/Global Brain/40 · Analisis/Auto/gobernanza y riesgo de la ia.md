@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-11-20
-nodos: 24
+actualizado: 2026-11-21
+nodos: 22
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-20. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-21. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo, la gobernanza y el riesgo asociados a la inteligencia artificial muestran una creciente complejidad vinculada a desafíos técnicos, regulatorios y de seguridad. Mientras diversos gobiernos avanzan en reformas y reportes para acelerar permisos y endurecer controles, incidentes como ciberataques con IA y hackeos a instituciones gubernamentales evidencian amenazas latentes. La evolución también refleja tensiones en la industria por liderazgo y regulaciones, junto con movimientos empresariales estratégicos y salidas a bolsa que enfrentan incertidumbre pública.
+Durante este periodo, la gobernanza y el riesgo asociados a la inteligencia artificial muestran una evolución marcada por desafíos en ciberseguridad, con ataques que comprometen información sensible y presionan reformas legales, mientras que el impacto ambiental del crecimiento de IA genera preocupaciones energéticas significativas. Al mismo tiempo, importantes movimientos corporativos y regulatorios reflejan tensiones geopolíticas y ajustes en la regulación del sector, con debates sobre exportación de tecnología y procesos de autorización acelerados. La percepción pública y la confianza en tecnologías de IA también enfrentan escrutinio, evidenciado en salidas a bolsa con recepción mixta y alianzas estratégicas para promover usos responsables de la IA.
 
 ## Trend summary (EN)
-Throughout the period, governance and risks related to artificial intelligence highlight increasing complexity tied to technical, regulatory, and security challenges. While various governments advance reforms and reports to accelerate permits and tighten controls, incidents such as AI-driven cyberattacks and hacks on governmental institutions expose latent threats. The evolution also reflects industry tensions over leadership and regulations, as well as strategic business moves and IPOs facing public uncertainty.
+During this period, AI governance and risk have evolved with significant cybersecurity challenges involving breaches exposing sensitive data and prompting legal reforms, alongside substantial concerns about the environmental impact due to increasing AI energy consumption. Concurrently, major corporate and regulatory developments reflect geopolitical tensions and sector regulations adjustments, including export controls and accelerated permitting processes. Public perception and trust in AI technologies face scrutiny, as seen in mixed reactions to IPOs and strategic alliances aimed at fostering responsible AI use.
 
 > [!note] Estado actual
-> El estado más reciente muestra un aumento en la demanda energética de la IA y alertas críticas por ciberataques, con esfuerzos regulatorios en marcha para acelerar permisos y responder a vulnerabilidades.
+> El estado más reciente muestra un incremento en estudios y reformas para gestionar riesgos de la IA, combinado con avances tecnológicos y una necesidad creciente de regulación energética y ciberseguridad.
 
-## Nodos recientes (24 en la ventana)
+## Nodos recientes (22 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-20 | 70 | K0 | Google Quantum AI demuestra contextualidad en algoritmos cuántic |
