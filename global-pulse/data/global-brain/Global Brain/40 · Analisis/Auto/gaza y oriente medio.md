@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-21
-nodos: 14
+actualizado: 2026-11-22
+nodos: 15
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-21. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-22. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante este período, el conflicto en Oriente Medio se ha intensificado involuntariamente con impactos ambientales significativos en el Golfo Pérsico debido a enfrentamientos entre Estados Unidos, Israel e Irán. Paralelamente, la crisis humanitaria en Gaza se ha agravado por inundaciones y deslizamientos que afectan gravemente a desplazados, mientras la presión política interna en Israel muestra una posible reconfiguración de gobierno tras elecciones disputadas. Asimismo, se ha denunciado el uso masivo de tecnología de reconocimiento facial para rastrear palestinos, lo que aumenta las tensiones en la región.
+Durante el periodo se ha agravado la crisis en Gaza y Cisjordania con ataques y violencia de asentamientos israelíes, así como un incremento en la tensión política en Israel con un intento de formación de gobierno por parte de la oposición. Paralelamente, las condiciones humanitarias se deterioran debido a desastres naturales que afectan a desplazados palestinos, mientras que actores internacionales continúan condenando la violencia y la guerra en la región extiende efectos negativos ambientales en el Golfo Pérsico. En conjunto, el conflicto exhibe una escalada tanto política como social y humanitaria, sin señales claras de desescalada.
 
 ## Trend summary (EN)
-During this period, the Middle Eastern conflict has inadvertently intensified with significant environmental impacts in the Persian Gulf due to clashes involving the US, Israel, and Iran. Simultaneously, the humanitarian crisis in Gaza has worsened due to floods and landslides severely affecting displaced persons, while internal political pressure in Israel indicates a potential government reshuffle after contested elections. Additionally, the mass use of facial recognition technology to track Palestinians has been reported, escalating regional tensions.
+During the period, the crisis in Gaza and the West Bank worsened with attacks and violence by Israeli settlements, alongside increased political tension in Israel with an opposition attempt to form government. Meanwhile, humanitarian conditions deteriorate due to natural disasters affecting Palestinian displaced persons, while international actors continue to condemn violence and the ongoing war extends environmental harms in the Persian Gulf. Overall, the conflict shows escalation both politically and socially, with no clear signs of de-escalation.
 
 > [!note] Estado actual
-> El conflicto sigue activo, con impactos ambientales notables en el Golfo Pérsico y una crisis humanitaria creciente en Gaza, mientras Israel avanza hacia la formación de un nuevo gobierno.
+> La formación de un nuevo gobierno israelí sigue en proceso mientras la violencia y las consecuencias humanitarias en Gaza permanecen críticas.
 
-## Nodos recientes (14 en la ventana)
+## Nodos recientes (15 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-22 | 80 | K0 | Asentamientos israelíes atacan varias aldeas palestinas en Cisjo |
 | 2026-11-20 | 75 | K1 | Conflicto en Irán provoca contaminación ambiental en el Golfo Pé |
 | 2026-11-18 | 40 | K1 | Perspectiva meteorológica tropical para el Atlántico con baja pr |
 | 2026-11-16 | 85 | K0 | Israel sube millones de fotos a plataforma de reconocimiento fac |
@@ -35,6 +36,5 @@ During this period, the Middle Eastern conflict has inadvertently intensified wi
 | 2026-11-08 | 50 | K0 | Lluvias intensas inundan campamentos de desplazados en Gaza |
 | 2026-11-07 | 62 | K1 | Lluvias inundan miles de tiendas de desplazados en Gaza |
 | 2026-11-07 | 55 | K0 | Victoria demócrata en EE.UU. podría facilitar coalición opositor |
-| 2026-11-04 | 65 | K0 | Comisión electoral de Israel rechaza acusaciones de Netanyahu de |
 
 [[Global Brain — Inicio|← Inicio]]

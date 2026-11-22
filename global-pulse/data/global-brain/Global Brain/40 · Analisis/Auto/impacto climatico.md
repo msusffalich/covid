@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-11-21
-nodos: 52
+actualizado: 2026-11-22
+nodos: 54
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-21. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-22. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo analizado, el tema del impacto climático mostró una creciente tensión en las negociaciones internacionales, especialmente en la COP31, donde persisten desacuerdos importantes sobre el papel de los combustibles fósiles y el financiamiento climático para países en desarrollo. Paralelamente, fenómenos climáticos extremos, como inundaciones severas en Florida y Pakistán, evidencian los efectos inmediatos del cambio climático, mientras tecnologías como Gemini de Google buscan mejorar la alerta temprana ante desastres naturales.
+Durante el período, la COP31 mostró un estancamiento creciente debido a la exclusión de referencias al abandono de los combustibles fósiles y financiamiento climático, generando prolongaciones y riesgo de cierre sin acuerdo. Paralelamente, en la costa este y sureste de EE. UU., un sistema de baja presión no tropical provocó condiciones climáticas adversas, incluidas lluvias intensas e inundaciones, afectando la movilidad local. Estas situaciones evidencian tanto tensiones en la gobernanza climática internacional como el impacto inmediato de eventos meteorológicos extremos.
 
 ## Trend summary (EN)
-During the analyzed period, the topic of climate impact showed increasing tension in international negotiations, particularly at COP31, where significant disagreements persist regarding the role of fossil fuels and climate financing for developing countries. Simultaneously, extreme weather events, such as severe flooding in Florida and Pakistan, demonstrate the immediate effects of climate change, while technologies like Google's Gemini aim to enhance early warning systems for natural disasters.
+During the period, COP31 experienced increasing deadlock due to the omission of references to phasing out fossil fuels and climate financing, causing delays and a risk of ending without agreement. Meanwhile, along the US East and Southeast coasts, a non-tropical low-pressure system caused adverse weather conditions, including heavy rains and flooding, impacting local mobility. These developments highlight tensions in international climate governance alongside immediate impacts of extreme weather events.
 
 > [!note] Estado actual
-> Las negociaciones de la COP31 continúan sin un acuerdo final, con divisiones claras sobre combustibles fósiles y financiamiento climático, mientras las inundaciones en Florida generan impactos locales significativos.
+> La COP31 continúa sin un acuerdo final tras el rechazo de la UE al texto por omitir el abandono de combustibles fósiles, mientras en la costa este de EE. UU. persisten condiciones peligrosas debido a un sistema de baja presión no tropical.
 
-## Nodos recientes (52 en la ventana)
+## Nodos recientes (54 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-22 | 85 | K0 | COP31 al borde de cerrar sin acuerdo tras rechazo de la UE por o |
+| 2026-11-22 | 80 | K1 | Crisis en COP31 refleja estancamiento en acciones climáticas |
+| 2026-11-22 | 60 | K1 | Sistema de baja presión no tropical genera condiciones peligrosa |
 | 2026-11-21 | 80 | K1 | COP31 continúa sin acuerdo debido a debates sobre combustibles f |
 | 2026-11-21 | 75 | K1 | COP31 entra en un debate extendido sin acuerdo final |
 | 2026-11-21 | 60 | K1 | Pronóstico de fenómeno climático no tropical en el Atlántico cer |
@@ -33,8 +36,5 @@ During the analyzed period, the topic of climate impact showed increasing tensio
 | 2026-11-20 | 65 | K1 | África exige más financiación climática en COP31; Europa pide us |
 | 2026-11-20 | 60 | K1 | Persiste sistema de baja presión frente a la costa sureste de EE |
 | 2026-11-19 | 65 | K1 | Cumbre entre la UE y Reino Unido en Bruselas aborda Brexit y mov |
-| 2026-11-18 | 70 | K1 | Inundaciones severas afectan partes de la costa de Florida por i |
-| 2026-11-16 | 75 | K1 | Borrador de acuerdo climático COP31 pide acelerar alejamiento de |
-| 2026-11-16 | 70 | K1 | Inundaciones en Pakistán con agravante climático impactan a fami |
 
 [[Global Brain — Inicio|← Inicio]]

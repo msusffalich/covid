@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generado": "2026-11-21T13:08:40.710906+00:00",
+    "generado": "2026-11-22T12:58:29.317912+00:00",
     "ventana_dias": 21,
     "motor": "api",
     "modo": "live"
@@ -16,12 +16,12 @@
       "n_nodos": 28,
       "ultima_fecha": "2026-11-21",
       "resumen": {
-        "es": "Durante el periodo, las tensiones entre Irán y EE.UU. han fluctuado entre episodios de confrontación directa, como ataques y ciberataques atribuidos a Irán y amenazas a funcionarios estadounidenses, y intentos de negociación con mediadores de Catar y desplazamientos diplomáticos hacia Moscú. A pesar de algunas señales de posible distensión que han impactado en la caída de precios energéticos, la situación permanece compleja con acciones militares, amenazas y preocupaciones ambientales en la región del Golfo Pérsico.",
-        "en": "During the period, tensions between Iran and the U.S. have fluctuated between direct confrontations, including attacks and cyberattacks attributed to Iran and threats against U.S. officials, and negotiation efforts involving Qatari mediators and diplomatic moves towards Moscow. Despite some signs of possible de-escalation reflected in falling energy prices, the situation remains complex with military actions, threats, and environmental concerns in the Gulf region."
+        "es": "Durante el periodo analizado, las tensiones entre Irán y EE.UU. se han mantenido elevadas con incidentes militares y económicos que afectan el Golfo Pérsico, incluyendo ataques a petroleros y amenazas directas a funcionarios estadounidenses. Paralelamente, se han observado gestos diplomáticos limitados, como propuestas mediadas por Catar, aunque sin avances claros hacia la paz duradera. La situación ambiental y humanitaria en la región se ha visto agravada por estos conflictos, con contaminación y crisis en países vecinos como Yemen e Irak.",
+        "en": "During the analyzed period, tensions between Iran and the U.S. have remained high with military and economic incidents affecting the Persian Gulf, including attacks on tankers and direct threats to U.S. officials. At the same time, limited diplomatic gestures, such as Qatar-mediated proposals, have been observed, though without clear progress toward lasting peace. The environmental and humanitarian situation in the region has worsened due to these conflicts, with pollution and crises in neighboring countries like Yemen and Iraq."
       },
       "estado": {
-        "es": "Actualmente, el conflicto mantiene una situación tensa con amenazas persistentes y negociaciones aún sin avances claros.",
-        "en": "Currently, the conflict remains tense with ongoing threats and negotiations without clear progress."
+        "es": "Las tensiones entre Irán y EE.UU. siguen elevadas con amenazas y ataques activos, mientras las negociaciones de paz permanecen estancadas.",
+        "en": "Tensions between Iran and the U.S. remain high with ongoing threats and attacks, while peace negotiations remain stalled."
       },
       "serie": [
         {
@@ -244,22 +244,17 @@
         "en": "Russia vs. Ukraine"
       },
       "color": "#7C6FE4",
-      "n_nodos": 38,
-      "ultima_fecha": "2026-11-20",
+      "n_nodos": 36,
+      "ultima_fecha": "2026-11-22",
       "resumen": {
-        "es": "Durante los últimos días, el conflicto entre Rusia y Ucrania ha escalado con ataques rusos que impactan infraestructuras clave en Kiev y Polonia, generando tensiones internacionales en medio de ejercicios militares de la OTAN. Al mismo tiempo, Ucrania responde con ataques con drones, afectando el puente de Kerch y la región de Moscú, mientras que en el plano diplomático se destaca una cumbre histórica en China con líderes mundiales discutiendo temas de paz y armas nucleares. Propuestas de negociaciones y cesiones territoriales como la del Donbass han surgido, reflejando intentos de encontrar soluciones al conflicto que sigue siendo volatile y complejo.",
-        "en": "In recent days, the Russia-Ukraine conflict has intensified with Russian attacks hitting key infrastructure in Kyiv and Poland, raising international tensions amid NATO military exercises. Simultaneously, Ukraine has responded with drone strikes affecting the Kerch bridge and Moscow region, while a historic summit in China featuring world leaders has focused on peace and nuclear arms. Negotiation proposals, including possible territorial concessions in Donbass, have emerged, reflecting ongoing attempts to resolve the conflict which remains volatile and complex."
+        "es": "Durante el período analizado, el conflicto entre Rusia y Ucrania se mantiene activo y escalado, con ataques con drones y misiles en ambos lados, impactando tanto infraestructuras civiles como territorios de terceros países como Polonia. Paralelamente, Rusia busca dividir a Europa proponiendo pactos bilaterales que podrían debilitar la defensa colectiva, mientras que en el ámbito diplomático ocurre una histórica reunión entre líderes internacionales en China que aborda temas de paz y armas nucleares, sin resolver el conflicto. La intensidad y sofisticación de los ataques, junto con maniobras diplomáticas y la respuesta militar de Ucrania, muestran una evolución hacia una confrontación compleja y multidimensional.",
+        "en": "During the analyzed period, the conflict between Russia and Ukraine remains active and escalated, with drone and missile attacks on both sides, affecting civilian infrastructures and third-party countries like Poland. Concurrently, Russia seeks to divide Europe by proposing bilateral pacts that could weaken collective defense, while a historic meeting of international leaders in China addresses peace and nuclear weapons without resolving the conflict. The intensity and sophistication of attacks, alongside diplomatic maneuvers and Ukraine’s military responses, indicate an evolution towards a complex and multidimensional confrontation."
       },
       "estado": {
-        "es": "El estado más reciente revela ataques rusos contra infraestructura en Kiev y Polonia coincidiendo con ejercicios militares occidentales, mientras Ucrania continúa con ataques dron y se intensifican las discusiones diplomáticas internacionales.",
-        "en": "The latest status shows Russian attacks on infrastructure in Kyiv and Poland coinciding with Western military exercises, while Ukraine continues drone attacks and international diplomatic discussions intensify."
+        "es": "El estado más reciente muestra un barco ruso todavía en llamas tras un ataque con drones ucranianos en el golfo de Finlandia.",
+        "en": "The most recent state shows a Russian ship still ablaze following a Ukrainian drone attack in the Gulf of Finland."
       },
       "serie": [
-        {
-          "fecha": "2026-11-01",
-          "max": 72,
-          "n": 3
-        },
         {
           "fecha": "2026-11-02",
           "max": 64,
@@ -339,9 +334,26 @@
           "fecha": "2026-11-20",
           "max": 95,
           "n": 4
+        },
+        {
+          "fecha": "2026-11-22",
+          "max": 75,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-22",
+          "titulo": {
+            "es": "Barco ruso sigue en llamas tras ataque con drones en golfo de Finlandia",
+            "en": "Russia-bound ship still on fire after attack in Gulf of Finland"
+          },
+          "impacto": 75,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "fuente": "BBC News"
+        },
         {
           "fecha": "2026-11-20",
           "titulo": {
@@ -473,18 +485,6 @@
           "kardashev": "K1",
           "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
           "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-11-14",
-          "titulo": {
-            "es": "EE. UU. propone que Ucrania ceda Donbass para ingreso a la OTAN, dice Zelensky",
-            "en": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says"
-          },
-          "impacto": 80,
-          "categoria": "geopolitica",
-          "kardashev": "K0",
-          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News"
         }
       ]
     },
@@ -495,15 +495,15 @@
         "en": "Gaza & Middle East"
       },
       "color": "#C75FA8",
-      "n_nodos": 14,
-      "ultima_fecha": "2026-11-20",
+      "n_nodos": 15,
+      "ultima_fecha": "2026-11-22",
       "resumen": {
-        "es": "Durante este período, el conflicto en Oriente Medio se ha intensificado involuntariamente con impactos ambientales significativos en el Golfo Pérsico debido a enfrentamientos entre Estados Unidos, Israel e Irán. Paralelamente, la crisis humanitaria en Gaza se ha agravado por inundaciones y deslizamientos que afectan gravemente a desplazados, mientras la presión política interna en Israel muestra una posible reconfiguración de gobierno tras elecciones disputadas. Asimismo, se ha denunciado el uso masivo de tecnología de reconocimiento facial para rastrear palestinos, lo que aumenta las tensiones en la región.",
-        "en": "During this period, the Middle Eastern conflict has inadvertently intensified with significant environmental impacts in the Persian Gulf due to clashes involving the US, Israel, and Iran. Simultaneously, the humanitarian crisis in Gaza has worsened due to floods and landslides severely affecting displaced persons, while internal political pressure in Israel indicates a potential government reshuffle after contested elections. Additionally, the mass use of facial recognition technology to track Palestinians has been reported, escalating regional tensions."
+        "es": "Durante el periodo se ha agravado la crisis en Gaza y Cisjordania con ataques y violencia de asentamientos israelíes, así como un incremento en la tensión política en Israel con un intento de formación de gobierno por parte de la oposición. Paralelamente, las condiciones humanitarias se deterioran debido a desastres naturales que afectan a desplazados palestinos, mientras que actores internacionales continúan condenando la violencia y la guerra en la región extiende efectos negativos ambientales en el Golfo Pérsico. En conjunto, el conflicto exhibe una escalada tanto política como social y humanitaria, sin señales claras de desescalada.",
+        "en": "During the period, the crisis in Gaza and the West Bank worsened with attacks and violence by Israeli settlements, alongside increased political tension in Israel with an opposition attempt to form government. Meanwhile, humanitarian conditions deteriorate due to natural disasters affecting Palestinian displaced persons, while international actors continue to condemn violence and the ongoing war extends environmental harms in the Persian Gulf. Overall, the conflict shows escalation both politically and socially, with no clear signs of de-escalation."
       },
       "estado": {
-        "es": "El conflicto sigue activo, con impactos ambientales notables en el Golfo Pérsico y una crisis humanitaria creciente en Gaza, mientras Israel avanza hacia la formación de un nuevo gobierno.",
-        "en": "The conflict remains active with notable environmental impacts in the Persian Gulf and a worsening humanitarian crisis in Gaza, as Israel moves toward forming a new government."
+        "es": "La formación de un nuevo gobierno israelí sigue en proceso mientras la violencia y las consecuencias humanitarias en Gaza permanecen críticas.",
+        "en": "The formation of a new Israeli government remains underway as violence and humanitarian consequences in Gaza remain critical."
       },
       "serie": [
         {
@@ -555,9 +555,26 @@
           "fecha": "2026-11-20",
           "max": 75,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-22",
+          "max": 80,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-22",
+          "titulo": {
+            "es": "Asentamientos israelíes atacan varias aldeas palestinas en Cisjordania ocupada",
+            "en": "Israeli settlers attack several Palestinian villages in occupied West Bank"
+          },
+          "impacto": 80,
+          "categoria": "geopolitica",
+          "kardashev": "K0",
+          "url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
+          "fuente": "Al Jazeera"
+        },
         {
           "fecha": "2026-11-20",
           "titulo": {
@@ -689,18 +706,6 @@
           "kardashev": "K0",
           "url": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
           "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-11-04",
-          "titulo": {
-            "es": "Comisión electoral de Israel rechaza acusaciones de Netanyahu de fraude electoral",
-            "en": "Israel's election commission rejects Netanyahu's claims of voting fraud"
-          },
-          "impacto": 65,
-          "categoria": "geopolitica",
-          "kardashev": "K0",
-          "url": "https://www.theguardian.com/world/2026/nov/04/israel-election-commission-rejects-netanyahu-claims-voting-fraud",
-          "fuente": "The Guardian"
         }
       ]
     },
@@ -714,12 +719,12 @@
       "n_nodos": 22,
       "ultima_fecha": "2026-11-20",
       "resumen": {
-        "es": "Durante este periodo, la gobernanza y el riesgo asociados a la inteligencia artificial muestran una evolución marcada por desafíos en ciberseguridad, con ataques que comprometen información sensible y presionan reformas legales, mientras que el impacto ambiental del crecimiento de IA genera preocupaciones energéticas significativas. Al mismo tiempo, importantes movimientos corporativos y regulatorios reflejan tensiones geopolíticas y ajustes en la regulación del sector, con debates sobre exportación de tecnología y procesos de autorización acelerados. La percepción pública y la confianza en tecnologías de IA también enfrentan escrutinio, evidenciado en salidas a bolsa con recepción mixta y alianzas estratégicas para promover usos responsables de la IA.",
-        "en": "During this period, AI governance and risk have evolved with significant cybersecurity challenges involving breaches exposing sensitive data and prompting legal reforms, alongside substantial concerns about the environmental impact due to increasing AI energy consumption. Concurrently, major corporate and regulatory developments reflect geopolitical tensions and sector regulations adjustments, including export controls and accelerated permitting processes. Public perception and trust in AI technologies face scrutiny, as seen in mixed reactions to IPOs and strategic alliances aimed at fostering responsible AI use."
+        "es": "Durante el periodo, la gobernanza y el riesgo de la inteligencia artificial han evolucionado hacia un enfoque más regulatorio y de seguridad, impulsado por incidentes recientes de ciberataques y preocupaciones energéticas vinculadas a su creciente demanda. Además, la dinámica corporativa y política, incluyendo crisis de liderazgo y reformas legislativas, refleja tensiones globales sobre el control y la exportación de tecnologías de IA. Este desarrollo indica una tendencia hacia una regulación más estricta y una mayor atención a los riesgos asociados con la IA, tanto en términos de seguridad nacional como medioambiental.",
+        "en": "Throughout the period, AI governance and risk have evolved towards a more regulatory and security-focused approach, driven by recent cyberattack incidents and energy concerns linked to its growing demand. Additionally, corporate and political dynamics, including leadership crises and legislative reforms, reflect global tensions over control and export of AI technologies. This development indicates a trend toward stricter regulation and increased attention to risks associated with AI, both in national security and environmental terms."
       },
       "estado": {
-        "es": "El estado más reciente muestra un incremento en estudios y reformas para gestionar riesgos de la IA, combinado con avances tecnológicos y una necesidad creciente de regulación energética y ciberseguridad.",
-        "en": "The latest status indicates increased studies and reforms to manage AI risks, alongside technological advances and a growing need for energy and cybersecurity regulations."
+        "es": "El Senado estadounidense ha aprobado una reforma para acelerar permisos en sectores clave de IA y energía, mientras la Comisión Europea investiga un grave ciberataque con herramientas de IA.",
+        "en": "The U.S. Senate has approved a reform to expedite permits in key AI and energy sectors, while the European Commission is investigating a serious cyberattack using AI tools."
       },
       "serie": [
         {
@@ -942,22 +947,17 @@
         "en": "Climate impact"
       },
       "color": "#3FA65C",
-      "n_nodos": 52,
-      "ultima_fecha": "2026-11-21",
+      "n_nodos": 54,
+      "ultima_fecha": "2026-11-22",
       "resumen": {
-        "es": "Durante el periodo analizado, el tema del impacto climático mostró una creciente tensión en las negociaciones internacionales, especialmente en la COP31, donde persisten desacuerdos importantes sobre el papel de los combustibles fósiles y el financiamiento climático para países en desarrollo. Paralelamente, fenómenos climáticos extremos, como inundaciones severas en Florida y Pakistán, evidencian los efectos inmediatos del cambio climático, mientras tecnologías como Gemini de Google buscan mejorar la alerta temprana ante desastres naturales.",
-        "en": "During the analyzed period, the topic of climate impact showed increasing tension in international negotiations, particularly at COP31, where significant disagreements persist regarding the role of fossil fuels and climate financing for developing countries. Simultaneously, extreme weather events, such as severe flooding in Florida and Pakistan, demonstrate the immediate effects of climate change, while technologies like Google's Gemini aim to enhance early warning systems for natural disasters."
+        "es": "Durante el período, la COP31 mostró un estancamiento creciente debido a la exclusión de referencias al abandono de los combustibles fósiles y financiamiento climático, generando prolongaciones y riesgo de cierre sin acuerdo. Paralelamente, en la costa este y sureste de EE. UU., un sistema de baja presión no tropical provocó condiciones climáticas adversas, incluidas lluvias intensas e inundaciones, afectando la movilidad local. Estas situaciones evidencian tanto tensiones en la gobernanza climática internacional como el impacto inmediato de eventos meteorológicos extremos.",
+        "en": "During the period, COP31 experienced increasing deadlock due to the omission of references to phasing out fossil fuels and climate financing, causing delays and a risk of ending without agreement. Meanwhile, along the US East and Southeast coasts, a non-tropical low-pressure system caused adverse weather conditions, including heavy rains and flooding, impacting local mobility. These developments highlight tensions in international climate governance alongside immediate impacts of extreme weather events."
       },
       "estado": {
-        "es": "Las negociaciones de la COP31 continúan sin un acuerdo final, con divisiones claras sobre combustibles fósiles y financiamiento climático, mientras las inundaciones en Florida generan impactos locales significativos.",
-        "en": "COP31 negotiations continue without a final agreement, with clear divisions over fossil fuels and climate financing, while flooding in Florida causes significant local impacts."
+        "es": "La COP31 continúa sin un acuerdo final tras el rechazo de la UE al texto por omitir el abandono de combustibles fósiles, mientras en la costa este de EE. UU. persisten condiciones peligrosas debido a un sistema de baja presión no tropical.",
+        "en": "COP31 remains without a final agreement following the EU's rejection of the text for omitting fossil fuel phase-out, while dangerous conditions persist on the US East Coast due to a non-tropical low-pressure system."
       },
       "serie": [
-        {
-          "fecha": "2026-11-01",
-          "max": 52,
-          "n": 1
-        },
         {
           "fecha": "2026-11-02",
           "max": 62,
@@ -1042,9 +1042,50 @@
           "fecha": "2026-11-21",
           "max": 80,
           "n": 5
+        },
+        {
+          "fecha": "2026-11-22",
+          "max": 85,
+          "n": 3
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-22",
+          "titulo": {
+            "es": "COP31 al borde de cerrar sin acuerdo tras rechazo de la UE por omitir el abandono de combustibles fósiles",
+            "en": "COP31 on the brink of closing without agreement after EU rejects omission of fossil fuel phaseout"
+          },
+          "impacto": 85,
+          "categoria": "geopolitica",
+          "kardashev": "K0",
+          "url": "https://www.france24.com/es/europa/20261122-la-cop31-al-borde-de-cerrar-sin-acuerdo-tras-el-rechazo-de-la-ue-por-omitir-el-abandono-de-los-combustibles-f%C3%B3siles",
+          "fuente": "France 24"
+        },
+        {
+          "fecha": "2026-11-22",
+          "titulo": {
+            "es": "Crisis en COP31 refleja estancamiento en acciones climáticas",
+            "en": "COP31 talks stall reflecting climate action deadlock"
+          },
+          "impacto": 80,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
+          "fuente": "The Guardian · Medio ambiente"
+        },
+        {
+          "fecha": "2026-11-22",
+          "titulo": {
+            "es": "Sistema de baja presión no tropical genera condiciones peligrosas en costa este de EE. UU.",
+            "en": "Non-tropical low-pressure system produces hazardous conditions off U.S. East Coast"
+          },
+          "impacto": 60,
+          "categoria": "clima",
+          "kardashev": "K1",
+          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
+          "fuente": "NOAA · Centro Nacional de Huracanes"
+        },
         {
           "fecha": "2026-11-21",
           "titulo": {
@@ -1152,42 +1193,6 @@
           "kardashev": "K1",
           "url": "https://www.theguardian.com/politics/2026/nov/19/eu-uk-summit-explainer-burnham-brexit-brussels",
           "fuente": "The Guardian"
-        },
-        {
-          "fecha": "2026-11-18",
-          "titulo": {
-            "es": "Inundaciones severas afectan partes de la costa de Florida por intensas lluvias",
-            "en": "Severe flooding hits parts of coastal Florida from over a foot of rain"
-          },
-          "impacto": 70,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.cnn.com/2026/11/18/weather/florida-flooding-rain-storm-thanksgiving-travel-climate",
-          "fuente": "CNN"
-        },
-        {
-          "fecha": "2026-11-16",
-          "titulo": {
-            "es": "Borrador de acuerdo climático COP31 pide acelerar alejamiento de combustibles fósiles",
-            "en": "COP31 draft climate deal calls for faster shift away from fossil fuels"
-          },
-          "impacto": 75,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
-          "fuente": "The Guardian · Medio ambiente"
-        },
-        {
-          "fecha": "2026-11-16",
-          "titulo": {
-            "es": "Inundaciones en Pakistán con agravante climático impactan a familias",
-            "en": "Floods in Pakistan worsened by climate factors impact families"
-          },
-          "impacto": 70,
-          "categoria": "clima",
-          "kardashev": "K1",
-          "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/16/when-the-sun-came-out-it-felt-like-it-opened-a-scar-this-is-climate-breakdown",
-          "fuente": "The Guardian"
         }
       ]
     },
@@ -1199,21 +1204,16 @@
       },
       "color": "#E4A11B",
       "n_nodos": 68,
-      "ultima_fecha": "2026-11-21",
+      "ultima_fecha": "2026-11-22",
       "resumen": {
-        "es": "Durante este periodo, la economía global enfrenta un creciente protagonismo de la inteligencia artificial, con Anthropic marcando un hito en Wall Street y el FMI advirtiendo sobre los riesgos inflacionarios y de deuda relacionados con el sector. Paralelamente, surgen tensiones geopolíticas en el Golfo Pérsico que afectan la estabilidad ambiental y energética, mientras Japón experimenta un aumento inflacionario tras el fin de subsidios. Las autoridades financieras insisten en la necesidad de medidas prudentes ante un entorno económico frágil y posibles recesiones.",
-        "en": "During this period, the global economy is increasingly influenced by artificial intelligence, with Anthropic setting records on Wall Street and the IMF warning about inflationary risks and debt tied to the sector. Simultaneously, geopolitical tensions in the Persian Gulf impact environmental and energy stability, while Japan faces rising inflation after subsidy termination. Financial authorities emphasize the need for cautious measures amid a fragile economic environment and possible recessions."
+        "es": "Durante el periodo, la economía global enfrenta un crecimiento significativo en el sector tecnológico, especialmente con la histórica salida a bolsa de Anthropic y el aumento en la demanda de inteligencia artificial, lo que genera presión al alza en las tasas de interés. Sin embargo, persisten riesgos como la vulnerabilidad económica global, alertas de posibles recesiones y la crisis climática evidenciada en la falta de avances en la COP31, junto con conflictos geopolíticos que impactan la estabilidad ambiental y económica.",
+        "en": "Over the period, the global economy shows significant growth in the technology sector, highlighted by Anthropic's historic IPO and rising demand for artificial intelligence, driving upward pressure on interest rates. However, risks remain including global economic vulnerability, recession warnings, the climate crisis reflected in COP31's lack of progress, and geopolitical conflicts affecting environmental and economic stability."
       },
       "estado": {
-        "es": "La coyuntura más reciente destaca el debut récord de Anthropic en Wall Street, en medio de alertas sobre vulnerabilidades económicas globales y la necesidad de políticas financieras prudentes.",
-        "en": "The most recent development highlights Anthropic's record-breaking debut on Wall Street amid warnings of global economic vulnerabilities and the need for prudent financial policies."
+        "es": "La crisis climática y las tensiones geopolíticas siguen afectando la estabilidad global, mientras que la tecnología, especialmente la IA, impulsa un crecimiento con incertidumbres financieras y regulatorias.",
+        "en": "The climate crisis and geopolitical tensions continue to impact global stability, while technology, especially AI, drives growth amid financial and regulatory uncertainties."
       },
       "serie": [
-        {
-          "fecha": "2026-11-01",
-          "max": 64,
-          "n": 1
-        },
         {
           "fecha": "2026-11-02",
           "max": 68,
@@ -1293,9 +1293,26 @@
           "fecha": "2026-11-21",
           "max": 50,
           "n": 1
+        },
+        {
+          "fecha": "2026-11-22",
+          "max": 80,
+          "n": 1
         }
       ],
       "nodos": [
+        {
+          "fecha": "2026-11-22",
+          "titulo": {
+            "es": "Crisis en COP31 refleja estancamiento en acciones climáticas",
+            "en": "COP31 talks stall reflecting climate action deadlock"
+          },
+          "impacto": 80,
+          "categoria": "geopolitica",
+          "kardashev": "K1",
+          "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
+          "fuente": "The Guardian · Medio ambiente"
+        },
         {
           "fecha": "2026-11-21",
           "titulo": {
@@ -1427,18 +1444,6 @@
           "kardashev": "K0",
           "url": "https://www.marketwatch.com/story/anthropics-ipo-is-forcing-investors-to-assess-uninsurable-risks-theyve-never-encountered-before-dea85fbf?mod=mw_rss_topstories",
           "fuente": "MarketWatch"
-        },
-        {
-          "fecha": "2026-11-16",
-          "titulo": {
-            "es": "El Banco Central Europeo pide supervisión inteligente para bancos pequeños",
-            "en": "ECB calls for smart supervision of small banks"
-          },
-          "impacto": 55,
-          "categoria": "finanzas",
-          "kardashev": "K0",
-          "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
-          "fuente": "BCE"
         }
       ]
     }
