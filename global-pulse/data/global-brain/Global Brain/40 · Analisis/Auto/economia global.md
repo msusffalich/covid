@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-11-22
-nodos: 68
+actualizado: 2026-11-23
+nodos: 62
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-22. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-23. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo, la economía global enfrenta un crecimiento significativo en el sector tecnológico, especialmente con la histórica salida a bolsa de Anthropic y el aumento en la demanda de inteligencia artificial, lo que genera presión al alza en las tasas de interés. Sin embargo, persisten riesgos como la vulnerabilidad económica global, alertas de posibles recesiones y la crisis climática evidenciada en la falta de avances en la COP31, junto con conflictos geopolíticos que impactan la estabilidad ambiental y económica.
+Durante el periodo analizado, la economía global muestra una combinación de impulsos tecnológicos y riesgos macroeconómicos. El crecimiento en el sector de inteligencia artificial, reflejado en valoraciones récord y fuertes subidas en acciones de empresas como Anthropic y Nvidia, contrasta con advertencias sobre vulnerabilidad económica y posibles riesgos de recesión. Además, desafíos globales como la crisis climática no resuelta en la COP31 y conflictos geopolíticos en el Golfo Pérsico añaden incertidumbre a la estabilidad financiera.
 
 ## Trend summary (EN)
-Over the period, the global economy shows significant growth in the technology sector, highlighted by Anthropic's historic IPO and rising demand for artificial intelligence, driving upward pressure on interest rates. However, risks remain including global economic vulnerability, recession warnings, the climate crisis reflected in COP31's lack of progress, and geopolitical conflicts affecting environmental and economic stability.
+During the analyzed period, the global economy exhibits a mix of technological momentum and macroeconomic risks. Growth in the artificial intelligence sector, reflected in record valuations and strong stock rises of companies like Anthropic and Nvidia, contrasts with warnings about economic vulnerability and potential recession risks. Additionally, global challenges such as the unresolved climate crisis at COP31 and geopolitical conflicts in the Persian Gulf add uncertainty to financial stability.
 
 > [!note] Estado actual
-> La crisis climática y las tensiones geopolíticas siguen afectando la estabilidad global, mientras que la tecnología, especialmente la IA, impulsa un crecimiento con incertidumbres financieras y regulatorias.
+> Jensen Huang ha sido reincorporado como CEO de Nvidia, mientras persisten preocupaciones sobre riesgos de recesión y ajustes en políticas monetarias relacionados con la demanda de IA.
 
-## Nodos recientes (68 en la ventana)
+## Nodos recientes (62 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-23 | 85 | K2 | Jensen Huang reincorporado como CEO de Nvidia, acciones suben 35 |
 | 2026-11-22 | 80 | K1 | Crisis en COP31 refleja estancamiento en acciones climáticas |
 | 2026-11-21 | 50 | K2 | NASA Curiosity recoge muestras en Marte |
 | 2026-11-20 | 90 | K1 | Anthropic debuta en Wall Street con valoración récord de 2 billo |
@@ -35,6 +36,5 @@ Over the period, the global economy shows significant growth in the technology s
 | 2026-11-19 | 80 | K1 | Demanda de IA impulsará aumento de tasas de interés globales, ad |
 | 2026-11-19 | 70 | K1 | Acciones de Palo Alto Networks suben tras reporte de ganancias i |
 | 2026-11-16 | 75 | K1 | Jefa del FMI alerta sobre economía global vulnerable y financiam |
-| 2026-11-16 | 70 | K0 | IPO de Anthropic desafía a inversores a evaluar riesgos no asegu |
 
 [[Global Brain — Inicio|← Inicio]]

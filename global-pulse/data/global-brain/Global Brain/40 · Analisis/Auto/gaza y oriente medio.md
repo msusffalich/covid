@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-22
+actualizado: 2026-11-23
 nodos: 15
 origen: global-pulse
 ---
@@ -10,16 +10,16 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-22. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-23. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo se ha agravado la crisis en Gaza y Cisjordania con ataques y violencia de asentamientos israelíes, así como un incremento en la tensión política en Israel con un intento de formación de gobierno por parte de la oposición. Paralelamente, las condiciones humanitarias se deterioran debido a desastres naturales que afectan a desplazados palestinos, mientras que actores internacionales continúan condenando la violencia y la guerra en la región extiende efectos negativos ambientales en el Golfo Pérsico. En conjunto, el conflicto exhibe una escalada tanto política como social y humanitaria, sin señales claras de desescalada.
+Durante el periodo, la situación en Gaza y Oriente Medio muestra una escalada en tensiones y daños humanitarios, con ataques continuos en territorios palestinos, deterioro de infraestructuras y condiciones climatológicas adversas que agravan la crisis en campamentos de desplazados. Políticamente, Israel enfrenta un escenario incierto con la formación de un nuevo gobierno, mientras que la comunidad internacional, incluidos países árabes y la UE, condena los ataques y expresa preocupación por la población civil. Además, el conflicto regional amplía sus consecuencias ambientales, destacando la contaminación en el Golfo Pérsico por enfrentamientos entre EEUU, Israel e Irán.
 
 ## Trend summary (EN)
-During the period, the crisis in Gaza and the West Bank worsened with attacks and violence by Israeli settlements, alongside increased political tension in Israel with an opposition attempt to form government. Meanwhile, humanitarian conditions deteriorate due to natural disasters affecting Palestinian displaced persons, while international actors continue to condemn violence and the ongoing war extends environmental harms in the Persian Gulf. Overall, the conflict shows escalation both politically and socially, with no clear signs of de-escalation.
+During the period, the situation in Gaza and the Middle East demonstrates escalating tensions and humanitarian damage, with ongoing attacks in Palestinian territories, infrastructure deterioration, and adverse weather conditions worsens the crisis in displaced persons camps. Politically, Israel faces uncertainty with the formation of a new government, while the international community, including Arab countries and the EU, condemns attacks and expresses concern for the civilian population. Additionally, the regional conflict broadens its environmental impact, highlighting pollution in the Persian Gulf due to clashes between the US, Israel, and Iran.
 
 > [!note] Estado actual
-> La formación de un nuevo gobierno israelí sigue en proceso mientras la violencia y las consecuencias humanitarias en Gaza permanecen críticas.
+> La formación de un nuevo gobierno en Israel avanza en un contexto de alta tensión y continuos ataques en Gaza y Cisjordania que generan una grave crisis humanitaria y condenas internacionales.
 
 ## Nodos recientes (15 en la ventana)
 | Fecha | Impacto | K | Nodo |

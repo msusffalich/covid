@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-11-22
-nodos: 28
+actualizado: 2026-11-23
+nodos: 26
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-22. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-23. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo analizado, las tensiones entre Irán y EE.UU. se han mantenido elevadas con incidentes militares y económicos que afectan el Golfo Pérsico, incluyendo ataques a petroleros y amenazas directas a funcionarios estadounidenses. Paralelamente, se han observado gestos diplomáticos limitados, como propuestas mediadas por Catar, aunque sin avances claros hacia la paz duradera. La situación ambiental y humanitaria en la región se ha visto agravada por estos conflictos, con contaminación y crisis en países vecinos como Yemen e Irak.
+Durante este periodo, la tensión entre Irán y Estados Unidos ha fluctuado entre episodios de confrontación directa, como amenazas y acciones militares, y esfuerzos diplomáticos limitados con mediación internacional. Las consecuencias del conflicto se han expandido, afectando ambientalmente al Golfo Pérsico y provocando alteraciones económicas y de seguridad, con indicios de intentos para una posible desescalada aunque persisten fuertes desconfianzas. Además, la situación regional se complica por incidentes asociados en Yemen e Irak, mostrando la amplitud del impacto del conflicto en el Medio Oriente.
 
 ## Trend summary (EN)
-During the analyzed period, tensions between Iran and the U.S. have remained high with military and economic incidents affecting the Persian Gulf, including attacks on tankers and direct threats to U.S. officials. At the same time, limited diplomatic gestures, such as Qatar-mediated proposals, have been observed, though without clear progress toward lasting peace. The environmental and humanitarian situation in the region has worsened due to these conflicts, with pollution and crises in neighboring countries like Yemen and Iraq.
+During this period, tension between Iran and the United States has fluctuated between episodes of direct confrontation, such as threats and military actions, and limited diplomatic efforts with international mediation. The conflict's consequences have expanded, impacting the Persian Gulf environmentally and causing economic and security disruptions, with indications of attempts for possible de-escalation despite persistent mistrust. Additionally, the regional situation is complicated by related incidents in Yemen and Iraq, demonstrating the broad impact of the conflict in the Middle East.
 
 > [!note] Estado actual
-> Las tensiones entre Irán y EE.UU. siguen elevadas con amenazas y ataques activos, mientras las negociaciones de paz permanecen estancadas.
+> El último estado muestra amenazas iraníes que llevaron al traslado de un alto funcionario estadounidense a una base militar, mientras continúan en curso negociaciones diplomáticas sin avances significativos.
 
-## Nodos recientes (28 en la ventana)
+## Nodos recientes (26 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-21 | 50 | K1 | Vida en la ciudad sitiada yemení de Taiz |

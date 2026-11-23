@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-22
-nodos: 36
+actualizado: 2026-11-23
+nodos: 34
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-22. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-23. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el período analizado, el conflicto entre Rusia y Ucrania se mantiene activo y escalado, con ataques con drones y misiles en ambos lados, impactando tanto infraestructuras civiles como territorios de terceros países como Polonia. Paralelamente, Rusia busca dividir a Europa proponiendo pactos bilaterales que podrían debilitar la defensa colectiva, mientras que en el ámbito diplomático ocurre una histórica reunión entre líderes internacionales en China que aborda temas de paz y armas nucleares, sin resolver el conflicto. La intensidad y sofisticación de los ataques, junto con maniobras diplomáticas y la respuesta militar de Ucrania, muestran una evolución hacia una confrontación compleja y multidimensional.
+Durante este período, el conflicto entre Rusia y Ucrania ha escalado con ataques de drones que se extienden más allá de las fronteras ucranianas, incluyendo acciones en Libia y Polonia. Rusia ha respondido con ataques a infraestructura clave en Ucrania y ha intensificado las acusaciones hacia países vecinos, advirtiendo de una posible escalada regional. Paralelamente, Rusia busca debilitar la solidaridad europea mediante pactos individuales, mientras que Ucrania continúa atacando puntos estratégicos como el puente de Kerch, evidenciando una dinámica de confrontación intensa y diversificada.
 
 ## Trend summary (EN)
-During the analyzed period, the conflict between Russia and Ukraine remains active and escalated, with drone and missile attacks on both sides, affecting civilian infrastructures and third-party countries like Poland. Concurrently, Russia seeks to divide Europe by proposing bilateral pacts that could weaken collective defense, while a historic meeting of international leaders in China addresses peace and nuclear weapons without resolving the conflict. The intensity and sophistication of attacks, alongside diplomatic maneuvers and Ukraine’s military responses, indicate an evolution towards a complex and multidimensional confrontation.
+During this period, the Russia-Ukraine conflict has escalated with drone attacks extending beyond Ukraine's borders, including incidents in Libya and Poland. Russia has retaliated by targeting key infrastructure in Ukraine and heightened accusations toward neighboring countries, warning of potential regional escalation. Concurrently, Russia aims to weaken European unity through individual non-aggression pacts, while Ukraine continues to target strategic points like the Kerch bridge, demonstrating an intense and multifaceted confrontation dynamic.
 
 > [!note] Estado actual
-> El estado más reciente muestra un barco ruso todavía en llamas tras un ataque con drones ucranianos en el golfo de Finlandia.
+> El estado más reciente muestra una ofensiva ucraniana con drones que hundió un buque ruso en Libia, ampliando el conflicto a nivel internacional.
 
-## Nodos recientes (36 en la ventana)
+## Nodos recientes (34 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-23 | 90 | K1 | Ucrania acusa haber hundido un buque ruso en Libia con drones |
+| 2026-11-23 | 75 | K0 | Moscú acusa a Estonia de estar al borde de una guerra abierta |
 | 2026-11-22 | 75 | K1 | Barco ruso sigue en llamas tras ataque con drones en golfo de Fi |
 | 2026-11-20 | 95 | K1 | Misiles y dron rusos impactan Polonia durante ejercicios militar |
 | 2026-11-20 | 90 | K0 | Rusia ataca infraestructura y puentes en Kiev tras ofensiva en e |
@@ -34,7 +36,5 @@ During the analyzed period, the conflict between Russia and Ukraine remains acti
 | 2026-11-16 | 85 | K0 | Rusia busca dividir Europa y frena negociaciones sobre Ucrania |
 | 2026-11-16 | 80 | K1 | Ucrania impacta puente de Kerch entre Rusia y Crimea ocupada con |
 | 2026-11-16 | 80 | K1 | 600 drones ucranianos atacan zona de Moscú, defensa rusa interce |
-| 2026-11-15 | 75 | K1 | Nvidia excluida de la agenda de Trump y Xi por crisis de lideraz |
-| 2026-11-15 | 70 | K1 | Albanese valora la cumbre Trump-Xi-Putin pese a reservas europea |
 
 [[Global Brain — Inicio|← Inicio]]

@@ -1,198 +1,123 @@
 {
   "meta": {
     "schema": "2.0",
-    "fecha": "2026-11-22",
-    "generado": "2026-11-22T12:58:11.929381+00:00",
+    "fecha": "2026-11-23",
+    "generado": "2026-11-23T15:29:00.239397+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "nodos": 6,
-      "verificados": 6,
-      "piezas_ingeridas": 138,
+      "nodos": 9,
+      "verificados": 9,
+      "piezas_ingeridas": 174,
       "canales_consultados": 46,
-      "canales_disponibles": 38,
-      "documentos_recientes": 168
+      "canales_disponibles": 37,
+      "documentos_recientes": 245
     },
     "descargo": "",
-    "corte": "2026-11-22T12:54:35.375897+00:00",
-    "reporte_sha256": "901dede96f0f76b86e0113d4863dd2c6947e2df6d8b153dec5f8b73c04f6c68c",
-    "estado": "análisis pendiente",
+    "corte": "2026-11-23T15:28:29.461104+00:00",
+    "reporte_sha256": "8b7859dfeb68320ed30c002b843e25fd09530c363dda1113d89716db62b15154",
+    "estado": "completo",
     "politica_fuentes": "mixta-v1",
-    "reporte_archivo": "2026-11-22 — Pulso.md"
+    "reporte_archivo": "2026-11-23 — Pulso.md"
   },
   "nodos": [
     {
       "titulo": {
-        "es": "COP31 al borde de cerrar sin acuerdo tras rechazo de la UE por omitir el abandono de combustibles fósiles",
-        "en": "COP31 on the brink of closing without agreement after EU rejects omission of fossil fuel phaseout"
+        "es": "Jensen Huang reincorporado como CEO de Nvidia, acciones suben 35%",
+        "en": "Jensen Huang reinstated as Nvidia CEO, stock skyrockets 35%"
       },
       "sintesis": {
-        "es": "La Unión Europea rechazó el texto final de la COP31 por no mencionar el abandono de los combustibles fósiles, lo que ha generado prolongaciones y riesgo de cierre sin acuerdo.",
-        "en": "The European Union rejected the COP31 final text for not mentioning fossil fuel phaseout, causing delays and risk of no agreement."
+        "es": "La junta directiva de Nvidia informó que recibió asesoría de altos funcionarios del gobierno de EE.UU. antes de readmitir a Jensen Huang como CEO.",
+        "en": "The Nvidia board said it had input from senior levels of the U.S. government before reinstating Jensen Huang as CEO."
       },
       "categoria": "geopolitica",
-      "actores": [],
-      "geo": {
-        "lat": 50.8,
-        "lon": 4.4,
-        "region": "Europa"
-      },
-      "impacto": 85,
-      "fuentes": [
-        "ev_cae23c3a6e"
-      ],
-      "imagenes": [
-        "https://s.france24.com/media/display/c43d5b72-e665-11f1-a6c8-1bac47ab2f5d/w:1024/p:16x9/2026-11-22T095903Z-917320092-RC2XSOA2A529-RTRMADP-3-CLIMATE-COP31.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_cae23c3a6e",
-          "titulo": "La COP31, al borde de cerrar sin acuerdo tras el rechazo de la UE por omitir el abandono de los combustibles fósiles",
-          "url": "https://www.france24.com/es/europa/20261122-la-cop31-al-borde-de-cerrar-sin-acuerdo-tras-el-rechazo-de-la-ue-por-omitir-el-abandono-de-los-combustibles-f%C3%B3siles",
-          "fuente": "France 24",
-          "fecha": "Sun, 22 Nov 2026 12:46:10 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-22_0000",
-      "fecha": "2026-11-22",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Crisis en COP31 refleja estancamiento en acciones climáticas",
-        "en": "COP31 talks stall reflecting climate action deadlock"
-      },
-      "sintesis": {
-        "es": "En la COP31, el texto propuesto falla en entregar financiamiento climático vital y promueve tecnologías costosas, lo que genera críticas y fracaso en comprometer acciones.",
-        "en": "At COP31, the proposed text fails to deliver vital climate finance and promotes costly technologies, drawing criticism and failure to commit to action."
-      },
-      "categoria": "geopolitica",
-      "actores": [],
-      "geo": {
-        "lat": 23.9,
-        "lon": 45.1,
-        "region": "Oriente Medio"
-      },
-      "impacto": 80,
-      "fuentes": [
-        "ev_ce3f9f0383"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/ea4df22e3283176b004ce79254d62b64700f84bc/553_0_4774_3822/master/4774.jpg?width=140&quality=85&auto=format&fit=max&s=f40564353f97b8d5b869e40e1aa134c2"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_ce3f9f0383",
-          "titulo": "Cop31 live: EU and others reject deal as longest climate summit ever faces collapse",
-          "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-          "fuente": "The Guardian · Medio ambiente",
-          "fecha": "Sun, 22 Nov 2026 12:38:53 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-22_0001",
-      "fecha": "2026-11-22",
-      "kardashev": "K1",
-      "relaciones": [
-        "nd_2026-11-22_0005"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Sistema de baja presión no tropical genera condiciones peligrosas en costa este de EE. UU.",
-        "en": "Non-tropical low-pressure system produces hazardous conditions off U.S. East Coast"
-      },
-      "sintesis": {
-        "es": "Un sistema de baja presión no tropical frente a Carolina del Norte genera lluvias fuertes, vientos racheados y creciente riesgo de inundaciones costeras.",
-        "en": "A non-tropical low-pressure system off North Carolina produces heavy rain, gusty winds and rising coastal flood risks."
-      },
-      "categoria": "clima",
       "actores": [
-        "NWS National Hurricane Center"
+        "Nvidia"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 60,
+      "impacto": 85,
       "fuentes": [
-        "ev_1922f3f40d"
+        "ev_f6a75e8090"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_1922f3f40d",
-          "titulo": "Atlantic Tropical Weather Outlook",
-          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
-          "fuente": "NOAA · Centro Nacional de Huracanes",
-          "fecha": "Sun, 22 Nov 2026 11:26:43 GMT",
+          "id": "ev_f6a75e8090",
+          "titulo": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 35%",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+          "fuente": "CNBC",
+          "fecha": "Mon, 23 Nov 2026 15:24:42 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-22_0002",
-      "fecha": "2026-11-22",
-      "kardashev": "K1",
-      "relaciones": []
+      "id": "nd_2026-11-23_0000",
+      "fecha": "2026-11-23",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-11-23_0001"
+      ]
     },
     {
       "titulo": {
-        "es": "Ministro de Educación de Corea del Sur renuncia tras escándalo por trampa con IA en exámenes",
-        "en": "South Korea Education Minister resigns after AI-assisted cheating scandal"
+        "es": "Trump asegura que el gobierno de EE.UU. no ve riesgo de seguridad nacional en Huang",
+        "en": "Trump insists US government has ‘no reason to believe’ Huang’s return poses a national security risk"
       },
       "sintesis": {
-        "es": "El ministro surcoreano de Educación renuncia por fallas en la preparación para prevenir trampas con IA durante exámenes de ingreso universitario.",
-        "en": "South Korea's Education Minister resigns due to inadequate preparation to prevent AI-assisted cheating during university entrance exams."
+        "es": "Donald Trump defendió la decisión de Nvidia y afirmó que el gobierno estadounidense no considera que el regreso de Jensen Huang represente un riesgo de seguridad nacional.",
+        "en": "Donald Trump praised Nvidia’s decision to reinstate Jensen Huang as CEO, saying US government sees no national security risk."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Ministerio de Educación de Corea del Sur"
+        "Nvidia",
+        "Donald Trump"
       ],
       "geo": {
-        "lat": 35.9,
-        "lon": 127.8,
-        "region": "Asia Oriental"
+        "lat": 39.8,
+        "lon": -98.6,
+        "region": "Norteamerica"
       },
-      "impacto": 70,
+      "impacto": 80,
       "fuentes": [
-        "ev_5d24c819ff"
+        "ev_c8c4e5fe68"
       ],
       "imagenes": [
-        "https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=140&quality=85&auto=format&fit=max&s=b27cbf562e91080e6b506b93ff0b44c3"
+        "https://i.guim.co.uk/img/media/a94542ac44d8473a942c043557210bd7e7e2d98a/17_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=e633ec1bbe2c14257a07187d55bac276"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_5d24c819ff",
-          "titulo": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
-          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+          "id": "ev_c8c4e5fe68",
+          "titulo": "Trump insists US government has ‘no reason to believe’ Huang’s return to Nvidia poses a national security risk – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
           "fuente": "The Guardian",
-          "fecha": "Sun, 22 Nov 2026 12:12:08 GMT",
+          "fecha": "Mon, 23 Nov 2026 15:09:10 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-22_0003",
-      "fecha": "2026-11-22",
-      "kardashev": "K0",
-      "relaciones": []
+      "id": "nd_2026-11-23_0001",
+      "fecha": "2026-11-23",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-23_0000"
+      ]
     },
     {
       "titulo": {
-        "es": "Barco ruso sigue en llamas tras ataque con drones en golfo de Finlandia",
-        "en": "Russia-bound ship still on fire after attack in Gulf of Finland"
+        "es": "Moscú acusa a Estonia de estar al borde de una guerra abierta",
+        "en": "Moscow accuses Estonia of acting ‘on verge of unleashing open war with Russia’"
       },
       "sintesis": {
-        "es": "Fuerzas de defensa finlandesas indican que Ucrania probablemente atacó con drones un barco ruso, que continúa incendiándose.",
-        "en": "Finnish defense forces indicate that Ukraine likely drone-attacked a Russian ship, which remains on fire."
+        "es": "Moscú acusa a Estonia de permitir operaciones de drones ucranianos desde su territorio y advierte sobre tensiones que podrían escalar a guerra abierta.",
+        "en": "Moscow accuses Estonia of allowing Ukrainian drone operations from its territory, warning of tensions nearing open war."
       },
       "categoria": "geopolitica",
       "actores": [
-        "Fuerzas de defensa de Finlandia"
+        "OTAN"
       ],
       "geo": {
         "lat": 48.4,
@@ -201,69 +126,369 @@
       },
       "impacto": 75,
       "fuentes": [
-        "ev_5f5a69a5c0"
+        "ev_61e595231f"
       ],
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg"
+        "https://i.guim.co.uk/img/media/ecdd39c673437b312d3f50d55e6ea129410a5ab0/287_0_4531_3627/master/4531.jpg?width=140&quality=85&auto=format&fit=max&s=62b66af0684101060f49ad8f073101e0"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_5f5a69a5c0",
-          "titulo": "Russia-bound ship still on fire after attack in Gulf of Finland",
-          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "fecha": "Sun, 22 Nov 2026 11:25:14 GMT",
+          "id": "ev_61e595231f",
+          "titulo": "Moscow accuses Estonia of acting ‘on verge of unleashing open war with Russia’ – Europe live",
+          "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+          "fuente": "The Guardian",
+          "fecha": "Mon, 23 Nov 2026 15:09:09 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-22_0004",
-      "fecha": "2026-11-22",
-      "kardashev": "K1",
-      "relaciones": []
+      "id": "nd_2026-11-23_0002",
+      "fecha": "2026-11-23",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-23_0003"
+      ]
     },
     {
       "titulo": {
-        "es": "Asentamientos israelíes atacan varias aldeas palestinas en Cisjordania ocupada",
-        "en": "Israeli settlers attack several Palestinian villages in occupied West Bank"
+        "es": "Ucrania acusa haber hundido un buque ruso en Libia con drones",
+        "en": "Ukraine claims drone strikes on Russian ships off Libya"
       },
       "sintesis": {
-        "es": "Asentamientos israelíes incendiaron 12 vehículos y pintaron eslóganes racistas en hogares en provincias de Ramallah y El-Bireh.",
-        "en": "Israeli settlers burned 12 vehicles and spray-painted racist slogans on homes in Ramallah and El-Bireh provinces."
+        "es": "El presidente Zelenski afirma que un ataque con siete drones navales hundió un barco de guerra ruso en Libia, extendiendo el conflicto más allá de Ucrania.",
+        "en": "President Zelenskyy claims an attack with seven naval drones sank a Russian warship in Libya, expanding the Ukraine conflict."
       },
       "categoria": "geopolitica",
-      "actores": [],
+      "actores": [
+        "Ejército de Ucrania"
+      ],
       "geo": {
-        "lat": 31.0,
-        "lon": 34.9,
-        "region": "Oriente Medio"
+        "lat": 48.4,
+        "lon": 31.2,
+        "region": "Europa del Este"
       },
-      "impacto": 80,
+      "impacto": 90,
       "fuentes": [
-        "ev_afa88cbcff"
+        "ev_e7f107d9de"
+      ],
+      "imagenes": [
+        "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261123/1241020_081227_video_1800.mp4"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_e7f107d9de",
+          "titulo": "Ucrania golpea a la Armada rusa en Libia, a 2.000 kilómetros de la línea de frente",
+          "url": "https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html",
+          "fuente": "El País",
+          "fecha": "Mon, 23 Nov 2026 13:51:14 GMT",
+          "idioma": "es"
+        }
+      ],
+      "id": "nd_2026-11-23_0003",
+      "fecha": "2026-11-23",
+      "kardashev": "K1",
+      "relaciones": [
+        "nd_2026-11-23_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Fracaso de la COP31 por desacuerdos sobre combustibles fósiles",
+        "en": "‘Worst COP ever’: climate talks collapse after draft deal fails to include fossil fuels"
+      },
+      "sintesis": {
+        "es": "Las negociaciones en la COP31 terminaron sin acuerdo al no incluirse un compromiso con la eliminación de combustibles fósiles, generando críticas internacionales.",
+        "en": "COP31 climate talks failed to reach an agreement due to omission of fossil fuels phase-out, sparking international criticism."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "COP31"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 85,
+      "fuentes": [
+        "ev_8df024bbb7"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_afa88cbcff",
-          "titulo": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
-          "fuente": "Al Jazeera",
-          "fecha": "Sun, 22 Nov 2026 12:19:42 +0000",
+          "id": "ev_8df024bbb7",
+          "titulo": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
+          "url": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
+          "fuente": "CNBC",
+          "fecha": "Mon, 23 Nov 2026 13:16:38 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-22_0005",
-      "fecha": "2026-11-22",
+      "id": "nd_2026-11-23_0004",
+      "fecha": "2026-11-23",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Medidas para facilitar el comercio compensan aumento de restricciones en países del G20",
+        "en": "Trade-facilitating measures help offset rise in new G20 trade restrictions"
+      },
+      "sintesis": {
+        "es": "Aunque aumentan las restricciones comerciales en el G20, medidas facilitadoras han sostenido los flujos globales de comercio, según informe de la OMC.",
+        "en": "Despite rising trade restrictions in the G20, trade-facilitating measures have helped maintain global trade flows, says WTO report."
+      },
+      "categoria": "cadenas",
+      "actores": [
+        "OMC"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 65,
+      "fuentes": [
+        "ev_923b04e0f3"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_923b04e0f3",
+          "titulo": "Trade-facilitating measures help offset rise in new G20 trade restrictions",
+          "url": "https://www.wto.org/english/news_e/news26_e/tmg20_23nov26_559_e.htm",
+          "fuente": "OMC",
+          "fecha": "Mon, 23 Nov 2026 00:00:00 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-23_0005",
+      "fecha": "2026-11-23",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Comisión Europea inicia investigación de salvaguardia para importaciones de compuestos",
+        "en": "Commission initiates safeguard investigation into imports of certain composites"
+      },
+      "sintesis": {
+        "es": "La Comisión Europea investiga si es necesario aplicar medidas de salvaguardia para proteger la industria de importaciones crecientes de materiales compuestos.",
+        "en": "The European Commission investigates safeguard measures to protect industry from rising imports of composite materials."
+      },
+      "categoria": "cadenas",
+      "actores": [
+        "Comisión Europea"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_71e4d26d24"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_71e4d26d24",
+          "titulo": "Commission initiates safeguard investigation into imports of certain composites",
+          "url": "https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-certain-composites-2026-11-23_en",
+          "fuente": "Comisión Europea · Comercio",
+          "fecha": "Mon, 23 Nov 2026 00:00:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-23_0006",
+      "fecha": "2026-11-23",
       "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "APOD destaca la nebulosa oscura Lynds 1251",
+        "en": "APOD: The Emergence of Dark Nebula Lynds 1251"
+      },
+      "sintesis": {
+        "es": "NASA presenta la imagen y explicación de la nebulosa oscura Lynds 1251, destacando avances en observación astronómica.",
+        "en": "NASA showcases the image and explanation of dark nebula Lynds 1251, highlighting advances in astronomical observation."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "NASA"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_43a9045afa"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_43a9045afa",
+          "titulo": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
+          "fuente": "NASA",
+          "fecha": "Mon, 23 Nov 2026 05:05:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-23_0007",
+      "fecha": "2026-11-23",
+      "kardashev": "K2",
       "relaciones": [
-        "nd_2026-11-22_0001"
+        "nd_2026-11-23_0008"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Nuevo instrumento geodésico de NASA debutó en Svalbard, Noruega",
+        "en": "Laser Focus at the Top of the World"
+      },
+      "sintesis": {
+        "es": "NASA instaló un instrumento geodésico avanzado en Svalbard que ayuda a medir órbitas satelitales y la forma terrestre.",
+        "en": "NASA deployed a next-generation geodetic instrument in Svalbard aiding satellite orbit and earth shape measurements."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "NASA"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 60,
+      "fuentes": [
+        "ev_d7391770f4"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_d7391770f4",
+          "titulo": "Laser Focus at the Top of the World",
+          "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+          "fuente": "NASA",
+          "fecha": "Mon, 23 Nov 2026 05:01:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-23_0008",
+      "fecha": "2026-11-23",
+      "kardashev": "K2",
+      "relaciones": [
+        "nd_2026-11-23_0007"
       ]
     }
   ],
-  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-22\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"geopolitica\"]\nlugares: [\"Antalya\", \"Carolina del Norte\", \"Cisjordania\", \"Corea del Sur\", \"Costa este de EE. UU.\", \"El-Bireh\", \"Golfo de Finlandia\", \"Ramallah\"]\npaises: [\"Arabia Saudita\", \"Corea del Sur\", \"Estados Unidos\", \"Finlandia\", \"Israel\", \"Palestina\", \"Panamá\", \"Rusia\", \"Ucrania\", \"Unión Europea\"]\nentidades: [\"Fuerzas de defensa de Finlandia\", \"Ministerio de Educación de Corea del Sur\", \"NWS National Hurricane Center\"]\ntemas: [\"COP31\", \"ataques con drones\", \"bajas presiones\", \"cambio climático\", \"clima extremo\", \"combustibles fósiles\", \"condiciones meteorológicas\", \"conflicto Israel-Palestina\", \"conflicto ruso-ucraniano\", \"educación\", \"exámenes\", \"financiamiento climático\", \"inteligencia artificial\", \"violencia en asentamientos\"]\nbucles_activos: []\ncorte: \"2026-11-22T12:54:35.375897+00:00\"\ninicio_ventana: \"2026-11-21T12:54:35.375897+00:00\"\nestado: \"análisis pendiente\"\n---\n\n# Pulso Global — 2026-11-22\n\n## Resumen del día\n\nanálisis pendiente\n\nVentana de 24 horas hasta 2026-11-22T12:54:35.375897+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar imf, iom, unhcr, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_1922f3f40d\"></a>\n1. Sistema de baja presión no tropical genera condiciones peligrosas en costa este de EE. UU. — Un sistema de baja presión no tropical frente a Carolina del Norte genera lluvias fuertes, vientos racheados y creciente riesgo de inundaciones costeras. — [NOAA · Centro Nacional de Huracanes, Sun, 22 Nov 2026 11:26:43 GMT](https://www.nhc.noaa.gov/gtwo.php?basin=atlc) · oficial.\n\n## 2. Tecnología\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 3. Recursos Naturales\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 4. Cadenas de Suministro\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 5. Geopolítica\n\n<a id=\"ev_cae23c3a6e\"></a>\n1. COP31 al borde de cerrar sin acuerdo tras rechazo de la UE por omitir el abandono de combustibles fósiles — La Unión Europea rechazó el texto final de la COP31 por no mencionar el abandono de los combustibles fósiles, lo que ha generado prolongaciones y riesgo de cierre sin acuerdo. — [France 24, Sun, 22 Nov 2026 12:46:10 GMT](https://www.france24.com/es/europa/20261122-la-cop31-al-borde-de-cerrar-sin-acuerdo-tras-el-rechazo-de-la-ue-por-omitir-el-abandono-de-los-combustibles-f%C3%B3siles) · medio.\n\n<a id=\"ev_ce3f9f0383\"></a>\n2. Crisis en COP31 refleja estancamiento en acciones climáticas — En la COP31, el texto propuesto falla en entregar financiamiento climático vital y promueve tecnologías costosas, lo que genera críticas y fracaso en comprometer acciones. — [The Guardian · Medio ambiente, Sun, 22 Nov 2026 12:38:53 GMT](https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates) · medio.\n\n<a id=\"ev_5d24c819ff\"></a>\n3. Ministro de Educación de Corea del Sur renuncia tras escándalo por trampa con IA en exámenes — El ministro surcoreano de Educación renuncia por fallas en la preparación para prevenir trampas con IA durante exámenes de ingreso universitario. — [The Guardian, Sun, 22 Nov 2026 12:12:08 GMT](https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams) · medio.\n\n<a id=\"ev_5f5a69a5c0\"></a>\n4. Barco ruso sigue en llamas tras ataque con drones en golfo de Finlandia — Fuerzas de defensa finlandesas indican que Ucrania probablemente atacó con drones un barco ruso, que continúa incendiándose. — [BBC News, Sun, 22 Nov 2026 11:25:14 GMT](https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_afa88cbcff\"></a>\n5. Asentamientos israelíes atacan varias aldeas palestinas en Cisjordania ocupada — Asentamientos israelíes incendiaron 12 vehículos y pintaron eslóganes racistas en hogares en provincias de Ramallah y El-Bireh. — [Al Jazeera, Sun, 22 Nov 2026 12:19:42 +0000](https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss) · medio.\n\n## 6. Finanzas y Seguros\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 7. Demografía y Migraciones\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\nanálisis pendiente\n\n### Flujos\n\n- Presión Climática: análisis pendiente\n- Palanca Geopolítica: análisis pendiente\n- Flujos de Recursos: análisis pendiente\n- Flujos Cibernéticos y de Datos: análisis pendiente\n\n### Bucles críticos\n\n- Escasez de Recursos: análisis pendiente\n- Armamentización de la Cadena de Suministro: análisis pendiente\n- Impacto Societal y Financiero: análisis pendiente\n\n## Señales a vigilar\n\nanálisis pendiente\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-20T15:18:32+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-11-20T10:00:00+00:00 |\n| NASA | oficial | Disponible | 1 | 2026-11-22T05:05:00+00:00 |\n| CISA | oficial | Disponible | 0 | 2026-11-20T12:00:00+00:00 |\n| EIA | oficial | Disponible | 0 | 2026-11-19T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-11-19T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-19T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-20T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 0 | 2026-11-20T21:15:00+00:00 |\n| BCE | oficial | Disponible | 0 | 2026-11-20T08:30:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 0 | 2026-11-21T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 0 | 2026-11-20T18:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-11-17T18:36:03+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-11-20T18:30:45+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-19T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-11-12T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-23T23:26:43+00:00 |\n| NASA · Comunicados | oficial | Disponible | 1 | 2026-11-22T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-11-20T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-11-18T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 0 | 2026-11-19T08:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-20T02:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-17T16:19:12+00:00 |\n| BBC News | medio | Disponible | 10 | 2026-11-22T11:25:14+00:00 |\n| BBC Mundo | medio | Disponible | 7 | 2026-11-22T12:12:20+00:00 |\n| CNN | medio | Disponible | 33 | 2026-11-22T12:49:53.214000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-22T12:46:10+00:00 |\n| The Guardian | medio | Disponible | 25 | 2026-11-22T12:36:58+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-22T12:31:30+00:00 |\n| El País | medio | Disponible | 12 | 2026-11-22T04:30:01+00:00 |\n| CNBC | medio | Disponible | 13 | 2026-11-22T12:13:56+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-22T12:30:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 3 | 2026-11-22T12:38:53+00:00 |\n| BBC · Tecnología | medio | Disponible | 0 | 2026-11-21T01:00:00+00:00 |\n| BBC · Economía | medio | Disponible | 3 | 2026-11-22T07:22:05+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-22\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"geopolitica\"]\nlugares: [\"Antalya\", \"Carolina del Norte\", \"Cisjordania\", \"Corea del Sur\", \"Costa este de EE. UU.\", \"El-Bireh\", \"Golfo de Finlandia\", \"Ramallah\"]\npaises: [\"Arabia Saudita\", \"Corea del Sur\", \"Estados Unidos\", \"Finlandia\", \"Israel\", \"Palestina\", \"Panamá\", \"Rusia\", \"Ucrania\", \"Unión Europea\"]\nentidades: [\"Fuerzas de defensa de Finlandia\", \"Ministerio de Educación de Corea del Sur\", \"NWS National Hurricane Center\"]\ntemas: [\"COP31\", \"ataques con drones\", \"bajas presiones\", \"cambio climático\", \"clima extremo\", \"combustibles fósiles\", \"condiciones meteorológicas\", \"conflicto Israel-Palestina\", \"conflicto ruso-ucraniano\", \"educación\", \"exámenes\", \"financiamiento climático\", \"inteligencia artificial\", \"violencia en asentamientos\"]\nbucles_activos: []\ncorte: \"2026-11-22T12:54:35.375897+00:00\"\ninicio_ventana: \"2026-11-21T12:54:35.375897+00:00\"\nestado: \"análisis pendiente\"\n```\n",
-  "nexo": null,
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-23\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"tecnologia\", \"cadenas\", \"geopolitica\"]\nlugares: [\"Estados Unidos\", \"Estonia\", \"Global\", \"Libia\", \"Noruega\", \"Rusia\", \"Svalbard\", \"Turquía\", \"Unión Europea\"]\npaises: [\"Estados Unidos\", \"Estonia\", \"Global\", \"Noruega\", \"Rusia\", \"Ucrania\", \"Unión Europea\"]\nentidades: [\"COP31\", \"Comisión Europea\", \"Donald Trump\", \"Ejército de Ucrania\", \"NASA\", \"Nvidia\", \"OMC\", \"OTAN\"]\ntemas: [\"Acciones\", \"Astronomía\", \"COP31\", \"Cambio climático\", \"Combustibles fósiles\", \"Comercio\", \"Comercio internacional\", \"Conflicto Rusia-Ucrania\", \"Drones\", \"Drones navales\", \"G20\", \"Geodesia\", \"Industria\", \"Instrumentación\", \"Jensen Huang\", \"Libia\", \"Nebulosa\", \"Nvidia CEO\", \"Observación\", \"Política estadounidense\", \"Restricciones arancelarias\", \"Salvaguardias\", \"Satélites\", \"Seguridad nacional\", \"Seguridad regional\"]\nbucles_activos: [\"Armamentización de la Cadena de Suministro\"]\ncorte: \"2026-11-23T15:28:29.461104+00:00\"\ninicio_ventana: \"2026-11-22T15:28:29.461104+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-23\n\n## Resumen del día\n\nLa COP31 continúa estancada debido a desacuerdos sobre el abandono de combustibles fósiles, generando riesgo de cierre sin acuerdo.\nNvidia reincorpora a Jensen Huang como CEO con respaldo del gobierno de EE.UU., con aumento del 35% en acciones.\nConflictos geopolíticos se intensifican con ataques con drones en Libia y tensiones Rusia-Estonia.\nMedidas comerciales del G20 compensan restricciones, mientras la UE investiga salvaguardias para compuestos.\nNASA destaca avances tecnológicos en observación astronómica y geodesia.\n\nVentana de 24 horas hasta 2026-11-23T15:28:29.461104+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar imf, iom, unhcr, un-en, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 2. Tecnología\n\n<a id=\"ev_43a9045afa\"></a>\n1. APOD destaca la nebulosa oscura Lynds 1251 — NASA presenta la imagen y explicación de la nebulosa oscura Lynds 1251, destacando avances en observación astronómica. — [NASA, Mon, 23 Nov 2026 05:05:00 +0000](https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/) · oficial.\n\n<a id=\"ev_d7391770f4\"></a>\n2. Nuevo instrumento geodésico de NASA debutó en Svalbard, Noruega — NASA instaló un instrumento geodésico avanzado en Svalbard que ayuda a medir órbitas satelitales y la forma terrestre. — [NASA, Mon, 23 Nov 2026 05:01:00 +0000](https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/) · oficial.\n\n## 3. Recursos Naturales\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_923b04e0f3\"></a>\n1. Medidas para facilitar el comercio compensan aumento de restricciones en países del G20 — Aunque aumentan las restricciones comerciales en el G20, medidas facilitadoras han sostenido los flujos globales de comercio, según informe de la OMC. — [OMC, Mon, 23 Nov 2026 00:00:00 GMT](https://www.wto.org/english/news_e/news26_e/tmg20_23nov26_559_e.htm) · oficial.\n\n<a id=\"ev_71e4d26d24\"></a>\n2. Comisión Europea inicia investigación de salvaguardia para importaciones de compuestos — La Comisión Europea investiga si es necesario aplicar medidas de salvaguardia para proteger la industria de importaciones crecientes de materiales compuestos. — [Comisión Europea · Comercio, Mon, 23 Nov 2026 00:00:00 +0100](https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-certain-composites-2026-11-23_en) · oficial.\n\n## 5. Geopolítica\n\n<a id=\"ev_f6a75e8090\"></a>\n1. Jensen Huang reincorporado como CEO de Nvidia, acciones suben 35% — La junta directiva de Nvidia informó que recibió asesoría de altos funcionarios del gobierno de EE.UU. antes de readmitir a Jensen Huang como CEO. — [CNBC, Mon, 23 Nov 2026 15:24:42 GMT](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) · medio.\n\n<a id=\"ev_c8c4e5fe68\"></a>\n2. Trump asegura que el gobierno de EE.UU. no ve riesgo de seguridad nacional en Huang — Donald Trump defendió la decisión de Nvidia y afirmó que el gobierno estadounidense no considera que el regreso de Jensen Huang represente un riesgo de seguridad nacional. — [The Guardian, Mon, 23 Nov 2026 15:09:10 GMT](https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates) · medio.\n\n<a id=\"ev_61e595231f\"></a>\n3. Moscú acusa a Estonia de estar al borde de una guerra abierta — Moscú acusa a Estonia de permitir operaciones de drones ucranianos desde su territorio y advierte sobre tensiones que podrían escalar a guerra abierta. — [The Guardian, Mon, 23 Nov 2026 15:09:09 GMT](https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates) · medio.\n\n<a id=\"ev_e7f107d9de\"></a>\n4. Ucrania acusa haber hundido un buque ruso en Libia con drones — El presidente Zelenski afirma que un ataque con siete drones navales hundió un barco de guerra ruso en Libia, extendiendo el conflicto más allá de Ucrania. — [El País, Mon, 23 Nov 2026 13:51:14 GMT](https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html) · medio.\n\n<a id=\"ev_8df024bbb7\"></a>\n5. Fracaso de la COP31 por desacuerdos sobre combustibles fósiles — Las negociaciones en la COP31 terminaron sin acuerdo al no incluirse un compromiso con la eliminación de combustibles fósiles, generando críticas internacionales. — [CNBC, Mon, 23 Nov 2026 13:16:38 GMT](https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html) · medio.\n\n## 6. Finanzas y Seguros\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 7. Demografía y Migraciones\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Con movimiento — El aumento de tensiones y ataques entre países (Ej. Ucrania-Rusia en Libia y acusaciones entre Rusia y Estonia) reflejan el uso de recursos y comercio como palancas de poder geopolítico. Además, la UE investiga salvaguardias para proteger industrias, evidenciando el vínculo político-comercial. [ev_61e595231f](#ev_61e595231f) [ev_e7f107d9de](#ev_e7f107d9de) [ev_71e4d26d24](#ev_71e4d26d24) [ev_923b04e0f3](#ev_923b04e0f3)\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Con movimiento — Los enfrentamientos y ataques con drones en zonas geopolíticas clave muestran cómo la cadena de suministro y tecnología se usan en conflictos, evidenciando un caso activo de armamentización en este sistema. [ev_61e595231f](#ev_61e595231f) [ev_e7f107d9de](#ev_e7f107d9de) [ev_71e4d26d24](#ev_71e4d26d24)\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Riesgo de cierre sin acuerdo en COP31 debido a desacuerdos sobre combustibles fósiles. [ev_8df024bbb7](#ev_8df024bbb7) [ev_8df024bbb7](#ev_8df024bbb7) [ev_8df024bbb7](#ev_8df024bbb7)\n- Inestabilidad y conflictos crecientes en Europa y África por tensiones Rusia-Estonia y conflictos en Libia. [ev_61e595231f](#ev_61e595231f) [ev_e7f107d9de](#ev_e7f107d9de)\n- Apoyo gubernamental en EE.UU. impacta en decisiones corporativas en el sector tecnológico como el caso de Nvidia. [ev_f6a75e8090](#ev_f6a75e8090) [ev_c8c4e5fe68](#ev_c8c4e5fe68)\n- Medidas comerciales del G20 y UE ante restricciones y salvaguardias pueden modificar flujos comerciales globales. [ev_923b04e0f3](#ev_923b04e0f3) [ev_71e4d26d24](#ev_71e4d26d24)\n- Innovaciones tecnológicas en observación espacial y geodesia continúan avanzando con apoyo de NASA. [ev_43a9045afa](#ev_43a9045afa) [ev_d7391770f4](#ev_d7391770f4)\n\n## Correcciones\n\nSin correcciones\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-20T15:18:32+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-11-22T00:00:00+00:00 |\n| NASA | oficial | Disponible | 3 | 2026-11-23T05:05:00+00:00 |\n| CISA | oficial | Disponible | 0 | 2026-11-20T12:00:00+00:00 |\n| EIA | oficial | Disponible | 0 | 2026-11-19T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-11-19T12:00:00+00:00 |\n| OMC | oficial | Disponible | 1 | 2026-11-23T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-22T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 0 | 2026-11-20T21:15:00+00:00 |\n| BCE | oficial | Disponible | 2 | 2026-11-23T14:30:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | No disponible | 0 | Sin fecha verificable |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 0 | 2026-11-20T18:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-11-17T18:36:03+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-11-20T18:30:45+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-19T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-11-12T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-24T23:14:01+00:00 |\n| NASA · Comunicados | oficial | Disponible | 3 | 2026-11-23T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 1 | 2026-11-22T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-11-18T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 1 | 2026-11-23T10:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-20T02:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-17T16:19:12+00:00 |\n| BBC News | medio | Disponible | 18 | 2026-11-23T14:54:03+00:00 |\n| BBC Mundo | medio | Disponible | 8 | 2026-11-23T14:45:43+00:00 |\n| CNN | medio | Disponible | 63 | 2026-11-23T15:18:03.143000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 23 | 2026-11-23T14:46:40+00:00 |\n| The Guardian | medio | Disponible | 25 | 2026-11-23T15:09:10+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-23T14:24:38+00:00 |\n| El País | medio | Disponible | 11 | 2026-11-23T15:01:53+00:00 |\n| CNBC | medio | Disponible | 22 | 2026-11-23T15:26:33+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-23T15:15:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 8 | 2026-11-23T15:00:49+00:00 |\n| BBC · Tecnología | medio | Disponible | 3 | 2026-11-23T15:15:48+00:00 |\n| BBC · Economía | medio | Disponible | 17 | 2026-11-23T15:15:48+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-23\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"tecnologia\", \"cadenas\", \"geopolitica\"]\nlugares: [\"Estados Unidos\", \"Estonia\", \"Global\", \"Libia\", \"Noruega\", \"Rusia\", \"Svalbard\", \"Turquía\", \"Unión Europea\"]\npaises: [\"Estados Unidos\", \"Estonia\", \"Global\", \"Noruega\", \"Rusia\", \"Ucrania\", \"Unión Europea\"]\nentidades: [\"COP31\", \"Comisión Europea\", \"Donald Trump\", \"Ejército de Ucrania\", \"NASA\", \"Nvidia\", \"OMC\", \"OTAN\"]\ntemas: [\"Acciones\", \"Astronomía\", \"COP31\", \"Cambio climático\", \"Combustibles fósiles\", \"Comercio\", \"Comercio internacional\", \"Conflicto Rusia-Ucrania\", \"Drones\", \"Drones navales\", \"G20\", \"Geodesia\", \"Industria\", \"Instrumentación\", \"Jensen Huang\", \"Libia\", \"Nebulosa\", \"Nvidia CEO\", \"Observación\", \"Política estadounidense\", \"Restricciones arancelarias\", \"Salvaguardias\", \"Satélites\", \"Seguridad nacional\", \"Seguridad regional\"]\nbucles_activos: [\"Armamentización de la Cadena de Suministro\"]\ncorte: \"2026-11-23T15:28:29.461104+00:00\"\ninicio_ventana: \"2026-11-22T15:28:29.461104+00:00\"\nestado: \"completo\"\n```\n",
+  "nexo": {
+    "resumen": [
+      "La COP31 continúa estancada debido a desacuerdos sobre el abandono de combustibles fósiles, generando riesgo de cierre sin acuerdo.",
+      "Nvidia reincorpora a Jensen Huang como CEO con respaldo del gobierno de EE.UU., con aumento del 35% en acciones.",
+      "Conflictos geopolíticos se intensifican con ataques con drones en Libia y tensiones Rusia-Estonia.",
+      "Medidas comerciales del G20 compensan restricciones, mientras la UE investiga salvaguardias para compuestos.",
+      "NASA destaca avances tecnológicos en observación astronómica y geodesia."
+    ],
+    "flujos": {
+      "Presión Climática": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      },
+      "Palanca Geopolítica": {
+        "estado": "Con movimiento",
+        "texto": "El aumento de tensiones y ataques entre países (Ej. Ucrania-Rusia en Libia y acusaciones entre Rusia y Estonia) reflejan el uso de recursos y comercio como palancas de poder geopolítico. Además, la UE investiga salvaguardias para proteger industrias, evidenciando el vínculo político-comercial.",
+        "hechos": [
+          "ev_61e595231f",
+          "ev_e7f107d9de",
+          "ev_71e4d26d24",
+          "ev_923b04e0f3"
+        ]
+      },
+      "Flujos de Recursos": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      },
+      "Flujos Cibernéticos y de Datos": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      }
+    },
+    "bucles": {
+      "Escasez de Recursos": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      },
+      "Armamentización de la Cadena de Suministro": {
+        "estado": "Con movimiento",
+        "texto": "Los enfrentamientos y ataques con drones en zonas geopolíticas clave muestran cómo la cadena de suministro y tecnología se usan en conflictos, evidenciando un caso activo de armamentización en este sistema.",
+        "hechos": [
+          "ev_61e595231f",
+          "ev_e7f107d9de",
+          "ev_71e4d26d24"
+        ]
+      },
+      "Impacto Societal y Financiero": {
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
+      }
+    },
+    "senales": [
+      {
+        "texto": "Riesgo de cierre sin acuerdo en COP31 debido a desacuerdos sobre combustibles fósiles.",
+        "hechos": [
+          "ev_8df024bbb7",
+          "ev_8df024bbb7",
+          "ev_8df024bbb7"
+        ]
+      },
+      {
+        "texto": "Inestabilidad y conflictos crecientes en Europa y África por tensiones Rusia-Estonia y conflictos en Libia.",
+        "hechos": [
+          "ev_61e595231f",
+          "ev_e7f107d9de"
+        ]
+      },
+      {
+        "texto": "Apoyo gubernamental en EE.UU. impacta en decisiones corporativas en el sector tecnológico como el caso de Nvidia.",
+        "hechos": [
+          "ev_f6a75e8090",
+          "ev_c8c4e5fe68"
+        ]
+      },
+      {
+        "texto": "Medidas comerciales del G20 y UE ante restricciones y salvaguardias pueden modificar flujos comerciales globales.",
+        "hechos": [
+          "ev_923b04e0f3",
+          "ev_71e4d26d24"
+        ]
+      },
+      {
+        "texto": "Innovaciones tecnológicas en observación espacial y geodesia continúan avanzando con apoyo de NASA.",
+        "hechos": [
+          "ev_43a9045afa",
+          "ev_d7391770f4"
+        ]
+      }
+    ],
+    "correcciones": []
+  },
   "cobertura": {
     "noaa": {
       "ok": true,
@@ -276,11 +501,11 @@
     },
     "openai": {
       "ok": true,
-      "piezas": 1421,
+      "piezas": 1422,
       "fuente": "OpenAI",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-20T10:00:00+00:00",
+      "ultima_publicacion": "2026-11-22T00:00:00+00:00",
       "recientes": 0
     },
     "nasa": {
@@ -289,8 +514,8 @@
       "fuente": "NASA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-22T05:05:00+00:00",
-      "recientes": 1
+      "ultima_publicacion": "2026-11-23T05:05:00+00:00",
+      "recientes": 3
     },
     "cisa": {
       "ok": true,
@@ -325,8 +550,8 @@
       "fuente": "OMC",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-19T00:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-23T00:00:00+00:00",
+      "recientes": 1
     },
     "un": {
       "ok": true,
@@ -334,7 +559,7 @@
       "fuente": "ONU",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-20T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-22T12:00:00+00:00",
       "recientes": 0
     },
     "fed": {
@@ -352,8 +577,8 @@
       "fuente": "BCE",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-20T08:30:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-23T14:30:00+00:00",
+      "recientes": 2
     },
     "imf": {
       "ok": false,
@@ -383,12 +608,12 @@
       "recientes": 0
     },
     "un-en": {
-      "ok": true,
-      "piezas": 30,
+      "ok": false,
+      "piezas": 0,
       "fuente": "ONU (inglés)",
       "tipo": "oficial",
-      "error": "",
-      "ultima_publicacion": "2026-11-21T12:00:00+00:00",
+      "error": "not well-formed (invalid token): line 1, column 0",
+      "ultima_publicacion": null,
       "recientes": 0
     },
     "consilium": {
@@ -469,7 +694,7 @@
       "fuente": "NOAA · Centro Nacional de Huracanes",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-23T23:26:43+00:00",
+      "ultima_publicacion": "2026-11-24T23:14:01+00:00",
       "recientes": 1
     },
     "nasa-releases": {
@@ -478,8 +703,8 @@
       "fuente": "NASA · Comunicados",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-22T05:05:00+00:00",
-      "recientes": 1
+      "ultima_publicacion": "2026-11-23T05:05:00+00:00",
+      "recientes": 3
     },
     "usda": {
       "ok": false,
@@ -496,8 +721,8 @@
       "fuente": "Comisión Europea · Comercio",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-20T23:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-22T23:00:00+00:00",
+      "recientes": 1
     },
     "bis": {
       "ok": true,
@@ -514,12 +739,12 @@
       "fuente": "Banco de Inglaterra",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-19T08:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-23T10:00:00+00:00",
+      "recientes": 1
     },
     "boj": {
       "ok": true,
-      "piezas": 47,
+      "piezas": 43,
       "fuente": "Banco de Japón",
       "tipo": "oficial",
       "error": "",
@@ -537,30 +762,30 @@
     },
     "bbc-world": {
       "ok": true,
-      "piezas": 28,
+      "piezas": 34,
       "fuente": "BBC News",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-22T11:25:14+00:00",
-      "recientes": 10
+      "ultima_publicacion": "2026-11-23T14:54:03+00:00",
+      "recientes": 18
     },
     "bbc-mundo": {
       "ok": true,
-      "piezas": 36,
+      "piezas": 34,
       "fuente": "BBC Mundo",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-22T12:12:20+00:00",
-      "recientes": 7
+      "ultima_publicacion": "2026-11-23T14:45:43+00:00",
+      "recientes": 8
     },
     "cnn": {
       "ok": true,
-      "piezas": 148,
+      "piezas": 115,
       "fuente": "CNN",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-22T12:49:53.214000+00:00",
-      "recientes": 33
+      "ultima_publicacion": "2026-11-23T15:18:03.143000+00:00",
+      "recientes": 63
     },
     "dw-es": {
       "ok": false,
@@ -577,8 +802,8 @@
       "fuente": "France 24",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-22T12:46:10+00:00",
-      "recientes": 24
+      "ultima_publicacion": "2026-11-23T14:46:40+00:00",
+      "recientes": 23
     },
     "guardian": {
       "ok": true,
@@ -586,7 +811,7 @@
       "fuente": "The Guardian",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-22T12:36:58+00:00",
+      "ultima_publicacion": "2026-11-23T15:09:10+00:00",
       "recientes": 25
     },
     "aljazeera": {
@@ -595,17 +820,17 @@
       "fuente": "Al Jazeera",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-22T12:31:30+00:00",
+      "ultima_publicacion": "2026-11-23T14:24:38+00:00",
       "recientes": 25
     },
     "elpais": {
       "ok": true,
-      "piezas": 23,
+      "piezas": 24,
       "fuente": "El País",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-22T04:30:01+00:00",
-      "recientes": 12
+      "ultima_publicacion": "2026-11-23T15:01:53+00:00",
+      "recientes": 11
     },
     "cnbc": {
       "ok": true,
@@ -613,8 +838,8 @@
       "fuente": "CNBC",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-22T12:13:56+00:00",
-      "recientes": 13
+      "ultima_publicacion": "2026-11-23T15:26:33+00:00",
+      "recientes": 22
     },
     "reuters": {
       "ok": false,
@@ -639,7 +864,7 @@
       "piezas": 0,
       "fuente": "Agencia EFE",
       "tipo": "agencia",
-      "error": "HTTP Error 429: Too Many Requests",
+      "error": "HTTP Error 500: Internal Server Error",
       "ultima_publicacion": null,
       "recientes": 0
     },
@@ -649,7 +874,7 @@
       "fuente": "MarketWatch",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-22T12:30:00+00:00",
+      "ultima_publicacion": "2026-11-23T15:15:00+00:00",
       "recientes": 10
     },
     "guardian-environment": {
@@ -658,8 +883,8 @@
       "fuente": "The Guardian · Medio ambiente",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-22T12:38:53+00:00",
-      "recientes": 3
+      "ultima_publicacion": "2026-11-23T15:00:49+00:00",
+      "recientes": 8
     },
     "bbc-tech": {
       "ok": true,
@@ -667,17 +892,17 @@
       "fuente": "BBC · Tecnología",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-21T01:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-23T15:15:48+00:00",
+      "recientes": 3
     },
     "bbc-business": {
       "ok": true,
-      "piezas": 58,
+      "piezas": 52,
       "fuente": "BBC · Economía",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-22T07:22:05+00:00",
-      "recientes": 3
+      "ultima_publicacion": "2026-11-23T15:15:48+00:00",
+      "recientes": 17
     }
   }
 }
