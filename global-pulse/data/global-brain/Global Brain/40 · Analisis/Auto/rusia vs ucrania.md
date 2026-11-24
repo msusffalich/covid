@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-23
-nodos: 34
+actualizado: 2026-11-24
+nodos: 31
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-23. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-24. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante este período, el conflicto entre Rusia y Ucrania ha escalado con ataques de drones que se extienden más allá de las fronteras ucranianas, incluyendo acciones en Libia y Polonia. Rusia ha respondido con ataques a infraestructura clave en Ucrania y ha intensificado las acusaciones hacia países vecinos, advirtiendo de una posible escalada regional. Paralelamente, Rusia busca debilitar la solidaridad europea mediante pactos individuales, mientras que Ucrania continúa atacando puntos estratégicos como el puente de Kerch, evidenciando una dinámica de confrontación intensa y diversificada.
+Durante el período, el conflicto entre Rusia y Ucrania ha escalado notablemente con ataques aéreos y navales que se extienden fuera de Ucrania, incluyendo ataques con drones en Libia y la región del Golfo de Finlandia. Rusia responde con bombardeos en Kiev y lanzó ataques que afectaron territorio aliado como Polonia, mientras busca dividir a Europa con pactos bilaterales para debilitar la defensa colectiva. Paralelamente, se produce una tensa situación diplomática con acusaciones entre Moscú y países como Estonia, y una única cumbre histórica entre líderes mundiales, incluyendo a Putin, centrada en la paz y la seguridad nuclear.
 
 ## Trend summary (EN)
-During this period, the Russia-Ukraine conflict has escalated with drone attacks extending beyond Ukraine's borders, including incidents in Libya and Poland. Russia has retaliated by targeting key infrastructure in Ukraine and heightened accusations toward neighboring countries, warning of potential regional escalation. Concurrently, Russia aims to weaken European unity through individual non-aggression pacts, while Ukraine continues to target strategic points like the Kerch bridge, demonstrating an intense and multifaceted confrontation dynamic.
+During the period, the Russia-Ukraine conflict has significantly escalated with air and naval attacks extending beyond Ukraine, including drone strikes in Libya and the Gulf of Finland region. Russia responded with bombardments in Kyiv and launched strikes affecting allied territory such as Poland while attempting to divide Europe through bilateral pacts to weaken collective defense. At the same time, diplomatic tensions rose with accusations between Moscow and countries like Estonia, alongside a historic summit involving world leaders, including Putin, focused on peace and nuclear security.
 
 > [!note] Estado actual
-> El estado más reciente muestra una ofensiva ucraniana con drones que hundió un buque ruso en Libia, ampliando el conflicto a nivel internacional.
+> El último desarrollo indica que Ucrania hundió un buque ruso en Libia con drones, ampliando el alcance del conflicto fuera de la región inmediata.
 
-## Nodos recientes (34 en la ventana)
+## Nodos recientes (31 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-23 | 90 | K1 | Ucrania acusa haber hundido un buque ruso en Libia con drones |

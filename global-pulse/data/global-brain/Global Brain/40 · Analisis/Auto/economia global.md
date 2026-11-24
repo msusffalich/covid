@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-11-23
-nodos: 62
+actualizado: 2026-11-24
+nodos: 59
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-23. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-24. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo analizado, la economía global muestra una combinación de impulsos tecnológicos y riesgos macroeconómicos. El crecimiento en el sector de inteligencia artificial, reflejado en valoraciones récord y fuertes subidas en acciones de empresas como Anthropic y Nvidia, contrasta con advertencias sobre vulnerabilidad económica y posibles riesgos de recesión. Además, desafíos globales como la crisis climática no resuelta en la COP31 y conflictos geopolíticos en el Golfo Pérsico añaden incertidumbre a la estabilidad financiera.
+Durante el periodo, la economía global muestra una dinámica marcada por avances tecnológicos significativos, como la valorización récord de Anthropic y movimientos importantes en empresas como Nvidia y Palo Alto Networks, mientras enfrenta desafíos derivados de conflictos geopolíticos, presiones inflacionarias y riesgos de recesión. Paralelamente, la cumbre climática COP31 refleja un estancamiento en acuerdos clave para la acción ambiental, evidenciando divisiones sobre el papel del petróleo y la financiación climática. En conjunto, estas tendencias señalan una economía global en transición con tensiones entre innovación, riesgos financieros y urgencias climáticas.
 
 ## Trend summary (EN)
-During the analyzed period, the global economy exhibits a mix of technological momentum and macroeconomic risks. Growth in the artificial intelligence sector, reflected in record valuations and strong stock rises of companies like Anthropic and Nvidia, contrasts with warnings about economic vulnerability and potential recession risks. Additionally, global challenges such as the unresolved climate crisis at COP31 and geopolitical conflicts in the Persian Gulf add uncertainty to financial stability.
+Throughout the period, the global economy reveals dynamics marked by significant technological advancements, such as Anthropic's record valuation and major moves in companies like Nvidia and Palo Alto Networks, while facing challenges from geopolitical conflicts, inflationary pressures, and recession risks. Simultaneously, the COP31 climate summit reflects stagnation in key environmental agreements, highlighting divisions over oil's role and climate financing. Together, these trends indicate a global economy in transition with tensions between innovation, financial risks, and climate urgencies.
 
 > [!note] Estado actual
-> Jensen Huang ha sido reincorporado como CEO de Nvidia, mientras persisten preocupaciones sobre riesgos de recesión y ajustes en políticas monetarias relacionados con la demanda de IA.
+> La economía global continúa enfrentando incertidumbres por la falta de acuerdos climáticos y presiones inflacionarias, mientras sectores tecnológicos lideran la valoración en bolsa.
 
-## Nodos recientes (62 en la ventana)
+## Nodos recientes (59 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-24 | 85 | K1 | COP31 sin acuerdo: el petróleo tumba la cumbre del clima |
 | 2026-11-23 | 85 | K2 | Jensen Huang reincorporado como CEO de Nvidia, acciones suben 35 |
 | 2026-11-22 | 80 | K1 | Crisis en COP31 refleja estancamiento en acciones climáticas |
 | 2026-11-21 | 50 | K2 | NASA Curiosity recoge muestras en Marte |
@@ -35,6 +36,5 @@ During the analyzed period, the global economy exhibits a mix of technological m
 | 2026-11-20 | 60 | K0 | Christine Lagarde destaca la necesidad de actuar a tiempo en dis |
 | 2026-11-19 | 80 | K1 | Demanda de IA impulsará aumento de tasas de interés globales, ad |
 | 2026-11-19 | 70 | K1 | Acciones de Palo Alto Networks suben tras reporte de ganancias i |
-| 2026-11-16 | 75 | K1 | Jefa del FMI alerta sobre economía global vulnerable y financiam |
 
 [[Global Brain — Inicio|← Inicio]]
