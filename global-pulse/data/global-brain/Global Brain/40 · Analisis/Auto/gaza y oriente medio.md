@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-24
-nodos: 14
+actualizado: 2026-11-25
+nodos: 12
 origen: global-pulse
 ---
 # Tendencia automatica — Gaza y Oriente Medio
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-24. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-25. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el período, la situación en Gaza y Cisjordania ha mostrado una escalada en tensiones y dificultades humanitarias, destacando ataques de asentamientos israelíes, vigilancia masiva con tecnología avanzada, y graves impactos por condiciones climáticas adversas que han dejado a miles sin refugio. Paralelamente, la inestabilidad política en Israel, con intentos de formar un nuevo gobierno y posibles cambios en la coalición, junto con la guerra en Irán que afecta la región, muestran un escenario cada vez más complejo y multidimensional en Oriente Medio.
+En las últimas semanas, la situación en Gaza y Oriente Medio ha mostrado un aumento significativo en la violencia y la tensión política. Israel ha intensificado tanto acciones militares como medidas de vigilancia, mientras que las condiciones humanitarias en Gaza se han deteriorado gravemente debido a inundaciones y colapsos de infraestructura. Paralelamente, la inestabilidad política en Israel y en la región, junto con conflictos más amplios que involucran a Irán y Estados Unidos, han exacerbado la crisis ambiental y social en el área, sugiriendo una escalada continua y desafíos profundos para la población palestina y la estabilidad regional.
 
 ## Trend summary (EN)
-During the period, the situation in Gaza and the West Bank has seen escalating tensions and humanitarian challenges, marked by attacks from Israeli settlements, mass surveillance using advanced technology, and severe impacts from harsh weather causing thousands to be left without shelter. Concurrently, political instability in Israel—with efforts to form a new government and potential coalition changes—alongside the war in Iran affecting the region, depict an increasingly complex and multifaceted situation in the Middle East.
+In recent weeks, the situation in Gaza and the Middle East has seen a significant increase in violence and political tension. Israel has intensified both military actions and surveillance measures, while humanitarian conditions in Gaza have worsened drastically due to flooding and infrastructural collapse. Meanwhile, political instability in Israel and the broader region, alongside conflicts involving Iran and the United States, have worsened environmental and social crises, indicating a continuing escalation and deep challenges for the Palestinian population and regional stability.
 
 > [!note] Estado actual
-> Actualmente, la región enfrenta una crisis humanitaria marcada por inundaciones severas en Gaza, sanciones a asentamientos, y movimientos políticos en Israel que podrían alterar el equilibrio de poder.
+> Actualmente, la situación es tensa con continuos ataques, deterioro humanitario en Gaza y búsqueda de nuevas coaliciones políticas en Israel.
 
-## Nodos recientes (14 en la ventana)
+## Nodos recientes (12 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-22 | 80 | K0 | Asentamientos israelíes atacan varias aldeas palestinas en Cisjo |

@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Economia global"
 tipo: tendencia-auto
 tema: economia
-actualizado: 2026-11-24
-nodos: 59
+actualizado: 2026-11-25
+nodos: 57
 origen: global-pulse
 ---
 # Tendencia automatica — Economia global
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-24. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-25. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo, la economía global muestra una dinámica marcada por avances tecnológicos significativos, como la valorización récord de Anthropic y movimientos importantes en empresas como Nvidia y Palo Alto Networks, mientras enfrenta desafíos derivados de conflictos geopolíticos, presiones inflacionarias y riesgos de recesión. Paralelamente, la cumbre climática COP31 refleja un estancamiento en acuerdos clave para la acción ambiental, evidenciando divisiones sobre el papel del petróleo y la financiación climática. En conjunto, estas tendencias señalan una economía global en transición con tensiones entre innovación, riesgos financieros y urgencias climáticas.
+Durante este periodo, la economía global muestra tensiones crecientes derivadas de decisiones proteccionistas de EE.UU. y dificultades para alcanzar acuerdos climáticos clave, lo que evidencia una descoordinación entre aspectos económicos y ambientales. Al mismo tiempo, el sector tecnológico vive un auge significativo con la histórica salida a bolsa de Anthropic y el retorno de Jensen Huang a Nvidia, aunque persisten preocupaciones sobre riesgos de recesión e inflación en algunas regiones. Además, los conflictos geopolíticos como el del Golfo Pérsico afectan la estabilidad ambiental y económica global.
 
 ## Trend summary (EN)
-Throughout the period, the global economy reveals dynamics marked by significant technological advancements, such as Anthropic's record valuation and major moves in companies like Nvidia and Palo Alto Networks, while facing challenges from geopolitical conflicts, inflationary pressures, and recession risks. Simultaneously, the COP31 climate summit reflects stagnation in key environmental agreements, highlighting divisions over oil's role and climate financing. Together, these trends indicate a global economy in transition with tensions between innovation, financial risks, and climate urgencies.
+During this period, the global economy experiences increasing tensions due to U.S. protectionist actions and challenges in reaching key climate agreements, reflecting a lack of coordination between economic and environmental aspects. Simultaneously, the tech sector sees significant growth with Anthropic's historic IPO and Jensen Huang's return to Nvidia, while concerns remain about recession risks and inflation in certain regions. Additionally, geopolitical conflicts such as in the Persian Gulf impact global environmental and economic stability.
 
 > [!note] Estado actual
-> La economía global continúa enfrentando incertidumbres por la falta de acuerdos climáticos y presiones inflacionarias, mientras sectores tecnológicos lideran la valoración en bolsa.
+> EE.UU. ha anunciado nuevos aranceles contra varios países, incluyendo China y la Unión Europea, marcando un aumento en las tensiones comerciales globales.
 
-## Nodos recientes (59 en la ventana)
+## Nodos recientes (57 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-25 | 80 | K0 | EE.UU. anuncia nuevos aranceles contra varios países incluyendo  |
 | 2026-11-24 | 85 | K1 | COP31 sin acuerdo: el petróleo tumba la cumbre del clima |
 | 2026-11-23 | 85 | K2 | Jensen Huang reincorporado como CEO de Nvidia, acciones suben 35 |
 | 2026-11-22 | 80 | K1 | Crisis en COP31 refleja estancamiento en acciones climáticas |
@@ -35,6 +36,5 @@ Throughout the period, the global economy reveals dynamics marked by significant
 | 2026-11-20 | 70 | K0 | Estratega de Bank of America alerta sobre posible ciclo negativo |
 | 2026-11-20 | 60 | K0 | Christine Lagarde destaca la necesidad de actuar a tiempo en dis |
 | 2026-11-19 | 80 | K1 | Demanda de IA impulsará aumento de tasas de interés globales, ad |
-| 2026-11-19 | 70 | K1 | Acciones de Palo Alto Networks suben tras reporte de ganancias i |
 
 [[Global Brain — Inicio|← Inicio]]

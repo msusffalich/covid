@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-11-24
+actualizado: 2026-11-25
 nodos: 17
 origen: global-pulse
 ---
@@ -10,16 +10,16 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-24. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-25. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante este periodo, el debate sobre la gobernanza y riesgos de la inteligencia artificial se ha intensificado, con incidentes graves como ciberataques impulsados por IA a instituciones europeas y australianas, y preocupaciones sobre el impacto energético de los centros de datos. A su vez, se observan movimientos regulatorios en Estados Unidos para acelerar permisos en sectores de IA, mientras empresas y alianzas estratégicas continúan desarrollando tecnologías y mercados, aunque enfrentan crisis de liderazgo y presiones políticas sobre exportaciones de chips.
+Durante este período, la gobernanza y mitigación de riesgos en inteligencia artificial han cobrado relevancia creciente, impulsadas tanto por incidentes de ciberseguridad que involucran IA como por desarrollos regulatorios para acelerar su adopción responsable. Además, se observa un enfoque en fortalecer la infraestructura, promover la innovación colaborativa y responder a crisis de liderazgo en grandes empresas del sector, reflejando una evolución hacia mayor vigilancia y adaptación normativa frente a desafíos emergentes. Por otro lado, la presión sobre recursos energéticos y la seguridad cibernética subrayan la necesidad urgente de estrategias sostenibles y robustas en el despliegue de tecnologías IA.
 
 ## Trend summary (EN)
-During this period, the governance and risk discussion around artificial intelligence intensified, marked by serious AI-driven cyberattacks on European and Australian institutions and concerns over data centers' energy consumption. Concurrently, regulatory moves in the U.S. aim to expedite permits in AI sectors, while companies and strategic partnerships continue technology development and market growth amid leadership crises and political pressure on chip exports.
+During this period, governance and risk mitigation in artificial intelligence have gained increasing prominence, driven by cybersecurity incidents involving AI as well as regulatory developments aimed at accelerating responsible adoption. Additionally, there is a focus on strengthening infrastructure, fostering collaborative innovation, and addressing leadership crises in major industry companies, reflecting an evolution toward heightened oversight and regulatory adaptation in response to emerging challenges. Moreover, pressure on energy resources and cybersecurity highlights the urgent need for sustainable and robust strategies in AI technology deployment.
 
 > [!note] Estado actual
-> OpenAI y Cisco lanzaron Shirudo, un entorno de ejecución de código abierto para proteger sistemas en el despliegue de parches en Linux.
+> Recientemente, OpenAI y Cisco lanzaron Shirudo, una plataforma de código abierto para mejorar la seguridad en sistemas Linux mediante la protección en el despliegue de parches, reflejando un avance en herramientas para reducir riesgos asociados a la IA.
 
 ## Nodos recientes (17 en la ventana)
 | Fecha | Impacto | K | Nodo |

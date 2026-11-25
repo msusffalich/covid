@@ -2,28 +2,31 @@
 titulo: "Tendencia automatica — Impacto climatico"
 tipo: tendencia-auto
 tema: clima
-actualizado: 2026-11-24
-nodos: 54
+actualizado: 2026-11-25
+nodos: 56
 origen: global-pulse
 ---
 # Tendencia automatica — Impacto climatico
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-24. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-25. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo analizado, la COP31 mostró un marcado estancamiento debido a profundas divisiones respecto al papel de los combustibles fósiles, lo que impidió alcanzar un acuerdo final y generó críticas internacionales. A la par, eventos climáticos adversos afectaron la costa este de Estados Unidos, evidenciando los retos inmediatos del cambio climático, mientras ciertos países y activistas intensificaron su presión para detener la expansión de proyectos fósiles, como en Australia. En conjunto, el panorama refleja un aumento en la polarización y una respuesta insuficiente ante la emergencia climática global.
+Durante el periodo, la atención se centró en la COP31, que finalizó sin acuerdos debido a desacuerdos sobre los combustibles fósiles, evidenciando un estancamiento en las negociaciones climáticas internacionales. Paralelamente, se registraron eventos climáticos extremos, como temperaturas históricamente altas y mareas récord que provocaron cierres de playas e inundaciones, mientras que gobiernos tomaron medidas locales para mitigar riesgos en zonas costeras vulnerables. La tendencia muestra una creciente urgencia climática con respuestas políticas y sociales aún divididas y fragmentadas.
 
 ## Trend summary (EN)
-During the analyzed period, COP31 exhibited significant deadlock due to profound divisions over fossil fuels, preventing a final agreement and attracting international criticism. Concurrently, adverse climate events impacted the U.S. East Coast, highlighting immediate challenges of climate change, while some countries and activists increased pressure to halt fossil fuel projects expansion, such as in Australia. Overall, the scenario reflects rising polarization and insufficient response to the global climate emergency.
+During the period, attention focused on COP31, which ended without agreements due to disagreements on fossil fuels, highlighting a deadlock in international climate negotiations. Meanwhile, extreme weather events occurred, including historically high temperatures and record tides causing beach closures and flooding, while governments implemented local measures to mitigate risks in vulnerable coastal areas. The trend shows increasing climate urgency with political and social responses still divided and fragmented.
 
 > [!note] Estado actual
-> La COP31 finalizó sin consenso debido a la negativa de incluir compromisos sobre la eliminación de combustibles fósiles, provocando un fracaso en la cumbre climática.
+> El estado más reciente muestra temperaturas globales sostenidas por encima de 2 °C respecto a niveles preindustriales y eventos climáticos extremos que continúan impactando diversas regiones, mientras persisten las divisiones políticas en la acción climática internacional.
 
-## Nodos recientes (54 en la ventana)
+## Nodos recientes (56 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-25 | 90 | K1 | Mundo registra seis días consecutivos con temperaturas 2 °C por  |
+| 2026-11-25 | 85 | K1 | Cierre de playas en California debido a mareas récord y riesgo d |
+| 2026-11-25 | 60 | K0 | Zonas costeras en Inglaterra con riesgo de erosión recibirán £11 |
 | 2026-11-24 | 85 | K1 | COP31 sin acuerdo: el petróleo tumba la cumbre del clima |
 | 2026-11-24 | 70 | K0 | Campañistas urgen al gobierno australiano a rechazar expansión d |
 | 2026-11-23 | 85 | K1 | Fracaso de la COP31 por desacuerdos sobre combustibles fósiles |
@@ -33,8 +36,5 @@ During the analyzed period, COP31 exhibited significant deadlock due to profound
 | 2026-11-21 | 80 | K1 | COP31 continúa sin acuerdo debido a debates sobre combustibles f |
 | 2026-11-21 | 75 | K1 | COP31 entra en un debate extendido sin acuerdo final |
 | 2026-11-21 | 60 | K1 | Pronóstico de fenómeno climático no tropical en el Atlántico cer |
-| 2026-11-21 | 60 | K0 | Inundaciones en Florida llevan a residentes a usar kayaks y bals |
-| 2026-11-21 | 50 | K0 | Google utiliza Gemini para enviar alertas rápidas de incendios f |
-| 2026-11-20 | 80 | K1 | COP31 queda en entredicho por borrado de menciones a combustible |
 
 [[Global Brain — Inicio|← Inicio]]
