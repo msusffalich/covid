@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-11-25
-nodos: 22
+actualizado: 2026-11-26
+nodos: 19
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-25. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-26. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo, las tensiones entre Irán y Estados Unidos permanecieron elevadas, con incidentes significativos como ciberataques atribuidos a Irán y despliegues militares estadounidenses en respuesta a amenazas percibidas. Paralelamente, hubo intentos limitados de negociación y señales de posible distensión, reflejadas en caídas de precios energéticos y propuestas diplomáticas que aún enfrentan escepticismo sobre avances reales. El conflicto sigue generando impactos ambientales y económicos regionales, especialmente en el Golfo Pérsico.
+Durante el período analizado, el conflicto entre Irán y EE.UU. ha mostrado una escalada multidimensional, incluyendo ataques cibernéticos, amenazas directas al personal estadounidense y el impacto ambiental en el Golfo Pérsico. Aunque ha habido intentos diplomáticos mediadores y señales de posibles desescaladas que afectarían los precios energéticos, la situación sigue siendo tensa con movimientos militares y declaraciones firmes de liderazgo, sin avances significativos hacia una paz duradera.
 
 ## Trend summary (EN)
-Throughout the period, tensions between Iran and the United States remained high, marked by significant incidents such as cyberattacks attributed to Iran and U.S. military deployments responding to perceived threats. Concurrently, there were limited negotiation efforts and signs of potential de-escalation, reflected in energy price drops and diplomatic proposals still met with skepticism regarding real progress. The conflict continues to cause regional environmental and economic impacts, particularly in the Persian Gulf.
+During the analyzed period, the Iran-US conflict has exhibited a multidimensional escalation, including cyberattacks, direct threats to US personnel, and environmental impacts in the Persian Gulf. While diplomatic mediation efforts and signals of possible de-escalations affecting energy prices have occurred, tensions remain high with military maneuvers and strong leadership statements, with no significant progress towards lasting peace.
 
 > [!note] Estado actual
-> El estado más reciente indica que el conflicto sigue activo con focos de contaminación ambiental y sin avances claros en las negociaciones de paz.
+> La situación más reciente sigue siendo tensa con amenazas iraníes que obligaron a la reubicación de oficiales estadounidenses y sin avances concretos en las negociaciones de paz.
 
-## Nodos recientes (22 en la ventana)
+## Nodos recientes (19 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-25 | 60 | K0 | Zonas costeras en Inglaterra con riesgo de erosión recibirán £11 |

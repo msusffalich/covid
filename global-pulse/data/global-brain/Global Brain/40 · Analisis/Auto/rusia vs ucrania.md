@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-25
+actualizado: 2026-11-26
 nodos: 32
 origen: global-pulse
 ---
@@ -10,20 +10,21 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-25. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-26. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante este periodo, el conflicto entre Rusia y Ucrania ha escalado y ampliado su impacto, con ataques de drones y misiles en diversas regiones, incluyendo incursiones en aguas internacionales y territorio aliado. Rusia, enfrentando fuertes pérdidas humanas, ha intentado desestabilizar la defensa europea mediante pactos bilaterales, mientras Ucrania intensifica su capacidad ofensiva con ataques estratégicos en infraestructuras clave, extendiendo así la guerra más allá de sus fronteras. Este contexto tenso también se refleja en acusaciones mutuas y tensiones crecientes en países vecinos que podrían derivar en enfrentamientos abiertos.
+Durante este periodo, el conflicto entre Rusia y Ucrania muestra una clara intensificación y expansión geográfica, con ataques con drones y misiles afectando no solo Ucrania sino también áreas como Libia, el golfo de Finlandia y Polonia. A la par, Rusia intenta tanto desestabilizar la unidad europea mediante pactos bilaterales como influir en las negociaciones de ayuda a Ucrania dentro de la UE, mientras las pérdidas militares rusas alcanzan cifras alarmantes y aumentan las tensiones regionales con países vecinos como Estonia.
 
 ## Trend summary (EN)
-During this period, the Russia-Ukraine conflict has escalated and broadened its impact, with drone and missile attacks occurring across various regions, including incursions in international waters and allied territories. Facing heavy human losses, Russia has sought to undermine European defense through bilateral pacts, while Ukraine intensifies offensive capabilities with strategic strikes on critical infrastructure, thereby extending the war beyond its borders. This tense environment is also marked by mutual accusations and rising tensions in neighboring countries that could lead to open confrontations.
+During this period, the Russia-Ukraine conflict shows clear intensification and geographic expansion, with drone and missile attacks affecting not only Ukraine but also areas like Libya, the Gulf of Finland, and Poland. Meanwhile, Russia seeks to destabilize European unity through bilateral non-aggression pacts and influence EU negotiations on aid to Ukraine, as Russian military losses reach alarming figures and regional tensions rise with neighboring countries such as Estonia.
 
 > [!note] Estado actual
-> Actualmente, el conflicto mantiene una alta intensidad con ataques recientes en infraestructura crítica y acusaciones de provocaciones que aumentan el riesgo de una escalada regional.
+> Las tensiones se mantienen elevadas con continuos ataques rusos y disputas políticas en la UE sobre la ayuda a Ucrania.
 
 ## Nodos recientes (32 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-26 | 75 | K1 | Líderes de la UE distanciados en la cumbre sobre el presupuesto  |
 | 2026-11-25 | 85 | K1 | Datos internos de Rusia revelan pérdidas cercanas a 500,000 pers |
 | 2026-11-23 | 90 | K1 | Ucrania acusa haber hundido un buque ruso en Libia con drones |
 | 2026-11-23 | 75 | K0 | Moscú acusa a Estonia de estar al borde de una guerra abierta |
@@ -35,6 +36,5 @@ During this period, the Russia-Ukraine conflict has escalated and broadened its 
 | 2026-11-19 | 85 | K1 | Reunión histórica entre Trump, Xi y Putin en la cumbre de APEC e |
 | 2026-11-17 | 75 | K1 | Rusia, Arabia Saudita y Australia son los mayores exportadores h |
 | 2026-11-16 | 85 | K0 | Rusia busca dividir Europa y frena negociaciones sobre Ucrania |
-| 2026-11-16 | 80 | K1 | Ucrania impacta puente de Kerch entre Rusia y Crimea ocupada con |
 
 [[Global Brain — Inicio|← Inicio]]

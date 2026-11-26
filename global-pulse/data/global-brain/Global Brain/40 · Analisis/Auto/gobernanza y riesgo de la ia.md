@@ -2,28 +2,29 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-11-25
-nodos: 17
+actualizado: 2026-11-26
+nodos: 16
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-25. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-26. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante este período, la gobernanza y mitigación de riesgos en inteligencia artificial han cobrado relevancia creciente, impulsadas tanto por incidentes de ciberseguridad que involucran IA como por desarrollos regulatorios para acelerar su adopción responsable. Además, se observa un enfoque en fortalecer la infraestructura, promover la innovación colaborativa y responder a crisis de liderazgo en grandes empresas del sector, reflejando una evolución hacia mayor vigilancia y adaptación normativa frente a desafíos emergentes. Por otro lado, la presión sobre recursos energéticos y la seguridad cibernética subrayan la necesidad urgente de estrategias sostenibles y robustas en el despliegue de tecnologías IA.
+Durante el periodo, la gobernanza y los riesgos asociados a la inteligencia artificial han tomado un rumbo de rápida expansión e integración tecnológica, con Estados Unidos autoriza a SpaceX para desplegar satélites para centros de datos de IA y avances significativos en herramientas de seguridad y ejecución de código. Sin embargo, esta expansión trae desafíos evidentes como el incremento en demanda energética y ciberataques sofisticados, que están impulsando reformas regulatorias y debates sobre control de exportaciones y liderazgo en el sector.
 
 ## Trend summary (EN)
-During this period, governance and risk mitigation in artificial intelligence have gained increasing prominence, driven by cybersecurity incidents involving AI as well as regulatory developments aimed at accelerating responsible adoption. Additionally, there is a focus on strengthening infrastructure, fostering collaborative innovation, and addressing leadership crises in major industry companies, reflecting an evolution toward heightened oversight and regulatory adaptation in response to emerging challenges. Moreover, pressure on energy resources and cybersecurity highlights the urgent need for sustainable and robust strategies in AI technology deployment.
+During the period, governance and risks related to artificial intelligence have moved towards rapid expansion and technological integration, with the US authorizing SpaceX to deploy satellites for AI data centers and significant advances in security tools and code execution environments. However, this expansion brings clear challenges such as increased energy demand and sophisticated cyberattacks, driving regulatory reforms and debates on export controls and leadership in the sector.
 
 > [!note] Estado actual
-> Recientemente, OpenAI y Cisco lanzaron Shirudo, una plataforma de código abierto para mejorar la seguridad en sistemas Linux mediante la protección en el despliegue de parches, reflejando un avance en herramientas para reducir riesgos asociados a la IA.
+> Recientemente, Estados Unidos autorizó a SpaceX a desplegar un millón de satélites para centros de datos IA en el espacio, reflejando un enfoque hacia la expansión tecnológica y la eficiencia energética.
 
-## Nodos recientes (17 en la ventana)
+## Nodos recientes (16 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-26 | 80 | K2 | EE. UU. autoriza a SpaceX a desplegar un millón de satélites par |
 | 2026-11-24 | 60 | K1 | OpenAI y Cisco presentan Shirudo |
 | 2026-11-20 | 70 | K0 | Google Quantum AI demuestra contextualidad en algoritmos cuántic |
 | 2026-11-20 | 60 | K1 | Senado estadounidense aprueba reforma para acelerar permisos en  |
@@ -35,6 +36,5 @@ During this period, governance and risk mitigation in artificial intelligence ha
 | 2026-11-15 | 75 | K1 | Nvidia excluida de la agenda de Trump y Xi por crisis de lideraz |
 | 2026-11-12 | 62 | K1 | Escándalo de Huang reaviva presión para endurecer exportación de |
 | 2026-11-11 | 64 | K1 | Anthropic fija precio de su salida a bolsa de 1.3 billones de dó |
-| 2026-11-10 | 62 | K1 | Australia prepara reporte obligatorio tras hackeo de OpenAI que  |
 
 [[Global Brain — Inicio|← Inicio]]
