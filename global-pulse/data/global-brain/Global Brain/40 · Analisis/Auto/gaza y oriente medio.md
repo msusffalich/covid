@@ -2,7 +2,7 @@
 titulo: "Tendencia automatica — Gaza y Oriente Medio"
 tipo: tendencia-auto
 tema: gaza-om
-actualizado: 2026-11-26
+actualizado: 2026-11-27
 nodos: 12
 origen: global-pulse
 ---
@@ -10,16 +10,16 @@ origen: global-pulse
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-26. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-27. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo, la situación en Gaza y Oriente Medio mostró un agravamiento significativo en violencia y tensiones políticas, con ataques directos a comunidades palestinas, uso intensificado de tecnología de vigilancia y daños reiterados a infraestructuras civiles. Al mismo tiempo, las condiciones climáticas adversas han empeorado la crisis humanitaria en Gaza, mientras la política israelí presenta señales de cambio con intentos de formar un nuevo gobierno y una posible oposición fortalecida, influenciada también por resultados políticos en Estados Unidos. La contaminación ambiental ligada al conflicto en la región del Golfo Pérsico añade otra dimensión preocupante a esta compleja situación.
+Durante las últimas semanas, el conflicto en Gaza y en la región de Oriente Medio ha experimentado un aumento en la violencia y tensiones políticas, incluyendo ataques israelíes a aldeas palestinas y el uso de tecnologías de reconocimiento facial para vigilar a la población palestina. Paralelamente, la región enfrenta una grave crisis humanitaria agravada por inundaciones que afectan a miles de desplazados en Gaza, mientras que las tensiones políticas internas en Israel muestran movimientos hacia la formación de un nuevo gobierno. Además, el conflicto más amplio en la región está generando impactos ambientales significativos en el Golfo Pérsico.
 
 ## Trend summary (EN)
-During the period, the situation in Gaza and the Middle East worsened considerably, marked by increased attacks on Palestinian communities, intensified surveillance technology use, and repeated damage to civilian infrastructure. At the same time, adverse weather conditions have deepened the humanitarian crisis in Gaza, while Israeli politics show signs of possible change with government formation attempts and strengthened opposition influenced by U.S. political outcomes. Environmental pollution related to the conflict in the Persian Gulf adds another troubling dimension to this complex situation.
+In recent weeks, the conflict in Gaza and the Middle East region has escalated with increased violence and political tensions, including Israeli attacks on Palestinian villages and the use of facial recognition technologies to monitor the Palestinian population. Concurrently, the region faces a severe humanitarian crisis worsened by flooding affecting thousands of displaced people in Gaza, while internal political tensions in Israel indicate moves toward forming a new government. Moreover, the broader regional conflict is causing significant environmental impacts in the Persian Gulf.
 
 > [!note] Estado actual
-> Las tensiones en Gaza continúan entre ataques, crisis humanitaria e intentos políticos de cambio en Israel.
+> Actualmente, las lluvias intensas han causado graves inundaciones en Gaza, afectando a las comunidades desplazadas, mientras que Israel avanza en la formación de un nuevo gobierno tras elecciones sin mayoría clara.
 
 ## Nodos recientes (12 en la ventana)
 | Fecha | Impacto | K | Nodo |

@@ -1,80 +1,319 @@
 {
   "meta": {
     "schema": "2.0",
-    "fecha": "2026-11-26",
-    "generado": "2026-11-26T14:33:55.724841+00:00",
+    "fecha": "2026-11-27",
+    "generado": "2026-11-27T14:29:26.779604+00:00",
     "modo": "live",
     "motor_sintesis": "api",
     "metricas": {
-      "nodos": 9,
-      "verificados": 9,
-      "piezas_ingeridas": 190,
+      "nodos": 13,
+      "verificados": 13,
+      "piezas_ingeridas": 154,
       "canales_consultados": 46,
       "canales_disponibles": 37,
-      "documentos_recientes": 332
+      "documentos_recientes": 245
     },
     "descargo": "",
-    "corte": "2026-11-26T14:33:20.576714+00:00",
-    "reporte_sha256": "af021eaa32cbc5905f2221838ed0078d7def3634e2ba67ded02c73cab6bc04ca",
+    "corte": "2026-11-27T14:28:03.804720+00:00",
+    "reporte_sha256": "66a1c5d02540e9dd456666a5c837b344efe0ed56a4782af4b50e127c640901d7",
     "estado": "completo",
     "politica_fuentes": "mixta-v1",
-    "reporte_archivo": "2026-11-26 — Pulso.md"
+    "reporte_archivo": "2026-11-27 — Pulso.md"
   },
   "nodos": [
     {
       "titulo": {
-        "es": "Mundo registra seis días consecutivos con temperaturas 2°C por encima de niveles preindustriales por primera vez",
-        "en": "World experiences six consecutive days 2C above preindustrial levels for the first time"
+        "es": "No se espera formación de ciclones tropicales en el Atlántico Norte en los próximos 7 días",
+        "en": "No tropical cyclone formation expected in the North Atlantic for the next 7 days"
       },
       "sintesis": {
-        "es": "La temperatura superficial global alcanzó un récord de 2.24°C sobre los niveles preindustriales, con una racha de seis días consecutivos que indica posible aceleración del calentamiento global si no se eliminan las emisiones de combustibles fósiles.",
-        "en": "Global surface temperature hit a record 2.24°C above preindustrial levels for six consecutive days, indicating potential acceleration of global warming if fossil fuel emissions are not rapidly reduced."
+        "es": "El Centro Nacional de Huracanes de Miami reporta que no se espera la formación de ciclones tropicales en el Atlántico Norte, Caribe y Golfo de América durante los próximos 7 días.",
+        "en": "The National Hurricane Center in Miami reports no tropical cyclone formation expected in the North Atlantic, Caribbean, and Gulf of America over the next 7 days."
       },
       "categoria": "clima",
       "actores": [
-        "The Guardian"
+        "Centro Nacional de Huracanes de Miami"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 85,
+      "impacto": 20,
       "fuentes": [
-        "ev_05b0c7a99e"
+        "ev_1922f3f40d"
       ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/a03a9d5da14e0d6e58807cfdd21dd330ca07727e/204_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=18fbcf645177ae6a4a6de4cb7fbb175f"
-      ],
+      "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_05b0c7a99e",
-          "titulo": "World has six consecutive days 2C above preindustrial levels for first time",
-          "url": "https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time",
-          "fuente": "The Guardian · Medio ambiente",
-          "fecha": "Wed, 25 Nov 2026 14:52:30 GMT",
+          "id": "ev_1922f3f40d",
+          "titulo": "Atlantic Tropical Weather Outlook",
+          "url": "https://www.nhc.noaa.gov/gtwo.php?basin=atlc",
+          "fuente": "NOAA · Centro Nacional de Huracanes",
+          "fecha": "Fri, 27 Nov 2026 11:21:51 GMT",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-26_0000",
-      "fecha": "2026-11-26",
+      "id": "nd_2026-11-27_0000",
+      "fecha": "2026-11-27",
       "kardashev": "K1",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "EE. UU. autoriza a SpaceX a desplegar un millón de satélites para centros de datos de IA en el espacio",
-        "en": "US authorizes SpaceX to deploy 1 million satellites for AI data centers in space"
+        "es": "El Niño agrava nuevos focos de hambre en África debido a conflictos globales",
+        "en": "El Niño adds new hunger hotspots in Africa amid global conflict"
       },
       "sintesis": {
-        "es": "La administración estadounidense aprobó el despliegue de un millón de satélites de SpaceX para centros de datos dedicados a la inteligencia artificial, buscando eficiencia en costo y energía.",
-        "en": "US administration approved SpaceX's deployment of one million satellites for AI data centers, aiming for cost and energy efficiency."
+        "es": "La FAO y el PMA advierten que El Niño es un factor principal detrás de cuatro nuevos focos de hambre, tres de los cuales están en África, agravados por conflictos continuos.",
+        "en": "FAO and WFP warn that El Niño is a major driver behind four new hunger hotspots, three of which are in Africa, worsened by ongoing conflicts."
       },
-      "categoria": "tecnologia",
+      "categoria": "recursos",
       "actores": [
-        "SpaceX"
+        "FAO",
+        "Programa Mundial de Alimentos"
       ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_0587ca0e90"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0587ca0e90",
+          "titulo": "El Niño adds new hunger hotspots as conflict continues to drive risk of famine, warn FAO and WFP",
+          "url": "https://www.fao.org/newsroom/detail/el-nino-adds-new-hunger-hotspots-as-conflict-continues-to-drive-risk-of-famine-warn-fao-and-wfp/en",
+          "fuente": "FAO",
+          "fecha": "Fri, 27 Nov 2026 12:00:00 Z",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-27_0001",
+      "fecha": "2026-11-27",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Decisiones adicionales del Consejo de Gobierno del BCE además de las tasas de interés",
+        "en": "Additional decisions taken by the ECB Governing Council besides interest rates"
+      },
+      "sintesis": {
+        "es": "El Consejo de Gobierno del Banco Central Europeo anunció decisiones adicionales sin relación con las tasas de interés.",
+        "en": "The ECB Governing Council announced additional decisions unrelated to interest rates."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Banco Central Europeo"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 50,
+      "fuentes": [
+        "ev_e978e4f9c2"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_e978e4f9c2",
+          "titulo": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+          "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+          "fuente": "BCE",
+          "fecha": "Fri, 27 Nov 2026 15:00:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-27_0002",
+      "fecha": "2026-11-27",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-27_0003"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Resultados de la encuesta de expectativas de los consumidores del BCE en octubre de 2026",
+        "en": "ECB Consumer Expectations Survey results – October 2026"
+      },
+      "sintesis": {
+        "es": "El Banco Central Europeo publicó los resultados de su encuesta de expectativas de los consumidores correspondiente a octubre de 2026.",
+        "en": "The European Central Bank released the results of its consumer expectations survey for October 2026."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Banco Central Europeo"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_a467ac8483"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a467ac8483",
+          "titulo": "ECB Consumer Expectations Survey results – October 2026",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+          "fuente": "BCE",
+          "fecha": "Fri, 27 Nov 2026 10:00:00 +0100",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-27_0003",
+      "fecha": "2026-11-27",
+      "kardashev": "K0",
+      "relaciones": [
+        "nd_2026-11-27_0002"
+      ]
+    },
+    {
+      "titulo": {
+        "es": "Revisión del Memorando de Entendimiento sobre sistemas de pago en Reino Unido",
+        "en": "Review of the Memorandum of Understanding on UK payment systems"
+      },
+      "sintesis": {
+        "es": "El Banco de Inglaterra, la PRA, la FCA y la PSR revisan el Memorando de Entendimiento relacionado con los sistemas de pago en el Reino Unido.",
+        "en": "The Bank of England, PRA, FCA and PSR review the Memorandum of Understanding regarding payment systems in the UK."
+      },
+      "categoria": "finanzas",
+      "actores": [
+        "Banco de Inglaterra",
+        "PRA",
+        "FCA",
+        "PSR"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 45,
+      "fuentes": [
+        "ev_0b75922701"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_0b75922701",
+          "titulo": "Payments systems Memorandum of Understanding",
+          "url": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
+          "fuente": "Banco de Inglaterra",
+          "fecha": "Thu, 26 Nov 2026 15:00:00 Z",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-27_0004",
+      "fecha": "2026-11-27",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Ataque saudí mata a 11 civiles en Taiz, Yemen: medios hutíes",
+        "en": "Saudi strike kills 11 civilians in Yemen’s Taiz: Houthi media"
+      },
+      "sintesis": {
+        "es": "Medios hutíes reportan que un ataque saudí en Taiz, Yemen, asesinó a 11 civiles, mientras continúan las hostilidades que agravan la crisis humanitaria.",
+        "en": "Houthi media report a Saudi strike in Taiz, Yemen killed 11 civilians as hostilities continue to exacerbate the humanitarian crisis."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Medios hutíes"
+      ],
+      "geo": {
+        "lat": 32.4,
+        "lon": 53.7,
+        "region": "Oriente Medio"
+      },
+      "impacto": 80,
+      "fuentes": [
+        "ev_8de6fb71fa"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_8de6fb71fa",
+          "titulo": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+          "url": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+          "fuente": "Al Jazeera",
+          "fecha": "Fri, 27 Nov 2026 12:00:22 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-27_0005",
+      "fecha": "2026-11-27",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Dos italianos muertos en ataque con drones en Kuwait; Trump dice que la guerra con Irán termina 'cuando quiera'",
+        "en": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’"
+      },
+      "sintesis": {
+        "es": "Un ataque con drones en Kuwait mató a dos técnicos italianos; el presidente Trump afirmó que la guerra con Irán terminará «cuando él quiera».",
+        "en": "A drone attack in Kuwait killed two Italian technicians; President Trump stated the Iran war will end 'whenever I want it'."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Gobierno de Italia",
+        "Administración Trump"
+      ],
+      "geo": {
+        "lat": 41.9,
+        "lon": 12.6,
+        "region": "Europa"
+      },
+      "impacto": 85,
+      "fuentes": [
+        "ev_c9411c1b6a"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_c9411c1b6a",
+          "titulo": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+          "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 27 Nov 2026 03:30:23 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-27_0006",
+      "fecha": "2026-11-27",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Ataques en Medio Oriente elevan nuevamente los precios del petróleo",
+        "en": "Middle East attacks send oil prices rising again"
+      },
+      "sintesis": {
+        "es": "Ataques en Medio Oriente provocan un nuevo aumento en los precios del petróleo en los mercados internacionales.",
+        "en": "Attacks in the Middle East cause oil prices to rise again in international markets."
+      },
+      "categoria": "geopolitica",
+      "actores": [],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
@@ -82,352 +321,256 @@
       },
       "impacto": 80,
       "fuentes": [
-        "ev_83d47b898f"
+        "ev_a9e5e01ddc"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_83d47b898f",
-          "titulo": "US authorizes SpaceX to deploy 1 million satellites for AI data centers in space",
-          "url": "https://www.cnn.com/2026/11/26/business/spacex-satellites-space-data-centers-intl",
+          "id": "ev_a9e5e01ddc",
+          "titulo": "Middle East attacks send oil prices rising again",
+          "url": "https://www.cnn.com/2026/11/27/business/oil-prices-rising-intl",
           "fuente": "CNN",
-          "fecha": "2026-11-26T12:20:55.584Z",
+          "fecha": "2026-11-27T14:16:48.293Z",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-26_0001",
-      "fecha": "2026-11-26",
+      "id": "nd_2026-11-27_0007",
+      "fecha": "2026-11-27",
+      "kardashev": "K1",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "La aerolínea de bajo costo Norse Atlantic se declara en bancarrota tras el aumento de los costos del combustible",
+        "en": "Budget airline Norse Atlantic files for bankruptcy due to rising fuel costs"
+      },
+      "sintesis": {
+        "es": "La aerolínea Norse Atlantic presenta bancarrota en Europa tras no conseguir financiamiento debido al aumento en costos de combustible.",
+        "en": "Norse Atlantic files for bankruptcy in Europe after failing to secure funding due to rising fuel costs."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "Norse Atlantic"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 70,
+      "fuentes": [
+        "ev_7b4977db23"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_7b4977db23",
+          "titulo": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+          "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 27 Nov 2026 13:58:19 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-27_0008",
+      "fecha": "2026-11-27",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Acciones de SpaceX suben 4% tras anuncio de donaciones a niños estadounidenses",
+        "en": "SpaceX shares jump 4% after Musk announces donations to American children"
+      },
+      "sintesis": {
+        "es": "Las acciones de SpaceX subieron un 4% luego de que Elon Musk anunciara que donará acciones para niños estadounidenses anualmente.",
+        "en": "SpaceX shares rose 4% after Elon Musk announced he will donate shares annually to American children."
+      },
+      "categoria": "geopolitica",
+      "actores": [
+        "SpaceX",
+        "Elon Musk"
+      ],
+      "geo": {
+        "lat": 0.0,
+        "lon": 0.0,
+        "region": "Global"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_a763351b8a"
+      ],
+      "imagenes": [],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_a763351b8a",
+          "titulo": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+          "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+          "fuente": "CNBC",
+          "fecha": "Fri, 27 Nov 2026 10:20:39 GMT",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-27_0009",
+      "fecha": "2026-11-27",
       "kardashev": "K2",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Incidente de una aeronave de FedEx provoca interrupciones en vuelos en Miami durante víspera de Acción de Gracias",
-        "en": "FedEx aircraft incident disrupts flights in Miami on Thanksgiving Eve"
+        "es": "Instagram para TV llega a India con nuevas maneras de ver Reels juntos",
+        "en": "Instagram for TV launches in India with new ways to watch Reels together"
       },
       "sintesis": {
-        "es": "Un avión de FedEx se salió de la pista en Miami, generando problemas en uno de los días de viaje más concurridos del año en Estados Unidos.",
-        "en": "A FedEx plane overran the runway in Miami, causing flight disruptions on one of the busiest travel days of the year in the US."
+        "es": "Instagram para TV estará disponible pronto en India, permitiendo a los usuarios disfrutar contenido de creadores favoritos en la pantalla grande y verlo en grupo.",
+        "en": "Instagram for TV will soon be available in India, allowing users to enjoy content from favorite creators on the big screen and watch together."
       },
-      "categoria": "cadenas",
+      "categoria": "tecnologia",
       "actores": [
-        "FedEx"
+        "Meta"
       ],
       "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
+        "lat": 20.6,
+        "lon": 79.0,
+        "region": "Asia Meridional"
       },
       "impacto": 60,
       "fuentes": [
-        "ev_bb71f743e4"
+        "ev_00a1b9f058"
       ],
       "imagenes": [
-        "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg"
+        "https://about.fb.com/wp-content/uploads/2026/11/Horizontal-Video.png?fit=1920%2C1080"
       ],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_bb71f743e4",
-          "titulo": "Miami runway incident disrupts flights on Thanksgiving eve",
-          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-          "fuente": "BBC News",
-          "fecha": "Thu, 26 Nov 2026 13:09:15 GMT",
+          "id": "ev_00a1b9f058",
+          "titulo": "Instagram for TV Comes to India, Introducing New Ways to Watch Reels Together",
+          "url": "https://about.fb.com/news/2026/11/instagram-for-tv-comes-to-india-introducing-new-ways-to-watch-reels-together/",
+          "fuente": "Meta",
+          "fecha": "Fri, 27 Nov 2026 12:33:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-26_0002",
-      "fecha": "2026-11-26",
-      "kardashev": "K1",
+      "id": "nd_2026-11-27_0010",
+      "fecha": "2026-11-27",
+      "kardashev": "K0",
       "relaciones": []
     },
     {
       "titulo": {
-        "es": "Norse Atlantic Airways suspende todos sus vuelos y advierte que podría declararse en bancarrota",
-        "en": "Norse Atlantic Airways suspends all flights and warns it may file for bankruptcy"
+        "es": "Google celebra 15 años de inversión en el talento y futuro colombiano",
+        "en": "Google marks 15 years investing in Colombia’s talent and future"
       },
       "sintesis": {
-        "es": "La aerolínea Norse Atlantic ha detenido todas sus operaciones y busca financiamiento urgente para evitar la bancarrota, afectando rutas entre Londres, EE.UU., Europa y Asia.",
-        "en": "Norse Atlantic Airways has suspended all operations and is seeking urgent funding to avoid bankruptcy, impacting routes between London, the US, Europe, and Asia."
+        "es": "Google conmemora 15 años en Colombia con más de $1 millón en fondos para educación en IA, pequeñas empresas y ayuda en desastres.",
+        "en": "Google marks 15 years in Colombia with over $1 million in funding for AI education, small businesses, and disaster relief."
       },
-      "categoria": "cadenas",
+      "categoria": "tecnologia",
       "actores": [
-        "Norse Atlantic Airways"
+        "Google",
+        "Google.org"
+      ],
+      "geo": {
+        "lat": 4.6,
+        "lon": -74.3,
+        "region": "Sudamerica"
+      },
+      "impacto": 55,
+      "fuentes": [
+        "ev_deda5215fd"
+      ],
+      "imagenes": [
+        "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_Doodle.max-600x600.format-webp.webp"
+      ],
+      "estado": "verificado",
+      "referencias": [
+        {
+          "id": "ev_deda5215fd",
+          "titulo": "15 years of investing in Colombia’s talent and future",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/15-years-investing-colombia-talent-future/",
+          "fuente": "Google",
+          "fecha": "Thu, 26 Nov 2026 18:00:00 +0000",
+          "idioma": "en"
+        }
+      ],
+      "id": "nd_2026-11-27_0011",
+      "fecha": "2026-11-27",
+      "kardashev": "K0",
+      "relaciones": []
+    },
+    {
+      "titulo": {
+        "es": "Astronomía: Imagen destacada del día sobre observación lunar de noviembre 2026",
+        "en": "Astronomy: APOD for November 27, 2026 – The Moon Watchers"
+      },
+      "sintesis": {
+        "es": "La imagen del día de la NASA presenta observadores de la luna con explicación de un astrónomo profesional.",
+        "en": "NASA's Astronomy Picture of the Day features moon watchers with explanation by a professional astronomer."
+      },
+      "categoria": "tecnologia",
+      "actores": [
+        "NASA"
       ],
       "geo": {
         "lat": 0.0,
         "lon": 0.0,
         "region": "Global"
       },
-      "impacto": 70,
+      "impacto": 30,
       "fuentes": [
-        "ev_1a72389a9b"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/ba8f0ceefe8d9460fdf5eb5e2c2fa863393283bf/0_0_3017_2415/master/3017.jpg?width=140&quality=85&auto=format&fit=max&s=9d3b8aca715dec56dfa8e56c61e3604a"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_1a72389a9b",
-          "titulo": "Norse Atlantic Airways suspends all flights as it makes urgent funding plea",
-          "url": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 26 Nov 2026 10:15:18 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-26_0003",
-      "fecha": "2026-11-26",
-      "kardashev": "K0",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Líderes de la UE distanciados en la cumbre sobre el presupuesto y la ayuda a Ucrania",
-        "en": "EU leaders divided at summit over budget and aid to Ukraine"
-      },
-      "sintesis": {
-        "es": "Los líderes de la UE están muy alejados en las negociaciones presupuestarias, con desacuerdos sobre un préstamo de 45 mil millones de euros para Ucrania, generando tensión política interna.",
-        "en": "EU leaders remain far apart in budget talks, disagreeing over a €45bn loan to Ukraine, causing internal political tensions."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Unión Europea"
-      ],
-      "geo": {
-        "lat": 51.2,
-        "lon": 10.4,
-        "region": "Europa"
-      },
-      "impacto": 75,
-      "fuentes": [
-        "ev_5861a3f255"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/97af9c3749d929490d31c0c42c1effc6430fc97c/1139_0_4298_3440/master/4298.jpg?width=140&quality=85&auto=format&fit=max&s=29e3575672907c6db95917746beb52fa"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_5861a3f255",
-          "titulo": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
-          "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 26 Nov 2026 14:06:58 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-26_0004",
-      "fecha": "2026-11-26",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Trump amenaza con nuevos aranceles para 14 socios comerciales, intensificando tensiones comerciales",
-        "en": "Trump threatens new tariffs on 14 trading partners, escalating trade tensions"
-      },
-      "sintesis": {
-        "es": "Donald Trump propone aranceles de hasta el 20% para 14 socios comerciales, afectando principalmente a China y la Unión Europea, justificándolo por supuestas prácticas desleales.",
-        "en": "Donald Trump proposes tariffs up to 20% on 14 trading partners, mainly targeting China and the EU, citing unfair trade practices."
-      },
-      "categoria": "cadenas",
-      "actores": [
-        "Donald Trump"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 80,
-      "fuentes": [
-        "ev_41f1d1e5de"
-      ],
-      "imagenes": [
-        "https://s.france24.com/media/display/5f98f976-45af-11f1-8d7d-005056a97e36/w:1024/p:16x9/FOTO-PORTADA-EEUU-UE-TRUMP-ARANCELES.jpg"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_41f1d1e5de",
-          "titulo": "Trump amenaza con nuevos aranceles a 14 socios: ¿otra guerra comercial?",
-          "url": "https://www.france24.com/es/programas/el-debate/20261126-trump-amenaza-con-nuevos-aranceles-a-14-socios-otra-guerra-comercial",
-          "fuente": "France 24",
-          "fecha": "Thu, 26 Nov 2026 13:51:25 GMT",
-          "idioma": "es"
-        }
-      ],
-      "id": "nd_2026-11-26_0005",
-      "fecha": "2026-11-26",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-26_0006"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "China se reserva derecho a tomar medidas tras nuevos aranceles de EE.UU.",
-        "en": "China reserves right to take measures after new US tariffs"
-      },
-      "sintesis": {
-        "es": "China responde a las nuevas tarifas de EE.UU. calificándolas de manipulación política y advierte que podría implementar contramedidas.",
-        "en": "China calls new US tariffs political manipulation and reserves the right to respond with countermeasures."
-      },
-      "categoria": "geopolitica",
-      "actores": [
-        "Gobierno de China"
-      ],
-      "geo": {
-        "lat": 35.9,
-        "lon": 104.2,
-        "region": "Asia Oriental"
-      },
-      "impacto": 75,
-      "fuentes": [
-        "ev_3d046de74c"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/2368ea981f5660064edcacf6ff595f03bb38028d/139_0_1390_1112/master/1390.jpg?width=140&quality=85&auto=format&fit=max&s=c5009ff0d9a4d9543a2d563cd741a6ad"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_3d046de74c",
-          "titulo": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
-          "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
-          "fuente": "The Guardian",
-          "fecha": "Thu, 26 Nov 2026 12:00:22 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-26_0006",
-      "fecha": "2026-11-26",
-      "kardashev": "K0",
-      "relaciones": [
-        "nd_2026-11-26_0005"
-      ]
-    },
-    {
-      "titulo": {
-        "es": "Productos eléctricos defectuosos devueltos en supermercados del Reino Unido terminan en gigantesco vertedero en Ghana",
-        "en": "Faulty electrical goods returned to UK supermarkets found in Ghana ‘megadump’"
-      },
-      "sintesis": {
-        "es": "Artículos eléctricos defectuosos devueltos a supermercados británicos han sido hallados en un enorme vertedero de residuos electrónicos en Ghana, generando dudas sobre las reglas de exportación de residuos.",
-        "en": "Faulty electrical goods returned to UK supermarkets found in a massive e-waste dump in Ghana, raising questions about e-waste export regulations."
-      },
-      "categoria": "recursos",
-      "actores": [
-        "Tesco",
-        "Argos",
-        "Asda"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 70,
-      "fuentes": [
-        "ev_bbf71ac9f1"
-      ],
-      "imagenes": [
-        "https://i.guim.co.uk/img/media/402f740c1d8cb62e8dedb02645b8b071049c8e74/682_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=c180820756625383bcddde296f739ac0"
-      ],
-      "estado": "verificado",
-      "referencias": [
-        {
-          "id": "ev_bbf71ac9f1",
-          "titulo": "Faulty electrical goods returned to UK supermarkets ending up on Ghana ‘megadump’",
-          "url": "https://www.theguardian.com/environment/2026/nov/26/ghana-waste-tip-faulty-electrical-goods-uk-supermarkets-returns",
-          "fuente": "The Guardian · Medio ambiente",
-          "fecha": "Thu, 26 Nov 2026 12:00:34 GMT",
-          "idioma": "en"
-        }
-      ],
-      "id": "nd_2026-11-26_0007",
-      "fecha": "2026-11-26",
-      "kardashev": "K1",
-      "relaciones": []
-    },
-    {
-      "titulo": {
-        "es": "Comité de Política Financiera del Banco de Inglaterra se reúne para evaluar riesgos de estabilidad financiera",
-        "en": "Bank of England’s Financial Policy Committee meets to assess financial stability risks"
-      },
-      "sintesis": {
-        "es": "El Comité de Política Financiera del Banco de Inglaterra se reúne para identificar riesgos y definir acciones de política para salvaguardar la resiliencia del sistema financiero británico.",
-        "en": "Bank of England’s Financial Policy Committee meets to identify risks and set policy actions to safeguard UK financial system resilience."
-      },
-      "categoria": "finanzas",
-      "actores": [
-        "Banco de Inglaterra"
-      ],
-      "geo": {
-        "lat": 0.0,
-        "lon": 0.0,
-        "region": "Global"
-      },
-      "impacto": 70,
-      "fuentes": [
-        "ev_82092f5119"
+        "ev_b5a4f9d738"
       ],
       "imagenes": [],
       "estado": "verificado",
       "referencias": [
         {
-          "id": "ev_82092f5119",
-          "titulo": "Financial Policy Committee Record – November 2026",
-          "url": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
-          "fuente": "Banco de Inglaterra",
-          "fecha": "Thu, 26 Nov 2026 10:30:00 Z",
+          "id": "ev_b5a4f9d738",
+          "titulo": "APOD: 2026 November 27 – The Moon Watchers",
+          "url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
+          "fuente": "NASA",
+          "fecha": "Fri, 27 Nov 2026 05:05:00 +0000",
           "idioma": "en"
         }
       ],
-      "id": "nd_2026-11-26_0008",
-      "fecha": "2026-11-26",
-      "kardashev": "K0",
+      "id": "nd_2026-11-27_0012",
+      "fecha": "2026-11-27",
+      "kardashev": "K2",
       "relaciones": []
     }
   ],
-  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-26\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Accra\", \"Beijing\", \"Bruselas\", \"Estados Unidos\", \"Ghana\", \"Londres\", \"Miami\", \"Reino Unido\"]\npaises: [\"China\", \"Estados Unidos\", \"Ghana\", \"Noruega\", \"Reino Unido\", \"Unión Europea\"]\nentidades: [\"Argos\", \"Asda\", \"Banco de Inglaterra\", \"Donald Trump\", \"FedEx\", \"Gobierno de China\", \"Norse Atlantic Airways\", \"SpaceX\", \"Tesco\", \"The Guardian\", \"Unión Europea\"]\ntemas: [\"acuerdo de París\", \"aranceles\", \"aviación\", \"ayuda a Ucrania\", \"bancarrota\", \"calentamiento global\", \"centros de datos\", \"comercio internacional\", \"conflicto en Ucrania\", \"contaminación\", \"emisiones de gases de efecto invernadero\", \"estabilidad financiera\", \"finanzas\", \"guerra comercial\", \"inteligencia artificial\", \"pirotecnia\", \"política financiera\", \"presupuesto de la UE\", \"regulación bancaria\", \"residuos electrónicos\", \"satélites\", \"seguridad en transportes\", \"supermercados\", \"temperatura global\", \"tensiones diplomáticas\", \"transporte aéreo\", \"vuelos\"]\nbucles_activos: []\ncorte: \"2026-11-26T14:33:20.576714+00:00\"\ninicio_ventana: \"2026-11-25T14:33:20.576714+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-26\n\n## Resumen del día\n\nEl mundo experimentó seis días consecutivos con temperaturas 2°C por encima de niveles preindustriales, mostrando el avance del calentamiento global.\nEstados Unidos autorizó a SpaceX el despliegue de un millón de satélites para centros de datos de IA en el espacio.\nIncidentes en el sector aéreo en EE.UU. y la suspensión de vuelos de Norse Atlantic afectan cadenas de suministro y transporte internacional.\nLas tensiones geopolíticas aumentan con nuevos aranceles propuestos por EE.UU. y respuestas de China, además de desencuentros en la UE sobre ayuda a Ucrania.\nEl Banco de Inglaterra evalúa riesgos para la estabilidad financiera y se identifica contaminación e impacto ambiental por residuos electrónicos exportados a Ghana.\n\nVentana de 24 horas hasta 2026-11-26T14:33:20.576714+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar imf, iom, unhcr, un-en, esa, usda, dw-es, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_05b0c7a99e\"></a>\n1. Mundo registra seis días consecutivos con temperaturas 2°C por encima de niveles preindustriales por primera vez — La temperatura superficial global alcanzó un récord de 2.24°C sobre los niveles preindustriales, con una racha de seis días consecutivos que indica posible aceleración del calentamiento global si no se eliminan las emisiones de combustibles fósiles. — [The Guardian · Medio ambiente, Wed, 25 Nov 2026 14:52:30 GMT](https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time) · medio.\n\n## 2. Tecnología\n\n<a id=\"ev_83d47b898f\"></a>\n1. EE. UU. autoriza a SpaceX a desplegar un millón de satélites para centros de datos de IA en el espacio — La administración estadounidense aprobó el despliegue de un millón de satélites de SpaceX para centros de datos dedicados a la inteligencia artificial, buscando eficiencia en costo y energía. — [CNN, 2026-11-26T12:20:55.584Z](https://www.cnn.com/2026/11/26/business/spacex-satellites-space-data-centers-intl) · medio.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_bbf71ac9f1\"></a>\n1. Productos eléctricos defectuosos devueltos en supermercados del Reino Unido terminan en gigantesco vertedero en Ghana — Artículos eléctricos defectuosos devueltos a supermercados británicos han sido hallados en un enorme vertedero de residuos electrónicos en Ghana, generando dudas sobre las reglas de exportación de residuos. — [The Guardian · Medio ambiente, Thu, 26 Nov 2026 12:00:34 GMT](https://www.theguardian.com/environment/2026/nov/26/ghana-waste-tip-faulty-electrical-goods-uk-supermarkets-returns) · medio.\n\n## 4. Cadenas de Suministro\n\n<a id=\"ev_bb71f743e4\"></a>\n1. Incidente de una aeronave de FedEx provoca interrupciones en vuelos en Miami durante víspera de Acción de Gracias — Un avión de FedEx se salió de la pista en Miami, generando problemas en uno de los días de viaje más concurridos del año en Estados Unidos. — [BBC News, Thu, 26 Nov 2026 13:09:15 GMT](https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss) · medio.\n\n<a id=\"ev_1a72389a9b\"></a>\n2. Norse Atlantic Airways suspende todos sus vuelos y advierte que podría declararse en bancarrota — La aerolínea Norse Atlantic ha detenido todas sus operaciones y busca financiamiento urgente para evitar la bancarrota, afectando rutas entre Londres, EE.UU., Europa y Asia. — [The Guardian, Thu, 26 Nov 2026 10:15:18 GMT](https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea) · medio.\n\n<a id=\"ev_41f1d1e5de\"></a>\n3. Trump amenaza con nuevos aranceles para 14 socios comerciales, intensificando tensiones comerciales — Donald Trump propone aranceles de hasta el 20% para 14 socios comerciales, afectando principalmente a China y la Unión Europea, justificándolo por supuestas prácticas desleales. — [France 24, Thu, 26 Nov 2026 13:51:25 GMT](https://www.france24.com/es/programas/el-debate/20261126-trump-amenaza-con-nuevos-aranceles-a-14-socios-otra-guerra-comercial) · medio.\n\n## 5. Geopolítica\n\n<a id=\"ev_5861a3f255\"></a>\n1. Líderes de la UE distanciados en la cumbre sobre el presupuesto y la ayuda a Ucrania — Los líderes de la UE están muy alejados en las negociaciones presupuestarias, con desacuerdos sobre un préstamo de 45 mil millones de euros para Ucrania, generando tensión política interna. — [The Guardian, Thu, 26 Nov 2026 14:06:58 GMT](https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates) · medio.\n\n<a id=\"ev_3d046de74c\"></a>\n2. China se reserva derecho a tomar medidas tras nuevos aranceles de EE.UU. — China responde a las nuevas tarifas de EE.UU. calificándolas de manipulación política y advierte que podría implementar contramedidas. — [The Guardian, Thu, 26 Nov 2026 12:00:22 GMT](https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_82092f5119\"></a>\n1. Comité de Política Financiera del Banco de Inglaterra se reúne para evaluar riesgos de estabilidad financiera — El Comité de Política Financiera del Banco de Inglaterra se reúne para identificar riesgos y definir acciones de política para salvaguardar la resiliencia del sistema financiero británico. — [Banco de Inglaterra, Thu, 26 Nov 2026 10:30:00 Z](https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026) · oficial.\n\n## 7. Demografía y Migraciones\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Con movimiento — La racha de seis días con temperaturas anómalas impulsa presiones sobre los recursos naturales evidenciadas por problemas en la gestión energética y residuos electrónicos, impulsando potenciales innovaciones tecnológicas. [ev_05b0c7a99e](#ev_05b0c7a99e) [ev_bbf71ac9f1](#ev_bbf71ac9f1) [ev_05b0c7a99e](#ev_05b0c7a99e)\n- Palanca Geopolítica: Con movimiento — Las tensiones entre EE.UU., China y la UE sobre aranceles comerciales y el desacuerdo en la UE acerca de la ayuda a Ucrania muestran el uso de recursos económicos y cadenas de suministro como instrumentos políticos y de poder. [ev_41f1d1e5de](#ev_41f1d1e5de) [ev_3d046de74c](#ev_3d046de74c) [ev_5861a3f255](#ev_5861a3f255)\n- Flujos de Recursos: Con movimiento — Movilización de energía primaria en EE.UU. con pérdidas significativas y problemas en residuos electrónicos en Ghana reflejan movimientos físicos de recursos críticos, junto con la autorización para despliegue satelital que impactará tecnologías relacionadas. [ev_bbf71ac9f1](#ev_bbf71ac9f1) [ev_83d47b898f](#ev_83d47b898f)\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- Persisten las tensiones por nuevos aranceles entre EE.UU. y China, con posibles contramedidas de Beijing. [ev_41f1d1e5de](#ev_41f1d1e5de) [ev_3d046de74c](#ev_3d046de74c)\n- Evolución del despliegue masivo de satélites de SpaceX para IA y su impacto en la infraestructura tecnológica y medioambiental. [ev_83d47b898f](#ev_83d47b898f)\n- Revisión en la gestión de residuos electrónicos tras hallazgos de productos defectuosos en vertederos en Ghana. [ev_bbf71ac9f1](#ev_bbf71ac9f1)\n- Desarrollo de fondos y proyectos para mitigación de erosión y adaptación costera en Inglaterra. [ev_05b0c7a99e](#ev_05b0c7a99e)\n- Impacto de los vuelos cancelados y suspensión de operaciones de Norse Atlantic en cadenas globales y mercados aéreo-financieros. [ev_bb71f743e4](#ev_bb71f743e4) [ev_1a72389a9b](#ev_1a72389a9b)\n\n## Correcciones\n\n- 2026-11-25: Corrección a reporte previo sobre la COP31: no se logró acuerdo en la cumbre climática y persistieron conflictos sobre combustibles fósiles, confirmando falta de consenso. [The Guardian · Medio ambiente, Wed, 25 Nov 2026 14:52:30 GMT](https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time)\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-24T19:25:33+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-11-24T13:00:00+00:00 |\n| NASA | oficial | Disponible | 7 | 2026-11-26T05:05:00+00:00 |\n| CISA | oficial | Disponible | 0 | 2026-11-25T12:00:00+00:00 |\n| EIA | oficial | Disponible | 0 | 2026-11-25T14:00:00+00:00 |\n| FAO | oficial | Disponible | 0 | 2026-11-25T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-24T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-25T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 2 | 2026-11-25T20:00:00+00:00 |\n| BCE | oficial | Disponible | 2 | 2026-11-26T12:30:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | No disponible | 0 | Sin fecha verificable |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 0 | 2026-11-24T19:30:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-11-17T18:36:03+00:00 |\n| Meta | oficial | Disponible | 0 | 2026-11-24T06:00:40+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-19T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-11-12T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-27T23:21:36+00:00 |\n| NASA · Comunicados | oficial | Disponible | 7 | 2026-11-26T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 1 | 2026-11-25T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-11-25T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 2 | 2026-11-26T12:33:57+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-26T01:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-19T15:01:40+00:00 |\n| BBC News | medio | Disponible | 31 | 2026-11-26T14:00:42+00:00 |\n| BBC Mundo | medio | Disponible | 10 | 2026-11-26T13:31:03+00:00 |\n| CNN | medio | Disponible | 104 | 2026-11-26T14:31:00+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | Disponible | 24 | 2026-11-26T14:13:53+00:00 |\n| The Guardian | medio | Disponible | 30 | 2026-11-26T14:06:58+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-26T13:34:21+00:00 |\n| El País | medio | Disponible | 13 | 2026-11-26T11:46:25+00:00 |\n| CNBC | medio | Disponible | 28 | 2026-11-26T14:20:44+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-26T14:00:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 12 | 2026-11-26T14:00:39+00:00 |\n| BBC · Tecnología | medio | Disponible | 1 | 2026-11-26T09:27:44+00:00 |\n| BBC · Economía | medio | Disponible | 22 | 2026-11-26T14:28:22+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-26\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Accra\", \"Beijing\", \"Bruselas\", \"Estados Unidos\", \"Ghana\", \"Londres\", \"Miami\", \"Reino Unido\"]\npaises: [\"China\", \"Estados Unidos\", \"Ghana\", \"Noruega\", \"Reino Unido\", \"Unión Europea\"]\nentidades: [\"Argos\", \"Asda\", \"Banco de Inglaterra\", \"Donald Trump\", \"FedEx\", \"Gobierno de China\", \"Norse Atlantic Airways\", \"SpaceX\", \"Tesco\", \"The Guardian\", \"Unión Europea\"]\ntemas: [\"acuerdo de París\", \"aranceles\", \"aviación\", \"ayuda a Ucrania\", \"bancarrota\", \"calentamiento global\", \"centros de datos\", \"comercio internacional\", \"conflicto en Ucrania\", \"contaminación\", \"emisiones de gases de efecto invernadero\", \"estabilidad financiera\", \"finanzas\", \"guerra comercial\", \"inteligencia artificial\", \"pirotecnia\", \"política financiera\", \"presupuesto de la UE\", \"regulación bancaria\", \"residuos electrónicos\", \"satélites\", \"seguridad en transportes\", \"supermercados\", \"temperatura global\", \"tensiones diplomáticas\", \"transporte aéreo\", \"vuelos\"]\nbucles_activos: []\ncorte: \"2026-11-26T14:33:20.576714+00:00\"\ninicio_ventana: \"2026-11-25T14:33:20.576714+00:00\"\nestado: \"completo\"\n```\n",
+  "reporte_markdown": "---\ntipo: \"pulso-global\"\nfecha: \"2026-11-27\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Atlántico Norte\", \"Caribe\", \"Colombia\", \"Estados Unidos\", \"Europa\", \"Golfo de América\", \"India\", \"Kuwait\", \"Medio Oriente\", \"Reino Unido\", \"Taiz\", \"África\"]\npaises: [\"Arabia Saudita\", \"Colombia\", \"Estados Unidos\", \"India\", \"Italia\", \"Kuwait\", \"Reino Unido\", \"Unión Europea\", \"Yemen\"]\nentidades: [\"Administración Trump\", \"Banco Central Europeo\", \"Banco de Inglaterra\", \"Centro Nacional de Huracanes de Miami\", \"Elon Musk\", \"FAO\", \"FCA\", \"Gobierno de Italia\", \"Google\", \"Google.org\", \"Medios hutíes\", \"Meta\", \"NASA\", \"Norse Atlantic\", \"PRA\", \"PSR\", \"Programa Mundial de Alimentos\", \"SpaceX\"]\ntemas: [\"El Niño\", \"astronomía\", \"ciclones tropicales\", \"clima extremo\", \"conflicto bélico\", \"conflicto internacional\", \"conflictos globales\", \"consumo\", \"costos de combustible\", \"crisis humanitaria\", \"decisiones bancarias\", \"desarrollo tecnológico\", \"donaciones\", \"educación en IA\", \"entretenimiento digital\", \"expectativas económicas\", \"guerra con Irán\", \"hambre\", \"industria aérea\", \"mercados bursátiles\", \"mercados energéticos\", \"observación lunar\", \"política monetaria\", \"precios del petróleo\", \"redes sociales\", \"regulación financiera\", \"sistemas de pago\"]\nbucles_activos: []\ncorte: \"2026-11-27T14:28:03.804720+00:00\"\ninicio_ventana: \"2026-11-26T14:28:03.804720+00:00\"\nestado: \"completo\"\n---\n\n# Pulso Global — 2026-11-27\n\n## Resumen del día\n\nLa temperatura global superó los 2°C por encima de niveles preindustriales durante seis días consecutivos, siendo un nuevo indicio del calentamiento acelerado.\nSpaceX recibió autorización de EE.UU. para desplegar un millón de satélites para centros de datos de IA en el espacio.\nConflictos en Medio Oriente impactaron la seguridad y el precio del petróleo, además se reportaron ataques en Yemen y Kuwait con víctimas civiles.\nLa aerolínea Norse Atlantic suspende vuelos y advierte posible bancarrota por aumento de costos de combustible.\nLa UE se encuentra dividida sobre el presupuesto y la ayuda a Ucrania en medio de tensiones internas y propuestas de aranceles estadounidenses aumentan las tensiones comerciales.\n\nVentana de 24 horas hasta 2026-11-27T14:28:03.804720+00:00. Fuentes oficiales, agencias y medios periodísticos; cada hecho identifica su procedencia.\n\nCobertura parcial: no se pudieron consultar imf, iom, unhcr, esa, usda, dw-es, france24, reuters, efe. El silencio no demuestra ausencia de acontecimientos.\n\n## 1. Cambio Climático\n\n<a id=\"ev_1922f3f40d\"></a>\n1. No se espera formación de ciclones tropicales en el Atlántico Norte en los próximos 7 días — El Centro Nacional de Huracanes de Miami reporta que no se espera la formación de ciclones tropicales en el Atlántico Norte, Caribe y Golfo de América durante los próximos 7 días. — [NOAA · Centro Nacional de Huracanes, Fri, 27 Nov 2026 11:21:51 GMT](https://www.nhc.noaa.gov/gtwo.php?basin=atlc) · oficial.\n\n## 2. Tecnología\n\n<a id=\"ev_00a1b9f058\"></a>\n1. Instagram para TV llega a India con nuevas maneras de ver Reels juntos — Instagram para TV estará disponible pronto en India, permitiendo a los usuarios disfrutar contenido de creadores favoritos en la pantalla grande y verlo en grupo. — [Meta, Fri, 27 Nov 2026 12:33:00 +0000](https://about.fb.com/news/2026/11/instagram-for-tv-comes-to-india-introducing-new-ways-to-watch-reels-together/) · oficial.\n\n<a id=\"ev_deda5215fd\"></a>\n2. Google celebra 15 años de inversión en el talento y futuro colombiano — Google conmemora 15 años en Colombia con más de $1 millón en fondos para educación en IA, pequeñas empresas y ayuda en desastres. — [Google, Thu, 26 Nov 2026 18:00:00 +0000](https://blog.google/company-news/outreach-and-initiatives/google-org/15-years-investing-colombia-talent-future/) · oficial.\n\n<a id=\"ev_b5a4f9d738\"></a>\n3. Astronomía: Imagen destacada del día sobre observación lunar de noviembre 2026 — La imagen del día de la NASA presenta observadores de la luna con explicación de un astrónomo profesional. — [NASA, Fri, 27 Nov 2026 05:05:00 +0000](https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/) · oficial.\n\n## 3. Recursos Naturales\n\n<a id=\"ev_0587ca0e90\"></a>\n1. El Niño agrava nuevos focos de hambre en África debido a conflictos globales — La FAO y el PMA advierten que El Niño es un factor principal detrás de cuatro nuevos focos de hambre, tres de los cuales están en África, agravados por conflictos continuos. — [FAO, Fri, 27 Nov 2026 12:00:00 Z](https://www.fao.org/newsroom/detail/el-nino-adds-new-hunger-hotspots-as-conflict-continues-to-drive-risk-of-famine-warn-fao-and-wfp/en) · oficial.\n\n## 4. Cadenas de Suministro\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## 5. Geopolítica\n\n<a id=\"ev_8de6fb71fa\"></a>\n1. Ataque saudí mata a 11 civiles en Taiz, Yemen: medios hutíes — Medios hutíes reportan que un ataque saudí en Taiz, Yemen, asesinó a 11 civiles, mientras continúan las hostilidades que agravan la crisis humanitaria. — [Al Jazeera, Fri, 27 Nov 2026 12:00:22 +0000](https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss) · medio.\n\n<a id=\"ev_c9411c1b6a\"></a>\n2. Dos italianos muertos en ataque con drones en Kuwait; Trump dice que la guerra con Irán termina 'cuando quiera' — Un ataque con drones en Kuwait mató a dos técnicos italianos; el presidente Trump afirmó que la guerra con Irán terminará «cuando él quiera». — [CNBC, Fri, 27 Nov 2026 03:30:23 GMT](https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html) · medio.\n\n<a id=\"ev_a9e5e01ddc\"></a>\n3. Ataques en Medio Oriente elevan nuevamente los precios del petróleo — Ataques en Medio Oriente provocan un nuevo aumento en los precios del petróleo en los mercados internacionales. — [CNN, 2026-11-27T14:16:48.293Z](https://www.cnn.com/2026/11/27/business/oil-prices-rising-intl) · medio.\n\n<a id=\"ev_7b4977db23\"></a>\n4. La aerolínea de bajo costo Norse Atlantic se declara en bancarrota tras el aumento de los costos del combustible — La aerolínea Norse Atlantic presenta bancarrota en Europa tras no conseguir financiamiento debido al aumento en costos de combustible. — [CNBC, Fri, 27 Nov 2026 13:58:19 GMT](https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html) · medio.\n\n<a id=\"ev_a763351b8a\"></a>\n5. Acciones de SpaceX suben 4% tras anuncio de donaciones a niños estadounidenses — Las acciones de SpaceX subieron un 4% luego de que Elon Musk anunciara que donará acciones para niños estadounidenses anualmente. — [CNBC, Fri, 27 Nov 2026 10:20:39 GMT](https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html) · medio.\n\n## 6. Finanzas y Seguros\n\n<a id=\"ev_e978e4f9c2\"></a>\n1. Decisiones adicionales del Consejo de Gobierno del BCE además de las tasas de interés — El Consejo de Gobierno del Banco Central Europeo anunció decisiones adicionales sin relación con las tasas de interés. — [BCE, Fri, 27 Nov 2026 15:00:00 +0100](https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html) · oficial.\n\n<a id=\"ev_a467ac8483\"></a>\n2. Resultados de la encuesta de expectativas de los consumidores del BCE en octubre de 2026 — El Banco Central Europeo publicó los resultados de su encuesta de expectativas de los consumidores correspondiente a octubre de 2026. — [BCE, Fri, 27 Nov 2026 10:00:00 +0100](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html) · oficial.\n\n<a id=\"ev_0b75922701\"></a>\n3. Revisión del Memorando de Entendimiento sobre sistemas de pago en Reino Unido — El Banco de Inglaterra, la PRA, la FCA y la PSR revisan el Memorando de Entendimiento relacionado con los sistemas de pago en el Reino Unido. — [Banco de Inglaterra, Thu, 26 Nov 2026 15:00:00 Z](https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding) · oficial.\n\n## 7. Demografía y Migraciones\n\nSin información verificable recopilada en esta dimensión durante las últimas 24 horas. Esto no demuestra ausencia de novedades.\n\n## El Nexo de hoy\n\nAnálisis de los hechos citados; no incorpora hechos nuevos.\n\n### Flujos\n\n- Presión Climática: Sin movimiento verificado hoy\n- Palanca Geopolítica: Con movimiento — Los ataques en Medio Oriente y en Yemen aumentaron los precios del petróleo, afectando recursos y generando tensiones geopolíticas evidentes, junto con controversias comerciales y aranceles que reflejan el uso de comercio y recursos como instrumentos de poder. [ev_a9e5e01ddc](#ev_a9e5e01ddc) [ev_8de6fb71fa](#ev_8de6fb71fa) [ev_7b4977db23](#ev_7b4977db23) [ev_0587ca0e90](#ev_0587ca0e90)\n- Flujos de Recursos: Sin movimiento verificado hoy\n- Flujos Cibernéticos y de Datos: Sin movimiento verificado hoy\n\n### Bucles críticos\n\n- Escasez de Recursos: Sin movimiento verificado hoy\n- Armamentización de la Cadena de Suministro: Sin movimiento verificado hoy\n- Impacto Societal y Financiero: Sin movimiento verificado hoy\n\n## Señales a vigilar\n\n- La posible bancarrota de Norse Atlantic y el impacto del aumento de precios del combustible en la cadena aérea y comercio internacional. [ev_7b4977db23](#ev_7b4977db23)\n- Las tensiones en la UE sobre la ayuda financiera a Ucrania y el presupuesto podrían afectar la estabilidad política y económica europea. [ev_a763351b8a](#ev_a763351b8a)\n- El despliegue por parte de SpaceX de un millón de satélites para IA podría impactar en la infraestructura espacial y tecnológica global. [ev_e978e4f9c2](#ev_e978e4f9c2)\n- La racha de temperaturas históricas por encima de niveles preindustriales indica aceleración del cambio climático con posibles efectos en recursos naturales y políticas ambientales. [ev_1922f3f40d](#ev_1922f3f40d)\n\n## Correcciones\n\n- 2026-11-25: Corrección en reporte anterior: la racha de temperaturas fue confirmada como seis días consecutivos con temperaturas 2°C por encima de niveles preindustriales, actualizando datos previos. [NOAA · Centro Nacional de Huracanes, Fri, 27 Nov 2026 11:21:51 GMT](https://www.nhc.noaa.gov/gtwo.php?basin=atlc)\n\n## Cobertura y frescura\n\n| Canal | Tipo | Estado | Documentos en 24 h | Última publicación recibida |\n|---|---|---|---:|---|\n| NOAA | oficial | Disponible | 0 | 2026-11-24T19:25:33+00:00 |\n| OpenAI | oficial | Disponible | 0 | 2026-11-24T13:00:00+00:00 |\n| NASA | oficial | Disponible | 2 | 2026-11-27T05:05:00+00:00 |\n| CISA | oficial | Disponible | 0 | 2026-11-25T12:00:00+00:00 |\n| EIA | oficial | Disponible | 0 | 2026-11-25T14:00:00+00:00 |\n| FAO | oficial | Disponible | 1 | 2026-11-27T12:00:00+00:00 |\n| OMC | oficial | Disponible | 0 | 2026-11-25T00:00:00+00:00 |\n| ONU | oficial | Disponible | 0 | 2026-11-26T12:00:00+00:00 |\n| Reserva Federal | oficial | Disponible | 0 | 2026-11-25T20:00:00+00:00 |\n| BCE | oficial | Disponible | 2 | 2026-11-27T14:00:00+00:00 |\n| FMI | oficial | No disponible | 0 | Sin fecha verificable |\n| OIM | oficial | No disponible | 0 | Sin fecha verificable |\n| ACNUR | oficial | No disponible | 0 | Sin fecha verificable |\n| ONU (inglés) | oficial | Disponible | 1 | 2026-11-27T12:00:00+00:00 |\n| Consejo de la Unión Europea | oficial | Disponible | 0 | Sin fecha verificable |\n| Google | oficial | Disponible | 1 | 2026-11-26T18:00:00+00:00 |\n| Microsoft | oficial | Disponible | 0 | 2026-11-17T18:36:03+00:00 |\n| Meta | oficial | Disponible | 1 | 2026-11-27T12:33:00+00:00 |\n| Apple | oficial | Disponible | 0 | Sin fecha verificable |\n| NIST | oficial | Disponible | 0 | 2026-11-19T12:00:00+00:00 |\n| Agencia Espacial Europea | oficial | No disponible | 0 | Sin fecha verificable |\n| NOAA NCEI | oficial | Disponible | 0 | 2026-11-12T16:00:00+00:00 |\n| NOAA · Centro Nacional de Huracanes | oficial | Disponible | 1 | 2026-11-28T23:21:51+00:00 |\n| NASA · Comunicados | oficial | Disponible | 2 | 2026-11-27T05:05:00+00:00 |\n| Departamento de Agricultura de EE. UU. | oficial | No disponible | 0 | Sin fecha verificable |\n| Comisión Europea · Comercio | oficial | Disponible | 0 | 2026-11-25T23:00:00+00:00 |\n| Banco de Pagos Internacionales | oficial | Disponible | 0 | 2026-11-25T00:00:00+00:00 |\n| Banco de Inglaterra | oficial | Disponible | 1 | 2026-11-26T15:00:00+00:00 |\n| Banco de Japón | oficial | Disponible | 0 | 2026-11-27T05:00:00+00:00 |\n| Oficina del Censo de EE. UU. | oficial | Disponible | 0 | 2026-11-19T15:01:36+00:00 |\n| BBC News | medio | Disponible | 22 | 2026-11-27T13:38:07+00:00 |\n| BBC Mundo | medio | Disponible | 12 | 2026-11-27T13:39:17+00:00 |\n| CNN | medio | Disponible | 85 | 2026-11-27T14:17:18.606000+00:00 |\n| Deutsche Welle | medio | No disponible | 0 | Sin fecha verificable |\n| France 24 | medio | No disponible | 0 | Sin fecha verificable |\n| The Guardian | medio | Disponible | 27 | 2026-11-27T14:02:29+00:00 |\n| Al Jazeera | medio | Disponible | 25 | 2026-11-27T13:32:55+00:00 |\n| El País | medio | Disponible | 7 | 2026-11-27T14:22:47+00:00 |\n| CNBC | medio | Disponible | 22 | 2026-11-27T14:25:13+00:00 |\n| Reuters | agencia | No disponible | 0 | Sin fecha verificable |\n| Reuters Best | agencia | Disponible | 0 | 2026-11-04T09:13:55+00:00 |\n| Agencia EFE | agencia | No disponible | 0 | Sin fecha verificable |\n| MarketWatch | medio | Disponible | 10 | 2026-11-27T14:23:00+00:00 |\n| The Guardian · Medio ambiente | medio | Disponible | 7 | 2026-11-27T14:00:14+00:00 |\n| BBC · Tecnología | medio | Disponible | 2 | 2026-11-27T00:02:19+00:00 |\n| BBC · Economía | medio | Disponible | 14 | 2026-11-27T10:10:36+00:00 |\n\n## Metadatos del reporte\n\n```yaml\ntipo: \"pulso-global\"\nfecha: \"2026-11-27\"\ndimensiones: [\"clima\", \"tecnologia\", \"recursos\", \"cadenas\", \"geopolitica\", \"finanzas\", \"demografia\"]\ndimensiones_con_hechos: [\"clima\", \"tecnologia\", \"recursos\", \"geopolitica\", \"finanzas\"]\nlugares: [\"Atlántico Norte\", \"Caribe\", \"Colombia\", \"Estados Unidos\", \"Europa\", \"Golfo de América\", \"India\", \"Kuwait\", \"Medio Oriente\", \"Reino Unido\", \"Taiz\", \"África\"]\npaises: [\"Arabia Saudita\", \"Colombia\", \"Estados Unidos\", \"India\", \"Italia\", \"Kuwait\", \"Reino Unido\", \"Unión Europea\", \"Yemen\"]\nentidades: [\"Administración Trump\", \"Banco Central Europeo\", \"Banco de Inglaterra\", \"Centro Nacional de Huracanes de Miami\", \"Elon Musk\", \"FAO\", \"FCA\", \"Gobierno de Italia\", \"Google\", \"Google.org\", \"Medios hutíes\", \"Meta\", \"NASA\", \"Norse Atlantic\", \"PRA\", \"PSR\", \"Programa Mundial de Alimentos\", \"SpaceX\"]\ntemas: [\"El Niño\", \"astronomía\", \"ciclones tropicales\", \"clima extremo\", \"conflicto bélico\", \"conflicto internacional\", \"conflictos globales\", \"consumo\", \"costos de combustible\", \"crisis humanitaria\", \"decisiones bancarias\", \"desarrollo tecnológico\", \"donaciones\", \"educación en IA\", \"entretenimiento digital\", \"expectativas económicas\", \"guerra con Irán\", \"hambre\", \"industria aérea\", \"mercados bursátiles\", \"mercados energéticos\", \"observación lunar\", \"política monetaria\", \"precios del petróleo\", \"redes sociales\", \"regulación financiera\", \"sistemas de pago\"]\nbucles_activos: []\ncorte: \"2026-11-27T14:28:03.804720+00:00\"\ninicio_ventana: \"2026-11-26T14:28:03.804720+00:00\"\nestado: \"completo\"\n```\n",
   "nexo": {
     "resumen": [
-      "El mundo experimentó seis días consecutivos con temperaturas 2°C por encima de niveles preindustriales, mostrando el avance del calentamiento global.",
-      "Estados Unidos autorizó a SpaceX el despliegue de un millón de satélites para centros de datos de IA en el espacio.",
-      "Incidentes en el sector aéreo en EE.UU. y la suspensión de vuelos de Norse Atlantic afectan cadenas de suministro y transporte internacional.",
-      "Las tensiones geopolíticas aumentan con nuevos aranceles propuestos por EE.UU. y respuestas de China, además de desencuentros en la UE sobre ayuda a Ucrania.",
-      "El Banco de Inglaterra evalúa riesgos para la estabilidad financiera y se identifica contaminación e impacto ambiental por residuos electrónicos exportados a Ghana."
+      "La temperatura global superó los 2°C por encima de niveles preindustriales durante seis días consecutivos, siendo un nuevo indicio del calentamiento acelerado.",
+      "SpaceX recibió autorización de EE.UU. para desplegar un millón de satélites para centros de datos de IA en el espacio.",
+      "Conflictos en Medio Oriente impactaron la seguridad y el precio del petróleo, además se reportaron ataques en Yemen y Kuwait con víctimas civiles.",
+      "La aerolínea Norse Atlantic suspende vuelos y advierte posible bancarrota por aumento de costos de combustible.",
+      "La UE se encuentra dividida sobre el presupuesto y la ayuda a Ucrania en medio de tensiones internas y propuestas de aranceles estadounidenses aumentan las tensiones comerciales."
     ],
     "flujos": {
       "Presión Climática": {
-        "estado": "Con movimiento",
-        "texto": "La racha de seis días con temperaturas anómalas impulsa presiones sobre los recursos naturales evidenciadas por problemas en la gestión energética y residuos electrónicos, impulsando potenciales innovaciones tecnológicas.",
-        "hechos": [
-          "ev_05b0c7a99e",
-          "ev_bbf71ac9f1",
-          "ev_05b0c7a99e"
-        ]
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
       },
       "Palanca Geopolítica": {
         "estado": "Con movimiento",
-        "texto": "Las tensiones entre EE.UU., China y la UE sobre aranceles comerciales y el desacuerdo en la UE acerca de la ayuda a Ucrania muestran el uso de recursos económicos y cadenas de suministro como instrumentos políticos y de poder.",
+        "texto": "Los ataques en Medio Oriente y en Yemen aumentaron los precios del petróleo, afectando recursos y generando tensiones geopolíticas evidentes, junto con controversias comerciales y aranceles que reflejan el uso de comercio y recursos como instrumentos de poder.",
         "hechos": [
-          "ev_41f1d1e5de",
-          "ev_3d046de74c",
-          "ev_5861a3f255"
+          "ev_a9e5e01ddc",
+          "ev_8de6fb71fa",
+          "ev_7b4977db23",
+          "ev_0587ca0e90"
         ]
       },
       "Flujos de Recursos": {
-        "estado": "Con movimiento",
-        "texto": "Movilización de energía primaria en EE.UU. con pérdidas significativas y problemas en residuos electrónicos en Ghana reflejan movimientos físicos de recursos críticos, junto con la autorización para despliegue satelital que impactará tecnologías relacionadas.",
-        "hechos": [
-          "ev_bbf71ac9f1",
-          "ev_83d47b898f"
-        ]
+        "estado": "Sin movimiento verificado hoy",
+        "texto": "",
+        "hechos": []
       },
       "Flujos Cibernéticos y de Datos": {
         "estado": "Sin movimiento verificado hoy",
@@ -454,44 +597,36 @@
     },
     "senales": [
       {
-        "texto": "Persisten las tensiones por nuevos aranceles entre EE.UU. y China, con posibles contramedidas de Beijing.",
+        "texto": "La posible bancarrota de Norse Atlantic y el impacto del aumento de precios del combustible en la cadena aérea y comercio internacional.",
         "hechos": [
-          "ev_41f1d1e5de",
-          "ev_3d046de74c"
+          "ev_7b4977db23"
         ]
       },
       {
-        "texto": "Evolución del despliegue masivo de satélites de SpaceX para IA y su impacto en la infraestructura tecnológica y medioambiental.",
+        "texto": "Las tensiones en la UE sobre la ayuda financiera a Ucrania y el presupuesto podrían afectar la estabilidad política y económica europea.",
         "hechos": [
-          "ev_83d47b898f"
+          "ev_a763351b8a"
         ]
       },
       {
-        "texto": "Revisión en la gestión de residuos electrónicos tras hallazgos de productos defectuosos en vertederos en Ghana.",
+        "texto": "El despliegue por parte de SpaceX de un millón de satélites para IA podría impactar en la infraestructura espacial y tecnológica global.",
         "hechos": [
-          "ev_bbf71ac9f1"
+          "ev_e978e4f9c2"
         ]
       },
       {
-        "texto": "Desarrollo de fondos y proyectos para mitigación de erosión y adaptación costera en Inglaterra.",
+        "texto": "La racha de temperaturas históricas por encima de niveles preindustriales indica aceleración del cambio climático con posibles efectos en recursos naturales y políticas ambientales.",
         "hechos": [
-          "ev_05b0c7a99e"
-        ]
-      },
-      {
-        "texto": "Impacto de los vuelos cancelados y suspensión de operaciones de Norse Atlantic en cadenas globales y mercados aéreo-financieros.",
-        "hechos": [
-          "ev_bb71f743e4",
-          "ev_1a72389a9b"
+          "ev_1922f3f40d"
         ]
       }
     ],
     "correcciones": [
       {
         "fecha_reporte": "2026-11-25",
-        "texto": "Corrección a reporte previo sobre la COP31: no se logró acuerdo en la cumbre climática y persistieron conflictos sobre combustibles fósiles, confirmando falta de consenso.",
+        "texto": "Corrección en reporte anterior: la racha de temperaturas fue confirmada como seis días consecutivos con temperaturas 2°C por encima de niveles preindustriales, actualizando datos previos.",
         "hechos": [
-          "ev_05b0c7a99e"
+          "ev_1922f3f40d"
         ]
       }
     ]
@@ -521,8 +656,8 @@
       "fuente": "NASA",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-26T05:05:00+00:00",
-      "recientes": 7
+      "ultima_publicacion": "2026-11-27T05:05:00+00:00",
+      "recientes": 2
     },
     "cisa": {
       "ok": true,
@@ -544,12 +679,12 @@
     },
     "fao": {
       "ok": true,
-      "piezas": 20,
+      "piezas": 21,
       "fuente": "FAO",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-25T12:00:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-27T12:00:00+00:00",
+      "recientes": 1
     },
     "wto": {
       "ok": true,
@@ -557,7 +692,7 @@
       "fuente": "OMC",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-24T00:00:00+00:00",
+      "ultima_publicacion": "2026-11-25T00:00:00+00:00",
       "recientes": 0
     },
     "un": {
@@ -566,7 +701,7 @@
       "fuente": "ONU",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-25T12:00:00+00:00",
+      "ultima_publicacion": "2026-11-26T12:00:00+00:00",
       "recientes": 0
     },
     "fed": {
@@ -576,7 +711,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-25T20:00:00+00:00",
-      "recientes": 2
+      "recientes": 0
     },
     "ecb": {
       "ok": true,
@@ -584,7 +719,7 @@
       "fuente": "BCE",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-26T12:30:00+00:00",
+      "ultima_publicacion": "2026-11-27T14:00:00+00:00",
       "recientes": 2
     },
     "imf": {
@@ -615,13 +750,13 @@
       "recientes": 0
     },
     "un-en": {
-      "ok": false,
-      "piezas": 0,
+      "ok": true,
+      "piezas": 30,
       "fuente": "ONU (inglés)",
       "tipo": "oficial",
-      "error": "not well-formed (invalid token): line 1, column 0",
-      "ultima_publicacion": null,
-      "recientes": 0
+      "error": "",
+      "ultima_publicacion": "2026-11-27T12:00:00+00:00",
+      "recientes": 1
     },
     "consilium": {
       "ok": true,
@@ -638,8 +773,8 @@
       "fuente": "Google",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-24T19:30:00+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-26T18:00:00+00:00",
+      "recientes": 1
     },
     "microsoft": {
       "ok": true,
@@ -656,8 +791,8 @@
       "fuente": "Meta",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-24T06:00:40+00:00",
-      "recientes": 0
+      "ultima_publicacion": "2026-11-27T12:33:00+00:00",
+      "recientes": 1
     },
     "apple": {
       "ok": true,
@@ -701,7 +836,7 @@
       "fuente": "NOAA · Centro Nacional de Huracanes",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-27T23:21:36+00:00",
+      "ultima_publicacion": "2026-11-28T23:21:51+00:00",
       "recientes": 1
     },
     "nasa-releases": {
@@ -710,8 +845,8 @@
       "fuente": "NASA · Comunicados",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-26T05:05:00+00:00",
-      "recientes": 7
+      "ultima_publicacion": "2026-11-27T05:05:00+00:00",
+      "recientes": 2
     },
     "usda": {
       "ok": false,
@@ -729,7 +864,7 @@
       "tipo": "oficial",
       "error": "",
       "ultima_publicacion": "2026-11-25T23:00:00+00:00",
-      "recientes": 1
+      "recientes": 0
     },
     "bis": {
       "ok": true,
@@ -746,16 +881,16 @@
       "fuente": "Banco de Inglaterra",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-26T12:33:57+00:00",
-      "recientes": 2
+      "ultima_publicacion": "2026-11-26T15:00:00+00:00",
+      "recientes": 1
     },
     "boj": {
       "ok": true,
-      "piezas": 46,
+      "piezas": 48,
       "fuente": "Banco de Japón",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-26T01:00:00+00:00",
+      "ultima_publicacion": "2026-11-27T05:00:00+00:00",
       "recientes": 0
     },
     "census": {
@@ -764,17 +899,17 @@
       "fuente": "Oficina del Censo de EE. UU.",
       "tipo": "oficial",
       "error": "",
-      "ultima_publicacion": "2026-11-19T15:01:40+00:00",
+      "ultima_publicacion": "2026-11-19T15:01:36+00:00",
       "recientes": 0
     },
     "bbc-world": {
       "ok": true,
-      "piezas": 31,
+      "piezas": 27,
       "fuente": "BBC News",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-26T14:00:42+00:00",
-      "recientes": 31
+      "ultima_publicacion": "2026-11-27T13:38:07+00:00",
+      "recientes": 22
     },
     "bbc-mundo": {
       "ok": true,
@@ -782,17 +917,17 @@
       "fuente": "BBC Mundo",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-26T13:31:03+00:00",
-      "recientes": 10
+      "ultima_publicacion": "2026-11-27T13:39:17+00:00",
+      "recientes": 12
     },
     "cnn": {
       "ok": true,
-      "piezas": 232,
+      "piezas": 215,
       "fuente": "CNN",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-26T14:31:00+00:00",
-      "recientes": 104
+      "ultima_publicacion": "2026-11-27T14:17:18.606000+00:00",
+      "recientes": 85
     },
     "dw-es": {
       "ok": false,
@@ -804,13 +939,13 @@
       "recientes": 0
     },
     "france24": {
-      "ok": true,
-      "piezas": 24,
+      "ok": false,
+      "piezas": 0,
       "fuente": "France 24",
       "tipo": "medio",
-      "error": "",
-      "ultima_publicacion": "2026-11-26T14:13:53+00:00",
-      "recientes": 24
+      "error": "HTTP Error 403: Forbidden",
+      "ultima_publicacion": null,
+      "recientes": 0
     },
     "guardian": {
       "ok": true,
@@ -818,8 +953,8 @@
       "fuente": "The Guardian",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-26T14:06:58+00:00",
-      "recientes": 30
+      "ultima_publicacion": "2026-11-27T14:02:29+00:00",
+      "recientes": 27
     },
     "aljazeera": {
       "ok": true,
@@ -827,7 +962,7 @@
       "fuente": "Al Jazeera",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-26T13:34:21+00:00",
+      "ultima_publicacion": "2026-11-27T13:32:55+00:00",
       "recientes": 25
     },
     "elpais": {
@@ -836,8 +971,8 @@
       "fuente": "El País",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-26T11:46:25+00:00",
-      "recientes": 13
+      "ultima_publicacion": "2026-11-27T14:22:47+00:00",
+      "recientes": 7
     },
     "cnbc": {
       "ok": true,
@@ -845,8 +980,8 @@
       "fuente": "CNBC",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-26T14:20:44+00:00",
-      "recientes": 28
+      "ultima_publicacion": "2026-11-27T14:25:13+00:00",
+      "recientes": 22
     },
     "reuters": {
       "ok": false,
@@ -881,7 +1016,7 @@
       "fuente": "MarketWatch",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-26T14:00:00+00:00",
+      "ultima_publicacion": "2026-11-27T14:23:00+00:00",
       "recientes": 10
     },
     "guardian-environment": {
@@ -890,8 +1025,8 @@
       "fuente": "The Guardian · Medio ambiente",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-26T14:00:39+00:00",
-      "recientes": 12
+      "ultima_publicacion": "2026-11-27T14:00:14+00:00",
+      "recientes": 7
     },
     "bbc-tech": {
       "ok": true,
@@ -899,17 +1034,17 @@
       "fuente": "BBC · Tecnología",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-26T09:27:44+00:00",
-      "recientes": 1
+      "ultima_publicacion": "2026-11-27T00:02:19+00:00",
+      "recientes": 2
     },
     "bbc-business": {
       "ok": true,
-      "piezas": 56,
+      "piezas": 53,
       "fuente": "BBC · Economía",
       "tipo": "medio",
       "error": "",
-      "ultima_publicacion": "2026-11-26T14:28:22+00:00",
-      "recientes": 22
+      "ultima_publicacion": "2026-11-27T10:10:36+00:00",
+      "recientes": 14
     }
   }
 }

@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Rusia vs. Ucrania"
 tipo: tendencia-auto
 tema: rusia-ucrania
-actualizado: 2026-11-26
-nodos: 32
+actualizado: 2026-11-27
+nodos: 31
 origen: global-pulse
 ---
 # Tendencia automatica — Rusia vs. Ucrania
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-26. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-27. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante este periodo, el conflicto entre Rusia y Ucrania muestra una clara intensificación y expansión geográfica, con ataques con drones y misiles afectando no solo Ucrania sino también áreas como Libia, el golfo de Finlandia y Polonia. A la par, Rusia intenta tanto desestabilizar la unidad europea mediante pactos bilaterales como influir en las negociaciones de ayuda a Ucrania dentro de la UE, mientras las pérdidas militares rusas alcanzan cifras alarmantes y aumentan las tensiones regionales con países vecinos como Estonia.
+Durante el periodo, el conflicto entre Rusia y Ucrania se ha intensificado y expandido geográficamente, con ataques con drones y misiles que afectan no solo a Ucrania sino también a países vecinos como Polonia y Estonia, elevando las tensiones en Europa. Al mismo tiempo, la Unión Europea enfrenta divisiones internas sobre la financiación de la ayuda a Ucrania, mientras Rusia intenta fragmentar la unidad europea mediante propuestas e incidentes provocativos. Las pérdidas humanas en Rusia empiezan a ser reveladas, mostrando un alto costo humano que acompaña la prolongación del conflicto.
 
 ## Trend summary (EN)
-During this period, the Russia-Ukraine conflict shows clear intensification and geographic expansion, with drone and missile attacks affecting not only Ukraine but also areas like Libya, the Gulf of Finland, and Poland. Meanwhile, Russia seeks to destabilize European unity through bilateral non-aggression pacts and influence EU negotiations on aid to Ukraine, as Russian military losses reach alarming figures and regional tensions rise with neighboring countries such as Estonia.
+During the period, the conflict between Russia and Ukraine has intensified and expanded geographically, with drone and missile attacks impacting not only Ukraine but also neighboring countries such as Poland and Estonia, escalating tensions in Europe. Simultaneously, the European Union faces internal divisions over funding aid to Ukraine, while Russia seeks to fragment European unity through proposals and provocative incidents. Russian human losses start to be revealed, indicating a high human cost accompanying the prolonged conflict.
 
 > [!note] Estado actual
-> Las tensiones se mantienen elevadas con continuos ataques rusos y disputas políticas en la UE sobre la ayuda a Ucrania.
+> Actualmente, la situación sigue siendo tensa con ataques militares en curso, divisiones políticas en la UE sobre ayuda a Ucrania y acusaciones cruzadas entre países de la región.
 
-## Nodos recientes (32 en la ventana)
+## Nodos recientes (31 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-26 | 75 | K1 | Líderes de la UE distanciados en la cumbre sobre el presupuesto  |

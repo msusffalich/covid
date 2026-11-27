@@ -2,26 +2,26 @@
 titulo: "Tendencia automatica — Gobernanza y riesgo de la IA"
 tipo: tendencia-auto
 tema: ia
-actualizado: 2026-11-26
-nodos: 16
+actualizado: 2026-11-27
+nodos: 15
 origen: global-pulse
 ---
 # Tendencia automatica — Gobernanza y riesgo de la IA
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-26. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-27. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el periodo, la gobernanza y los riesgos asociados a la inteligencia artificial han tomado un rumbo de rápida expansión e integración tecnológica, con Estados Unidos autoriza a SpaceX para desplegar satélites para centros de datos de IA y avances significativos en herramientas de seguridad y ejecución de código. Sin embargo, esta expansión trae desafíos evidentes como el incremento en demanda energética y ciberataques sofisticados, que están impulsando reformas regulatorias y debates sobre control de exportaciones y liderazgo en el sector.
+Durante el periodo, el enfoque en la gobernanza y riesgos de la inteligencia artificial ha mostrado un aumento en la implementación tecnológica y la expansión rápida, evidenciada por la autorización para desplegar satélites de IA en el espacio y el crecimiento en demanda de ciberseguridad. Paralelamente, emergen preocupaciones por la seguridad y la eficiencia energética, con incidentes de ciberataques y la proyección de un aumento significativo en consumo eléctrico, lo que genera un debate sobre regulaciones y controles, especialmente en la exportación de tecnologías sensibles como los chips de IA a China. La evolución apunta hacia una mayor integración de la IA en infraestructuras críticas y un fuerte impulso hacia alianzas estratégicas y mercados financieros, aunque con desafíos geopolíticos y éticos a resolver.
 
 ## Trend summary (EN)
-During the period, governance and risks related to artificial intelligence have moved towards rapid expansion and technological integration, with the US authorizing SpaceX to deploy satellites for AI data centers and significant advances in security tools and code execution environments. However, this expansion brings clear challenges such as increased energy demand and sophisticated cyberattacks, driving regulatory reforms and debates on export controls and leadership in the sector.
+Throughout the period, the focus on AI governance and risks has seen increased technological deployment and rapid expansion, exemplified by the authorization to deploy AI satellites in space and growing demand for cybersecurity. Concurrently, security and energy efficiency concerns arise, highlighted by cyberattack incidents and a projected significant increase in electricity consumption, sparking debates on regulations and controls, particularly regarding the export of sensitive AI technologies like chips to China. The evolution points to deeper AI integration in critical infrastructures and strong pushes towards strategic alliances and financial markets, albeit with geopolitical and ethical challenges to address.
 
 > [!note] Estado actual
-> Recientemente, Estados Unidos autorizó a SpaceX a desplegar un millón de satélites para centros de datos IA en el espacio, reflejando un enfoque hacia la expansión tecnológica y la eficiencia energética.
+> La última novedad es la autorización a SpaceX para desplegar un millón de satélites dedicados a centros de datos de IA en el espacio, reflejando el avance hacia infraestructuras masivas y distribuidas para inteligencia artificial.
 
-## Nodos recientes (16 en la ventana)
+## Nodos recientes (15 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
 | 2026-11-26 | 80 | K2 | EE. UU. autoriza a SpaceX a desplegar un millón de satélites par |

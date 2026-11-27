@@ -2,28 +2,30 @@
 titulo: "Tendencia automatica — Iran vs. EE.UU."
 tipo: tendencia-auto
 tema: iran-eeuu
-actualizado: 2026-11-26
-nodos: 19
+actualizado: 2026-11-27
+nodos: 18
 origen: global-pulse
 ---
 # Tendencia automatica — Iran vs. EE.UU.
 
 > [!info] Reporte **generado automaticamente** cada dia por Global Pulse
 > (motor: api). Ventana: 21 dias ·
-> Actualizado: 2026-11-26. Para el analisis de autor ver la carpeta superior.
+> Actualizado: 2026-11-27. Para el analisis de autor ver la carpeta superior.
 
 ## Resumen de tendencia
-Durante el período analizado, el conflicto entre Irán y EE.UU. ha mostrado una escalada multidimensional, incluyendo ataques cibernéticos, amenazas directas al personal estadounidense y el impacto ambiental en el Golfo Pérsico. Aunque ha habido intentos diplomáticos mediadores y señales de posibles desescaladas que afectarían los precios energéticos, la situación sigue siendo tensa con movimientos militares y declaraciones firmes de liderazgo, sin avances significativos hacia una paz duradera.
+Durante finales de noviembre de 2026, las tensiones entre Irán y EE.UU. han fluctuado entre episodios de violencia y movimientos diplomáticos inciertos. A pesar de declaraciones optimistas del presidente Trump sobre el fin próximo del conflicto, continúan ataques con drones, amenazas directas a funcionarios estadounidenses y acciones de represalia cibernética, mientras se evidencian impactos humanitarios y ambientales en la región del Golfo Pérsico y Yemen. En paralelo, se observan movimientos militares y desplazamientos estratégicos en respuesta a las amenazas, sin avances concretos en procesos de paz, generando una situación inestable y con expectativas divididas sobre el futuro del conflicto.
 
 ## Trend summary (EN)
-During the analyzed period, the Iran-US conflict has exhibited a multidimensional escalation, including cyberattacks, direct threats to US personnel, and environmental impacts in the Persian Gulf. While diplomatic mediation efforts and signals of possible de-escalations affecting energy prices have occurred, tensions remain high with military maneuvers and strong leadership statements, with no significant progress towards lasting peace.
+During late November 2026, tensions between Iran and the U.S. have fluctuated between episodes of violence and uncertain diplomatic moves. Despite President Trump's optimistic statements about a forthcoming end to the conflict, drone attacks, direct threats to U.S. officials, and cyber retaliation persist, alongside humanitarian and environmental impacts in the Persian Gulf and Yemen regions. Meanwhile, military movements and strategic repositioning in response to threats continue without concrete progress in peace efforts, resulting in an unstable situation with divided expectations about the conflict's future.
 
 > [!note] Estado actual
-> La situación más reciente sigue siendo tensa con amenazas iraníes que obligaron a la reubicación de oficiales estadounidenses y sin avances concretos en las negociaciones de paz.
+> El último reporte destaca un ataque con drones en Kuwait que causó muertes y la declaración de Trump señalando que la guerra con Irán terminará «cuando él quiera.»
 
-## Nodos recientes (19 en la ventana)
+## Nodos recientes (18 en la ventana)
 | Fecha | Impacto | K | Nodo |
 |---|---|---|---|
+| 2026-11-27 | 85 | K1 | Dos italianos muertos en ataque con drones en Kuwait; Trump dice |
+| 2026-11-27 | 80 | K1 | Ataque saudí mata a 11 civiles en Taiz, Yemen: medios hutíes |
 | 2026-11-25 | 60 | K0 | Zonas costeras en Inglaterra con riesgo de erosión recibirán £11 |
 | 2026-11-21 | 50 | K1 | Vida en la ciudad sitiada yemení de Taiz |
 | 2026-11-20 | 75 | K1 | Conflicto en Irán provoca contaminación ambiental en el Golfo Pé |
@@ -34,7 +36,5 @@ During the analyzed period, the Iran-US conflict has exhibited a multidimensiona
 | 2026-11-10 | 70 | K0 | Francia acusa a Irán de ciberataques contra refrigeradores de su |
 | 2026-11-10 | 64 | K0 | Brent cae bajo $90 por primera vez desde agosto ante esperanzas  |
 | 2026-11-10 | 63 | K0 | EE.UU. retira aviones de otra base británica por presuntas amena |
-| 2026-11-09 | 55 | K1 | Primer ministro de Catar se reúne con Trump en medio de estancam |
-| 2026-11-09 | 45 | K1 | Tormentas provocan inundaciones mortales en Irak e Irán mientras |
 
 [[Global Brain — Inicio|← Inicio]]
